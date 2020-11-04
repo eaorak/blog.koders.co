@@ -1,0 +1,20 @@
+name: "Update blog"
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-go@v2
+        with:
+          go-version: '1.15'
+      - run: go run update/main.go --apiKey=${{ secrets.API_KEY }}
+      - name: Commit update
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "Automated update"
+          git push
