@@ -10,6 +10,7 @@ import PostTitle from "../../components/post-title"
 import Head from "next/head"
 import markdownToHtml from "../../lib/markdownToHtml"
 import PostType from "../../types/post"
+import Avatar from "../../components/avatar"
 
 type Props = {
   post: PostType
@@ -35,14 +36,12 @@ const Post = ({ post, morePosts, preview }: Props) => {
                 <title>{post.title} | Intuitech Blog</title>
                 <meta property='og:image' content={post.ogImage.url} />
               </Head>
-              <PostHeader
-                title={post.title}
-                coverImage={`${post.coverImage}`}
-                date={post.date}
-                author={post.author}
-              />
+              <PostHeader title={post.title} coverImage={`${post.coverImage}`} date={post.date} author={post.author} />
               <PostBody content={post.content} />
             </article>
+            <div className='hidden md:block md:mb-12'>
+              <Avatar name={post.author.name} picture={`../${post.author.picture}`} />
+            </div>
           </>
         )}
       </Container>

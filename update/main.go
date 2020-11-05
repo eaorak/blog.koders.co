@@ -104,8 +104,8 @@ excerpt: "{{html .Description}}"
 date: "2020-08-13"
 coverImage: "{{.CoverImage}}"
 author:
-  name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  name: Intuitech
+  picture: "assets/blog/authors/intuitech.png"
 ogImage:
   url: "{{.CoverImage}}"
 ---

@@ -11,7 +11,6 @@ const Header = () => {
           className='cursor-pointer'
         />
       </Link>
-      .
     </h2>
   )
 }
