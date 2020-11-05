@@ -9,10 +9,14 @@ import (
 	"net/http"
 	"os"
 	"path/filepath"
+	"sort"
 	"time"
 
 	"github.com/sirupsen/logrus"
 )
+
+const dailyPostCount = 5 // Daily post count fetched from dev.to API
+const maxPostCount = 500 // Maximum post count. Old posts will be deleted if total posts exceedes this number.
 
 var (
 	logger     *logrus.Entry
@@ -47,6 +51,7 @@ func main() {
 	for _, a := range articles {
 		articleMap[a.ID] = a
 	}
+	logger.Info("Articles loaded from json file: %d", len(articleMap))
 	as, err := getArticles()
 	if err != nil {
 		logger.Fatalf("Unable to fetch articles: %v", err)
@@ -59,15 +64,23 @@ func main() {
 			CoverImage:  a.CoverImage,
 			Slug:        a.Slug,
 			URL:         a.URL,
-			PublishedAt: a.PublishedAt.Format("2006-01-02"),
+			PublishDate: a.PublishedAt.Format("2006-01-02"),
+			PublishedAt: a.PublishedAt,
 		}
 	}
+	logger.Info("Articles fetched from dev.to API: %d", len(as))
 
 	var newArticles []*BlogArticle
 
 	for _, a := range articleMap {
 		newArticles = append(newArticles, a)
 	}
+	sort.Slice(newArticles, func(i, j int) bool { return newArticles[i].PublishedAt.After(newArticles[j].PublishedAt) })
+
+	if len(newArticles) > maxPostCount {
+		newArticles = newArticles[:maxPostCount]
+	}
+
 	file, _ := json.MarshalIndent(newArticles, "", " ")
 
 	err = ioutil.WriteFile("articles.json", file, 0644)
@@ -75,7 +88,11 @@ func main() {
 		logger.Fatalf("Unable to write articles: %v", err)
 	}
 
+	logger.Info("Articles writed to json file: %d", len(as))
+
 	cleanPosts()
+
+	logger.Info("_posts directory cleaned")
 
 	t := template.Must(template.New("t1").Parse(`---
 title: "{{.Title}}"
@@ -101,6 +118,7 @@ ogImage:
 			logger.Fatalf("Unable execute template: %v", err)
 		}
 	}
+	logger.Info("Blog posts created")
 }
 
 func cleanPosts() error {
@@ -123,7 +141,7 @@ func cleanPosts() error {
 }
 
 func getArticles() ([]*Article, error) {
-	url := "https://dev.to/api/articles?top=1&per_page=5"
+	url := fmt.Sprintf("https://dev.to/api/articles?top=1&per_page=%d", dailyPostCount)
 
 	client := http.Client{
 		Timeout: time.Second * 2,
@@ -201,11 +219,12 @@ type Article struct {
 }
 
 type BlogArticle struct {
-	ID          int    `json:"id"`
-	Title       string `json:"title"`
-	Description string `json:"description"`
-	CoverImage  string `json:"cover_image"`
-	Slug        string `json:"slug"`
-	URL         string `json:"url"`
-	PublishedAt string `json:"published_at"`
+	ID          int       `json:"id"`
+	Title       string    `json:"title"`
+	Description string    `json:"description"`
+	CoverImage  string    `json:"cover_image"`
+	Slug        string    `json:"slug"`
+	URL         string    `json:"url"`
+	PublishDate string    `json:"publish_date"`
+	PublishedAt time.Time `json:"published_at"`
 }
