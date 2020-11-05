@@ -7,7 +7,9 @@ const Intro = () => {
         <img src='/assets/images/m.png' alt='meftun' style={{ display: "inline-block", maxHeight: "200px" }} />
         Intuitech
       </h1>
-      <h4 className='text-center md:text-left text-lg mt-5 md:pl-8'>Software made better. For you. With you.</h4>
+      <h4 className='text-center md:text-left text-lg mt-5 md:pl-8'>
+        We support and work with great talents, for you. No matter where they are.
+      </h4>
     </section>
   )
 }

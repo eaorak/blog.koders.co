@@ -14,7 +14,7 @@ const Meta = () => {
       <meta name='msapplication-config' content='/favicon/browserconfig.xml' />
       <meta name='theme-color' content='#000' />
       <link rel='alternate' type='application/rss+xml' href='/feed.xml' />
-      <meta name='description' content={`Gözü başka bir şey görmeyen tutkulu aşık. Hayran olan.`} />
+      <meta name='description' content={`We support and work with great talents, for you. No matter where they are.`} />
       <meta property='og:image' content={HOME_OG_IMAGE_URL} />
     </Head>
   )
