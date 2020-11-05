@@ -1,5 +1,23 @@
 [
  {
+  "id": 505656,
+  "title": "How to create React Toasts/Notifications with 0 dependencies",
+  "description": "Article originally published on Tinloof.   In this article, we'll build from scratch React Notificat...",
+  "cover_image": "",
+  "slug": "how-to-create-react-toasts-notifications-with-0-dependencies-1a9n",
+  "url": "https://dev.to/seif_ghezala/how-to-create-react-toasts-notifications-with-0-dependencies-1a9n",
+  "published_at": "2020-11-03"
+ },
+ {
+  "id": 506225,
+  "title": "How to get organic traffic to your developer blog.",
+  "description": "As a new developer, I don't feel like I have a lot to share.   The reality is that I don't.   Many ti...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MKnSvjLN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f7elcgcv9zhe0pr9yjty.png",
+  "slug": "how-to-get-organic-traffic-to-your-developer-blog-go4",
+  "url": "https://dev.to/cwraytech/how-to-get-organic-traffic-to-your-developer-blog-go4",
+  "published_at": "2020-11-04"
+ },
+ {
   "id": 503745,
   "title": "The 7 Most Popular DEV Posts from the Past Week",
   "description": "A round-up of the most-read and most-loved contributions from the community this past week.",
@@ -7,6 +25,42 @@
   "slug": "the-7-most-popular-dev-posts-from-the-past-week-f89",
   "url": "https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-f89",
   "published_at": "2020-11-03"
+ },
+ {
+  "id": 505605,
+  "title": "Why PHP 8 will be awesome",
+  "description": "PHP 8 will be available very soon. It's a major version with breaking changes, but also with excellen...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T0xFxc_8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/q8lj4q3uwp2tpk5tnzx2.jpg",
+  "slug": "why-php-8-will-be-awesome-2lif",
+  "url": "https://dev.to/jmau111/why-php-8-will-be-awesome-2lif",
+  "published_at": "2020-11-03"
+ },
+ {
+  "id": 485906,
+  "title": "How to Create a Progressive Web Application With React",
+  "description": "Need expert advice on how to create a PWA with React? 😎 Check this thorough PWA development tutorial prepared by our React programmers.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zf5mnriH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7sh1y79fxjsv0c367076.jpg",
+  "slug": "how-to-create-a-progressive-web-application-with-react-539o",
+  "url": "https://dev.to/codicacom/how-to-create-a-progressive-web-application-with-react-539o",
+  "published_at": "2020-11-04"
+ },
+ {
+  "id": 505816,
+  "title": "CSS nth-child selector basics",
+  "description": "Today we'll be going back to some CSS basics. I tend to use nth-child selectors in my articles.  But...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nB-Ntxgy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1y56mtbr6rbp9wp6lq2j.jpg",
+  "slug": "css-nth-child-selector-basics-41cc",
+  "url": "https://dev.to/dailydevtips1/css-nth-child-selector-basics-41cc",
+  "published_at": "2020-11-04"
+ },
+ {
+  "id": 505815,
+  "title": "How to monetize yourself on web",
+  "description": "Monetization is something all you need and want but couldn't do with some reasons. So, here in the bl...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IRrqwJfb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mwi15pc1ddqihz5wdujo.png",
+  "slug": "how-to-monetize-yourself-on-web-3bo5",
+  "url": "https://dev.to/rahxuls/how-to-monetize-yourself-on-web-3bo5",
+  "published_at": "2020-11-04"
  },
  {
   "id": 505169,
@@ -25,23 +79,5 @@
   "slug": "ui-ux-inspiration-from-these-epic-websites-3l6l",
   "url": "https://dev.to/rahxuls/ui-ux-inspiration-from-these-epic-websites-3l6l",
   "published_at": "2020-11-04"
- },
- {
-  "id": 505605,
-  "title": "Why PHP 8 will be awesome",
-  "description": "PHP 8 will be available very soon. It's a major version with breaking changes, but also with excellen...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T0xFxc_8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/q8lj4q3uwp2tpk5tnzx2.jpg",
-  "slug": "why-php-8-will-be-awesome-2lif",
-  "url": "https://dev.to/jmau111/why-php-8-will-be-awesome-2lif",
-  "published_at": "2020-11-03"
- },
- {
-  "id": 505656,
-  "title": "How to create React Toasts/Notifications with 0 dependencies",
-  "description": "Article originally published on Tinloof.   In this article, we'll build from scratch React Notificat...",
-  "cover_image": "",
-  "slug": "how-to-create-react-toasts-notifications-with-0-dependencies-1a9n",
-  "url": "https://dev.to/seif_ghezala/how-to-create-react-toasts-notifications-with-0-dependencies-1a9n",
-  "published_at": "2020-11-03"
  }
 ]
