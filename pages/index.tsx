@@ -19,7 +19,7 @@ const Index = ({ allPosts }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Meftun.co</title>
+          <title>Intuitech Blog</title>
         </Head>
         <Container>
           <Intro />

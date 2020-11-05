@@ -94,9 +94,13 @@ func main() {
 
 	logger.Info("_posts directory cleaned")
 
-	t := template.Must(template.New("t1").Parse(`---
-title: "{{.Title}}"
-excerpt: "{{.Description}}"
+	t := template.Must(template.New("t1").Funcs(template.FuncMap{
+		"html": func(value interface{}) template.HTML {
+			return template.HTML(fmt.Sprint(value))
+		},
+	}).Parse(`---
+title: "{{html .Title}}"
+excerpt: "{{html .Description}}"
 date: "2020-08-13"
 coverImage: "{{.CoverImage}}"
 author:
@@ -105,6 +109,8 @@ author:
 ogImage:
   url: "{{.CoverImage}}"
 ---
+
+{{html .Description}}
 
 [Read more]({{.URL}})
 `))
