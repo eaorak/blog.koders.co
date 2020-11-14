@@ -1,4 +1,4 @@
-# [Intuitech Blog](https://blog.intuitech.io)
+# [Koders Blog](https://blog.koders.co)
 
 # How to Configure
 

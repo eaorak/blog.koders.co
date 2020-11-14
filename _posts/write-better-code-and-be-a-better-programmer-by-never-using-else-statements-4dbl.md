@@ -4,8 +4,8 @@ excerpt: "I've been a professional programmer for the last several years. During
 date: "2020-08-13"
 coverImage: "https://res.cloudinary.com/practicaldev/image/fetch/s--7lnTiN9P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dgls.dev/img/remote/unclear-else.png"
 author:
-  name: Intuitech
-  picture: "assets/blog/authors/intuitech.png"
+  name: Koders
+  picture: "assets/blog/authors/koders.png"
 ogImage:
   url: "https://res.cloudinary.com/practicaldev/image/fetch/s--7lnTiN9P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dgls.dev/img/remote/unclear-else.png"
 ---

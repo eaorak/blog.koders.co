@@ -4,8 +4,8 @@ excerpt: 'Hi Folks!  Most of you are familiar with "reinvent the wheel" right? Y
 date: "2020-08-13"
 coverImage: "https://res.cloudinary.com/practicaldev/image/fetch/s--Obd74fWq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/o2c9s26ww2o7mhlshwce.png"
 author:
-  name: Intuitech
-  picture: "assets/blog/authors/intuitech.png"
+  name: Koders
+  picture: "assets/blog/authors/koders.png"
 ogImage:
   url: "https://res.cloudinary.com/practicaldev/image/fetch/s--Obd74fWq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/o2c9s26ww2o7mhlshwce.png"
 ---

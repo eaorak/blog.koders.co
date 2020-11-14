@@ -4,8 +4,8 @@ excerpt: "My favorite part about side projects comes after the initial build is 
 date: "2020-08-13"
 coverImage: ""
 author:
-  name: Intuitech
-  picture: "assets/blog/authors/intuitech.png"
+  name: Koders
+  picture: "assets/blog/authors/koders.png"
 ogImage:
   url: ""
 ---

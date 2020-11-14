@@ -4,8 +4,8 @@ excerpt: "Let's admit that Dark Mode now is a thing, and people love it. It does
 date: "2020-08-13"
 coverImage: ""
 author:
-  name: Intuitech
-  picture: "assets/blog/authors/intuitech.png"
+  name: Koders
+  picture: "assets/blog/authors/koders.png"
 ogImage:
   url: ""
 ---

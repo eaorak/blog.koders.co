@@ -8,7 +8,7 @@ type Props = {
 }
 
 const CoverImage = ({ title, src, slug }: Props) => {
-  const imgSrc = src && src.length ? src : "assets/images/intuitech-blog.png"
+  const imgSrc = src && src.length ? src : "assets/images/koders-blog.png"
   const image = (
     <img
       src={imgSrc}

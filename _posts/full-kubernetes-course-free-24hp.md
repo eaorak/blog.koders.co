@@ -4,8 +4,8 @@ excerpt: "Kubernetes, also known as K8s, is an open source container orchestrati
 date: "2020-08-13"
 coverImage: "https://res.cloudinary.com/practicaldev/image/fetch/s--Mf4oAsZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z0jd5imjjfti53lfbmb8.png"
 author:
-  name: Intuitech
-  picture: "assets/blog/authors/intuitech.png"
+  name: Koders
+  picture: "assets/blog/authors/koders.png"
 ogImage:
   url: "https://res.cloudinary.com/practicaldev/image/fetch/s--Mf4oAsZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z0jd5imjjfti53lfbmb8.png"
 ---

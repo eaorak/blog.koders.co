@@ -1,4 +1,4 @@
-module github.com/noegoio/intuitech-blog
+module github.com/eaorak/blog.koders.co
 
 go 1.15
 

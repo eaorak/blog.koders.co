@@ -4,8 +4,8 @@ excerpt: "Chrome Extensions. Super helpful and makes you much more productive, a
 date: "2020-08-13"
 coverImage: ""
 author:
-  name: Intuitech
-  picture: "assets/blog/authors/intuitech.png"
+  name: Koders
+  picture: "assets/blog/authors/koders.png"
 ogImage:
   url: ""
 ---
