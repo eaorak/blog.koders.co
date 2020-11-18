@@ -1,5 +1,55 @@
 [
  {
+  "id": 517324,
+  "title": "How to write IMMUTABLE code and never get stuck debugging again",
+  "description": "I've written production code in a variety of different languages throughout my career, including Hask...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EHqe7whQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dgls.dev/img/remote/walrus.jpg",
+  "slug": "how-to-write-immutable-code-and-never-get-stuck-debugging-again-4p1",
+  "url": "https://dev.to/dglsparsons/how-to-write-immutable-code-and-never-get-stuck-debugging-again-4p1",
+  "publish_date": "2020-11-17",
+  "published_at": "2020-11-17T14:41:00Z"
+ },
+ {
+  "id": 509466,
+  "title": "Create your own Heroku with Dokku on DigitalOcean ⚡",
+  "description": "Introduction   So, you want to have your own infrastructure while having the best commoditie...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CNsvXafK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mqmf3u3399fqnmaqc18c.png",
+  "slug": "create-your-own-heroku-with-dokku-on-digitalocean-14ef",
+  "url": "https://dev.to/alejandroakbal/create-your-own-heroku-with-dokku-on-digitalocean-14ef",
+  "publish_date": "2020-11-17",
+  "published_at": "2020-11-17T13:12:17Z"
+ },
+ {
+  "id": 513037,
+  "title": "Git Intro for Beginners",
+  "description": "What is Git? Git is a free, open source distributed version control system tool designed to handle ev...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Us0h4YDh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6f7xace6cpomfitv5mnd.jpg",
+  "slug": "git-intro-for-beginners-4pem",
+  "url": "https://dev.to/kwereutosu/git-intro-for-beginners-4pem",
+  "publish_date": "2020-11-17",
+  "published_at": "2020-11-17T09:45:09Z"
+ },
+ {
+  "id": 516311,
+  "title": "The ultimate and free JavaScript resources",
+  "description": "Are you thriving to learn JavaScript? Do you want to learn again in a very interactive way? So, here...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sWhTSYPS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hg8998sc304s2kwb98c1.png",
+  "slug": "the-ultimate-and-free-javascript-resources-278i",
+  "url": "https://dev.to/rahxuls/the-ultimate-and-free-javascript-resources-278i",
+  "publish_date": "2020-11-17",
+  "published_at": "2020-11-17T07:30:06Z"
+ },
+ {
+  "id": 512358,
+  "title": "Achieve Drag \u0026 Drop in react by building a GUI",
+  "description": "Drag and drop (D\u0026amp;D) is one of the feature that users of the application like to have and develope...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9rfPvYtO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ud33w9ls2azcf4vadqmi.gif",
+  "slug": "achieve-drag-drop-in-react-by-building-a-gui-53p2",
+  "url": "https://dev.to/karthick3018/achieve-drag-drop-in-react-by-building-a-gui-53p2",
+  "publish_date": "2020-11-17",
+  "published_at": "2020-11-17T05:33:22Z"
+ },
+ {
   "id": 516057,
   "title": "10 Ways to Speed Up React Development",
   "description": "As much as I love writing React applications, I'd prefer not to. I'd rather have finished hours ago s...",
