@@ -10,6 +10,7 @@ import (
 	"os"
 	"path/filepath"
 	"sort"
+	"strings"
 	"time"
 
 	"github.com/sirupsen/logrus"
@@ -99,15 +100,15 @@ func main() {
 			return template.HTML(fmt.Sprint(value))
 		},
 	}).Parse(`---
-title: "{{html .Title}}"
-excerpt: "{{html .Description}}"
-date: "2020-08-13"
-coverImage: "{{.CoverImage}}"
+title: '{{html .Title}}'
+excerpt: '{{html .Description}}'
+date: '{{.PublishDate}}'
+coverImage: '{{.CoverImage}}'
 author:
   name: Koders
   picture: "assets/blog/authors/koders.png"
 ogImage:
-  url: "{{.CoverImage}}"
+  url: '{{.CoverImage}}'
 ---
 
 {{html .Description}}
@@ -119,6 +120,8 @@ ogImage:
 		if err != nil {
 			logger.Fatalf("Unable to write file: %v", err)
 		}
+		a.Title = strings.ReplaceAll(a.Title, "'", "''")
+		a.Description = strings.ReplaceAll(a.Description, "'", "''")
 		err = t.Execute(f, a)
 		if err != nil {
 			logger.Fatalf("Unable execute template: %v", err)
