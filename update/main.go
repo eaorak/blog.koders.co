@@ -52,7 +52,7 @@ func main() {
 	for _, a := range articles {
 		articleMap[a.ID] = a
 	}
-	logger.Info("Articles loaded from json file: %d", len(articleMap))
+	logger.Infof("Articles loaded from json file: %d", len(articleMap))
 	as, err := getArticles()
 	if err != nil {
 		logger.Fatalf("Unable to fetch articles: %v", err)
@@ -69,7 +69,7 @@ func main() {
 			PublishedAt: a.PublishedAt,
 		}
 	}
-	logger.Info("Articles fetched from dev.to API: %d", len(as))
+	logger.Infof("Articles fetched from dev.to API: %d", len(as))
 
 	var newArticles []*BlogArticle
 
@@ -89,7 +89,7 @@ func main() {
 		logger.Fatalf("Unable to write articles: %v", err)
 	}
 
-	logger.Info("Articles writed to json file: %d", len(as))
+	logger.Infof("Articles writed to json file: %d", len(as))
 
 	cleanPosts()
 
