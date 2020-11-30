@@ -1,13 +1,13 @@
 ---
-title: "How to provide estimates as a Junior Developer?"
-excerpt: "Introduction   I recently interacted with a friend who had just started out as a developer a..."
-date: "2020-08-13"
-coverImage: "https://res.cloudinary.com/practicaldev/image/fetch/s---8Xuc58R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/owkmrz8v0nqch0kzrarq.png"
+title: 'How to provide estimates as a Junior Developer?'
+excerpt: 'Introduction   I recently interacted with a friend who had just started out as a developer a...'
+date: '2020-11-13'
+coverImage: 'https://res.cloudinary.com/practicaldev/image/fetch/s---8Xuc58R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/owkmrz8v0nqch0kzrarq.png'
 author:
   name: Koders
   picture: "assets/blog/authors/koders.png"
 ogImage:
-  url: "https://res.cloudinary.com/practicaldev/image/fetch/s---8Xuc58R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/owkmrz8v0nqch0kzrarq.png"
+  url: 'https://res.cloudinary.com/practicaldev/image/fetch/s---8Xuc58R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/owkmrz8v0nqch0kzrarq.png'
 ---
 
 Introduction   I recently interacted with a friend who had just started out as a developer a...

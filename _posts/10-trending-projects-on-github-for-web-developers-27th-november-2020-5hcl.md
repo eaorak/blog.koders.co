@@ -1,13 +1,13 @@
 ---
-title: "🚀10 Trending projects on GitHub for web developers - 27th November 2020"
-excerpt: "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu..."
-date: "2020-08-13"
-coverImage: ""
+title: '🚀10 Trending projects on GitHub for web developers - 27th November 2020'
+excerpt: 'Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...'
+date: '2020-11-27'
+coverImage: ''
 author:
   name: Koders
   picture: "assets/blog/authors/koders.png"
 ogImage:
-  url: ""
+  url: ''
 ---
 
 Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...

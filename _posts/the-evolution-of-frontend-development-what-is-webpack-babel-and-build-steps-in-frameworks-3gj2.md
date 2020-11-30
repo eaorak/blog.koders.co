@@ -1,13 +1,13 @@
 ---
-title: "The Evolution of FrontEnd Development🌻: What is WebPack, Babel, and Build-steps in Frameworks."
-excerpt: "There have been several advances in the web in recent years and in this post, I will talk about the t..."
-date: "2020-08-13"
-coverImage: ""
+title: 'The Evolution of FrontEnd Development🌻: What is WebPack, Babel, and Build-steps in Frameworks.'
+excerpt: 'There have been several advances in the web in recent years and in this post, I will talk about the t...'
+date: '2020-11-15'
+coverImage: ''
 author:
   name: Koders
   picture: "assets/blog/authors/koders.png"
 ogImage:
-  url: ""
+  url: ''
 ---
 
 There have been several advances in the web in recent years and in this post, I will talk about the t...

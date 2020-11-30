@@ -1,13 +1,13 @@
 ---
-title: "My Chrome Extensions as a Web Developer"
-excerpt: "Chrome Extensions. Super helpful and makes you much more productive, all in your favourite browser. C..."
-date: "2020-08-13"
-coverImage: ""
+title: 'My Chrome Extensions as a Web Developer'
+excerpt: 'Chrome Extensions. Super helpful and makes you much more productive, all in your favourite browser. C...'
+date: '2020-11-08'
+coverImage: ''
 author:
   name: Koders
   picture: "assets/blog/authors/koders.png"
 ogImage:
-  url: ""
+  url: ''
 ---
 
 Chrome Extensions. Super helpful and makes you much more productive, all in your favourite browser. C...

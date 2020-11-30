@@ -1,13 +1,13 @@
 ---
-title: "5 useful browser extensions for front-end developers"
-excerpt: "1. Site Palette   A browser extension to create comprehensive color palettes. A must-have to..."
-date: "2020-08-13"
-coverImage: ""
+title: '5 useful browser extensions for front-end developers'
+excerpt: '1. Site Palette   A browser extension to create comprehensive color palettes. A must-have to...'
+date: '2020-11-14'
+coverImage: ''
 author:
   name: Koders
   picture: "assets/blog/authors/koders.png"
 ogImage:
-  url: ""
+  url: ''
 ---
 
 1. Site Palette   A browser extension to create comprehensive color palettes. A must-have to...

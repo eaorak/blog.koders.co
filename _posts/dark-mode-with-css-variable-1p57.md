@@ -1,15 +1,15 @@
 ---
-title: "Dark Mode with CSS Variable"
-excerpt: "Let's admit that Dark Mode now is a thing, and people love it. It does look cool, like the terminal i..."
-date: "2020-08-13"
-coverImage: ""
+title: 'Dark Mode with CSS Variable'
+excerpt: 'Let''s admit that Dark Mode now is a thing, and people love it. It does look cool, like the terminal i...'
+date: '2020-11-12'
+coverImage: ''
 author:
   name: Koders
   picture: "assets/blog/authors/koders.png"
 ogImage:
-  url: ""
+  url: ''
 ---
 
-Let's admit that Dark Mode now is a thing, and people love it. It does look cool, like the terminal i...
+Let''s admit that Dark Mode now is a thing, and people love it. It does look cool, like the terminal i...
 
 [Read more](https://dev.to/ditarahma08/dark-mode-with-css-variable-1p57)
