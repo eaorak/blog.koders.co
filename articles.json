@@ -1,5 +1,55 @@
 [
  {
+  "id": 530809,
+  "title": "The Anatomy of package.json",
+  "description": "Package.json does a lot more than list your project's dependencies. This is a guide to help you understand the clues and instructions it gives you.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T8GHknzd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1591117752671-541f3495dc93%3Fixid%3DMXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%253D%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1050%26q%3D80",
+  "slug": "the-anatomy-of-package-json-pi4",
+  "url": "https://dev.to/laurieontech/the-anatomy-of-package-json-pi4",
+  "publish_date": "2020-12-02",
+  "published_at": "2020-12-02T15:54:37Z"
+ },
+ {
+  "id": 530759,
+  "title": "A Better Way to Structure React Projects",
+  "description": "First off, if you don’t know what atomic design is, I’ll give a brief primer below but I suggest...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nockcxd0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2cw9yp3esq7l65ykg90g.jpeg",
+  "slug": "a-better-way-to-structure-react-projects-96a",
+  "url": "https://dev.to/krisguzman_dev/a-better-way-to-structure-react-projects-96a",
+  "publish_date": "2020-12-02",
+  "published_at": "2020-12-02T14:56:13Z"
+ },
+ {
+  "id": 530637,
+  "title": "Building image carousel using vanilla javaScript",
+  "description": "Hello Everyone!  I'm passionate about javascript and learn it totally from online courses. I also hav...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eqB71eK6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qir4ob8qhnrfmmuk863j.png",
+  "slug": "building-image-carousel-using-vanilla-javascript-1gfl",
+  "url": "https://dev.to/mynamejs97/building-image-carousel-using-vanilla-javascript-1gfl",
+  "publish_date": "2020-12-02",
+  "published_at": "2020-12-02T12:37:40Z"
+ },
+ {
+  "id": 529990,
+  "title": "Stonksmaster - Predict Stock prices using Python \u0026 ML 📈",
+  "description": "Newbie to Machine Learning? Need a nice initial project to get going?  You are on the right articl...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--riX02Vt7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/csa864lnduuu7jp73lsq.jpeg",
+  "slug": "stonksmaster-predict-stock-prices-using-python-ml-3hmc",
+  "url": "https://dev.to/nitdgplug/stonksmaster-predict-stock-prices-using-python-ml-3hmc",
+  "publish_date": "2020-12-02",
+  "published_at": "2020-12-02T11:49:21Z"
+ },
+ {
+  "id": 530563,
+  "title": "9 Popular GitHub Repos For Every Web Developer",
+  "description": "GitHub is the one-stop-shop for everything related to (web) development these days. Frameworks, demos...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--azoHkve4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/u4h1mkzd2qvnihx68zu9.jpg",
+  "slug": "9-popular-github-repos-for-every-web-developer-31ej",
+  "url": "https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej",
+  "publish_date": "2020-12-02",
+  "published_at": "2020-12-02T10:56:01Z"
+ },
+ {
   "id": 529910,
   "title": "10 famous Javascript libraries for Machine Learning",
   "description": "Javascript is one of the most famous languages which is used for many purposes. It is used for fronte...",
