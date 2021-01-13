@@ -1,5 +1,55 @@
 [
  {
+  "id": 569397,
+  "title": "The React Roadmap 🏁 10 Steps to Become a React Developer in 2021",
+  "description": "Learning how to become a confident React developer takes hard work, but not knowing the right way to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lZAEU3mW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4y8we90qicmqovpjjvb8.png",
+  "slug": "the-react-roadmap-10-steps-to-become-a-react-developer-in-2021-2945",
+  "url": "https://dev.to/reedbarger/the-react-roadmap-10-steps-to-become-a-react-developer-in-2021-2945",
+  "publish_date": "2021-01-12",
+  "published_at": "2021-01-12T16:20:09Z"
+ },
+ {
+  "id": 569337,
+  "title": "Serverless Containers with Next.js, AWS Fargate, and AWS Amplify",
+  "description": "How to deploy a Next.js app to AWS Fargate with a custom domain using the Amplify CLI.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--igqH02xO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/e3z867s8whx56f9zzizr.jpg",
+  "slug": "serverless-containers-with-next-js-aws-fargate-and-aws-amplify-17fe",
+  "url": "https://dev.to/dabit3/serverless-containers-with-next-js-aws-fargate-and-aws-amplify-17fe",
+  "publish_date": "2021-01-12",
+  "published_at": "2021-01-12T13:49:23Z"
+ },
+ {
+  "id": 569686,
+  "title": "Linux Basics ",
+  "description": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel developed by L...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RZfjuUVK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ork3nnv4qdt3oedyh12f.png",
+  "slug": "linux-basics-2onj",
+  "url": "https://dev.to/rudrakshi99/linux-basics-2onj",
+  "publish_date": "2021-01-12",
+  "published_at": "2021-01-12T13:44:42Z"
+ },
+ {
+  "id": 569447,
+  "title": "10 ways to use the spread operator in JavaScript",
+  "description": "I'm sure you've heard of the spread operator in JavaScript (...), it's one of the most powerful opera...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--THhED3o3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/273q4l65frdl456llh7v.jpg",
+  "slug": "10-ways-to-use-the-spread-operator-in-javascript-1imb",
+  "url": "https://dev.to/dailydevtips1/10-ways-to-use-the-spread-operator-in-javascript-1imb",
+  "publish_date": "2021-01-12",
+  "published_at": "2021-01-12T07:30:06Z"
+ },
+ {
+  "id": 569429,
+  "title": "Ultimate JavaScript CheatSheet",
+  "description": "Cheat Sheets our something developers need always for reference. So here I have compiled many JavaScr...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FmjvI22g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vzhh6jm55hk8c6mp85rt.png",
+  "slug": "ultimate-javascript-cheatsheet-for-2021-41f6",
+  "url": "https://dev.to/rahxuls/ultimate-javascript-cheatsheet-for-2021-41f6",
+  "publish_date": "2021-01-12",
+  "published_at": "2021-01-12T06:54:21Z"
+ },
+ {
   "id": 568356,
   "title": "Nginx concepts I wish I knew years ago",
   "description": "Nginx is a web server that is used as a reverse proxy, load balancer, mail proxy, and HTTP cache and...",
