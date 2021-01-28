@@ -1,5 +1,55 @@
 [
  {
+  "id": 584017,
+  "title": "Using Framer Motion to make page transitions in React",
+  "description": "In this short tutorial, we'll be learning how we can use the AnimatePresence component provided by Fr...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGX-vzdp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d6g7kilporw0m2tddb2i.png",
+  "slug": "using-framer-motion-to-make-page-transitions-in-react-5ma",
+  "url": "https://dev.to/sam_piggott/using-framer-motion-to-make-page-transitions-in-react-5ma",
+  "publish_date": "2021-01-27",
+  "published_at": "2021-01-27T13:10:23Z"
+ },
+ {
+  "id": 583963,
+  "title": "Build a User Profile Avatar Generator with JavaScript 🧑👩‍💻",
+  "description": "Let's take a look at how to generate user avatars for the web using some client-side JavaScript. The...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RQ9DWrEc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/kok89082xtjma22joqnz.jpg",
+  "slug": "build-a-user-profile-avatar-generator-with-javascript-436m",
+  "url": "https://dev.to/dcodeyt/build-a-user-profile-avatar-generator-with-javascript-436m",
+  "publish_date": "2021-01-27",
+  "published_at": "2021-01-27T10:45:13Z"
+ },
+ {
+  "id": 583959,
+  "title": "A Complete Guide to Creating a Chrome Extension",
+  "description": "In this guide we are going to create Blinknotes, a lightweight app that uses NLP to summarize anythin...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wrdN5CmM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ti0alq40zvjd2km7zzpv.jpg",
+  "slug": "a-complete-guide-to-creating-a-chrome-extension-4a87",
+  "url": "https://dev.to/paymon123/a-complete-guide-to-creating-a-chrome-extension-4a87",
+  "publish_date": "2021-01-27",
+  "published_at": "2021-01-27T10:13:47Z"
+ },
+ {
+  "id": 581867,
+  "title": "Become a Better Programmer: 5 Essential Methods at a Glance",
+  "description": "1. Unit Testing   Why? Every programmer has experienced something like this: you change a bi...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ANE9WooT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/yho0xp36v7ausbmbdgyq.png",
+  "slug": "become-a-better-programmer-5-essential-methods-at-a-glance-25bh",
+  "url": "https://dev.to/gittower/become-a-better-programmer-5-essential-methods-at-a-glance-25bh",
+  "publish_date": "2021-01-27",
+  "published_at": "2021-01-27T08:35:21Z"
+ },
+ {
+  "id": 583702,
+  "title": "How to Build a Skeleton Layout in React",
+  "description": "The use of a Skeleton Layout for asynchronous content is becoming more and more popular across mobile...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--haMM5uME--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fw8lzvoncas2pvemp16v.png",
+  "slug": "how-to-build-a-skeleton-layout-in-react-21hb",
+  "url": "https://dev.to/lukekyl/how-to-build-a-skeleton-layout-in-react-21hb",
+  "publish_date": "2021-01-27",
+  "published_at": "2021-01-27T03:16:18Z"
+ },
+ {
   "id": 583086,
   "title": "How I setup my Development Environment on macOS 2021 Edition",
   "description": "Current Full-Stack Developer Technical Stack 2021  Front-End: HTML, CSS,  JavaScript, Typescript, Rea...",
