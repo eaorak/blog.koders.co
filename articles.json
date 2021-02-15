@@ -1,5 +1,55 @@
 [
  {
+  "id": 603476,
+  "title": "React Templates - A curated list with FREE projects",
+  "description": "This article presents a curated list with modern, open-source React Templates actively supported and versioned by their vendors",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zdPYr8lD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/admin-dashboards/react-templates/main/media/react-template-paper-kit.png",
+  "slug": "react-templates-a-curated-list-with-free-projects-4kc",
+  "url": "https://dev.to/sm0ke/react-templates-a-curated-list-with-free-projects-4kc",
+  "publish_date": "2021-02-14",
+  "published_at": "2021-02-14T16:27:43Z"
+ },
+ {
+  "id": 603417,
+  "title": "Dos \u0026 Don'ts For Resetting CSS",
+  "description": "Why reset CSS ?    Main reason is to fix any inconsistencies with default styles between dif...",
+  "cover_image": "",
+  "slug": "dos-don-ts-for-resetting-css-1olf",
+  "url": "https://dev.to/deyrupak/dos-don-ts-for-resetting-css-1olf",
+  "publish_date": "2021-02-14",
+  "published_at": "2021-02-14T13:30:52Z"
+ },
+ {
+  "id": 602728,
+  "title": "Why you should drop ExpressJS in 2021",
+  "description": "Express is currently, and for many years, the de-facto library in the Node.js ecosystem. When you are...",
+  "cover_image": "",
+  "slug": "why-you-should-drop-expressjs-in-2021-711",
+  "url": "https://dev.to/romainlanz/why-you-should-drop-expressjs-in-2021-711",
+  "publish_date": "2021-02-14",
+  "published_at": "2021-02-14T08:02:36Z"
+ },
+ {
+  "id": 603144,
+  "title": "Authentication \u0026 Authorization in Microservices Architecture - Part I",
+  "description": "About Behalf   Behalf facilitates in-purchase financing for B2B buyers and sellers. As a fin...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yBgFbE5J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/laihaacl8t4legylcyxm.png",
+  "slug": "authentication-authorization-in-microservices-architecture-part-i-2cn0",
+  "url": "https://dev.to/behalf/authentication-authorization-in-microservices-architecture-part-i-2cn0",
+  "publish_date": "2021-02-14",
+  "published_at": "2021-02-14T07:42:05Z"
+ },
+ {
+  "id": 603109,
+  "title": "100 most asked JavaScript Interview Questions and Answers - Part 1",
+  "description": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with fir...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WPbMEH0Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/473rdf0galv1wgtsz297.png",
+  "slug": "100-most-asked-javascript-interview-questions-and-answers-part-1-443o",
+  "url": "https://dev.to/letstechtalks/100-most-asked-javascript-interview-questions-and-answers-part-1-443o",
+  "publish_date": "2021-02-14",
+  "published_at": "2021-02-14T05:17:52Z"
+ },
+ {
   "id": 602297,
   "title": "THINGS TO REMEMBER WHILE CREATING YOUR PORTFOLIO WEBSITE",
   "description": "A Portfolio website is your reflection, your way to show off projects and skills. Currently, I am als...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ajayneman45/5-tips-to-work-smart-h19",
   "publish_date": "2020-11-07",
   "published_at": "2020-11-07T10:24:15Z"
- },
- {
-  "id": 508745,
-  "title": "how to perform real-time vehicle detection in python ",
-  "description": "Hi guys,  In this article, I will guide you on how to do real-time vehicle detection in python using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wQ0meHum--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cnrmbk8p32fkvej853fg.jpg",
-  "slug": "how-to-perform-real-time-vehicle-detection-in-python-4i9h",
-  "url": "https://dev.to/kalebu/how-to-perform-real-time-vehicle-detection-in-python-4i9h",
-  "publish_date": "2020-11-07",
-  "published_at": "2020-11-07T09:42:59Z"
- },
- {
-  "id": 508726,
-  "title": "Freelancing Tips From My First Experience",
-  "description": "Freelancing can be challenging, especially for those who are just starting, with no or low reviews wh...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fXwEPUsO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/wjz3a2431rom1ndfif6r.PNG",
-  "slug": "freelancing-tips-from-my-first-experience-2en1",
-  "url": "https://dev.to/dejanmt/freelancing-tips-from-my-first-experience-2en1",
-  "publish_date": "2020-11-07",
-  "published_at": "2020-11-07T09:16:01Z"
- },
- {
-  "id": 508673,
-  "title": "Create and deploy an Express NodeJS with UI using Vercel (Free)",
-  "description": "Disclosure: I have no affiliation or investment in any company mentioned in this post. This is just m...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B6bkcP55--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1555963153-11ff60182d08%3Fixlib%3Drb-1.2.1%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26auto%3Dformat%26fit%3Dcrop%26w%3D1024%26q%3D80",
-  "slug": "create-and-deploy-an-express-nodejs-app-using-vercel-free-1gnn",
-  "url": "https://dev.to/ngduc/create-and-deploy-an-express-nodejs-app-using-vercel-free-1gnn",
-  "publish_date": "2020-11-07",
-  "published_at": "2020-11-07T07:48:36Z"
- },
- {
-  "id": 506089,
-  "title": "Full Kubernetes Course [FREE] 🎉",
-  "description": "Kubernetes, also known as K8s, is an open source container orchestration platform that automates many...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mf4oAsZ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z0jd5imjjfti53lfbmb8.png",
-  "slug": "full-kubernetes-course-free-24hp",
-  "url": "https://dev.to/techworld_with_nana/full-kubernetes-course-free-24hp",
-  "publish_date": "2020-11-06",
-  "published_at": "2020-11-06T15:59:12Z"
- },
- {
-  "id": 508070,
-  "title": "Simple Chrome Extensions That Make My Work a Bit Easier",
-  "description": "No time for introductions!   I've been front-end-ing for a while.   Here are some of the extensions t...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C2FXpqm---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/i1vt15wo64s04covq0er.jpg",
-  "slug": "simple-chrome-extensions-that-make-my-work-a-bit-easier-421b",
-  "url": "https://dev.to/vtrpldn/simple-chrome-extensions-that-make-my-work-a-bit-easier-421b",
-  "publish_date": "2020-11-06",
-  "published_at": "2020-11-06T13:57:14Z"
  }
 ]
