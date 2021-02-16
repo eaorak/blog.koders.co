@@ -1,5 +1,55 @@
 [
  {
+  "id": 603479,
+  "title": "Mastering NPM Scripts",
+  "description": "In this article, I'll share with you my research about how to take full advantage of NPM scripts.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QfqqW5fw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/oKamQoX.png",
+  "slug": "mastering-npm-scripts-2chd",
+  "url": "https://dev.to/paulasantamaria/mastering-npm-scripts-2chd",
+  "publish_date": "2021-02-15",
+  "published_at": "2021-02-15T13:15:23Z"
+ },
+ {
+  "id": 604400,
+  "title": "8 Node.js Projects To Keep An Eye On 2021",
+  "description": "1. Cytoscape.js     An open-source JavaScript library used for visualization and graph analy...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SdaKGBH8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qf8uouuhasx4un1wlw5c.png",
+  "slug": "8-node-js-projects-to-keep-an-eye-on-2021-229",
+  "url": "https://dev.to/uiuxarghya/8-node-js-projects-to-keep-an-eye-on-2021-229",
+  "publish_date": "2021-02-15",
+  "published_at": "2021-02-15T12:57:35Z"
+ },
+ {
+  "id": 604311,
+  "title": "Responsive hexagon grid without media query",
+  "description": "I know there is a ton of articles detailing how to create hexagon grid but how many of them are respo...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wGWnlsN8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hote9zyrdk6gkdw6f8hw.png",
+  "slug": "responsive-hexagon-grid-without-media-query-57g7",
+  "url": "https://dev.to/afif/responsive-hexagon-grid-without-media-query-57g7",
+  "publish_date": "2021-02-15",
+  "published_at": "2021-02-15T11:34:26Z"
+ },
+ {
+  "id": 604127,
+  "title": "Algorithms Every Programmer Should Know",
+  "description": "Introduction   Hello Guys, Today I am going to start a series named \"Algorithm Every Program...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---rNOJWTG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vn29ndsu8k3ngt0oqwcm.png",
+  "slug": "algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3",
+  "url": "https://dev.to/surajondev/algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3",
+  "publish_date": "2021-02-15",
+  "published_at": "2021-02-15T08:07:34Z"
+ },
+ {
+  "id": 508787,
+  "title": "Intersection Observer using React",
+  "description": "Today we are gonna explore how to use the intersection observer API in React and see some useful exam...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kT5dsnhe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/9kp1omgdk5i2iqb65f7d.jpg",
+  "slug": "intersection-observer-using-react-49ko",
+  "url": "https://dev.to/producthackers/intersection-observer-using-react-49ko",
+  "publish_date": "2021-02-15",
+  "published_at": "2021-02-15T07:57:50Z"
+ },
+ {
   "id": 603476,
   "title": "React Templates - A curated list with FREE projects",
   "description": "This article presents a curated list with modern, open-source React Templates actively supported and versioned by their vendors",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/hb/my-chrome-extensions-as-a-web-developer-41",
   "publish_date": "2020-11-08",
   "published_at": "2020-11-08T12:00:31Z"
- },
- {
-  "id": 509445,
-  "title": "20 More Free Design Resources for Developers",
-  "description": "In continuation of the previous  post, here are 30+ more free design resources for developers....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0WADX3p_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7ehgbc3cogi82ba1cg5t.png",
-  "slug": "20-more-free-design-resources-for-developers-2ghk",
-  "url": "https://dev.to/moeminm/20-more-free-design-resources-for-developers-2ghk",
-  "publish_date": "2020-11-08",
-  "published_at": "2020-11-08T10:16:31Z"
- },
- {
-  "id": 509384,
-  "title": "Design Resources For Developers",
-  "description": "A curated list of FREE design \u0026amp; UI resources for developers including stock photos, templates, f...",
-  "cover_image": "",
-  "slug": "design-resources-for-developers-5alm",
-  "url": "https://dev.to/dip15739/design-resources-for-developers-5alm",
-  "publish_date": "2020-11-08",
-  "published_at": "2020-11-08T07:21:59Z"
- },
- {
-  "id": 509263,
-  "title": "Lottie Animations for React",
-  "description": "Who doesn't love animations? They're fun, engaging, and versatile. In this post, I will introduce Lot...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iCHOnKVL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vm5cwprcm74uxsmn4bj1.jpg",
-  "slug": "lottie-animations-for-react-1c9l",
-  "url": "https://dev.to/proiacm/lottie-animations-for-react-1c9l",
-  "publish_date": "2020-11-08",
-  "published_at": "2020-11-08T02:16:55Z"
- },
- {
-  "id": 509013,
-  "title": "🐧 Linux admin skills tree",
-  "description": "Skills tree Linux administrator            Top 2 levels of nodes of skill tree:    You may...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T06Uopr6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2e4mrpqgqp5njikrhd8l.jpeg",
-  "slug": "linux-admin-skills-tree-137l",
-  "url": "https://dev.to/roadmaps/linux-admin-skills-tree-137l",
-  "publish_date": "2020-11-07",
-  "published_at": "2020-11-07T17:43:40Z"
- },
- {
-  "id": 508778,
-  "title": "5 Tips To Work Smart",
-  "description": "1\u0026gt; NO DISTRACTION :   Distractions like social media, texting, or even just the notificat...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SOsT0kP2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zhgthzvxp4opcv9xdw6h.png",
-  "slug": "5-tips-to-work-smart-h19",
-  "url": "https://dev.to/ajayneman45/5-tips-to-work-smart-h19",
-  "publish_date": "2020-11-07",
-  "published_at": "2020-11-07T10:24:15Z"
  }
 ]
