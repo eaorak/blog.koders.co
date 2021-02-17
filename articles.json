@@ -1,5 +1,55 @@
 [
  {
+  "id": 606011,
+  "title": "11 Easy UI Design Tips for Web Devs",
+  "description": "Whilst learning web development, most of us don’t have much design experience or access to a UI desig...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xHif6hhs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b33yd1o2sxrm8wvfbm1b.jpg",
+  "slug": "11-easy-ui-design-tips-for-web-devs-j3j",
+  "url": "https://dev.to/doabledanny/11-easy-ui-design-tips-for-web-devs-j3j",
+  "publish_date": "2021-02-16",
+  "published_at": "2021-02-16T18:01:24Z"
+ },
+ {
+  "id": 601866,
+  "title": "Are you a good developer already?",
+  "description": "As a trainer at click solutions, I regularly supervise trainees and students. Through appropriate onb...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z4Bfzizs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c64xv1yqmqu7hpj56odd.jpg",
+  "slug": "are-you-a-good-developer-already-3j2n",
+  "url": "https://dev.to/pfacklam/are-you-a-good-developer-already-3j2n",
+  "publish_date": "2021-02-16",
+  "published_at": "2021-02-16T13:09:25Z"
+ },
+ {
+  "id": 605697,
+  "title": "Benefits of Next JS for building websites and apps",
+  "description": "Introduction  The emerging need for innovation in online experience is pushing modern technologies to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vFpoP-GS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rp8nfyonr1erbft5pyxo.png",
+  "slug": "benefits-of-next-js-for-building-websites-and-apps-4ep3",
+  "url": "https://dev.to/pagepro_agency/benefits-of-next-js-for-building-websites-and-apps-4ep3",
+  "publish_date": "2021-02-16",
+  "published_at": "2021-02-16T12:18:24Z"
+ },
+ {
+  "id": 605382,
+  "title": "JavaScript: Date Cheat Sheet",
+  "description": "CHEAT SHEET BOOKMARK    INTRO Declaring/Creating Date GET FUNCTIONS SET FUNCTIONS Date Conve...",
+  "cover_image": "",
+  "slug": "javascript-date-cheat-sheet-1498",
+  "url": "https://dev.to/brojenuel/javascript-date-cheat-sheet-1498",
+  "publish_date": "2021-02-16",
+  "published_at": "2021-02-16T05:30:12Z"
+ },
+ {
+  "id": 604337,
+  "title": "You can't afford not to have these!",
+  "description": "I recently watched a YouTube video that gives the MUST USE Websites \u0026amp; Tools for Web Developers. C...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--10B3b1Hc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n5twb3qd2ensk8o4tnej.jpg",
+  "slug": "you-can-t-afford-not-to-have-these-43h",
+  "url": "https://dev.to/jctechdev/you-can-t-afford-not-to-have-these-43h",
+  "publish_date": "2021-02-16",
+  "published_at": "2021-02-16T01:26:07Z"
+ },
+ {
   "id": 603479,
   "title": "Mastering NPM Scripts",
   "description": "In this article, I'll share with you my research about how to take full advantage of NPM scripts.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/koychevmomchil/the-best-39-development-tools-3loi",
   "publish_date": "2020-11-09",
   "published_at": "2020-11-09T15:30:31Z"
- },
- {
-  "id": 510230,
-  "title": "Congrats to DEV on 500K awesome users! 🌱🚀",
-  "description": "DEV.to has reached a massive milestone, hitting 500k users!  I'm also excited about the Forem! It's n...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1l-WlV9y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z2e56czk6gm714az1o89.png",
-  "slug": "congrats-to-dev-on-500k-awesome-users-1pd2",
-  "url": "https://dev.to/madza/congrats-to-dev-on-500k-awesome-users-1pd2",
-  "publish_date": "2020-11-09",
-  "published_at": "2020-11-09T11:53:15Z"
- },
- {
-  "id": 490138,
-  "title": "What are your favorite VS Code extensions?",
-  "description": "VS Code extensions let you add languages, debuggers, and tools to your installation to support your d...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vfew0rLx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.ytimg.com/vi/O1Eg29E7BGU/maxresdefault.jpg",
-  "slug": "what-are-your-favorite-vs-code-extensions-2df0",
-  "url": "https://dev.to/madza/what-are-your-favorite-vs-code-extensions-2df0",
-  "publish_date": "2020-11-09",
-  "published_at": "2020-11-09T09:36:37Z"
- },
- {
-  "id": 503570,
-  "title": "Understanding Docker: part 13 – Pass environment variables",
-  "description": "Serie of sketchnotes about Docker. Explaining in a visual way Docker principles.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P1j80pdC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cl8rmclzwfvtq50rbqqv.jpg",
-  "slug": "understanding-docker-part-13-pass-environment-variables-pb2",
-  "url": "https://dev.to/aurelievache/understanding-docker-part-13-pass-environment-variables-pb2",
-  "publish_date": "2020-11-09",
-  "published_at": "2020-11-09T07:58:34Z"
- },
- {
-  "id": 509769,
-  "title": "How to get a free Google server forever",
-  "description": "I first heard you could get a free Virtual Private Server instance on the Google Compute Engine from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XT57sEjJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/o9763jf3jtzm358hwmy6.png",
-  "slug": "how-to-get-a-free-google-server-forever-1fpf",
-  "url": "https://dev.to/phocks/how-to-get-a-free-google-server-forever-1fpf",
-  "publish_date": "2020-11-08",
-  "published_at": "2020-11-08T20:22:50Z"
- },
- {
-  "id": 508023,
-  "title": "My Chrome Extensions as a Web Developer",
-  "description": "Chrome Extensions. Super helpful and makes you much more productive, all in your favourite browser. C...",
-  "cover_image": "",
-  "slug": "my-chrome-extensions-as-a-web-developer-41",
-  "url": "https://dev.to/hb/my-chrome-extensions-as-a-web-developer-41",
-  "publish_date": "2020-11-08",
-  "published_at": "2020-11-08T12:00:31Z"
  }
 ]
