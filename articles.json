@@ -1,5 +1,55 @@
 [
  {
+  "id": 607930,
+  "title": "Show off your VSCode Setup 👩🏻‍💻💯",
+  "description": "Weekly VSCode Setup Show off and Few others Resources ",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mQQo0TTW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f660ncesrh7iqeebqcrx.jpg",
+  "slug": "show-off-your-vscode-setup-5no",
+  "url": "https://dev.to/xenoxdev/show-off-your-vscode-setup-5no",
+  "publish_date": "2021-02-17",
+  "published_at": "2021-02-17T15:20:36Z"
+ },
+ {
+  "id": 601601,
+  "title": "Webrix.js - Building Blocks for Interactive React Apps",
+  "description": "For the past 3 years, I've been working with a great team of UI developers on one of Amdocs' flagship...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5_hWkDgD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lkb69yqrw93rvtbsxpmm.jpg",
+  "slug": "webrix-js-building-blocks-for-interactive-react-apps-4m54",
+  "url": "https://dev.to/ykadosh/webrix-js-building-blocks-for-interactive-react-apps-4m54",
+  "publish_date": "2021-02-17",
+  "published_at": "2021-02-17T12:34:40Z"
+ },
+ {
+  "id": 605459,
+  "title": "Project Structure. Repository and folders. Review of approaches.",
+  "description": "When we take the first steps in project creation, we need to make many fundamental decisions. One of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O369QEk---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05alo9m0vs6fqtblrxea.png",
+  "slug": "project-structure-repository-and-folders-review-of-approaches-4kh2",
+  "url": "https://dev.to/alexsergey/project-structure-repository-and-folders-review-of-approaches-4kh2",
+  "publish_date": "2021-02-17",
+  "published_at": "2021-02-17T12:30:32Z"
+ },
+ {
+  "id": 607535,
+  "title": "Less is more; simplify your React code to super power your applications - part 2",
+  "description": "This is the second article in a series covering different strategies to simplify your React applicati...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--77NLKfSE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3i3efgcl8y3ihrlflfdj.jpg",
+  "slug": "less-is-more-simplify-your-react-code-to-super-power-your-applications-part-2-4jam",
+  "url": "https://dev.to/jmitchell38488/less-is-more-simplify-your-react-code-to-super-power-your-applications-part-2-4jam",
+  "publish_date": "2021-02-17",
+  "published_at": "2021-02-17T07:09:33Z"
+ },
+ {
+  "id": 607513,
+  "title": "Image Optimization, Processing and Hosting",
+  "description": "Hosting images and processing them is quite complicated. It involves many elements to do this correct...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zAEuYNLK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d4yfb71e3ptdhte918we.png",
+  "slug": "image-optimization-processing-and-hosting-2fl6",
+  "url": "https://dev.to/xpromx/image-optimization-processing-and-hosting-2fl6",
+  "publish_date": "2021-02-17",
+  "published_at": "2021-02-17T06:30:37Z"
+ },
+ {
   "id": 606011,
   "title": "11 Easy UI Design Tips for Web Devs",
   "description": "Whilst learning web development, most of us don’t have much design experience or access to a UI desig...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dglsparsons/write-better-code-and-be-a-better-programmer-by-never-using-else-statements-4dbl",
   "publish_date": "2020-11-10",
   "published_at": "2020-11-10T13:26:00Z"
- },
- {
-  "id": 510827,
-  "title": "Why CSS :focus-within is amazing",
-  "description": "This is not a :focus selector, which will highlight when you focus on an element. But a selector to f...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SjAY6XLS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y4gcu8ywjay7rezkpl97.jpg",
-  "slug": "why-css-focus-within-is-amazing-27p8",
-  "url": "https://dev.to/dailydevtips1/why-css-focus-within-is-amazing-27p8",
-  "publish_date": "2020-11-10",
-  "published_at": "2020-11-10T04:40:29Z"
- },
- {
-  "id": 510812,
-  "title": "Introducing AdonisJS",
-  "description": "Hello everyone 👋. I am Aman Virk, the creator of AdonisJS (a fully-featured web framework for Node.js...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---52BqPT9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ncptmy59im05sf9xwcr4.jpg",
-  "slug": "introducing-adonisjs-28af",
-  "url": "https://dev.to/amanvirk1/introducing-adonisjs-28af",
-  "publish_date": "2020-11-10",
-  "published_at": "2020-11-10T04:35:37Z"
- },
- {
-  "id": 510746,
-  "title": "Structuring your SASS projects",
-  "description": "Let’s take a look at how we can structure our Sass projects!  As projects grow and expand, the need t...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kZFJTqvQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/0lmqavis1sfxmzknhngc.jpg",
-  "slug": "structuring-your-sass-projects-50cm",
-  "url": "https://dev.to/timothyrobards/structuring-your-sass-projects-50cm",
-  "publish_date": "2020-11-10",
-  "published_at": "2020-11-10T00:52:00Z"
- },
- {
-  "id": 508736,
-  "title": "How I Found a Junior Frontend Developer Job in 2 Weeks After 1 Year of Self-learning",
-  "description": "Hi, I’m Ulyana, a self-taught front-end developer switching careers from real estate analyst to tech....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---FhZ17yn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mad8dhrv1vhfbkzz392d.png",
-  "slug": "how-i-found-a-junior-frontend-developer-job-in-2-weeks-after-1-year-of-self-learning-1lbn",
-  "url": "https://dev.to/ulyavrubel/how-i-found-a-junior-frontend-developer-job-in-2-weeks-after-1-year-of-self-learning-1lbn",
-  "publish_date": "2020-11-09",
-  "published_at": "2020-11-09T18:55:07Z"
- },
- {
-  "id": 510408,
-  "title": "The Best 39 Development Tools",
-  "description": "In this article, we will review 39 of the best software development and programming tools, ranging fr...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s-qJ8Mdr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/by0y8s5dxskkz4mhj2ck.png",
-  "slug": "the-best-39-development-tools-3loi",
-  "url": "https://dev.to/koychevmomchil/the-best-39-development-tools-3loi",
-  "publish_date": "2020-11-09",
-  "published_at": "2020-11-09T15:30:31Z"
  }
 ]
