@@ -1,5 +1,55 @@
 [
  {
+  "id": 613510,
+  "title": "CSS Shapes with rounded corners",
+  "description": "A quick trick to create any kind of shape having rounded corners.           1. Build the shape   For...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tYMGdz82--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/letmrzhelpi7uq0sd0d0.png",
+  "slug": "css-shapes-with-rounded-corners-56h",
+  "url": "https://dev.to/afif/css-shapes-with-rounded-corners-56h",
+  "publish_date": "2021-02-21",
+  "published_at": "2021-02-21T09:12:30Z"
+ },
+ {
+  "id": 611535,
+  "title": "HTML tags Cheat Sheet",
+  "description": "Hello World! Today I created for you a cheat sheet with all the html tags you may need (And a miscell...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DmEf4yvw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2a8w3p85sh90zgdcwnqi.png",
+  "slug": "html-tags-cheat-sheet-pip",
+  "url": "https://dev.to/devlorenzo/html-tags-cheat-sheet-pip",
+  "publish_date": "2021-02-21",
+  "published_at": "2021-02-21T08:54:23Z"
+ },
+ {
+  "id": 613429,
+  "title": "My productivity setup ( VS Code )",
+  "description": "In this post I am gonna show you my personal vs code setup! Which makes me more productive. And gives...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BJTH7rCs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6ajei48b9yfwabqex57.jpg",
+  "slug": "my-productivity-setup-vs-code-4o9d",
+  "url": "https://dev.to/ratuloss/my-productivity-setup-vs-code-4o9d",
+  "publish_date": "2021-02-21",
+  "published_at": "2021-02-21T06:49:24Z"
+ },
+ {
+  "id": 613434,
+  "title": "Project 49 of 100 - Search with Autocomplete",
+  "description": "Hey! I'm on a mission to make 100 React.js projects ending March 31st. Please follow my dev.to profil...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--njI9G1ho--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3qoc213ifc2oh4gry0a4.png",
+  "slug": "project-49-of-100-search-with-autocomplete-5g5f",
+  "url": "https://dev.to/jwhubert91/project-49-of-100-search-with-autocomplete-5g5f",
+  "publish_date": "2021-02-21",
+  "published_at": "2021-02-21T06:20:38Z"
+ },
+ {
+  "id": 612593,
+  "title": "Dark Mode using CSS variables",
+  "description": "What is Dark Mode?   Dark mode, also called Light-on-dark color scheme, is a color scheme th...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e1BspuWw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yh3l1o5uuvja7yg1mgqt.png",
+  "slug": "dark-mode-using-css-variables-1m3",
+  "url": "https://dev.to/ruppysuppy/dark-mode-using-css-variables-1m3",
+  "publish_date": "2021-02-21",
+  "published_at": "2021-02-21T05:53:03Z"
+ },
+ {
   "id": 612975,
   "title": "Build Job Listing Website in React JS",
   "description": "Hi there,  I wanted to create something interactive in ReactJS. So I tried to build this Job Listing...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ziadalzarka/optimize-react-apps-pagespeed-insights-score-40o4",
   "publish_date": "2020-11-14",
   "published_at": "2020-11-14T12:16:19Z"
- },
- {
-  "id": 466286,
-  "title": "Why You Should Start Contributing to Open Source Software Right Now",
-  "description": "You might not be aware of it, but you use some form of open source software every single day.  Every...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WW_b6WON--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3i13crwht7xgoz2redyi.png",
-  "slug": "why-you-should-start-contributing-to-open-source-software-right-now-3mp0",
-  "url": "https://dev.to/mhatvan/why-you-should-start-contributing-to-open-source-software-right-now-3mp0",
-  "publish_date": "2020-11-14",
-  "published_at": "2020-11-14T12:07:59Z"
- },
- {
-  "id": 495525,
-  "title": "5 useful browser extensions for front-end developers",
-  "description": "1. Site Palette   A browser extension to create comprehensive color palettes. A must-have to...",
-  "cover_image": "",
-  "slug": "5-useful-browser-extensions-for-front-end-devs-5c0d",
-  "url": "https://dev.to/vanwildemeerschbrent/5-useful-browser-extensions-for-front-end-devs-5c0d",
-  "publish_date": "2020-11-14",
-  "published_at": "2020-11-14T06:38:36Z"
- },
- {
-  "id": 513840,
-  "title": "5 Color Inspiration Website You Should Bookmark",
-  "description": "Introduction     The hardest part of a coder is to choose the color for your project which c...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lltWFMit--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/nwiaxt9oychpdmfv4rd0.png",
-  "slug": "5-color-inspiration-website-you-should-bookmark-37cm",
-  "url": "https://dev.to/surajsrv11/5-color-inspiration-website-you-should-bookmark-37cm",
-  "publish_date": "2020-11-14",
-  "published_at": "2020-11-14T03:48:02Z"
- },
- {
-  "id": 512477,
-  "title": "Story of how I built my Portfolio and Blog using DEV.to and NextJS",
-  "description": "I've always wanted to build my very own portfolio website and blog. After many years of laziness..😋,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sTgcTJkK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/kll5ply8c9d3hhjo7isr.png",
-  "slug": "story-of-how-i-built-my-portfolio-and-blog-using-dev-to-and-nextjs-3j85",
-  "url": "https://dev.to/sidthesloth92/story-of-how-i-built-my-portfolio-and-blog-using-dev-to-and-nextjs-3j85",
-  "publish_date": "2020-11-13",
-  "published_at": "2020-11-13T16:07:47Z"
- },
- {
-  "id": 513931,
-  "title": "Zsh + Antigen + Oh my Zsh = A Beautiful, Powerful, and Robust Shell",
-  "description": "I’d already worked with default plain shell for quite a long time until I recognized that I couldn't...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pBZkuD6F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lupya7ukvkqae60sojfx.jpg",
-  "slug": "zsh-antigen-oh-my-zsh-a-beautiful-powerful-and-robust-shell-5da4",
-  "url": "https://dev.to/phuctm97/zsh-antigen-oh-my-zsh-a-beautiful-powerful-and-robust-shell-5da4",
-  "publish_date": "2020-11-13",
-  "published_at": "2020-11-13T12:10:26Z"
  }
 ]
