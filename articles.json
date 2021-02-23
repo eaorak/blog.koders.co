@@ -1,5 +1,55 @@
 [
  {
+  "id": 614857,
+  "title": "React Clean Code - Simple ways to write better and cleaner code",
+  "description": "Clean code is more than just working code. Clean code is easy to read, simple to understand, and neat...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XwaDOI1k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzc7f6iu3kemoucu2aia.jpeg",
+  "slug": "react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa",
+  "url": "https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa",
+  "publish_date": "2021-02-22",
+  "published_at": "2021-02-22T17:22:02Z"
+ },
+ {
+  "id": 614394,
+  "title": "Show Dev: free and open source Bootstrap 5 UI Kit",
+  "description": "Hello devs 👋🏻  Today I want to show you a Bootstrap 5 UI Kit which we've been working on for about a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2_jaXkjT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6dubgnvb8ga1oi24h8p.png",
+  "slug": "show-dev-free-and-open-source-bootstrap-5-ui-kit-13hn",
+  "url": "https://dev.to/themesberg/show-dev-free-and-open-source-bootstrap-5-ui-kit-13hn",
+  "publish_date": "2021-02-22",
+  "published_at": "2021-02-22T10:10:20Z"
+ },
+ {
+  "id": 614220,
+  "title": "CSS hide scrollbars",
+  "description": "Today we will be hiding scrollbars with CSS! As much as I love browser native behavior, there are use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5N1h-Zlk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7xafbwfrg5qul09lfvw9.jpg",
+  "slug": "css-hide-scrollbars-2na0",
+  "url": "https://dev.to/dailydevtips1/css-hide-scrollbars-2na0",
+  "publish_date": "2021-02-22",
+  "published_at": "2021-02-22T07:14:43Z"
+ },
+ {
+  "id": 614215,
+  "title": "7 JavaScript ES2020 Features You Should Try",
+  "description": "The ES2020 specification brought many interesting features. In this tutorial, you will learn about se...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rEF0wYJs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/krjfhsh6gp9yzo4aucd9.jpg",
+  "slug": "7-javascript-es2020-features-you-should-try-4p9d",
+  "url": "https://dev.to/alexdevero/7-javascript-es2020-features-you-should-try-4p9d",
+  "publish_date": "2021-02-22",
+  "published_at": "2021-02-22T07:08:55Z"
+ },
+ {
+  "id": 613385,
+  "title": "Cookies vs Sessions",
+  "description": "The concept of Cookies and Session is very fundamental and every developer should know this....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3PydkNxr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f0p1t6w543f2y3zflrw6.png",
+  "slug": "cookies-vs-sessions-ca5",
+  "url": "https://dev.to/rahxuls/cookies-vs-sessions-ca5",
+  "publish_date": "2021-02-22",
+  "published_at": "2021-02-22T03:47:42Z"
+ },
+ {
   "id": 613510,
   "title": "CSS Shapes with rounded corners",
   "description": "A quick trick to create any kind of shape having rounded corners.           1. Build the shape   For...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/saurabhdaware/the-evolution-of-frontend-development-what-is-webpack-babel-and-build-steps-in-frameworks-3gj2",
   "publish_date": "2020-11-15",
   "published_at": "2020-11-15T13:28:42Z"
- },
- {
-  "id": 515367,
-  "title": "Django Admin Customization - Black Dashboard",
-  "description": "How to customize the default Django Admin UI ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pDFlrah6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/app-generator/django-admin-black/main/media/django-admin-black-screen.png",
-  "slug": "django-admin-customization-black-dashboard-301c",
-  "url": "https://dev.to/sm0ke/django-admin-customization-black-dashboard-301c",
-  "publish_date": "2020-11-15",
-  "published_at": "2020-11-15T10:31:31Z"
- },
- {
-  "id": 515329,
-  "title": "Useful Linux commands ",
-  "description": "This is a list of useful Linux commands. Most of them are basic and they can be used as a reference f...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ofzUTY2j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d2n821cggbh0mpq4yynj.jpg",
-  "slug": "useful-linux-commands-3g9m",
-  "url": "https://dev.to/laxmanvijay/useful-linux-commands-3g9m",
-  "publish_date": "2020-11-15",
-  "published_at": "2020-11-15T09:38:46Z"
- },
- {
-  "id": 515203,
-  "title": "How to Contribute to Open Source Project",
-  "description": "Opensource.com asked readers a few months ago: What’s the biggest barrier to participation in open so...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kwt0Ysff--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/dg3ap20qn6h3h7maask7.png",
-  "slug": "how-to-contribute-to-open-source-project-3ojo",
-  "url": "https://dev.to/c99srs/how-to-contribute-to-open-source-project-3ojo",
-  "publish_date": "2020-11-15",
-  "published_at": "2020-11-15T05:01:03Z"
- },
- {
-  "id": 514992,
-  "title": "Clean up your code by applying these 7 rules ⚡️",
-  "description": "Readable code is maintainable code   In this short post, I will go over some of the rules th...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1SGXG1qg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/14g5ole74hpzzneuak7o.jpg",
-  "slug": "clean-up-your-code-by-applying-these-7-rules-35ee",
-  "url": "https://dev.to/joachimzeelmaekers/clean-up-your-code-by-applying-these-7-rules-35ee",
-  "publish_date": "2020-11-14",
-  "published_at": "2020-11-14T19:32:18Z"
- },
- {
-  "id": 514767,
-  "title": "Optimize React Apps PageSpeed Insights Score",
-  "description": "What we will be working on   We will be working on optimizing the website of the company I w...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--skzBko9o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6rfh22k3uuld0qgaxl7e.png",
-  "slug": "optimize-react-apps-pagespeed-insights-score-40o4",
-  "url": "https://dev.to/ziadalzarka/optimize-react-apps-pagespeed-insights-score-40o4",
-  "publish_date": "2020-11-14",
-  "published_at": "2020-11-14T12:16:19Z"
  }
 ]
