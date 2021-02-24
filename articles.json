@@ -1,5 +1,55 @@
 [
  {
+  "id": 615181,
+  "title": "Switching to Arch Linux",
+  "description": "As software developers, many of us heavily rely on Windows for our daily jobs. But a few months ago, I decided to give Linux another shot. In this article, I talk about how I manage to replace many of my daily tools to work on Linux.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q-5LIW6N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/3a26Ixo.png",
+  "slug": "switching-to-arch-linux-1hm",
+  "url": "https://dev.to/mauro_codes/switching-to-arch-linux-1hm",
+  "publish_date": "2021-02-23",
+  "published_at": "2021-02-23T11:34:13Z"
+ },
+ {
+  "id": 612728,
+  "title": "Underrated Articles on Dev.to from Last Week",
+  "description": "Hey fellow devs !  Every day thousands of articles are published on dev platforms, and sometimes, ami...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BHlqTlLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/30xfdra2xr61fuqmn6sp.png",
+  "slug": "underrated-articles-on-dev-to-from-last-week-dk5",
+  "url": "https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-dk5",
+  "publish_date": "2021-02-23",
+  "published_at": "2021-02-23T10:32:10Z"
+ },
+ {
+  "id": 611921,
+  "title": "Learn functional programing with me - Part 1 : Language choice",
+  "description": "So, I've decided to write a blog.  Sure, I could use one of many solutions out there and setup a blog...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H2jJbkMZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rxe1bqj4obxbys5sc2t.png",
+  "slug": "learn-functional-programing-with-me-part-1-language-choice-5bc1",
+  "url": "https://dev.to/oguimbal/learn-functional-programing-with-me-part-1-language-choice-5bc1",
+  "publish_date": "2021-02-23",
+  "published_at": "2021-02-23T07:56:58Z"
+ },
+ {
+  "id": 615357,
+  "title": "Some important HTML tags, one should know about",
+  "description": "There are some html tags which is which is lesser talked but has potential to reduce the developer he...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YG7arYvJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lt8j5n89ljt10i0ko2a2.jpeg",
+  "slug": "html-tags-nobody-is-talking-about-2d8i",
+  "url": "https://dev.to/amankumarsingh01/html-tags-nobody-is-talking-about-2d8i",
+  "publish_date": "2021-02-23",
+  "published_at": "2021-02-23T06:09:57Z"
+ },
+ {
+  "id": 615256,
+  "title": "25 Javascript interview questions",
+  "description": "Originaly Publshed -\u0026gt; https://www.techyniel.com/247-2/   What's the difference between undefined a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FevW4Iia--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dtz2zo83ws8dnn4kj79p.jpeg",
+  "slug": "25-javascript-interview-questions-23ph",
+  "url": "https://dev.to/techyniel/25-javascript-interview-questions-23ph",
+  "publish_date": "2021-02-23",
+  "published_at": "2021-02-23T04:12:10Z"
+ },
+ {
   "id": 614857,
   "title": "React Clean Code - Simple ways to write better and cleaner code",
   "description": "Clean code is more than just working code. Clean code is easy to read, simple to understand, and neat...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydotdev/should-you-start-a-blog-as-a-developer-2j8d",
   "publish_date": "2020-11-16",
   "published_at": "2020-11-16T13:32:50Z"
- },
- {
-  "id": 516298,
-  "title": "[12] Top 15 Resources to Learn Coding in 2020",
-  "description": "1). Frontend Masters    React, Vue, Angular, Svelte, Gatsby, Next, JS, Node, TypeScript, StoryBook, y...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0MS4VCSh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h7t4imki3wijjnendj12.png",
-  "slug": "12-top-15-resources-to-learn-coding-in-2020-21p6",
-  "url": "https://dev.to/villivald/12-top-15-resources-to-learn-coding-in-2020-21p6",
-  "publish_date": "2020-11-16",
-  "published_at": "2020-11-16T12:58:44Z"
- },
- {
-  "id": 515606,
-  "title": "Published my first NPM package - here's what I learned",
-  "description": "Two weeks ago I've published my Gatsby plugin as an NPM package. In short, I've noticed that Gatsby's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9w5FPxAK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/m3owlq0gy23b0p3slch8.jpg",
-  "slug": "published-my-first-npm-package-here-s-what-i-learned-49j6",
-  "url": "https://dev.to/adrianbdesigns/published-my-first-npm-package-here-s-what-i-learned-49j6",
-  "publish_date": "2020-11-16",
-  "published_at": "2020-11-16T06:47:34Z"
- },
- {
-  "id": 515377,
-  "title": "20 Best Coursera Certifications \u0026 Courses from Google, Facebook, IBM, Amazon AWS. Alibaba Cloud \u0026 SAS To Join in 2021",
-  "description": "These are the top Coursera certifications and courses from the world's top technology companies like Google, Facebook, IBM, SAS, Alibaba, DeepLearning.ai, etc. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aTikGBuC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/bb42ftpq19e1zrxaty34.png",
-  "slug": "20-best-coursera-certifications-courses-from-google-facebook-ibm-amazon-aws-alibaba-cloud-sas-to-join-in-2021-45j",
-  "url": "https://dev.to/javinpaul/20-best-coursera-certifications-courses-from-google-facebook-ibm-amazon-aws-alibaba-cloud-sas-to-join-in-2021-45j",
-  "publish_date": "2020-11-16",
-  "published_at": "2020-11-16T06:37:20Z"
- },
- {
-  "id": 513991,
-  "title": "What's new in PHP 8",
-  "description": "What’s New in PHP 8",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--elRT_m-x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d65mqttdwwyek6hyw3uv.jpg",
-  "slug": "what-s-new-in-php-8-2ono",
-  "url": "https://dev.to/sesha/what-s-new-in-php-8-2ono",
-  "publish_date": "2020-11-15",
-  "published_at": "2020-11-15T13:37:30Z"
- },
- {
-  "id": 502807,
-  "title": "The Evolution of FrontEnd Development🌻: What is WebPack, Babel, and Build-steps in Frameworks.",
-  "description": "There have been several advances in the web in recent years and in this post, I will talk about the t...",
-  "cover_image": "",
-  "slug": "the-evolution-of-frontend-development-what-is-webpack-babel-and-build-steps-in-frameworks-3gj2",
-  "url": "https://dev.to/saurabhdaware/the-evolution-of-frontend-development-what-is-webpack-babel-and-build-steps-in-frameworks-3gj2",
-  "publish_date": "2020-11-15",
-  "published_at": "2020-11-15T13:28:42Z"
  }
 ]
