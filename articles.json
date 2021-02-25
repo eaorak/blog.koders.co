@@ -1,5 +1,55 @@
 [
  {
+  "id": 617010,
+  "title": "The Case for Low Code",
+  "description": "Many developers don't like the idea of low or no code, yet they use tooling to dramatically lower the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zt4KSWtJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kpxue0uf87837p1ac6s6.png",
+  "slug": "the-case-for-low-code-4nki",
+  "url": "https://dev.to/aspittel/the-case-for-low-code-4nki",
+  "publish_date": "2021-02-24",
+  "published_at": "2021-02-24T16:56:40Z"
+ },
+ {
+  "id": 616826,
+  "title": "Show off your Terminal Setup 👩🏻‍💻💯",
+  "description": "Monthly Terminal Setup Show off and Few others",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oQnKNVf9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ahod8gtae6bu2yfswknq.jpg",
+  "slug": "show-off-your-terminal-setup-3c9e",
+  "url": "https://dev.to/xenoxdev/show-off-your-terminal-setup-3c9e",
+  "publish_date": "2021-02-24",
+  "published_at": "2021-02-24T13:05:42Z"
+ },
+ {
+  "id": 616777,
+  "title": "Stop using virtualenv, pyenv, nvm, goenv and Use Docker images",
+  "description": "Why I use Docker images     Using version managers like pyenv and nvm are obsolete.   For ex...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RjnKBs4f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0zz2iafd113rgv1h7f7.png",
+  "slug": "stop-using-virtualenv-pyenv-nvm-goenv-and-use-docker-images-40mn",
+  "url": "https://dev.to/javidjms/stop-using-virtualenv-pyenv-nvm-goenv-and-use-docker-images-40mn",
+  "publish_date": "2021-02-24",
+  "published_at": "2021-02-24T12:35:45Z"
+ },
+ {
+  "id": 616258,
+  "title": "Chrome extensions: Local storage",
+  "description": "Let's explore how to store data locally in our Chrome extension adding a new feature to our original example.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C3dptlnp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/C7nejI9.png",
+  "slug": "chrome-extensions-local-storage-1b34",
+  "url": "https://dev.to/paulasantamaria/chrome-extensions-local-storage-1b34",
+  "publish_date": "2021-02-24",
+  "published_at": "2021-02-24T11:34:40Z"
+ },
+ {
+  "id": 616256,
+  "title": "Web Development Bad Habits to Kick",
+  "description": "Cover photo by mohamed abdelghaffar from Pexels           1. Not Designing for Mobile First   You kno...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--twTY-ww_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5asqs3oi5tirgpb6dkl5.jpg",
+  "slug": "web-development-bad-habits-to-kick-1f0n",
+  "url": "https://dev.to/lizlaffitte/web-development-bad-habits-to-kick-1f0n",
+  "publish_date": "2021-02-24",
+  "published_at": "2021-02-24T02:11:34Z"
+ },
+ {
   "id": 615181,
   "title": "Switching to Arch Linux",
   "description": "As software developers, many of us heavily rely on Windows for our daily jobs. But a few months ago, I decided to give Linux another shot. In this article, I talk about how I manage to replace many of my daily tools to work on Linux.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alejandroakbal/create-your-own-heroku-with-dokku-on-digitalocean-14ef",
   "publish_date": "2020-11-17",
   "published_at": "2020-11-17T13:12:17Z"
- },
- {
-  "id": 513037,
-  "title": "Git Intro for Beginners",
-  "description": "What is Git? Git is a free, open source distributed version control system tool designed to handle ev...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Us0h4YDh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6f7xace6cpomfitv5mnd.jpg",
-  "slug": "git-intro-for-beginners-4pem",
-  "url": "https://dev.to/kwereutosu/git-intro-for-beginners-4pem",
-  "publish_date": "2020-11-17",
-  "published_at": "2020-11-17T09:45:09Z"
- },
- {
-  "id": 516311,
-  "title": "The ultimate and free JavaScript resources",
-  "description": "Are you thriving to learn JavaScript? Do you want to learn again in a very interactive way? So, here...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sWhTSYPS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hg8998sc304s2kwb98c1.png",
-  "slug": "the-ultimate-and-free-javascript-resources-278i",
-  "url": "https://dev.to/rahxuls/the-ultimate-and-free-javascript-resources-278i",
-  "publish_date": "2020-11-17",
-  "published_at": "2020-11-17T07:30:06Z"
- },
- {
-  "id": 512358,
-  "title": "Achieve Drag \u0026 Drop in react by building a GUI",
-  "description": "Drag and drop (D\u0026amp;D) is one of the feature that users of the application like to have and develope...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9rfPvYtO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ud33w9ls2azcf4vadqmi.gif",
-  "slug": "achieve-drag-drop-in-react-by-building-a-gui-53p2",
-  "url": "https://dev.to/karthick3018/achieve-drag-drop-in-react-by-building-a-gui-53p2",
-  "publish_date": "2020-11-17",
-  "published_at": "2020-11-17T05:33:22Z"
- },
- {
-  "id": 516057,
-  "title": "10 Ways to Speed Up React Development",
-  "description": "As much as I love writing React applications, I'd prefer not to. I'd rather have finished hours ago s...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vxgf1P7w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/98dxpiwj2it78z9s3the.jpg",
-  "slug": "10-ways-to-speed-up-react-development-3111",
-  "url": "https://dev.to/sewinter/10-ways-to-speed-up-react-development-3111",
-  "publish_date": "2020-11-16",
-  "published_at": "2020-11-16T17:37:12Z"
- },
- {
-  "id": 516056,
-  "title": "Should You Start A Blog As A Developer?",
-  "description": "There are already a plethora of blogs and tutorials on the internet. Thus, the question is - should y...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_5GgCwKb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/110tsx2amfb356lfljgc.jpg",
-  "slug": "should-you-start-a-blog-as-a-developer-2j8d",
-  "url": "https://dev.to/dailydotdev/should-you-start-a-blog-as-a-developer-2j8d",
-  "publish_date": "2020-11-16",
-  "published_at": "2020-11-16T13:32:50Z"
  }
 ]
