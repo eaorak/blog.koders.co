@@ -1,5 +1,55 @@
 [
  {
+  "id": 602129,
+  "title": "JavaScript Array Methods Explained with Emojis",
+  "description": "JavaScript has a lot of useful Array operations. If you are just as confused as me about which one to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VQgWpqVK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yhxnkv1ahgakjq5qxkx2.png",
+  "slug": "javascript-array-methods-explained-with-emojis-2amn",
+  "url": "https://dev.to/devmount/javascript-array-methods-explained-with-emojis-2amn",
+  "publish_date": "2021-02-25",
+  "published_at": "2021-02-25T12:47:19Z"
+ },
+ {
+  "id": 611743,
+  "title": "A beginner's guide to applying color in UI design",
+  "description": "Is color theory getting you down? Are you tired of the same old preset palettes? Sick of hitting “reg...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eOdXv_me--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/byvsm2g1tfsf7vr832zq.png",
+  "slug": "a-beginner-s-guide-to-applying-color-in-ui-design-3904",
+  "url": "https://dev.to/georgedoescode/a-beginner-s-guide-to-applying-color-in-ui-design-3904",
+  "publish_date": "2021-02-25",
+  "published_at": "2021-02-25T12:28:41Z"
+ },
+ {
+  "id": 617616,
+  "title": "Ultimate Cheatsheet Compilation",
+  "description": "Hi everyone 👋  Today I wanted to share with you the Ultimate Cheatsheet Compilation.  I hope aspiring...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nZ_KByFJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9neiq2xdcavi1nd01gt.png",
+  "slug": "ultimate-cheatsheet-compilation-32c9",
+  "url": "https://dev.to/palashmon/ultimate-cheatsheet-compilation-32c9",
+  "publish_date": "2021-02-25",
+  "published_at": "2021-02-25T05:43:20Z"
+ },
+ {
+  "id": 614685,
+  "title": "7 interesting HTML attributes (you may not know)",
+  "description": "A list of 7 interesting HTML attributes (you may not know)",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YMsNuO7c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kzhw0prq22yzyrrssf84.png",
+  "slug": "7-interesting-html-attributes-you-may-not-know-58j0",
+  "url": "https://dev.to/alvaromontoro/7-interesting-html-attributes-you-may-not-know-58j0",
+  "publish_date": "2021-02-25",
+  "published_at": "2021-02-25T04:54:19Z"
+ },
+ {
+  "id": 422533,
+  "title": "My career story - from 0 to Google in ~1 year",
+  "description": "Intro   This isn't a how to get into google post. I'm just going to try and give my whole st...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l7kzzjUt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mlic0f49fkkosk0c7bfv.jpg",
+  "slug": "my-career-story-from-0-to-google-in-1-year-2p8a",
+  "url": "https://dev.to/sylviapap/my-career-story-from-0-to-google-in-1-year-2p8a",
+  "publish_date": "2021-02-25",
+  "published_at": "2021-02-25T03:16:32Z"
+ },
+ {
   "id": 617010,
   "title": "The Case for Low Code",
   "description": "Many developers don't like the idea of low or no code, yet they use tooling to dramatically lower the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vtrpldn/responsive-snakes-and-what-they-can-teach-us-about-css-1o02",
   "publish_date": "2020-11-18",
   "published_at": "2020-11-18T14:44:58Z"
- },
- {
-  "id": 518052,
-  "title": "🔥 What's Hot in Web Development? — Weekly Picks #154",
-  "description": "Every week we publish the top 10 popular posts on daily.dev.  This week features interesting pieces a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2hj8H5lm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cl1v5lo3o47kpjm5cha5.jpg",
-  "slug": "what-s-hot-in-web-development-weekly-picks-154-3bal",
-  "url": "https://dev.to/dailydotdev/what-s-hot-in-web-development-weekly-picks-154-3bal",
-  "publish_date": "2020-11-18",
-  "published_at": "2020-11-18T13:27:11Z"
- },
- {
-  "id": 517439,
-  "title": "How to Make an Awesome Horizontal Parallax Animation",
-  "description": "The parallax effect creates a greater perception of depth, making movement appear more dynamic. It is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PM18Wlc2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2l5nxfosulf5gr9nf7x8.gif",
-  "slug": "how-to-make-an-awesome-horizontal-parallax-animation-3o6a",
-  "url": "https://dev.to/robole/how-to-make-an-awesome-horizontal-parallax-animation-3o6a",
-  "publish_date": "2020-11-18",
-  "published_at": "2020-11-18T10:31:38Z"
- },
- {
-  "id": 518108,
-  "title": "A React library to build Diagrams with ease ",
-  "description": "Lately I've been working on a product that easily allow to build complex and structured diagrams usin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d5pbf-WW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/o61yzi8kfsbiuupakztu.jpg",
-  "slug": "a-react-library-to-build-diagrams-with-ease-2nmp",
-  "url": "https://dev.to/antonioru/a-react-library-to-build-diagrams-with-ease-2nmp",
-  "publish_date": "2020-11-18",
-  "published_at": "2020-11-18T10:08:04Z"
- },
- {
-  "id": 517324,
-  "title": "How to write IMMUTABLE code and never get stuck debugging again",
-  "description": "I've written production code in a variety of different languages throughout my career, including Hask...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EHqe7whQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dgls.dev/img/remote/walrus.jpg",
-  "slug": "how-to-write-immutable-code-and-never-get-stuck-debugging-again-4p1",
-  "url": "https://dev.to/dglsparsons/how-to-write-immutable-code-and-never-get-stuck-debugging-again-4p1",
-  "publish_date": "2020-11-17",
-  "published_at": "2020-11-17T14:41:00Z"
- },
- {
-  "id": 509466,
-  "title": "Create your own Heroku with Dokku on DigitalOcean ⚡",
-  "description": "Introduction   So, you want to have your own infrastructure while having the best commoditie...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CNsvXafK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mqmf3u3399fqnmaqc18c.png",
-  "slug": "create-your-own-heroku-with-dokku-on-digitalocean-14ef",
-  "url": "https://dev.to/alejandroakbal/create-your-own-heroku-with-dokku-on-digitalocean-14ef",
-  "publish_date": "2020-11-17",
-  "published_at": "2020-11-17T13:12:17Z"
  }
 ]
