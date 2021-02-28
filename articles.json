@@ -1,5 +1,55 @@
 [
  {
+  "id": 620111,
+  "title": "JavaScript Important Methods \u0026 Properties Cheatsheet",
+  "description": "Hello Everyone,  Here is the list of important methods and properties in JavaScript. in this tutorial...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rp9Ahogd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4ksp97ba9chte4xe29j.png",
+  "slug": "javascript-important-methods-properties-cheatsheet-52kh",
+  "url": "https://dev.to/capscode/javascript-important-methods-properties-cheatsheet-52kh",
+  "publish_date": "2021-02-27",
+  "published_at": "2021-02-27T17:23:02Z"
+ },
+ {
+  "id": 619856,
+  "title": " You can't understand JavaScript without mastering Closure",
+  "description": "Closure is one of the features of the language that many programmers struggle to wrap their heads aro...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W1nIs8q2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tc224gk6pmba8mnidih3.jpg",
+  "slug": "you-can-t-understand-javascript-without-mastering-closure-28o0",
+  "url": "https://dev.to/coderstoolbox/you-can-t-understand-javascript-without-mastering-closure-28o0",
+  "publish_date": "2021-02-27",
+  "published_at": "2021-02-27T14:58:28Z"
+ },
+ {
+  "id": 619821,
+  "title": "Full Tutorial #9: Creating a GraphQL Mutation | Microservices Chat App Using React, Node.js, TypeScript and GraphQL\n",
+  "description": "About Me: I've been a professional web developer for just over 10 years now. I'm currently the lead w...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e7C5tZa2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hfjtgh52m4qmh8mygnje.jpg",
+  "slug": "full-tutorial-9-creating-a-graphql-mutation-microservices-chat-app-using-react-node-js-typescript-and-graphql-3j6p",
+  "url": "https://dev.to/bettercodingacademy/full-tutorial-9-creating-a-graphql-mutation-microservices-chat-app-using-react-node-js-typescript-and-graphql-3j6p",
+  "publish_date": "2021-02-27",
+  "published_at": "2021-02-27T08:41:52Z"
+ },
+ {
+  "id": 619433,
+  "title": "var, let \u0026 const in JavaScript",
+  "description": "ES2015(ES6) was released long back and one of the features that came with ES6 is the addition of let...",
+  "cover_image": "",
+  "slug": "var-let-const-in-javascript-3dne",
+  "url": "https://dev.to/kunalt96/var-let-const-in-javascript-3dne",
+  "publish_date": "2021-02-27",
+  "published_at": "2021-02-27T06:26:35Z"
+ },
+ {
+  "id": 619681,
+  "title": "Mastering responsive Web Design",
+  "description": "I haven't posted anything from the last somedays. Though I have written 12 articles related to JavaSc...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LBOZaZtz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ln0u7glk99i4x5btapzi.png",
+  "slug": "mastering-responsive-web-design-l3c",
+  "url": "https://dev.to/rahxuls/mastering-responsive-web-design-l3c",
+  "publish_date": "2021-02-27",
+  "published_at": "2021-02-27T05:03:02Z"
+ },
+ {
   "id": 618988,
   "title": "Notion 🗃️ + Bullet Journal 📕 = 𝗡𝗼𝘁𝗶𝗼𝗻 𝗕𝘂𝗹𝗹𝗲𝘁 𝗝𝗼𝘂𝗿𝗻𝗮𝗹 🚀💯✨",
   "description": "Just Launched A Notion Template with goodness on Notion and bullet Journal.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devteam/improving-the-way-dev-elevates-the-good-stuff-39an",
   "publish_date": "2020-11-20",
   "published_at": "2020-11-20T14:40:31Z"
- },
- {
-  "id": 493521,
-  "title": "CSS: Subgrids, Multi-column, \u0026 Writing Modes. 🥸",
-  "description": "Three cool topics to cover here! If you're totally new to the Cascading Style Sheets (CSS) this might...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RvLnKK1p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6h3745lk2cd7owsjh1jf.png",
-  "slug": "css-subgrids-multi-column-and-writing-modes-3jk7",
-  "url": "https://dev.to/vaibhavkhulbe/css-subgrids-multi-column-and-writing-modes-3jk7",
-  "publish_date": "2020-11-20",
-  "published_at": "2020-11-20T13:28:26Z"
- },
- {
-  "id": 520077,
-  "title": "9 VS Code Shortcuts for Faster Programming",
-  "description": "Writing code is probably the most complex task in the world, it requires physical engagement, focus,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zsM_5zya--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/xe1au41cbaka9y852squ.png",
-  "slug": "9-vs-code-shortcuts-for-faster-programming-p2a",
-  "url": "https://dev.to/christiankozalla/9-vs-code-shortcuts-for-faster-programming-p2a",
-  "publish_date": "2020-11-20",
-  "published_at": "2020-11-20T12:27:33Z"
- },
- {
-  "id": 517582,
-  "title": "Illustrated Notes on Custom React Hooks",
-  "description": "Illustrated notes on how to create and publish your own custom React hooks",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G-Ufd3kD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ckxk1dj1531gd698l9ym.png",
-  "slug": "illustrated-notes-on-custom-react-hooks-5b4a",
-  "url": "https://dev.to/egghead/illustrated-notes-on-custom-react-hooks-5b4a",
-  "publish_date": "2020-11-20",
-  "published_at": "2020-11-20T10:21:09Z"
- },
- {
-  "id": 518983,
-  "title": "Start using Git like the pros - A hands-on course for using Git in a team [FREE] ",
-  "description": "For many Junior developers, Git workflows are one of the major obstacles when joining a professional team. Get the experience BEFORE your first job. Start using Git in a real team environment.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rv9nVJv5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://jkettmann-social-card.netlify.app/.netlify/functions/create-card%3Ftitle%3DNo%2520idea%2520how%2520to%2520use%2520Git%2520in%2520a%2520professional%2520dev%2520team%3F%26description%3DPro%2520Developer%2520Courses%26website%3Dooloo.io%26width%3D1000px%26height%3D420px",
-  "slug": "start-using-git-like-the-pros-a-hands-on-course-for-using-git-in-a-team-free-204p",
-  "url": "https://dev.to/ooloo/start-using-git-like-the-pros-a-hands-on-course-for-using-git-in-a-team-free-204p",
-  "publish_date": "2020-11-19",
-  "published_at": "2020-11-19T11:52:09Z"
- },
- {
-  "id": 511892,
-  "title": "What's your favorite CSS approach?",
-  "description": "Some time ago I wrote an extended article on various approaches to styling in 2020. Some of the most...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j9NXIwFZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://disenowebakus.net/en/images/articles/learn-css.jpg",
-  "slug": "what-s-your-favorite-css-approach-h0d",
-  "url": "https://dev.to/madza/what-s-your-favorite-css-approach-h0d",
-  "publish_date": "2020-11-19",
-  "published_at": "2020-11-19T10:41:51Z"
  }
 ]
