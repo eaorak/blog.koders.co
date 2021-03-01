@@ -1,5 +1,55 @@
 [
  {
+  "id": 617522,
+  "title": "Google Keep Lite - Building Google Keep clone using reactjs",
+  "description": "This blog will explain how to create a Google Keep clone using reactjs.           Step 1            B...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UIJ-rWtg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qurdui0uny9p0c18dimb.png",
+  "slug": "google-keep-lite-building-google-keep-clone-using-reactjs-4474",
+  "url": "https://dev.to/shambhavijs/google-keep-lite-building-google-keep-clone-using-reactjs-4474",
+  "publish_date": "2021-02-28",
+  "published_at": "2021-02-28T13:49:39Z"
+ },
+ {
+  "id": 620587,
+  "title": "How to make footer stick at the bottom of web page.",
+  "description": "Problem   If you are new to web development and have created some HTML page before then you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S2f8n0g4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i4rttdp19eqxrthfzx40.png",
+  "slug": "how-to-make-footer-stick-to-bottom-of-web-page-3i14",
+  "url": "https://dev.to/nehalahmadkhan/how-to-make-footer-stick-to-bottom-of-web-page-3i14",
+  "publish_date": "2021-02-28",
+  "published_at": "2021-02-28T11:21:35Z"
+ },
+ {
+  "id": 619669,
+  "title": "CSS decoded ::before and ::after",
+  "description": "What is a Pseudo Element in CSS?   A CSS Pseudo Element is a keyword added to a selector tha...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z_kNuWir--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5vdb3hiz53ke6t57unls.png",
+  "slug": "css-decoded-before-and-after-1o56",
+  "url": "https://dev.to/ruppysuppy/css-decoded-before-and-after-1o56",
+  "publish_date": "2021-02-28",
+  "published_at": "2021-02-28T04:25:12Z"
+ },
+ {
+  "id": 620321,
+  "title": "Some Top React Interview Questions",
+  "description": "What is react?   React is an open-source JavaScript library, not a full-blown framework, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5hcL6fHA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sx07esli5pibf7nypmuv.png",
+  "slug": "some-top-react-interview-questions-3b60",
+  "url": "https://dev.to/salothom/some-top-react-interview-questions-3b60",
+  "publish_date": "2021-02-28",
+  "published_at": "2021-02-28T02:36:33Z"
+ },
+ {
+  "id": 620320,
+  "title": "How well do you know “this”?",
+  "description": "What’s “this”?   In the simplest of terms, the JavaScript keyword this refers to the object...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--79e4Tugr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qgmk6zedcl65rolz7eif.jpg",
+  "slug": "how-well-do-you-know-this-2cg1",
+  "url": "https://dev.to/anmshpndy/how-well-do-you-know-this-2cg1",
+  "publish_date": "2021-02-28",
+  "published_at": "2021-02-28T01:07:45Z"
+ },
+ {
   "id": 620111,
   "title": "JavaScript Important Methods \u0026 Properties Cheatsheet",
   "description": "Hello Everyone,  Here is the list of important methods and properties in JavaScript. in this tutorial...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sarthology/what-s-your-fav-eslint-config-and-plugin-2j2k",
   "publish_date": "2020-11-21",
   "published_at": "2020-11-21T13:50:42Z"
- },
- {
-  "id": 521318,
-  "title": "My First Sale after 10 Years as Java Blogger",
-  "description": "How I made the first sale after 10 years of blogging by creating a Java interview book - Grokking the Java interview. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g_QDZH80--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://miro.medium.com/max/557/1%2Az2nWmqI8Bv-3I_tjLq4bnQ.png",
-  "slug": "my-first-sale-after-10-years-as-java-blogger-1joi",
-  "url": "https://dev.to/javinpaul/my-first-sale-after-10-years-as-java-blogger-1joi",
-  "publish_date": "2020-11-21",
-  "published_at": "2020-11-21T13:07:30Z"
- },
- {
-  "id": 521271,
-  "title": "My First Javascript Project (Tip Calculator)",
-  "description": "I made this by watching a tutorial and I think it looks really cool. Did the 3D/Shadow effect using N...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jQlAlqLo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ja7jbvd2957b45r6idav.png",
-  "slug": "my-first-javascript-project-tip-calculator-4nhp",
-  "url": "https://dev.to/erdn0/my-first-javascript-project-tip-calculator-4nhp",
-  "publish_date": "2020-11-21",
-  "published_at": "2020-11-21T11:45:29Z"
- },
- {
-  "id": 520933,
-  "title": "Announcing TypeScript 4.1",
-  "description": "Today we're proud to release TypeScript 4.1!  If you're unfamiliar with TypeScript, it's a language t...",
-  "cover_image": "",
-  "slug": "announcing-typescript-4-1-1ld5",
-  "url": "https://dev.to/typescript/announcing-typescript-4-1-1ld5",
-  "publish_date": "2020-11-21",
-  "published_at": "2020-11-21T00:50:31Z"
- },
- {
-  "id": 520133,
-  "title": "10 JavaScript Interview Questions",
-  "description": "Note: Every question is followed by Output and a rough Explanation. Scroll at your own risk....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tmff3Y9k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/gno5pgo181extepm5bzm.png",
-  "slug": "10-javascript-interview-questions-3n6c",
-  "url": "https://dev.to/318097/10-javascript-interview-questions-3n6c",
-  "publish_date": "2020-11-20",
-  "published_at": "2020-11-20T16:27:13Z"
- },
- {
-  "id": 520171,
-  "title": "Improving the way DEV elevates the good stuff",
-  "description": "We are making a few concerted efforts to ensure the quality of the content that rises on the platform...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mSJw9swb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/i9ysl303eodpjiq5v82p.png",
-  "slug": "improving-the-way-dev-elevates-the-good-stuff-39an",
-  "url": "https://dev.to/devteam/improving-the-way-dev-elevates-the-good-stuff-39an",
-  "publish_date": "2020-11-20",
-  "published_at": "2020-11-20T14:40:31Z"
  }
 ]
