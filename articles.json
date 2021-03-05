@@ -1,5 +1,55 @@
 [
  {
+  "id": 617869,
+  "title": "5 habits every developer should adopt!",
+  "description": "If you found value in this thread you will most likely enjoy my tweets too so make sure you follow me...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nfgESA8L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1noa4mbgtu2mdjr9usql.png",
+  "slug": "5-habits-every-developer-should-adopt-1ok6",
+  "url": "https://dev.to/pascavld/5-habits-every-developer-should-adopt-1ok6",
+  "publish_date": "2021-03-04",
+  "published_at": "2021-03-04T14:14:24Z"
+ },
+ {
+  "id": 624894,
+  "title": "Finally a CSS-only solution to create masonry layouts",
+  "description": "hold on! the below feature is experimental and can be tested only on Firefox  The specification of CS...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6nsjH5M3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/taqr445c1i0vbumftdqn.png",
+  "slug": "finally-a-css-only-solution-to-create-masonry-layouts-1obh",
+  "url": "https://dev.to/afif/finally-a-css-only-solution-to-create-masonry-layouts-1obh",
+  "publish_date": "2021-03-04",
+  "published_at": "2021-03-04T12:39:33Z"
+ },
+ {
+  "id": 592359,
+  "title": "CSS Grid Cheat Sheet Illustrated in 2021🎖️",
+  "description": "Table of Contents :    Grid Architecture Parent Properties   grid-template-columns grid-temp...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6rFGdRJR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gc18fb42jzilijelslx.png",
+  "slug": "css-grid-cheat-sheet-illustrated-in-2021-1a3",
+  "url": "https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3",
+  "publish_date": "2021-03-04",
+  "published_at": "2021-03-04T09:53:30Z"
+ },
+ {
+  "id": 624674,
+  "title": "PrimeReact vs Material-UI vs Ant vs Chakra-UI vs ReactBootstrap",
+  "description": "PrimeReact  is an advanced UI component library for React. Let's see how it stacks up against the pac...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j4OFZree--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mhmqrhrcyujxhxy0yghh.jpg",
+  "slug": "primereact-vs-material-ui-vs-ant-vs-chakra-ui-vs-reactbootstrap-3opb",
+  "url": "https://dev.to/primetek/primereact-vs-material-ui-vs-ant-vs-chakra-ui-vs-reactbootstrap-3opb",
+  "publish_date": "2021-03-04",
+  "published_at": "2021-03-04T06:49:39Z"
+ },
+ {
+  "id": 621269,
+  "title": "Algorithms Every Programmer Should Know 2",
+  "description": "Introduction   Let's continue the series of \"Algorithms Every Programmer Should Know\". It is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C6gmUJve--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/avna2yoqp4ty3a8lsyp8.png",
+  "slug": "algorithms-every-programmer-should-know-2-4bg9",
+  "url": "https://dev.to/surajondev/algorithms-every-programmer-should-know-2-4bg9",
+  "publish_date": "2021-03-04",
+  "published_at": "2021-03-04T04:49:19Z"
+ },
+ {
   "id": 623890,
   "title": "Women's History Month: Computer Science Pioneers",
   "description": "Ada Lovelace — Created the first algorithm intended to be carried out by her and Charles Babbage’s pr...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sm0ke/black-friday-sweet-deals-only-1k53",
   "publish_date": "2020-11-25",
   "published_at": "2020-11-25T12:28:13Z"
- },
- {
-  "id": 524671,
-  "title": "Getting started with GraphQL and Node.js",
-  "description": "The main purpose of this server-client Node.js project is to help other people understand how GraphQL...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tXELt5nA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/rcotbxtnzcdxruul3uhi.jpg",
-  "slug": "getting-started-with-graphql-and-node-js-1dl6",
-  "url": "https://dev.to/guidesmiths/getting-started-with-graphql-and-node-js-1dl6",
-  "publish_date": "2020-11-25",
-  "published_at": "2020-11-25T10:35:53Z"
- },
- {
-  "id": 524636,
-  "title": "localStorage vs cookies: the \"tabs vs spaces\" sterile debate of web development 🙄",
-  "description": "EDIT: The title not being clear enough (I thought it was implicit): This article is about the \"stori...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--95cF7omL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y4nei7g5jmmb1omqhn0w.png",
-  "slug": "localstorage-vs-cookies-the-tabs-vs-spaces-sterile-debate-of-web-development-h36",
-  "url": "https://dev.to/oguimbal/localstorage-vs-cookies-the-tabs-vs-spaces-sterile-debate-of-web-development-h36",
-  "publish_date": "2020-11-25",
-  "published_at": "2020-11-25T09:32:24Z"
- },
- {
-  "id": 524611,
-  "title": "3 amazing REACT HOOKS to keep your code organized neatly",
-  "description": "Hi, my name is Doug. I’ve been a developer for several years and now work as the Lead Engineer at Sha...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R8ObaLnm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dgls.dev/img/remote/hooks.jpg",
-  "slug": "3-amazing-react-hooks-to-keep-your-code-organized-neatly-ghe",
-  "url": "https://dev.to/dglsparsons/3-amazing-react-hooks-to-keep-your-code-organized-neatly-ghe",
-  "publish_date": "2020-11-25",
-  "published_at": "2020-11-25T08:52:00Z"
- },
- {
-  "id": 523854,
-  "title": "The Black Friday 🎁 and Cyber Monday 💝 Thread 2020  ",
-  "description": "Best Black Friday deals and Cyber Monday offers you came across",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rTO6U3cg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://user-images.githubusercontent.com/3650216/100090638-7b54af00-2e79-11eb-8c93-3d3a6593b934.gif",
-  "slug": "the-black-friday-and-cyber-monday-thread-2020-d8l",
-  "url": "https://dev.to/sarthology/the-black-friday-and-cyber-monday-thread-2020-d8l",
-  "publish_date": "2020-11-24",
-  "published_at": "2020-11-24T12:09:11Z"
- },
- {
-  "id": 503105,
-  "title": "20 Top frontend free development online tools",
-  "description": "Introduction            Design    Figma     Figma is a vector graphics editor and prototypin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TAdPLgFS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/x6dp395t7fj58l8ioq9p.jpg",
-  "slug": "20-top-frontend-free-development-online-tools-491m",
-  "url": "https://dev.to/yunweneric/20-top-frontend-free-development-online-tools-491m",
-  "publish_date": "2020-11-24",
-  "published_at": "2020-11-24T11:43:11Z"
  }
 ]
