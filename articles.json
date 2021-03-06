@@ -1,5 +1,55 @@
 [
  {
+  "id": 623791,
+  "title": "Python Tutorial for Beginners - Full Course [FREE] 🎉",
+  "description": "Python is the most popular programming language out there:   And it is used for so many different ind...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a_ar7u8l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ikxbkos67ilc7kl6w5qn.png",
+  "slug": "python-tutorial-for-beginners-full-course-free-14md",
+  "url": "https://dev.to/techworld_with_nana/python-tutorial-for-beginners-full-course-free-14md",
+  "publish_date": "2021-03-05",
+  "published_at": "2021-03-05T14:34:57Z"
+ },
+ {
+  "id": 626264,
+  "title": "TOP 5 Alien Articles of the Week Worth Reading 👽📖",
+  "description": "Hey guys! I hope you enjoyed last week's article ! I am back with another one as this week's scoop 😋....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PeW_eXkH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oqig5zbu2m4pucvl94o2.png",
+  "slug": "top-5-alien-articles-of-the-week-worth-reading-2hde",
+  "url": "https://dev.to/xenoxdev/top-5-alien-articles-of-the-week-worth-reading-2hde",
+  "publish_date": "2021-03-05",
+  "published_at": "2021-03-05T11:56:37Z"
+ },
+ {
+  "id": 626461,
+  "title": "Stop using var for declaring variables !!!",
+  "description": "Stop using var for declaring variables   If you are new to JS or been with it for quite some...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pt8TkrB4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dj50z9pflysvrs66ihjk.png",
+  "slug": "stop-using-var-for-declaring-variables-2p3a",
+  "url": "https://dev.to/mindninjax/stop-using-var-for-declaring-variables-2p3a",
+  "publish_date": "2021-03-05",
+  "published_at": "2021-03-05T11:11:22Z"
+ },
+ {
+  "id": 626328,
+  "title": "Essential JavaScript Browser APIs",
+  "description": "There are a large number of browser APIs available, this post introduces those you might use very often",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pvFsrMCq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iuxmpfpksm2ue3mo509f.jpg",
+  "slug": "essential-javascript-browser-apis-3a4f",
+  "url": "https://dev.to/ageekdev/essential-javascript-browser-apis-3a4f",
+  "publish_date": "2021-03-05",
+  "published_at": "2021-03-05T07:18:43Z"
+ },
+ {
+  "id": 623447,
+  "title": "Database Sharding Explained- 2021 Database Scaling Tutorial",
+  "description": "If you want to reach your full potential as a developer you need to have at least a basic understandi...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DYmeaXLX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mj3x3yp55vckpvl73bzp.png",
+  "slug": "database-sharding-explained-2021-database-scaling-tutorial-5cej",
+  "url": "https://dev.to/renaissanceengineer/database-sharding-explained-2021-database-scaling-tutorial-5cej",
+  "publish_date": "2021-03-05",
+  "published_at": "2021-03-05T02:34:30Z"
+ },
+ {
   "id": 617869,
   "title": "5 habits every developer should adopt!",
   "description": "If you found value in this thread you will most likely enjoy my tweets too so make sure you follow me...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/thenationshakya/frontend-performance-optimization-2n8p",
   "publish_date": "2020-11-26",
   "published_at": "2020-11-26T16:27:18Z"
- },
- {
-  "id": 524956,
-  "title": "Building a geolocation app using Google Maps API in Vanilla JavaScript",
-  "description": "Recently I worked on this geolocation-based app that fetches and maps real-time availability of Londo...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MFcY_SQz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pqhe6g4xd5smb9bgc2qd.png",
-  "slug": "building-a-geolocation-app-using-google-maps-api-in-vanilla-js-484i",
-  "url": "https://dev.to/ritaxcorreia/building-a-geolocation-app-using-google-maps-api-in-vanilla-js-484i",
-  "publish_date": "2020-11-26",
-  "published_at": "2020-11-26T14:09:46Z"
- },
- {
-  "id": 525495,
-  "title": "6 Essential Things I Wish I Knew When I Started Programming",
-  "description": "I could probably achieve 300% more in 6 years as a programmer if I knew these things when I started....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yJsyZ8j1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/5l34h3xdx96y5n2nbcc3.png",
-  "slug": "6-essential-things-i-wish-i-knew-when-i-started-programming-1pc7",
-  "url": "https://dev.to/nickbulljs/6-essential-things-i-wish-i-knew-when-i-started-programming-1pc7",
-  "publish_date": "2020-11-26",
-  "published_at": "2020-11-26T09:30:28Z"
- },
- {
-  "id": 524675,
-  "title": "Complete guide to Fetch API",
-  "description": "This is not the same average blog post you have seen on many sites. This is something new and amazing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xelkp32N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/968idkl9ry6plny90y63.png",
-  "slug": "complete-guide-to-fetch-api-3gla",
-  "url": "https://dev.to/rahxuls/complete-guide-to-fetch-api-3gla",
-  "publish_date": "2020-11-26",
-  "published_at": "2020-11-26T03:32:47Z"
- },
- {
-  "id": 524834,
-  "title": "I made 100 high-quality illustrations, totally free. Use it anywhere without attribution.",
-  "description": "A great resource for all developers to beautify their websites \u0026 products with free illustrations. No need to attribute either!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fsKX3xJg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ntgonlmiqhy9vccp2wmn.png",
-  "slug": "i-made-100-high-quality-illustrations-totally-free-use-it-anywhere-without-attribution-452o",
-  "url": "https://dev.to/hrishikesh1990/i-made-100-high-quality-illustrations-totally-free-use-it-anywhere-without-attribution-452o",
-  "publish_date": "2020-11-25",
-  "published_at": "2020-11-25T13:05:22Z"
- },
- {
-  "id": 524802,
-  "title": "Black Friday - Sweet deals ONLY",
-  "description": "A curated list with nice BF offers for 2020",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TiN2fzBh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/black-friday-deals/black-friday-deals/main/media/bf-creative-tim-react.png",
-  "slug": "black-friday-sweet-deals-only-1k53",
-  "url": "https://dev.to/sm0ke/black-friday-sweet-deals-only-1k53",
-  "publish_date": "2020-11-25",
-  "published_at": "2020-11-25T12:28:13Z"
  }
 ]
