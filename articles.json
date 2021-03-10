@@ -1,5 +1,55 @@
 [
  {
+  "id": 629788,
+  "title": "I made a list of 70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify, etc. Great for learning purpose!",
+  "description": "I curated a list of 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a_pv9s4R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/43ttkp6if4y6nq36w7bh.png",
+  "slug": "i-made-a-list-of-70-open-source-clones-of-sites-like-airbnb-tiktok-netflix-spotify-etc-great-for-learning-purpose-3oel",
+  "url": "https://dev.to/gorvgoyl/i-made-a-list-of-70-open-source-clones-of-sites-like-airbnb-tiktok-netflix-spotify-etc-great-for-learning-purpose-3oel",
+  "publish_date": "2021-03-09",
+  "published_at": "2021-03-09T12:17:25Z"
+ },
+ {
+  "id": 619033,
+  "title": "How I exploited NPM downloads... and why you shouldn't trust them",
+  "description": "Over this past month, I've managed to get a package, with little to no users, to accumulate over one...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bgLsYbcU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y937yhong6fft5chqhev.png",
+  "slug": "how-i-exploited-npm-downloads-and-why-you-shouldn-t-trust-them-4bme",
+  "url": "https://dev.to/andyrichardsonn/how-i-exploited-npm-downloads-and-why-you-shouldn-t-trust-them-4bme",
+  "publish_date": "2021-03-09",
+  "published_at": "2021-03-09T10:46:38Z"
+ },
+ {
+  "id": 629574,
+  "title": "7 useful websites every front-end developer should know about.",
+  "description": "There are many websites on the internet for web developers but today I am going to show you some of m...",
+  "cover_image": "",
+  "slug": "7-useful-websites-every-front-end-developer-should-know-about-eab",
+  "url": "https://dev.to/atharva_gangji/7-useful-websites-every-front-end-developer-should-know-about-eab",
+  "publish_date": "2021-03-09",
+  "published_at": "2021-03-09T07:25:07Z"
+ },
+ {
+  "id": 628430,
+  "title": "Underrated Articles on Dev.to from Last Week",
+  "description": "Hello! I'm back with another installment of underrated articles from last week! 😋  Let's check them o...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AzD3h0P6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4wpnzj8p9ogoxrxbbbu9.png",
+  "slug": "underrated-articles-on-dev-to-from-last-week-4hgg",
+  "url": "https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-4hgg",
+  "publish_date": "2021-03-09",
+  "published_at": "2021-03-09T06:06:02Z"
+ },
+ {
+  "id": 629306,
+  "title": "SheCoded: A year of silence and reflection",
+  "description": "When I participated in the #shecoded campaign last year, I did not want to recount my story in a fash...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m4annF-S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8qprba38tszjn3w393pz.png",
+  "slug": "shecoded-a-year-of-silence-and-reflection-2c15",
+  "url": "https://dev.to/sylwiavargas/shecoded-a-year-of-silence-and-reflection-2c15",
+  "publish_date": "2021-03-09",
+  "published_at": "2021-03-09T00:20:32Z"
+ },
+ {
   "id": 606244,
   "title": "15+ Structured learning alternatives better than a bootcamp",
   "description": "Note: Now that I've started working full time, I created a new post schedule that offers more time to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ivanadokic/next-js-commerce-get-your-store-up-and-running-2c5e",
   "publish_date": "2020-11-30",
   "published_at": "2020-11-30T01:37:19Z"
- },
- {
-  "id": 528322,
-  "title": "The Four Pillars of Object Oriented Programming",
-  "description": "In this blog I will explain the 4 pillars of OOP and provide small examples. Small enough examples th...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0ZqiIrXH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d2q56vrjbumntl7p9jaj.png",
-  "slug": "the-4-pillars-of-object-oriented-programming-4khk",
-  "url": "https://dev.to/greedybrain/the-4-pillars-of-object-oriented-programming-4khk",
-  "publish_date": "2020-11-29",
-  "published_at": "2020-11-29T23:07:37Z"
- },
- {
-  "id": 524884,
-  "title": "How to Document an Express API with Swagger UI and JSDoc",
-  "description": "JSDoc is a popular tool for generating documentation from comments in the source code of your app. Th...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Um2OTuw7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/iv5k136kou21xwl16m88.png",
-  "slug": "how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do",
-  "url": "https://dev.to/kabartolo/how-to-document-an-express-api-with-swagger-ui-and-jsdoc-50do",
-  "publish_date": "2020-11-29",
-  "published_at": "2020-11-29T19:01:33Z"
- },
- {
-  "id": 527931,
-  "title": "Netflix intro animation - Pure CSS",
-  "description": "Hey everyone,  Recently I've cloned the Netflix's intro animation using only CSS and I got some great...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FjRya8S8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/j98mazut413f3f5gxeow.png",
-  "slug": "netflix-intro-animation-pure-css-1m0c",
-  "url": "https://dev.to/claudiobonfati/netflix-intro-animation-pure-css-1m0c",
-  "publish_date": "2020-11-29",
-  "published_at": "2020-11-29T17:32:31Z"
- },
- {
-  "id": 527763,
-  "title": "Ron, The Untouchable, Invincible, No-Good Developer (Conclusion)",
-  "description": "[NOTE: This is the conclusion of a two-part story.  If you haven't read part one (https://dev.to/byte...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HCZxmCgm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ve6chc2roxszgfdgrjs6.jpg",
-  "slug": "raj-the-untouchable-invincible-no-good-developer-conclusion-37fc",
-  "url": "https://dev.to/bytebodger/raj-the-untouchable-invincible-no-good-developer-conclusion-37fc",
-  "publish_date": "2020-11-29",
-  "published_at": "2020-11-29T14:59:29Z"
- },
- {
-  "id": 527946,
-  "title": "Stop Using \"data\" as a Variable Name",
-  "description": "\"There are only two hard things in Computer Science: cache invalidation and naming things.\"  - Phil...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e9ZdPOL1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/rvv589milspndl246mzm.png",
-  "slug": "stop-using-data-as-a-variable-name-3954",
-  "url": "https://dev.to/dcwither/stop-using-data-as-a-variable-name-3954",
-  "publish_date": "2020-11-29",
-  "published_at": "2020-11-29T12:41:02Z"
  }
 ]
