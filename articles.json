@@ -1,5 +1,55 @@
 [
  {
+  "id": 630970,
+  "title": "Adding Serverless User Authentication to Your React Projects",
+  "description": "Introduction   React has given developers great leverage to deploy enterprise applications a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_5ZJfM7i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bk7dg5v5t7ezihr9x29c.jpeg",
+  "slug": "adding-serverless-user-authentication-to-your-react-projects-jbe",
+  "url": "https://dev.to/mbagley1020/adding-serverless-user-authentication-to-your-react-projects-jbe",
+  "publish_date": "2021-03-10",
+  "published_at": "2021-03-10T15:10:21Z"
+ },
+ {
+  "id": 630882,
+  "title": "How To Fail Take Home Coding Challenge For Software Engineers",
+  "description": "If you want to completely fail the take-home coding challenge on software engineer interview follow t...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JfKbRxah--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/enam6kxzzyir0vu7uqlx.png",
+  "slug": "how-to-fail-take-home-coding-challenge-for-software-engineers-1fn3",
+  "url": "https://dev.to/nickbulljs/how-to-fail-take-home-coding-challenge-for-software-engineers-1fn3",
+  "publish_date": "2021-03-10",
+  "published_at": "2021-03-10T13:02:20Z"
+ },
+ {
+  "id": 630872,
+  "title": "Build a react-router clone from scratch",
+  "description": "Rebuilding a simple react router clone from scratch.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lzGR7TA7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thomascullen-codepen.s3-eu-west-1.amazonaws.com/react-router-cover.png",
+  "slug": "build-a-react-router-clone-from-scratch-38dp",
+  "url": "https://dev.to/thomascullen/build-a-react-router-clone-from-scratch-38dp",
+  "publish_date": "2021-03-10",
+  "published_at": "2021-03-10T12:38:17Z"
+ },
+ {
+  "id": 630753,
+  "title": "Show off your Workspace 👩🏻‍💻💯",
+  "description": "Monthly Workspace Setup Show off",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GbFOPnDv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/py5bsyazzccfm3nbebva.jpg",
+  "slug": "show-off-your-workspace-5a95",
+  "url": "https://dev.to/xenoxdev/show-off-your-workspace-5a95",
+  "publish_date": "2021-03-10",
+  "published_at": "2021-03-10T10:36:20Z"
+ },
+ {
+  "id": 630646,
+  "title": "Create Chrome Extension With HTML, CSS, and JavaScript",
+  "description": "Introduction   Google Chrome is one of the most loved browsers for developers as well as gen...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5jJMht-y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/momlvu2ir6pzxa2kcg66.png",
+  "slug": "create-chrome-extension-with-html-css-and-javascript-4ofd",
+  "url": "https://dev.to/surajondev/create-chrome-extension-with-html-css-and-javascript-4ofd",
+  "publish_date": "2021-03-10",
+  "published_at": "2021-03-10T06:41:06Z"
+ },
+ {
   "id": 629788,
   "title": "I made a list of 70+ open-source clones of sites like Airbnb, Tiktok, Netflix, Spotify, etc. Great for learning purpose!",
   "description": "I curated a list of 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zwacky/time-to-say-goodbye-to-google-fonts-16dd",
   "publish_date": "2020-12-01",
   "published_at": "2020-12-01T07:41:17Z"
- },
- {
-  "id": 515594,
-  "title": "Crack the React Interview!",
-  "description": "React is a JavaScript library used for building user interfaces. ReactJs is used as a base of a singl...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kblnSKUs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/nxj3pk5d3wg6xtguy1qh.jpg",
-  "slug": "crack-the-react-interview-2ccn",
-  "url": "https://dev.to/heba_shakeel/crack-the-react-interview-2ccn",
-  "publish_date": "2020-11-30",
-  "published_at": "2020-11-30T15:52:16Z"
- },
- {
-  "id": 527962,
-  "title": "Yarn 2.4 🎄🎁 Log Filters, Audits, Better Warnings, ...",
-  "description": "Hey everyone! It's this time of the year where everyone is slowly preparing for the holidays. This ye...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hV3Zjp8t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/gv9ibchcjhhc47le2sn8.png",
-  "slug": "yarn-2-4-log-filters-audits-better-warnings-49io",
-  "url": "https://dev.to/arcanis/yarn-2-4-log-filters-audits-better-warnings-49io",
-  "publish_date": "2020-11-30",
-  "published_at": "2020-11-30T14:52:14Z"
- },
- {
-  "id": 528673,
-  "title": "A free Tailwind CSS V2 personal template To get your portfolio up n' running.",
-  "description": "Hello everyone,   Today I finally finished the fourth template for Wicked Templates.  This t...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--StxzqR7O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/99xeejp4e70bhoxdy9gb.jpeg",
-  "slug": "a-free-tailwind-css-v2-personal-template-1nnp",
-  "url": "https://dev.to/michaelandreuzza/a-free-tailwind-css-v2-personal-template-1nnp",
-  "publish_date": "2020-11-30",
-  "published_at": "2020-11-30T10:13:19Z"
- },
- {
-  "id": 528542,
-  "title": "10 JavaScript Array methods to simplify your code.",
-  "description": "Let’s start!            1. filter()   The filter() method creates a new array with all eleme...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K4cK9bpo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hyc6tdhyj45qv1tm9yxe.png",
-  "slug": "10-javascript-array-methods-to-simplify-your-code-56fe",
-  "url": "https://dev.to/denicmarko/10-javascript-array-methods-to-simplify-your-code-56fe",
-  "publish_date": "2020-11-30",
-  "published_at": "2020-11-30T07:19:27Z"
- },
- {
-  "id": 528365,
-  "title": "Next.js Commerce: Get Your Store Up And Running",
-  "description": "Next.js is a lightweight framework for React applications. As of March 2020, the framework is used by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8NavXHsr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/clquq8a2po291k7nlpkg.png",
-  "slug": "next-js-commerce-get-your-store-up-and-running-2c5e",
-  "url": "https://dev.to/ivanadokic/next-js-commerce-get-your-store-up-and-running-2c5e",
-  "publish_date": "2020-11-30",
-  "published_at": "2020-11-30T01:37:19Z"
  }
 ]
