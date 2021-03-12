@@ -1,5 +1,55 @@
 [
  {
+  "id": 631219,
+  "title": "CSS Modules vs CSS-in-JS. Who wins?",
+  "description": "Introduction   In modern React application development, there are many approaches to organiz...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k4PBTU29--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/62av8l3yv5zl8lii4jw1.png",
+  "slug": "css-modules-vs-css-in-js-who-wins-3n25",
+  "url": "https://dev.to/alexsergey/css-modules-vs-css-in-js-who-wins-3n25",
+  "publish_date": "2021-03-11",
+  "published_at": "2021-03-11T13:29:36Z"
+ },
+ {
+  "id": 630681,
+  "title": "A Generative SVG Starter Kit",
+  "description": "SVG is a fantastic medium for generative art. It can scale to any resolution, is a joy to debug, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Boz5QZXN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xreobadjclv2xutc1umv.png",
+  "slug": "a-generative-svg-starter-kit-5cm1",
+  "url": "https://dev.to/georgedoescode/a-generative-svg-starter-kit-5cm1",
+  "publish_date": "2021-03-11",
+  "published_at": "2021-03-11T12:09:30Z"
+ },
+ {
+  "id": 630520,
+  "title": "5 super under-rated free tools/resources I use almost every day. (As a Frontend developer)",
+  "description": "Hello everyone! Let's get straight into the list of 6 tools/resources I use almost every day as a fro...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JzgnVTL3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8igcdc8ayajrutastc4q.png",
+  "slug": "5-super-under-rated-free-tools-resources-i-use-almost-every-day-as-a-frontend-developer-5c6g",
+  "url": "https://dev.to/devggaurav/5-super-under-rated-free-tools-resources-i-use-almost-every-day-as-a-frontend-developer-5c6g",
+  "publish_date": "2021-03-11",
+  "published_at": "2021-03-11T06:36:02Z"
+ },
+ {
+  "id": 630402,
+  "title": "A collection of beautiful, responsive Tailwind component libraries.",
+  "description": "Since starting with Tailwind for my styling needs, my workflow has significantly improved since I fol...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mHhFApLW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ibeyh2idd6lxh91mr2y.png",
+  "slug": "a-collection-of-beautiful-responsive-tailwind-component-libraries-5ce0",
+  "url": "https://dev.to/prnvbirajdar/a-collection-of-beautiful-responsive-tailwind-component-libraries-5ce0",
+  "publish_date": "2021-03-11",
+  "published_at": "2021-03-11T05:38:00Z"
+ },
+ {
+  "id": 631515,
+  "title": "moovie.js - Movie focused HTML5 Player ",
+  "description": "Hey,  In my professional work, a few years ago, I worked on a project where the objective was to make...",
+  "cover_image": "",
+  "slug": "moovie-js-movie-focused-html5-player-22l1",
+  "url": "https://dev.to/bmsvieira/moovie-js-movie-focused-html5-player-22l1",
+  "publish_date": "2021-03-11",
+  "published_at": "2021-03-11T01:00:18Z"
+ },
+ {
   "id": 630970,
   "title": "Adding Serverless User Authentication to Your React Projects",
   "description": "Introduction   React has given developers great leverage to deploy enterprise applications a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/simonholdorf/9-popular-github-repos-for-every-web-developer-31ej",
   "publish_date": "2020-12-02",
   "published_at": "2020-12-02T10:56:01Z"
- },
- {
-  "id": 529910,
-  "title": "10 famous Javascript libraries for Machine Learning",
-  "description": "Javascript is one of the most famous languages which is used for many purposes. It is used for fronte...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8DZjytr6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/juhe4zo3dfbq2oezr0th.jpg",
-  "slug": "10-famous-javascript-libraries-for-machine-learning-38fa",
-  "url": "https://dev.to/amananandrai/10-famous-javascript-libraries-for-machine-learning-38fa",
-  "publish_date": "2020-12-01",
-  "published_at": "2020-12-01T18:08:42Z"
- },
- {
-  "id": 529854,
-  "title": "HarperDB and WebSockets",
-  "description": "A post and demo about using WebSockets with HarperDB for blazing fast data update access",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4IMWdde--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ksithfc8lt8t2v0v8oa2.jpg",
-  "slug": "harperdb-and-websockets-3p6k",
-  "url": "https://dev.to/ethanarrowood/harperdb-and-websockets-3p6k",
-  "publish_date": "2020-12-01",
-  "published_at": "2020-12-01T15:45:15Z"
- },
- {
-  "id": 529673,
-  "title": "Do You Actually Know What A String In JavaScript Is? Here's What I Found.",
-  "description": "We preferred to think that String in JavaScript is an array of characters.    const name = ‘Nick’  co...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y-CBMTW4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/d11gimjyra310al94ymm.png",
-  "slug": "do-you-actually-know-what-string-in-javascript-is-here-s-what-i-found-23l7",
-  "url": "https://dev.to/nickbulljs/do-you-actually-know-what-string-in-javascript-is-here-s-what-i-found-23l7",
-  "publish_date": "2020-12-01",
-  "published_at": "2020-12-01T11:45:41Z"
- },
- {
-  "id": 529538,
-  "title": "7 Pieces of Advice to be a Successful Software Engineer",
-  "description": "For me, being a software developer is one of the best jobs in the world. I love to code and getting p...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KdxjKcyf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/j0p7xus9okufgf1djbob.jpg",
-  "slug": "7-pieces-of-advice-to-be-a-successful-software-engineer-12fj",
-  "url": "https://dev.to/simonholdorf/7-pieces-of-advice-to-be-a-successful-software-engineer-12fj",
-  "publish_date": "2020-12-01",
-  "published_at": "2020-12-01T08:18:42Z"
- },
- {
-  "id": 529237,
-  "title": "Time to Say Goodbye to Google Fonts",
-  "description": "I've used Google Fonts in prototypes and in 10M+ MAU products. It's incredibly easy to get started wi...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gwzsQsy1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/q31jnw4st0azhrsovivm.jpg",
-  "slug": "time-to-say-goodbye-to-google-fonts-16dd",
-  "url": "https://dev.to/zwacky/time-to-say-goodbye-to-google-fonts-16dd",
-  "publish_date": "2020-12-01",
-  "published_at": "2020-12-01T07:41:17Z"
  }
 ]
