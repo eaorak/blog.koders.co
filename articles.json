@@ -1,5 +1,55 @@
 [
  {
+  "id": 632787,
+  "title": "A full comparison of 6 JS libraries for generating PDFs",
+  "description": " This article will introduce you to a collection of libraries for creating PDFs in Javascript, comparing their uses and how they are used. Also, compared to the following aspects is it easy to handle in a modern front-end? works in Node and browser? Is it available as a UMD module? Is there a type? Can I use custom fonts? ",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ru06ppQH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d8ivf8ishq9ixi9qi162.png",
+  "slug": "generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p",
+  "url": "https://dev.to/handdot/generate-a-pdf-in-js-summary-and-comparison-of-libraries-3k0p",
+  "publish_date": "2021-03-15",
+  "published_at": "2021-03-15T11:45:22Z"
+ },
+ {
+  "id": 631486,
+  "title": "Turning the Cloud Inside Out",
+  "description": "Creating a cloud programming interface with GraphQL",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y_dWk8I2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5asekdo46vnpa5e0r3wk.jpg",
+  "slug": "turning-the-cloud-inside-out-29l6",
+  "url": "https://dev.to/dabit3/turning-the-cloud-inside-out-29l6",
+  "publish_date": "2021-03-15",
+  "published_at": "2021-03-15T10:52:38Z"
+ },
+ {
+  "id": 635196,
+  "title": "7 JavaScript ES2017 Features to Learn",
+  "description": "The JavaScript ES2017 specification (ES8) has been around for a while. Many of the features introduce...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fHlzQocc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qoafm09s6bij5di92upu.jpg",
+  "slug": "7-javascript-es2017-features-to-learn-16dk",
+  "url": "https://dev.to/alexdevero/7-javascript-es2017-features-to-learn-16dk",
+  "publish_date": "2021-03-15",
+  "published_at": "2021-03-15T07:10:45Z"
+ },
+ {
+  "id": 635050,
+  "title": "Microservices in 4 minutes - Introduction to Microservices",
+  "description": "Learning microservices can be intimidating for any developer, but it's especially true for junior dev...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B3AG1Qhs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/59lsq0exi010li8uxxba.png",
+  "slug": "microservices-in-4-minutes-introduction-to-microservices-2nla",
+  "url": "https://dev.to/renaissanceengineer/microservices-in-4-minutes-introduction-to-microservices-2nla",
+  "publish_date": "2021-03-15",
+  "published_at": "2021-03-15T03:29:18Z"
+ },
+ {
+  "id": 634888,
+  "title": "Best Tools For Web Development",
+  "description": "Hi guys! I am just a beginner in web development and don't know much, but I am sure these tools will...",
+  "cover_image": "",
+  "slug": "best-tools-for-web-development-5aoc",
+  "url": "https://dev.to/ihsface/best-tools-for-web-development-5aoc",
+  "publish_date": "2021-03-15",
+  "published_at": "2021-03-15T03:17:40Z"
+ },
+ {
   "id": 634508,
   "title": "CSS image reflections with box-reflect",
   "description": "Did you know CSS has a custom reflection property? It's a pretty cool addition to reflect an image to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/chrome-devtools-grid-explorer-51cp",
   "publish_date": "2020-12-06",
   "published_at": "2020-12-06T04:50:54Z"
- },
- {
-  "id": 533992,
-  "title": "How to build a Pixel Art Drawing App in React",
-  "description": "React tutorial on how to build a pixel art drawing app",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bDM5bzm2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h2la4jngpja3w8oiauq3.png",
-  "slug": "how-to-build-a-pixel-art-drawing-app-in-react-37n8",
-  "url": "https://dev.to/alekswritescode/how-to-build-a-pixel-art-drawing-app-in-react-37n8",
-  "publish_date": "2020-12-05",
-  "published_at": "2020-12-05T15:55:53Z"
- },
- {
-  "id": 533914,
-  "title": "The 25 Best VS Code Extensions",
-  "description": "Make your life easier and more productive with these     Having a good text editor is import...",
-  "cover_image": "",
-  "slug": "the-25-best-vs-code-extensions-2c2d",
-  "url": "https://dev.to/bhavyasingh2611/the-25-best-vs-code-extensions-2c2d",
-  "publish_date": "2020-12-05",
-  "published_at": "2020-12-05T14:20:52Z"
- },
- {
-  "id": 533811,
-  "title": "Smart solutions to avoid JS problems and hacks\n",
-  "description": "In this day and age being a developer and being in a fast-paced environment we have to deliver as qui...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JEo1yWCH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/s05jxfiqi3ar3uartz1m.jpg",
-  "slug": "simple-solutions-to-avoid-js-problems-and-hacks-4fcb",
-  "url": "https://dev.to/faisalpathan/simple-solutions-to-avoid-js-problems-and-hacks-4fcb",
-  "publish_date": "2020-12-05",
-  "published_at": "2020-12-05T12:51:55Z"
- },
- {
-  "id": 533775,
-  "title": "[14] The 15 Best Developer Resources in 2020",
-  "description": "Today I will continue my Top 15 series with a brief overview of the best developer resources that I u...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gm5q9ira--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/o3rc1t3izlypxqgw7ylj.png",
-  "slug": "14-the-15-best-developer-resources-in-2020-18mn",
-  "url": "https://dev.to/villivald/14-the-15-best-developer-resources-in-2020-18mn",
-  "publish_date": "2020-12-05",
-  "published_at": "2020-12-05T09:36:51Z"
- },
- {
-  "id": 533731,
-  "title": "10 Must CSS tricks and tips for beginners",
-  "description": "CSS tricks are something everyone should know for productivity and doing their projects fast. Here I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AZca7sF6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2tlp524rtscb5woq0v1f.png",
-  "slug": "10-must-css-tricks-and-tips-for-beginners-4cpl",
-  "url": "https://dev.to/rahxuls/10-must-css-tricks-and-tips-for-beginners-4cpl",
-  "publish_date": "2020-12-05",
-  "published_at": "2020-12-05T07:00:31Z"
  }
 ]
