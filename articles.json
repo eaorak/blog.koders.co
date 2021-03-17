@@ -1,5 +1,55 @@
 [
  {
+  "id": 636057,
+  "title": "100 underline/overlay  animations | The ultimate CSS collection 🥇",
+  "description": "Get tired searching animations for your menu items and links? Search no more! Here is a list of more...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KjPnib1g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vevb2z73mab3trcg1zs8.gif",
+  "slug": "100-underline-overlay-animation-the-ultimate-css-collection-4p40",
+  "url": "https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40",
+  "publish_date": "2021-03-16",
+  "published_at": "2021-03-16T15:11:39Z"
+ },
+ {
+  "id": 635469,
+  "title": "Learning about CSS pseudo-elements by building simple things - Part 1: Button and link hover effects.",
+  "description": "Hello everyone! Hope u r doing great. So the thing is I still struggle with understanding CSS pseudo-...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wV678bPb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wj8m82sxbfi9wb151xlo.gif",
+  "slug": "learning-about-css-pseudo-elements-by-building-simple-things-part-1-button-and-link-hover-effects-1g08",
+  "url": "https://dev.to/devggaurav/learning-about-css-pseudo-elements-by-building-simple-things-part-1-button-and-link-hover-effects-1g08",
+  "publish_date": "2021-03-16",
+  "published_at": "2021-03-16T07:44:15Z"
+ },
+ {
+  "id": 635582,
+  "title": "Getting started with Tailwind and React: Implementing responsiveness.",
+  "description": "Hello folks,  In my last article, I explained how you can get started with Tailwind and React by crea...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wqsp6u7e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mupmwgsxzctun48d8xj.png",
+  "slug": "getting-started-with-tailwind-and-react-implementing-responsiveness-3a",
+  "url": "https://dev.to/ms_yogii/getting-started-with-tailwind-and-react-implementing-responsiveness-3a",
+  "publish_date": "2021-03-16",
+  "published_at": "2021-03-16T07:14:03Z"
+ },
+ {
+  "id": 636061,
+  "title": "5 useful sites for FRONTEND devs",
+  "description": "5 useful sites for you to use in your frontend projects and impress everyone.      Css Grid...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hOrxywYF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcmsu4hc6dnwrqwi71ow.png",
+  "slug": "5-useful-sites-for-frontend-devs-1212",
+  "url": "https://dev.to/lucasandre/5-useful-sites-for-frontend-devs-1212",
+  "publish_date": "2021-03-16",
+  "published_at": "2021-03-16T02:08:29Z"
+ },
+ {
+  "id": 636046,
+  "title": "The Shocking Immaturity of JavaScript",
+  "description": "Do code newbies realize just how shockingly buggy and incomplete all the tools they use really are?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VImsvjBZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pd5d1n04lgg2jcrtqwz4.jpg",
+  "slug": "the-shocking-immaturity-of-javascript-c70",
+  "url": "https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70",
+  "publish_date": "2021-03-16",
+  "published_at": "2021-03-16T01:45:53Z"
+ },
+ {
   "id": 632787,
   "title": "A full comparison of 6 JS libraries for generating PDFs",
   "description": " This article will introduce you to a collection of libraries for creating PDFs in Javascript, comparing their uses and how they are used. Also, compared to the following aspects is it easy to handle in a modern front-end? works in Node and browser? Is it available as a UMD module? Is there a type? Can I use custom fonts? ",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shaundai/5-things-i-learned-by-asking-developers-one-question-52h7",
   "publish_date": "2020-12-07",
   "published_at": "2020-12-07T02:49:12Z"
- },
- {
-  "id": 534548,
-  "title": "Top Chrome Extensions Every Developer Should Use 🛠",
-  "description": "Do you want to use the Chrome web browser more effectively as a Developer? 🤯  If you said YES, then t...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xLVhICG2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/p4puwpnd8uzfset0n24o.PNG",
-  "slug": "top-chrome-extensions-every-developer-should-use-kee",
-  "url": "https://dev.to/iamdarshshah/top-chrome-extensions-every-developer-should-use-kee",
-  "publish_date": "2020-12-06",
-  "published_at": "2020-12-06T11:38:17Z"
- },
- {
-  "id": 534408,
-  "title": "bind(), call(), and apply() in JavaScript",
-  "description": "While coding in JavaScript, I'm always perplexed on how JavaScript works. It's just as Kyle Simpson...",
-  "cover_image": "",
-  "slug": "bind-call-and-apply-in-javascript-3ml",
-  "url": "https://dev.to/rajatmehra05/bind-call-and-apply-in-javascript-3ml",
-  "publish_date": "2020-12-06",
-  "published_at": "2020-12-06T07:54:08Z"
- },
- {
-  "id": 533754,
-  "title": "My Mac setup for work 👩‍💻",
-  "description": "This weekend I'm going to setup a new Macbook Pro 13' for work. 💻 Here are my current preferences for...",
-  "cover_image": "",
-  "slug": "my-mac-setup-for-work-1d7k",
-  "url": "https://dev.to/junlow/my-mac-setup-for-work-1d7k",
-  "publish_date": "2020-12-06",
-  "published_at": "2020-12-06T07:43:18Z"
- },
- {
-  "id": 534341,
-  "title": "Awesome Cheatsheets from Instagram",
-  "description": "In this article, you will find some awesome cheatsheets from Instagram. This article was inspired by...",
-  "cover_image": "",
-  "slug": "awesome-cheatsheets-from-instagram-47a8",
-  "url": "https://dev.to/hb/awesome-cheatsheets-from-instagram-47a8",
-  "publish_date": "2020-12-06",
-  "published_at": "2020-12-06T04:57:21Z"
- },
- {
-  "id": 534350,
-  "title": "Chrome DevTools: Grid Explorer",
-  "description": "I like to look at the \"What's New\" tab in Chrome Dev Tools every now and then.  This time the update...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--29cW-JrR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/dd280jjtao2erq3z1e1i.jpg",
-  "slug": "chrome-devtools-grid-explorer-51cp",
-  "url": "https://dev.to/dailydevtips1/chrome-devtools-grid-explorer-51cp",
-  "publish_date": "2020-12-06",
-  "published_at": "2020-12-06T04:50:54Z"
  }
 ]
