@@ -1,5 +1,55 @@
 [
  {
+  "id": 633214,
+  "title": "Pure vs Impure Functions",
+  "description": "Software engineering is full of jargon. Occasionally, to grasp the true meaning of the seemingly simp...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5b_C0_r---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qd4amv2nf3ho92ehhjug.png",
+  "slug": "pure-vs-impure-functions-50aj",
+  "url": "https://dev.to/sanspanic/pure-vs-impure-functions-50aj",
+  "publish_date": "2021-03-18",
+  "published_at": "2021-03-18T15:05:33Z"
+ },
+ {
+  "id": 628318,
+  "title": "How React isn't reactive, and why you shouldn't care",
+  "description": "If the title agrees with you, you can stop reading right now. Move on to the next article. In technol...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DXWcPMZr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3lq1iuw9vzre3jwwuvfa.jpg",
+  "slug": "how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m",
+  "url": "https://dev.to/ryansolid/how-react-isn-t-reactive-and-why-you-shouldn-t-care-152m",
+  "publish_date": "2021-03-18",
+  "published_at": "2021-03-18T14:41:16Z"
+ },
+ {
+  "id": 638432,
+  "title": "How to create simple multi-step sign in with validation",
+  "description": "Introduction   Let's say you need to create a multi-step login form like in gmail. You are u...",
+  "cover_image": "",
+  "slug": "how-to-create-simple-many-step-form-with-validation-3g4f",
+  "url": "https://dev.to/alex1998dmit/how-to-create-simple-many-step-form-with-validation-3g4f",
+  "publish_date": "2021-03-18",
+  "published_at": "2021-03-18T13:57:54Z"
+ },
+ {
+  "id": 637304,
+  "title": "Bedrock - modern full-stack Next.js \u0026 GraphQL boilerplate",
+  "description": "Software as a service (SaaS) is licensing and delivery model in which software is centrally hosted \u0026a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---XJIA8wo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zod76y12ryiu7o1sah7q.png",
+  "slug": "bedrock-modern-full-stack-next-js-graphql-boilerplate-56bh",
+  "url": "https://dev.to/graphqleditor/bedrock-modern-full-stack-next-js-graphql-boilerplate-56bh",
+  "publish_date": "2021-03-18",
+  "published_at": "2021-03-18T09:13:50Z"
+ },
+ {
+  "id": 638168,
+  "title": "Crack your MERN interview with these questions",
+  "description": "MERN stack is one of the most powerful and in-demand web stacks in 2021. MERN is a free and open-sour...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NK261Ps9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kp31agh6bg18z9qgfak5.png",
+  "slug": "crack-your-mern-interview-with-these-questions-3ji3",
+  "url": "https://dev.to/commentme/crack-your-mern-interview-with-these-questions-3ji3",
+  "publish_date": "2021-03-18",
+  "published_at": "2021-03-18T07:06:47Z"
+ },
+ {
   "id": 632345,
   "title": "Goodbye Offline Page",
   "description": "Dear DEV Community Members,   I wanted to bring you all up to speed on a decision the Forem team rece...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mbagley1020/5-great-react-libraries-to-look-out-for-in-2021-4g23",
   "publish_date": "2020-12-09",
   "published_at": "2020-12-09T02:36:45Z"
- },
- {
-  "id": 536814,
-  "title": "Web Developer Roadmap 2021 in 10 minutes",
-  "description": "I am going to tell you what exactly I would do if I had to start to learn web development in 2021.  I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9GNtMqrH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/12voerugzemu1l471n84.png",
-  "slug": "web-developer-2010-in-10-minutes-271b",
-  "url": "https://dev.to/nghiemthu/web-developer-2010-in-10-minutes-271b",
-  "publish_date": "2020-12-08",
-  "published_at": "2020-12-08T18:59:59Z"
- },
- {
-  "id": 536714,
-  "title": "Community Moderation and Support on DEV",
-  "description": "A reminder of how we approach the important task of moderating our large and growing community of programmers",
-  "cover_image": "",
-  "slug": "community-moderation-and-support-on-dev-7me",
-  "url": "https://dev.to/devteam/community-moderation-and-support-on-dev-7me",
-  "publish_date": "2020-12-08",
-  "published_at": "2020-12-08T18:02:13Z"
- },
- {
-  "id": 536472,
-  "title": "10 React Example",
-  "description": "If You Like This Article then check Out more Examples [gscode.in]  30+ Free React Example for begin...",
-  "cover_image": "",
-  "slug": "10-react-example-3fi0",
-  "url": "https://dev.to/gscode/10-react-example-3fi0",
-  "publish_date": "2020-12-08",
-  "published_at": "2020-12-08T14:52:01Z"
- },
- {
-  "id": 536384,
-  "title": "Tips \u0026 Proven Methods To Become a Competitive Programmer.",
-  "description": "In this guide, I will share with you an actionable guideline that can act as a flowchart for improvi...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SsULK9st--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/r2a5t4azty38qr99kfz7.png",
-  "slug": "tips-proven-methods-to-become-a-competitive-programmer-1gb3",
-  "url": "https://dev.to/tyaga001/tips-proven-methods-to-become-a-competitive-programmer-1gb3",
-  "publish_date": "2020-12-08",
-  "published_at": "2020-12-08T12:43:19Z"
- },
- {
-  "id": 536162,
-  "title": "101 Tips to Make You a Better Developer",
-  "description": "Being in the world of programming comes with a lot of challenges and opportunities for developers lik...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AQh5g0W2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/t3h0x81n9s2hocozzsb7.jpg",
-  "slug": "101-tips-to-make-you-a-better-developer-2jo3",
-  "url": "https://dev.to/simonholdorf/101-tips-to-make-you-a-better-developer-2jo3",
-  "publish_date": "2020-12-08",
-  "published_at": "2020-12-08T07:38:43Z"
  }
 ]
