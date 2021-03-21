@@ -1,5 +1,55 @@
 [
  {
+  "id": 640547,
+  "title": "My Top CSS Tips As Shared on Twitter - Part 2",
+  "description": "Hi! I'm @5t3ph on Twitter (and most other places on the web) and here are more of my top shared CSS t...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ykkpB5nE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0jfzudyp5wd8x717a8da.png",
+  "slug": "my-top-css-tips-as-shared-on-twitter-part-2-43lg",
+  "url": "https://dev.to/5t3ph/my-top-css-tips-as-shared-on-twitter-part-2-43lg",
+  "publish_date": "2021-03-20",
+  "published_at": "2021-03-20T13:51:12Z"
+ },
+ {
+  "id": 640495,
+  "title": "Sidebar Menu Using Only HTML and CSS",
+  "description": "Hello readers, Today in this blog you’ll learn how to create a Sidebar Menu using HTML and CSS only....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--riR3aLCK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yo2dxzzp8i8bgpd5bxdu.jpg",
+  "slug": "sidebar-menu-using-only-html-and-css-45lg",
+  "url": "https://dev.to/monalishamondol/sidebar-menu-using-only-html-and-css-45lg",
+  "publish_date": "2021-03-20",
+  "published_at": "2021-03-20T12:29:25Z"
+ },
+ {
+  "id": 640493,
+  "title": "Debouncing v/s Throttling",
+  "description": "In this article, we will discuss what exactly is debouncing and throttling, why we use them \u0026amp; the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IWzNq1y---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/okplfjnd7geaodec1iei.png",
+  "slug": "debouncing-v-s-throttling-lb2",
+  "url": "https://dev.to/anuradha9712/debouncing-v-s-throttling-lb2",
+  "publish_date": "2021-03-20",
+  "published_at": "2021-03-20T12:27:28Z"
+ },
+ {
+  "id": 640103,
+  "title": "Day 001: How do Python Dictionaries work?",
+  "description": "In this post, we'll dissect how a dictionary is represented in Python, and the hash-scheme it uses to...",
+  "cover_image": "",
+  "slug": "day-001-how-do-python-dictionaries-work-5aa2",
+  "url": "https://dev.to/rj722/day-001-how-do-python-dictionaries-work-5aa2",
+  "publish_date": "2021-03-20",
+  "published_at": "2021-03-20T03:02:40Z"
+ },
+ {
+  "id": 639996,
+  "title": "How to create beautiful confetti animations with tsParticles",
+  "description": "The new confetti shape   With tsParticles you can create a lot of particles configurations w...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B6MqVMct--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ibes169jx7efyd45tb9.png",
+  "slug": "how-to-create-beautiful-confetti-animations-with-tsparticles-193",
+  "url": "https://dev.to/matteobruni/how-to-create-beautiful-confetti-animations-with-tsparticles-193",
+  "publish_date": "2021-03-20",
+  "published_at": "2021-03-20T01:25:47Z"
+ },
+ {
   "id": 639478,
   "title": "6 amazing free tools that will save you some time when u are building websites. (Especially for 'non-designer' developers)",
   "description": "Hello everyone, hope you are doing great! In this short article, I am writing about 6 free tools that...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/flippedcoding/using-your-ci-cd-pipeline-to-prevent-your-app-from-getting-hacked-1pk7",
   "publish_date": "2020-12-11",
   "published_at": "2020-12-11T02:24:24Z"
- },
- {
-  "id": 538721,
-  "title": "Rails gets out of the way when you need that most.",
-  "description": "It's underrated how tough it can be to get a new thing off the ground, and how delicate that phase is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zcrYyJpM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7j9qtkplrriwj9uzeeln.png",
-  "slug": "rails-gets-out-of-the-way-when-you-need-that-most-b67",
-  "url": "https://dev.to/ben/rails-gets-out-of-the-way-when-you-need-that-most-b67",
-  "publish_date": "2020-12-10",
-  "published_at": "2020-12-10T17:04:02Z"
- },
- {
-  "id": 537863,
-  "title": "Announcing the DigitalOcean App Platform Hackathon on DEV!",
-  "description": "Join us for this opportunity to build useful applications with the DigitalOcean App Platform while earning some great prizes  ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kwh4Wk7v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ow8zbevr14w3rnrle7zq.png",
-  "slug": "announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k",
-  "url": "https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k",
-  "publish_date": "2020-12-10",
-  "published_at": "2020-12-10T17:01:51Z"
- },
- {
-  "id": 535149,
-  "title": "8 neat Javascript tricks you didn't know in 4 minutes.",
-  "description": "Introduction Javascript is a powerful programming language especially in web development that is used...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0uBUqmTU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wtv7xzeykkl2xhk2vv6.jpg",
-  "slug": "8-useful-javascript-tricks-you-didn-t-know-in-4-minutes-3npb",
-  "url": "https://dev.to/blessingartcreator/8-useful-javascript-tricks-you-didn-t-know-in-4-minutes-3npb",
-  "publish_date": "2020-12-10",
-  "published_at": "2020-12-10T13:23:18Z"
- },
- {
-  "id": 538250,
-  "title": "A Git Cheatsheet Of Commands Every Developer Should Use",
-  "description": "GIT is the most widely used distributed open-source Version Control System that allows you to track a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JqyPjzNz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/e7oj9oxcn13b2dac7c8o.jpg",
-  "slug": "a-git-cheatsheet-of-commands-every-developer-should-use-38ma",
-  "url": "https://dev.to/ravimengar/a-git-cheatsheet-of-commands-every-developer-should-use-38ma",
-  "publish_date": "2020-12-10",
-  "published_at": "2020-12-10T07:36:30Z"
- },
- {
-  "id": 537738,
-  "title": "🚀 Top 33 JavaScript Projects on GitHub (December 2020)",
-  "description": "2020 is coming to its end, and we may do another snapshot of 33 most starred open-sourced JavaScript...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jaM9G_U8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/kxechwsnoa7esbyti0iq.png",
-  "slug": "top-33-javascript-projects-on-github-december-2020-jc0",
-  "url": "https://dev.to/trekhleb/top-33-javascript-projects-on-github-december-2020-jc0",
-  "publish_date": "2020-12-10",
-  "published_at": "2020-12-10T06:44:59Z"
  }
 ]
