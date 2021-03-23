@@ -1,5 +1,55 @@
 [
  {
+  "id": 635886,
+  "title": "Data fetching React Hook",
+  "description": "Making HTTP requests is a common task for most Single Page Applications. Due to the asynchronous natu...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ONujRcpW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7fn96k7s4rvccbrgusg.png",
+  "slug": "data-fetching-react-hook-4dfc",
+  "url": "https://dev.to/mbellagamba/data-fetching-react-hook-4dfc",
+  "publish_date": "2021-03-22",
+  "published_at": "2021-03-22T15:24:10Z"
+ },
+ {
+  "id": 641977,
+  "title": "Spin the Wheel — a customizable roulette wheel in less than 30kb with a no-javascript fallback.",
+  "description": "Here's the link: missingdice.com/spin-the-wheel. I'd really appreciate any feedback on improving it,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--myZqVU-a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xb9glhtp18oec7n6v17k.png",
+  "slug": "spin-the-wheel-a-customizable-roulette-wheel-in-less-that-30kb-with-a-no-javascript-fallback-45ma",
+  "url": "https://dev.to/shadowfaxrodeo/spin-the-wheel-a-customizable-roulette-wheel-in-less-that-30kb-with-a-no-javascript-fallback-45ma",
+  "publish_date": "2021-03-22",
+  "published_at": "2021-03-22T11:07:41Z"
+ },
+ {
+  "id": 641969,
+  "title": "Open-source Introduction to Git and GitHub eBook 💡",
+  "description": "💡 Introduction to Git and GitHub   This is an open-source introduction to Git and GitHub gui...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zBept-zh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jqxty39vofngm1ijc3z.png",
+  "slug": "open-source-introduction-to-git-and-github-ebook-h22",
+  "url": "https://dev.to/bobbyiliev/open-source-introduction-to-git-and-github-ebook-h22",
+  "publish_date": "2021-03-22",
+  "published_at": "2021-03-22T10:34:55Z"
+ },
+ {
+  "id": 640789,
+  "title": "How I Made This Realistic Red Switch (Pure CSS)",
+  "description": "I created this pen last week after stumbling across this 3D Red Switch design on Dribble. Since t...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HIxlouku--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wfu25gpfucsxjft21sz9.gif",
+  "slug": "how-i-made-this-realistic-red-switch-pure-css-49g2",
+  "url": "https://dev.to/ykadosh/how-i-made-this-realistic-red-switch-pure-css-49g2",
+  "publish_date": "2021-03-22",
+  "published_at": "2021-03-22T09:12:59Z"
+ },
+ {
+  "id": 641892,
+  "title": "TypeScript Type Guards and Type Predicates",
+  "description": "How to use Type Guards to narrow types in TypeScript.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nh9MWySi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vr7orkpk8dn1t8p2llua.jpg",
+  "slug": "typescript-type-guards-and-type-predicates-4m5e",
+  "url": "https://dev.to/smeijer/typescript-type-guards-and-type-predicates-4m5e",
+  "publish_date": "2021-03-22",
+  "published_at": "2021-03-22T08:39:16Z"
+ },
+ {
   "id": 634769,
   "title": "5 neat JavaScript tips",
   "description": "In this post, I'll show you 5 neat JavaScript tips that will help you become a better developer. Alth...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/vanilla-javascript-text-to-speech-55n9",
   "publish_date": "2020-12-13",
   "published_at": "2020-12-13T04:57:31Z"
- },
- {
-  "id": 540784,
-  "title": "Building a Task Management App in React",
-  "description": "React tutorial on how to build a task management productivity app.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VFcEMHVW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tcnja6ses4h9w2mpb3mk.png",
-  "slug": "building-a-task-management-app-in-react-1ocf",
-  "url": "https://dev.to/alekswritescode/building-a-task-management-app-in-react-1ocf",
-  "publish_date": "2020-12-12",
-  "published_at": "2020-12-12T15:28:07Z"
- },
- {
-  "id": 540655,
-  "title": "[15] The 15 Best Web Development Blogs in 2020",
-  "description": "Today I will continue my Top 15 series with another post. This time I would like to share with you my...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yJ4H7g-l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/b2au6f205scwqu11pex9.png",
-  "slug": "15-top-15-web-development-blogs-in-2020-1na",
-  "url": "https://dev.to/villivald/15-top-15-web-development-blogs-in-2020-1na",
-  "publish_date": "2020-12-12",
-  "published_at": "2020-12-12T11:49:18Z"
- },
- {
-  "id": 540593,
-  "title": "BEST Framework for React JS (Gatsby vs Next.js)",
-  "description": "Table of content    Introduction Client-Side Rendering Why using a React framework? T...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vyZn80lD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fw6wmcpaaaqudb5nam0n.png",
-  "slug": "best-framework-for-react-js-gatsby-vs-next-js-46cl",
-  "url": "https://dev.to/alterclass/best-framework-for-react-js-gatsby-vs-next-js-46cl",
-  "publish_date": "2020-12-12",
-  "published_at": "2020-12-12T09:52:41Z"
- },
- {
-  "id": 540341,
-  "title": "How Employers Sabotage Remote Workers",
-  "description": "I recently wrote an article about the perils of remote work.  In that article, I talked about how rem...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9pyG2Hj9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lfqe7v1h04fkh16mv66p.jpg",
-  "slug": "how-employers-sabotage-remote-workers-57h5",
-  "url": "https://dev.to/bytebodger/how-employers-sabotage-remote-workers-57h5",
-  "publish_date": "2020-12-12",
-  "published_at": "2020-12-12T02:51:58Z"
- },
- {
-  "id": 250185,
-  "title": "🤯 Boost Your Productivity 1000% With This One Weird Trick",
-  "description": "Have too much to do? Stressed? Overcommitted at home and at work?  Would you believe me if I told you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h9q0JVKZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/21px7d5sr4mzg667zupw.png",
-  "slug": "boost-your-productivity-1000-with-this-one-weird-trick-2824",
-  "url": "https://dev.to/nnja/boost-your-productivity-1000-with-this-one-weird-trick-2824",
-  "publish_date": "2020-12-12",
-  "published_at": "2020-12-12T01:49:33Z"
  }
 ]
