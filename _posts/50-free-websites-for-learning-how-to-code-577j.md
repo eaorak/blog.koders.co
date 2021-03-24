@@ -1,0 +1,15 @@
+---
+title: '50 Free Websites For Learning How to Code'
+excerpt: 'I have been going through my bookmark list yesterday and decided to make a list of my bookmarks. I wi...'
+date: '2021-03-23'
+coverImage: 'https://res.cloudinary.com/practicaldev/image/fetch/s--768S20n7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pxhho1xbez1afx5oiak1.png'
+author:
+  name: Koders
+  picture: "assets/blog/authors/koders.png"
+ogImage:
+  url: 'https://res.cloudinary.com/practicaldev/image/fetch/s--768S20n7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pxhho1xbez1afx5oiak1.png'
+---
+
+I have been going through my bookmark list yesterday and decided to make a list of my bookmarks. I wi...
+
+[Read more](https://dev.to/hulyakarakaya/50-free-websites-for-learning-how-to-code-577j)
