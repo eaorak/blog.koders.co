@@ -1,5 +1,55 @@
 [
  {
+  "id": 648078,
+  "title": "call(), apply() and bind() methods in Javascript",
+  "description": "We know that functions are a special kind of objects in JavaScript. So they have access to some metho...",
+  "cover_image": "",
+  "slug": "call-apply-and-bind-methods-in-javascript-2m40",
+  "url": "https://dev.to/nomishah/call-apply-and-bind-methods-in-javascript-2m40",
+  "publish_date": "2021-03-28",
+  "published_at": "2021-03-28T11:30:35Z"
+ },
+ {
+  "id": 647813,
+  "title": "Ultimate React Resources",
+  "description": "Hello everyone, today I will be sharing React.js resources. These include blog posts, free e-books, G...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4WBFW_tr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9frwqtb51t37jrroi6x2.png",
+  "slug": "ultimate-react-resources-obl",
+  "url": "https://dev.to/hulyakarakaya/ultimate-react-resources-obl",
+  "publish_date": "2021-03-28",
+  "published_at": "2021-03-28T04:08:17Z"
+ },
+ {
+  "id": 647227,
+  "title": "Bring you website to life with SVG animations",
+  "description": "What is a SVG?   Scalable Vector Graphics (SVG) are an XML-based markup language for describ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kcJZqZBv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y1qp672723edbgtuoscc.gif",
+  "slug": "bring-you-website-to-life-with-svg-animations-252e",
+  "url": "https://dev.to/ruppysuppy/bring-you-website-to-life-with-svg-animations-252e",
+  "publish_date": "2021-03-28",
+  "published_at": "2021-03-28T03:38:53Z"
+ },
+ {
+  "id": 645406,
+  "title": "Building a RESTful API with NestJS and MongoDB (Mongoose)",
+  "description": "Introduction   We will learn how to implement a RESTful API for a simple todo application us...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zR1KpOup--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ztkksmaz7n6tfvssm30g.png",
+  "slug": "building-a-restful-api-with-nestjs-and-mongodb-mongoose-2165",
+  "url": "https://dev.to/carlomigueldy/building-a-restful-api-with-nestjs-and-mongodb-mongoose-2165",
+  "publish_date": "2021-03-28",
+  "published_at": "2021-03-28T00:34:37Z"
+ },
+ {
+  "id": 647773,
+  "title": "Static Site Generators - the WordPress alternative no one's talking about",
+  "description": "We've all experienced it.  Websites suddenly becoming slow for no reason, loading times in the double...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lt9ifR4m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4vq0y91saltfd9thxu6i.png",
+  "slug": "static-site-generators-the-wordpress-alternative-no-one-s-talking-about-11bj",
+  "url": "https://dev.to/darrendube/static-site-generators-the-wordpress-alternative-no-one-s-talking-about-11bj",
+  "publish_date": "2021-03-28",
+  "published_at": "2021-03-28T00:33:43Z"
+ },
+ {
   "id": 647221,
   "title": "Epiphanies and Ideas on Sustainable Open Source @Aviyel 💡🌱",
   "description": "A dream, an epiphany, a problem or a bug - most open source projects take birth here. Not so differen...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/chriss/doing-a-frontend-technical-interview-with-reactjs-2p0",
   "publish_date": "2020-12-19",
   "published_at": "2020-12-19T00:47:30Z"
- },
- {
-  "id": 546047,
-  "title": "25+ awesome-repo for Frontend Developers",
-  "description": "Today I prepared the Ultimate list of awesome-repos for Web developers           What is an awesome r...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JYHlx2Fa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/a0xa8jubs8eo2npk4b2m.png",
-  "slug": "25-awesome-repo-for-frontend-developers-4ll7",
-  "url": "https://dev.to/sakhnyuk/25-awesome-repo-for-frontend-developers-4ll7",
-  "publish_date": "2020-12-18",
-  "published_at": "2020-12-18T17:52:48Z"
- },
- {
-  "id": 546191,
-  "title": "All my programming threads and job hunting resources in one list",
-  "description": "Let's start!            Free web development resources.                                    M...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zf8ckWo9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z99xgznc6zb7dhjmhi11.png",
-  "slug": "all-my-programming-threads-and-job-hunting-resources-in-one-list-5ed7",
-  "url": "https://dev.to/denicmarko/all-my-programming-threads-and-job-hunting-resources-in-one-list-5ed7",
-  "publish_date": "2020-12-18",
-  "published_at": "2020-12-18T11:11:16Z"
- },
- {
-  "id": 546083,
-  "title": "My Web Development Study Plan For 2021",
-  "description": "Web development technologies to learn in 2021",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HInUHg_l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6lgk02lpg7s347zmiehz.jpg",
-  "slug": "my-web-development-study-plan-for-2021-5b57",
-  "url": "https://dev.to/eddyvinck/my-web-development-study-plan-for-2021-5b57",
-  "publish_date": "2020-12-18",
-  "published_at": "2020-12-18T09:27:26Z"
- },
- {
-  "id": 545950,
-  "title": "Tailwind CSS parallax effect",
-  "description": "Today we'll be creating a super cool parallax effect using only tailwind classes.  The only CSS we ne...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e9ulIJAR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/056sspc79wzyra4l4hml.jpg",
-  "slug": "tailwind-css-parallax-effect-5hjd",
-  "url": "https://dev.to/dailydevtips1/tailwind-css-parallax-effect-5hjd",
-  "publish_date": "2020-12-18",
-  "published_at": "2020-12-18T05:06:51Z"
- },
- {
-  "id": 545916,
-  "title": "React Redux: Token Authentication example with JWT \u0026 Axios",
-  "description": "In this tutorial, we’re gonna build a React + Redux Application for Token Authentication example with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J7hqjSCH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/7p9qcp32q6se7qspwi4e.png",
-  "slug": "react-redux-token-authentication-example-with-jwt-axios-1i1p",
-  "url": "https://dev.to/bezkoder/react-redux-token-authentication-example-with-jwt-axios-1i1p",
-  "publish_date": "2020-12-18",
-  "published_at": "2020-12-18T03:33:45Z"
  }
 ]
