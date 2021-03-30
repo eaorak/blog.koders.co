@@ -1,5 +1,55 @@
 [
  {
+  "id": 648915,
+  "title": "15+ Useful Web Development Tools That You Might Not Know",
+  "description": "Web development tools help developers to build a website or an application easier and faster. It simp...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jL9yVo5f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2gvf55wjz209amu994aa.jpg",
+  "slug": "15-useful-web-development-tools-that-you-might-not-know-462f",
+  "url": "https://dev.to/syakirurahman/15-useful-web-development-tools-that-you-might-not-know-462f",
+  "publish_date": "2021-03-29",
+  "published_at": "2021-03-29T13:08:50Z"
+ },
+ {
+  "id": 648763,
+  "title": "You ain't gonna need it",
+  "description": "I love coming back to a feature that was developed a couple of months ago and seeing that extending i...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CZ_PU81I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6x59gxw3mfppj6s86qix.png",
+  "slug": "you-ain-t-gonna-need-it-517j",
+  "url": "https://dev.to/bornfightcompany/you-ain-t-gonna-need-it-517j",
+  "publish_date": "2021-03-29",
+  "published_at": "2021-03-29T11:42:06Z"
+ },
+ {
+  "id": 648857,
+  "title": "Back to Basics: Understanding and Conquering \"this\" in Javascript",
+  "description": "Understanding the dark magic of function context in Javascript and Typescript",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rpRTUiCR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.hashnode.com/res/hashnode/image/upload/v1617014746497/ic0F1Cipg.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress",
+  "slug": "back-to-basics-understanding-and-conquering-this-in-javascript-4pbd",
+  "url": "https://dev.to/zackdotcomputer/back-to-basics-understanding-and-conquering-this-in-javascript-4pbd",
+  "publish_date": "2021-03-29",
+  "published_at": "2021-03-29T11:36:43Z"
+ },
+ {
+  "id": 648754,
+  "title": "Top 10 Git GUI clients",
+  "description": "Introduction   A lot of people prefer to use the command line when it comes to Git, but usin...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pLfXbAcT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkuerx8t40sqcre8ctnu.png",
+  "slug": "top-10-git-gui-client-23ln",
+  "url": "https://dev.to/alexgeorgiev17/top-10-git-gui-client-23ln",
+  "publish_date": "2021-03-29",
+  "published_at": "2021-03-29T09:28:39Z"
+ },
+ {
+  "id": 648570,
+  "title": "Learn Next.js For Free with These Resources",
+  "description": "Hello friends, yesterday I have shared React resources and I think after learning React, Next.js may...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nZkiUiDE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yfwwqenae7gx9u8bavtj.png",
+  "slug": "learn-next-js-for-free-with-these-resources-jfi",
+  "url": "https://dev.to/hulyakarakaya/learn-next-js-for-free-with-these-resources-jfi",
+  "publish_date": "2021-03-29",
+  "published_at": "2021-03-29T05:08:34Z"
+ },
+ {
   "id": 648078,
   "title": "call(), apply() and bind() methods in Javascript",
   "description": "We know that functions are a special kind of objects in JavaScript. So they have access to some metho...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/thejavascriptninja/the-ultimate-beginner-s-guide-to-graphql-part-2-organization-parameters-more-queries-and-mutations-42fi",
   "publish_date": "2020-12-20",
   "published_at": "2020-12-20T01:49:03Z"
- },
- {
-  "id": 547178,
-  "title": "YouTube Loading animation using HTML and CSS",
-  "description": "In this tutorial we will create skeleton screen loading effect using CSS. The skeleton screens are us...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z5r2QLvn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/bmxx528895f7ts5hxka8.jpg",
-  "slug": "youtube-loading-animation-using-html-and-css-44c2",
-  "url": "https://dev.to/stackfindover/youtube-loading-animation-using-html-and-css-44c2",
-  "publish_date": "2020-12-19",
-  "published_at": "2020-12-19T14:07:18Z"
- },
- {
-  "id": 547103,
-  "title": "How I Easily Code For 8+ Hours Without Feeling Tired (My Productivity System)",
-  "description": "I've been coding wrong my whole life.  I thought it was okay to just sit down at my desk, open my lap...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BYwaunXu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/k6079q48kcho5iwd7puh.png",
-  "slug": "how-i-easily-code-for-8-hours-without-feeling-tired-my-productivity-system-23i8",
-  "url": "https://dev.to/nickbulljs/how-i-easily-code-for-8-hours-without-feeling-tired-my-productivity-system-23i8",
-  "publish_date": "2020-12-19",
-  "published_at": "2020-12-19T12:15:59Z"
- },
- {
-  "id": 546978,
-  "title": "Node.js + Angular 11: JWT Authentication \u0026 Authorization example",
-  "description": "In this tutorial, we will learn how to build a full stack Node.js Express + Angular 11 Authentication...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VHCsaXkx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/yt96go8o7h9w984hbmz3.png",
-  "slug": "node-js-angular-11-jwt-authentication-authorization-example-4add",
-  "url": "https://dev.to/bezkoder/node-js-angular-11-jwt-authentication-authorization-example-4add",
-  "publish_date": "2020-12-19",
-  "published_at": "2020-12-19T08:58:47Z"
- },
- {
-  "id": 546962,
-  "title": "5 Podcasts every Dev must listen",
-  "description": "As a Dev, it's very important for us to stay updated with the latest and greatest in the industry. On...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Gd0nBlG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2fx3qohg1oy31cge0p15.gif",
-  "slug": "top-5-podcasts-every-dev-should-start-listening-1cmd",
-  "url": "https://dev.to/mindninjax/top-5-podcasts-every-dev-should-start-listening-1cmd",
-  "publish_date": "2020-12-19",
-  "published_at": "2020-12-19T08:50:41Z"
- },
- {
-  "id": 546779,
-  "title": "Doing a frontend technical interview with ReactJS",
-  "description": "There are many ways to conduct a technical interview, and they depend from company to company. You mi...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5oOjGi87--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/66gwzox7644vqrqd0jki.jpg",
-  "slug": "doing-a-frontend-technical-interview-with-reactjs-2p0",
-  "url": "https://dev.to/chriss/doing-a-frontend-technical-interview-with-reactjs-2p0",
-  "publish_date": "2020-12-19",
-  "published_at": "2020-12-19T00:47:30Z"
  }
 ]
