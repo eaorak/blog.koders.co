@@ -1,5 +1,55 @@
 [
  {
+  "id": 655754,
+  "title": "Supreme Court sides with Google over Oracle. Copying an API is fair use.",
+  "description": "SCOTUSblog                       @scotusblog...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IyV7qS9R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5i9t3r84labwv1zyfj60.jpg",
+  "slug": "supreme-court-sides-with-google-over-oracle-copying-an-api-is-fair-use-15o7",
+  "url": "https://dev.to/ben/supreme-court-sides-with-google-over-oracle-copying-an-api-is-fair-use-15o7",
+  "publish_date": "2021-04-05",
+  "published_at": "2021-04-05T15:29:52Z"
+ },
+ {
+  "id": 655432,
+  "title": "Delete node_modules like a Pro",
+  "description": "Usually, while working on multiple projects we complain about the hard drive which is mystically alwa...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H1VX19P9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/msb363ttyo8g72ujt8u9.png",
+  "slug": "delete-nodemodules-like-a-pro-1727",
+  "url": "https://dev.to/nirazanbasnet/delete-nodemodules-like-a-pro-1727",
+  "publish_date": "2021-04-05",
+  "published_at": "2021-04-05T09:22:32Z"
+ },
+ {
+  "id": 655433,
+  "title": "Ways of Getting Data from API in React",
+  "description": "This blog post is about the ways of getting data from API in React.  Before you read this post, you s...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AmPj-ARn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbx2euqemseqvyrdoesm.jpeg",
+  "slug": "ways-of-getting-data-from-api-in-react-2kpf",
+  "url": "https://dev.to/olenadrugalya/ways-of-getting-data-from-api-in-react-2kpf",
+  "publish_date": "2021-04-05",
+  "published_at": "2021-04-05T09:22:26Z"
+ },
+ {
+  "id": 655313,
+  "title": "What are Microservices:  The Pros and Cons",
+  "description": "Microservice Architecture or Microservices are increasingly being used in the software industry to...",
+  "cover_image": "",
+  "slug": "what-are-microservices-the-pros-and-cons-17bj",
+  "url": "https://dev.to/priyans23611789/what-are-microservices-the-pros-and-cons-17bj",
+  "publish_date": "2021-04-05",
+  "published_at": "2021-04-05T05:52:17Z"
+ },
+ {
+  "id": 655241,
+  "title": "Create image inside a text.",
+  "description": "Random image on each reload using HTML,CSS , JS.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JhryxoFe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6jlyojv64z3glwpht06.png",
+  "slug": "create-image-inside-a-text-3pec",
+  "url": "https://dev.to/salroid/create-image-inside-a-text-3pec",
+  "publish_date": "2021-04-05",
+  "published_at": "2021-04-05T02:55:42Z"
+ },
+ {
   "id": 654839,
   "title": "I write my own web desktop OS for 3 years and this is what it looks like now",
   "description": "This is a story about a poor student who just want a storage solution for his musics, video and photo...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/h43z/what-is-x-1-and-why-does-it-return-1-lbj",
   "publish_date": "2020-12-27",
   "published_at": "2020-12-27T00:51:09Z"
- },
- {
-  "id": 552951,
-  "title": "Demystifying DOM(s) : Everything you need to know about DOM, V-DOM, Shadow DOM",
-  "description": "Back Story     Wondering why this picture ?  Because if you have asked me about DOM few mont...",
-  "cover_image": "",
-  "slug": "demystifying-dom-s-everything-you-need-to-know-about-dom-v-dom-shadow-dom-cdj",
-  "url": "https://dev.to/rakesh/demystifying-dom-s-everything-you-need-to-know-about-dom-v-dom-shadow-dom-cdj",
-  "publish_date": "2020-12-26",
-  "published_at": "2020-12-26T09:46:06Z"
- },
- {
-  "id": 552949,
-  "title": "Node.js Express Login example with MongoDB",
-  "description": "In this tutorial, we're gonna build a Node.js \u0026amp; MongoDB example that supports User Authentication...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cv87_l8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/z0gkrh9m3wrfspffie57.png",
-  "slug": "node-js-express-login-example-with-mongodb-2ofc",
-  "url": "https://dev.to/tienbku/node-js-express-login-example-with-mongodb-2ofc",
-  "publish_date": "2020-12-26",
-  "published_at": "2020-12-26T09:45:57Z"
- },
- {
-  "id": 552357,
-  "title": "I Am Certified Professional in Web Accessibility! 🎉",
-  "description": "Acronyms explained    CPACC: Certified Professional in Accessibility Core Competencies WAS: Web Ac...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p0wBJlyq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/33oc30426mb5atzwg567.jpg",
-  "slug": "i-am-certified-professional-in-web-accessibility-2aan",
-  "url": "https://dev.to/eevajonnapanula/i-am-certified-professional-in-web-accessibility-2aan",
-  "publish_date": "2020-12-26",
-  "published_at": "2020-12-26T08:39:29Z"
- },
- {
-  "id": 552873,
-  "title": "Making a footer stick to the bottom with CSS",
-  "description": "Ever wanted to have a footer that's stuck to the bottom, but will push down if the content is bigger?...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uaNl53Uc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/q9tv5ow1cmh4bno1uoqh.jpg",
-  "slug": "making-a-footer-stick-to-the-bottom-with-css-212g",
-  "url": "https://dev.to/dailydevtips1/making-a-footer-stick-to-the-bottom-with-css-212g",
-  "publish_date": "2020-12-26",
-  "published_at": "2020-12-26T05:55:28Z"
- },
- {
-  "id": 552738,
-  "title": "How to schedule and manage tasks using crontab",
-  "description": "Before going into details about crontab, lets suppose you are running an online store and you want to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--24iXG3ti--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/yyhm6fkx8u1pwq80ql1b.png",
-  "slug": "how-to-schedule-and-manage-tasks-using-crontab-20dj",
-  "url": "https://dev.to/shaikh/how-to-schedule-and-manage-tasks-using-crontab-20dj",
-  "publish_date": "2020-12-26",
-  "published_at": "2020-12-26T03:19:32Z"
  }
 ]
