@@ -1,5 +1,55 @@
 [
  {
+  "id": 662936,
+  "title": "A different approach to frontend architecture",
+  "description": "(image source: https://www.infoq.com/i18n/software-architecture-trends-2019)  This article aims to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fMrLpSf2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eskhyq6kfqg5ma0n7quh.png",
+  "slug": "a-different-approach-to-frontend-architecture-38d4",
+  "url": "https://dev.to/quochuytlbk/a-different-approach-to-frontend-architecture-38d4",
+  "publish_date": "2021-04-12",
+  "published_at": "2021-04-12T11:08:59Z"
+ },
+ {
+  "id": 661781,
+  "title": "How to Plan and Build a Programming Project – A Legitimate Guide for Beginners",
+  "description": "This is a post I have thought about writing for a long time, I originally published it on my blog in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lKwoRoZm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m5bg3xfjpja8u41lsywu.jpg",
+  "slug": "how-to-plan-and-build-a-programming-project-a-legitimate-guide-for-beginners-1fll",
+  "url": "https://dev.to/peterlunch/how-to-plan-and-build-a-programming-project-a-legitimate-guide-for-beginners-1fll",
+  "publish_date": "2021-04-12",
+  "published_at": "2021-04-12T10:47:12Z"
+ },
+ {
+  "id": 661187,
+  "title": "40+ Useful Resources for Mastering Web🎁",
+  "description": "Introduction   We have a list of various resources that can help you to solve many problems...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zijasuZ0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5hc8qwac5j4m5gvw3sb.png",
+  "slug": "40-useful-resources-for-mastering-web-1i0h",
+  "url": "https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h",
+  "publish_date": "2021-04-12",
+  "published_at": "2021-04-12T07:36:58Z"
+ },
+ {
+  "id": 660507,
+  "title": "Are you already lost in your node_modules?",
+  "description": "It doesn’t matter if you work with React or Angular or Node.JS after some time when your project is...",
+  "cover_image": "",
+  "slug": "are-you-already-lost-in-your-nodemodules-2c12",
+  "url": "https://dev.to/tojasun/are-you-already-lost-in-your-nodemodules-2c12",
+  "publish_date": "2021-04-12",
+  "published_at": "2021-04-12T06:25:01Z"
+ },
+ {
+  "id": 661710,
+  "title": "👨‍💻Best VsCode extensions for Python Developers🐍",
+  "description": "Why do you need good tools for create software? 🤔            Short answer   Really you don't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DXDnl49T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vv8obq80a3pr6ovb6t2o.png",
+  "slug": "best-vscode-extensions-for-python-developers-525c",
+  "url": "https://dev.to/developerroad/best-vscode-extensions-for-python-developers-525c",
+  "publish_date": "2021-04-12",
+  "published_at": "2021-04-12T04:04:38Z"
+ },
+ {
   "id": 662056,
   "title": "The React Tutorial for 2021: A Complete Guide",
   "description": "Welcome to a tutorial made to help you become effective with React as quickly as possible as you buil...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jaketracey/the-best-web-accessibility-tools-for-developers-in-2021-8c8",
   "publish_date": "2021-01-03",
   "published_at": "2021-01-03T06:27:51Z"
- },
- {
-  "id": 559224,
-  "title": "Introducing Handsfree.js - Integrate hand, face, and pose gestures to your frontend 🖐👀🖐",
-  "description": "Hello and thank you for checking out this introductory post, I'm so excited to share Handsfree.js w...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YK58tLwT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6maanqi3v4an6wpg0eos.jpg",
-  "slug": "introducing-handsfree-js-integrate-hand-face-and-pose-gestures-to-your-frontend-4g3p",
-  "url": "https://dev.to/midiblocks/introducing-handsfree-js-integrate-hand-face-and-pose-gestures-to-your-frontend-4g3p",
-  "publish_date": "2021-01-02",
-  "published_at": "2021-01-02T18:17:37Z"
- },
- {
-  "id": 558974,
-  "title": "React + Node.js + MySQL CRUD example",
-  "description": "In this tutorial, I will show you how to build full-stack React + Node.js + MySQL CRUD example with E...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YyirW2tM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/l61d499veokq6546f3fu.png",
-  "slug": "react-node-js-mysql-crud-example-fc6",
-  "url": "https://dev.to/tienbku/react-node-js-mysql-crud-example-fc6",
-  "publish_date": "2021-01-02",
-  "published_at": "2021-01-02T12:37:04Z"
- },
- {
-  "id": 558959,
-  "title": "Video Chatting and Screen Sharing with React, Node, WebRTC(peerjs)",
-  "description": "To create a video chatting and screen sharing application requires three major setup    Basi...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j1vLdACl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/f0htstfz3qh9z3i5zx8o.jpeg",
-  "slug": "video-chatting-and-screen-sharing-with-react-node-webrtc-peerjs-18fg",
-  "url": "https://dev.to/arjhun777/video-chatting-and-screen-sharing-with-react-node-webrtc-peerjs-18fg",
-  "publish_date": "2021-01-02",
-  "published_at": "2021-01-02T12:23:56Z"
- },
- {
-  "id": 547744,
-  "title": "ES2021 Features with simple examples",
-  "description": "ES2021 aka ES12 is the version of ECMAScript corresponding to the year 2021. This version does not include as many new features as those that appeared in ES6 (2015). However, some useful features have been incorporated.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nrWwBkbx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn-images-1.medium.com/max/1200/1%2A_WJbyOV8GaHKulGO2v4eew.jpeg",
-  "slug": "es2021-features-with-simple-examples-27d3",
-  "url": "https://dev.to/carlillo/es2021-features-with-simple-examples-27d3",
-  "publish_date": "2021-01-02",
-  "published_at": "2021-01-02T11:09:20Z"
- },
- {
-  "id": 558865,
-  "title": "3 Projects you should have in your portfolio",
-  "description": "When building this projects keep the followings in mind    Focus on the details of the user...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---1xtVSpn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tdp0jhlnvsjrtbpjba1l.jpg",
-  "slug": "3-projects-you-should-have-in-your-portfolio-33e5",
-  "url": "https://dev.to/donubwise/3-projects-you-should-have-in-your-portfolio-33e5",
-  "publish_date": "2021-01-02",
-  "published_at": "2021-01-02T10:32:43Z"
  }
 ]
