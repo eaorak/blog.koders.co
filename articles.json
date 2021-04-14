@@ -1,5 +1,55 @@
 [
  {
+  "id": 664184,
+  "title": "A pure CSS password generator! 😱 They said it can't be done...",
+  "description": "I have seen loads of people say \"it can't be done\" and....well it can't (yet)!  However after seeing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4JdqZC3R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wq24wzg1gpa5wwgkhw07.jpg",
+  "slug": "a-pure-css-password-generator-they-said-it-can-t-be-done-4pla",
+  "url": "https://dev.to/inhuofficial/a-pure-css-password-generator-they-said-it-can-t-be-done-4pla",
+  "publish_date": "2021-04-13",
+  "published_at": "2021-04-13T13:16:40Z"
+ },
+ {
+  "id": 662312,
+  "title": "10 GitHub repos you need to know as a web developer",
+  "description": "If you found value in this thread you will most likely enjoy my tweets too so make sure you follow me...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ocMhhRqI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cd11fzg7ih5nw1r36eow.png",
+  "slug": "10-github-repos-you-need-to-know-as-a-web-developer-e7a",
+  "url": "https://dev.to/pascavld/10-github-repos-you-need-to-know-as-a-web-developer-e7a",
+  "publish_date": "2021-04-13",
+  "published_at": "2021-04-13T12:07:43Z"
+ },
+ {
+  "id": 660194,
+  "title": "30 Awesome places to find design inspiration",
+  "description": "If I could give you one piece of advice about enhancing your creative process, it would be to never a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7sSwjQE_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hblnhpz9k3lcig5umon.png",
+  "slug": "30-awesome-places-to-find-design-inspiration-1hpn",
+  "url": "https://dev.to/cruip/30-awesome-places-to-find-design-inspiration-1hpn",
+  "publish_date": "2021-04-13",
+  "published_at": "2021-04-13T10:47:59Z"
+ },
+ {
+  "id": 663940,
+  "title": "State Management Battle in React 2021: Hooks, Redux, and Recoil",
+  "description": "Introduction:   Over the years, the massive growth of React.JS has given birth to different...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x9iX0Tyo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7f87dt0sbd8aatfxlkon.png",
+  "slug": "state-management-battle-in-react-2021-hooks-redux-and-recoil-2am0",
+  "url": "https://dev.to/workshub/state-management-battle-in-react-2021-hooks-redux-and-recoil-2am0",
+  "publish_date": "2021-04-13",
+  "published_at": "2021-04-13T08:32:01Z"
+ },
+ {
+  "id": 663897,
+  "title": "Understanding Web Vitals",
+  "description": "Web Vitals are a set of metrics that Google views as essential to a website’s user experience (UX). G...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iOfqz4X7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxnwaividtsgu72hqtyb.png",
+  "slug": "understanding-web-vitals-2d6c",
+  "url": "https://dev.to/kaspera/understanding-web-vitals-2d6c",
+  "publish_date": "2021-04-13",
+  "published_at": "2021-04-13T07:54:51Z"
+ },
+ {
   "id": 662936,
   "title": "A different approach to frontend architecture",
   "description": "(image source: https://www.infoq.com/i18n/software-architecture-trends-2019)  This article aims to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/simonholdorf/10-awesome-free-courses-for-devs-by-devs-15ci",
   "publish_date": "2021-01-04",
   "published_at": "2021-01-04T07:22:50Z"
- },
- {
-  "id": 557720,
-  "title": "CSS Loading Animation - Ripple Effect in Mosaic (keyframes, flex box)",
-  "description": "Today let's work with CSS animations, delays and flex box in order to create a nice little ripple eff...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Enxi4hq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/kesi0cljhs6ch8iyw7io.png",
-  "slug": "css-loading-animation-ripple-effect-in-mosaic-keyframes-flex-box-4a77",
-  "url": "https://dev.to/crayoncode/css-loading-animation-ripple-effect-in-mosaic-keyframes-flex-box-4a77",
-  "publish_date": "2021-01-03",
-  "published_at": "2021-01-03T14:59:40Z"
- },
- {
-  "id": 559281,
-  "title": "I built my Portfolio Website using nothing but HTML \u0026 CSS!",
-  "description": "What I built   I built a developer portfolio showcasing my projects, tech stack, and more us...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YMFe1ZKo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/pm7phglw10q59fep8s65.png",
-  "slug": "i-built-my-portfolio-website-using-nothing-but-html-css-5bjf",
-  "url": "https://dev.to/codewithfahad/i-built-my-portfolio-website-using-nothing-but-html-css-5bjf",
-  "publish_date": "2021-01-03",
-  "published_at": "2021-01-03T12:49:03Z"
- },
- {
-  "id": 559765,
-  "title": "A Simple Weather Web App",
-  "description": "Hello Dev's, I created a Simple Weather Web App using HTML, CSS, Javascript, and openweather API.  op...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Erne8GO---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vw1tk0edx3e63tfusra3.jpg",
-  "slug": "a-simple-weather-web-app-2aaa",
-  "url": "https://dev.to/arwazkhan189/a-simple-weather-web-app-2aaa",
-  "publish_date": "2021-01-03",
-  "published_at": "2021-01-03T08:45:36Z"
- },
- {
-  "id": 559753,
-  "title": "A list of actually useful Nocode tools and I am not talking about site builders.",
-  "description": "There's a lot of buzz going around the web dev world regarding Nocode, but a ton of these do the same...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--87kq-jRQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2c6f80b6xnjf69d7gy2q.png",
-  "slug": "a-list-of-actually-useful-nocode-tools-and-i-am-not-talking-about-site-builders-3m4g",
-  "url": "https://dev.to/fayaz/a-list-of-actually-useful-nocode-tools-and-i-am-not-talking-about-site-builders-3m4g",
-  "publish_date": "2021-01-03",
-  "published_at": "2021-01-03T08:31:36Z"
- },
- {
-  "id": 559686,
-  "title": "The best web accessibility tools for developers in 2021",
-  "description": "The quality of the tools you use defines the speed with which you can diagnose and resolve problems....",
-  "cover_image": "",
-  "slug": "the-best-web-accessibility-tools-for-developers-in-2021-8c8",
-  "url": "https://dev.to/jaketracey/the-best-web-accessibility-tools-for-developers-in-2021-8c8",
-  "publish_date": "2021-01-03",
-  "published_at": "2021-01-03T06:27:51Z"
  }
 ]
