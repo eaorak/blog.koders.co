@@ -1,5 +1,55 @@
 [
  {
+  "id": 667466,
+  "title": "200+ JS Resources to master programming 💥  Cheat Sheet",
+  "description": "Hello World! I felt bored after completing the Ultimate Cheat Sheet Compilation, so I just decided to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GvWGP0qB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sr15s3f6srm4uq4xaedz.png",
+  "slug": "200-js-resources-to-master-programming-3aj6",
+  "url": "https://dev.to/devlorenzo/200-js-resources-to-master-programming-3aj6",
+  "publish_date": "2021-04-20",
+  "published_at": "2021-04-20T13:30:49Z"
+ },
+ {
+  "id": 666874,
+  "title": "Tree shaking for JavaScript library authors",
+  "description": "Contrary to what most developers think, tree shaking isn’t very complicated. The discussion around th...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gRRfgcbq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eudq8tnb0ixfbrpipuvl.png",
+  "slug": "tree-shaking-for-javascript-library-authors-4lb0",
+  "url": "https://dev.to/livechat/tree-shaking-for-javascript-library-authors-4lb0",
+  "publish_date": "2021-04-20",
+  "published_at": "2021-04-20T13:13:14Z"
+ },
+ {
+  "id": 670727,
+  "title": "20 useful free resources for Web Developers",
+  "description": "If you found value in this thread you will most likely enjoy my tweets too so make sure you follow me...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yar_Y9hL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/des2dyat3zrrzjp9c9k0.png",
+  "slug": "20-useful-free-resources-for-web-developers-2c3n",
+  "url": "https://dev.to/pascavld/20-useful-free-resources-for-web-developers-2c3n",
+  "publish_date": "2021-04-20",
+  "published_at": "2021-04-20T11:35:02Z"
+ },
+ {
+  "id": 672359,
+  "title": "30+ website to find designs for your next projects",
+  "description": "In this post you can find Website Designs For You Next Projects Its Free For All And Easily Acessable...",
+  "cover_image": "",
+  "slug": "30-website-to-find-designs-for-your-next-projects-1kih",
+  "url": "https://dev.to/pawanbhayde/30-website-to-find-designs-for-your-next-projects-1kih",
+  "publish_date": "2021-04-20",
+  "published_at": "2021-04-20T06:25:40Z"
+ },
+ {
+  "id": 672179,
+  "title": "Implementing Passwordless Authentication in Node.JS",
+  "description": "One of the OWASP Top 10 security issues for websites is authentication that hasn't been implemented correctly. In this quick article, you'll see one of the ways you can make your own authentication system with Node.JS.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oHGVqqcr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/53f4gry0zswjpv3dbfvp.png",
+  "slug": "implementing-passwordless-authentication-in-node-js-43m0",
+  "url": "https://dev.to/flippedcoding/implementing-passwordless-authentication-in-node-js-43m0",
+  "publish_date": "2021-04-20",
+  "published_at": "2021-04-20T01:26:55Z"
+ },
+ {
   "id": 671655,
   "title": "The React Router Cheatsheet: Everything You Should Know",
   "description": "If you're building React applications for the web, you're going to need to use a dedicated router to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/adrianbdesigns/create-animated-navigation-indicator-with-html-css-and-js-300b",
   "publish_date": "2021-01-11",
   "published_at": "2021-01-11T07:03:13Z"
- },
- {
-  "id": 567874,
-  "title": "Keeping Git Commit Messages Consistent with a Custom Template",
-  "description": "xkcd on git commit messages    The ability to write consistent git commit messages is a skill that w...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--137JySGe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/lhu9sqsut40fqhxcc6xn.png",
-  "slug": "keeping-git-commit-messages-consistent-with-a-custom-template-1jkm",
-  "url": "https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm",
-  "publish_date": "2021-01-10",
-  "published_at": "2021-01-10T17:38:33Z"
- },
- {
-  "id": 563096,
-  "title": "FlexBox Cheat Sheets in 2021 || CSS 2021",
-  "description": "Table of Contents --    FlexBox Architecture flex-direction justify-content align-content al...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QhWoPnGt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/stjkq1bup9n640weob7a.png",
-  "slug": "flexbox-cheat-sheets-in-2021-css-2021-3edl",
-  "url": "https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl",
-  "publish_date": "2021-01-10",
-  "published_at": "2021-01-10T16:09:20Z"
- },
- {
-  "id": 567329,
-  "title": "CSS Grid Layout Template Areas (Secrets of Painless Layout)",
-  "description": "Today let's start getting to know CSS grid layout and bring some ease to handling grid positions thro...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GHAXV_FP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ocf1zyuvyjtfk81i6x3n.png",
-  "slug": "css-grid-layout-template-areas-secrets-of-painless-layout-444n",
-  "url": "https://dev.to/crayoncode/css-grid-layout-template-areas-secrets-of-painless-layout-444n",
-  "publish_date": "2021-01-10",
-  "published_at": "2021-01-10T10:01:36Z"
- },
- {
-  "id": 566868,
-  "title": "7 hacks to optimize your react app",
-  "description": "In this post, I have put together React to specific best practices to have the best load time and runtime performance",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kMmMKlyA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/x4lq5ps1k74o0p2n6k6k.png",
-  "slug": "7-hacks-to-optimize-your-react-app-27e6",
-  "url": "https://dev.to/impalaklive/7-hacks-to-optimize-your-react-app-27e6",
-  "publish_date": "2021-01-10",
-  "published_at": "2021-01-10T06:34:18Z"
- },
- {
-  "id": 567544,
-  "title": "Making React App a Progressive Web App (PWA)",
-  "description": "What is a PWA?   Progressive Web Apps are user experiences that have the reach of the web, a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gQBVBBF8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3jvjp2w3kxh2p03y2qqz.jpg",
-  "slug": "making-react-app-a-progressive-web-app-pwa-46dk",
-  "url": "https://dev.to/ankitkamboj18/making-react-app-a-progressive-web-app-pwa-46dk",
-  "publish_date": "2021-01-10",
-  "published_at": "2021-01-10T05:52:24Z"
  }
 ]
