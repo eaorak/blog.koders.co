@@ -1,5 +1,55 @@
 [
  {
+  "id": 676831,
+  "title": "How Does The Web Work?",
+  "description": "Car, television, stove, and refrigerator are the machines we use daily that are fairly simple to use....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b-n9DghP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x1zussyb4hotcrnrnfss.png",
+  "slug": "how-does-the-web-work-543",
+  "url": "https://dev.to/chuckchoiboi/how-does-the-web-work-543",
+  "publish_date": "2021-04-26",
+  "published_at": "2021-04-26T13:38:41Z"
+ },
+ {
+  "id": 632147,
+  "title": "165+ Developer Resources I Discovered in 2020-2021",
+  "description": "Since starting to actively code in 2020, I have come across many helpful resources.  Some I have comp...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Ig0H2T8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fn4yebyrc6y5msplbfu1.jpg",
+  "slug": "165-developer-resources-i-discovered-in-2020-2021-6ma",
+  "url": "https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma",
+  "publish_date": "2021-04-26",
+  "published_at": "2021-04-26T12:56:03Z"
+ },
+ {
+  "id": 672826,
+  "title": "6 Python Tips \u0026 Tricks that no One Teaches 🚀🐍",
+  "description": "Python is currently the most used programming language in the world, and the unique reason is that Py...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--585wX_JX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g47jia3sgwhrni15p5gf.png",
+  "slug": "6-python-tips-tricks-that-no-one-teaches-4j73",
+  "url": "https://dev.to/worldindev/6-python-tips-tricks-that-no-one-teaches-4j73",
+  "publish_date": "2021-04-26",
+  "published_at": "2021-04-26T12:46:00Z"
+ },
+ {
+  "id": 677870,
+  "title": "A painless guide to understanding CSS positioning",
+  "description": "Developing an understanding of the CSS position property is important if you want to become really go...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1zQ52KN0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vdeulwodble8s2dy2ru.jpg",
+  "slug": "a-painless-guide-to-understanding-css-positioning-2nbh",
+  "url": "https://dev.to/peterlunch/a-painless-guide-to-understanding-css-positioning-2nbh",
+  "publish_date": "2021-04-26",
+  "published_at": "2021-04-26T10:30:25Z"
+ },
+ {
+  "id": 678654,
+  "title": "ES6 Import And Export Cheatsheet",
+  "description": "Before ES6 came into play, we used multiple script tags in a single HTML file to import different Jav...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I18j9kAK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tn9nj78xgd61se1smr0p.jpeg",
+  "slug": "es6-import-and-export-cheatsheet-3op5",
+  "url": "https://dev.to/myogeshchavan97/es6-import-and-export-cheatsheet-3op5",
+  "publish_date": "2021-04-26",
+  "published_at": "2021-04-26T06:08:28Z"
+ },
+ {
   "id": 678116,
   "title": "Free ultimate React resources. Zero to Hero in React",
   "description": "This guide was originally published at -\u0026gt; Devintro.com  Delivered by Facebook in 2013, React is a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nialljoemaher/5-npm-tips-tricks-you-probably-don-t-know-1he",
   "publish_date": "2021-01-17",
   "published_at": "2021-01-17T09:21:39Z"
- },
- {
-  "id": 573452,
-  "title": "The 7 JavaScript Skills You Need For React (+ Practical Examples)",
-  "description": "One of the most important things to understand about React is that it is fundamentally JavaScript. Th...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1tdlKhVT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ttt4d5c38ynwsplzrlxz.png",
-  "slug": "the-7-javascript-skills-you-need-for-react-practical-examples-1ida",
-  "url": "https://dev.to/reedbarger/the-7-javascript-skills-you-need-for-react-practical-examples-1ida",
-  "publish_date": "2021-01-16",
-  "published_at": "2021-01-16T15:41:53Z"
- },
- {
-  "id": 573319,
-  "title": "How to Secure JWT in a Single-Page Application",
-  "description": "Securely make JWT based authentication in React Application.  In this article, we will see how to sec...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sZwkqlZy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mptfdl348aiko62jaeor.png",
-  "slug": "how-to-secure-jwt-in-a-single-page-application-cko",
-  "url": "https://dev.to/nilanth/how-to-secure-jwt-in-a-single-page-application-cko",
-  "publish_date": "2021-01-16",
-  "published_at": "2021-01-16T13:31:35Z"
- },
- {
-  "id": 563680,
-  "title": "Decoding Developer Relations in a Blog",
-  "description": "If you're working in the software industry as an engineer or a CxO, or a student majoring in a techni...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZJi3NBxi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hsxmkkux7tr7bxeinz7t.jpg",
-  "slug": "decoding-developer-relations-in-a-blog-5823",
-  "url": "https://dev.to/manbir/decoding-developer-relations-in-a-blog-5823",
-  "publish_date": "2021-01-16",
-  "published_at": "2021-01-16T11:21:05Z"
- },
- {
-  "id": 573075,
-  "title": "What are Generators in JavaScript? ",
-  "description": "In today's post, we'll cover Generator function in JavaScript. This post is important for people who...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SK5daDHR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/apmwasdwryo8fl8g4ntk.png",
-  "slug": "what-are-generators-in-javascript-5fd8",
-  "url": "https://dev.to/rahxuls/what-are-generators-in-javascript-5fd8",
-  "publish_date": "2021-01-16",
-  "published_at": "2021-01-16T03:46:05Z"
- },
- {
-  "id": 573028,
-  "title": "Why Tailwind Isn't for Me",
-  "description": "I think the folks building Tailwind are talented and nice people. But at a pure technical level, I simply don't like Tailwind. Whoever it was built for, it was not built for me.",
-  "cover_image": "",
-  "slug": "why-tailwind-isn-t-for-me-5c90",
-  "url": "https://dev.to/jaredcwhite/why-tailwind-isn-t-for-me-5c90",
-  "publish_date": "2021-01-16",
-  "published_at": "2021-01-16T00:59:20Z"
  }
 ]
