@@ -1,5 +1,55 @@
 [
  {
+  "id": 679161,
+  "title": "400+ JavaScript Interview Questions 🎓  With Answers 🌠",
+  "description": "Hello World! Today I prepared a huge list of Javascript Interview Questions from this awesome repo. S...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YbN0TXKS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wtjzaaecewm8d22y5fu2.png",
+  "slug": "400-javascript-interview-questions-with-answers-2fcj",
+  "url": "https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj",
+  "publish_date": "2021-04-27",
+  "published_at": "2021-04-27T12:28:24Z"
+ },
+ {
+  "id": 679804,
+  "title": "useReducer instead of useState while calling APIs!",
+  "description": "Hello folks!   It’s been a while since React has introduced Hooks and we all fell in love with it’s p...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hyeChuLP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryx33nvesxhf7k1k4q5j.png",
+  "slug": "usereducer-instead-of-usestate-while-calling-apis-3e1l",
+  "url": "https://dev.to/ms_yogii/usereducer-instead-of-usestate-while-calling-apis-3e1l",
+  "publish_date": "2021-04-27",
+  "published_at": "2021-04-27T11:04:28Z"
+ },
+ {
+  "id": 675399,
+  "title": "What is Virtual DOM? How Virtual DOM works ? What is Reconciliation ? What is diffing algorithm? What makes React so fast ?",
+  "description": "You can also refer to my YouTube video for understanding with animations about the Virtual D...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--istq1m-t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36uh99trwkhy0tpd0xjn.png",
+  "slug": "what-is-virtual-dom-how-virtual-dom-works-what-is-reconciliation-what-is-diffing-algorithm-what-makes-react-so-fast-327a",
+  "url": "https://dev.to/koolkishan/what-is-virtual-dom-how-virtual-dom-works-what-is-reconciliation-what-is-diffing-algorithm-what-makes-react-so-fast-327a",
+  "publish_date": "2021-04-27",
+  "published_at": "2021-04-27T08:44:53Z"
+ },
+ {
+  "id": 679165,
+  "title": "💻 5 Useful VS Code extensions to help you with Javascript, React and Git",
+  "description": "This is a list of 5 extensions and themes for VS Code that I often use and find useful.    ES7 React/...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IgWkwrvX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3n3lw4nkuhfd413e8yhs.png",
+  "slug": "5-useful-vs-code-extensions-to-help-you-with-javascript-react-and-git-51kk",
+  "url": "https://dev.to/girgetto/5-useful-vs-code-extensions-to-help-you-with-javascript-react-and-git-51kk",
+  "publish_date": "2021-04-27",
+  "published_at": "2021-04-27T08:35:38Z"
+ },
+ {
+  "id": 679874,
+  "title": "Laravel Theme Download - Modern UI Kits to start fast",
+  "description": "A curated list with Laravel Themes and projects available for download without a registration lock - all projects are released under the MIT License.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--huGJAo8j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.admin-dashboards.com/content/images/size/w1000/2021/04/cover-blog-laravel-theme-download.jpg",
+  "slug": "laravel-theme-download-modern-ui-kits-to-start-fast-1hi7",
+  "url": "https://dev.to/sm0ke/laravel-theme-download-modern-ui-kits-to-start-fast-1hi7",
+  "publish_date": "2021-04-27",
+  "published_at": "2021-04-27T07:50:58Z"
+ },
+ {
   "id": 676831,
   "title": "How Does The Web Work?",
   "description": "Car, television, stove, and refrigerator are the machines we use daily that are fairly simple to use....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alexdevero/what-method-chaining-in-javascript-is-how-it-works-and-how-to-use-it-53dd",
   "publish_date": "2021-01-18",
   "published_at": "2021-01-18T07:17:01Z"
- },
- {
-  "id": 471084,
-  "title": "DevOps Roadmap [2021] - How to become a DevOps Engineer",
-  "description": "A roadmap of how to become a DevOps engineer in 2021                          What does DevO...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gjH5p8Ap--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6fp5w4v9b1h1ncg6nkiu.png",
-  "slug": "devops-roadmap-2021-how-to-become-a-devops-engineer-1n9p",
-  "url": "https://dev.to/techworld_with_nana/devops-roadmap-2021-how-to-become-a-devops-engineer-1n9p",
-  "publish_date": "2021-01-17",
-  "published_at": "2021-01-17T16:40:29Z"
- },
- {
-  "id": 574158,
-  "title": "⚛️ React interview questions and answers for JS developers",
-  "description": "👉 You can check all 161 React tech interview questions here            🔹 1. How does React work?...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3_T95fH0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hqu6lofo5aee1sfi6cv1.jpg",
-  "slug": "react-interview-questions-and-answers-for-js-developers-h1m",
-  "url": "https://dev.to/devinterview/react-interview-questions-and-answers-for-js-developers-h1m",
-  "publish_date": "2021-01-17",
-  "published_at": "2021-01-17T16:05:26Z"
- },
- {
-  "id": 574007,
-  "title": "Cold Hard Truths About Software Engineering I Understood After 9+ Years",
-  "description": "Software engineering is not a magical place where everyone has a six-figure salary, works on projects...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cfC6QQB7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6v2ulkinf40zwpjw9zvo.png",
-  "slug": "cold-hard-truths-about-software-engineering-i-understood-after-9-years-5483",
-  "url": "https://dev.to/nickbulljs/cold-hard-truths-about-software-engineering-i-understood-after-9-years-5483",
-  "publish_date": "2021-01-17",
-  "published_at": "2021-01-17T10:48:07Z"
- },
- {
-  "id": 573976,
-  "title": "Javascript: The trend!",
-  "description": "If you’re curious about programming in 2021 and still confused with programming languages. Please rea...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8_gBUp1R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/w3uwwqq3ueabbcbjuyeh.png",
-  "slug": "javascript-the-trend-24go",
-  "url": "https://dev.to/commentme/javascript-the-trend-24go",
-  "publish_date": "2021-01-17",
-  "published_at": "2021-01-17T10:21:36Z"
- },
- {
-  "id": 321436,
-  "title": "5 npm Tips/Tricks You (Probably) Don't Know 🚀",
-  "description": "A small showcase of some of the useful underused things you can do with npm to boost your productivity. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n9urvkgl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://media.giphy.com/media/uA0EqAq95yY8aw0NhW/giphy.gif",
-  "slug": "5-npm-tips-tricks-you-probably-don-t-know-1he",
-  "url": "https://dev.to/nialljoemaher/5-npm-tips-tricks-you-probably-don-t-know-1he",
-  "publish_date": "2021-01-17",
-  "published_at": "2021-01-17T09:21:39Z"
  }
 ]
