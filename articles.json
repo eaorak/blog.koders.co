@@ -1,5 +1,55 @@
 [
  {
+  "id": 684091,
+  "title": "Is 0kb of JavaScript in your Future?",
+  "description": "Zero JavaScript has been the new buzz phrase around JavaScript libraries for the last little while. A...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uHh2YIVz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mjq4ogpydqkg2ett94el.jpeg",
+  "slug": "is-0kb-of-javascript-in-your-future-48og",
+  "url": "https://dev.to/this-is-learning/is-0kb-of-javascript-in-your-future-48og",
+  "publish_date": "2021-05-03",
+  "published_at": "2021-05-03T14:27:12Z"
+ },
+ {
+  "id": 683832,
+  "title": "THE Ultimate Web Dev Cheat Sheet - HTML / CSS / JS 🚀",
+  "description": "Hello World! Seems like we're in a streak to be the best articles of the week here at DEV, will this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jlntR7ij--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncj4thjo0jzcevy9i78j.png",
+  "slug": "the-web-developer-roadmap-264n",
+  "url": "https://dev.to/worldindev/the-web-developer-roadmap-264n",
+  "publish_date": "2021-05-03",
+  "published_at": "2021-05-03T10:28:21Z"
+ },
+ {
+  "id": 686110,
+  "title": "My favorite blogging tools to make you a productive blogger",
+  "description": "Blogging is a creative art. We need ideas, motivation, time, and skill to bring our thoughts to reali...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qs5s0k_R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qe01di68g0nlrr8p42t6.png",
+  "slug": "my-favorite-blogging-tools-to-make-you-a-productive-blogger-50c",
+  "url": "https://dev.to/atapas/my-favorite-blogging-tools-to-make-you-a-productive-blogger-50c",
+  "publish_date": "2021-05-03",
+  "published_at": "2021-05-03T08:41:47Z"
+ },
+ {
+  "id": 686028,
+  "title": "React useEffect Hook Made Simple",
+  "description": "The React useEffect Hook helps you manage side-effects in functional React components. It also makes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---EUhvrJ9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rc0qdhnqskbiwjumrqoy.jpg",
+  "slug": "react-useeffect-hook-made-simple-50ha",
+  "url": "https://dev.to/alexdevero/react-useeffect-hook-made-simple-50ha",
+  "publish_date": "2021-05-03",
+  "published_at": "2021-05-03T06:15:39Z"
+ },
+ {
+  "id": 685928,
+  "title": "6 Nullish coalescing operators every javascript programmer must know !",
+  "description": "TL:DR :   Most of the time out javascript code becomes clumsier if we inserted the multiple...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OfyhQsDc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5412klb67fxqqzoe8mjn.png",
+  "slug": "6-nullish-coalescing-operators-every-javascript-programmer-must-know-12m2",
+  "url": "https://dev.to/sudarshansb143/6-nullish-coalescing-operators-every-javascript-programmer-must-know-12m2",
+  "publish_date": "2021-05-03",
+  "published_at": "2021-05-03T03:58:48Z"
+ },
+ {
   "id": 641843,
   "title": "Content \u0026 Community- A Cheatsheet for Open Source projects. ( Part 1: Content 🎨)",
   "description": "“Software built on pride and love of the subject is superior to software built for profit.” - Ravi S...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aumayeung/javascript-interview-questions-events-in-detail-36jn",
   "publish_date": "2021-01-24",
   "published_at": "2021-01-24T01:56:16Z"
- },
- {
-  "id": 572556,
-  "title": "My beloved Python cheat sheet",
-  "description": "Here is my cheat sheet I created along my learning journey. If you have any recommendations (addition...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fa1NCoAt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/83ga7st8206e1vc2x2en.jpg",
-  "slug": "my-beloved-python-cheat-sheet-4kpk",
-  "url": "https://dev.to/rickavmaniac/my-beloved-python-cheat-sheet-4kpk",
-  "publish_date": "2021-01-23",
-  "published_at": "2021-01-23T15:45:42Z"
- },
- {
-  "id": 580226,
-  "title": "7 React Projects You Should Build in 2021",
-  "description": "React is a JavaScript library that is ideal for creating impressive apps. There are countless project...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pn3sUiPH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/svgdug9qjx66l5uxsjdk.png",
-  "slug": "7-react-projects-you-should-build-in-2021-p20",
-  "url": "https://dev.to/reedbarger/7-react-projects-you-should-build-in-2021-p20",
-  "publish_date": "2021-01-23",
-  "published_at": "2021-01-23T15:03:04Z"
- },
- {
-  "id": 580167,
-  "title": "React Design Patterns (Part 1)",
-  "description": "This article originally appeared at bugfender.com: React Design Patterns (Part 1).  Having studied...",
-  "cover_image": "",
-  "slug": "react-design-patterns-part-1-aj1",
-  "url": "https://dev.to/tomeraitz/react-design-patterns-part-1-aj1",
-  "publish_date": "2021-01-23",
-  "published_at": "2021-01-23T12:57:42Z"
- },
- {
-  "id": 544752,
-  "title": "⚡️ Full TypeScript Beginner's Course [Free!]",
-  "description": "Over lockdown, I wrote, shot and edited a full TypeScript course for my website, CodeSnap.  It's be...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GQhUT3fZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/i8rhzlv277boziza1w7l.png",
-  "slug": "full-typescript-beginner-s-course-free-22mg",
-  "url": "https://dev.to/sam_piggott/full-typescript-beginner-s-course-free-22mg",
-  "publish_date": "2021-01-23",
-  "published_at": "2021-01-23T12:27:02Z"
- },
- {
-  "id": 579939,
-  "title": "14 Free Cloud Storage and File Sharing For Developer",
-  "description": "Google Drive   Google Drive is a popular file sharing site for you these days for its conven...",
-  "cover_image": "",
-  "slug": "14-free-cloud-storage-and-file-sharing-for-developer-4cp5",
-  "url": "https://dev.to/haycuoilennao19/14-free-cloud-storage-and-file-sharing-for-developer-4cp5",
-  "publish_date": "2021-01-23",
-  "published_at": "2021-01-23T02:17:00Z"
  }
 ]
