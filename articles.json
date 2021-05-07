@@ -1,5 +1,55 @@
 [
  {
+  "id": 690180,
+  "title": "The Ultimate Web Developer Resources List 🔥Awesome 200+ Resources",
+  "description": "Web development is not an easy task for beginners, to create a web project that standout takes lot of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EFzFcagj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hj915sjfzq0jrd0avmac.png",
+  "slug": "the-ultimate-web-developer-resources-list-200-resources-2gf5",
+  "url": "https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5",
+  "publish_date": "2021-05-06",
+  "published_at": "2021-05-06T19:59:31Z"
+ },
+ {
+  "id": 689959,
+  "title": "How to Make Your First Open Source Contribution",
+  "description": "Open source software is a huge part of the tech industry. Over and over, we hear about the power of o...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uj3taPt---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gos30nlvvekuhc8kua8.png",
+  "slug": "how-to-make-your-first-open-source-contribution-2oim",
+  "url": "https://dev.to/codesandboxio/how-to-make-your-first-open-source-contribution-2oim",
+  "publish_date": "2021-05-06",
+  "published_at": "2021-05-06T16:25:37Z"
+ },
+ {
+  "id": 689594,
+  "title": "Do you really need a dashboard?",
+  "description": "As analysts, we’re often asked to quickly produce dashboards or metrics that aim to solve a specific...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gR3t8LcN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7iuewrj5dwgazm28c3o.png",
+  "slug": "do-you-really-need-a-dashboard-57o5",
+  "url": "https://dev.to/helenanders26/do-you-really-need-a-dashboard-57o5",
+  "publish_date": "2021-05-06",
+  "published_at": "2021-05-06T10:56:00Z"
+ },
+ {
+  "id": 689558,
+  "title": "Basic Concepts to Understand API, Web Services \u0026 Microservices",
+  "description": "Developers have been using three major building blocks for the development of web apps, namely, API...",
+  "cover_image": "",
+  "slug": "basic-concepts-to-understand-api-web-services-microservices-3g02",
+  "url": "https://dev.to/priyanshi_sharma/basic-concepts-to-understand-api-web-services-microservices-3g02",
+  "publish_date": "2021-05-06",
+  "published_at": "2021-05-06T09:35:27Z"
+ },
+ {
+  "id": 689215,
+  "title": "10 Advices For Every Aspiring Web Developer ",
+  "description": "I have been in this industry for nearly two years now.   Spent those two years learning, observing, t...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AF1uI_Hm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hr98jmhc1c5zkfwhn1g1.png",
+  "slug": "10-advices-for-every-aspiring-web-developer-3lcj",
+  "url": "https://dev.to/ubahthebuilder/10-advices-for-every-aspiring-web-developer-3lcj",
+  "publish_date": "2021-05-06",
+  "published_at": "2021-05-06T03:00:03Z"
+ },
+ {
   "id": 681033,
   "title": "Announcing NubesGen, an Open Source tool to automate Azure deployments",
   "description": "NubesGen is an Open Source tool that ",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lukekyl/how-to-build-a-skeleton-layout-in-react-21hb",
   "publish_date": "2021-01-27",
   "published_at": "2021-01-27T03:16:18Z"
- },
- {
-  "id": 583086,
-  "title": "How I setup my Development Environment on macOS 2021 Edition",
-  "description": "Current Full-Stack Developer Technical Stack 2021  Front-End: HTML, CSS,  JavaScript, Typescript, Rea...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yk-lcnWp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4vbw44crvkro3raghest.jpeg",
-  "slug": "how-i-setup-my-development-environment-on-macos-2021-edition-1lce",
-  "url": "https://dev.to/andrewbaisden/how-i-setup-my-development-environment-on-macos-2021-edition-1lce",
-  "publish_date": "2021-01-26",
-  "published_at": "2021-01-26T13:10:34Z"
- },
- {
-  "id": 583031,
-  "title": "CSS Tips and Tricks",
-  "description": "#001  For the last couple of months, we at Skynox Tech's Twitter account, sharing a series of tweets...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I2mqKhD6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/map4odd0j77wzg18vls9.png",
-  "slug": "css-tips-and-tricks-4j7e",
-  "url": "https://dev.to/xenoxdev/css-tips-and-tricks-4j7e",
-  "publish_date": "2021-01-26",
-  "published_at": "2021-01-26T11:22:11Z"
- },
- {
-  "id": 582851,
-  "title": "5 CSS Tricks Nobody Tells You!",
-  "description": "1. Center Anything    Using Flexbox, Align Items \u0026amp; Justify Content     .center {    disp...",
-  "cover_image": "",
-  "slug": "5-css-tricks-nobody-tells-you-4nmb",
-  "url": "https://dev.to/deyrupak/5-css-tricks-nobody-tells-you-4nmb",
-  "publish_date": "2021-01-26",
-  "published_at": "2021-01-26T05:38:42Z"
- },
- {
-  "id": 582698,
-  "title": "How I Set Up VSCode For Recording a Screencast",
-  "description": "In the spring of 2020, I joined egghead as an instructor where I publish video lessons on various fro...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1GHvBydt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/u48t5x9zb6la5yizb9yn.png",
-  "slug": "how-i-set-up-vscode-for-recording-a-screencast-be7",
-  "url": "https://dev.to/5t3ph/how-i-set-up-vscode-for-recording-a-screencast-be7",
-  "publish_date": "2021-01-26",
-  "published_at": "2021-01-26T03:48:31Z"
- },
- {
-  "id": 582702,
-  "title": "Five Classic Reads in Software Development",
-  "description": "I was looking back on some discussions I've started in the past on DEV, and felt like sharing some to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1KR8CULK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3bbuzvf9wguv1on7cc1q.png",
-  "slug": "five-classic-reads-in-software-development-4662",
-  "url": "https://dev.to/ben/five-classic-reads-in-software-development-4662",
-  "publish_date": "2021-01-26",
-  "published_at": "2021-01-26T00:56:03Z"
  }
 ]
