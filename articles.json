@@ -1,5 +1,55 @@
 [
  {
+  "id": 692025,
+  "title": "Sexism, Racism, Toxic Positivity, and TailwindCSS",
+  "description": "You might think that these things don't belong in the same article, but here we are, this week in fro...",
+  "cover_image": "",
+  "slug": "sexism-racism-toxic-positivity-and-tailwindcss-cil",
+  "url": "https://dev.to/cher/sexism-racism-toxic-positivity-and-tailwindcss-cil",
+  "publish_date": "2021-05-08",
+  "published_at": "2021-05-08T15:32:31Z"
+ },
+ {
+  "id": 691991,
+  "title": "Custom Checkbox with HTML \u0026 CSS",
+  "description": "Hello, today I created a Simple custom checkbox using CSS \u0026amp; JS. Not great work but I hope you lik...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xt5koVqR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ocqq6k7u847dslv2i3m7.png",
+  "slug": "custom-checkbox-with-html-css-4a37",
+  "url": "https://dev.to/nikhil27b/custom-checkbox-with-html-css-4a37",
+  "publish_date": "2021-05-08",
+  "published_at": "2021-05-08T14:41:03Z"
+ },
+ {
+  "id": 691990,
+  "title": "Berry - Open-source React Dashboard Template",
+  "description": "Open-source React Dashboard template crafted by CodedThemes using Material UI design - product can be downloaded from Github.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WXxyIIbU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/admin-dashboards/berry-free-react-admin-template/main/media/react-dashboard-berry-screen.png",
+  "slug": "berry-open-source-react-dashboard-template-4fdn",
+  "url": "https://dev.to/sm0ke/berry-open-source-react-dashboard-template-4fdn",
+  "publish_date": "2021-05-08",
+  "published_at": "2021-05-08T14:38:36Z"
+ },
+ {
+  "id": 690002,
+  "title": "I Built a VSCode Inspired Developer Portfolio",
+  "description": "The Idea \u0026amp; Inspiration   Truth be told, I've lost count of the number of amazing portfol...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Jp_LBXZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dod7cfuj7cbemkfss67w.png",
+  "slug": "i-built-a-vscode-inspired-developer-portfolio-418g",
+  "url": "https://dev.to/itsnitinr/i-built-a-vscode-inspired-developer-portfolio-418g",
+  "publish_date": "2021-05-08",
+  "published_at": "2021-05-08T11:06:26Z"
+ },
+ {
+  "id": 691534,
+  "title": "React Clean Code Tricks Everyone Should Know...",
+  "description": "🤖 TL:DR :   React is unopinionatedly the most famous framework to write the web apps. Due to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z0M07eLq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l0cs8j1d1f900gy5orfp.png",
+  "slug": "react-clean-code-tricks-everyone-should-know-3024",
+  "url": "https://dev.to/sudarshansb143/react-clean-code-tricks-everyone-should-know-3024",
+  "publish_date": "2021-05-08",
+  "published_at": "2021-05-08T03:45:02Z"
+ },
+ {
   "id": 690341,
   "title": "Is 0kb of *HTML* in your future? 🔮 A website without JS...HTML...CSS or IMAGES!?⁉😱",
   "description": "If you are new here then you might not have seen that I like to abuse the internet...and for those of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/xinnks/create-loading-animations-with-svg-and-css-1d0p",
   "publish_date": "2021-01-29",
   "published_at": "2021-01-29T07:23:40Z"
- },
- {
-  "id": 585303,
-  "title": "Announcing the New Relic Hack the Planet Contest on DEV!",
-  "description": "Your mission? To build an application that will help combat climate change using New Relic",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jg_ukTpv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fjyrb5se5d3s6l4mp8d4.png",
-  "slug": "announcing-the-new-relic-hack-the-planet-contest-on-dev-5d",
-  "url": "https://dev.to/devteam/announcing-the-new-relic-hack-the-planet-contest-on-dev-5d",
-  "publish_date": "2021-01-28",
-  "published_at": "2021-01-28T17:28:57Z"
- },
- {
-  "id": 585074,
-  "title": "18 Web Design Trends for 2021",
-  "description": "The line between ourselves and our digital twins is blurring more and more; therefore, users are look...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TN3IBjg9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/31lgd0q9kah3s237o7gn.png",
-  "slug": "18-web-design-trends-for-2021-2dom",
-  "url": "https://dev.to/creativetim_official/18-web-design-trends-for-2021-2dom",
-  "publish_date": "2021-01-28",
-  "published_at": "2021-01-28T14:17:32Z"
- },
- {
-  "id": 584874,
-  "title": "How to remove a sensitive file from your commit history on GitHub",
-  "description": "Yes! this has happened to most of us at least once in our career, especially when we are just startin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FRysFbA4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/cug6gytu7tjxyisk4d6n.jpg",
-  "slug": "how-to-delete-a-secret-file-from-github-ing",
-  "url": "https://dev.to/sophie/how-to-delete-a-secret-file-from-github-ing",
-  "publish_date": "2021-01-28",
-  "published_at": "2021-01-28T10:19:28Z"
- },
- {
-  "id": 584817,
-  "title": "35 Animation Library CSS Javascript For Developer",
-  "description": "What Is Web Animation?   Animation is motion effects set up for objects in HTML pages to att...",
-  "cover_image": "",
-  "slug": "35-animation-library-css-javascript-for-developer-2c61",
-  "url": "https://dev.to/haycuoilennao19/35-animation-library-css-javascript-for-developer-2c61",
-  "publish_date": "2021-01-28",
-  "published_at": "2021-01-28T08:24:06Z"
- },
- {
-  "id": 584637,
-  "title": "10 Advanced Projects to Build in 2021",
-  "description": "I've curated a list of 10 advanced projects to complete in 2021. Most of these are systems programmin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3oebOMa9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/aibmohdj9nuhlx7diwdu.png",
-  "slug": "10-advanced-projects-to-build-in-2021-425o",
-  "url": "https://dev.to/hb/10-advanced-projects-to-build-in-2021-425o",
-  "publish_date": "2021-01-28",
-  "published_at": "2021-01-28T05:51:56Z"
  }
 ]
