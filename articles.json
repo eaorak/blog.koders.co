@@ -1,5 +1,55 @@
 [
  {
+  "id": 692814,
+  "title": "Introduction to HTTP Cookies",
+  "description": "I heard the british use biscuits instead of cookies...weird.  Okay, let's focus.  What are Cookies  C...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4VDh1xQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wp0lygvxper8vof63u4y.jpeg",
+  "slug": "introduction-to-http-cookies-1pn2",
+  "url": "https://dev.to/lindaojo/introduction-to-http-cookies-1pn2",
+  "publish_date": "2021-05-09",
+  "published_at": "2021-05-09T15:29:12Z"
+ },
+ {
+  "id": 692612,
+  "title": "What I learned after 10 years of development",
+  "description": "I've been coding for a long time, over 10 years  During all that website development of JavaScript, H...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yuwRsLQi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvivgru9nliact3sgmx8.png",
+  "slug": "what-i-learned-after-10-years-of-development-3an",
+  "url": "https://dev.to/adriantwarog/what-i-learned-after-10-years-of-development-3an",
+  "publish_date": "2021-05-09",
+  "published_at": "2021-05-09T09:16:07Z"
+ },
+ {
+  "id": 692582,
+  "title": "Everything I use daily as a Senior Frontend Engineer",
+  "description": "VSCode   I use these extensions:           Utilities    Auto Close Tag: Automatically add HT...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0erxXO1U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dvars25l78hn7hlz0gke.png",
+  "slug": "everything-i-use-daily-as-a-senior-frontend-engineer-4pa4",
+  "url": "https://dev.to/jordienr/everything-i-use-daily-as-a-senior-frontend-engineer-4pa4",
+  "publish_date": "2021-05-09",
+  "published_at": "2021-05-09T08:30:22Z"
+ },
+ {
+  "id": 692571,
+  "title": "15 reasons why you should be using Figma for design",
+  "description": "Figma is a design application which can be used for creating wireframes, designs and prototypes. It i...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j86nRgcf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x2pymqcz3xd4ex1g2j4d.png",
+  "slug": "15-reasons-why-you-should-be-using-figma-for-design-nd5",
+  "url": "https://dev.to/andrewbaisden/15-reasons-why-you-should-be-using-figma-for-design-nd5",
+  "publish_date": "2021-05-09",
+  "published_at": "2021-05-09T07:57:47Z"
+ },
+ {
+  "id": 692443,
+  "title": "Atomic Design for Developers: Better Component Composition and Organization",
+  "description": "A practical guide to developing component based sites and apps around the Atomic Design meth...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7D_eotFn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6vyicauqx22u7smupu9.png",
+  "slug": "atomic-design-for-developers-better-component-composition-and-organization-2n3l",
+  "url": "https://dev.to/benjaminwfox/atomic-design-for-developers-better-component-composition-and-organization-2n3l",
+  "publish_date": "2021-05-09",
+  "published_at": "2021-05-09T03:11:44Z"
+ },
+ {
   "id": 692025,
   "title": "Sexism, Racism, Toxic Positivity, and TailwindCSS",
   "description": "You might think that these things don't belong in the same article, but here we are, this week in fro...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jesuisundev/make-side-projects-fun-again-2oa2",
   "publish_date": "2021-01-30",
   "published_at": "2021-01-30T03:41:37Z"
- },
- {
-  "id": 585376,
-  "title": "🚀10 Trending projects on GitHub for web developers - 29th January 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-29th-january-2021-4ml2",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-29th-january-2021-4ml2",
-  "publish_date": "2021-01-29",
-  "published_at": "2021-01-29T14:48:11Z"
- },
- {
-  "id": 586008,
-  "title": "3 Ways to create a Navbar (CSS Grid Layout)",
-  "description": "Today let's build three different navbar layouts using the CSS grid layout and I'll show you, how eas...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EpYdR66I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2c6psewv74jmu0wsdt16.png",
-  "slug": "3-ways-to-create-a-navbar-css-grid-layout-4kal",
-  "url": "https://dev.to/crayoncode/3-ways-to-create-a-navbar-css-grid-layout-4kal",
-  "publish_date": "2021-01-29",
-  "published_at": "2021-01-29T10:54:55Z"
- },
- {
-  "id": 585983,
-  "title": "8 Things I wish I knew as a Junior Developer",
-  "description": "Being a junior developer is not easy. You have a lot of work to do, and you're expected to know every...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JdLGDKXM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/2lm7p8uecd2t6guca9v7.jpg",
-  "slug": "8-things-i-wish-i-knew-as-a-junior-developer-4g7d",
-  "url": "https://dev.to/simonholdorf/8-things-i-wish-i-knew-as-a-junior-developer-4g7d",
-  "publish_date": "2021-01-29",
-  "published_at": "2021-01-29T09:03:07Z"
- },
- {
-  "id": 585967,
-  "title": "22 Sliding Form For Website",
-  "description": "Sliding forms are forms that you can switch from sign-in form to sign-up form and vice versa. In this...",
-  "cover_image": "",
-  "slug": "22-sliding-form-for-website-3m8k",
-  "url": "https://dev.to/haycuoilennao19/22-sliding-form-for-website-3m8k",
-  "publish_date": "2021-01-29",
-  "published_at": "2021-01-29T08:49:40Z"
- },
- {
-  "id": 585726,
-  "title": "Create Loading Animations with SVG and CSS",
-  "description": "A simple tutorial on how to create loading animations for web projects by using HTML and CSS",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N1MfVMUw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fc75q76p3yr217emmsx5.png",
-  "slug": "create-loading-animations-with-svg-and-css-1d0p",
-  "url": "https://dev.to/xinnks/create-loading-animations-with-svg-and-css-1d0p",
-  "publish_date": "2021-01-29",
-  "published_at": "2021-01-29T07:23:40Z"
  }
 ]
