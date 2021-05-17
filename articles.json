@@ -1,5 +1,55 @@
 [
  {
+  "id": 699846,
+  "title": "Step-by-step guide: Pass your cursor position to CSS variables with JavaScript",
+  "description": "My website has a little illustration that tracks your cursor's position. The only JavaScript that hap...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dIJv4oZr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0zubogzgqli7k69orwqd.jpg",
+  "slug": "step-by-step-guide-pass-your-cursor-position-using-css-variables-c7b",
+  "url": "https://dev.to/naseki/step-by-step-guide-pass-your-cursor-position-using-css-variables-c7b",
+  "publish_date": "2021-05-16",
+  "published_at": "2021-05-16T14:36:35Z"
+ },
+ {
+  "id": 699567,
+  "title": "Curated list of Newsletters to level up your coding skills\n",
+  "description": "Taking one step forward   Learning is an unending process. The era we live in carries a plet...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1U_cJyJ9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1ctm2b84lqdkwcnvmmc.jpg",
+  "slug": "curated-list-of-newsletters-to-level-up-your-coding-skills-4heb",
+  "url": "https://dev.to/aman_singh/curated-list-of-newsletters-to-level-up-your-coding-skills-4heb",
+  "publish_date": "2021-05-16",
+  "published_at": "2021-05-16T04:34:04Z"
+ },
+ {
+  "id": 699563,
+  "title": "10 basic concepts of React JS",
+  "description": "Nowadays React Js has been quite a popular framework for web development. It has some incredible feat...",
+  "cover_image": "",
+  "slug": "10-basic-concepts-of-react-js-4hfh",
+  "url": "https://dev.to/smismail/10-basic-concepts-of-react-js-4hfh",
+  "publish_date": "2021-05-16",
+  "published_at": "2021-05-16T04:16:37Z"
+ },
+ {
+  "id": 690769,
+  "title": "A Simple Introduction to Web Sockets",
+  "description": "Introduction   As a backend developer, you sometimes get tired of making basic CRUD applicat...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fFQiHbkD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uklesc6m0ua9dfz862ks.png",
+  "slug": "a-simple-introduction-to-web-sockets-g1j",
+  "url": "https://dev.to/tamerlang/a-simple-introduction-to-web-sockets-g1j",
+  "publish_date": "2021-05-16",
+  "published_at": "2021-05-16T02:08:15Z"
+ },
+ {
+  "id": 699121,
+  "title": "Sets in JavaScript — the only explanation you will ever need",
+  "description": "This post contains technical information, code examples and real use cases.            Int...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lxAoPNHL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oi1idlljwupgikpj5onu.jpg",
+  "slug": "sets-in-javascript-the-only-explanation-you-will-ever-need-4pl0",
+  "url": "https://dev.to/marcosmol204/sets-in-javascript-the-only-explanation-you-will-ever-need-4pl0",
+  "publish_date": "2021-05-16",
+  "published_at": "2021-05-16T00:27:11Z"
+ },
+ {
   "id": 698985,
   "title": "React for Beginners: The Complete Guide for 2021",
   "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kalimahapps/8-tools-to-improve-css-design-3lcg",
   "publish_date": "2021-02-06",
   "published_at": "2021-02-06T01:44:33Z"
- },
- {
-  "id": 593145,
-  "title": "Super Mario World Restored Original Soundtrack: Great Coding Music!",
-  "description": "This YouTube channel has all the songs. My first reaction is this is definitely good focus/coding...",
-  "cover_image": "",
-  "slug": "super-mario-world-restored-original-soundtrack-great-coding-music-4alf",
-  "url": "https://dev.to/ben/super-mario-world-restored-original-soundtrack-great-coding-music-4alf",
-  "publish_date": "2021-02-05",
-  "published_at": "2021-02-05T16:07:57Z"
- },
- {
-  "id": 592861,
-  "title": "🚀10 Trending projects on GitHub for web developers - 5th February 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-5th-february-2021-67e",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-5th-february-2021-67e",
-  "publish_date": "2021-02-05",
-  "published_at": "2021-02-05T14:56:12Z"
- },
- {
-  "id": 592636,
-  "title": "Tools Every Developer Should Know and Use",
-  "description": "SO FAR SO GOOD  I hope your Web Dev journey sounds like that. Well if yes, then I have something that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dC0aWFKL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8iq12rmjqtmshw0bvo5a.png",
-  "slug": "tools-every-developer-should-know-and-use-245l",
-  "url": "https://dev.to/himanshutiwari15/tools-every-developer-should-know-and-use-245l",
-  "publish_date": "2021-02-05",
-  "published_at": "2021-02-05T05:17:26Z"
- },
- {
-  "id": 592616,
-  "title": "Taught myself to code 1y ago \u0026 recently released my first solo product. My biggest tip for learning...🧠",
-  "description": "I spent 10yrs in a career of branding/advertising and went from knowing no programming to launching m...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g8_3Jcgx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tyhgwpoqjzjwgmxjv6dj.png",
-  "slug": "taught-myself-to-code-1y-ago-recently-released-my-first-solo-product-if-you-re-just-beginning-keep-going-you-can-do-it-41k3",
-  "url": "https://dev.to/threehourcoffee/taught-myself-to-code-1y-ago-recently-released-my-first-solo-product-if-you-re-just-beginning-keep-going-you-can-do-it-41k3",
-  "publish_date": "2021-02-05",
-  "published_at": "2021-02-05T03:57:21Z"
- },
- {
-  "id": 592553,
-  "title": "17 Website Templates HTML Free Download",
-  "description": "Normally, when you finish learning HTML CSS, you will want to find websites to practice coding in ord...",
-  "cover_image": "",
-  "slug": "17-website-templates-html-free-download-1ki3",
-  "url": "https://dev.to/haycuoilennao19/17-website-templates-html-free-download-1ki3",
-  "publish_date": "2021-02-05",
-  "published_at": "2021-02-05T02:34:50Z"
  }
 ]
