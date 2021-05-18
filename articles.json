@@ -1,5 +1,55 @@
 [
  {
+  "id": 700905,
+  "title": "How to Solve Any Algorithm",
+  "description": "Learn how to solve any algorithm using these simple and easy-to-remember techniques.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vys-bnnx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2uuinjhsatdh0slpj9h9.png",
+  "slug": "how-to-solve-algorithms-2jo9",
+  "url": "https://dev.to/nielsenjared/how-to-solve-algorithms-2jo9",
+  "publish_date": "2021-05-17",
+  "published_at": "2021-05-17T15:04:58Z"
+ },
+ {
+  "id": 700630,
+  "title": "🔥 BUILD USER AVATAR GENERATOR IN JAVASCRIPT\n",
+  "description": "In this post we will write a function in javascript to generate beautiful ❤️  user avatar.  First we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v69sEngv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x16r4rxwv6qnxybihwmp.jpg",
+  "slug": "build-user-avatar-generator-in-javascript-5bd0",
+  "url": "https://dev.to/satishnaikawadi2001/build-user-avatar-generator-in-javascript-5bd0",
+  "publish_date": "2021-05-17",
+  "published_at": "2021-05-17T10:57:15Z"
+ },
+ {
+  "id": 700429,
+  "title": "8 Best Practices for REST API Design",
+  "description": "1. Automate Caching  Repeated request and responding to those request consumes resources and this bec...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SB-FrpDf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vdn6fma9xiuyf2u1wc47.png",
+  "slug": "8-best-practices-for-rest-api-design-1d97",
+  "url": "https://dev.to/mohit199thd/8-best-practices-for-rest-api-design-1d97",
+  "publish_date": "2021-05-17",
+  "published_at": "2021-05-17T06:25:49Z"
+ },
+ {
+  "id": 698287,
+  "title": "All That You Need To Know About Date Object In JavaScript",
+  "description": "In web development there will be many instance in which we need to interact with date/time values, we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UheQYGmN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0s4jmhvxw6sya3xq8bqj.png",
+  "slug": "all-that-you-need-to-know-about-date-and-time-in-javascript-5bfd",
+  "url": "https://dev.to/kiranrajvjd/all-that-you-need-to-know-about-date-and-time-in-javascript-5bfd",
+  "publish_date": "2021-05-17",
+  "published_at": "2021-05-17T05:00:40Z"
+ },
+ {
+  "id": 697190,
+  "title": "How I build Crypto Tracker Chart with React 🚀",
+  "description": "Hello Coders 👩🏼‍💻,  Recently, I visit a crypto tracker site to check DogeCoin prices to see whether...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7JALd0Y---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d74mghfkmwlxdn0vlyhl.png",
+  "slug": "how-i-build-crypto-tracker-chart-with-react-4k9h",
+  "url": "https://dev.to/ayeprahman/how-i-build-crypto-tracker-chart-with-react-4k9h",
+  "publish_date": "2021-05-17",
+  "published_at": "2021-05-17T00:49:34Z"
+ },
+ {
   "id": 699846,
   "title": "Step-by-step guide: Pass your cursor position to CSS variables with JavaScript",
   "description": "My website has a little illustration that tracks your cursor's position. The only JavaScript that hap...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alnahian2003/how-to-become-a-wordpress-developer-in-2021-5eib",
   "publish_date": "2021-02-07",
   "published_at": "2021-02-07T04:29:09Z"
- },
- {
-  "id": 593826,
-  "title": "How I Improved My CSS Skills",
-  "description": "This article was originally posted on my personal blog.  Two years ago, I had just gotten employed at...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--McVSMcOR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mxc4y02ny9fyd0mv7iw7.jpg",
-  "slug": "how-i-improved-my-css-skills-3847",
-  "url": "https://dev.to/shahednasser/how-i-improved-my-css-skills-3847",
-  "publish_date": "2021-02-06",
-  "published_at": "2021-02-06T14:19:56Z"
- },
- {
-  "id": 590460,
-  "title": "Authentication vs. Authorization",
-  "description": "In this article, we will be going over two concepts people tend to confuse in the world of identity a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zPBaIp69--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6yequz2qub7jpvh35xm9.jpg",
-  "slug": "authentication-vs-authorization-c0",
-  "url": "https://dev.to/lordghostx/authentication-vs-authorization-c0",
-  "publish_date": "2021-02-06",
-  "published_at": "2021-02-06T09:53:12Z"
- },
- {
-  "id": 587653,
-  "title": "How to auto-refresh jwts using Axios interceptors",
-  "description": "I've covered JWT authentication in some of my previous posts. For a quick recap, I'll briefly go over...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fe0bQlLF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/w11b04sawtgyvf4evwhl.jpg",
-  "slug": "how-to-auto-refresh-jwts-using-axios-interceptors-40nj",
-  "url": "https://dev.to/lewiskori/how-to-auto-refresh-jwts-using-axios-interceptors-40nj",
-  "publish_date": "2021-02-06",
-  "published_at": "2021-02-06T04:06:05Z"
- },
- {
-  "id": 593543,
-  "title": "ABC of JavaScript ",
-  "description": "The next must-read blog post after learning this in JavaScript.    A - apply() B - bind() c - call()...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eDHmEAZG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/84jmz6dsrpggzfb6ffyr.png",
-  "slug": "abc-of-javascript-50h3",
-  "url": "https://dev.to/rahxuls/abc-of-javascript-50h3",
-  "publish_date": "2021-02-06",
-  "published_at": "2021-02-06T03:55:07Z"
- },
- {
-  "id": 588206,
-  "title": "8 tools to help with CSS",
-  "description": "While CSS is not a complicated language, some parts of it were a mystery to me when I started learnin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7CJ0EjP5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/37d98nh5dwwoop0y68ch.png",
-  "slug": "8-tools-to-improve-css-design-3lcg",
-  "url": "https://dev.to/kalimahapps/8-tools-to-improve-css-design-3lcg",
-  "publish_date": "2021-02-06",
-  "published_at": "2021-02-06T01:44:33Z"
  }
 ]
