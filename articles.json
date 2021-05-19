@@ -1,5 +1,55 @@
 [
  {
+  "id": 701820,
+  "title": "16 VS Code Shortcuts for Faster Coding",
+  "description": "Introduction   Microsoft's VS code is one of the most popular text/code editors available on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wroa7d5n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p7qfyg7e45xvqrz3j1va.png",
+  "slug": "16-vs-code-shortcuts-for-faster-coding-4k5a",
+  "url": "https://dev.to/basecampxd/16-vs-code-shortcuts-for-faster-coding-4k5a",
+  "publish_date": "2021-05-18",
+  "published_at": "2021-05-18T14:46:26Z"
+ },
+ {
+  "id": 701708,
+  "title": "You can do more than just console.log()",
+  "description": "The JavaScript console object has a number of methods that can be very useful for debugging. Below ar...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ux4niQoz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v8uati1h8qzfe3dhmmoi.png",
+  "slug": "you-can-do-more-than-just-console-log-598a",
+  "url": "https://dev.to/daryllukas/you-can-do-more-than-just-console-log-598a",
+  "publish_date": "2021-05-18",
+  "published_at": "2021-05-18T12:25:56Z"
+ },
+ {
+  "id": 701583,
+  "title": "useAxios : A simple custom hook for calling APIs using axios  ",
+  "description": "Hello folks,   Frontend apps are not complete if there are no api calls involved and calling an api b...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4G9kWDAx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k47bkua49yojpa04k4dy.png",
+  "slug": "useaxios-a-simple-custom-hook-for-calling-apis-using-axios-2dkj",
+  "url": "https://dev.to/ms_yogii/useaxios-a-simple-custom-hook-for-calling-apis-using-axios-2dkj",
+  "publish_date": "2021-05-18",
+  "published_at": "2021-05-18T10:52:54Z"
+ },
+ {
+  "id": 701655,
+  "title": "I made a website to make programmers laugh: ProgrammerHumor.io",
+  "description": "Created a website for programmers to spend their free time on, and get a good laugh out of it too....",
+  "cover_image": "",
+  "slug": "i-made-a-website-to-make-programmers-laugh-programmerhumor-io-p3e",
+  "url": "https://dev.to/prgrmmrhumor_io/i-made-a-website-to-make-programmers-laugh-programmerhumor-io-p3e",
+  "publish_date": "2021-05-18",
+  "published_at": "2021-05-18T10:48:59Z"
+ },
+ {
+  "id": 701426,
+  "title": "Build a Complete Food Ordering App using React + Redux along With Stripe Payment Integration",
+  "description": "A great project to add to your portfolio and resume.  This article is about what you'll learn by buil...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1cAOV2HZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wwe6y3x5lonc7v2sskh4.png",
+  "slug": "build-a-complete-food-ordering-app-using-react-redux-along-with-stripe-payment-integration-1k61",
+  "url": "https://dev.to/myogeshchavan97/build-a-complete-food-ordering-app-using-react-redux-along-with-stripe-payment-integration-1k61",
+  "publish_date": "2021-05-18",
+  "published_at": "2021-05-18T06:10:24Z"
+ },
+ {
   "id": 700905,
   "title": "How to Solve Any Algorithm",
   "description": "Learn how to solve any algorithm using these simple and easy-to-remember techniques.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/surajondev/4-cool-website-and-their-apis-3d74",
   "publish_date": "2021-02-08",
   "published_at": "2021-02-08T08:09:58Z"
- },
- {
-  "id": 594337,
-  "title": "3 underrated web dev youtubers you should check out",
-  "description": "Many of us in the web dev community are familiar with teachers like Brad Traversy, Mosh, and Net Ninj...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cWsRzlT1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qr7qcm4j26390qzr0tos.jpg",
-  "slug": "3-underrated-web-dev-youtubers-you-should-check-out-24pm",
-  "url": "https://dev.to/karan316/3-underrated-web-dev-youtubers-you-should-check-out-24pm",
-  "publish_date": "2021-02-07",
-  "published_at": "2021-02-07T09:15:25Z"
- },
- {
-  "id": 587984,
-  "title": "Integrate Passport.js to Node, Express, and Vue",
-  "description": "Hey Dev's  If you read my previous articles about JWT (jsonwebtoken) you will come to understand one...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FufEr-eD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6lgno8s72kf5popri296.jpg",
-  "slug": "integrate-passport-js-to-node-express-and-vue-19ao",
-  "url": "https://dev.to/kevin_odongo35/integrate-passport-js-to-node-express-and-vue-19ao",
-  "publish_date": "2021-02-07",
-  "published_at": "2021-02-07T07:05:18Z"
- },
- {
-  "id": 594313,
-  "title": "MEAN / MERN Stack 100+ Learning Resources {FREE}",
-  "description": "I have gathered all the resources that you will require to become a MERN or MEAN stack developer. All...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nNh49Krn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/sa3t5be0jyfritbzu77a.png",
-  "slug": "mean-mern-stack-100-learning-resources-free-3897",
-  "url": "https://dev.to/rahxuls/mean-mern-stack-100-learning-resources-free-3897",
-  "publish_date": "2021-02-07",
-  "published_at": "2021-02-07T06:14:33Z"
- },
- {
-  "id": 594262,
-  "title": "Understanding Ruby - Blocks, Procs, and Lambdas",
-  "description": "Introduction   Ruby is a language that uses multiple paradigms of programming, most usually...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ykd_i9x_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/m6qz045v80rvt48xx8tl.png",
-  "slug": "understanding-ruby-blocks-procs-and-lambdas-24o0",
-  "url": "https://dev.to/baweaver/understanding-ruby-blocks-procs-and-lambdas-24o0",
-  "publish_date": "2021-02-07",
-  "published_at": "2021-02-07T05:29:05Z"
- },
- {
-  "id": 594239,
-  "title": "How to Become a WordPress Developer in 2021",
-  "description": "Today we'll be learning, How To Become a WordPress Developer in 2021.  In this post, we are going to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C0s5KrTN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/p0aertn2jz2pn7b42lct.png",
-  "slug": "how-to-become-a-wordpress-developer-in-2021-5eib",
-  "url": "https://dev.to/alnahian2003/how-to-become-a-wordpress-developer-in-2021-5eib",
-  "publish_date": "2021-02-07",
-  "published_at": "2021-02-07T04:29:09Z"
  }
 ]
