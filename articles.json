@@ -1,5 +1,55 @@
 [
  {
+  "id": 670635,
+  "title": "Advanced CSS Animation Using cubic-bezier()",
+  "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lot...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dYUYOuUc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gtknacqxif7977upw8hy.png",
+  "slug": "advanced-css-animation-using-cubic-bezier-nho",
+  "url": "https://dev.to/afif/advanced-css-animation-using-cubic-bezier-nho",
+  "publish_date": "2021-05-19",
+  "published_at": "2021-05-19T12:14:36Z"
+ },
+ {
+  "id": 702476,
+  "title": "🔥Awesome Resource For Your Web Projects: 75+ Background Resources🔥",
+  "description": "Web development is not an easy task, for a beginner it will be a very complex and confusing one, the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kP66Rc53--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0vq6ek307as48pl7po6s.jpg",
+  "slug": "awesome-resource-for-your-web-projects-75-background-resources-2cm8",
+  "url": "https://dev.to/kiranrajvjd/awesome-resource-for-your-web-projects-75-background-resources-2cm8",
+  "publish_date": "2021-05-19",
+  "published_at": "2021-05-19T10:18:16Z"
+ },
+ {
+  "id": 700488,
+  "title": "Architecture: Web app[front-end] from scratch 2021 ",
+  "description": "Currently, I work as a front-end engineer and I worked on some of the frameworks Ember, React, and Vu...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fQqRuOCg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyo3l8vwb6xy4o8b6oe3.jpeg",
+  "slug": "architecture-web-app-front-end-from-scratch-2021-f6",
+  "url": "https://dev.to/lakshmananarumugam/architecture-web-app-front-end-from-scratch-2021-f6",
+  "publish_date": "2021-05-19",
+  "published_at": "2021-05-19T04:48:11Z"
+ },
+ {
+  "id": 702450,
+  "title": "Learn Fullstack | 2021",
+  "description": "This article focus on Fullstack web development. So, Don't blame me for the \"anaconda article\".  If y...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ogM3-rDv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0umprdng32ukhrn405x7.jpg",
+  "slug": "learn-fullstack-2021-54gd",
+  "url": "https://dev.to/retr0c0de/learn-fullstack-2021-54gd",
+  "publish_date": "2021-05-19",
+  "published_at": "2021-05-19T04:32:09Z"
+ },
+ {
+  "id": 702419,
+  "title": "All of Your React Utility Hooks in One Place",
+  "description": "# 🛠 All of Your Utility Hooks in One Place.  When using react(or other frameworks like NextJS and Gat...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1AvJ_0rd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yat3dkbsdslvt9nfkou.png",
+  "slug": "all-of-your-react-util-hooks-in-one-place-3kid",
+  "url": "https://dev.to/pranta/all-of-your-react-util-hooks-in-one-place-3kid",
+  "publish_date": "2021-05-19",
+  "published_at": "2021-05-19T04:20:42Z"
+ },
+ {
   "id": 701820,
   "title": "16 VS Code Shortcuts for Faster Coding",
   "description": "Introduction   Microsoft's VS code is one of the most popular text/code editors available on...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/notsidney/we-refactored-10k-lines-of-code-in-our-open-source-react-project-1a9a",
   "publish_date": "2021-02-09",
   "published_at": "2021-02-09T02:15:46Z"
- },
- {
-  "id": 588345,
-  "title": "25 Ways I Stay Motivated \u0026 Productive",
-  "description": "TL;DR   This is a collection of habits and perspectives that I use to stay motivated and pro...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wy8BpGI4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/nicw5pjwlj17og1ifd6j.jpg",
-  "slug": "25-ways-i-stay-motivated-productive-2fbm",
-  "url": "https://dev.to/gedalyakrycer/25-ways-i-stay-motivated-productive-2fbm",
-  "publish_date": "2021-02-08",
-  "published_at": "2021-02-08T14:02:18Z"
- },
- {
-  "id": 595259,
-  "title": "Create a generative landing page \u0026 WebGL powered background animation",
-  "description": "Recently I took a trip to the faraway land of dribbble and saw something magical. There were fuzzy or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MbpLA4bP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ojtckkwzanhojm9q7j72.png",
-  "slug": "create-a-generative-landing-page-webgl-powered-background-animation-3nl0",
-  "url": "https://dev.to/georgedoescode/create-a-generative-landing-page-webgl-powered-background-animation-3nl0",
-  "publish_date": "2021-02-08",
-  "published_at": "2021-02-08T11:25:51Z"
- },
- {
-  "id": 595346,
-  "title": "Here’s Another List of Exciting Front-End Challenges",
-  "description": "Indrek here, and I’m back with another list of exciting challenges for all sorts of front-end develop...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FqmSoG5d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ap2z5u4t0884bulzvg85.png",
-  "slug": "here-s-another-list-of-exciting-front-end-challenges-2dm",
-  "url": "https://dev.to/indreklasn/here-s-another-list-of-exciting-front-end-challenges-2dm",
-  "publish_date": "2021-02-08",
-  "published_at": "2021-02-08T10:00:11Z"
- },
- {
-  "id": 595257,
-  "title": "A Quick Guide to Get Started with JavaScript Classes",
-  "description": "JavaScript classes are popular feature of JavaScript. This tutorial  will help you learn what you sho...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lx5-pQMw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/21hd04zoqq7b6k1fur4j.jpg",
-  "slug": "a-quick-guide-to-get-started-with-javascript-classes-2033",
-  "url": "https://dev.to/alexdevero/a-quick-guide-to-get-started-with-javascript-classes-2033",
-  "publish_date": "2021-02-08",
-  "published_at": "2021-02-08T08:10:46Z"
- },
- {
-  "id": 595235,
-  "title": "4 Cool Website and their APIs",
-  "description": "Introduction   Hello Guys, It's been quite a time since I published the last blog but finall...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k6ARK2Ty--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uiz3i9af2tqjc8i4383i.png",
-  "slug": "4-cool-website-and-their-apis-3d74",
-  "url": "https://dev.to/surajondev/4-cool-website-and-their-apis-3d74",
-  "publish_date": "2021-02-08",
-  "published_at": "2021-02-08T08:09:58Z"
  }
 ]
