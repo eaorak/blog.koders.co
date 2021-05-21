@@ -1,5 +1,55 @@
 [
  {
+  "id": 703980,
+  "title": "It's 🌍 Global Accessibility Awareness Day - Do you actually give a f*ck? Here are 7 reasons why YOU should.",
+  "description": "Preword: The \"anger\" in this article is just for fun and poking a bit of fun at the \"months and days\"...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Deqgmc3r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9f9dhcwcil3qf9chxehk.jpg",
+  "slug": "it-s-global-accessibility-awareness-day-do-you-give-a-f-ck-here-are-7-reasons-you-should-14ni",
+  "url": "https://dev.to/inhuofficial/it-s-global-accessibility-awareness-day-do-you-give-a-f-ck-here-are-7-reasons-you-should-14ni",
+  "publish_date": "2021-05-20",
+  "published_at": "2021-05-20T16:23:54Z"
+ },
+ {
+  "id": 699157,
+  "title": "10 Google Chrome Extensions you should use as a developer",
+  "description": "If you found value in this thread you will most likely enjoy my tweets too so make sure you follow me...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lOQ-N0P_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvmvtmx5b6aqp7o64qoa.png",
+  "slug": "10-google-chrome-extensions-you-should-use-as-a-developer-26kh",
+  "url": "https://dev.to/pascavld/10-google-chrome-extensions-you-should-use-as-a-developer-26kh",
+  "publish_date": "2021-05-20",
+  "published_at": "2021-05-20T12:05:23Z"
+ },
+ {
+  "id": 696964,
+  "title": "10+ Useful Tools🛠 For Web Developers👨‍💻In 2021",
+  "description": "Are you looking for the best tools for web development? Well, In this article, we are going to share...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_rHZ8LXq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8q03sk38k5sgsy1idypd.png",
+  "slug": "10-useful-tools-for-web-developers-in-2021-42d1",
+  "url": "https://dev.to/theme_selection/10-useful-tools-for-web-developers-in-2021-42d1",
+  "publish_date": "2021-05-20",
+  "published_at": "2021-05-20T06:27:30Z"
+ },
+ {
+  "id": 703437,
+  "title": "useAxios: React hook for any Axios call",
+  "description": "useAxios() is a React hook that simplifies async fetching and state management. Source code and live...",
+  "cover_image": "",
+  "slug": "useaxios-react-hook-for-any-axios-call-12b7",
+  "url": "https://dev.to/kwhitejr/useaxios-react-hook-for-any-axios-call-12b7",
+  "publish_date": "2021-05-20",
+  "published_at": "2021-05-20T02:40:01Z"
+ },
+ {
+  "id": 703245,
+  "title": "(Realistic) List of Web Dev Resources 💻🚀",
+  "description": "Photo by Luca Bravo on Unsplash     I've been finding a lot of articles on DEV lately that garner a T...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UbZXfAww--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lchr1d2fqjg1u39i0gr9.jpg",
+  "slug": "realistic-list-of-web-dev-resources-253c",
+  "url": "https://dev.to/maureento8888/realistic-list-of-web-dev-resources-253c",
+  "publish_date": "2021-05-20",
+  "published_at": "2021-05-20T00:25:58Z"
+ },
+ {
   "id": 670635,
   "title": "Advanced CSS Animation Using cubic-bezier()",
   "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lot...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jackrkelly/how-to-have-a-professional-online-appearance-39gk",
   "publish_date": "2021-02-10",
   "published_at": "2021-02-10T01:54:34Z"
- },
- {
-  "id": 596787,
-  "title": "React Hooks Cheatsheet: The 7 Hooks You Need To Know",
-  "description": "This new tutorial will show you everything you need to know about React Hooks from scratch.  I've put...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vjd9yItD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/b9dmp3l1ohn7s27buu00.png",
-  "slug": "react-hooks-cheatsheet-the-7-hooks-you-need-to-know-42o7",
-  "url": "https://dev.to/reedbarger/react-hooks-cheatsheet-the-7-hooks-you-need-to-know-42o7",
-  "publish_date": "2021-02-09",
-  "published_at": "2021-02-09T16:35:34Z"
- },
- {
-  "id": 596542,
-  "title": "One tip that got me hired by Google, Microsoft, and Stripe",
-  "description": "I've worked for Microsoft, Google, Stripe, and received offers from many other companies. One thing I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ycS7gPhK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/553z1dkaibljoq7qc2ja.jpg",
-  "slug": "one-tip-that-got-me-hired-by-google-microsoft-and-stripe-55a5",
-  "url": "https://dev.to/devinterview/one-tip-that-got-me-hired-by-google-microsoft-and-stripe-55a5",
-  "publish_date": "2021-02-09",
-  "published_at": "2021-02-09T12:20:33Z"
- },
- {
-  "id": 596357,
-  "title": "Free Design Tools - Generators, Graphic Templates, Prototyping ...",
-  "description": "(Note:This curated list is prepared in the process of redesigning Istanbul Private Transfer and Istan...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--33E30u1E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/mrnlzx4kn0vfpkwtynpu.jpg",
-  "slug": "free-design-tools-generators-graphic-templates-prototyping-4o70",
-  "url": "https://dev.to/canburaks/free-design-tools-generators-graphic-templates-prototyping-4o70",
-  "publish_date": "2021-02-09",
-  "published_at": "2021-02-09T07:52:27Z"
- },
- {
-  "id": 595913,
-  "title": "8 JavaScript Animation Libraries You should \"MUST TRY\" ",
-  "description": "If you're looking to grab your website visitor's attention, what can be better than animations.  You...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2B_B8UPJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/yz6oodlmkvhdsgzn7a7k.png",
-  "slug": "8-javascript-animation-libraries-you-should-must-try-2ac",
-  "url": "https://dev.to/subhampreet/8-javascript-animation-libraries-you-should-must-try-2ac",
-  "publish_date": "2021-02-09",
-  "published_at": "2021-02-09T05:42:47Z"
- },
- {
-  "id": 596149,
-  "title": "We Refactored 10K Lines of Code in Our Open-Source React Project",
-  "description": "Know the how, the when, and the why behind our refactoring   When working on any project, es...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZpLi2wch--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qcn5w5iornl7ythcpehf.png",
-  "slug": "we-refactored-10k-lines-of-code-in-our-open-source-react-project-1a9a",
-  "url": "https://dev.to/notsidney/we-refactored-10k-lines-of-code-in-our-open-source-react-project-1a9a",
-  "publish_date": "2021-02-09",
-  "published_at": "2021-02-09T02:15:46Z"
  }
 ]
