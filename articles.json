@@ -1,5 +1,55 @@
 [
  {
+  "id": 685942,
+  "title": "Let’s Talk About Cross-Origin Resource Sharing (CORS)",
+  "description": "Access to fetch at ‘https://coolserver.com’ from origin ‘http://localhost:3000’ has been blocked by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kDPjt5XD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/padkm9hul596rluke6cj.png",
+  "slug": "demystifying-cross-origin-resource-sharing-cors-4lpj",
+  "url": "https://dev.to/chuckchoiboi/demystifying-cross-origin-resource-sharing-cors-4lpj",
+  "publish_date": "2021-05-22",
+  "published_at": "2021-05-22T13:07:50Z"
+ },
+ {
+  "id": 705592,
+  "title": "Revealing Contents on Scroll Using JavaScript’s Intersection Observer API",
+  "description": "Have you ever visited a website where as you scroll down the page, the contents of the webpage gradua...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AAfiBH58--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/11qj90obn7t08ob4qu2i.png",
+  "slug": "a-beginner-s-guide-to-the-intersection-observer-api-2d50",
+  "url": "https://dev.to/daveyhert/a-beginner-s-guide-to-the-intersection-observer-api-2d50",
+  "publish_date": "2021-05-22",
+  "published_at": "2021-05-22T09:43:40Z"
+ },
+ {
+  "id": 705499,
+  "title": "Channel List to Learn Web Development from Youtube",
+  "description": "May 2020 is the first time I started learning web development. In the beginning, I learn from a Udemy...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N1xnuEN9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxa7j7c7xnwm1vgz88x0.png",
+  "slug": "learning-web-development-from-youtube-1hop",
+  "url": "https://dev.to/theodorusclarence/learning-web-development-from-youtube-1hop",
+  "publish_date": "2021-05-22",
+  "published_at": "2021-05-22T07:24:27Z"
+ },
+ {
+  "id": 705481,
+  "title": "I built this cool GitHub UI based DEV Portfolio",
+  "description": "The Design Idea   Spitting the truth, I really came across 1000s of dev portfolio 💻 websites...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eBiCt4fo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xggjm8w9uenu8grwbtx9.png",
+  "slug": "i-built-this-cool-github-ui-based-dev-portfolio-1n6f",
+  "url": "https://dev.to/hima_khaitan/i-built-this-cool-github-ui-based-dev-portfolio-1n6f",
+  "publish_date": "2021-05-22",
+  "published_at": "2021-05-22T06:58:56Z"
+ },
+ {
+  "id": 705475,
+  "title": "5 Vs code extension's to increase your developer productivity",
+  "description": "Hey there developers. How is it going. Today in this blog, I will be showing you 5 useful vs code ext...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DQtzesgr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yo2kvgqe65wl9p0yrsjc.jpg",
+  "slug": "5-vs-code-extension-s-to-increase-your-developer-productivity-52f0",
+  "url": "https://dev.to/ratuloss/5-vs-code-extension-s-to-increase-your-developer-productivity-52f0",
+  "publish_date": "2021-05-22",
+  "published_at": "2021-05-22T06:50:52Z"
+ },
+ {
   "id": 703641,
   "title": "🚀10 Trending projects on GitHub for web developers - 21st May 2021",
   "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/5t3ph/smolcss-dev-minimal-modern-css-snippets-4310",
   "publish_date": "2021-02-12",
   "published_at": "2021-02-12T05:20:44Z"
- },
- {
-  "id": 600702,
-  "title": "Como se tornar um Dev influencer com o mínimo de esforço",
-  "description": "Poste polêmicas no twitter periodicamente. Engajamento é o que você precisa. Atenha-se a assuntos si...",
-  "cover_image": "",
-  "slug": "como-se-tornar-um-dev-influencer-com-o-minimo-de-esforco-1jam",
-  "url": "https://dev.to/argentinomota/como-se-tornar-um-dev-influencer-com-o-minimo-de-esforco-1jam",
-  "publish_date": "2021-02-11",
-  "published_at": "2021-02-11T17:44:23Z"
- },
- {
-  "id": 600381,
-  "title": "Amazing image placeholders with blurhash",
-  "description": "Few weeks ago I was playing around with Wolt iOS app, I was really impressed by how the app handled i...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mwLC7ZbV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/a7kekpdls9r2ld6oqng9.png",
-  "slug": "amazing-image-placeholders-with-blurhash-11ok",
-  "url": "https://dev.to/karanpratapsingh/amazing-image-placeholders-with-blurhash-11ok",
-  "publish_date": "2021-02-11",
-  "published_at": "2021-02-11T13:25:49Z"
- },
- {
-  "id": 600364,
-  "title": "A Post-Mortem in 5 Acts, of How Microsoft Privatized Open Source, killing JavaScript in the Process",
-  "description": "After Microsoft’s blitzkrieg take-over, the Open Source JavaScript community, as we know it, is comin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KOY3Q5iO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8qeqt88c0y10tmq5xe6v.png",
-  "slug": "a-post-mortem-in-5-acts-of-how-microsoft-privatized-open-source-killing-javascript-in-the-process-20ea",
-  "url": "https://dev.to/kleydints/a-post-mortem-in-5-acts-of-how-microsoft-privatized-open-source-killing-javascript-in-the-process-20ea",
-  "publish_date": "2021-02-11",
-  "published_at": "2021-02-11T12:46:00Z"
- },
- {
-  "id": 598549,
-  "title": "Projects with high-quality designs to practice your HTML, CSS, JS... skills",
-  "description": "Hi folks!   After my last post about Knowledge Pills, you might think \"What else would he pr...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pC5lMXap--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/fct4v5rbqx2udo7ph789.jpg",
-  "slug": "projects-with-high-quality-designs-to-practice-your-html-css-js-skills-jpg",
-  "url": "https://dev.to/bigsondev/projects-with-high-quality-designs-to-practice-your-html-css-js-skills-jpg",
-  "publish_date": "2021-02-11",
-  "published_at": "2021-02-11T09:50:13Z"
- },
- {
-  "id": 598286,
-  "title": "Setup TailwindCSS in Angular the easy way",
-  "description": "In this tutorial, I'm going to show you how to integrate TailwindCSS to your Angular project the EZ E...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9nUQQI5E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qwnpschnxru5c6pqwxyc.png",
-  "slug": "setup-tailwindcss-in-angular-the-easy-way-1i5l",
-  "url": "https://dev.to/angular/setup-tailwindcss-in-angular-the-easy-way-1i5l",
-  "publish_date": "2021-02-11",
-  "published_at": "2021-02-11T07:04:05Z"
  }
 ]
