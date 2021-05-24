@@ -1,5 +1,55 @@
 [
  {
+  "id": 706317,
+  "title": "Create awesome Page Transitions in NextJS using Framer motion",
+  "description": "I recently decided to re-design my portfolio in NextJs. So, I started researching around the web for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BOjuRPQA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/618kie311qph3e7xhhdi.png",
+  "slug": "create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln",
+  "url": "https://dev.to/shaan71845/create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln",
+  "publish_date": "2021-05-23",
+  "published_at": "2021-05-23T13:55:53Z"
+ },
+ {
+  "id": 706351,
+  "title": "React Clean Architecture",
+  "description": "Hello Developers! Many of us use various design patterns with React Development to make React Apps mo...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6nxx0dwy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0n9nxt1ds3g6c1gs335.jpg",
+  "slug": "react-clean-architecture-114f",
+  "url": "https://dev.to/kpiteng/react-clean-architecture-114f",
+  "publish_date": "2021-05-23",
+  "published_at": "2021-05-23T13:34:03Z"
+ },
+ {
+  "id": 706182,
+  "title": "Super Useful Tips \u0026 Tricks for JavaScript Developers",
+  "description": "Quick way to mask numbers using slice and ES8 padStart method      const creditCard = \"41111...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HaVp5ebv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wnbps9shhjegha31wzj3.png",
+  "slug": "super-useful-tips-tricks-for-javascript-developers-702",
+  "url": "https://dev.to/myogeshchavan97/super-useful-tips-tricks-for-javascript-developers-702",
+  "publish_date": "2021-05-23",
+  "published_at": "2021-05-23T06:14:39Z"
+ },
+ {
+  "id": 705341,
+  "title": "Master useful CSS pseudo-classes",
+  "description": "What are CSS pseudo-classes?   A CSS pseudo-class is a selector which specifies a specific s...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDtxuOwr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgweh1zw1jm6343lxx7r.jpg",
+  "slug": "master-useful-css-pseudo-classes-lh2",
+  "url": "https://dev.to/ruppysuppy/master-useful-css-pseudo-classes-lh2",
+  "publish_date": "2021-05-23",
+  "published_at": "2021-05-23T02:36:02Z"
+ },
+ {
+  "id": 552326,
+  "title": "You don't need mutation",
+  "description": "Before you think I'm crazy, I'm not saying that you don't need a way of storing data in memory, becau...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AfWZHvH0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm30ce5yngw5vzkkslwu.png",
+  "slug": "you-don-t-need-variables-2gk3",
+  "url": "https://dev.to/lukeshiru/you-don-t-need-variables-2gk3",
+  "publish_date": "2021-05-23",
+  "published_at": "2021-05-23T01:05:12Z"
+ },
+ {
   "id": 685942,
   "title": "Let’s Talk About Cross-Origin Resource Sharing (CORS)",
   "description": "Access to fetch at ‘https://coolserver.com’ from origin ‘http://localhost:3000’ has been blocked by...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/salo777/50-projects-in-50-days-this-is-what-i-think-10gm",
   "publish_date": "2021-02-13",
   "published_at": "2021-02-13T01:45:34Z"
- },
- {
-  "id": 601558,
-  "title": "JavaScript: Array Tips and Tricks You Should Know",
-  "description": "An array is one of the most common concepts of Javascript, which gives us a lot of possibilities to w...",
-  "cover_image": "",
-  "slug": "javascript-array-tips-and-tricks-you-should-know-3d0n",
-  "url": "https://dev.to/brojenuel/javascript-array-tips-and-tricks-you-should-know-3d0n",
-  "publish_date": "2021-02-12",
-  "published_at": "2021-02-12T13:02:46Z"
- },
- {
-  "id": 601445,
-  "title": "⚡️Reactend \"The story of react.js on backend\"",
-  "description": "React-like http-server on Nodejs",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bsjwryzB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1wvutowtou1l10cuen0n.png",
-  "slug": "reactend-the-story-of-react-js-on-backend-103h",
-  "url": "https://dev.to/orkhanjafarovr/reactend-the-story-of-react-js-on-backend-103h",
-  "publish_date": "2021-02-12",
-  "published_at": "2021-02-12T11:13:10Z"
- },
- {
-  "id": 601259,
-  "title": "Low-Hanging Fruits of Web Security",
-  "description": "I talk about implementing common headers in your web app to increase its security.            Header...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ieN_VAtb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/3or9zamn5x1bbza9xfwo.jpg",
-  "slug": "low-hanging-fruits-of-web-security-16fk",
-  "url": "https://dev.to/karmasakshi/low-hanging-fruits-of-web-security-16fk",
-  "publish_date": "2021-02-12",
-  "published_at": "2021-02-12T06:35:09Z"
- },
- {
-  "id": 601214,
-  "title": "Top Best Data Visualization Tools by Ant.Design in 2021 🔥",
-  "description": "Greeting you as X-axis Y-axis, 👋  There are many things to consider when choosing the right data visu...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QIoTXbC4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/ytcufngx2ym4kvp4cd2k.jpeg",
-  "slug": "top-best-data-visualization-tools-by-ant-design-in-2021-2k0j",
-  "url": "https://dev.to/rkumar1904/top-best-data-visualization-tools-by-ant-design-in-2021-2k0j",
-  "publish_date": "2021-02-12",
-  "published_at": "2021-02-12T06:19:05Z"
- },
- {
-  "id": 601114,
-  "title": "SmolCSS.dev - Minimal Modern CSS Snippets",
-  "description": "This week I launched my latest CSS-related project - SmolCSS.dev - which showcases minimal snippets f...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--viQJqpLl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/dopki1gw9fk86nmi1xie.png",
-  "slug": "smolcss-dev-minimal-modern-css-snippets-4310",
-  "url": "https://dev.to/5t3ph/smolcss-dev-minimal-modern-css-snippets-4310",
-  "publish_date": "2021-02-12",
-  "published_at": "2021-02-12T05:20:44Z"
  }
 ]
