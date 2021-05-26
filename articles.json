@@ -1,5 +1,55 @@
 [
  {
+  "id": 690200,
+  "title": "The 52 most popular projects from the last year of Trending Projects",
+  "description": "For the last year, I have been curating Trending projects a newsletter that showcases 10 popular web...",
+  "cover_image": "",
+  "slug": "the-52-most-popular-projects-from-the-last-year-of-trending-projects-2a8l",
+  "url": "https://dev.to/iainfreestone/the-52-most-popular-projects-from-the-last-year-of-trending-projects-2a8l",
+  "publish_date": "2021-05-25",
+  "published_at": "2021-05-25T20:05:23Z"
+ },
+ {
+  "id": 707824,
+  "title": "useContext for better state management!",
+  "description": "Hi folks,   Managing data in an app is little tricky when many components are sharing and updating it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PiVreI22--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kujgr3zhpj47hks2vqyo.png",
+  "slug": "usecontext-for-better-state-management-51hi",
+  "url": "https://dev.to/ms_yogii/usecontext-for-better-state-management-51hi",
+  "publish_date": "2021-05-25",
+  "published_at": "2021-05-25T11:01:38Z"
+ },
+ {
+  "id": 707244,
+  "title": "Another 100 CSS loaders for your next project",
+  "description": "Ready for the second set of loaders? Yes, it's again me with another collection of 100 CSS loaders. N...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KgMH6CVN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iqbjwrds4640uwn9b443.gif",
+  "slug": "another-100-css-loaders-for-your-next-project-352l",
+  "url": "https://dev.to/afif/another-100-css-loaders-for-your-next-project-352l",
+  "publish_date": "2021-05-25",
+  "published_at": "2021-05-25T09:02:36Z"
+ },
+ {
+  "id": 656605,
+  "title": "How To Make Your First Contribution As a Beginner In Open Source",
+  "description": "Open Source is very powerful that is encouraging and empowering, but students today are not really...",
+  "cover_image": "",
+  "slug": "how-to-make-your-first-contribution-as-a-beginner-in-open-source-5hkf",
+  "url": "https://dev.to/shatakshiigupta/how-to-make-your-first-contribution-as-a-beginner-in-open-source-5hkf",
+  "publish_date": "2021-05-25",
+  "published_at": "2021-05-25T06:09:00Z"
+ },
+ {
+  "id": 702464,
+  "title": "How to make passive income as a web developer in 2021?💸",
+  "description": "Want to know how to make passive income as a web developer? Then this article is for you. Here you'll...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---ZDhffXZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/saujs7bqth4wl9th9xwr.png",
+  "slug": "how-to-make-passive-income-as-a-web-developer-in-2021-5gjl",
+  "url": "https://dev.to/theme_selection/how-to-make-passive-income-as-a-web-developer-in-2021-5gjl",
+  "publish_date": "2021-05-25",
+  "published_at": "2021-05-25T05:02:11Z"
+ },
+ {
   "id": 703144,
   "title": "A Complete Beginner's Guide to Next.js",
   "description": "I've used Create React App non-stop to scaffold React apps, and I love it. Recently, though, I've bee...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/producthackers/intersection-observer-using-react-49ko",
   "publish_date": "2021-02-15",
   "published_at": "2021-02-15T07:57:50Z"
- },
- {
-  "id": 603476,
-  "title": "React Templates - A curated list with FREE projects",
-  "description": "This article presents a curated list with modern, open-source React Templates actively supported and versioned by their vendors",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zdPYr8lD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/admin-dashboards/react-templates/main/media/react-template-paper-kit.png",
-  "slug": "react-templates-a-curated-list-with-free-projects-4kc",
-  "url": "https://dev.to/sm0ke/react-templates-a-curated-list-with-free-projects-4kc",
-  "publish_date": "2021-02-14",
-  "published_at": "2021-02-14T16:27:43Z"
- },
- {
-  "id": 603417,
-  "title": "Dos \u0026 Don'ts For Resetting CSS",
-  "description": "Why reset CSS ?    Main reason is to fix any inconsistencies with default styles between dif...",
-  "cover_image": "",
-  "slug": "dos-don-ts-for-resetting-css-1olf",
-  "url": "https://dev.to/deyrupak/dos-don-ts-for-resetting-css-1olf",
-  "publish_date": "2021-02-14",
-  "published_at": "2021-02-14T13:30:52Z"
- },
- {
-  "id": 602728,
-  "title": "Why you should drop ExpressJS in 2021",
-  "description": "Express is currently, and for many years, the de-facto library in the Node.js ecosystem. When you are...",
-  "cover_image": "",
-  "slug": "why-you-should-drop-expressjs-in-2021-711",
-  "url": "https://dev.to/romainlanz/why-you-should-drop-expressjs-in-2021-711",
-  "publish_date": "2021-02-14",
-  "published_at": "2021-02-14T08:02:36Z"
- },
- {
-  "id": 603144,
-  "title": "Authentication \u0026 Authorization in Microservices Architecture - Part I",
-  "description": "About Behalf   Behalf facilitates in-purchase financing for B2B buyers and sellers. As a fin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yBgFbE5J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/laihaacl8t4legylcyxm.png",
-  "slug": "authentication-authorization-in-microservices-architecture-part-i-2cn0",
-  "url": "https://dev.to/behalf/authentication-authorization-in-microservices-architecture-part-i-2cn0",
-  "publish_date": "2021-02-14",
-  "published_at": "2021-02-14T07:42:05Z"
- },
- {
-  "id": 603109,
-  "title": "100 most asked JavaScript Interview Questions and Answers - Part 1",
-  "description": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with fir...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WPbMEH0Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/473rdf0galv1wgtsz297.png",
-  "slug": "100-most-asked-javascript-interview-questions-and-answers-part-1-443o",
-  "url": "https://dev.to/letstechtalks/100-most-asked-javascript-interview-questions-and-answers-part-1-443o",
-  "publish_date": "2021-02-14",
-  "published_at": "2021-02-14T05:17:52Z"
  }
 ]
