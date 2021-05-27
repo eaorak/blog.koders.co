@@ -1,5 +1,55 @@
 [
  {
+  "id": 709057,
+  "title": "How to Build a Great Developer Portfolio (+ Examples \u0026 Tools)",
+  "description": "As any other specialists, developers need to market themselves to get dream jobs and projects, attrac...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WwFKOa_f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2zxp5l2bu6kpedm04n4.jpg",
+  "slug": "how-to-build-a-great-developer-portfolio-examples-tools-bkj",
+  "url": "https://dev.to/actitime/how-to-build-a-great-developer-portfolio-examples-tools-bkj",
+  "publish_date": "2021-05-26",
+  "published_at": "2021-05-26T12:36:52Z"
+ },
+ {
+  "id": 709094,
+  "title": "JS interview in 2 minutes / Memoization 💭",
+  "description": "Let's try to figure out how to answer common JS questions in an interview.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sqXFkEvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1920px-Unofficial_JavaScript_logo_2.svg.png",
+  "slug": "js-interview-in-2-minutes-memoization-p37",
+  "url": "https://dev.to/kozlovzxc/js-interview-in-2-minutes-memoization-p37",
+  "publish_date": "2021-05-26",
+  "published_at": "2021-05-26T11:55:48Z"
+ },
+ {
+  "id": 709041,
+  "title": "Build Sidebar navigation menu in ReactJS with react router and framer-motion for cool page transition effects",
+  "description": "Hi there 👋,  Checkout this cool sidebar.  Here is the Demo Link: https://react-sidebar.vercel.app/  I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rv4I8UwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9h50milhlf1us6mn4a.png",
+  "slug": "build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3",
+  "url": "https://dev.to/codebucks/build-sidebar-navigation-menu-in-reactjs-with-react-router-and-framer-motion-for-cool-page-transition-effects-4bc3",
+  "publish_date": "2021-05-26",
+  "published_at": "2021-05-26T10:31:50Z"
+ },
+ {
+  "id": 709001,
+  "title": "5 expensive Kubernetes cost traps and how to deal with them",
+  "description": "Cost management gets complicated fast in Kubernetes, and more businesses will face this problem soon....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t5h6UG7g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fia9jovckodoktpi3p3t.jpeg",
+  "slug": "5-expensive-kubernetes-cost-traps-and-how-to-deal-with-them-oja",
+  "url": "https://dev.to/castai/5-expensive-kubernetes-cost-traps-and-how-to-deal-with-them-oja",
+  "publish_date": "2021-05-26",
+  "published_at": "2021-05-26T09:44:06Z"
+ },
+ {
+  "id": 708706,
+  "title": "Top 10 sites / extensions you should use if you are a Frontend Developer 😎",
+  "description": "CssGradient 🖌   Here you will find gradients of all types so that your website is at another...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uosywZ_0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h04dvce50s2xt5ba73so.png",
+  "slug": "top-10-sites-extensions-you-should-use-if-you-are-a-frontend-developer-1110",
+  "url": "https://dev.to/cutioluis/top-10-sites-extensions-you-should-use-if-you-are-a-frontend-developer-1110",
+  "publish_date": "2021-05-26",
+  "published_at": "2021-05-26T02:10:04Z"
+ },
+ {
   "id": 690200,
   "title": "The 52 most popular projects from the last year of Trending Projects",
   "description": "For the last year, I have been curating Trending projects a newsletter that showcases 10 popular web...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jctechdev/you-can-t-afford-not-to-have-these-43h",
   "publish_date": "2021-02-16",
   "published_at": "2021-02-16T01:26:07Z"
- },
- {
-  "id": 603479,
-  "title": "Mastering NPM Scripts",
-  "description": "In this article, I'll share with you my research about how to take full advantage of NPM scripts.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QfqqW5fw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/oKamQoX.png",
-  "slug": "mastering-npm-scripts-2chd",
-  "url": "https://dev.to/paulasantamaria/mastering-npm-scripts-2chd",
-  "publish_date": "2021-02-15",
-  "published_at": "2021-02-15T13:15:23Z"
- },
- {
-  "id": 604400,
-  "title": "8 Node.js Projects To Keep An Eye On 2021",
-  "description": "1. Cytoscape.js     An open-source JavaScript library used for visualization and graph analy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SdaKGBH8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/qf8uouuhasx4un1wlw5c.png",
-  "slug": "8-node-js-projects-to-keep-an-eye-on-2021-229",
-  "url": "https://dev.to/uiuxarghya/8-node-js-projects-to-keep-an-eye-on-2021-229",
-  "publish_date": "2021-02-15",
-  "published_at": "2021-02-15T12:57:35Z"
- },
- {
-  "id": 604311,
-  "title": "Responsive hexagon grid without media query",
-  "description": "I know there is a ton of articles detailing how to create hexagon grid but how many of them are respo...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wGWnlsN8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hote9zyrdk6gkdw6f8hw.png",
-  "slug": "responsive-hexagon-grid-without-media-query-57g7",
-  "url": "https://dev.to/afif/responsive-hexagon-grid-without-media-query-57g7",
-  "publish_date": "2021-02-15",
-  "published_at": "2021-02-15T11:34:26Z"
- },
- {
-  "id": 604127,
-  "title": "Algorithms Every Programmer Should Know",
-  "description": "Introduction   Hello Guys, Today I am going to start a series named \"Algorithm Every Program...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---rNOJWTG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vn29ndsu8k3ngt0oqwcm.png",
-  "slug": "algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3",
-  "url": "https://dev.to/surajondev/algorithms-every-programmer-should-know-part-1-searching-algorithm-1hd3",
-  "publish_date": "2021-02-15",
-  "published_at": "2021-02-15T08:07:34Z"
- },
- {
-  "id": 508787,
-  "title": "Intersection Observer using React",
-  "description": "Today we are gonna explore how to use the intersection observer API in React and see some useful exam...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kT5dsnhe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/9kp1omgdk5i2iqb65f7d.jpg",
-  "slug": "intersection-observer-using-react-49ko",
-  "url": "https://dev.to/producthackers/intersection-observer-using-react-49ko",
-  "publish_date": "2021-02-15",
-  "published_at": "2021-02-15T07:57:50Z"
  }
 ]
