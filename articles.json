@@ -1,5 +1,55 @@
 [
  {
+  "id": 715298,
+  "title": "How to Dynamically Update Twitter Cover Image to Show Latest Followers Using PHP GD and TwitterOAuth",
+  "description": "In this guide you'll learn how you can create a CLI script to dynamically update your Twitter cover image to show your latest Twitter followers, using PHP and the PHP-GD library.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zy7YTTq_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4vudyzwu51aeqdsx386.png",
+  "slug": "how-to-dynamically-update-twitter-cover-image-to-show-latest-followers-using-php-gd-and-twitteroauth-62n",
+  "url": "https://dev.to/erikaheidi/how-to-dynamically-update-twitter-cover-image-to-show-latest-followers-using-php-gd-and-twitteroauth-62n",
+  "publish_date": "2021-06-02",
+  "published_at": "2021-06-02T16:03:07Z"
+ },
+ {
+  "id": 716014,
+  "title": "Top 10 YouTube Channel For Developers",
+  "description": "As YouTube is one of the most searched search engines on the entire planet, it is obvious that YouTub...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5EHI5hfG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epkrqajeyab2t8kvgk3a.png",
+  "slug": "top-10-youtube-channel-for-developers-283b",
+  "url": "https://dev.to/line/top-10-youtube-channel-for-developers-283b",
+  "publish_date": "2021-06-02",
+  "published_at": "2021-06-02T12:54:40Z"
+ },
+ {
+  "id": 715600,
+  "title": "Top three React \u0026 TypeScript pitfalls",
+  "description": "Mind those pitfalls while working with React \u0026 TypeScript.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tzkPPYXw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d7d04ormc3nu2mgqhux2.jpeg",
+  "slug": "top-three-react-typescript-pitfalls-50l8",
+  "url": "https://dev.to/wojciechmatuszewski/top-three-react-typescript-pitfalls-50l8",
+  "publish_date": "2021-06-02",
+  "published_at": "2021-06-02T08:29:47Z"
+ },
+ {
+  "id": 715643,
+  "title": "What is the Virtual DOM? (Let's build it!)",
+  "description": "You might have heard of the Virtual DOM (and also the Shadow DOM). You may have even used it (JSX is...",
+  "cover_image": "",
+  "slug": "what-is-the-virtual-dom-let-s-build-it-5070",
+  "url": "https://dev.to/siddharthshyniben/what-is-the-virtual-dom-let-s-build-it-5070",
+  "publish_date": "2021-06-02",
+  "published_at": "2021-06-02T05:05:35Z"
+ },
+ {
+  "id": 715082,
+  "title": "React JS How/where to Start ? : Best Way to learn React",
+  "description": "I want to share my experience as I coded my way from being a noob to an intermediate developer. whe...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---ePyX7__--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/klgghmnbor8nutgkycfd.png",
+  "slug": "react-js-how-where-to-start-best-way-to-learn-react-3n9l",
+  "url": "https://dev.to/rajatgangwani/react-js-how-where-to-start-best-way-to-learn-react-3n9l",
+  "publish_date": "2021-06-02",
+  "published_at": "2021-06-02T03:47:52Z"
+ },
+ {
   "id": 714546,
   "title": "Happy LGBTQIA+ Pride Month! ❤️ ",
   "description": "Join us in collecting stories of LGBTQIA+ pride — and amplifying organizations doing important work in this space.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/techyniel/25-javascript-interview-questions-23ph",
   "publish_date": "2021-02-23",
   "published_at": "2021-02-23T04:12:10Z"
- },
- {
-  "id": 614857,
-  "title": "React Clean Code - Simple ways to write better and cleaner code",
-  "description": "Clean code is more than just working code. Clean code is easy to read, simple to understand, and neat...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XwaDOI1k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzc7f6iu3kemoucu2aia.jpeg",
-  "slug": "react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa",
-  "url": "https://dev.to/thawkin3/react-clean-code-simple-ways-to-write-better-and-cleaner-code-2loa",
-  "publish_date": "2021-02-22",
-  "published_at": "2021-02-22T17:22:02Z"
- },
- {
-  "id": 614394,
-  "title": "Show Dev: free and open source Bootstrap 5 UI Kit",
-  "description": "Hello devs 👋🏻  Today I want to show you a Bootstrap 5 UI Kit which we've been working on for about a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2_jaXkjT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6dubgnvb8ga1oi24h8p.png",
-  "slug": "show-dev-free-and-open-source-bootstrap-5-ui-kit-13hn",
-  "url": "https://dev.to/themesberg/show-dev-free-and-open-source-bootstrap-5-ui-kit-13hn",
-  "publish_date": "2021-02-22",
-  "published_at": "2021-02-22T10:10:20Z"
- },
- {
-  "id": 614220,
-  "title": "CSS hide scrollbars",
-  "description": "Today we will be hiding scrollbars with CSS! As much as I love browser native behavior, there are use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5N1h-Zlk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7xafbwfrg5qul09lfvw9.jpg",
-  "slug": "css-hide-scrollbars-2na0",
-  "url": "https://dev.to/dailydevtips1/css-hide-scrollbars-2na0",
-  "publish_date": "2021-02-22",
-  "published_at": "2021-02-22T07:14:43Z"
- },
- {
-  "id": 614215,
-  "title": "7 JavaScript ES2020 Features You Should Try",
-  "description": "The ES2020 specification brought many interesting features. In this tutorial, you will learn about se...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rEF0wYJs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/krjfhsh6gp9yzo4aucd9.jpg",
-  "slug": "7-javascript-es2020-features-you-should-try-4p9d",
-  "url": "https://dev.to/alexdevero/7-javascript-es2020-features-you-should-try-4p9d",
-  "publish_date": "2021-02-22",
-  "published_at": "2021-02-22T07:08:55Z"
- },
- {
-  "id": 613385,
-  "title": "Cookies vs Sessions",
-  "description": "The concept of Cookies and Session is very fundamental and every developer should know this....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3PydkNxr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f0p1t6w543f2y3zflrw6.png",
-  "slug": "cookies-vs-sessions-ca5",
-  "url": "https://dev.to/rahxuls/cookies-vs-sessions-ca5",
-  "publish_date": "2021-02-22",
-  "published_at": "2021-02-22T03:47:42Z"
  }
 ]
