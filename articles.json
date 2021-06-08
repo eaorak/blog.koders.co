@@ -1,5 +1,55 @@
 [
  {
+  "id": 720632,
+  "title": "Must-Have Skills for Developers in 2021",
+  "description": "Whether you are already an experienced developer or just starting out, if you want to become really g...",
+  "cover_image": "",
+  "slug": "must-have-skills-for-developers-in-2021-2aao",
+  "url": "https://dev.to/krowser/must-have-skills-for-developers-in-2021-2aao",
+  "publish_date": "2021-06-07",
+  "published_at": "2021-06-07T16:09:47Z"
+ },
+ {
+  "id": 718231,
+  "title": "Building an Accessible Reveal-Card",
+  "description": "Recently, I found myself craving to make something interesting. So I sat down and scrolled through dr...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FXSuZROt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/altzhxexoyc6j599ybfe.png",
+  "slug": "building-an-accessible-reveal-card-3c56",
+  "url": "https://dev.to/link2twenty/building-an-accessible-reveal-card-3c56",
+  "publish_date": "2021-06-07",
+  "published_at": "2021-06-07T16:00:38Z"
+ },
+ {
+  "id": 720609,
+  "title": "HarperDB Instance w/ React",
+  "description": "HarperDB is a distributed database focused on making data management easy. It supports both SQL and N...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N1grC9XM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/004muaic2y78mj68w45f.png",
+  "slug": "harperdb-instance-w-react-19nc",
+  "url": "https://dev.to/sinhapiyush/harperdb-instance-w-react-19nc",
+  "publish_date": "2021-06-07",
+  "published_at": "2021-06-07T13:36:33Z"
+ },
+ {
+  "id": 720225,
+  "title": "How Truthy and Falsy Values in JavaScript Work",
+  "description": "Truthy and falsy values are two important concepts for JavaScript developers to understand. In this t...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QR8y-ZWv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/850iz3mp2qdcckx12ayx.jpg",
+  "slug": "how-truthy-and-falsy-values-in-javascript-work-5gem",
+  "url": "https://dev.to/alexdevero/how-truthy-and-falsy-values-in-javascript-work-5gem",
+  "publish_date": "2021-06-07",
+  "published_at": "2021-06-07T05:56:02Z"
+ },
+ {
+  "id": 719480,
+  "title": "Creating custom hook for fetching data in react",
+  "description": "Prerequisite to implement the customHooks    Knowlegde of functional components, and react h...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gKL_hCKB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhsu9c3myeyhqn3pr8bk.jpg",
+  "slug": "creating-custom-hook-for-fetching-data-in-react-3mo3",
+  "url": "https://dev.to/keyurparalkar/creating-custom-hook-for-fetching-data-in-react-3mo3",
+  "publish_date": "2021-06-07",
+  "published_at": "2021-06-07T03:24:42Z"
+ },
+ {
   "id": 719830,
   "title": "How to become a Successful Developer ",
   "description": "For me, being a software developer is one of the best jobs in the world. I love to code and getting p...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/anmshpndy/how-well-do-you-know-this-2cg1",
   "publish_date": "2021-02-28",
   "published_at": "2021-02-28T01:07:45Z"
- },
- {
-  "id": 620111,
-  "title": "JavaScript Important Methods \u0026 Properties Cheatsheet",
-  "description": "Hello Everyone,  Here is the list of important methods and properties in JavaScript. in this tutorial...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rp9Ahogd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4ksp97ba9chte4xe29j.png",
-  "slug": "javascript-important-methods-properties-cheatsheet-52kh",
-  "url": "https://dev.to/capscode/javascript-important-methods-properties-cheatsheet-52kh",
-  "publish_date": "2021-02-27",
-  "published_at": "2021-02-27T17:23:02Z"
- },
- {
-  "id": 619856,
-  "title": " You can't understand JavaScript without mastering Closure",
-  "description": "Closure is one of the features of the language that many programmers struggle to wrap their heads aro...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W1nIs8q2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tc224gk6pmba8mnidih3.jpg",
-  "slug": "you-can-t-understand-javascript-without-mastering-closure-28o0",
-  "url": "https://dev.to/coderstoolbox/you-can-t-understand-javascript-without-mastering-closure-28o0",
-  "publish_date": "2021-02-27",
-  "published_at": "2021-02-27T14:58:28Z"
- },
- {
-  "id": 619821,
-  "title": "Full Tutorial #9: Creating a GraphQL Mutation | Microservices Chat App Using React, Node.js, TypeScript and GraphQL\n",
-  "description": "About Me: I've been a professional web developer for just over 10 years now. I'm currently the lead w...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e7C5tZa2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hfjtgh52m4qmh8mygnje.jpg",
-  "slug": "full-tutorial-9-creating-a-graphql-mutation-microservices-chat-app-using-react-node-js-typescript-and-graphql-3j6p",
-  "url": "https://dev.to/bettercodingacademy/full-tutorial-9-creating-a-graphql-mutation-microservices-chat-app-using-react-node-js-typescript-and-graphql-3j6p",
-  "publish_date": "2021-02-27",
-  "published_at": "2021-02-27T08:41:52Z"
- },
- {
-  "id": 619433,
-  "title": "var, let \u0026 const in JavaScript",
-  "description": "ES2015(ES6) was released long back and one of the features that came with ES6 is the addition of let...",
-  "cover_image": "",
-  "slug": "var-let-const-in-javascript-3dne",
-  "url": "https://dev.to/kunalt96/var-let-const-in-javascript-3dne",
-  "publish_date": "2021-02-27",
-  "published_at": "2021-02-27T06:26:35Z"
- },
- {
-  "id": 619681,
-  "title": "Mastering responsive Web Design",
-  "description": "I haven't posted anything from the last somedays. Though I have written 12 articles related to JavaSc...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LBOZaZtz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ln0u7glk99i4x5btapzi.png",
-  "slug": "mastering-responsive-web-design-l3c",
-  "url": "https://dev.to/rahxuls/mastering-responsive-web-design-l3c",
-  "publish_date": "2021-02-27",
-  "published_at": "2021-02-27T05:03:02Z"
  }
 ]
