@@ -1,5 +1,55 @@
 [
  {
+  "id": 654158,
+  "title": "How I structure my mid-size NextJs projects",
+  "description": "As you know React is not an opinionated library. What that means is that there is no clearly defined...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ftzspy_W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ysttss61p7gaum0zyx7m.png",
+  "slug": "how-i-structure-my-nextjs-projects-5n8",
+  "url": "https://dev.to/josemukorivo/how-i-structure-my-nextjs-projects-5n8",
+  "publish_date": "2021-06-13",
+  "published_at": "2021-06-13T08:44:19Z"
+ },
+ {
+  "id": 726616,
+  "title": "Master Binary in Five Minutes",
+  "description": "Binary is the very core of everything digital, not only in web development, but literally everything:...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TJqhdNdC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/snnepdaahjijw46qx3z8.jpg",
+  "slug": "master-binary-in-five-minutes-2lj5",
+  "url": "https://dev.to/valeriavg/master-binary-in-five-minutes-2lj5",
+  "publish_date": "2021-06-13",
+  "published_at": "2021-06-13T08:37:41Z"
+ },
+ {
+  "id": 715221,
+  "title": "CSS for large projects",
+  "description": "CSS for large projects     This is the content I prepared for my youtube channel's...",
+  "cover_image": "",
+  "slug": "css-for-large-projects-cmi",
+  "url": "https://dev.to/hellonehha/css-for-large-projects-cmi",
+  "publish_date": "2021-06-13",
+  "published_at": "2021-06-13T06:50:19Z"
+ },
+ {
+  "id": 726775,
+  "title": "Back to Basic: Should we use Rem, Em or Pixel?",
+  "description": "Using Rem and Em units is better than using px.   When we use px, it means that we hardcode the...",
+  "cover_image": "",
+  "slug": "back-to-basic-should-we-use-rem-em-or-pixel-1hd0",
+  "url": "https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0",
+  "publish_date": "2021-06-13",
+  "published_at": "2021-06-13T05:05:59Z"
+ },
+ {
+  "id": 726267,
+  "title": "How to become a Senior Developer",
+  "description": "The Road From Junior to Senior Developer.  Being a programmer is a great thing. For me, there’s...",
+  "cover_image": "",
+  "slug": "how-to-become-a-senior-developer-20po",
+  "url": "https://dev.to/krowser/how-to-become-a-senior-developer-20po",
+  "publish_date": "2021-06-13",
+  "published_at": "2021-06-13T00:52:42Z"
+ },
+ {
   "id": 726270,
   "title": "🔥🔥😮 Fully responsive modern product page. Only Css",
   "description": "Hello, glad you are here. I am kunaal and today we will see how to make an awesome fully responsive...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/saranshk/how-to-format-a-number-as-currency-in-javascript-587b",
   "publish_date": "2021-03-06",
   "published_at": "2021-03-06T04:55:18Z"
- },
- {
-  "id": 623791,
-  "title": "Python Tutorial for Beginners - Full Course [FREE] 🎉",
-  "description": "Python is the most popular programming language out there:   And it is used for so many different ind...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a_ar7u8l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ikxbkos67ilc7kl6w5qn.png",
-  "slug": "python-tutorial-for-beginners-full-course-free-14md",
-  "url": "https://dev.to/techworld_with_nana/python-tutorial-for-beginners-full-course-free-14md",
-  "publish_date": "2021-03-05",
-  "published_at": "2021-03-05T14:34:57Z"
- },
- {
-  "id": 626264,
-  "title": "TOP 5 Alien Articles of the Week Worth Reading 👽📖",
-  "description": "Hey guys! I hope you enjoyed last week's article ! I am back with another one as this week's scoop 😋....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PeW_eXkH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oqig5zbu2m4pucvl94o2.png",
-  "slug": "top-5-alien-articles-of-the-week-worth-reading-2hde",
-  "url": "https://dev.to/xenoxdev/top-5-alien-articles-of-the-week-worth-reading-2hde",
-  "publish_date": "2021-03-05",
-  "published_at": "2021-03-05T11:56:37Z"
- },
- {
-  "id": 626461,
-  "title": "Stop using var for declaring variables !!!",
-  "description": "Stop using var for declaring variables   If you are new to JS or been with it for quite some...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pt8TkrB4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dj50z9pflysvrs66ihjk.png",
-  "slug": "stop-using-var-for-declaring-variables-2p3a",
-  "url": "https://dev.to/mindninjax/stop-using-var-for-declaring-variables-2p3a",
-  "publish_date": "2021-03-05",
-  "published_at": "2021-03-05T11:11:22Z"
- },
- {
-  "id": 626328,
-  "title": "Essential JavaScript Browser APIs",
-  "description": "There are a large number of browser APIs available, this post introduces those you might use very often",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pvFsrMCq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iuxmpfpksm2ue3mo509f.jpg",
-  "slug": "essential-javascript-browser-apis-3a4f",
-  "url": "https://dev.to/ageekdev/essential-javascript-browser-apis-3a4f",
-  "publish_date": "2021-03-05",
-  "published_at": "2021-03-05T07:18:43Z"
- },
- {
-  "id": 623447,
-  "title": "Database Sharding Explained- 2021 Database Scaling Tutorial",
-  "description": "If you want to reach your full potential as a developer you need to have at least a basic understandi...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DYmeaXLX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mj3x3yp55vckpvl73bzp.png",
-  "slug": "database-sharding-explained-2021-database-scaling-tutorial-5cej",
-  "url": "https://dev.to/renaissanceengineer/database-sharding-explained-2021-database-scaling-tutorial-5cej",
-  "publish_date": "2021-03-05",
-  "published_at": "2021-03-05T02:34:30Z"
  }
 ]
