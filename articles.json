@@ -1,5 +1,55 @@
 [
  {
+  "id": 695884,
+  "title": "JavaScript Interview Question #50: How does Intl.Collator work in JS",
+  "description": "What is Intl.Collator and how does it work in JS? What’s the difference between two sorts? What...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a8u-669Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/034820x2lcnigidbkxlj.png",
+  "slug": "javascript-interview-question-50-how-does-intl-collator-work-in-js-3ff8",
+  "url": "https://dev.to/coderslang/javascript-interview-question-50-how-does-intl-collator-work-in-js-3ff8",
+  "publish_date": "2021-06-27",
+  "published_at": "2021-06-27T07:33:05Z"
+ },
+ {
+  "id": 740559,
+  "title": "20+ Open Source Project for Beginners",
+  "description": "Introduction   If you want to collaborate, discuss and code in a group of developers, just...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_MZ1k4Oh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9gery98e73nsjz6vhvs.png",
+  "slug": "beginners-guide-to-starting-your-open-source-journey-1bgb",
+  "url": "https://dev.to/surajondev/beginners-guide-to-starting-your-open-source-journey-1bgb",
+  "publish_date": "2021-06-27",
+  "published_at": "2021-06-27T06:32:55Z"
+ },
+ {
+  "id": 740551,
+  "title": "Top 5 Best Resources To Learn Javascript",
+  "description": "Hello friends, Today we have the top 5 resources that you can use to learn javascript. Javascript is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P9oCD-d0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fglxyj8e270wrb3cswrc.png",
+  "slug": "top-5-best-resources-to-learn-javascript-e3p",
+  "url": "https://dev.to/innocentcoder/top-5-best-resources-to-learn-javascript-e3p",
+  "publish_date": "2021-06-27",
+  "published_at": "2021-06-27T05:40:44Z"
+ },
+ {
+  "id": 740527,
+  "title": "How to create signature pad in html | signature pad JavaScript",
+  "description": "Hello guys, today I am going to show you how to create a signature pad using HTML CSS \u0026amp;...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--69Ygojfo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/faslsx41hvtszxg54bgw.jpg",
+  "slug": "how-to-create-signature-pad-in-html-signature-pad-javascript-3866",
+  "url": "https://dev.to/stackfindover/how-to-create-signature-pad-in-html-signature-pad-javascript-3866",
+  "publish_date": "2021-06-27",
+  "published_at": "2021-06-27T04:09:38Z"
+ },
+ {
+  "id": 733588,
+  "title": "10 Best Development Articles you can't miss to read",
+  "description": "In the Developer community there are many articles posted everyday. So today in this same average...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L0oXIdU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgd5rr67siutfaaml6mj.png",
+  "slug": "10-best-development-articles-you-can-t-miss-to-read-dfg",
+  "url": "https://dev.to/programmerlist/10-best-development-articles-you-can-t-miss-to-read-dfg",
+  "publish_date": "2021-06-27",
+  "published_at": "2021-06-27T01:03:27Z"
+ },
+ {
   "id": 739917,
   "title": "Docker Cheatsheet",
   "description": "Docker is an open platform for developing, shipping, and running applications. Docker enables you to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/matteobruni/how-to-create-beautiful-confetti-animations-with-tsparticles-193",
   "publish_date": "2021-03-20",
   "published_at": "2021-03-20T01:25:47Z"
- },
- {
-  "id": 639478,
-  "title": "6 amazing free tools that will save you some time when u are building websites. (Especially for 'non-designer' developers)",
-  "description": "Hello everyone, hope you are doing great! In this short article, I am writing about 6 free tools that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mqNrrPIz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/17h7em78l1wb1h77yrrq.png",
-  "slug": "6-amazing-free-tools-that-will-save-you-some-time-when-u-are-building-websites-especially-for-non-designer-developers-2930",
-  "url": "https://dev.to/devggaurav/6-amazing-free-tools-that-will-save-you-some-time-when-u-are-building-websites-especially-for-non-designer-developers-2930",
-  "publish_date": "2021-03-19",
-  "published_at": "2021-03-19T15:00:07Z"
- },
- {
-  "id": 637099,
-  "title": "Resources to Build your Blog using Next.js and DEV.to",
-  "description": "So I recently finished building my blog using Next.js, TypeScript, Tailwind and DEV.to CMS.    This w...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8b-EmYPH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dppl1rn7saue7hvpo9ub.JPG",
-  "slug": "list-of-resources-to-build-your-blog-using-next-js-1e9o",
-  "url": "https://dev.to/prnvbirajdar/list-of-resources-to-build-your-blog-using-next-js-1e9o",
-  "publish_date": "2021-03-19",
-  "published_at": "2021-03-19T09:58:26Z"
- },
- {
-  "id": 639193,
-  "title": "111 amazing resources you're gonna love 💖",
-  "description": "Hello Devs 👋   This is Savio here. I'm young dev with an intention to enhance as a successfu...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w1It1j5h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/32lzry8kepe9iesnugx3.jpeg",
-  "slug": "111-amazing-resources-you-re-gonna-love-13fh",
-  "url": "https://dev.to/saviomartin/111-amazing-resources-you-re-gonna-love-13fh",
-  "publish_date": "2021-03-19",
-  "published_at": "2021-03-19T08:05:39Z"
- },
- {
-  "id": 638942,
-  "title": "Know How to Google Is Important. Do You Know How Do It?",
-  "description": "If you like this article, you might also like my Twitter content. You can find me here - Twitter prof...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lrQQguu8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sitvh29wxn0nvqyjpjnv.png",
-  "slug": "know-how-to-google-is-important-do-you-know-how-do-it-56f2",
-  "url": "https://dev.to/albertwalicki/know-how-to-google-is-important-do-you-know-how-do-it-56f2",
-  "publish_date": "2021-03-19",
-  "published_at": "2021-03-19T06:59:40Z"
- },
- {
-  "id": 639150,
-  "title": "I blogged every single day for a year",
-  "description": "It's been 365 days since I started my blogging journey, and this will be article 365.  I know many of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vsPd8Vii--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qrzi5qqn1qwz16kii26q.jpg",
-  "slug": "i-blogged-every-single-day-for-a-year-21df",
-  "url": "https://dev.to/dailydevtips1/i-blogged-every-single-day-for-a-year-21df",
-  "publish_date": "2021-03-19",
-  "published_at": "2021-03-19T06:16:38Z"
  }
 ]
