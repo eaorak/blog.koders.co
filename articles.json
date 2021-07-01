@@ -1,5 +1,55 @@
 [
  {
+  "id": 743317,
+  "title": "Demystifying DevRel with Nader Dabit, Christina Gorton \u0026 Pachi Carlson",
+  "description": "Listen to the season finale of DevDiscuss!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yIzgICCf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/noqsd7bis9i0tur4e3w6.png",
+  "slug": "demystifying-devrel-with-nader-dabit-christina-gorton-pachi-carlson-28nh",
+  "url": "https://dev.to/devteam/demystifying-devrel-with-nader-dabit-christina-gorton-pachi-carlson-28nh",
+  "publish_date": "2021-06-30",
+  "published_at": "2021-06-30T18:47:44Z"
+ },
+ {
+  "id": 743828,
+  "title": "Package.json File explained!!!",
+  "description": "If you've been working on javascript or related framework projects then definitely you came across...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OCYeXgqR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vu045q1s799899xj17a.png",
+  "slug": "package-json-file-explained-b94",
+  "url": "https://dev.to/naveenchandar/package-json-file-explained-b94",
+  "publish_date": "2021-06-30",
+  "published_at": "2021-06-30T12:32:06Z"
+ },
+ {
+  "id": 743738,
+  "title": "We Helped 42 Developers Get $772.441 in Salary Raises And Promotions, Here Is What We Learned",
+  "description": "It doesn't matter if you never went beyond building simple apps, have no degree in Computer Science...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H8TJdKPr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k5azfbko2wuo71uf2udw.png",
+  "slug": "we-helped-42-developers-get-772-441-in-salary-raises-and-promotions-here-is-what-we-learned-2h10",
+  "url": "https://dev.to/dragosnedelcu/we-helped-42-developers-get-772-441-in-salary-raises-and-promotions-here-is-what-we-learned-2h10",
+  "publish_date": "2021-06-30",
+  "published_at": "2021-06-30T10:32:57Z"
+ },
+ {
+  "id": 743609,
+  "title": "5 Cool Animated Button Using CSS and JS",
+  "description": "In this blog we are going to see some cool animated button made using CSS and JS.  1. Social Media...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--beqP9DIk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpfr19aisas87qlo8tl1.gif",
+  "slug": "5-cool-animated-button-using-css-and-js-26i3",
+  "url": "https://dev.to/sumeet16/5-cool-animated-button-using-css-and-js-26i3",
+  "publish_date": "2021-06-30",
+  "published_at": "2021-06-30T08:21:30Z"
+ },
+ {
+  "id": 742505,
+  "title": "My Top React Interview Questions",
+  "description": "This article summarizes a list of React interview questions that I would ask candidates and that I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--STbPNY8I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzo4zv7cs0tx6n8ai6rd.jpg",
+  "slug": "my-top-react-interview-questions-5hfb",
+  "url": "https://dev.to/mokkapps/my-top-react-interview-questions-5hfb",
+  "publish_date": "2021-06-30",
+  "published_at": "2021-06-30T07:01:51Z"
+ },
+ {
   "id": 742745,
   "title": "8 Ultimate ressources for learning Web Dev in 2021 #2",
   "description": "Hey friends ! I'm sharing with you a lot of ressources about web developper that will help you to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/savannahjs/how-the-web-audio-api-is-used-for-browser-fingerprinting-4oim",
   "publish_date": "2021-03-23",
   "published_at": "2021-03-23T01:24:00Z"
- },
- {
-  "id": 635886,
-  "title": "Data fetching React Hook",
-  "description": "Making HTTP requests is a common task for most Single Page Applications. Due to the asynchronous natu...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ONujRcpW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7fn96k7s4rvccbrgusg.png",
-  "slug": "data-fetching-react-hook-4dfc",
-  "url": "https://dev.to/mbellagamba/data-fetching-react-hook-4dfc",
-  "publish_date": "2021-03-22",
-  "published_at": "2021-03-22T15:24:10Z"
- },
- {
-  "id": 641977,
-  "title": "Spin the Wheel — a customizable roulette wheel in less than 30kb with a no-javascript fallback.",
-  "description": "Here's the link: missingdice.com/spin-the-wheel. I'd really appreciate any feedback on improving it,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--myZqVU-a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xb9glhtp18oec7n6v17k.png",
-  "slug": "spin-the-wheel-a-customizable-roulette-wheel-in-less-that-30kb-with-a-no-javascript-fallback-45ma",
-  "url": "https://dev.to/shadowfaxrodeo/spin-the-wheel-a-customizable-roulette-wheel-in-less-that-30kb-with-a-no-javascript-fallback-45ma",
-  "publish_date": "2021-03-22",
-  "published_at": "2021-03-22T11:07:41Z"
- },
- {
-  "id": 641969,
-  "title": "Open-source Introduction to Git and GitHub eBook 💡",
-  "description": "💡 Introduction to Git and GitHub   This is an open-source introduction to Git and GitHub gui...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zBept-zh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jqxty39vofngm1ijc3z.png",
-  "slug": "open-source-introduction-to-git-and-github-ebook-h22",
-  "url": "https://dev.to/bobbyiliev/open-source-introduction-to-git-and-github-ebook-h22",
-  "publish_date": "2021-03-22",
-  "published_at": "2021-03-22T10:34:55Z"
- },
- {
-  "id": 640789,
-  "title": "How I Made This Realistic Red Switch (Pure CSS)",
-  "description": "I created this pen last week after stumbling across this 3D Red Switch design on Dribble. Since t...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HIxlouku--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wfu25gpfucsxjft21sz9.gif",
-  "slug": "how-i-made-this-realistic-red-switch-pure-css-49g2",
-  "url": "https://dev.to/ykadosh/how-i-made-this-realistic-red-switch-pure-css-49g2",
-  "publish_date": "2021-03-22",
-  "published_at": "2021-03-22T09:12:59Z"
- },
- {
-  "id": 641892,
-  "title": "TypeScript Type Guards and Type Predicates",
-  "description": "How to use Type Guards to narrow types in TypeScript.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nh9MWySi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vr7orkpk8dn1t8p2llua.jpg",
-  "slug": "typescript-type-guards-and-type-predicates-4m5e",
-  "url": "https://dev.to/smeijer/typescript-type-guards-and-type-predicates-4m5e",
-  "publish_date": "2021-03-22",
-  "published_at": "2021-03-22T08:39:16Z"
  }
 ]
