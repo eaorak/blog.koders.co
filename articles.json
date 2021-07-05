@@ -1,5 +1,55 @@
 [
  {
+  "id": 747560,
+  "title": "Scalable \"star rating\" without JS (and no SVG or image for the star)",
+  "description": "Here I am with my \"Star rating\" system:  ✔️ No JavaScript. ✔️ No complex HTML code, only the needed...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZmPd30s4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lamoa1m50lkoz1nc8l2w.png",
+  "slug": "scalable-star-rating-without-js-and-no-svg-or-image-for-the-star-2mef",
+  "url": "https://dev.to/afif/scalable-star-rating-without-js-and-no-svg-or-image-for-the-star-2mef",
+  "publish_date": "2021-07-04",
+  "published_at": "2021-07-04T15:02:32Z"
+ },
+ {
+  "id": 747283,
+  "title": "Complete Introduction to React-Redux ⚛",
+  "description": "React and Redux are often mentioned together and with good reason. As the developer who created Redux...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NQ8h7KvS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kg29yc38e6t863f609i2.png",
+  "slug": "complete-introduction-to-react-redux-39kl",
+  "url": "https://dev.to/cenacr007_harsh/complete-introduction-to-react-redux-39kl",
+  "publish_date": "2021-07-04",
+  "published_at": "2021-07-04T09:11:21Z"
+ },
+ {
+  "id": 747568,
+  "title": "Top 10 React Tricks Every Developer Should Use",
+  "description": "Discover a set of React best coding practices, tips and tricks that should be known by all...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nsqhat0P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttqxgn6rzodx3s9f31te.png",
+  "slug": "top-10-react-tricks-every-developer-should-use-8nj",
+  "url": "https://dev.to/kpiteng/top-10-react-tricks-every-developer-should-use-8nj",
+  "publish_date": "2021-07-04",
+  "published_at": "2021-07-04T08:04:29Z"
+ },
+ {
+  "id": 747441,
+  "title": "I did Frontend Mentor challenges for three weeks, here's what I learned",
+  "description": "Hello! It's been a while since my last post. I've been busy doing Frontend Mentor challenges for the...",
+  "cover_image": "",
+  "slug": "i-did-frontend-mentor-challenges-for-three-weeks-here-s-what-i-learned-3j01",
+  "url": "https://dev.to/riyanagueco/i-did-frontend-mentor-challenges-for-three-weeks-here-s-what-i-learned-3j01",
+  "publish_date": "2021-07-04",
+  "published_at": "2021-07-04T02:43:23Z"
+ },
+ {
+  "id": 744100,
+  "title": "The frontend Hitchhiker's Guide: JavaScript Frameworks",
+  "description": "Introduction   Every now an then a developer has an idea to simplify building web apps and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xuZ5E2Qs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i3f26mkvkc0blrovx1t3.png",
+  "slug": "the-frontend-hitchhiker-s-guide-javascript-frameworks-2c45",
+  "url": "https://dev.to/snickdx/the-frontend-hitchhiker-s-guide-javascript-frameworks-2c45",
+  "publish_date": "2021-07-04",
+  "published_at": "2021-07-04T00:58:44Z"
+ },
+ {
   "id": 747275,
   "title": "Vue Academy #1: Scoped style",
   "description": "Welcome to the first vue academy ! It will be a list of lot of article on vue! I have 2.5 years of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/arikaturika/how-to-style-console-logs-in-chrome-dev-tools-33np",
   "publish_date": "2021-03-27",
   "published_at": "2021-03-27T01:12:57Z"
- },
- {
-  "id": 646159,
-  "title": "50 Cool Web And Mobile Project Ideas for 2021",
-  "description": "A lot of people struggle when it comes to thinking of project ideas. Here is a list of 50 cool projec...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wUVRDXwF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ulpu5zebbtluxzggl8qn.png",
-  "slug": "50-cool-web-and-mobile-project-ideas-for-2021-1pgl",
-  "url": "https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2021-1pgl",
-  "publish_date": "2021-03-26",
-  "published_at": "2021-03-26T10:07:44Z"
- },
- {
-  "id": 646074,
-  "title": "Angels of Supabase",
-  "description": "Supabase is an open source Firebase alternative. We're on a mission to build an incredible developer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uk10JdPd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ondq0bfwxpkvevsjg18.png",
-  "slug": "angels-of-supabase-7m4",
-  "url": "https://dev.to/supabase/angels-of-supabase-7m4",
-  "publish_date": "2021-03-26",
-  "published_at": "2021-03-26T07:46:52Z"
- },
- {
-  "id": 645950,
-  "title": "Ultimate FREE Javascript Resources",
-  "description": "Hello friends, today I will be sharing free Javascript resources that you can practice your skills. L...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6PtoPCVG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ayw08hxqmaxdzcwhzoh8.jpg",
-  "slug": "ultimate-free-javascript-resources-2802",
-  "url": "https://dev.to/hulyakarakaya/ultimate-free-javascript-resources-2802",
-  "publish_date": "2021-03-26",
-  "published_at": "2021-03-26T04:36:23Z"
- },
- {
-  "id": 645942,
-  "title": "How to access localhost from the Internet?",
-  "description": "Suppose you are working on a hobby project or building projects locally for learning few concepts. On...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SBwnWxe---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qe9qhto0xaa12hcw1fv0.png",
-  "slug": "how-to-access-localhost-from-the-internet-2ddb",
-  "url": "https://dev.to/dotnetcrunchh/how-to-access-localhost-from-the-internet-2ddb",
-  "publish_date": "2021-03-26",
-  "published_at": "2021-03-26T04:13:50Z"
- },
- {
-  "id": 645939,
-  "title": "How I Made My Website Load 18% Faster",
-  "description": "15 minutes could save you 15% or more on performance  Source: Arnold Francisca Far too often, perform...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H6im3u6_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tt03p4zzbmysq5194tn5.jpeg",
-  "slug": "how-i-made-my-website-load-18-faster-181k",
-  "url": "https://dev.to/mwrpwr/how-i-made-my-website-load-18-faster-181k",
-  "publish_date": "2021-03-26",
-  "published_at": "2021-03-26T03:42:53Z"
  }
 ]
