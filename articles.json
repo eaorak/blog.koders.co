@@ -1,5 +1,55 @@
 [
  {
+  "id": 742521,
+  "title": "5 practices I follow to get into Flow State while coding",
+  "description": "How can developers be more productive? Devs need to be focused for long hours, often with critical...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZY8tK6t4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs1ig3wa83r6alci1x7m.png",
+  "slug": "5-practices-i-follow-to-get-into-flow-state-while-coding-14b1",
+  "url": "https://dev.to/ankit01oss/5-practices-i-follow-to-get-into-flow-state-while-coding-14b1",
+  "publish_date": "2021-07-05",
+  "published_at": "2021-07-05T12:34:24Z"
+ },
+ {
+  "id": 748542,
+  "title": "How to Create a YouTube Downloader with Node.js and React.js",
+  "description": "In this tutorial, we will be going to build YouTube Downloader, the backend implemented in Express.js, and the frontend in React.js",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KqakgGcY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn-images-1.medium.com/max/1200/0%2A7Vq1uUDc9MSdtvvc",
+  "slug": "youtube-downloader-with-node-js-and-react-js-48jl",
+  "url": "https://dev.to/pprathameshmore/youtube-downloader-with-node-js-and-react-js-48jl",
+  "publish_date": "2021-07-05",
+  "published_at": "2021-07-05T11:59:23Z"
+ },
+ {
+  "id": 748473,
+  "title": "Modern Full-Stack Developer Tech Stack 2021",
+  "description": "The developer technology landscape changes all the time as new tools and technologies are introduced....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3GYxwdzv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0j1cwcwctju252urykqi.png",
+  "slug": "modern-full-stack-developer-tech-stack-2021-49ij",
+  "url": "https://dev.to/andrewbaisden/modern-full-stack-developer-tech-stack-2021-49ij",
+  "publish_date": "2021-07-05",
+  "published_at": "2021-07-05T10:08:34Z"
+ },
+ {
+  "id": 747810,
+  "title": "How to manage API calls in React ⚛️ ",
+  "description": "React library is well known for building rich and highly scalable user interfaces. There are many...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nhLRvwew--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qz2il9o39etnatd0p5i0.png",
+  "slug": "how-to-manage-api-calls-in-react-11a8",
+  "url": "https://dev.to/adyasha8105/how-to-manage-api-calls-in-react-11a8",
+  "publish_date": "2021-07-05",
+  "published_at": "2021-07-05T09:48:46Z"
+ },
+ {
+  "id": 748230,
+  "title": "Some Experiments with GitHub Copilot",
+  "description": "I recently got my hands the GitHub Copilot extension for VS Code and it's amazing (borderline...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ava_XHG1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4dkeqvcv6rt3mdc26uew.jpeg",
+  "slug": "some-experiments-with-github-copilot-4jao",
+  "url": "https://dev.to/rahulbanerjee99/some-experiments-with-github-copilot-4jao",
+  "publish_date": "2021-07-05",
+  "published_at": "2021-07-05T04:42:29Z"
+ },
+ {
   "id": 747560,
   "title": "Scalable \"star rating\" without JS (and no SVG or image for the star)",
   "description": "Here I am with my \"Star rating\" system:  ✔️ No JavaScript. ✔️ No complex HTML code, only the needed...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/darrendube/static-site-generators-the-wordpress-alternative-no-one-s-talking-about-11bj",
   "publish_date": "2021-03-28",
   "published_at": "2021-03-28T00:33:43Z"
- },
- {
-  "id": 647221,
-  "title": "Epiphanies and Ideas on Sustainable Open Source @Aviyel 💡🌱",
-  "description": "A dream, an epiphany, a problem or a bug - most open source projects take birth here. Not so differen...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mm-3HCsb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m650bh3kx36eyhwct6cg.png",
-  "slug": "epiphanies-and-ideas-on-sustainable-open-source-aviyel-nl0",
-  "url": "https://dev.to/aviyel/epiphanies-and-ideas-on-sustainable-open-source-aviyel-nl0",
-  "publish_date": "2021-03-27",
-  "published_at": "2021-03-27T15:25:48Z"
- },
- {
-  "id": 647278,
-  "title": "CSS Position Property Explained!",
-  "description": "Introduction   We struggle a lot while positioning elements at the right place on the webpag...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1Hy_4LlY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/brw24xcmv2mvlnr5u7wc.png",
-  "slug": "css-position-property-explained-3eg7",
-  "url": "https://dev.to/surajondev/css-position-property-explained-3eg7",
-  "publish_date": "2021-03-27",
-  "published_at": "2021-03-27T08:55:37Z"
- },
- {
-  "id": 647240,
-  "title": "70+ Websites with Free Images/Videos and Tools for Your Projects",
-  "description": "Hello, friends. I hope you liked my last posts about free Javascript resources, and  50+ Free Website...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ln2EOyir--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7l6vqyoxv7trtjn7km8.jpg",
-  "slug": "70-websites-with-free-images-videos-and-tools-for-your-projects-3ofc",
-  "url": "https://dev.to/hulyakarakaya/70-websites-with-free-images-videos-and-tools-for-your-projects-3ofc",
-  "publish_date": "2021-03-27",
-  "published_at": "2021-03-27T06:01:10Z"
- },
- {
-  "id": 647224,
-  "title": "React.js + Drag\u0026Drop",
-  "description": "In my most recent project, 'GreenHouse', users manage spaces that may contain any number of house pla...",
-  "cover_image": "",
-  "slug": "react-js-drag-drop-2ne9",
-  "url": "https://dev.to/spenser6131/react-js-drag-drop-2ne9",
-  "publish_date": "2021-03-27",
-  "published_at": "2021-03-27T04:51:28Z"
- },
- {
-  "id": 647122,
-  "title": "How to style console.logs in Chrome Dev Tools",
-  "description": "If you're like me and you use console.log as a debugging method by printing things to the console, th...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yey1OKWE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1sdlazeu44wq5fjo0ers.jpg",
-  "slug": "how-to-style-console-logs-in-chrome-dev-tools-33np",
-  "url": "https://dev.to/arikaturika/how-to-style-console-logs-in-chrome-dev-tools-33np",
-  "publish_date": "2021-03-27",
-  "published_at": "2021-03-27T01:12:57Z"
  }
 ]
