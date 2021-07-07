@@ -1,5 +1,55 @@
 [
  {
+  "id": 745866,
+  "title": "JavaScript Frameworks and Metagaming",
+  "description": "Last week we released SolidJS 1.0. A JavaScript framework built on a foundation of ideas long ago...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EDr2VgVt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/chmbxjwbqxkqf2sdei80.jpeg",
+  "slug": "javascript-frameworks-and-metagaming-pb5",
+  "url": "https://dev.to/this-is-learning/javascript-frameworks-and-metagaming-pb5",
+  "publish_date": "2021-07-06",
+  "published_at": "2021-07-06T15:14:07Z"
+ },
+ {
+  "id": 751248,
+  "title": "The best VS Code extensions to supercharge Git (yes, there’s more than GitLens!)",
+  "description": "Yes, I know, we should all be terminal ninjas, memorising every git command yadda yadda. Or, like the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CTrX6TG1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uea6x5ysjxe58rp3drwl.png",
+  "slug": "the-best-vs-code-extensions-to-supercharge-git-yes-there-s-more-than-gitlens-4588",
+  "url": "https://dev.to/jamieswift90/the-best-vs-code-extensions-to-supercharge-git-yes-there-s-more-than-gitlens-4588",
+  "publish_date": "2021-07-06",
+  "published_at": "2021-07-06T12:06:49Z"
+ },
+ {
+  "id": 751222,
+  "title": "ES2021 Features! 🔥",
+  "description": "This article focuses on the JavaScript capabilities that are a part of ECMAScript 2021(ES12).   1....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dYk_slV_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dihrq9hr775adb5980g6.jpg",
+  "slug": "es2021-features-3pa",
+  "url": "https://dev.to/cenacr007_harsh/es2021-features-3pa",
+  "publish_date": "2021-07-06",
+  "published_at": "2021-07-06T09:42:50Z"
+ },
+ {
+  "id": 743825,
+  "title": "5 VS Code Extensions That Make Refactoring Easy",
+  "description": "If you’re looking at ways to clean up our code, reduce complexity and improve functionality - these...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ebjr2jDd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4hgm4fh52teptdi1528.jpg",
+  "slug": "5-vs-code-extensions-that-make-refactoring-easy-1ccb",
+  "url": "https://dev.to/alexomeyer/5-vs-code-extensions-that-make-refactoring-easy-1ccb",
+  "publish_date": "2021-07-06",
+  "published_at": "2021-07-06T09:05:29Z"
+ },
+ {
+  "id": 751039,
+  "title": "Get ⭐'s on your GitHub project",
+  "description": "Plug: I help develop million: \u0026lt;1kb virtual DOM - it's fast!            TL;DR   If applicable,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5PM5y-jm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5g09a1p25dmk8jfh9r9.png",
+  "slug": "get-s-on-your-github-project-17o1",
+  "url": "https://dev.to/aidenybai/get-s-on-your-github-project-17o1",
+  "publish_date": "2021-07-06",
+  "published_at": "2021-07-06T07:20:40Z"
+ },
+ {
   "id": 742521,
   "title": "5 practices I follow to get into Flow State while coding",
   "description": "How can developers be more productive? Devs need to be focused for long hours, often with critical...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/hulyakarakaya/learn-next-js-for-free-with-these-resources-jfi",
   "publish_date": "2021-03-29",
   "published_at": "2021-03-29T05:08:34Z"
- },
- {
-  "id": 648078,
-  "title": "call(), apply() and bind() methods in Javascript",
-  "description": "We know that functions are a special kind of objects in JavaScript. So they have access to some metho...",
-  "cover_image": "",
-  "slug": "call-apply-and-bind-methods-in-javascript-2m40",
-  "url": "https://dev.to/nomishah/call-apply-and-bind-methods-in-javascript-2m40",
-  "publish_date": "2021-03-28",
-  "published_at": "2021-03-28T11:30:35Z"
- },
- {
-  "id": 647813,
-  "title": "Ultimate React Resources",
-  "description": "Hello everyone, today I will be sharing React.js resources. These include blog posts, free e-books, G...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4WBFW_tr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9frwqtb51t37jrroi6x2.png",
-  "slug": "ultimate-react-resources-obl",
-  "url": "https://dev.to/hulyakarakaya/ultimate-react-resources-obl",
-  "publish_date": "2021-03-28",
-  "published_at": "2021-03-28T04:08:17Z"
- },
- {
-  "id": 647227,
-  "title": "Bring you website to life with SVG animations",
-  "description": "What is a SVG?   Scalable Vector Graphics (SVG) are an XML-based markup language for describ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kcJZqZBv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y1qp672723edbgtuoscc.gif",
-  "slug": "bring-you-website-to-life-with-svg-animations-252e",
-  "url": "https://dev.to/ruppysuppy/bring-you-website-to-life-with-svg-animations-252e",
-  "publish_date": "2021-03-28",
-  "published_at": "2021-03-28T03:38:53Z"
- },
- {
-  "id": 645406,
-  "title": "Building a RESTful API with NestJS and MongoDB (Mongoose)",
-  "description": "Introduction   We will learn how to implement a RESTful API for a simple todo application us...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zR1KpOup--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ztkksmaz7n6tfvssm30g.png",
-  "slug": "building-a-restful-api-with-nestjs-and-mongodb-mongoose-2165",
-  "url": "https://dev.to/carlomigueldy/building-a-restful-api-with-nestjs-and-mongodb-mongoose-2165",
-  "publish_date": "2021-03-28",
-  "published_at": "2021-03-28T00:34:37Z"
- },
- {
-  "id": 647773,
-  "title": "Static Site Generators - the WordPress alternative no one's talking about",
-  "description": "We've all experienced it.  Websites suddenly becoming slow for no reason, loading times in the double...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lt9ifR4m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4vq0y91saltfd9thxu6i.png",
-  "slug": "static-site-generators-the-wordpress-alternative-no-one-s-talking-about-11bj",
-  "url": "https://dev.to/darrendube/static-site-generators-the-wordpress-alternative-no-one-s-talking-about-11bj",
-  "publish_date": "2021-03-28",
-  "published_at": "2021-03-28T00:33:43Z"
  }
 ]
