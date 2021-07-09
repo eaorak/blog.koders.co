@@ -1,5 +1,55 @@
 [
  {
+  "id": 747047,
+  "title": "Dockerize your React app",
+  "description": "Hey, welcome back. This article is part of the Dockerize series, make sure to checkout the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4zX5Ng4Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hq33zh8xowu4nc1onlr2.png",
+  "slug": "dockerize-your-react-app-4j2e",
+  "url": "https://dev.to/karanpratapsingh/dockerize-your-react-app-4j2e",
+  "publish_date": "2021-07-08",
+  "published_at": "2021-07-08T09:10:43Z"
+ },
+ {
+  "id": 747024,
+  "title": "Introduction to Dockerize series",
+  "description": "Introduction   Hey, welcome to the Dockerize series. Here, I will be discussing how to use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hnaI2qai--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7v7jmvihh3yj9dw5wkle.png",
+  "slug": "introduction-to-dockerize-series-28l1",
+  "url": "https://dev.to/karanpratapsingh/introduction-to-dockerize-series-28l1",
+  "publish_date": "2021-07-08",
+  "published_at": "2021-07-08T08:44:04Z"
+ },
+ {
+  "id": 752791,
+  "title": "Simplify condition rendering in React.js\n",
+  "description": "As a professional developer you are forced to stay up to date with the latest trends in technology....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VIJOPrl3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zi7uivasslu9kqaxvmfj.jpg",
+  "slug": "simplify-condition-rendering-in-react-js-33l8",
+  "url": "https://dev.to/ornio/simplify-condition-rendering-in-react-js-33l8",
+  "publish_date": "2021-07-08",
+  "published_at": "2021-07-08T07:43:03Z"
+ },
+ {
+  "id": 753359,
+  "title": "I Created 500+ Dev questions and Launched a Quiz platform 🏆🎉",
+  "description": "Companies usually want to test a specific area of knowledge. Quizzes are an engaging method to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tBhaH3ew--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.madza.dev/uploads/2021/07/1625687995_1920x937.png",
+  "slug": "i-created-500-dev-questions-and-launched-a-quiz-platform-4d3k",
+  "url": "https://dev.to/madza/i-created-500-dev-questions-and-launched-a-quiz-platform-4d3k",
+  "publish_date": "2021-07-08",
+  "published_at": "2021-07-08T07:41:17Z"
+ },
+ {
+  "id": 751792,
+  "title": "Create a Resume Uploader Using AWS Amplify",
+  "description": "In the first part of this series, we learned how to send emails by creating a contact form. In this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K3WQiTAw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aiuf2qi1krzxegbxiua0.png",
+  "slug": "create-a-resume-uploader-using-aws-amplify-2e17",
+  "url": "https://dev.to/mtliendo/create-a-resume-uploader-using-aws-amplify-2e17",
+  "publish_date": "2021-07-08",
+  "published_at": "2021-07-08T04:09:53Z"
+ },
+ {
   "id": 752464,
   "title": "I made 150+ high-quality illustrations, totally free. Use it anywhere without attribution.",
   "description": "Hey everyone,  I know that all of you are working on exciting products. To help you make it a bit...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sarthology/plan-ahead-for-your-next-dream-job-inside-notion-42bk",
   "publish_date": "2021-03-31",
   "published_at": "2021-03-31T09:13:01Z"
- },
- {
-  "id": 649846,
-  "title": "5 things I'm thinking about when I check a Pull Request for accessibility",
-  "description": "(Photo by Cookie the Pom on Unsplash)  Developing reliable, accessible, apps is really a whole-team e...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gQwHNkGK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/072x5emh514qr1ya58b0.jpg",
-  "slug": "5-things-i-m-thinking-about-when-i-check-a-pull-request-for-accessibility-3gmo",
-  "url": "https://dev.to/s_aitchison/5-things-i-m-thinking-about-when-i-check-a-pull-request-for-accessibility-3gmo",
-  "publish_date": "2021-03-30",
-  "published_at": "2021-03-30T11:24:05Z"
- },
- {
-  "id": 649003,
-  "title": "Another 100 underline/overlay  animations | The extended CSS collection 🥇🥈",
-  "description": "You all liked my previous collection of 100 animations so here I am with another collection. Now you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3_WWqDW9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l8349w0dpcdruxe7dxuc.gif",
-  "slug": "another-100-underline-overlay-animations-the-extended-css-collection-574c",
-  "url": "https://dev.to/afif/another-100-underline-overlay-animations-the-extended-css-collection-574c",
-  "publish_date": "2021-03-30",
-  "published_at": "2021-03-30T10:39:17Z"
- },
- {
-  "id": 649763,
-  "title": "React.js : Zero to Hero",
-  "description": "I dont like react anymore, all hail vue.js  Intro: React is an Open Source view library created and m...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MLrhag65--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png",
-  "slug": "everything-you-need-in-react-js-1akj",
-  "url": "https://dev.to/dev117uday/everything-you-need-in-react-js-1akj",
-  "publish_date": "2021-03-30",
-  "published_at": "2021-03-30T07:59:03Z"
- },
- {
-  "id": 636644,
-  "title": "Finally - How to understand math - Awesome resource list 🚀",
-  "description": "Hello World Here is the list of ... 1, 2, 3...    Yes, 6 useful resources for you to learn math!  🔖 -...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LprjZiAD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/njlvfcaote0qwoswb1m0.jpg",
-  "slug": "finally-how-to-understand-math-awesome-resource-list-4end",
-  "url": "https://dev.to/worldindev/finally-how-to-understand-math-awesome-resource-list-4end",
-  "publish_date": "2021-03-30",
-  "published_at": "2021-03-30T07:46:05Z"
- },
- {
-  "id": 649645,
-  "title": "List of Resources to Easily Crack Your Next JavaScript/React Interview",
-  "description": "List of 1000 JavaScript Interview Questions   A very popular resource for the collection of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jMQ7KFlz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8wj4bku24wh2cpac6yi.png",
-  "slug": "list-of-resources-to-easily-crack-your-next-javascript-react-interview-4c7j",
-  "url": "https://dev.to/myogeshchavan97/list-of-resources-to-easily-crack-your-next-javascript-react-interview-4c7j",
-  "publish_date": "2021-03-30",
-  "published_at": "2021-03-30T05:28:45Z"
  }
 ]
