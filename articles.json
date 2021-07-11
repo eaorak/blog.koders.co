@@ -1,5 +1,55 @@
 [
  {
+  "id": 755490,
+  "title": "Impress hiring managers by presenting your React projects like a pro - Part 2",
+  "description": "If you want a job build your portfolio projects like a professional dev. This guide split in three parts explains how and provides 3 inspiring ideas.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pES144Cy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3srjwcwpj5542x6fak7o.png",
+  "slug": "impress-hiring-managers-by-presenting-your-react-projects-like-a-pro-part-2-3eje",
+  "url": "https://dev.to/profydev/impress-hiring-managers-by-presenting-your-react-projects-like-a-pro-part-2-3eje",
+  "publish_date": "2021-07-10",
+  "published_at": "2021-07-10T11:41:53Z"
+ },
+ {
+  "id": 755480,
+  "title": "15 Custom Hooks to Make your React Component Lightweight",
+  "description": "Here are the 15 custom hooks to make your React component lightweight  React hooks is the trending...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ks5GNio7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b11z89568ix8d7hogala.png",
+  "slug": "15-custom-hooks-to-make-your-react-component-lightweight-17cd",
+  "url": "https://dev.to/nilanth/15-custom-hooks-to-make-your-react-component-lightweight-17cd",
+  "publish_date": "2021-07-10",
+  "published_at": "2021-07-10T11:12:32Z"
+ },
+ {
+  "id": 754977,
+  "title": "The Scope Chain in JavaScript",
+  "description": "Chapter 3: The Scope Chain    These are the notes of third chapter of the book \"You Don't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NtaSJS4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xy1c8ckhb7tazlc1ekse.jpeg",
+  "slug": "the-scope-chain-in-javascript-596o",
+  "url": "https://dev.to/rajat2502/the-scope-chain-in-javascript-596o",
+  "publish_date": "2021-07-10",
+  "published_at": "2021-07-10T07:07:37Z"
+ },
+ {
+  "id": 755260,
+  "title": "Understanding the useReducer hook in React",
+  "description": "What is useReducer?   useReducer is one of the additional hooks that shipped with React 16.8...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9F5dDyP9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rw6lqicu4v2qkh3ne7u7.png",
+  "slug": "understanding-the-usereducer-hook-in-react-4k12",
+  "url": "https://dev.to/amarjits/understanding-the-usereducer-hook-in-react-4k12",
+  "publish_date": "2021-07-10",
+  "published_at": "2021-07-10T06:17:16Z"
+ },
+ {
+  "id": 755142,
+  "title": "Turn your Create React App into a Progressive Web App in 100 seconds",
+  "description": "Progressive Web Apps (PWAs) let regular apps become accessible offline. They also have access to more...",
+  "cover_image": "",
+  "slug": "turn-your-create-react-app-into-a-progressive-web-app-in-100-seconds-3c11",
+  "url": "https://dev.to/myfatemi04/turn-your-create-react-app-into-a-progressive-web-app-in-100-seconds-3c11",
+  "publish_date": "2021-07-10",
+  "published_at": "2021-07-10T00:25:21Z"
+ },
+ {
   "id": 753531,
   "title": "🚀10 Trending projects on GitHub for web developers - 9th July 2021",
   "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lindelof/a-lot-of-useful-and-wonderful-landing-page-templates-4n1g",
   "publish_date": "2021-04-02",
   "published_at": "2021-04-02T05:45:27Z"
- },
- {
-  "id": 650036,
-  "title": "Top 10 Chrome Extensions I can't live without",
-  "description": "Chrome extensions are simple extension tools that help with coordinating one's work. I have been a gr...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jy_UG-FI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/230og48eo411wc0gopd5.png",
-  "slug": "top-10-chrome-extensions-i-can-t-live-without-2bdf",
-  "url": "https://dev.to/aemiej/top-10-chrome-extensions-i-can-t-live-without-2bdf",
-  "publish_date": "2021-04-01",
-  "published_at": "2021-04-01T14:03:27Z"
- },
- {
-  "id": 650667,
-  "title": "JavaScript Influencers to Follow in 2021🤩",
-  "description": "Well, here we are going to list down some of the well-known JavaScript influencers. Although, before...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRCnaQgJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i1mu5cstkride9v4sl1g.jpg",
-  "slug": "javascript-influencers-to-follow-in-2021-5f8b",
-  "url": "https://dev.to/theme_selection/javascript-influencers-to-follow-in-2021-5f8b",
-  "publish_date": "2021-04-01",
-  "published_at": "2021-04-01T12:59:41Z"
- },
- {
-  "id": 651460,
-  "title": "Building a GraphQL API on AWS with Amazon Neptune Graph Database and CDK",
-  "description": "In this tutorial, I'll walk through how to build a Neptune-backed AppSync GraphQL API with AWS CDK, AWS AppSync, and AWS Lambda.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ogF3X0lV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q1k3c203kg0gclzfqu4u.jpg",
-  "slug": "building-a-graphql-api-on-aws-with-amazon-neptune-graph-database-and-cdk-428a",
-  "url": "https://dev.to/dabit3/building-a-graphql-api-on-aws-with-amazon-neptune-graph-database-and-cdk-428a",
-  "publish_date": "2021-04-01",
-  "published_at": "2021-04-01T11:55:58Z"
- },
- {
-  "id": 651760,
-  "title": "Learn React Hooks by looking under the hood of a video chat app ",
-  "description": "Like most developers I know, I learn a lot every day at work. That's part of why I wanted to make pro...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WMBZ_0VN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fkjpm2zkm5cwr9em8tsx.png",
-  "slug": "learn-react-hooks-by-looking-under-the-hood-of-a-video-chat-app-3a5o",
-  "url": "https://dev.to/kimberleejohnson/learn-react-hooks-by-looking-under-the-hood-of-a-video-chat-app-3a5o",
-  "publish_date": "2021-04-01",
-  "published_at": "2021-04-01T05:48:22Z"
- },
- {
-  "id": 650764,
-  "title": "4 Best UI Framework For ReactJS",
-  "description": "Introduction   Building any project from scratch is painful as it takes a lot of time, cause...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zz9lUCot--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6j878ivdyuhjzybcqub.png",
-  "slug": "4-best-ui-framework-for-reactjs-c20",
-  "url": "https://dev.to/surajondev/4-best-ui-framework-for-reactjs-c20",
-  "publish_date": "2021-04-01",
-  "published_at": "2021-04-01T05:05:04Z"
  }
 ]
