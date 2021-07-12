@@ -1,5 +1,55 @@
 [
  {
+  "id": 756172,
+  "title": "Master Git in 7 minutes",
+  "description": "Essentially, Git keeps tabs on text changes, but the definition is a version control system. Chances...",
+  "cover_image": "",
+  "slug": "master-git-in-7-minutes-gai",
+  "url": "https://dev.to/valeriavg/master-git-in-7-minutes-gai",
+  "publish_date": "2021-07-11",
+  "published_at": "2021-07-11T12:27:30Z"
+ },
+ {
+  "id": 756042,
+  "title": "A basis for a coding interview using \"FizzBuzz\" only⁉- 8 challenges for beginners AND Pros [with a twist for Pros! 😱] ",
+  "description": "FizzBuzz is a mental arithmetic game that got turned into a popular interview question. But what if...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dfX9iq7X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n43y0ofzzm0gvtccwc6q.jpg",
+  "slug": "taking-fizzbuzz-to-the-next-level-8-challenges-from-beginner-to-pro-to-test-your-javascript-skills-2dih",
+  "url": "https://dev.to/inhuofficial/taking-fizzbuzz-to-the-next-level-8-challenges-from-beginner-to-pro-to-test-your-javascript-skills-2dih",
+  "publish_date": "2021-07-11",
+  "published_at": "2021-07-11T11:30:00Z"
+ },
+ {
+  "id": 756166,
+  "title": "Build an outstanding portfolio with these 3 React project ideas - Part 3",
+  "description": "If you want a job build your portfolio projects like a professional dev. This guide split in three parts explains how and provides 3 inspiring ideas.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pES144Cy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3srjwcwpj5542x6fak7o.png",
+  "slug": "build-an-outstanding-portfolio-with-these-3-react-project-ideas-part-3-eii",
+  "url": "https://dev.to/profydev/build-an-outstanding-portfolio-with-these-3-react-project-ideas-part-3-eii",
+  "publish_date": "2021-07-11",
+  "published_at": "2021-07-11T11:17:49Z"
+ },
+ {
+  "id": 753286,
+  "title": "Demystifying Position Property",
+  "description": "CSS provides the position property that specifies how an element should appear in the document. This...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wG6q6u5Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5gce4h1sq84far8qku4f.png",
+  "slug": "demystifying-position-property-30kd",
+  "url": "https://dev.to/bharati21/demystifying-position-property-30kd",
+  "publish_date": "2021-07-11",
+  "published_at": "2021-07-11T06:38:20Z"
+ },
+ {
+  "id": 753820,
+  "title": "5 awesome CSS tricks for beginners",
+  "description": "Learning CSS is a life long journey. Everyday some new feature is coming up. With that said, there...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HFf08Mvn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7udwltl2di6huovkqo8i.jpg",
+  "slug": "5-awesome-css-tricks-you-did-not-know-2j4a",
+  "url": "https://dev.to/ruppysuppy/5-awesome-css-tricks-you-did-not-know-2j4a",
+  "publish_date": "2021-07-11",
+  "published_at": "2021-07-11T04:05:57Z"
+ },
+ {
   "id": 755490,
   "title": "Impress hiring managers by presenting your React projects like a pro - Part 2",
   "description": "If you want a job build your portfolio projects like a professional dev. This guide split in three parts explains how and provides 3 inspiring ideas.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jesuisundev/understand-big-o-notation-in-7-minutes-gp9",
   "publish_date": "2021-04-03",
   "published_at": "2021-04-03T01:20:26Z"
- },
- {
-  "id": 652520,
-  "title": "🚀10 Trending projects on GitHub for web developers - 2nd April 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-2nd-april-2021-15l8",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-2nd-april-2021-15l8",
-  "publish_date": "2021-04-02",
-  "published_at": "2021-04-02T13:50:50Z"
- },
- {
-  "id": 653060,
-  "title": "SASS Cheat Sheet 🔥 - Best SASS Cheatsheet Online 🚀",
-  "description": "Hey Devs, This is the most complete and well-structured SASS cheatsheet you can find online!!  So let...",
-  "cover_image": "",
-  "slug": "sass-cheat-sheet-best-sass-cheatsheet-online-1ecl",
-  "url": "https://dev.to/worldindev/sass-cheat-sheet-best-sass-cheatsheet-online-1ecl",
-  "publish_date": "2021-04-02",
-  "published_at": "2021-04-02T11:58:30Z"
- },
- {
-  "id": 652953,
-  "title": "✔||🤢 Commit or Vomit",
-  "description": "In my recent post I questioned the use of a switch instead of an if else statement. This gave me the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AyESfcGs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzkbo41cdx48m6f5nc3o.jpg",
-  "slug": "commit-or-vomit-2hh9",
-  "url": "https://dev.to/jmdejager/commit-or-vomit-2hh9",
-  "publish_date": "2021-04-02",
-  "published_at": "2021-04-02T09:32:27Z"
- },
- {
-  "id": 652847,
-  "title": "Benefits of Microservices Architecture",
-  "description": "Microservices architecture enables a system to be divided into multiple smaller, individual and ind...",
-  "cover_image": "",
-  "slug": "benefits-of-microservices-architecture-3p3i",
-  "url": "https://dev.to/priyans23611789/benefits-of-microservices-architecture-3p3i",
-  "publish_date": "2021-04-02",
-  "published_at": "2021-04-02T06:12:38Z"
- },
- {
-  "id": 652844,
-  "title": "A lot of useful and wonderful landing page templates",
-  "description": "awesome-landing-page is A series of beautiful and practical landing page templates.            There...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ccEfzdoo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txsaal38i4r75dlvj78e.jpg",
-  "slug": "a-lot-of-useful-and-wonderful-landing-page-templates-4n1g",
-  "url": "https://dev.to/lindelof/a-lot-of-useful-and-wonderful-landing-page-templates-4n1g",
-  "publish_date": "2021-04-02",
-  "published_at": "2021-04-02T05:45:27Z"
  }
 ]
