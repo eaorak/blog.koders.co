@@ -1,5 +1,55 @@
 [
  {
+  "id": 758461,
+  "title": "Windows 11 in React Js 💻 🌈",
+  "description": "Hello devs,  So this is a windows 11 clone that I made in React in the span of 7 days. Would you like...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zHUYmQGI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hhf2lj1uf4mmcu84n4tu.png",
+  "slug": "windows-11-in-react-js-hd3",
+  "url": "https://dev.to/blueedgetechno/windows-11-in-react-js-hd3",
+  "publish_date": "2021-07-13",
+  "published_at": "2021-07-13T17:46:49Z"
+ },
+ {
+  "id": 743883,
+  "title": "7 GitHub projects to make you a better Go Developer💥",
+  "description": "Go is a compiled, concurrent, garbage-collected, statically typed language developed at Google. Go...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r2NiLCRc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/duugw567ew2hlnsneeda.png",
+  "slug": "7-github-projects-to-make-you-a-better-go-developer-2nmh",
+  "url": "https://dev.to/ankit01oss/7-github-projects-to-make-you-a-better-go-developer-2nmh",
+  "publish_date": "2021-07-13",
+  "published_at": "2021-07-13T14:18:52Z"
+ },
+ {
+  "id": 757537,
+  "title": "Magic Link Authentication and Route Controls with Supabase and Next.js",
+  "description": "In this post, we'll build out a Next.js app that enables navigation, authentication, authorization, redirects (client and server-side), and a profile view.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ASZGVIxr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hh20qf2iasphmrzk93h6.png",
+  "slug": "magic-link-authentication-and-route-controls-with-supabase-and-next-js-leo",
+  "url": "https://dev.to/dabit3/magic-link-authentication-and-route-controls-with-supabase-and-next-js-leo",
+  "publish_date": "2021-07-13",
+  "published_at": "2021-07-13T13:15:36Z"
+ },
+ {
+  "id": 757365,
+  "title": "Let's create a portfolio website using Dev.to as a CMS",
+  "description": "I have created multiple portfolio website templates using ChakraUI and React. You can check my...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4Gvhaclm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ozyekr7cerh5bi3oh4ux.png",
+  "slug": "let-s-create-a-portfolio-website-using-dev-to-as-a-cms-349i",
+  "url": "https://dev.to/m_ahmad/let-s-create-a-portfolio-website-using-dev-to-as-a-cms-349i",
+  "publish_date": "2021-07-13",
+  "published_at": "2021-07-13T08:23:17Z"
+ },
+ {
+  "id": 757842,
+  "title": "Array.flat() in JavaScript",
+  "description": "Hello Devs,  In this article i will walk you through one of the important methods of Array in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0YYYRw70--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vjqc449zhp49zjvcmin5.png",
+  "slug": "array-flat-in-javascript-4dnp",
+  "url": "https://dev.to/capscode/array-flat-in-javascript-4dnp",
+  "publish_date": "2021-07-13",
+  "published_at": "2021-07-13T06:28:00Z"
+ },
+ {
   "id": 757050,
   "title": "Use Kool to run Multiple Docker Applications at the same time in your Local Development Environment",
   "description": "More and more, we find ourselves working with Docker containers in the context of microservice...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/salroid/create-image-inside-a-text-3pec",
   "publish_date": "2021-04-05",
   "published_at": "2021-04-05T02:55:42Z"
- },
- {
-  "id": 654839,
-  "title": "I write my own web desktop OS for 3 years and this is what it looks like now",
-  "description": "This is a story about a poor student who just want a storage solution for his musics, video and photo...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uCWGEdSB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tupaibdusxxqkvapwu71.png",
-  "slug": "i-write-my-own-web-desktop-os-for-3-years-and-this-is-what-it-looks-like-now-2903",
-  "url": "https://dev.to/tobychui/i-write-my-own-web-desktop-os-for-3-years-and-this-is-what-it-looks-like-now-2903",
-  "publish_date": "2021-04-04",
-  "published_at": "2021-04-04T15:04:41Z"
- },
- {
-  "id": 654843,
-  "title": "Amazing card hover effect   with grid in HTML \u0026 CSS",
-  "description": "Hello, today I created an amazing card hover effect with a grid using HTML \u0026amp; CSS but this is a re...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LaDvyJtD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcih85bnlo6ro5skm1xf.png",
-  "slug": "amazing-card-hover-effect-with-grid-in-html-css-5gjm",
-  "url": "https://dev.to/nikhil27b/amazing-card-hover-effect-with-grid-in-html-css-5gjm",
-  "publish_date": "2021-04-04",
-  "published_at": "2021-04-04T14:37:45Z"
- },
- {
-  "id": 654704,
-  "title": "3 very popular and wonderful resume page templates",
-  "description": "I have been staying at home recently, and when facing the computer, I was collecting all kin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uB-vHywu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6rhes6a7c1nnm91abd48.jpg",
-  "slug": "3-very-popular-and-wonderful-resume-page-templates-1o9b",
-  "url": "https://dev.to/lindelof/3-very-popular-and-wonderful-resume-page-templates-1o9b",
-  "publish_date": "2021-04-04",
-  "published_at": "2021-04-04T11:10:41Z"
- },
- {
-  "id": 654676,
-  "title": "A better way to use SVGs",
-  "description": "External SVGs are great, but have obvious downsides when compared to inline SVGs. external-svg-loader solves them by giving a better to use them",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9FlUMsJW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.deliciousbrains.com/content/uploads/2019/07/19095418/svgs-for-developers-post-img.jpg",
-  "slug": "a-better-way-to-use-svgs-1mg9",
-  "url": "https://dev.to/shubhamjain/a-better-way-to-use-svgs-1mg9",
-  "publish_date": "2021-04-04",
-  "published_at": "2021-04-04T09:31:43Z"
- },
- {
-  "id": 654502,
-  "title": "Turn your website into a Cross-Platform Desktop App with less than 15 lines of code with Electron",
-  "description": "What is Electron?   Electron is an open-source software framework developed and maintained b...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uld9jCaN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7c1qr4b2m5trzmfl3pz.png",
-  "slug": "turn-your-website-into-a-cross-platform-desktop-app-with-less-than-15-lines-of-code-with-electron-44m3",
-  "url": "https://dev.to/ruppysuppy/turn-your-website-into-a-cross-platform-desktop-app-with-less-than-15-lines-of-code-with-electron-44m3",
-  "publish_date": "2021-04-04",
-  "published_at": "2021-04-04T04:49:53Z"
  }
 ]
