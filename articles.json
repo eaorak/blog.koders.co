@@ -1,5 +1,55 @@
 [
  {
+  "id": 760133,
+  "title": "5 ultimate resources for git #1",
+  "description": "Welcome my friend !  I will share with you some important resource that will improve your skill in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yuI8PTYe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1xszw1lzxyqvrtff5fvg.jpg",
+  "slug": "5-ultimate-resources-for-git-1-20al",
+  "url": "https://dev.to/codeozz/5-ultimate-resources-for-git-1-20al",
+  "publish_date": "2021-07-17",
+  "published_at": "2021-07-17T16:27:42Z"
+ },
+ {
+  "id": 760014,
+  "title": "React hooks on steroids",
+  "description": "Introduction   This isn't going to be just another hooks and context tutorial, this is going...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CiAXc7sO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wgqbz8utl46vjiecjnf1.png",
+  "slug": "react-hooks-on-steroids-48l3",
+  "url": "https://dev.to/patheticgeek/react-hooks-on-steroids-48l3",
+  "publish_date": "2021-07-17",
+  "published_at": "2021-07-17T15:46:47Z"
+ },
+ {
+  "id": 761778,
+  "title": "URL Shortener API with express in 5 minutes",
+  "description": "Hello Everyone!   Today, in this tutorial, we will be trying to make a URL shortener API. To...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wsTEm5yK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2gxjeg542kd1x3pac7y.png",
+  "slug": "url-shortener-api-with-express-in-5-minutes-2ehp",
+  "url": "https://dev.to/agorushkin/url-shortener-api-with-express-in-5-minutes-2ehp",
+  "publish_date": "2021-07-17",
+  "published_at": "2021-07-17T08:34:00Z"
+ },
+ {
+  "id": 761767,
+  "title": "Create LANDING PAGE with 3-D Effect",
+  "description": "In this article I am going to show you how to add 3-D effects to a Landing Page using HTML, CSS and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Omiu9X8j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8o8hgtwehq3gg683ucw.jpg",
+  "slug": "create-landing-page-with-3-d-effect-4136",
+  "url": "https://dev.to/rajshreevats/create-landing-page-with-3-d-effect-4136",
+  "publish_date": "2021-07-17",
+  "published_at": "2021-07-17T07:50:41Z"
+ },
+ {
+  "id": 761610,
+  "title": "Getting Started with JavaScript - Ultimate Free Resources",
+  "description": "In recent times few friends reached out to me, asking for links to resources that can help them...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kNybSdQ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kxcefyjvd7r9z3dumn1x.jpeg",
+  "slug": "getting-started-with-javascript-ultimate-free-resources-59p6",
+  "url": "https://dev.to/kritikapattalam/getting-started-with-javascript-ultimate-free-resources-59p6",
+  "publish_date": "2021-07-17",
+  "published_at": "2021-07-17T01:35:24Z"
+ },
+ {
   "id": 761180,
   "title": "CSS Cheat Sheet for Beginners! 🔥",
   "description": "This Cheat Sheet was made by CodeWithHarry, I found this very useful for quick revision and personal...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/codeloungedev/12-resources-to-improve-your-css-skills-and-speed-up-css-development-3h06",
   "publish_date": "2021-04-09",
   "published_at": "2021-04-09T05:26:01Z"
- },
- {
-  "id": 658927,
-  "title": "What no one told you about CSS Variables",
-  "description": "CSS Variables are great but do you know everything about them?   In this post, I will highlight few q...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uSfiV3ba--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cczk1kuorhpqy38w4izq.png",
-  "slug": "what-no-one-told-you-about-css-variables-553o",
-  "url": "https://dev.to/afif/what-no-one-told-you-about-css-variables-553o",
-  "publish_date": "2021-04-08",
-  "published_at": "2021-04-08T13:33:09Z"
- },
- {
-  "id": 658730,
-  "title": "React Custom Hooks Tutorial - Creating useOnline, Testing and Publishing It",
-  "description": "This was originally posted on my personal blog  In this tutorial, we'll go over how to create a simpl...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hLJhzAYi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6znppkmszn2gpundpcz.jpg",
-  "slug": "react-custom-hooks-tutorial-creating-useonline-testing-and-publishing-it-1bbl",
-  "url": "https://dev.to/shahednasser/react-custom-hooks-tutorial-creating-useonline-testing-and-publishing-it-1bbl",
-  "publish_date": "2021-04-08",
-  "published_at": "2021-04-08T10:02:58Z"
- },
- {
-  "id": 657623,
-  "title": "How to use ES6 import syntax in Node.js",
-  "description": "A module is a JavaScript file that exports one or more values. The exported value can be a variable,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zmsAg-g4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yi40ohph9m3hjjz1n7vk.png",
-  "slug": "how-to-use-es6-import-syntax-in-node-js-3df2",
-  "url": "https://dev.to/amanhimself/how-to-use-es6-import-syntax-in-node-js-3df2",
-  "publish_date": "2021-04-08",
-  "published_at": "2021-04-08T09:00:22Z"
- },
- {
-  "id": 658647,
-  "title": "🌏 Roadmap to Full-Stack Development 🌏",
-  "description": "📌 Who is a Full-Stack Developer?   A full-stack developer is an engineer who can handle all...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8EZOLZ7z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e78l4pmlfyef12uv3dub.png",
-  "slug": "roadmap-to-full-stack-development-2631",
-  "url": "https://dev.to/kaiwalyakoparkar/roadmap-to-full-stack-development-2631",
-  "publish_date": "2021-04-08",
-  "published_at": "2021-04-08T08:33:10Z"
- },
- {
-  "id": 658394,
-  "title": "4 awesome javascript projects worthy of your collection",
-  "description": "I have been staying at home recently, and when facing the computer, I was collecting all kin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h9KIJBlK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c65szradn6vbc510alfj.jpg",
-  "slug": "4-awesome-javascript-projects-worthy-of-your-collection-53fi",
-  "url": "https://dev.to/lindelof/4-awesome-javascript-projects-worthy-of-your-collection-53fi",
-  "publish_date": "2021-04-08",
-  "published_at": "2021-04-08T03:03:37Z"
  }
 ]
