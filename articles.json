@@ -1,5 +1,55 @@
 [
  {
+  "id": 766799,
+  "title": "Forem Self-Host is Now Officially Supported",
+  "description": "Today, the playbook for self-hosting your own Forem community is officially live. Read all...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---cFmabdl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w9wzphs3zus8yr4ngkbw.png",
+  "slug": "forem-self-host-is-now-officially-supported-16h0",
+  "url": "https://dev.to/devteam/forem-self-host-is-now-officially-supported-16h0",
+  "publish_date": "2021-07-20",
+  "published_at": "2021-07-20T19:10:28Z"
+ },
+ {
+  "id": 766461,
+  "title": "How to hide Feature A and show Feature B for different users in React",
+  "description": "Overview   Have you ever wondered how do companies like Slack, Netlify, Zoom, Facebook (and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YORsqrrs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2hocvrp9v6c7zi5xzcuu.png",
+  "slug": "how-to-hide-feature-a-and-show-feature-b-for-different-users-in-react-j6e",
+  "url": "https://dev.to/alex_barashkov/how-to-hide-feature-a-and-show-feature-b-for-different-users-in-react-j6e",
+  "publish_date": "2021-07-20",
+  "published_at": "2021-07-20T15:16:18Z"
+ },
+ {
+  "id": 765981,
+  "title": "CSS + BEM Methodology = 🤘 ",
+  "description": "We all follow naming conventions in programming languages, don't we? Now, what about CSS? Is there...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5NVa6ob3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djtcbhtaecie6x0xlo8e.png",
+  "slug": "css-bem-methodology-690",
+  "url": "https://dev.to/tanwanimohit/css-bem-methodology-690",
+  "publish_date": "2021-07-20",
+  "published_at": "2021-07-20T07:33:24Z"
+ },
+ {
+  "id": 766254,
+  "title": "I Recreated my VSCode Theme 🔥",
+  "description": "Hi guys! So, couple of months back I wrote a blog \"I created a VSCode theme\" describing about the VS...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7FEwdECg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0y9jtbvlh1gpe02rf7v.png",
+  "slug": "i-recreated-my-vscode-theme-33p6",
+  "url": "https://dev.to/shaan71845/i-recreated-my-vscode-theme-33p6",
+  "publish_date": "2021-07-20",
+  "published_at": "2021-07-20T06:03:49Z"
+ },
+ {
+  "id": 766101,
+  "title": "Part-2: 5 HTML Tags That Almost Nobody Knows",
+  "description": "Hello, I'm Aya Bouchiha, today, I'm going to discuss another 5 HTML tags that you're almost don't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--coo9koAv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15wmwuhqriwg2o81s6t2.jpg",
+  "slug": "part-2-5-html-tags-that-almost-nobody-knows-nj8",
+  "url": "https://dev.to/ayabouchiha/part-2-5-html-tags-that-almost-nobody-knows-nj8",
+  "publish_date": "2021-07-20",
+  "published_at": "2021-07-20T00:55:01Z"
+ },
+ {
   "id": 764611,
   "title": "Running NestJS on Docker is Really Easy with Kool",
   "description": "In just 3 simple steps, you can use Kool to start a new NestJS application running in a local Docker...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/developerroad/best-vscode-extensions-for-python-developers-525c",
   "publish_date": "2021-04-12",
   "published_at": "2021-04-12T04:04:38Z"
- },
- {
-  "id": 662056,
-  "title": "The React Tutorial for 2021: A Complete Guide",
-  "description": "Welcome to a tutorial made to help you become effective with React as quickly as possible as you buil...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FkQbKTNN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.reedbarger.com/content/images/2021/04/the-complete-react-tutorial-2021-1.png",
-  "slug": "the-react-tutorial-for-2021-a-complete-guide-47oo",
-  "url": "https://dev.to/reedbarger/the-react-tutorial-for-2021-a-complete-guide-47oo",
-  "publish_date": "2021-04-11",
-  "published_at": "2021-04-11T13:46:53Z"
- },
- {
-  "id": 661868,
-  "title": "Awesome 404 Page Templates for your Websites ",
-  "description": "There are different HTTP response status codes.  Especially, the 404 one.  Now, we wouldn't want our...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FBTSp3gp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lgxtnsnqf5j977e5dmkf.png",
-  "slug": "awesome-404-page-templates-for-your-websites-33jc",
-  "url": "https://dev.to/code2rithik/awesome-404-page-templates-for-your-websites-33jc",
-  "publish_date": "2021-04-11",
-  "published_at": "2021-04-11T08:48:42Z"
- },
- {
-  "id": 653832,
-  "title": "Create the Ultimate User Experience with AOS (Animate on Scroll)",
-  "description": "What is AOS?   As front-end developer, a popular request you might get from your clients is...",
-  "cover_image": "",
-  "slug": "create-the-ultimate-user-experience-with-aos-animate-on-scroll-39jp",
-  "url": "https://dev.to/ruppysuppy/create-the-ultimate-user-experience-with-aos-animate-on-scroll-39jp",
-  "publish_date": "2021-04-11",
-  "published_at": "2021-04-11T03:42:20Z"
- },
- {
-  "id": 661585,
-  "title": "How to have a meaningful weekend as a programmer?",
-  "description": "Human life is a precious incarnation. Being born has a probability of about one in 400 trillion. So t...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MW2F6aDl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fqgq1v4i9cw4ny6v2d36.jpeg",
-  "slug": "how-to-spend-a-meaningful-weekend-as-a-programmer-353j",
-  "url": "https://dev.to/poudyal_rabin/how-to-spend-a-meaningful-weekend-as-a-programmer-353j",
-  "publish_date": "2021-04-11",
-  "published_at": "2021-04-11T01:56:02Z"
- },
- {
-  "id": 661567,
-  "title": "Frontend Security",
-  "description": "Modern web development comes with a variety of challenges that developers have to consider, such as p...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MlPgrTB6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7l2rsy2z6cy8hr2p8jjc.png",
-  "slug": "frontend-security-45he",
-  "url": "https://dev.to/sinhapiyush/frontend-security-45he",
-  "publish_date": "2021-04-11",
-  "published_at": "2021-04-11T01:13:09Z"
  }
 ]
