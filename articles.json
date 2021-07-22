@@ -1,5 +1,55 @@
 [
  {
+  "id": 761268,
+  "title": "5 Packages to Optimize and Speed Up Your React App During Development",
+  "description": "Optimize your React App during the development stage using these packages and avoid issues during...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PEw9H_Vc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fjeajz1ncf3wppb88y7t.png",
+  "slug": "5-packages-to-optimize-and-speed-up-your-react-app-during-development-4h5f",
+  "url": "https://dev.to/nilanth/5-packages-to-optimize-and-speed-up-your-react-app-during-development-4h5f",
+  "publish_date": "2021-07-21",
+  "published_at": "2021-07-21T15:46:46Z"
+ },
+ {
+  "id": 767571,
+  "title": "25 Vue Tips You Need to Know",
+  "description": "I've picked up a ton of useful tips over the years developing and writing about Vue. Some are clever, some I use almost every day, and some are more advanced — but they're all useful.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m3dwT4-6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2be4jzvy2ov4vvi6thtl.png",
+  "slug": "25-vue-tips-you-need-to-know-2h70",
+  "url": "https://dev.to/michaelthiessen/25-vue-tips-you-need-to-know-2h70",
+  "publish_date": "2021-07-21",
+  "published_at": "2021-07-21T15:32:40Z"
+ },
+ {
+  "id": 767615,
+  "title": "FullStack React - Code Examples to start fast",
+  "description": "A curated list with FullStack React Examples that are more than templates. All mentioned products are provided with authentication, database, and usable APIs.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--va7YgSA4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q640s9ru93wxv0uizxhn.png",
+  "slug": "fullstack-react-code-examples-to-start-fast-2o38",
+  "url": "https://dev.to/sm0ke/fullstack-react-code-examples-to-start-fast-2o38",
+  "publish_date": "2021-07-21",
+  "published_at": "2021-07-21T15:05:43Z"
+ },
+ {
+  "id": 767240,
+  "title": "useRef Hook | useRef vs useState",
+  "description": "Hey everyone 👋🏻,  In this article, let us understand the useRef hook in React.js.           SYNTAX...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X0eSjjoa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r6ffi7w2oc2cc67t24p8.png",
+  "slug": "useref-hook-useref-vs-usestate-3i7k",
+  "url": "https://dev.to/thenerdydev/useref-hook-useref-vs-usestate-3i7k",
+  "publish_date": "2021-07-21",
+  "published_at": "2021-07-21T06:44:16Z"
+ },
+ {
+  "id": 767223,
+  "title": "Full-Stack App Django and React",
+  "description": "Let us create a full-stack web application using Django Framework for Python and ReactJS , the famous...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bVMH629C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/87ug5neh88vkxkfwya2t.png",
+  "slug": "full-stack-app-django-and-react-2kih",
+  "url": "https://dev.to/bekbrace/full-stack-app-django-and-react-2kih",
+  "publish_date": "2021-07-21",
+  "published_at": "2021-07-21T05:12:27Z"
+ },
+ {
   "id": 766799,
   "title": "Forem Self-Host is Now Officially Supported",
   "description": "Today, the playbook for self-hosting your own Forem community is officially live. Read all...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kaspera/understanding-web-vitals-2d6c",
   "publish_date": "2021-04-13",
   "published_at": "2021-04-13T07:54:51Z"
- },
- {
-  "id": 662936,
-  "title": "A different approach to frontend architecture",
-  "description": "(image source: https://www.infoq.com/i18n/software-architecture-trends-2019)  This article aims to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fMrLpSf2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eskhyq6kfqg5ma0n7quh.png",
-  "slug": "a-different-approach-to-frontend-architecture-38d4",
-  "url": "https://dev.to/quochuytlbk/a-different-approach-to-frontend-architecture-38d4",
-  "publish_date": "2021-04-12",
-  "published_at": "2021-04-12T11:08:59Z"
- },
- {
-  "id": 661781,
-  "title": "How to Plan and Build a Programming Project – A Legitimate Guide for Beginners",
-  "description": "This is a post I have thought about writing for a long time, I originally published it on my blog in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lKwoRoZm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m5bg3xfjpja8u41lsywu.jpg",
-  "slug": "how-to-plan-and-build-a-programming-project-a-legitimate-guide-for-beginners-1fll",
-  "url": "https://dev.to/peterlunch/how-to-plan-and-build-a-programming-project-a-legitimate-guide-for-beginners-1fll",
-  "publish_date": "2021-04-12",
-  "published_at": "2021-04-12T10:47:12Z"
- },
- {
-  "id": 661187,
-  "title": "40+ Useful Resources for Mastering Web🎁",
-  "description": "Introduction   We have a list of various resources that can help you to solve many problems...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zijasuZ0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5hc8qwac5j4m5gvw3sb.png",
-  "slug": "40-useful-resources-for-mastering-web-1i0h",
-  "url": "https://dev.to/surajondev/40-useful-resources-for-mastering-web-1i0h",
-  "publish_date": "2021-04-12",
-  "published_at": "2021-04-12T07:36:58Z"
- },
- {
-  "id": 660507,
-  "title": "Are you already lost in your node_modules?",
-  "description": "It doesn’t matter if you work with React or Angular or Node.JS after some time when your project is...",
-  "cover_image": "",
-  "slug": "are-you-already-lost-in-your-nodemodules-2c12",
-  "url": "https://dev.to/tojasun/are-you-already-lost-in-your-nodemodules-2c12",
-  "publish_date": "2021-04-12",
-  "published_at": "2021-04-12T06:25:01Z"
- },
- {
-  "id": 661710,
-  "title": "👨‍💻Best VsCode extensions for Python Developers🐍",
-  "description": "Why do you need good tools for create software? 🤔            Short answer   Really you don't...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DXDnl49T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vv8obq80a3pr6ovb6t2o.png",
-  "slug": "best-vscode-extensions-for-python-developers-525c",
-  "url": "https://dev.to/developerroad/best-vscode-extensions-for-python-developers-525c",
-  "publish_date": "2021-04-12",
-  "published_at": "2021-04-12T04:04:38Z"
  }
 ]
