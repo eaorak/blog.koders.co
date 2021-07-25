@@ -1,5 +1,55 @@
 [
  {
+  "id": 769635,
+  "title": "Vue Academy #3: v-show VS v-if",
+  "description": "Welcome to the new vue academy ! It will be a list of lot of article on vue! I have 2.5 years of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b5JP9dZA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fuko1zuavx0fmqm4fo1b.png",
+  "slug": "vue-academy-3-v-show-vs-v-if-iaa",
+  "url": "https://dev.to/codeozz/vue-academy-3-v-show-vs-v-if-iaa",
+  "publish_date": "2021-07-24",
+  "published_at": "2021-07-24T13:10:22Z"
+ },
+ {
+  "id": 770287,
+  "title": "How to write unit tests in JavaScript with Jest",
+  "description": "Unit testing is an important and often overlooked part of the development process. It is considered...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D8DHpfvG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nauccdpve30t42d1pxz5.png",
+  "slug": "how-to-write-unit-tests-in-javascript-with-jest-2e83",
+  "url": "https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83",
+  "publish_date": "2021-07-24",
+  "published_at": "2021-07-24T11:39:48Z"
+ },
+ {
+  "id": 770256,
+  "title": "Quick CSS : Make infinity loading animation for your next website.",
+  "description": "Hello, welcome. Today we'll see a quick CSS tutorial on how to make gradient loading animation.     ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uoD5C18c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/srptrn6cjgr3ddex3s18.png",
+  "slug": "quick-css-make-infinity-loading-animation-for-your-next-website-187k",
+  "url": "https://dev.to/kunaal438/quick-css-make-infinity-loading-animation-for-your-next-website-187k",
+  "publish_date": "2021-07-24",
+  "published_at": "2021-07-24T10:20:10Z"
+ },
+ {
+  "id": 770048,
+  "title": "20+ Super DevTools you may have not heard of",
+  "description": "In this web period, practically any free tools can be found online to take care of normal issues...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o_xG9ZFW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjz7hpckhq28x9ylvotl.png",
+  "slug": "20-super-devtools-you-may-have-not-heard-of-441g",
+  "url": "https://dev.to/coderwatch/20-super-devtools-you-may-have-not-heard-of-441g",
+  "publish_date": "2021-07-24",
+  "published_at": "2021-07-24T05:54:00Z"
+ },
+ {
+  "id": 769920,
+  "title": "How to Get Better with Git",
+  "description": "Git is a version control tool that any developer would benefit from learning. Using git allows you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sKNGY-yy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kp0olcofa596woo9cuwn.jpg",
+  "slug": "how-to-get-better-with-git-25d1",
+  "url": "https://dev.to/anaveecodes/how-to-get-better-with-git-25d1",
+  "publish_date": "2021-07-24",
+  "published_at": "2021-07-24T00:44:25Z"
+ },
+ {
   "id": 768329,
   "title": "🚀10 Trending projects on GitHub for web developers - 23rd July 2021",
   "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/puruvj/why-i-moved-from-styled-components-to-s-css-modules-2ikc",
   "publish_date": "2021-04-16",
   "published_at": "2021-04-16T04:34:37Z"
- },
- {
-  "id": 665952,
-  "title": "100 more underline/overlay animations | The upgraded CSS collection 🥇🥈🥉",
-  "description": "Ready for the 3rd round? let's go!  As usual: No SVG, No JS, No extra tag, No pseudo element, No keyf...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k2OexSVL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xn4n5qe9a4rhlczufk7m.gif",
-  "slug": "100-more-underline-overlay-animations-the-upgraded-css-collection-4c25",
-  "url": "https://dev.to/afif/100-more-underline-overlay-animations-the-upgraded-css-collection-4c25",
-  "publish_date": "2021-04-15",
-  "published_at": "2021-04-15T13:18:03Z"
- },
- {
-  "id": 665539,
-  "title": "How To Create A Kickass GitHub Profile Page",
-  "description": "This tutorial is also available as a video. Click on the video below or click this link.        In t...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qA4BLoiT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://firebasestorage.googleapis.com/v0/b/krossa-prod.appspot.com/o/7DmurglTvbRnmlQPSCuRH8wyLwt1%252Farticles%252FpAgmwUeQeieHOytbmoqK%252FCopy%2520of%2520GORYO%2520%281%29.png%3Falt%3Dmedia%26token%3D59887760-bd7b-4483-9dbb-d962ce13ac04",
-  "slug": "how-to-create-a-kickass-github-profile-page-408a",
-  "url": "https://dev.to/codeloungedev/how-to-create-a-kickass-github-profile-page-408a",
-  "publish_date": "2021-04-15",
-  "published_at": "2021-04-15T07:47:22Z"
- },
- {
-  "id": 661566,
-  "title": "I'm An Impostor",
-  "description": "I wanted to write this article because I'm routinely frustrated by (what I perceive to be) the contin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xc-jN1-e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tbgj11y2p0jxeyu3wg5m.png",
-  "slug": "i-m-an-impostor-5f7f",
-  "url": "https://dev.to/bytebodger/i-m-an-impostor-5f7f",
-  "publish_date": "2021-04-15",
-  "published_at": "2021-04-15T07:19:51Z"
- },
- {
-  "id": 666588,
-  "title": "15 Free React  Templates for Your Next Project",
-  "description": "React!    In less than a decade of existence, React has indeed grown in leaps and bounds. It has beco...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BgrCZ-1X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6gsus3ml69ow9toij4dl.png",
-  "slug": "15-free-reactjs-templates-for-your-next-project-313m",
-  "url": "https://dev.to/exwhyzed/15-free-reactjs-templates-for-your-next-project-313m",
-  "publish_date": "2021-04-15",
-  "published_at": "2021-04-15T05:06:39Z"
- },
- {
-  "id": 659589,
-  "title": "List of Visual Tools to help with Data Structures and Algorithms",
-  "description": "As a self-taught dev, it is a little intimidating and overwhelming to learn Data Structures and Algor...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tyk8zPrl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9aoe66asrlxook593tzb.jpg",
-  "slug": "list-of-visual-tools-to-help-with-data-structures-and-algorithms-4nb2",
-  "url": "https://dev.to/prnvbirajdar/list-of-visual-tools-to-help-with-data-structures-and-algorithms-4nb2",
-  "publish_date": "2021-04-15",
-  "published_at": "2021-04-15T03:50:06Z"
  }
 ]
