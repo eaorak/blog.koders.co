@@ -1,0 +1,15 @@
+---
+title: 'Closures and their practical uses'
+excerpt: 'What the heck are closures anyways?   According to the official Mozilla website closure...'
+date: '2021-07-25'
+coverImage: 'https://res.cloudinary.com/practicaldev/image/fetch/s--IIpx5n1---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t3b3pewkj6th2yya6yt4.png'
+author:
+  name: Koders
+  picture: "assets/blog/authors/koders.png"
+ogImage:
+  url: 'https://res.cloudinary.com/practicaldev/image/fetch/s--IIpx5n1---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t3b3pewkj6th2yya6yt4.png'
+---
+
+What the heck are closures anyways?   According to the official Mozilla website closure...
+
+[Read more](https://dev.to/amrtaher1234/closures-and-their-practical-uses-19fm)

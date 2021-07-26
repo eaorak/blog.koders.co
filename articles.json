@@ -1,5 +1,55 @@
 [
  {
+  "id": 771019,
+  "title": "How to Set up a Node.js Express Server for React",
+  "description": "React is a JavaScript library used to build user interfaces and develop single-page applications...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SUZOQskv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4f1bxzqqg1uu66jiy8ih.jpg",
+  "slug": "how-to-set-up-a-node-js-express-server-for-react-2fja",
+  "url": "https://dev.to/pratham10/how-to-set-up-a-node-js-express-server-for-react-2fja",
+  "publish_date": "2021-07-25",
+  "published_at": "2021-07-25T12:12:49Z"
+ },
+ {
+  "id": 767515,
+  "title": "Setup a new mac (for devs [and others]) 💻",
+  "description": "\"Got a new macbook🥳! What should I install now 🧐?\"    I'm getting this question every...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BHbS3eS3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mei7gtkl9cn7w0qxpi9k.jpeg",
+  "slug": "setup-a-new-mac-for-devs-and-others-4d88",
+  "url": "https://dev.to/dekel/setup-a-new-mac-for-devs-and-others-4d88",
+  "publish_date": "2021-07-25",
+  "published_at": "2021-07-25T08:17:36Z"
+ },
+ {
+  "id": 770368,
+  "title": "Complete Introduction to CSS Flexbox 💪",
+  "description": "Flexbox is a powerful, well-supported layout method that was introduced with the latest version of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jFsqvZ0M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nxwmd0aivzyjx2k4sofx.jpg",
+  "slug": "complete-introduction-to-css-flexbox-1fhl",
+  "url": "https://dev.to/cenacr007_harsh/complete-introduction-to-css-flexbox-1fhl",
+  "publish_date": "2021-07-25",
+  "published_at": "2021-07-25T07:48:07Z"
+ },
+ {
+  "id": 770760,
+  "title": "5 UI Tips to Become a Better Front End Developer",
+  "description": "Often while starting out, beginners struggle to create captivating UI that gets users hooked to their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tCT1Gxdi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmivzqd0h4cvxt2i0dt6.png",
+  "slug": "5-ui-tips-to-become-a-better-front-end-developer-1ae1",
+  "url": "https://dev.to/ruppysuppy/5-ui-tips-to-become-a-better-front-end-developer-1ae1",
+  "publish_date": "2021-07-25",
+  "published_at": "2021-07-25T05:43:29Z"
+ },
+ {
+  "id": 770740,
+  "title": "Closures and their practical uses",
+  "description": "What the heck are closures anyways?   According to the official Mozilla website closure...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IIpx5n1---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t3b3pewkj6th2yya6yt4.png",
+  "slug": "closures-and-their-practical-uses-19fm",
+  "url": "https://dev.to/amrtaher1234/closures-and-their-practical-uses-19fm",
+  "publish_date": "2021-07-25",
+  "published_at": "2021-07-25T01:43:27Z"
+ },
+ {
   "id": 769635,
   "title": "Vue Academy #3: v-show VS v-if",
   "description": "Welcome to the new vue academy ! It will be a list of lot of article on vue! I have 2.5 years of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/saviomartin/40-amazing-chrome-extensions-for-web-developers-and-designers-oi6",
   "publish_date": "2021-04-17",
   "published_at": "2021-04-17T03:52:01Z"
- },
- {
-  "id": 667175,
-  "title": "🚀10 Trending projects on GitHub for web developers - 16th April 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-16th-april-2021-k0k",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-16th-april-2021-k0k",
-  "publish_date": "2021-04-16",
-  "published_at": "2021-04-16T13:54:14Z"
- },
- {
-  "id": 667790,
-  "title": "Fully accessible Menu components by headless UI tailwindcss",
-  "description": "This blog focuses on best-practice guidance on implementing accessibility in the menu components by u...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JG2CWbRP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7r2ne9ewcxkrwumi3dx.png",
-  "slug": "fully-accessible-menu-components-by-headless-ui-tailwindcss-4ml7",
-  "url": "https://dev.to/nirazanbasnet/fully-accessible-menu-components-by-headless-ui-tailwindcss-4ml7",
-  "publish_date": "2021-04-16",
-  "published_at": "2021-04-16T07:10:59Z"
- },
- {
-  "id": 667795,
-  "title": "Create a Website With Video Background | HTML \u0026 CSS",
-  "description": "Video is probably the number one way to draw attention. A good video background can easily make peopl...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QFbCqQTH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/18r91hrgckgnuynpbakh.png",
-  "slug": "create-a-website-with-video-background-html-css-fao",
-  "url": "https://dev.to/pawanbhayde/create-a-website-with-video-background-html-css-fao",
-  "publish_date": "2021-04-16",
-  "published_at": "2021-04-16T07:10:42Z"
- },
- {
-  "id": 667734,
-  "title": "React CRUD App Tutorial – Build a Book Management App in React from Scratch",
-  "description": "In this article, you will build a Book Management App in React from scratch and learn how to perform...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WU82jQ12--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r1kw76wg3u1hc5j1ywg4.jpg",
-  "slug": "react-crud-app-tutorial-build-a-book-management-app-in-react-from-scratch-f7b",
-  "url": "https://dev.to/myogeshchavan97/react-crud-app-tutorial-build-a-book-management-app-in-react-from-scratch-f7b",
-  "publish_date": "2021-04-16",
-  "published_at": "2021-04-16T05:44:28Z"
- },
- {
-  "id": 667720,
-  "title": "Why I moved from Styled Components to (S)CSS modules",
-  "description": "A little writeup of my reasons behind moving from Styled Components to SCSS modules, and the benefits I got out of this.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FhR0ITi5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/25i7v116gvtkvqzb45bo.jpg",
-  "slug": "why-i-moved-from-styled-components-to-s-css-modules-2ikc",
-  "url": "https://dev.to/puruvj/why-i-moved-from-styled-components-to-s-css-modules-2ikc",
-  "publish_date": "2021-04-16",
-  "published_at": "2021-04-16T04:34:37Z"
  }
 ]
