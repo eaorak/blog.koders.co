@@ -1,5 +1,55 @@
 [
  {
+  "id": 772942,
+  "title": "My Placements Journey",
+  "description": "This article is all about my placements journey. I have cleared interviews and got offers from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OMew3tOh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdhgeuvy6b945uoxeg5z.png",
+  "slug": "my-placements-journey-4m0g",
+  "url": "https://dev.to/manvityagi9/my-placements-journey-4m0g",
+  "publish_date": "2021-07-27",
+  "published_at": "2021-07-27T14:09:48Z"
+ },
+ {
+  "id": 773144,
+  "title": "You should probably learn TypeScript",
+  "description": "Yes, you.  This post is trending right now...                                         To Typescript...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FFFyg8va--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncpd2truabm95sgmaaov.png",
+  "slug": "you-should-probably-learn-typescript-111m",
+  "url": "https://dev.to/ben/you-should-probably-learn-typescript-111m",
+  "publish_date": "2021-07-27",
+  "published_at": "2021-07-27T13:51:49Z"
+ },
+ {
+  "id": 772871,
+  "title": "You don’t need React for building websites",
+  "description": "Here’s what I think: if you are building websites, you don’t need React (in most cases).  I have been...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PDGLFrIv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b89ptguvtlmatb040uhn.jpg",
+  "slug": "you-don-t-need-react-for-building-websites-455f",
+  "url": "https://dev.to/starbist/you-don-t-need-react-for-building-websites-455f",
+  "publish_date": "2021-07-27",
+  "published_at": "2021-07-27T08:28:02Z"
+ },
+ {
+  "id": 770279,
+  "title": "🚀20 Best CSS3 Library For Developers.",
+  "description": "Web Developers used to spend a lot of time creating beautiful CSS. Thanks to the CSS libraries, we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yGgHdFXN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1i938z1nk2lblzy6fv0.png",
+  "slug": "20-best-css3-library-for-developers-58p",
+  "url": "https://dev.to/chetan_atrawalkar/20-best-css3-library-for-developers-58p",
+  "publish_date": "2021-07-27",
+  "published_at": "2021-07-27T04:53:29Z"
+ },
+ {
+  "id": 770159,
+  "title": "JavaScript Hoisting",
+  "description": "[JS#5 WIL 🤔 Post]   JavaScript hoisting refers to the process where the compiler allocates...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PjnfZJ6p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jixffw2673jm91ho89x.gif",
+  "slug": "javascript-hoisting-450l",
+  "url": "https://dev.to/pat_the99/javascript-hoisting-450l",
+  "publish_date": "2021-07-27",
+  "published_at": "2021-07-27T01:06:33Z"
+ },
+ {
   "id": 771966,
   "title": "JavaScript Cheatsheet for Beginners 🔥",
   "description": "A simple JavaScript JavaScript cheat sheet for beginner buddies!",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mike37/15-css-hover-effects-example-3pbh",
   "publish_date": "2021-04-19",
   "published_at": "2021-04-19T03:53:13Z"
- },
- {
-  "id": 670454,
-  "title": "🔨 [git]: Write better commits with Gitmoji",
-  "description": "📝 Notes   Gitmoji is an initiative to standardize and explain the use of emojis on GitHub...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gX5YN_zJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6sayrf35j4be2ehuyk5.png",
-  "slug": "git-write-better-commits-with-gitmoji-3193",
-  "url": "https://dev.to/javidjms/git-write-better-commits-with-gitmoji-3193",
-  "publish_date": "2021-04-18",
-  "published_at": "2021-04-18T13:07:39Z"
- },
- {
-  "id": 670039,
-  "title": "Some Vanilla JS libraries you must try",
-  "description": "Never underestimate the power of simplicity. It's hard to imagine the application of concepts like pu...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hj3b92YO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/isals2pc869yl1jut34h.png",
-  "slug": "some-vanilla-js-libraries-you-must-try-17a3",
-  "url": "https://dev.to/commentme/some-vanilla-js-libraries-you-must-try-17a3",
-  "publish_date": "2021-04-18",
-  "published_at": "2021-04-18T11:55:49Z"
- },
- {
-  "id": 669981,
-  "title": "Nginx Cheatsheet",
-  "description": "Nginx is open-source software for web serving, reverse proxying, caching, load balancing, media strea...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDWPJJrt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1o91lxa4qreqxecnodl1.png",
-  "slug": "nginx-cheatsheet-24ph",
-  "url": "https://dev.to/vishnuchilamakuru/nginx-cheatsheet-24ph",
-  "publish_date": "2021-04-18",
-  "published_at": "2021-04-18T08:09:56Z"
- },
- {
-  "id": 669069,
-  "title": "Supercharge Your Website Using PWA: Installable Website",
-  "description": "What is a PWA?   Progressive Web Apps (PWA) are web applications that have been designed so...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bwPbMeCe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p2uors208q22bcd82g52.png",
-  "slug": "supercharge-your-website-using-pwa-installable-website-32i3",
-  "url": "https://dev.to/ruppysuppy/supercharge-your-website-using-pwa-installable-website-32i3",
-  "publish_date": "2021-04-18",
-  "published_at": "2021-04-18T04:51:53Z"
- },
- {
-  "id": 669285,
-  "title": "Awesome CSS Layout Resources For Beginners",
-  "description": "Here is a list of awesome CSS layout generators and layout examples. The list contains Flexbox based...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p3lOvZ0r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kq78ujdf01sc1ie7spo9.jpg",
-  "slug": "awesome-css-layout-resources-for-beginners-508a",
-  "url": "https://dev.to/kiranrajvjd/awesome-css-layout-resources-for-beginners-508a",
-  "publish_date": "2021-04-18",
-  "published_at": "2021-04-18T03:08:40Z"
  }
 ]
