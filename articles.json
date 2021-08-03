@@ -1,5 +1,55 @@
 [
  {
+  "id": 774384,
+  "title": "Build a React App with Authorization and Authentication",
+  "description": "In this tutorial, we'll be talking about authorization and how to implement it with AWS Amplify's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1pSy8v4U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p8j12k5aovf9owl4rplm.jpg",
+  "slug": "build-a-react-app-with-authorization-and-authentication-1mha",
+  "url": "https://dev.to/aspittel/build-a-react-app-with-authorization-and-authentication-1mha",
+  "publish_date": "2021-08-02",
+  "published_at": "2021-08-02T14:42:40Z"
+ },
+ {
+  "id": 778881,
+  "title": "Frontend Interview Experience at Amazon Germany",
+  "description": "Frontend Interview Experience at Amazon Germany",
+  "cover_image": "",
+  "slug": "frontend-interview-experience-at-amazon-germany-2lom",
+  "url": "https://dev.to/learnersbucket/frontend-interview-experience-at-amazon-germany-2lom",
+  "publish_date": "2021-08-02",
+  "published_at": "2021-08-02T07:08:39Z"
+ },
+ {
+  "id": 774784,
+  "title": "The (Most Comprehensive) JavaScript Design Principles Guide",
+  "description": "Clean Code StudioFollow             Clean Code Clean...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_z9YbAP8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eg32q3fctm7vyblqwz9y.png",
+  "slug": "the-most-comprehensive-javascript-design-principles-guide-7i3",
+  "url": "https://dev.to/cleancodestudio/the-most-comprehensive-javascript-design-principles-guide-7i3",
+  "publish_date": "2021-08-02",
+  "published_at": "2021-08-02T06:30:10Z"
+ },
+ {
+  "id": 778831,
+  "title": "69 tips I got from The Pragmatic Programmer",
+  "description": "The Pragmatic Programmer is a book by Andrew Hunt and David Thomas written in 1999. I have been...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TudiDobi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6pku7t4v7hzs2619guq.png",
+  "slug": "69-tips-i-got-from-the-pragmatic-programmer-book-1nci",
+  "url": "https://dev.to/rubenwap/69-tips-i-got-from-the-pragmatic-programmer-book-1nci",
+  "publish_date": "2021-08-02",
+  "published_at": "2021-08-02T05:49:42Z"
+ },
+ {
+  "id": 778816,
+  "title": "5 Free eBooks for Developers",
+  "description": "Introduction   Here a list of 5 eBooks that are created by professional and are very...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yxWjyvGJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e721vb970jkxwyth7p58.png",
+  "slug": "5-free-ebooks-for-developers-79p",
+  "url": "https://dev.to/surajondev/5-free-ebooks-for-developers-79p",
+  "publish_date": "2021-08-02",
+  "published_at": "2021-08-02T05:14:00Z"
+ },
+ {
   "id": 778255,
   "title": "Complete Introduction to CSS Grid 📊",
   "description": "The CSS grid is a newer standard that makes it easy to build complex responsive layouts. It works by...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kiranrajvjd/10-simple-navigation-bar-hover-animations-1980",
   "publish_date": "2021-04-25",
   "published_at": "2021-04-25T04:09:34Z"
- },
- {
-  "id": 676333,
-  "title": "Git - How to fix a bad commit",
-  "description": "Oh no, this commit is a mess! 🤦‍♂️  Sometimes, we all have a bad day and we can forget to include a f...",
-  "cover_image": "",
-  "slug": "git-how-to-fix-a-bad-commit-4068",
-  "url": "https://dev.to/guivern/git-how-to-fix-a-bad-commit-4068",
-  "publish_date": "2021-04-24",
-  "published_at": "2021-04-24T14:01:35Z"
- },
- {
-  "id": 677242,
-  "title": "I launched a Free Drag and Drop Dashboard Builder",
-  "description": "Hi,  I recently launched the Beta version of Loopple, a Free Drag and Drop Dashboard Builder that aim...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7NLDWXBg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fc8muiectjh9pu7u9t1d.png",
-  "slug": "i-launched-a-free-drag-and-drop-dashboard-builder-4pal",
-  "url": "https://dev.to/rarestoma/i-launched-a-free-drag-and-drop-dashboard-builder-4pal",
-  "publish_date": "2021-04-24",
-  "published_at": "2021-04-24T13:24:51Z"
- },
- {
-  "id": 676580,
-  "title": "Windows 10 grid hover effect using HTML, CSS, and vanilla JS",
-  "description": "Hello there, if you've arrived here after reading my previous post, I'd like to congratulate you as y...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i9nKAQgr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0po4ke7wy5q36iz87qo.gif",
-  "slug": "windows-10-grid-hover-effect-using-html-css-and-vanilla-js-42d9",
-  "url": "https://dev.to/jashgopani/windows-10-grid-hover-effect-using-html-css-and-vanilla-js-42d9",
-  "publish_date": "2021-04-24",
-  "published_at": "2021-04-24T11:47:13Z"
- },
- {
-  "id": 677124,
-  "title": "Awesome Tools and Technologies I Use as a Developer!",
-  "description": "Hey, There!👋   Welcome, back to another post of Top N! It's a series where I post Top 10, Be...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vtvb9s1N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wkmvn3yj8aq6x8cbf8gt.png",
-  "slug": "awesome-tools-and-technologies-i-use-as-a-developer-1cn",
-  "url": "https://dev.to/pybash/awesome-tools-and-technologies-i-use-as-a-developer-1cn",
-  "publish_date": "2021-04-24",
-  "published_at": "2021-04-24T11:06:26Z"
- },
- {
-  "id": 676839,
-  "title": "7 Simple Menu Icon Animation For Beginners ",
-  "description": "Here is the list of 7 simple menu icon animation (hamburger) for beginners. All animation are done wi...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cEPQu154--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k76f5cm3iwsa1c86hzaw.jpg",
-  "slug": "7-simple-menu-icon-animation-for-beginners-25oa",
-  "url": "https://dev.to/kiranrajvjd/7-simple-menu-icon-animation-for-beginners-25oa",
-  "publish_date": "2021-04-24",
-  "published_at": "2021-04-24T02:37:06Z"
  }
 ]
