@@ -1,5 +1,55 @@
 [
  {
+  "id": 782369,
+  "title": "Make VSCode lighter🪶",
+  "description": "VSCode is a really great Code Editor rather say nearly an IDE or better than that. But this costs a...",
+  "cover_image": "",
+  "slug": "make-visual-studio-code-lighter-3end",
+  "url": "https://dev.to/krtirtho/make-visual-studio-code-lighter-3end",
+  "publish_date": "2021-08-05",
+  "published_at": "2021-08-05T11:38:15Z"
+ },
+ {
+  "id": 782314,
+  "title": "8 Projects to Build to Master Your Front-End Skills 🥇🏆",
+  "description": "I've always believed that the best way to learn is by doing. Recruiters prefer practical projects...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FovjC68K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wkyx3gtb40k7zo9snf98.png",
+  "slug": "8-projects-to-build-to-master-your-front-end-skills-4gnc",
+  "url": "https://dev.to/madza/8-projects-to-build-to-master-your-front-end-skills-4gnc",
+  "publish_date": "2021-08-05",
+  "published_at": "2021-08-05T09:48:07Z"
+ },
+ {
+  "id": 781590,
+  "title": "6 reasons to use Tailwind over traditional CSS",
+  "description": "1. Tiny bundle size = incredible performance  When in development mode, the size of Tailwind's output...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5e7w6leE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2naxdibbplf2uu1h8rsz.jpg",
+  "slug": "6-reasons-to-use-tailwind-over-traditional-css-1nc3",
+  "url": "https://dev.to/npmrundev/6-reasons-to-use-tailwind-over-traditional-css-1nc3",
+  "publish_date": "2021-08-05",
+  "published_at": "2021-08-05T08:46:50Z"
+ },
+ {
+  "id": 782292,
+  "title": "10 Super easy CSS Shapes for beginners",
+  "description": "Hello there,  In this post we will be talking about creating basic shapes in HTML \u0026amp; CSS. Many...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---YhalPNZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ou6yv1z0rox457z0tryb.JPG",
+  "slug": "10-super-easy-css-shapes-for-beginners-19kf",
+  "url": "https://dev.to/metajunaid/10-super-easy-css-shapes-for-beginners-19kf",
+  "publish_date": "2021-08-05",
+  "published_at": "2021-08-05T08:23:32Z"
+ },
+ {
+  "id": 781984,
+  "title": "Theming with CSS variables.",
+  "description": "In this article, I will talk about how to make theming with CSS variables. With this example, we will...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OyT0XPpO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xeievgw393r9xm3txdyq.gif",
+  "slug": "theming-with-css-variables-cp8",
+  "url": "https://dev.to/enesskilic/theming-with-css-variables-cp8",
+  "publish_date": "2021-08-05",
+  "published_at": "2021-08-05T00:30:56Z"
+ },
+ {
   "id": 781540,
   "title": "React lists without .map",
   "description": "When we are rendering data in React we often grab an array and do a .map() to write out our...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shubham_sns/useref-dom-and-beyond-1mla",
   "publish_date": "2021-04-28",
   "published_at": "2021-04-28T05:46:49Z"
- },
- {
-  "id": 679161,
-  "title": "400+ JavaScript Interview Questions 🎓  With Answers 🌠",
-  "description": "Hello World! Today I prepared a huge list of Javascript Interview Questions from this awesome repo. S...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YbN0TXKS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wtjzaaecewm8d22y5fu2.png",
-  "slug": "400-javascript-interview-questions-with-answers-2fcj",
-  "url": "https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj",
-  "publish_date": "2021-04-27",
-  "published_at": "2021-04-27T12:28:24Z"
- },
- {
-  "id": 679804,
-  "title": "useReducer instead of useState while calling APIs!",
-  "description": "Hello folks!   It’s been a while since React has introduced Hooks and we all fell in love with it’s p...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hyeChuLP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryx33nvesxhf7k1k4q5j.png",
-  "slug": "usereducer-instead-of-usestate-while-calling-apis-3e1l",
-  "url": "https://dev.to/ms_yogii/usereducer-instead-of-usestate-while-calling-apis-3e1l",
-  "publish_date": "2021-04-27",
-  "published_at": "2021-04-27T11:04:28Z"
- },
- {
-  "id": 675399,
-  "title": "What is Virtual DOM? How Virtual DOM works ? What is Reconciliation ? What is diffing algorithm? What makes React so fast ?",
-  "description": "You can also refer to my YouTube video for understanding with animations about the Virtual D...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--istq1m-t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36uh99trwkhy0tpd0xjn.png",
-  "slug": "what-is-virtual-dom-how-virtual-dom-works-what-is-reconciliation-what-is-diffing-algorithm-what-makes-react-so-fast-327a",
-  "url": "https://dev.to/koolkishan/what-is-virtual-dom-how-virtual-dom-works-what-is-reconciliation-what-is-diffing-algorithm-what-makes-react-so-fast-327a",
-  "publish_date": "2021-04-27",
-  "published_at": "2021-04-27T08:44:53Z"
- },
- {
-  "id": 679165,
-  "title": "💻 5 Useful VS Code extensions to help you with Javascript, React and Git",
-  "description": "This is a list of 5 extensions and themes for VS Code that I often use and find useful.    ES7 React/...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IgWkwrvX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3n3lw4nkuhfd413e8yhs.png",
-  "slug": "5-useful-vs-code-extensions-to-help-you-with-javascript-react-and-git-51kk",
-  "url": "https://dev.to/girgetto/5-useful-vs-code-extensions-to-help-you-with-javascript-react-and-git-51kk",
-  "publish_date": "2021-04-27",
-  "published_at": "2021-04-27T08:35:38Z"
- },
- {
-  "id": 679874,
-  "title": "Laravel Theme Download - Modern UI Kits to start fast",
-  "description": "A curated list with Laravel Themes and projects available for download without a registration lock - all projects are released under the MIT License.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--huGJAo8j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.admin-dashboards.com/content/images/size/w1000/2021/04/cover-blog-laravel-theme-download.jpg",
-  "slug": "laravel-theme-download-modern-ui-kits-to-start-fast-1hi7",
-  "url": "https://dev.to/sm0ke/laravel-theme-download-modern-ui-kits-to-start-fast-1hi7",
-  "publish_date": "2021-04-27",
-  "published_at": "2021-04-27T07:50:58Z"
  }
 ]
