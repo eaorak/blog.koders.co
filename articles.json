@@ -1,5 +1,55 @@
 [
  {
+  "id": 783385,
+  "title": "This survey among 60+ hiring managers reveals: Don't waste your time on a (React) portfolio website",
+  "description": "New developers think they need a website to get a job. But do hiring managers even care? The results of this survey are clear and provide better alternatives.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vpY0efze--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajhktj39nwixdm1cip8s.png",
+  "slug": "this-survey-among-60-hiring-managers-reveals-don-t-waste-your-time-on-a-react-portfolio-website-17ge",
+  "url": "https://dev.to/profydev/this-survey-among-60-hiring-managers-reveals-don-t-waste-your-time-on-a-react-portfolio-website-17ge",
+  "publish_date": "2021-08-06",
+  "published_at": "2021-08-06T12:14:43Z"
+ },
+ {
+  "id": 782675,
+  "title": "How to keep Tailwind DRY",
+  "description": "There's many complaints I see online about Tailwind: it's WET, not DRY, it's the same as inline...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RMhCjiAn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/834stpwkoep3xd3waopu.jpg",
+  "slug": "how-to-keep-tailwind-dry-2jfe",
+  "url": "https://dev.to/npmrundev/how-to-keep-tailwind-dry-2jfe",
+  "publish_date": "2021-08-06",
+  "published_at": "2021-08-06T09:24:28Z"
+ },
+ {
+  "id": 778174,
+  "title": "Supabase - An OpenSource Firebase Alternative",
+  "description": "Supabase is an OpenSource Firebase Alternative providing Backend as a Service to various...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dw4Uzvuj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pl2amfnfjia07tmjc58x.jpeg",
+  "slug": "supabase-an-opensource-firebase-alternative-51h4",
+  "url": "https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4",
+  "publish_date": "2021-08-06",
+  "published_at": "2021-08-06T05:26:28Z"
+ },
+ {
+  "id": 780872,
+  "title": "How I structure my React /TS applications (2021)",
+  "description": "(code is hosted at: https://github.com/djamaile/react-boilerplate-2021)  (last years post:...",
+  "cover_image": "",
+  "slug": "how-i-structure-my-react-ts-applications-2021-145j",
+  "url": "https://dev.to/djamaile/how-i-structure-my-react-ts-applications-2021-145j",
+  "publish_date": "2021-08-06",
+  "published_at": "2021-08-06T01:19:42Z"
+ },
+ {
+  "id": 781807,
+  "title": "Boy with a beard explains Web components",
+  "description": "What are Web Components?   Web component is a term used for four web standards that help us...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W1cCiFky--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bp6muz14tdpg40pnec84.png",
+  "slug": "boy-with-a-beard-explains-web-components-1jhm",
+  "url": "https://dev.to/boywithabeard/boy-with-a-beard-explains-web-components-1jhm",
+  "publish_date": "2021-08-06",
+  "published_at": "2021-08-06T00:41:40Z"
+ },
+ {
   "id": 782369,
   "title": "Make VSCode lighter🪶",
   "description": "VSCode is a really great Code Editor rather say nearly an IDE or better than that. But this costs a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/eduferfer/design-systems-designing-component-apis-2h94",
   "publish_date": "2021-04-29",
   "published_at": "2021-04-29T08:35:32Z"
- },
- {
-  "id": 681297,
-  "title": "🔥Machine Learning Complete Roadmap🔥",
-  "description": "Do you want to learn machine learning but don't know where to start? Then you are on right track, In...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pwQ91S1i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jfjm6pzswvqb82tlqno9.png",
-  "slug": "machine-learning-complete-roadmap-532l",
-  "url": "https://dev.to/expoashish/machine-learning-complete-roadmap-532l",
-  "publish_date": "2021-04-28",
-  "published_at": "2021-04-28T14:29:54Z"
- },
- {
-  "id": 670995,
-  "title": "What kind of music do you listen to while coding? 🎧",
-  "description": "Photo by Simon Noh on Unsplash   Howdy DEV fam! 👋🏻 What's good?   Today's discussion topic is really...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UOms0Lql--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/34jdq3luiz7vxnts3py0.jpg",
-  "slug": "what-kind-of-music-do-you-listen-to-while-coding-5gfc",
-  "url": "https://dev.to/technoglot/what-kind-of-music-do-you-listen-to-while-coding-5gfc",
-  "publish_date": "2021-04-28",
-  "published_at": "2021-04-28T11:16:31Z"
- },
- {
-  "id": 673949,
-  "title": "30 Free React dashboard templates and themes",
-  "description": "While researching for some dashboard-related inspiration for a product I recently developed  (listed...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yCH_VyZM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6ms12olfmatye4l1ao2.png",
-  "slug": "30-free-react-dashboard-templates-and-themes-49g4",
-  "url": "https://dev.to/davidepacilio/30-free-react-dashboard-templates-and-themes-49g4",
-  "publish_date": "2021-04-28",
-  "published_at": "2021-04-28T10:59:09Z"
- },
- {
-  "id": 680810,
-  "title": "40+ Awesome Illustrations Resources For Your Web Projects",
-  "description": "Here is a list of 40+ website that will provide you with free illustrations. In web design images are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VYcT1teQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2smss1kts678w3i2exo.png",
-  "slug": "40-awesome-illustrations-resources-for-your-web-projects-2fea",
-  "url": "https://dev.to/kiranrajvjd/40-awesome-illustrations-resources-for-your-web-projects-2fea",
-  "publish_date": "2021-04-28",
-  "published_at": "2021-04-28T06:03:03Z"
- },
- {
-  "id": 680917,
-  "title": "useRef( ) : DOM and beyond...",
-  "description": "This blog assumes that you know the React fundamentals and useState hook.   Read my article on what i...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R3Zpu_e5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7falkkxbyhzuf6qnnz8k.jpg",
-  "slug": "useref-dom-and-beyond-1mla",
-  "url": "https://dev.to/shubham_sns/useref-dom-and-beyond-1mla",
-  "publish_date": "2021-04-28",
-  "published_at": "2021-04-28T05:46:49Z"
  }
 ]
