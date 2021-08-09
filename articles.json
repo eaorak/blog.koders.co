@@ -1,5 +1,55 @@
 [
  {
+  "id": 785231,
+  "title": "How to Create a Search Bar in React",
+  "description": "One of the things I was currently interested in was creating a search bar, however I didn't want to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0zmuHPIh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9woiuxrlqhgfeq9l2ihi.jpg",
+  "slug": "how-to-create-a-search-bar-in-react-58nj",
+  "url": "https://dev.to/franciscomendes10866/how-to-create-a-search-bar-in-react-58nj",
+  "publish_date": "2021-08-08",
+  "published_at": "2021-08-08T13:24:01Z"
+ },
+ {
+  "id": 784916,
+  "title": "Node App: How to create netflix clone. Netflix clone with HTML,CSS, JS.",
+  "description": "Hello, Today we'll see, how we can easily create a netflix clone using HTML, CSS and JS only. No...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QUb7OYNw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2db0bvcss75exc5es3d.png",
+  "slug": "how-to-create-netflix-clone-netflix-clone-with-hmtl-css-js-989",
+  "url": "https://dev.to/kunaal438/how-to-create-netflix-clone-netflix-clone-with-hmtl-css-js-989",
+  "publish_date": "2021-08-08",
+  "published_at": "2021-08-08T10:17:48Z"
+ },
+ {
+  "id": 785037,
+  "title": "How to make a Drag-n-Drop in JavaScript",
+  "description": "Okay so the earlier two blogs of mine got a lot of views and now I am thinking to make another blog...",
+  "cover_image": "",
+  "slug": "how-to-make-a-drag-n-drop-in-javascript-16eo",
+  "url": "https://dev.to/heheprogrammer/how-to-make-a-drag-n-drop-in-javascript-16eo",
+  "publish_date": "2021-08-08",
+  "published_at": "2021-08-08T08:13:40Z"
+ },
+ {
+  "id": 785024,
+  "title": "10 Tips For Clean DEV Articles!",
+  "description": "So this is a bit of fun on a Sunday in response to this article on clean code from @cleancodestudio ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RA2K4YET--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r44xgmabww8fogfkdayr.jpg",
+  "slug": "10-tips-for-clean-dev-articles-59id",
+  "url": "https://dev.to/inhuofficial/10-tips-for-clean-dev-articles-59id",
+  "publish_date": "2021-08-08",
+  "published_at": "2021-08-08T07:37:52Z"
+ },
+ {
+  "id": 784895,
+  "title": "5 Tips to Master the Art of Clean Code",
+  "description": "Good programmers write boring code. Great programmers write really boring code   When I came across...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---hSsGrZH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bx51uch6o41rxhp9n5i7.png",
+  "slug": "5-tips-to-master-the-art-of-clean-code-57b6",
+  "url": "https://dev.to/ruppysuppy/5-tips-to-master-the-art-of-clean-code-57b6",
+  "publish_date": "2021-08-08",
+  "published_at": "2021-08-08T05:46:04Z"
+ },
+ {
   "id": 783447,
   "title": "Top Interview Questions for Backend Developers(Node)",
   "description": "Introduction   Being a Full Stack Developer, I had appeared for Backend Developer position...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tyaga001/mistakes-i-made-as-a-software-engineer-developer-5557",
   "publish_date": "2021-05-01",
   "published_at": "2021-05-01T07:21:13Z"
- },
- {
-  "id": 682104,
-  "title": "🚀10 Trending projects on GitHub for web developers - 30th April 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-30th-april-2021-efn",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-30th-april-2021-efn",
-  "publish_date": "2021-04-30",
-  "published_at": "2021-04-30T13:56:36Z"
- },
- {
-  "id": 683585,
-  "title": "My process for writing blog articles with actionable steps you can follow",
-  "description": "If you've ever tried writing blog articles yourself I'm sure you've realized it is not an easy thing....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--czG6SPMS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwjdl6c40y6odldr0fss.png",
-  "slug": "my-process-for-writing-blog-articles-with-actionable-steps-you-can-follow-2all",
-  "url": "https://dev.to/kieran6roberts/my-process-for-writing-blog-articles-with-actionable-steps-you-can-follow-2all",
-  "publish_date": "2021-04-30",
-  "published_at": "2021-04-30T12:25:38Z"
- },
- {
-  "id": 683422,
-  "title": "Make A Modern Registration Form Using HTML And CSS",
-  "description": "Designing an HTML sign-up form for a website or blog can be hard. Here we have listed down the most u...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ORu2NcW4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/niez5l6oogn6too5ndmi.png",
-  "slug": "make-a-modern-registration-form-using-html-and-css-1ag4",
-  "url": "https://dev.to/innocentcoder/make-a-modern-registration-form-using-html-and-css-1ag4",
-  "publish_date": "2021-04-30",
-  "published_at": "2021-04-30T08:12:38Z"
- },
- {
-  "id": 683226,
-  "title": "34 Ultimate VS Code Extensions to Increase Productivity! 💪",
-  "description": "Hello Folks 👋   This is Savio here. I'm young dev with an intention to enhance as a successf...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6YlBH94A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wzwle8qwo9tt0ek24mv.png",
-  "slug": "34-ultimate-vs-code-extensions-to-increase-productivity-4hee",
-  "url": "https://dev.to/saviomartin/34-ultimate-vs-code-extensions-to-increase-productivity-4hee",
-  "publish_date": "2021-04-30",
-  "published_at": "2021-04-30T05:11:37Z"
- },
- {
-  "id": 683197,
-  "title": "Promise handling and chaining using async...await and then()...catch() ",
-  "description": "TL:DR  Handling promises is one of the biggest topics in the nodejs. But, in this article I will try...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sNwa-lne--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oaltg9sq9a8in9h31z1h.png",
-  "slug": "promise-handling-and-chaining-using-async-await-and-then-catch-4lph",
-  "url": "https://dev.to/sudarshansb143/promise-handling-and-chaining-using-async-await-and-then-catch-4lph",
-  "publish_date": "2021-04-30",
-  "published_at": "2021-04-30T03:14:03Z"
  }
 ]
