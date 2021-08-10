@@ -1,5 +1,55 @@
 [
  {
+  "id": 776888,
+  "title": "Getting Jobs and Internships in College: Seizing Off Campus Opportunities",
+  "description": "The most common fear amongst students who avoid going off-campus is that they self-reject themselves...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xYY0xRZr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/scxtcjqlmmczi9aoi9mb.png",
+  "slug": "getting-jobs-and-internships-in-college-seizing-off-campus-opportunities-2jmh",
+  "url": "https://dev.to/kartikcho/getting-jobs-and-internships-in-college-seizing-off-campus-opportunities-2jmh",
+  "publish_date": "2021-08-09",
+  "published_at": "2021-08-09T11:14:01Z"
+ },
+ {
+  "id": 785968,
+  "title": "Observer Design Pattern in JavaScript",
+  "description": "While working with any language, we tend to use several reusable design solutions to commonly...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PhPYrNT6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uedue3njlgaarep4hatc.png",
+  "slug": "observer-design-pattern-in-javascript-74m",
+  "url": "https://dev.to/shubhamreacts/observer-design-pattern-in-javascript-74m",
+  "publish_date": "2021-08-09",
+  "published_at": "2021-08-09T09:46:15Z"
+ },
+ {
+  "id": 785966,
+  "title": "npm commands every developer should know",
+  "description": "NPM stands for Node Package Manager, is one of the most used tools for any javascript developer. It...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xo-PBZ7l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ihn9bj79g3iyv96c38b.png",
+  "slug": "npm-commands-every-developer-should-know-13dk",
+  "url": "https://dev.to/naveenchandar/npm-commands-every-developer-should-know-13dk",
+  "publish_date": "2021-08-09",
+  "published_at": "2021-08-09T09:40:09Z"
+ },
+ {
+  "id": 784934,
+  "title": "The Frontend Agency",
+  "description": "After 7 years working as a Technical Director for Valtech, I've decided to go freelance … again (I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CTzPbxlf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/su8cknypn53snlrctwgg.png",
+  "slug": "the-frontend-agency-3pfa",
+  "url": "https://dev.to/madsstoumann/the-frontend-agency-3pfa",
+  "publish_date": "2021-08-09",
+  "published_at": "2021-08-09T06:54:07Z"
+ },
+ {
+  "id": 784216,
+  "title": "How to Create Public And Private Routes using React Router",
+  "description": "Steps for writing public and private routes in React app using React Router  When developing a React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hby2RPeh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zw6ade965aztnwz1kur3.png",
+  "slug": "how-to-create-public-and-private-routes-using-react-router-72m",
+  "url": "https://dev.to/nilanth/how-to-create-public-and-private-routes-using-react-router-72m",
+  "publish_date": "2021-08-09",
+  "published_at": "2021-08-09T06:50:34Z"
+ },
+ {
   "id": 785231,
   "title": "How to Create a Search Bar in React",
   "description": "One of the things I was currently interested in was creating a search bar, however I didn't want to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devwriteups/8-unique-and-secret-tricks-front-end-developers-don-t-know-27f7",
   "publish_date": "2021-05-02",
   "published_at": "2021-05-02T03:38:52Z"
- },
- {
-  "id": 684631,
-  "title": "Amazing Button Image Hover With CSS",
-  "description": "Today I created an Amazing Image Button Hover Effect Using HTML \u0026amp; CSS. when you hover on the butt...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wamczHTH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sm5x7qtvkny12izdgciy.png",
-  "slug": "amazing-button-image-hover-with-css-1g7l",
-  "url": "https://dev.to/nikhil27b/amazing-button-image-hover-with-css-1g7l",
-  "publish_date": "2021-05-01",
-  "published_at": "2021-05-01T13:28:43Z"
- },
- {
-  "id": 683735,
-  "title": "#30DaysofAppwrite",
-  "description": "Let's face it: building modern apps is hard - building secure, performant, and scalable apps is even...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AV5S-Cxy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9njmwnv68b5t67eqha9h.png",
-  "slug": "30daysofappwrite-4hh",
-  "url": "https://dev.to/appwrite/30daysofappwrite-4hh",
-  "publish_date": "2021-05-01",
-  "published_at": "2021-05-01T12:15:15Z"
- },
- {
-  "id": 684565,
-  "title": "Customize your terminal using oh-my-posh theme",
-  "description": "Hey developers,   Today I will show you how you can customize your windows terminal with y...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mLmjttKw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jh437r1ag0n5c36lqvft.PNG",
-  "slug": "customize-your-terminal-using-oh-my-posh-theme-38if",
-  "url": "https://dev.to/shahinalam02/customize-your-terminal-using-oh-my-posh-theme-38if",
-  "publish_date": "2021-05-01",
-  "published_at": "2021-05-01T10:45:55Z"
- },
- {
-  "id": 684552,
-  "title": "Complete road map to learn React",
-  "description": "The original post is in Notion. Do checkout. Here  React is a library (from Facebook) for building co...",
-  "cover_image": "",
-  "slug": "complete-road-map-to-learn-react-3kfd",
-  "url": "https://dev.to/zephyrus21/complete-road-map-to-learn-react-3kfd",
-  "publish_date": "2021-05-01",
-  "published_at": "2021-05-01T10:30:07Z"
- },
- {
-  "id": 684441,
-  "title": "Mistakes I made as a software engineer (developer)...",
-  "description": "Mistakes I made as a software engineer (developer)...A Thread... pic.twitter.com/xUiF38vhlU— Ankur💻🎧...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YqaOA8Wu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0wu3mzqv62p75jsr8mks.jpg",
-  "slug": "mistakes-i-made-as-a-software-engineer-developer-5557",
-  "url": "https://dev.to/tyaga001/mistakes-i-made-as-a-software-engineer-developer-5557",
-  "publish_date": "2021-05-01",
-  "published_at": "2021-05-01T07:21:13Z"
  }
 ]
