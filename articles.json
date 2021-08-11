@@ -1,5 +1,55 @@
 [
  {
+  "id": 786525,
+  "title": "Stay alert",
+  "description": "A short while ago, Chrome broke the web by disabling alert(), confirm() and prompt() dialogs from...",
+  "cover_image": "",
+  "slug": "stay-alert-d",
+  "url": "https://dev.to/richharris/stay-alert-d",
+  "publish_date": "2021-08-10",
+  "published_at": "2021-08-10T14:16:18Z"
+ },
+ {
+  "id": 787144,
+  "title": "Reactjs | Perfect tools for the perfect use cases🛠️💥",
+  "description": "React is awesome \u0026amp; one of the most wanted \u0026amp; most used JavaScript frameworks according to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rz3PFPfI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2aieddggukro3liwso9.png",
+  "slug": "reactjs-perfect-tools-56jg",
+  "url": "https://dev.to/krtirtho/reactjs-perfect-tools-56jg",
+  "publish_date": "2021-08-10",
+  "published_at": "2021-08-10T12:00:07Z"
+ },
+ {
+  "id": 786006,
+  "title": "Adding 100 underline/overlay animations | The impressive CSS collection ⭐️",
+  "description": "After the CSS loaders, it's time for this collection to reach 500 animations as well. Yes, 500 CSS...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8w4_8_o---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g4nfclcucwaplk78f81q.gif",
+  "slug": "adding-100-underline-overlay-animations-the-impressive-css-collection-1a93",
+  "url": "https://dev.to/afif/adding-100-underline-overlay-animations-the-impressive-css-collection-1a93",
+  "publish_date": "2021-08-10",
+  "published_at": "2021-08-10T09:50:07Z"
+ },
+ {
+  "id": 786545,
+  "title": "The ultimate guide for junior frontend developers",
+  "description": "How hard is it to become a developer? Can I do that? The answer is yes, you can. First of all, it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3cq5vowP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itshmu4x9kxv9156iv50.png",
+  "slug": "the-ultimate-guide-for-junior-frontend-developers-cff",
+  "url": "https://dev.to/lloyds-digital/the-ultimate-guide-for-junior-frontend-developers-cff",
+  "publish_date": "2021-08-10",
+  "published_at": "2021-08-10T06:55:12Z"
+ },
+ {
+  "id": 786695,
+  "title": "Vue 3.2 Released!",
+  "description": "We are excited to announce the release of Vue.js 3.2 \"Quintessential Quintuplets\"! This release includes many significant new features and performance improvements, and contains no breaking changes.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_PmuVRKi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/odisyn3acqovrzdd06rs.png",
+  "slug": "vue-3-2-released-1n8b",
+  "url": "https://dev.to/web2033/vue-3-2-released-1n8b",
+  "publish_date": "2021-08-10",
+  "published_at": "2021-08-10T03:26:05Z"
+ },
+ {
   "id": 776888,
   "title": "Getting Jobs and Internships in College: Seizing Off Campus Opportunities",
   "description": "The most common fear amongst students who avoid going off-campus is that they self-reject themselves...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sudarshansb143/6-nullish-coalescing-operators-every-javascript-programmer-must-know-12m2",
   "publish_date": "2021-05-03",
   "published_at": "2021-05-03T03:58:48Z"
- },
- {
-  "id": 641843,
-  "title": "Content \u0026 Community- A Cheatsheet for Open Source projects. ( Part 1: Content 🎨)",
-  "description": "“Software built on pride and love of the subject is superior to software built for profit.” - Ravi S...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--giLZ3p85--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80487m06xgwvtvib5btq.jpg",
-  "slug": "content-community-a-cheatsheet-for-open-source-projects-part-1-content-5he7",
-  "url": "https://dev.to/aviyel/content-community-a-cheatsheet-for-open-source-projects-part-1-content-5he7",
-  "publish_date": "2021-05-02",
-  "published_at": "2021-05-02T16:16:26Z"
- },
- {
-  "id": 685388,
-  "title": "7 uncomfortable truths about being a developer.",
-  "description": "7 uncomfortable truths about being a developer.A Thread... pic.twitter.com/VD2s9tlnKm— Ankur💻🎧💪 (@Th...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YlRn3iKi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i4d4fynfmxeobrgvov2e.jpg",
-  "slug": "7-uncomfortable-truths-about-being-a-developer-1gec",
-  "url": "https://dev.to/tyaga001/7-uncomfortable-truths-about-being-a-developer-1gec",
-  "publish_date": "2021-05-02",
-  "published_at": "2021-05-02T12:38:50Z"
- },
- {
-  "id": 685251,
-  "title": "Automate the hell out of your code",
-  "description": "Automate the hell out of your code   When you hear of automation what comes to your mind? So...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j4UdAx1G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zfg51060rz8wuwma98pw.jpeg",
-  "slug": "automate-the-hell-out-of-your-code-3j42",
-  "url": "https://dev.to/kalashin1/automate-the-hell-out-of-your-code-3j42",
-  "publish_date": "2021-05-02",
-  "published_at": "2021-05-02T10:54:45Z"
- },
- {
-  "id": 685248,
-  "title": "5 simple ways to improve your website UI (for developers) 🎨🖥️",
-  "description": "I have noticed that a lot of developers are pretty good at the coding part of a project but struggle...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9w6WdP6K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zujxp9fqx81jjfpqk1ym.png",
-  "slug": "5-simple-ways-to-improve-your-website-ui-for-developers-6p2",
-  "url": "https://dev.to/pulkit_jasti_8f40f769391b/5-simple-ways-to-improve-your-website-ui-for-developers-6p2",
-  "publish_date": "2021-05-02",
-  "published_at": "2021-05-02T10:26:38Z"
- },
- {
-  "id": 680929,
-  "title": "8 Unique and Secret tricks Front-end Developers don't know",
-  "description": "This post comes with some of the unique and secrets(🤐) tricks developer don't know. Some tricks will...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zuMKJ0F3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0nzn2ffawgk58sqd6078.png",
-  "slug": "8-unique-and-secret-tricks-front-end-developers-don-t-know-27f7",
-  "url": "https://dev.to/devwriteups/8-unique-and-secret-tricks-front-end-developers-don-t-know-27f7",
-  "publish_date": "2021-05-02",
-  "published_at": "2021-05-02T03:38:52Z"
  }
 ]
