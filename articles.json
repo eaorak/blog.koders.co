@@ -1,5 +1,55 @@
 [
  {
+  "id": 788639,
+  "title": "The Best VS Code Extensions For Remote Working",
+  "description": "What do developers want? Money, flexible schedules, pizza? Sure. Effortless remote collaboration?...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aH1vtBJn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ut4y534mwco57ra632pm.png",
+  "slug": "the-best-vs-code-extensions-for-remote-working-e8e",
+  "url": "https://dev.to/marrone_carlo/the-best-vs-code-extensions-for-remote-working-e8e",
+  "publish_date": "2021-08-12",
+  "published_at": "2021-08-12T14:16:04Z"
+ },
+ {
+  "id": 789485,
+  "title": "What is an API?",
+  "description": "If you’ve read the Contentful docs, you’ll have seen that we provide a REST API and a GraphQL API to...",
+  "cover_image": "",
+  "slug": "what-is-an-api-587c",
+  "url": "https://dev.to/whitep4nth3r/what-is-an-api-587c",
+  "publish_date": "2021-08-12",
+  "published_at": "2021-08-12T12:09:07Z"
+ },
+ {
+  "id": 789290,
+  "title": "GitHub 10 Repos for JavaScript Developer",
+  "description": "I've included 10 amazing GitHub repos which will help you to become a better JavaScript Developer....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MyLSDT2Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zeihs3v0ab7e02fdzrk5.png",
+  "slug": "github-10-repo-for-javascript-developer-23a9",
+  "url": "https://dev.to/suprabhasupi/github-10-repo-for-javascript-developer-23a9",
+  "publish_date": "2021-08-12",
+  "published_at": "2021-08-12T09:22:51Z"
+ },
+ {
+  "id": 788007,
+  "title": "Frontend Development 2021",
+  "description": "Frontend Development Every business, brand, and idea has a website. As a result, building websites,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2s-pheng--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hk87sel15g6snj2tynkf.png",
+  "slug": "frontend-development-2021-5p",
+  "url": "https://dev.to/jobpick/frontend-development-2021-5p",
+  "publish_date": "2021-08-12",
+  "published_at": "2021-08-12T06:13:30Z"
+ },
+ {
+  "id": 789036,
+  "title": "Final React Project",
+  "description": "I did it - I finished my final project for Flatiron School!! It is a simple Symptom Tracking app...",
+  "cover_image": "",
+  "slug": "final-react-project-2poi",
+  "url": "https://dev.to/stuxnat/final-react-project-2poi",
+  "publish_date": "2021-08-12",
+  "published_at": "2021-08-12T03:52:02Z"
+ },
+ {
   "id": 788331,
   "title": "Node.js CRUD Operation with MySQL example",
   "description": "This tutorial will guide you through the steps of building a simple Node.js CRUD Operation with MySQL...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devwriteups/30-javascript-project-ideas-for-beginners-to-pro-developer-with-resources-175k",
   "publish_date": "2021-05-05",
   "published_at": "2021-05-05T02:59:34Z"
- },
- {
-  "id": 686678,
-  "title": "Join Us For the First DEV Community Bug Smash!",
-  "description": "Team Forem is excited to share the news of our first community Bug Smash!   Join us for this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nP8y2kyA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r833jfavv35shxijyr1o.png",
-  "slug": "join-us-for-the-first-dev-community-bug-smash-3plm",
-  "url": "https://dev.to/devteam/join-us-for-the-first-dev-community-bug-smash-3plm",
-  "publish_date": "2021-05-04",
-  "published_at": "2021-05-04T16:38:56Z"
- },
- {
-  "id": 686582,
-  "title": "A Guide to Eslint",
-  "description": "I've written on Babel before, so today I thought I'd discuss its cousin, of sorts, ESLint.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yT0Adcfm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q02cuualqoe470nis2my.png",
-  "slug": "a-guide-to-eslint-4mj7",
-  "url": "https://dev.to/laurieontech/a-guide-to-eslint-4mj7",
-  "publish_date": "2021-05-04",
-  "published_at": "2021-05-04T13:41:23Z"
- },
- {
-  "id": 683856,
-  "title": "Building GraphQL APIs on Ethereum",
-  "description": "In this post you'll learn how to build and deploy a GraphQL API using data stored in the Ethereum blockchain.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M0B8if5t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nf95ssg9zl4v9oyapugl.png",
-  "slug": "building-graphql-apis-on-ethereum-4poa",
-  "url": "https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa",
-  "publish_date": "2021-05-04",
-  "published_at": "2021-05-04T13:16:25Z"
- },
- {
-  "id": 686220,
-  "title": "24 HTML Tags you may not know.",
-  "description": "We all know about HTML, it help us to structure the contents, there are many tags which help us to de...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aCVNL--n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmllc7ofpgtx5v355ehe.jpg",
-  "slug": "24-html-tags-you-may-not-know-37be",
-  "url": "https://dev.to/kiranrajvjd/24-html-tags-you-may-not-know-37be",
-  "publish_date": "2021-05-04",
-  "published_at": "2021-05-04T09:59:59Z"
- },
- {
-  "id": 685924,
-  "title": "How CSS pseudo-elements work a ridiculously simple explanation for beginners\n\n",
-  "description": "Pseudo-elements especially ::before and ::after are so hot right now. Amazing sites like Cyberpunk.ne...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EcOqKNmk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jcpguixf6hzqttgidrru.png",
-  "slug": "how-css-pseudo-elements-work-a-ridiculously-simple-explanation-for-beginners-49gk",
-  "url": "https://dev.to/peterlunch/how-css-pseudo-elements-work-a-ridiculously-simple-explanation-for-beginners-49gk",
-  "publish_date": "2021-05-04",
-  "published_at": "2021-05-04T09:58:25Z"
  }
 ]
