@@ -1,5 +1,55 @@
 [
  {
+  "id": 789856,
+  "title": "🚀10 Trending projects on GitHub for web developers - 13th August 2021",
+  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
+  "cover_image": "",
+  "slug": "10-trending-projects-on-github-for-web-developers-13th-august-2021-4bf2",
+  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-13th-august-2021-4bf2",
+  "publish_date": "2021-08-13",
+  "published_at": "2021-08-13T13:48:14Z"
+ },
+ {
+  "id": 790232,
+  "title": "FullStack - How to create a working blogging website with pure HTML, CSS and JS in 2021.",
+  "description": "Hello, Today we'll see, how we can easily create a blogging website using HTML, CSS and JS only. No...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_DYxvXre--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/naxpa0453a6bhd69ci1c.png",
+  "slug": "fullstack-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-9di",
+  "url": "https://dev.to/kunaal438/fullstack-how-to-create-a-working-blogging-website-with-pure-html-css-and-js-in-2021-9di",
+  "publish_date": "2021-08-13",
+  "published_at": "2021-08-13T11:31:40Z"
+ },
+ {
+  "id": 790480,
+  "title": "Create React App without create-react-app !",
+  "description": "The simplest way to create a basic react app is to run npx create-react-app and boom your basic react...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B6IT4Ofe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27mi6sm0pjcj80xa1ya8.png",
+  "slug": "create-react-app-without-create-react-app-2lgd",
+  "url": "https://dev.to/riddhiagrawal001/create-react-app-without-create-react-app-2lgd",
+  "publish_date": "2021-08-13",
+  "published_at": "2021-08-13T10:22:40Z"
+ },
+ {
+  "id": 789860,
+  "title": "React Virtual Window - virtualise anything for a performance boost!  ",
+  "description": "TLDR;   I've made a new React Virtual Window component that will virtualise lists and any...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jsl_A6Hy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ctg508ogq6eubo486dbw.jpg",
+  "slug": "react-virtual-window-virtualise-anything-for-a-performance-boost-full-tutorial-3moe",
+  "url": "https://dev.to/miketalbot/react-virtual-window-virtualise-anything-for-a-performance-boost-full-tutorial-3moe",
+  "publish_date": "2021-08-13",
+  "published_at": "2021-08-13T08:58:40Z"
+ },
+ {
+  "id": 790094,
+  "title": "15 Beginner JavaScript Projects to Improve Your Front-End Skills!",
+  "description": "The fastest way for you to become a good web developer is to practice. An excellent way to practice...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yeOXQUJN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgzqkmwxxowxtuhjekk3.jpg",
+  "slug": "15-beginner-javascript-projects-to-improve-your-front-end-skills-5bcj",
+  "url": "https://dev.to/codefoxx/15-beginner-javascript-projects-to-improve-your-front-end-skills-5bcj",
+  "publish_date": "2021-08-13",
+  "published_at": "2021-08-13T02:29:02Z"
+ },
+ {
   "id": 788639,
   "title": "The Best VS Code Extensions For Remote Working",
   "description": "What do developers want? Money, flexible schedules, pizza? Sure. Effortless remote collaboration?...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ubahthebuilder/10-advices-for-every-aspiring-web-developer-3lcj",
   "publish_date": "2021-05-06",
   "published_at": "2021-05-06T03:00:03Z"
- },
- {
-  "id": 681033,
-  "title": "Announcing NubesGen, an Open Source tool to automate Azure deployments",
-  "description": "NubesGen is an Open Source tool that ",
-  "cover_image": "",
-  "slug": "announcing-nubesgen-an-open-source-tool-to-automate-azure-deployments-1l4a",
-  "url": "https://dev.to/azure/announcing-nubesgen-an-open-source-tool-to-automate-azure-deployments-1l4a",
-  "publish_date": "2021-05-05",
-  "published_at": "2021-05-05T14:22:07Z"
- },
- {
-  "id": 688069,
-  "title": "Picture perfect image optimization for any web framework",
-  "description": "Image optimization is never fun to deal with. Let's learn how the picture element + 11ty can save any static site from bloated load times.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hBJipvJ5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://bholmes.dev/assets/blog/picture-perfect-image-optimization.png",
-  "slug": "picture-perfect-image-optimization-for-any-web-framework-2o77",
-  "url": "https://dev.to/bholmesdev/picture-perfect-image-optimization-for-any-web-framework-2o77",
-  "publish_date": "2021-05-05",
-  "published_at": "2021-05-05T14:03:35Z"
- },
- {
-  "id": 686841,
-  "title": "Build your Responsive website without media query",
-  "description": "We cannot talk about web development without talking about Reponsive Design. The latter is now a must...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-BQkcol--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kn5g7kyx0pery7s4jac3.png",
-  "slug": "build-your-responsive-website-without-media-query-omj",
-  "url": "https://dev.to/afif/build-your-responsive-website-without-media-query-omj",
-  "publish_date": "2021-05-05",
-  "published_at": "2021-05-05T12:04:48Z"
- },
- {
-  "id": 688138,
-  "title": "Productivity Hacks Using Puppeteer  ",
-  "description": "TL:DR :   Puppeteer is one of the greatest tools available on the web in order to perform th...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uEndDAjx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tgx98l3z1q30jm0cu5lw.png",
-  "slug": "productivity-hacks-using-puppeteer-81d",
-  "url": "https://dev.to/sudarshansb143/productivity-hacks-using-puppeteer-81d",
-  "publish_date": "2021-05-05",
-  "published_at": "2021-05-05T03:27:08Z"
- },
- {
-  "id": 681967,
-  "title": "30 JavaScript project ideas for Beginners to Pro developer with resources",
-  "description": "In this article, I'll share 30 project ideas you can work to dominate your abilities, feel sufficient...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oaxiyFpa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wd188nu2q4bkw7t01aqm.png",
-  "slug": "30-javascript-project-ideas-for-beginners-to-pro-developer-with-resources-175k",
-  "url": "https://dev.to/devwriteups/30-javascript-project-ideas-for-beginners-to-pro-developer-with-resources-175k",
-  "publish_date": "2021-05-05",
-  "published_at": "2021-05-05T02:59:34Z"
  }
 ]
