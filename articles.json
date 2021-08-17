@@ -1,5 +1,55 @@
 [
  {
+  "id": 793319,
+  "title": "Top 5 best YouTube channel for programmers",
+  "description": "Ok so in this blog imma show the top 5 best youtube channel that I personally use to learn. Keep in...",
+  "cover_image": "",
+  "slug": "top-5-best-youtube-channel-for-programmers-153l",
+  "url": "https://dev.to/heheprogrammer/top-5-best-youtube-channel-for-programmers-153l",
+  "publish_date": "2021-08-16",
+  "published_at": "2021-08-16T07:49:30Z"
+ },
+ {
+  "id": 793218,
+  "title": "14 functions I made to dump lodash and reduce my bundle size...",
+  "description": "Lodash and underscore changed the way I write Javascript forever, but today there might be better...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uFJkbOC5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9l6az8iq7ovvw7z07pey.jpg",
+  "slug": "14-functions-so-you-can-dump-lodash-and-reduce-your-bundle-size-3gg9",
+  "url": "https://dev.to/miketalbot/14-functions-so-you-can-dump-lodash-and-reduce-your-bundle-size-3gg9",
+  "publish_date": "2021-08-16",
+  "published_at": "2021-08-16T06:57:29Z"
+ },
+ {
+  "id": 790262,
+  "title": "6 Awesome CSS Layout Generators",
+  "description": "Hi everyone 👋  Today I wanted to share with you 6 awesome CSS layout generators/tools that will help...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fue1_EDa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4lp98mbly3m0ooxcizbb.png",
+  "slug": "6-awesome-css-layout-generators-pbc",
+  "url": "https://dev.to/palashmon/6-awesome-css-layout-generators-pbc",
+  "publish_date": "2021-08-16",
+  "published_at": "2021-08-16T05:42:07Z"
+ },
+ {
+  "id": 793123,
+  "title": "Stop Using ../../../ While Importing Components, Instead Use This Method",
+  "description": "Introduction 📚   When you go to GitHub and see some other developers code, most of them are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KXQAQV0s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdk58li948w9d6rwainp.png",
+  "slug": "stop-using-while-importing-components-instead-use-this-method-3lme",
+  "url": "https://dev.to/suhailkakar/stop-using-while-importing-components-instead-use-this-method-3lme",
+  "publish_date": "2021-08-16",
+  "published_at": "2021-08-16T04:50:21Z"
+ },
+ {
+  "id": 791874,
+  "title": "JavaScript Cheat sheet from beginners to advance",
+  "description": "JavaScript Basics    Set of JavaScript basic syntax to add, execute and write basic...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DvXT6-ae--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hhnlepkv4p26xdxplj5a.png",
+  "slug": "javascript-cheat-sheet-from-beginners-to-advance-4i1o",
+  "url": "https://dev.to/codehunterbd/javascript-cheat-sheet-from-beginners-to-advance-4i1o",
+  "publish_date": "2021-08-16",
+  "published_at": "2021-08-16T04:37:43Z"
+ },
+ {
   "id": 792425,
   "title": "No More ../../../ Import in React",
   "description": "Steps to configure absolute Import in Create React App without any third-party packages.  Are you...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/benjaminwfox/atomic-design-for-developers-better-component-composition-and-organization-2n3l",
   "publish_date": "2021-05-09",
   "published_at": "2021-05-09T03:11:44Z"
- },
- {
-  "id": 692025,
-  "title": "Sexism, Racism, Toxic Positivity, and TailwindCSS",
-  "description": "You might think that these things don't belong in the same article, but here we are, this week in fro...",
-  "cover_image": "",
-  "slug": "sexism-racism-toxic-positivity-and-tailwindcss-cil",
-  "url": "https://dev.to/cher/sexism-racism-toxic-positivity-and-tailwindcss-cil",
-  "publish_date": "2021-05-08",
-  "published_at": "2021-05-08T15:32:31Z"
- },
- {
-  "id": 691991,
-  "title": "Custom Checkbox with HTML \u0026 CSS",
-  "description": "Hello, today I created a Simple custom checkbox using CSS \u0026amp; JS. Not great work but I hope you lik...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xt5koVqR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ocqq6k7u847dslv2i3m7.png",
-  "slug": "custom-checkbox-with-html-css-4a37",
-  "url": "https://dev.to/nikhil27b/custom-checkbox-with-html-css-4a37",
-  "publish_date": "2021-05-08",
-  "published_at": "2021-05-08T14:41:03Z"
- },
- {
-  "id": 691990,
-  "title": "Berry - Open-source React Dashboard Template",
-  "description": "Open-source React Dashboard template crafted by CodedThemes using Material UI design - product can be downloaded from Github.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WXxyIIbU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/admin-dashboards/berry-free-react-admin-template/main/media/react-dashboard-berry-screen.png",
-  "slug": "berry-open-source-react-dashboard-template-4fdn",
-  "url": "https://dev.to/sm0ke/berry-open-source-react-dashboard-template-4fdn",
-  "publish_date": "2021-05-08",
-  "published_at": "2021-05-08T14:38:36Z"
- },
- {
-  "id": 690002,
-  "title": "I Built a VSCode Inspired Developer Portfolio",
-  "description": "The Idea \u0026amp; Inspiration   Truth be told, I've lost count of the number of amazing portfol...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Jp_LBXZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dod7cfuj7cbemkfss67w.png",
-  "slug": "i-built-a-vscode-inspired-developer-portfolio-418g",
-  "url": "https://dev.to/itsnitinr/i-built-a-vscode-inspired-developer-portfolio-418g",
-  "publish_date": "2021-05-08",
-  "published_at": "2021-05-08T11:06:26Z"
- },
- {
-  "id": 691534,
-  "title": "React Clean Code Tricks Everyone Should Know...",
-  "description": "🤖 TL:DR :   React is unopinionatedly the most famous framework to write the web apps. Due to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z0M07eLq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l0cs8j1d1f900gy5orfp.png",
-  "slug": "react-clean-code-tricks-everyone-should-know-3024",
-  "url": "https://dev.to/sudarshansb143/react-clean-code-tricks-everyone-should-know-3024",
-  "publish_date": "2021-05-08",
-  "published_at": "2021-05-08T03:45:02Z"
  }
 ]
