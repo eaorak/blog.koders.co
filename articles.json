@@ -1,5 +1,55 @@
 [
  {
+  "id": 793775,
+  "title": "Docker 101!",
+  "description": "Welcome dear reader to yet another learning opportunity. I applaud you for the commitment devoted...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z53Fo37J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4rt00vk9poo7sckmrcd6.png",
+  "slug": "docker-101-124e",
+  "url": "https://dev.to/kubona_my/docker-101-124e",
+  "publish_date": "2021-08-17",
+  "published_at": "2021-08-17T13:17:44Z"
+ },
+ {
+  "id": 794787,
+  "title": "5 APIs to Develop Your Next Project",
+  "description": "Introduction   I like the power of APIs. They turn simple applications into more useful,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--utqR8hTR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vj6dkjmb5ttpz2m8dcbk.png",
+  "slug": "5-apis-to-develop-your-next-project-1de5",
+  "url": "https://dev.to/basecampxd/5-apis-to-develop-your-next-project-1de5",
+  "publish_date": "2021-08-17",
+  "published_at": "2021-08-17T12:39:33Z"
+ },
+ {
+  "id": 793611,
+  "title": "How to create Music player with pure HTML, CSS, JS",
+  "description": "Hello, Today we'll see, how we can easily create a music player using HTML, CSS and JS only. No other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M3y8fHO1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpr2v8wxuecia41h5des.png",
+  "slug": "how-to-create-music-player-with-pure-html-css-js-34lc",
+  "url": "https://dev.to/kunaal438/how-to-create-music-player-with-pure-html-css-js-34lc",
+  "publish_date": "2021-08-17",
+  "published_at": "2021-08-17T09:35:40Z"
+ },
+ {
+  "id": 788362,
+  "title": "😃 Add Emoji Picker To An Input Field In React App [Easy way].",
+  "description": "😯 Simple And Easiest way to add an emoji picker to your React app.   Emojis are now such an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F9QFficI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6rvr3e8e8ksrfgfrxa1.png",
+  "slug": "add-emoji-picker-to-an-input-field-in-react-app-easy-way-4g4e",
+  "url": "https://dev.to/chetan_atrawalkar/add-emoji-picker-to-an-input-field-in-react-app-easy-way-4g4e",
+  "publish_date": "2021-08-17",
+  "published_at": "2021-08-17T05:05:05Z"
+ },
+ {
+  "id": 794492,
+  "title": "6 Advanced JavaScript Concepts You Should Know",
+  "description": "1. Closures to Extend Variable Scope    Closures in JavaScript are a fairly straightforward...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zluZiAjN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hale3dwcf76spl621tuy.png",
+  "slug": "6-advanced-javascript-concepts-you-should-know-4lfe",
+  "url": "https://dev.to/codehunterbd/6-advanced-javascript-concepts-you-should-know-4lfe",
+  "publish_date": "2021-08-17",
+  "published_at": "2021-08-17T03:55:30Z"
+ },
+ {
   "id": 793319,
   "title": "Top 5 best YouTube channel for programmers",
   "description": "Ok so in this blog imma show the top 5 best youtube channel that I personally use to learn. Keep in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sid__/why-do-you-need-helmet-in-nodejs-h1b",
   "publish_date": "2021-05-10",
   "published_at": "2021-05-10T05:27:49Z"
- },
- {
-  "id": 692814,
-  "title": "Introduction to HTTP Cookies",
-  "description": "I heard the british use biscuits instead of cookies...weird.  Okay, let's focus.  What are Cookies  C...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4VDh1xQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wp0lygvxper8vof63u4y.jpeg",
-  "slug": "introduction-to-http-cookies-1pn2",
-  "url": "https://dev.to/lindaojo/introduction-to-http-cookies-1pn2",
-  "publish_date": "2021-05-09",
-  "published_at": "2021-05-09T15:29:12Z"
- },
- {
-  "id": 692612,
-  "title": "What I learned after 10 years of development",
-  "description": "I've been coding for a long time, over 10 years  During all that website development of JavaScript, H...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yuwRsLQi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvivgru9nliact3sgmx8.png",
-  "slug": "what-i-learned-after-10-years-of-development-3an",
-  "url": "https://dev.to/adriantwarog/what-i-learned-after-10-years-of-development-3an",
-  "publish_date": "2021-05-09",
-  "published_at": "2021-05-09T09:16:07Z"
- },
- {
-  "id": 692582,
-  "title": "Everything I use daily as a Senior Frontend Engineer",
-  "description": "VSCode   I use these extensions:           Utilities    Auto Close Tag: Automatically add HT...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0erxXO1U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dvars25l78hn7hlz0gke.png",
-  "slug": "everything-i-use-daily-as-a-senior-frontend-engineer-4pa4",
-  "url": "https://dev.to/jordienr/everything-i-use-daily-as-a-senior-frontend-engineer-4pa4",
-  "publish_date": "2021-05-09",
-  "published_at": "2021-05-09T08:30:22Z"
- },
- {
-  "id": 692571,
-  "title": "15 reasons why you should be using Figma for design",
-  "description": "Figma is a design application which can be used for creating wireframes, designs and prototypes. It i...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j86nRgcf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x2pymqcz3xd4ex1g2j4d.png",
-  "slug": "15-reasons-why-you-should-be-using-figma-for-design-nd5",
-  "url": "https://dev.to/andrewbaisden/15-reasons-why-you-should-be-using-figma-for-design-nd5",
-  "publish_date": "2021-05-09",
-  "published_at": "2021-05-09T07:57:47Z"
- },
- {
-  "id": 692443,
-  "title": "Atomic Design for Developers: Better Component Composition and Organization",
-  "description": "A practical guide to developing component based sites and apps around the Atomic Design meth...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7D_eotFn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6vyicauqx22u7smupu9.png",
-  "slug": "atomic-design-for-developers-better-component-composition-and-organization-2n3l",
-  "url": "https://dev.to/benjaminwfox/atomic-design-for-developers-better-component-composition-and-organization-2n3l",
-  "publish_date": "2021-05-09",
-  "published_at": "2021-05-09T03:11:44Z"
  }
 ]
