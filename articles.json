@@ -1,5 +1,55 @@
 [
  {
+  "id": 799766,
+  "title": "Javascript Clean Code Tips \u0026 Good Practices",
+  "description": "Code should be written in such a way that is self-explanatory, easy to understand, and easy to modify...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ePvTqACa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tyw4x4ld4uti52g2pkjf.jpg",
+  "slug": "javascript-clean-code-tips-good-practices-2od4",
+  "url": "https://dev.to/apoorvtyagi/javascript-clean-code-tips-good-practices-2od4",
+  "publish_date": "2021-08-22",
+  "published_at": "2021-08-22T10:17:53Z"
+ },
+ {
+  "id": 799621,
+  "title": "Remove all console.log() from your project in less than a minute",
+  "description": "Introduction   console.log() is a debugging tool that can assist you to figure out what your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--76M_VNXC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kaeyh27gmbvp5bgf05ng.png",
+  "slug": "remove-all-console-log-from-your-project-in-less-a-minutes-3glg",
+  "url": "https://dev.to/suhailkakar/remove-all-console-log-from-your-project-in-less-a-minutes-3glg",
+  "publish_date": "2021-08-22",
+  "published_at": "2021-08-22T07:40:35Z"
+ },
+ {
+  "id": 797822,
+  "title": "Zero to Hero: Front End Developer Roadmap",
+  "description": "With so many languages, frameworks, and libraries to choose from, often beginners find themselves...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qhxeehlC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eiyjhgi8pm6wymhaoy0q.png",
+  "slug": "front-end-developer-roadmap-zero-to-hero-4pkf",
+  "url": "https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf",
+  "publish_date": "2021-08-22",
+  "published_at": "2021-08-22T05:45:19Z"
+ },
+ {
+  "id": 799582,
+  "title": "I made an App Store ",
+  "description": "Why   I love checking out new stuff, apps, apis, websites and such. And my obsession for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5lwhyyJq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/js4pr2l1kgqaoj8opsc8.png",
+  "slug": "i-made-an-app-store-283m",
+  "url": "https://dev.to/patrickweb/i-made-an-app-store-283m",
+  "publish_date": "2021-08-22",
+  "published_at": "2021-08-22T04:57:01Z"
+ },
+ {
+  "id": 799470,
+  "title": "Scroll reveal with Framer Motion",
+  "description": "Framer Motion is a library for creating awesome animations on React in an easy and fast way, it let...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gLskOt9l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qhilzu9xt46kr4qb2uxw.png",
+  "slug": "scroll-reveal-with-framer-motion-224",
+  "url": "https://dev.to/elvis2280/scroll-reveal-with-framer-motion-224",
+  "publish_date": "2021-08-22",
+  "published_at": "2021-08-22T02:01:04Z"
+ },
+ {
   "id": 799258,
   "title": "The Developer Feedback You Are Actually Getting is Survivorship Bias",
   "description": "Lots of people will get in touch with you about improvements to your developer-oriented product or...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sudarshansb143/are-you-using-react-then-i-think-you-must-know-this-47cg",
   "publish_date": "2021-05-15",
   "published_at": "2021-05-15T02:37:03Z"
- },
- {
-  "id": 697434,
-  "title": "🚀10 Trending projects on GitHub for web developers - 14th May 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-14th-may-2021-1mkd",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-14th-may-2021-1mkd",
-  "publish_date": "2021-05-14",
-  "published_at": "2021-05-14T13:57:46Z"
- },
- {
-  "id": 693941,
-  "title": "My go-to React libraries for 2021",
-  "description": "I’ve been working on React apps for more than 3 years now and I’ve used tons of libraries to build va...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--99tjDWiB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bieshfh1cbfhxmx8gbvq.png",
-  "slug": "my-go-to-react-libraries-for-2021-4k1",
-  "url": "https://dev.to/julienhery/my-go-to-react-libraries-for-2021-4k1",
-  "publish_date": "2021-05-14",
-  "published_at": "2021-05-14T13:03:12Z"
- },
- {
-  "id": 698068,
-  "title": "Clean code \u0026 programming principles – The ultimate beginner’s guide",
-  "description": "This article is the beginner's introductory guide to programming principles.  First we're going to ex...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--la7-OrYq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zpok786y0v1j7wo7kh24.jpg",
-  "slug": "clean-code-programming-principles-the-ultimate-beginner-s-guide-5605",
-  "url": "https://dev.to/sargalias/clean-code-programming-principles-the-ultimate-beginner-s-guide-5605",
-  "publish_date": "2021-05-14",
-  "published_at": "2021-05-14T11:18:14Z"
- },
- {
-  "id": 697997,
-  "title": "I made a Twitter Clone with VueJS and Go",
-  "description": "Hello DEV community! 👋  I've recently attempted to make a clone of Twitter using VueJS as its fronten...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lwm16c5i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tktkajubnstlkm2qqgnf.png",
-  "slug": "i-made-a-twitter-clone-with-vuejs-and-go-59jf",
-  "url": "https://dev.to/hotpotatoc/i-made-a-twitter-clone-with-vuejs-and-go-59jf",
-  "publish_date": "2021-05-14",
-  "published_at": "2021-05-14T08:55:30Z"
- },
- {
-  "id": 697539,
-  "title": "🔥 75 Awesome Resources For Web Developers 🔥",
-  "description": "I have listed 75 web resources that will help you in your web designing and development process. I di...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BoqoLNyK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2zyeh1ria0n3xhhcz75.jpg",
-  "slug": "75-awesome-web-resources-that-make-web-development-easy-2pff",
-  "url": "https://dev.to/kiranrajvjd/75-awesome-web-resources-that-make-web-development-easy-2pff",
-  "publish_date": "2021-05-14",
-  "published_at": "2021-05-14T06:18:22Z"
  }
 ]
