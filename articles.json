@@ -1,5 +1,55 @@
 [
  {
+  "id": 800852,
+  "title": "How to make instagram clone using HTML, CSS. Fully responsive.",
+  "description": "Hello, Today we'll see how to instagram UI clone using HTML, css. No library. Our clone looks very...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BnBLPveI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/654tlh0e3qd5y19fe12o.png",
+  "slug": "how-to-make-instagram-clone-using-html-css-fully-responsive-49co",
+  "url": "https://dev.to/kunaal438/how-to-make-instagram-clone-using-html-css-fully-responsive-49co",
+  "publish_date": "2021-08-23",
+  "published_at": "2021-08-23T14:04:51Z"
+ },
+ {
+  "id": 797224,
+  "title": "How To Enable Real-Time Merge Conflict Detection in IntelliJ\n",
+  "description": "Ah, the dreaded resolve conflicts popup. You've finished crafting the perfect code, just a quick...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w4J8lskH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2easqf6ue3b6irwh2hb2.png",
+  "slug": "how-to-enable-real-time-merge-conflict-detection-in-intellij-3033",
+  "url": "https://dev.to/gitlive/how-to-enable-real-time-merge-conflict-detection-in-intellij-3033",
+  "publish_date": "2021-08-23",
+  "published_at": "2021-08-23T11:52:16Z"
+ },
+ {
+  "id": 800458,
+  "title": "4 Important Differences Between Regular And Arrow Functions",
+  "description": "Regular and arrow functions are often used interchangeably. Yet, they are not the same. There are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mNRbluJi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/84mirkgb9ewbsrcjle71.jpg",
+  "slug": "4-important-differences-between-regular-and-arrow-functions-59f9",
+  "url": "https://dev.to/alexdevero/4-important-differences-between-regular-and-arrow-functions-59f9",
+  "publish_date": "2021-08-23",
+  "published_at": "2021-08-23T07:27:07Z"
+ },
+ {
+  "id": 800441,
+  "title": "Add Typescript, TailwindCSS, and ESlint to your Next.js app",
+  "description": "Setting up the app   Creating a Next.js app    npx create-next-app next-tailwind-ts-demo    ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Re8GNMBk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l6ywprvuh9ui8nprcte4.png",
+  "slug": "add-typescript-tailwindcss-and-eslint-to-your-next-js-app-5cm0",
+  "url": "https://dev.to/avneesh0612/add-typescript-tailwindcss-and-eslint-to-your-next-js-app-5cm0",
+  "publish_date": "2021-08-23",
+  "published_at": "2021-08-23T06:42:35Z"
+ },
+ {
+  "id": 800292,
+  "title": "2021 JavaScript framework",
+  "description": "2021 is very different from previous years. Many web frameworks have released their new versions....",
+  "cover_image": "",
+  "slug": "2021-javascript-framework-2d0e",
+  "url": "https://dev.to/132/2021-javascript-framework-2d0e",
+  "publish_date": "2021-08-23",
+  "published_at": "2021-08-23T03:45:32Z"
+ },
+ {
   "id": 799766,
   "title": "Javascript Clean Code Tips \u0026 Good Practices",
   "description": "Code should be written in such a way that is self-explanatory, easy to understand, and easy to modify...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/marcosmol204/sets-in-javascript-the-only-explanation-you-will-ever-need-4pl0",
   "publish_date": "2021-05-16",
   "published_at": "2021-05-16T00:27:11Z"
- },
- {
-  "id": 698985,
-  "title": "React for Beginners: The Complete Guide for 2021",
-  "description": "Welcome to the React for Beginners guide. It's designed to teach you all the core React concepts that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bz9bhfMQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://reactbootcamp.com/content/images/2021/05/react-for-beginners-2021.png",
-  "slug": "react-for-beginners-the-complete-guide-for-2021-55nj",
-  "url": "https://dev.to/reedbarger/react-for-beginners-the-complete-guide-for-2021-55nj",
-  "publish_date": "2021-05-15",
-  "published_at": "2021-05-15T11:29:32Z"
- },
- {
-  "id": 698966,
-  "title": "7 rare website with awesome free fonts",
-  "description": "Google Fonts    Making The Web More Beautiful, Fast, And Open  Through Great Typography.  li...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KC_S9cI7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rzg1pqtl5iem7d9bi7mc.png",
-  "slug": "7-rare-website-with-awesome-free-fonts-3dfg",
-  "url": "https://dev.to/innocentcoder/7-rare-website-with-awesome-free-fonts-3dfg",
-  "publish_date": "2021-05-15",
-  "published_at": "2021-05-15T10:46:01Z"
- },
- {
-  "id": 698278,
-  "title": "Full Stack Instagram: Infinite Scroll",
-  "description": "This is my favorite project extension because this feature significantly improves the user experience...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IJ8rW-KT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gtocd1o4bktpetmbyfgl.png",
-  "slug": "full-stack-react-how-to-build-your-own-instagram-with-react-js-firebase-infinite-scroll-5dc0",
-  "url": "https://dev.to/arnoldschan/full-stack-react-how-to-build-your-own-instagram-with-react-js-firebase-infinite-scroll-5dc0",
-  "publish_date": "2021-05-15",
-  "published_at": "2021-05-15T05:44:35Z"
- },
- {
-  "id": 686116,
-  "title": "Full Stack Instagram: Introduction ",
-  "description": "I've been learning to build a web app using React.js. And this project turns out to be quite awesome...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--371t4kNb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tu49zoep0lhw4v7c2c9.png",
-  "slug": "full-stack-react-how-to-build-your-own-instagram-with-react-js-firebase-introduction-2107",
-  "url": "https://dev.to/arnoldschan/full-stack-react-how-to-build-your-own-instagram-with-react-js-firebase-introduction-2107",
-  "publish_date": "2021-05-15",
-  "published_at": "2021-05-15T05:44:03Z"
- },
- {
-  "id": 698718,
-  "title": "Are you using React ? Then I think you must know this",
-  "description": "At the time of writing this, React is at version 17.02. It is fascinating to see the exponential grow...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ygbXb3Ye--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k1vv2atv0mbh2vhc2n47.png",
-  "slug": "are-you-using-react-then-i-think-you-must-know-this-47cg",
-  "url": "https://dev.to/sudarshansb143/are-you-using-react-then-i-think-you-must-know-this-47cg",
-  "publish_date": "2021-05-15",
-  "published_at": "2021-05-15T02:37:03Z"
  }
 ]
