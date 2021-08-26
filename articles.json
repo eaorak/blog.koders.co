@@ -1,5 +1,55 @@
 [
  {
+  "id": 800013,
+  "title": "My FrontEnd Interview Experience At Razorpay",
+  "description": "Hey Folks! I hope you are doing great.  As you know from the announcements that I've recently joined...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r8i5-Ft6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ow5xl75oog77q0mh3orm.png",
+  "slug": "my-frontend-interview-experience-at-razorpay-29bo",
+  "url": "https://dev.to/anuraghazra/my-frontend-interview-experience-at-razorpay-29bo",
+  "publish_date": "2021-08-25",
+  "published_at": "2021-08-25T16:53:29Z"
+ },
+ {
+  "id": 797426,
+  "title": "Basic Concepts of Node.js",
+  "description": "🔶 Introduction   Imagine a web application which sends hundreds of requests per second to a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--szPE9hzn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qq1vs87b4gf7f3r3qjgp.jpg",
+  "slug": "basic-concepts-of-node-js-pch",
+  "url": "https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch",
+  "publish_date": "2021-08-25",
+  "published_at": "2021-08-25T11:50:42Z"
+ },
+ {
+  "id": 802851,
+  "title": "Best VS Code extensions for Front End Dev",
+  "description": "VsCode extensions are the backbone on the text editor. You can add language, keymaps, plugins,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NmM-4nWR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sdxzw90glhw2jjyaep8l.png",
+  "slug": "best-vs-code-extension-for-front-end-dev-dj4",
+  "url": "https://dev.to/labib/best-vs-code-extension-for-front-end-dev-dj4",
+  "publish_date": "2021-08-25",
+  "published_at": "2021-08-25T10:57:17Z"
+ },
+ {
+  "id": 802841,
+  "title": "8 reasons why having a blog is as important as having a GitHub",
+  "description": "Blogging and Technical Writing has become extremely popular these days. I think it's one of the few...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SvbDxyuf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4ortd9zovowd8ailz3r.png",
+  "slug": "8-reasons-why-having-a-blog-is-as-important-as-having-a-github-28ac",
+  "url": "https://dev.to/andrewbaisden/8-reasons-why-having-a-blog-is-as-important-as-having-a-github-28ac",
+  "publish_date": "2021-08-25",
+  "published_at": "2021-08-25T09:11:51Z"
+ },
+ {
+  "id": 802661,
+  "title": "25 Beginner JavaScript Project Ideas",
+  "description": "I previously wrote a blog about 15 JavaScript beginner projects and it was quite popular ( check it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MaxRcj7h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q2wtyhm4gkah0t4ntw6e.jpg",
+  "slug": "25-beginner-javascript-project-ideas-3m9h",
+  "url": "https://dev.to/codefoxx/25-beginner-javascript-project-ideas-3m9h",
+  "publish_date": "2021-08-25",
+  "published_at": "2021-08-25T03:57:23Z"
+ },
+ {
   "id": 801959,
   "title": "5 Things to do before making the build for Production. (React JS)",
   "description": "This article is not something you might not already know but maybe you might not have it all listed...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/myogeshchavan97/build-a-complete-food-ordering-app-using-react-redux-along-with-stripe-payment-integration-1k61",
   "publish_date": "2021-05-18",
   "published_at": "2021-05-18T06:10:24Z"
- },
- {
-  "id": 700905,
-  "title": "How to Solve Any Algorithm",
-  "description": "Learn how to solve any algorithm using these simple and easy-to-remember techniques.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vys-bnnx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2uuinjhsatdh0slpj9h9.png",
-  "slug": "how-to-solve-algorithms-2jo9",
-  "url": "https://dev.to/nielsenjared/how-to-solve-algorithms-2jo9",
-  "publish_date": "2021-05-17",
-  "published_at": "2021-05-17T15:04:58Z"
- },
- {
-  "id": 700630,
-  "title": "🔥 BUILD USER AVATAR GENERATOR IN JAVASCRIPT\n",
-  "description": "In this post we will write a function in javascript to generate beautiful ❤️  user avatar.  First we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v69sEngv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x16r4rxwv6qnxybihwmp.jpg",
-  "slug": "build-user-avatar-generator-in-javascript-5bd0",
-  "url": "https://dev.to/satishnaikawadi2001/build-user-avatar-generator-in-javascript-5bd0",
-  "publish_date": "2021-05-17",
-  "published_at": "2021-05-17T10:57:15Z"
- },
- {
-  "id": 700429,
-  "title": "8 Best Practices for REST API Design",
-  "description": "1. Automate Caching  Repeated request and responding to those request consumes resources and this bec...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SB-FrpDf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vdn6fma9xiuyf2u1wc47.png",
-  "slug": "8-best-practices-for-rest-api-design-1d97",
-  "url": "https://dev.to/mohit199thd/8-best-practices-for-rest-api-design-1d97",
-  "publish_date": "2021-05-17",
-  "published_at": "2021-05-17T06:25:49Z"
- },
- {
-  "id": 698287,
-  "title": "All That You Need To Know About Date Object In JavaScript",
-  "description": "In web development there will be many instance in which we need to interact with date/time values, we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UheQYGmN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0s4jmhvxw6sya3xq8bqj.png",
-  "slug": "all-that-you-need-to-know-about-date-and-time-in-javascript-5bfd",
-  "url": "https://dev.to/kiranrajvjd/all-that-you-need-to-know-about-date-and-time-in-javascript-5bfd",
-  "publish_date": "2021-05-17",
-  "published_at": "2021-05-17T05:00:40Z"
- },
- {
-  "id": 697190,
-  "title": "How I build Crypto Tracker Chart with React 🚀",
-  "description": "Hello Coders 👩🏼‍💻,  Recently, I visit a crypto tracker site to check DogeCoin prices to see whether...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7JALd0Y---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d74mghfkmwlxdn0vlyhl.png",
-  "slug": "how-i-build-crypto-tracker-chart-with-react-4k9h",
-  "url": "https://dev.to/ayeprahman/how-i-build-crypto-tracker-chart-with-react-4k9h",
-  "publish_date": "2021-05-17",
-  "published_at": "2021-05-17T00:49:34Z"
  }
 ]
