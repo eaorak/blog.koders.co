@@ -1,5 +1,55 @@
 [
  {
+  "id": 710330,
+  "title": "5 tools to automate your development",
+  "description": "Automating your development with Dependabot, Auto Assign, Merge Freeze, Husky and Scheduled...",
+  "cover_image": "",
+  "slug": "5-tools-to-automate-your-development-3m",
+  "url": "https://dev.to/pgarzina/5-tools-to-automate-your-development-3m",
+  "publish_date": "2021-08-27",
+  "published_at": "2021-08-27T12:43:48Z"
+ },
+ {
+  "id": 805126,
+  "title": "Free Resources for Developers",
+  "description": "Who doesn't love free things?            nobody   Henceforth, I present before you a curated...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PP-_SMEo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bt4v2bgsrijo9w40xbum.png",
+  "slug": "free-resources-for-developers-meg",
+  "url": "https://dev.to/rainboestrykr/free-resources-for-developers-meg",
+  "publish_date": "2021-08-27",
+  "published_at": "2021-08-27T09:56:43Z"
+ },
+ {
+  "id": 804881,
+  "title": " Design Patterns in JavaScript ",
+  "description": "20+ Design Patterns explanation in JavaScript    We will discuss implementation of Design Patterns...",
+  "cover_image": "",
+  "slug": "design-patterns-in-javascript-1pgm",
+  "url": "https://dev.to/zeeshanhshaheen/design-patterns-in-javascript-1pgm",
+  "publish_date": "2021-08-27",
+  "published_at": "2021-08-27T05:14:32Z"
+ },
+ {
+  "id": 606111,
+  "title": "Why you should be using Vue's new Composition API",
+  "description": "Vue 3 introduced the composition API and while it looks intimidating, here's a few practical examples of components rewritten using this new interface.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--totLbCeR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qwx1paml70o9t6nw9f82.jpg",
+  "slug": "why-you-should-be-using-vue-s-new-composition-api-2gnn",
+  "url": "https://dev.to/aschmelyun/why-you-should-be-using-vue-s-new-composition-api-2gnn",
+  "publish_date": "2021-08-27",
+  "published_at": "2021-08-27T03:11:47Z"
+ },
+ {
+  "id": 803864,
+  "title": "Build a Portfolio Using Next.js, Tailwind, and Vercel with Dark Mode Support",
+  "description": "Steps to build a portfolio website using Next.js and Tailwind with Dark Mode Support.    You can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6KwQ-jxP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8smpks108c0jt3krh6d6.png",
+  "slug": "build-a-portfolio-using-next-js-tailwind-and-vercel-4dd8",
+  "url": "https://dev.to/nilanth/build-a-portfolio-using-next-js-tailwind-and-vercel-4dd8",
+  "publish_date": "2021-08-27",
+  "published_at": "2021-08-27T01:57:47Z"
+ },
+ {
   "id": 804257,
   "title": "Ultimate cloud pricing comparison: AWS vs. Azure vs. Google Cloud in 2021",
   "description": "How can you tell which cloud provider is the right one for your business? And which one isn’t going...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/maureento8888/realistic-list-of-web-dev-resources-253c",
   "publish_date": "2021-05-20",
   "published_at": "2021-05-20T00:25:58Z"
- },
- {
-  "id": 670635,
-  "title": "Advanced CSS Animation Using cubic-bezier()",
-  "description": "When dealing with complex CSS animations, there is a tendency to create expansive @keyframes with lot...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dYUYOuUc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gtknacqxif7977upw8hy.png",
-  "slug": "advanced-css-animation-using-cubic-bezier-nho",
-  "url": "https://dev.to/afif/advanced-css-animation-using-cubic-bezier-nho",
-  "publish_date": "2021-05-19",
-  "published_at": "2021-05-19T12:14:36Z"
- },
- {
-  "id": 702476,
-  "title": "🔥Awesome Resource For Your Web Projects: 75+ Background Resources🔥",
-  "description": "Web development is not an easy task, for a beginner it will be a very complex and confusing one, the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kP66Rc53--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0vq6ek307as48pl7po6s.jpg",
-  "slug": "awesome-resource-for-your-web-projects-75-background-resources-2cm8",
-  "url": "https://dev.to/kiranrajvjd/awesome-resource-for-your-web-projects-75-background-resources-2cm8",
-  "publish_date": "2021-05-19",
-  "published_at": "2021-05-19T10:18:16Z"
- },
- {
-  "id": 700488,
-  "title": "Architecture: Web app[front-end] from scratch 2021 ",
-  "description": "Currently, I work as a front-end engineer and I worked on some of the frameworks Ember, React, and Vu...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fQqRuOCg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyo3l8vwb6xy4o8b6oe3.jpeg",
-  "slug": "architecture-web-app-front-end-from-scratch-2021-f6",
-  "url": "https://dev.to/lakshmananarumugam/architecture-web-app-front-end-from-scratch-2021-f6",
-  "publish_date": "2021-05-19",
-  "published_at": "2021-05-19T04:48:11Z"
- },
- {
-  "id": 702450,
-  "title": "Learn Fullstack | 2021",
-  "description": "This article focus on Fullstack web development. So, Don't blame me for the \"anaconda article\".  If y...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ogM3-rDv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0umprdng32ukhrn405x7.jpg",
-  "slug": "learn-fullstack-2021-54gd",
-  "url": "https://dev.to/retr0c0de/learn-fullstack-2021-54gd",
-  "publish_date": "2021-05-19",
-  "published_at": "2021-05-19T04:32:09Z"
- },
- {
-  "id": 702419,
-  "title": "All of Your React Utility Hooks in One Place",
-  "description": "# 🛠 All of Your Utility Hooks in One Place.  When using react(or other frameworks like NextJS and Gat...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1AvJ_0rd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yat3dkbsdslvt9nfkou.png",
-  "slug": "all-of-your-react-util-hooks-in-one-place-3kid",
-  "url": "https://dev.to/pranta/all-of-your-react-util-hooks-in-one-place-3kid",
-  "publish_date": "2021-05-19",
-  "published_at": "2021-05-19T04:20:42Z"
  }
 ]
