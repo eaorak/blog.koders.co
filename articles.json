@@ -1,5 +1,55 @@
 [
  {
+  "id": 806240,
+  "title": "A scalable CSS only Typewriter Effect",
+  "description": "You want a Typewriter effect for your text but you are lost within all the variations that use JS and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zpo13rPq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrsbevdmtor63nsyff45.gif",
+  "slug": "a-scalable-css-only-typewriter-effect-2opn",
+  "url": "https://dev.to/afif/a-scalable-css-only-typewriter-effect-2opn",
+  "publish_date": "2021-08-28",
+  "published_at": "2021-08-28T18:37:47Z"
+ },
+ {
+  "id": 806426,
+  "title": "Github.dev: Tips, Tricks \u0026 Fun Use Cases 😎",
+  "description": "GitHub recently released github.dev, which if you haven't heard, allows you to press . on any repo,...",
+  "cover_image": "",
+  "slug": "10-awesome-things-you-can-do-with-github-dev-5fm7",
+  "url": "https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7",
+  "publish_date": "2021-08-28",
+  "published_at": "2021-08-28T18:02:02Z"
+ },
+ {
+  "id": 806304,
+  "title": "Creating content but getting no engagement? 😭 A community that can help! 💪 ",
+  "description": "Have you ever created an article that was excellent, fine tuned it to perfection, released it...and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GURtscFz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/33skbvd4d0ihr1ai8ciu.jpg",
+  "slug": "creating-content-but-getting-no-engagement-a-community-that-can-help-5bg5",
+  "url": "https://dev.to/inhuofficial/creating-content-but-getting-no-engagement-a-community-that-can-help-5bg5",
+  "publish_date": "2021-08-28",
+  "published_at": "2021-08-28T14:15:44Z"
+ },
+ {
+  "id": 806249,
+  "title": "[Part 4/4] ⚛️ Senior React Coding Interview, By A Professional React Developer 👨‍💻",
+  "description": "About Me: I've been a professional web developer for just over 10 years now. I'm currently the lead...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E4FyGpRZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ms13mqfxd8ffz7t7qvxk.jpg",
+  "slug": "part-4-4-senior-react-coding-interview-by-a-professional-react-developer-1gln",
+  "url": "https://dev.to/bettercodingacademy/part-4-4-senior-react-coding-interview-by-a-professional-react-developer-1gln",
+  "publish_date": "2021-08-28",
+  "published_at": "2021-08-28T10:51:06Z"
+ },
+ {
+  "id": 806035,
+  "title": "Click to Copy!",
+  "description": "Hey Guys 👋   Ever wondered how some websites have \"click to copy\" functionality?     You can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G5OTCemA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80ivv8yy1mxrhycepipe.png",
+  "slug": "click-to-copy-81k",
+  "url": "https://dev.to/sidmirza4/click-to-copy-81k",
+  "publish_date": "2021-08-28",
+  "published_at": "2021-08-28T06:39:54Z"
+ },
+ {
   "id": 710330,
   "title": "5 tools to automate your development",
   "description": "Automating your development with Dependabot, Auto Assign, Merge Freeze, Husky and Scheduled...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tanoaksam/how-i-learned-to-code-and-started-freelancing-full-time-in-8-months-4kpl",
   "publish_date": "2021-05-21",
   "published_at": "2021-05-21T02:23:13Z"
- },
- {
-  "id": 703980,
-  "title": "It's 🌍 Global Accessibility Awareness Day - Do you actually give a f*ck? Here are 7 reasons why YOU should.",
-  "description": "Preword: The \"anger\" in this article is just for fun and poking a bit of fun at the \"months and days\"...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Deqgmc3r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9f9dhcwcil3qf9chxehk.jpg",
-  "slug": "it-s-global-accessibility-awareness-day-do-you-give-a-f-ck-here-are-7-reasons-you-should-14ni",
-  "url": "https://dev.to/inhuofficial/it-s-global-accessibility-awareness-day-do-you-give-a-f-ck-here-are-7-reasons-you-should-14ni",
-  "publish_date": "2021-05-20",
-  "published_at": "2021-05-20T16:23:54Z"
- },
- {
-  "id": 699157,
-  "title": "10 Google Chrome Extensions you should use as a developer",
-  "description": "If you found value in this thread you will most likely enjoy my tweets too so make sure you follow me...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lOQ-N0P_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvmvtmx5b6aqp7o64qoa.png",
-  "slug": "10-google-chrome-extensions-you-should-use-as-a-developer-26kh",
-  "url": "https://dev.to/pascavld/10-google-chrome-extensions-you-should-use-as-a-developer-26kh",
-  "publish_date": "2021-05-20",
-  "published_at": "2021-05-20T12:05:23Z"
- },
- {
-  "id": 696964,
-  "title": "10+ Useful Tools🛠 For Web Developers👨‍💻In 2021",
-  "description": "Are you looking for the best tools for web development? Well, In this article, we are going to share...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_rHZ8LXq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8q03sk38k5sgsy1idypd.png",
-  "slug": "10-useful-tools-for-web-developers-in-2021-42d1",
-  "url": "https://dev.to/theme_selection/10-useful-tools-for-web-developers-in-2021-42d1",
-  "publish_date": "2021-05-20",
-  "published_at": "2021-05-20T06:27:30Z"
- },
- {
-  "id": 703437,
-  "title": "useAxios: React hook for any Axios call",
-  "description": "useAxios() is a React hook that simplifies async fetching and state management. Source code and live...",
-  "cover_image": "",
-  "slug": "useaxios-react-hook-for-any-axios-call-12b7",
-  "url": "https://dev.to/kwhitejr/useaxios-react-hook-for-any-axios-call-12b7",
-  "publish_date": "2021-05-20",
-  "published_at": "2021-05-20T02:40:01Z"
- },
- {
-  "id": 703245,
-  "title": "(Realistic) List of Web Dev Resources 💻🚀",
-  "description": "Photo by Luca Bravo on Unsplash     I've been finding a lot of articles on DEV lately that garner a T...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UbZXfAww--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lchr1d2fqjg1u39i0gr9.jpg",
-  "slug": "realistic-list-of-web-dev-resources-253c",
-  "url": "https://dev.to/maureento8888/realistic-list-of-web-dev-resources-253c",
-  "publish_date": "2021-05-20",
-  "published_at": "2021-05-20T00:25:58Z"
  }
 ]
