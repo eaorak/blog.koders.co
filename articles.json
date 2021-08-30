@@ -1,5 +1,55 @@
 [
  {
+  "id": 807066,
+  "title": "Animated no-element typewriter",
+  "description": "After sharing a typewriter effect with CSS, ChallengesCss beat the drums of \"CSS War\" and created a different effect, and InHuOfficial hopped in and is preparing a \"type-righter\"... Here's another entry: an animated no-element cartoon of a typewriter",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cK1pA2y4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aoax5irkvxaqdoly6puo.png",
+  "slug": "animated-no-element-typewriter-2835",
+  "url": "https://dev.to/alvaromontoro/animated-no-element-typewriter-2835",
+  "publish_date": "2021-08-29",
+  "published_at": "2021-08-29T14:22:33Z"
+ },
+ {
+  "id": 806952,
+  "title": "Introduction to TypeScript 👩‍💻",
+  "description": "Hello guys, you might have probably heard the popular name \"TypeScript\" if you are into Web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4diRGw6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gao3acryrj14vrlx9h49.png",
+  "slug": "introduction-to-typescript-7lg",
+  "url": "https://dev.to/shaan71845/introduction-to-typescript-7lg",
+  "publish_date": "2021-08-29",
+  "published_at": "2021-08-29T10:48:22Z"
+ },
+ {
+  "id": 806283,
+  "title": "Dark/Light theme switcher with HTML, CSS \u0026 Javascript Only",
+  "description": "There are different ways to implement dark mode on websites, from the simplest to the most complex,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x8PBvaXB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rpuzxh07r6v2mohhy2f7.png",
+  "slug": "dark-mode-with-html-css-javascript-only-4nb9",
+  "url": "https://dev.to/rubalaine/dark-mode-with-html-css-javascript-only-4nb9",
+  "publish_date": "2021-08-29",
+  "published_at": "2021-08-29T09:52:46Z"
+ },
+ {
+  "id": 806717,
+  "title": "Create React App from Scratch like a Pro",
+  "description": "Creating a React App is a very difficult feat, even when you are an experienced developer. That led...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jsqg9fVr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/759xdiyobdlcabx23erq.png",
+  "slug": "create-react-app-from-scratch-like-a-pro-de0",
+  "url": "https://dev.to/ruppysuppy/create-react-app-from-scratch-like-a-pro-de0",
+  "publish_date": "2021-08-29",
+  "published_at": "2021-08-29T06:55:27Z"
+ },
+ {
+  "id": 806725,
+  "title": "Memoizing async functions in Javascript",
+  "description": "Memoization is a useful concept. It helps avoid time taking or expensive calculations, after it's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--taxRkfo0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1564325724739-bae0bd08762c%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1050%26q%3D80",
+  "slug": "memoizing-fetch-api-calls-in-javascript-1d16",
+  "url": "https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16",
+  "publish_date": "2021-08-29",
+  "published_at": "2021-08-29T04:06:22Z"
+ },
+ {
   "id": 806240,
   "title": "A scalable CSS only Typewriter Effect",
   "description": "You want a Typewriter effect for your text but you are lost within all the variations that use JS and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ratuloss/5-vs-code-extension-s-to-increase-your-developer-productivity-52f0",
   "publish_date": "2021-05-22",
   "published_at": "2021-05-22T06:50:52Z"
- },
- {
-  "id": 703641,
-  "title": "🚀10 Trending projects on GitHub for web developers - 21st May 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-21st-may-2021-2c6h",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-21st-may-2021-2c6h",
-  "publish_date": "2021-05-21",
-  "published_at": "2021-05-21T13:50:17Z"
- },
- {
-  "id": 704805,
-  "title": "What is the difference between Library vs Framework?",
-  "description": "While the terms Library and Framework may sound similar, they both work differently.   Many people us...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6PozDtT2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qginkfwnjakwrjamu3qt.jpeg",
-  "slug": "what-is-the-difference-between-library-vs-framework-174n",
-  "url": "https://dev.to/rohitrana/what-is-the-difference-between-library-vs-framework-174n",
-  "publish_date": "2021-05-21",
-  "published_at": "2021-05-21T12:51:38Z"
- },
- {
-  "id": 704585,
-  "title": "Javascript session storage - beginner's guide",
-  "description": "In the last article we talked about local storage (see the link above), what is it and how can we use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hj0JvYa8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtoowq2s1blfm94n3u3o.jpeg",
-  "slug": "javascript-session-storage-beginner-s-guide-1i5e",
-  "url": "https://dev.to/arikaturika/javascript-session-storage-beginner-s-guide-1i5e",
-  "publish_date": "2021-05-21",
-  "published_at": "2021-05-21T07:51:30Z"
- },
- {
-  "id": 703091,
-  "title": "🚀 Productivity Tips 🚀 for every Javascript Programmer 💻",
-  "description": "Here is a interesting fact, do you know which is the worlds most hated and most loved programming lan...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VmwY1z-j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k9of1jyglesrxfcs8abv.png",
-  "slug": "productivity-tips-for-every-javascript-programmer-59l2",
-  "url": "https://dev.to/sudarshansb143/productivity-tips-for-every-javascript-programmer-59l2",
-  "publish_date": "2021-05-21",
-  "published_at": "2021-05-21T02:30:41Z"
- },
- {
-  "id": 704400,
-  "title": "How I Learned to Code and Started Freelancing Full-Time in 8 Months",
-  "description": "In September 2020 I signed up for Free Code Camp and started learning HTML and CSS.  In April 2021 I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uy_XXw3I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i723isg1o1cbwyqqj3f5.png",
-  "slug": "how-i-learned-to-code-and-started-freelancing-full-time-in-8-months-4kpl",
-  "url": "https://dev.to/tanoaksam/how-i-learned-to-code-and-started-freelancing-full-time-in-8-months-4kpl",
-  "publish_date": "2021-05-21",
-  "published_at": "2021-05-21T02:23:13Z"
  }
 ]
