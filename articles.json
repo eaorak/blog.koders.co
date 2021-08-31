@@ -1,5 +1,55 @@
 [
  {
+  "id": 807057,
+  "title": "How the 7 deadly sins 👿 will make you an Accessibility Expert! 😇",
+  "description": "I am a sinner, it is far more fun than being good 😉. So let's see how we can use the 7 deadly sins to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SfqDzESr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ue2fv4sx5yptnjs8vmb.jpg",
+  "slug": "how-the-7-deadly-sins-will-make-you-an-accessibility-expert-27c7",
+  "url": "https://dev.to/inhuofficial/how-the-7-deadly-sins-will-make-you-an-accessibility-expert-27c7",
+  "publish_date": "2021-08-30",
+  "published_at": "2021-08-30T14:16:42Z"
+ },
+ {
+  "id": 807924,
+  "title": "Web Component ideas: Making an if element",
+  "description": "I'm a big fan of Web Components, they're super useful. But have you ever thought of using them as an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sbALLQ9h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u9mbiyk9d4skrkle5bgm.png",
+  "slug": "web-component-ideas-making-an-if-element-5g8a",
+  "url": "https://dev.to/taybenlor/web-component-ideas-making-an-if-element-5g8a",
+  "publish_date": "2021-08-30",
+  "published_at": "2021-08-30T12:07:51Z"
+ },
+ {
+  "id": 807227,
+  "title": "Next.js, Material UI, MongoDB Personal Dashboard",
+  "description": "Originally published on my personal blog           Motivation   As a developer who tries to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e3gJHZtt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9q5ydb046koxazpph10r.png",
+  "slug": "next-js-material-ui-mongodb-personal-dashboard-3i82",
+  "url": "https://dev.to/ramonak/next-js-material-ui-mongodb-personal-dashboard-3i82",
+  "publish_date": "2021-08-30",
+  "published_at": "2021-08-30T09:18:52Z"
+ },
+ {
+  "id": 807725,
+  "title": "Top API's for next JavaScript Project",
+  "description": "1. Jokes API     Simple jokes API.  The majority of these jokes were contributed by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_hANQkBZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9jgiqm9szjorccg58riu.png",
+  "slug": "top-api-s-for-next-javascript-project-cop",
+  "url": "https://dev.to/suprabhasupi/top-api-s-for-next-javascript-project-cop",
+  "publish_date": "2021-08-30",
+  "published_at": "2021-08-30T08:47:24Z"
+ },
+ {
+  "id": 807519,
+  "title": "10 Things I've learnt being an AWS Developer Advocate",
+  "description": "Intro   So exactly 12 months ago I landed a job as a Developer Advocate at AWS. A job title,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I4SdRhXR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nbvmiu3e5ibv8hiee48o.jpg",
+  "slug": "10-things-i-ve-learnt-being-an-aws-developer-advocate-37ck",
+  "url": "https://dev.to/deekob/10-things-i-ve-learnt-being-an-aws-developer-advocate-37ck",
+  "publish_date": "2021-08-30",
+  "published_at": "2021-08-30T04:15:49Z"
+ },
+ {
   "id": 807066,
   "title": "Animated no-element typewriter",
   "description": "After sharing a typewriter effect with CSS, ChallengesCss beat the drums of \"CSS War\" and created a different effect, and InHuOfficial hopped in and is preparing a \"type-righter\"... Here's another entry: an animated no-element cartoon of a typewriter",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lukeshiru/you-don-t-need-variables-2gk3",
   "publish_date": "2021-05-23",
   "published_at": "2021-05-23T01:05:12Z"
- },
- {
-  "id": 685942,
-  "title": "Let’s Talk About Cross-Origin Resource Sharing (CORS)",
-  "description": "Access to fetch at ‘https://coolserver.com’ from origin ‘http://localhost:3000’ has been blocked by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kDPjt5XD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/padkm9hul596rluke6cj.png",
-  "slug": "demystifying-cross-origin-resource-sharing-cors-4lpj",
-  "url": "https://dev.to/chuckchoiboi/demystifying-cross-origin-resource-sharing-cors-4lpj",
-  "publish_date": "2021-05-22",
-  "published_at": "2021-05-22T13:07:50Z"
- },
- {
-  "id": 705592,
-  "title": "Revealing Contents on Scroll Using JavaScript’s Intersection Observer API",
-  "description": "Have you ever visited a website where as you scroll down the page, the contents of the webpage gradua...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AAfiBH58--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/11qj90obn7t08ob4qu2i.png",
-  "slug": "a-beginner-s-guide-to-the-intersection-observer-api-2d50",
-  "url": "https://dev.to/daveyhert/a-beginner-s-guide-to-the-intersection-observer-api-2d50",
-  "publish_date": "2021-05-22",
-  "published_at": "2021-05-22T09:43:40Z"
- },
- {
-  "id": 705499,
-  "title": "Channel List to Learn Web Development from Youtube",
-  "description": "May 2020 is the first time I started learning web development. In the beginning, I learn from a Udemy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N1xnuEN9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxa7j7c7xnwm1vgz88x0.png",
-  "slug": "learning-web-development-from-youtube-1hop",
-  "url": "https://dev.to/theodorusclarence/learning-web-development-from-youtube-1hop",
-  "publish_date": "2021-05-22",
-  "published_at": "2021-05-22T07:24:27Z"
- },
- {
-  "id": 705481,
-  "title": "I built this cool GitHub UI based DEV Portfolio",
-  "description": "The Design Idea   Spitting the truth, I really came across 1000s of dev portfolio 💻 websites...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eBiCt4fo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xggjm8w9uenu8grwbtx9.png",
-  "slug": "i-built-this-cool-github-ui-based-dev-portfolio-1n6f",
-  "url": "https://dev.to/hima_khaitan/i-built-this-cool-github-ui-based-dev-portfolio-1n6f",
-  "publish_date": "2021-05-22",
-  "published_at": "2021-05-22T06:58:56Z"
- },
- {
-  "id": 705475,
-  "title": "5 Vs code extension's to increase your developer productivity",
-  "description": "Hey there developers. How is it going. Today in this blog, I will be showing you 5 useful vs code ext...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DQtzesgr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yo2kvgqe65wl9p0yrsjc.jpg",
-  "slug": "5-vs-code-extension-s-to-increase-your-developer-productivity-52f0",
-  "url": "https://dev.to/ratuloss/5-vs-code-extension-s-to-increase-your-developer-productivity-52f0",
-  "publish_date": "2021-05-22",
-  "published_at": "2021-05-22T06:50:52Z"
  }
 ]
