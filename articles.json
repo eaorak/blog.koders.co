@@ -1,5 +1,55 @@
 [
  {
+  "id": 803274,
+  "title": "5 JetBrains plugins to upgrade the built-in Git support to the next level!\n",
+  "description": "The Git plugin that comes bundled with all JetBrains IDEs is actually quite impressive, it's a full...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oir9XwHx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j6q2rh4bi4r3x0344wa4.png",
+  "slug": "5-jetbrains-plugins-to-upgrade-the-builtin-git-support-to-the-next-level-3ojf",
+  "url": "https://dev.to/anotherdevuser/5-jetbrains-plugins-to-upgrade-the-builtin-git-support-to-the-next-level-3ojf",
+  "publish_date": "2021-08-31",
+  "published_at": "2021-08-31T16:09:48Z"
+ },
+ {
+  "id": 809109,
+  "title": "How I structure my React projects",
+  "description": "A React folder structure that fits my needs. Structuring and organizing React applications.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wi3Qy_Cz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2ceqg8zcbk30z6hzmeb.jpg",
+  "slug": "how-i-structure-my-react-projects-jii",
+  "url": "https://dev.to/larswaechter/how-i-structure-my-react-projects-jii",
+  "publish_date": "2021-08-31",
+  "published_at": "2021-08-31T13:24:23Z"
+ },
+ {
+  "id": 808838,
+  "title": "The importance of a design system and why you should be using Storybook in all of your projects",
+  "description": "JavaScript Developers and Designers are very familiar with design systems. It is essentially the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vWuDMWuN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1cetooyrc9xvvu7ktxld.png",
+  "slug": "the-importance-of-a-design-system-and-why-you-should-be-using-storybook-in-all-of-your-projects-d1o",
+  "url": "https://dev.to/andrewbaisden/the-importance-of-a-design-system-and-why-you-should-be-using-storybook-in-all-of-your-projects-d1o",
+  "publish_date": "2021-08-31",
+  "published_at": "2021-08-31T08:53:00Z"
+ },
+ {
+  "id": 800412,
+  "title": "🚀 JavaScript Project Series That Makes You Pro.",
+  "description": "Hello Coders!👋    JavaScript is one of the leading names when it comes to front-end web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gx1-2fbp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dr00p1dufr10i34xqw34.png",
+  "slug": "javascript-project-series-that-makes-you-pro-33ma",
+  "url": "https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma",
+  "publish_date": "2021-08-31",
+  "published_at": "2021-08-31T07:11:36Z"
+ },
+ {
+  "id": 808676,
+  "title": "Top 10 Free Website Template Resources",
+  "description": "Users’ first interaction with any website is with the frontend. Most developers don’t want to spend...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GTr7vQ9v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bu0p6igr19pyo2vedc51.png",
+  "slug": "top-10-free-website-template-resources-3eoe",
+  "url": "https://dev.to/helloabutaher/top-10-free-website-template-resources-3eoe",
+  "publish_date": "2021-08-31",
+  "published_at": "2021-08-31T06:29:50Z"
+ },
+ {
   "id": 807057,
   "title": "How the 7 deadly sins 👿 will make you an Accessibility Expert! 😇",
   "description": "I am a sinner, it is far more fun than being good 😉. So let's see how we can use the 7 deadly sins to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vicnovais/what-are-micro-frontends-4amf",
   "publish_date": "2021-05-24",
   "published_at": "2021-05-24T01:00:57Z"
- },
- {
-  "id": 706317,
-  "title": "Create awesome Page Transitions in NextJS using Framer motion",
-  "description": "I recently decided to re-design my portfolio in NextJs. So, I started researching around the web for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BOjuRPQA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/618kie311qph3e7xhhdi.png",
-  "slug": "create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln",
-  "url": "https://dev.to/shaan71845/create-awesome-page-transitions-in-nextjs-using-framer-motion-2pln",
-  "publish_date": "2021-05-23",
-  "published_at": "2021-05-23T13:55:53Z"
- },
- {
-  "id": 706351,
-  "title": "React Clean Architecture",
-  "description": "Hello Developers! Many of us use various design patterns with React Development to make React Apps mo...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6nxx0dwy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0n9nxt1ds3g6c1gs335.jpg",
-  "slug": "react-clean-architecture-114f",
-  "url": "https://dev.to/kpiteng/react-clean-architecture-114f",
-  "publish_date": "2021-05-23",
-  "published_at": "2021-05-23T13:34:03Z"
- },
- {
-  "id": 706182,
-  "title": "Super Useful Tips \u0026 Tricks for JavaScript Developers",
-  "description": "Quick way to mask numbers using slice and ES8 padStart method      const creditCard = \"41111...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HaVp5ebv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wnbps9shhjegha31wzj3.png",
-  "slug": "super-useful-tips-tricks-for-javascript-developers-702",
-  "url": "https://dev.to/myogeshchavan97/super-useful-tips-tricks-for-javascript-developers-702",
-  "publish_date": "2021-05-23",
-  "published_at": "2021-05-23T06:14:39Z"
- },
- {
-  "id": 705341,
-  "title": "Master useful CSS pseudo-classes",
-  "description": "What are CSS pseudo-classes?   A CSS pseudo-class is a selector which specifies a specific s...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDtxuOwr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgweh1zw1jm6343lxx7r.jpg",
-  "slug": "master-useful-css-pseudo-classes-lh2",
-  "url": "https://dev.to/ruppysuppy/master-useful-css-pseudo-classes-lh2",
-  "publish_date": "2021-05-23",
-  "published_at": "2021-05-23T02:36:02Z"
- },
- {
-  "id": 552326,
-  "title": "You don't need mutation",
-  "description": "Before you think I'm crazy, I'm not saying that you don't need a way of storing data in memory, becau...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AfWZHvH0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm30ce5yngw5vzkkslwu.png",
-  "slug": "you-don-t-need-variables-2gk3",
-  "url": "https://dev.to/lukeshiru/you-don-t-need-variables-2gk3",
-  "publish_date": "2021-05-23",
-  "published_at": "2021-05-23T01:05:12Z"
  }
 ]
