@@ -1,5 +1,55 @@
 [
  {
+  "id": 811465,
+  "title": "How to be successful as a self taught developer",
+  "description": "The game has changed. You don't need a College or University Degree to be a developer anymore. I am...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qOINc-fc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cafdgks2detuzcjakqkk.png",
+  "slug": "how-to-be-successful-as-a-self-taught-developer-4ofk",
+  "url": "https://dev.to/andrewbaisden/how-to-be-successful-as-a-self-taught-developer-4ofk",
+  "publish_date": "2021-09-02",
+  "published_at": "2021-09-02T13:58:13Z"
+ },
+ {
+  "id": 808849,
+  "title": "Automating quality checks for Kubernetes YAMLs",
+  "description": "Cover image by Mark Tegethoff on Unsplash   If you have ever wondered how to make sure that your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tt1ARIxG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94rzl3hpe1roj3od860y.jpg",
+  "slug": "automating-quality-checks-for-kubernetes-yamls-398",
+  "url": "https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398",
+  "publish_date": "2021-09-02",
+  "published_at": "2021-09-02T10:44:43Z"
+ },
+ {
+  "id": 801667,
+  "title": "Infinite scrolling in React with intersection observer",
+  "description": "Hello folks,   Few days back I came across the use-case of infinite scroll in React. For this, I used...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9ih_kOK9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ksycrmgma4q1ty5abz1s.png",
+  "slug": "infinite-scrolling-in-react-with-intersection-observer-22fh",
+  "url": "https://dev.to/ms_yogii/infinite-scrolling-in-react-with-intersection-observer-22fh",
+  "publish_date": "2021-09-02",
+  "published_at": "2021-09-02T10:43:48Z"
+ },
+ {
+  "id": 811095,
+  "title": "Last minute guide to React.useEffect()",
+  "description": "React.useEffect() is one of the React hooks that manages side-effects in functional React components....",
+  "cover_image": "",
+  "slug": "last-minute-guide-to-react-useeffect-4n1i",
+  "url": "https://dev.to/forkbikash/last-minute-guide-to-react-useeffect-4n1i",
+  "publish_date": "2021-09-02",
+  "published_at": "2021-09-02T06:31:39Z"
+ },
+ {
+  "id": 810985,
+  "title": "Coding a SaaS in 30 days",
+  "description": "So I built a SaaS in 30 days... and it was way more complicated that I originally thought, but check...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8PIzA1ng--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/84qmyguqksvzrbpudzo4.gif",
+  "slug": "coding-a-saas-in-30-days-20ji",
+  "url": "https://dev.to/adriantwarog/coding-a-saas-in-30-days-20ji",
+  "publish_date": "2021-09-02",
+  "published_at": "2021-09-02T05:36:52Z"
+ },
+ {
   "id": 810285,
   "title": "Create an Exclusive Product Landing Page using HTML  CSS \u0026 JS",
   "description": "Hello dear developers, In today's blog, we'll see how to make an exclusive Product landing page using...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cutioluis/top-10-sites-extensions-you-should-use-if-you-are-a-frontend-developer-1110",
   "publish_date": "2021-05-26",
   "published_at": "2021-05-26T02:10:04Z"
- },
- {
-  "id": 690200,
-  "title": "The 52 most popular projects from the last year of Trending Projects",
-  "description": "For the last year, I have been curating Trending projects a newsletter that showcases 10 popular web...",
-  "cover_image": "",
-  "slug": "the-52-most-popular-projects-from-the-last-year-of-trending-projects-2a8l",
-  "url": "https://dev.to/iainfreestone/the-52-most-popular-projects-from-the-last-year-of-trending-projects-2a8l",
-  "publish_date": "2021-05-25",
-  "published_at": "2021-05-25T20:05:23Z"
- },
- {
-  "id": 707824,
-  "title": "useContext for better state management!",
-  "description": "Hi folks,   Managing data in an app is little tricky when many components are sharing and updating it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PiVreI22--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kujgr3zhpj47hks2vqyo.png",
-  "slug": "usecontext-for-better-state-management-51hi",
-  "url": "https://dev.to/ms_yogii/usecontext-for-better-state-management-51hi",
-  "publish_date": "2021-05-25",
-  "published_at": "2021-05-25T11:01:38Z"
- },
- {
-  "id": 707244,
-  "title": "Another 100 CSS loaders for your next project",
-  "description": "Ready for the second set of loaders? Yes, it's again me with another collection of 100 CSS loaders. N...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KgMH6CVN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iqbjwrds4640uwn9b443.gif",
-  "slug": "another-100-css-loaders-for-your-next-project-352l",
-  "url": "https://dev.to/afif/another-100-css-loaders-for-your-next-project-352l",
-  "publish_date": "2021-05-25",
-  "published_at": "2021-05-25T09:02:36Z"
- },
- {
-  "id": 656605,
-  "title": "How To Make Your First Contribution As a Beginner In Open Source",
-  "description": "Open Source is very powerful that is encouraging and empowering, but students today are not really...",
-  "cover_image": "",
-  "slug": "how-to-make-your-first-contribution-as-a-beginner-in-open-source-5hkf",
-  "url": "https://dev.to/shatakshiigupta/how-to-make-your-first-contribution-as-a-beginner-in-open-source-5hkf",
-  "publish_date": "2021-05-25",
-  "published_at": "2021-05-25T06:09:00Z"
- },
- {
-  "id": 702464,
-  "title": "How to make passive income as a web developer in 2021?💸",
-  "description": "Want to know how to make passive income as a web developer? Then this article is for you. Here you'll...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---ZDhffXZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/saujs7bqth4wl9th9xwr.png",
-  "slug": "how-to-make-passive-income-as-a-web-developer-in-2021-5gjl",
-  "url": "https://dev.to/theme_selection/how-to-make-passive-income-as-a-web-developer-in-2021-5gjl",
-  "publish_date": "2021-05-25",
-  "published_at": "2021-05-25T05:02:11Z"
  }
 ]
