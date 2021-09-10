@@ -1,5 +1,55 @@
 [
  {
+  "id": 818753,
+  "title": "A Typewriter, but using a New HTML Tag",
+  "description": "So last time, I made a typewriter animation without HTML, CSS, nor Javascript. What happens if...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SHSLptzZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zlr182hm0e7d0i5mehtb.png",
+  "slug": "a-typewriter-but-using-a-new-html-tag-60i",
+  "url": "https://dev.to/auroratide/a-typewriter-but-using-a-new-html-tag-60i",
+  "publish_date": "2021-09-09",
+  "published_at": "2021-09-09T19:55:08Z"
+ },
+ {
+  "id": 818568,
+  "title": "🚀 React Landing Page Template Free with Tailwind CSS and TypeScript [Open source] ⚡️",
+  "description": "An open source and free React Landing Page template using TypeScript and Tailwind CSS. Perfect landing page for your SaaS, online products or services.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3-jYNw9e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ixartz/Next-JS-Landing-Page-Starter-Template/master/public/assets/images/nextjs-landing-page-banner.png",
+  "slug": "react-landing-page-template-free-with-tailwind-css-and-typescript-open-source-159",
+  "url": "https://dev.to/ixartz/react-landing-page-template-free-with-tailwind-css-and-typescript-open-source-159",
+  "publish_date": "2021-09-09",
+  "published_at": "2021-09-09T13:23:56Z"
+ },
+ {
+  "id": 818537,
+  "title": "How JavaScript Works🔥 🤖 [Visually Explained]",
+  "description": "JavaScript is one of the most loved and hated languages in the world. It is loved because it is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AC5E-9bo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eiz3o1fe8lx4okxtmi27.gif",
+  "slug": "how-javascript-works-visually-explained-269j",
+  "url": "https://dev.to/narottam04/how-javascript-works-visually-explained-269j",
+  "publish_date": "2021-09-09",
+  "published_at": "2021-09-09T12:39:39Z"
+ },
+ {
+  "id": 818453,
+  "title": "Styled Components",
+  "description": "I decided to bring the articles from my blog here to dev.to and following the order, the first...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M5X3RNVF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zwdimpbtbmtxac9i1gy0.png",
+  "slug": "styled-components-1oj8",
+  "url": "https://dev.to/static_pat/styled-components-1oj8",
+  "publish_date": "2021-09-09",
+  "published_at": "2021-09-09T08:56:04Z"
+ },
+ {
+  "id": 817629,
+  "title": "How to build a personalized image social sharing app with Cloudinary and Next.js",
+  "description": "Have you seen Contentful’s event website that generates customized and shareable ticket images that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7UfmtZmf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0tlz5ehxxdmkrqtqkum.png",
+  "slug": "how-to-build-a-personalized-image-social-sharing-app-with-cloudinary-and-next-js-2640",
+  "url": "https://dev.to/whitep4nth3r/how-to-build-a-personalized-image-social-sharing-app-with-cloudinary-and-next-js-2640",
+  "publish_date": "2021-09-09",
+  "published_at": "2021-09-09T05:57:44Z"
+ },
+ {
   "id": 817355,
   "title": "Every React Developer should know these libraries",
   "description": "Hey, Devs! I'm here to share some best React component libraries that are popular among developers...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rajatgangwani/react-js-how-where-to-start-best-way-to-learn-react-3n9l",
   "publish_date": "2021-06-02",
   "published_at": "2021-06-02T03:47:52Z"
- },
- {
-  "id": 714546,
-  "title": "Happy LGBTQIA+ Pride Month! ❤️ ",
-  "description": "Join us in collecting stories of LGBTQIA+ pride — and amplifying organizations doing important work in this space.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G3i02Hj5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvesygxqhasx3l5e4wcf.png",
-  "slug": "happy-lgbtqia-pride-month-1j7b",
-  "url": "https://dev.to/devteam/happy-lgbtqia-pride-month-1j7b",
-  "publish_date": "2021-06-01",
-  "published_at": "2021-06-01T15:56:55Z"
- },
- {
-  "id": 712896,
-  "title": "30+ Free eBooks for all developers",
-  "description": "If you found value in this thread you will most likely enjoy my tweets too so make sure you follow me...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JSLm9Yra--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1fiett8c50f21ql3wlsw.png",
-  "slug": "30-free-ebooks-for-all-developers-30pf",
-  "url": "https://dev.to/pascavld/30-free-ebooks-for-all-developers-30pf",
-  "publish_date": "2021-06-01",
-  "published_at": "2021-06-01T11:03:03Z"
- },
- {
-  "id": 714700,
-  "title": "5 mini-projects to sharpen your frontend development skills!",
-  "description": "Hi folks,   Frontend development is continuously evolving  with new technologies and frameworks. It i...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QMlLb1ga--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bygjtuac5ph3ngxd2wxd.png",
-  "slug": "5-mini-projects-to-sharpen-your-frontend-development-skills-5ghh",
-  "url": "https://dev.to/ms_yogii/5-mini-projects-to-sharpen-your-frontend-development-skills-5ghh",
-  "publish_date": "2021-06-01",
-  "published_at": "2021-06-01T10:47:33Z"
- },
- {
-  "id": 707192,
-  "title": "A Deep Dive Into Kubernetes Schema Validation",
-  "description": "Why run schema validation?   How do you ensure the stability of your Kubernetes clusters? Ho...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lwMfZgNO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m350kd0oye4nki5e8jc0.png",
-  "slug": "a-deep-dive-into-kubernetes-schema-validation-39ll",
-  "url": "https://dev.to/datreeio/a-deep-dive-into-kubernetes-schema-validation-39ll",
-  "publish_date": "2021-06-01",
-  "published_at": "2021-06-01T10:24:16Z"
- },
- {
-  "id": 714484,
-  "title": "I made 100 more CSS loaders for your next project",
-  "description": "not 100, not 200 but 300! Yes, a new collection and a total of 300 CSS loaders.   This time, I am goi...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JiGAK3tT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wy59msifcxnx3xkl5xs2.gif",
-  "slug": "i-made-100-more-css-loaders-for-your-next-project-4ioa",
-  "url": "https://dev.to/afif/i-made-100-more-css-loaders-for-your-next-project-4ioa",
-  "publish_date": "2021-06-01",
-  "published_at": "2021-06-01T10:15:30Z"
  }
 ]
