@@ -1,5 +1,55 @@
 [
  {
+  "id": 821591,
+  "title": "To the VSCode Extensions I Love the Most",
+  "description": "This certainly isn't the first time someone's made a list of their favorite VSCode extensions and it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wFgblMsa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7cp925lpa7dlp2dsp5so.jpeg",
+  "slug": "to-the-vscode-extensions-i-love-the-most-pce",
+  "url": "https://dev.to/arynnboniface/to-the-vscode-extensions-i-love-the-most-pce",
+  "publish_date": "2021-09-12",
+  "published_at": "2021-09-12T15:29:13Z"
+ },
+ {
+  "id": 821578,
+  "title": "Just passed 1MIllion views on Dev.to",
+  "description": "1million view (all time) views - Ty Dev",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3gYff6WR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/csu5e7humqcq0p4pnvp6.jpg",
+  "slug": "just-passed-1million-views-on-dev-to-1j07",
+  "url": "https://dev.to/sm0ke/just-passed-1million-views-on-dev-to-1j07",
+  "publish_date": "2021-09-12",
+  "published_at": "2021-09-12T15:14:31Z"
+ },
+ {
+  "id": 821319,
+  "title": "Using WebSockets with React",
+  "description": "For my last project, I had to use Websockets to create a website that displays real-time trading...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--afsNamPX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vjqlliryiusmipghddzb.jpg",
+  "slug": "using-websockets-with-react-50pi",
+  "url": "https://dev.to/muratcanyuksel/using-websockets-with-react-50pi",
+  "publish_date": "2021-09-12",
+  "published_at": "2021-09-12T07:15:20Z"
+ },
+ {
+  "id": 821210,
+  "title": "Ruby 3.1 – Shorthand Hash Syntax – First Impressions",
+  "description": "It's the time of year again, and with it comes a bundle of new Ruby 3.1 features getting approved and...",
+  "cover_image": "",
+  "slug": "ruby-3-1-shorthand-hash-syntax-first-impressions-19op",
+  "url": "https://dev.to/baweaver/ruby-3-1-shorthand-hash-syntax-first-impressions-19op",
+  "publish_date": "2021-09-12",
+  "published_at": "2021-09-12T05:09:51Z"
+ },
+ {
+  "id": 815761,
+  "title": "Top 5 IDE for Web Development🤩",
+  "description": "Nowadays every application, websites, machine are more user friendly with an awesome UX/UI. So it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ztYn2zL---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dvoiivqqp9tii26y5raq.png",
+  "slug": "top-5-ide-for-web-development-4df8",
+  "url": "https://dev.to/ug/top-5-ide-for-web-development-4df8",
+  "publish_date": "2021-09-12",
+  "published_at": "2021-09-12T04:38:24Z"
+ },
+ {
   "id": 820937,
   "title": "⌨️ An ACTUAL typewriter (that auto types and is interactive too!)  🤯 ",
   "description": "A bit late to the party but here is my silly entry for the typewriter wars!  And unlike everyone...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/fahimkabir/how-to-make-responsive-website-using-html-css-javascript-step-by-step-1ej2",
   "publish_date": "2021-06-05",
   "published_at": "2021-06-05T04:27:55Z"
- },
- {
-  "id": 716834,
-  "title": "🚀10 Trending projects on GitHub for web developers - 4th June 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-4th-june-2021-4j1b",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-4th-june-2021-4j1b",
-  "publish_date": "2021-06-04",
-  "published_at": "2021-06-04T13:47:34Z"
- },
- {
-  "id": 717897,
-  "title": "Awesome loading animation you have never seen it before.",
-  "description": "Hello, glad you are here. I am kunaal and today we will see how to make an awesome loading animation...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---K4k3RF0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iny0sghkhrcq87917ax7.png",
-  "slug": "how-to-make-this-awesome-loading-animation-136l",
-  "url": "https://dev.to/kunaal438/how-to-make-this-awesome-loading-animation-136l",
-  "publish_date": "2021-06-04",
-  "published_at": "2021-06-04T11:47:27Z"
- },
- {
-  "id": 717934,
-  "title": "52 responsive snippets to create a website for your project",
-  "description": "Hi everyone. I made 52 responsive snippets that can help you to build website for your project, portf...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T5MpqQ3S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmcwnbjhl2rucka5c121.png",
-  "slug": "52-responsive-snippets-to-create-a-website-for-your-project-51e6",
-  "url": "https://dev.to/przemek/52-responsive-snippets-to-create-a-website-for-your-project-51e6",
-  "publish_date": "2021-06-04",
-  "published_at": "2021-06-04T10:34:57Z"
- },
- {
-  "id": 715066,
-  "title": "This article has 36 positive reactions and 16 comments",
-  "description": "TL;DR   Using the DEV API the title of this article gets automatically updated every 60 seco...",
-  "cover_image": "",
-  "slug": "this-article-has-positive-reactions-and-comments-ol3",
-  "url": "https://dev.to/visuellverstehen/this-article-has-positive-reactions-and-comments-ol3",
-  "publish_date": "2021-06-04",
-  "published_at": "2021-06-04T07:43:51Z"
- },
- {
-  "id": 717561,
-  "title": "How I built a SaaS with Next.js in a week",
-  "description": "I built Cusdis in April 2021, an open-source, light-weight, privacy-friendly alternative to Disqus. I...",
-  "cover_image": "",
-  "slug": "how-i-built-a-saas-with-next-js-in-a-week-3jli",
-  "url": "https://dev.to/djyde/how-i-built-a-saas-with-next-js-in-a-week-3jli",
-  "publish_date": "2021-06-04",
-  "published_at": "2021-06-04T01:37:01Z"
  }
 ]
