@@ -1,5 +1,55 @@
 [
  {
+  "id": 830456,
+  "title": "6 use cases of the useEffect ReactJS hook",
+  "description": "Whenever we need to make use of side effects in our application, useEffect is the way to go. This...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Gl_PT4Xo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sshznzv6g3hnbvj89lvi.png",
+  "slug": "6-use-cases-of-the-useeffect-reactjs-hook-282o",
+  "url": "https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o",
+  "publish_date": "2021-09-18",
+  "published_at": "2021-09-18T10:40:41Z"
+ },
+ {
+  "id": 830442,
+  "title": "Material-UI is now MUI",
+  "description": "What is Material-UI (MUI React)?   Do you know React.js? If yes, then 90% chance you know...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sUqklOso--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zc59l9gacm25eavkss3g.png",
+  "slug": "material-ui-is-now-mui-1o9h",
+  "url": "https://dev.to/rakesh_nakrani/material-ui-is-now-mui-1o9h",
+  "publish_date": "2021-09-18",
+  "published_at": "2021-09-18T10:39:53Z"
+ },
+ {
+  "id": 830447,
+  "title": "JavaScript Objects ",
+  "description": "Hey developers 👋🏻, in this blog we will be discussing about JavaScript Objects.           Topics...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RaTKu8nT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/te1nx05dhxkjzxksdnhv.png",
+  "slug": "javascript-objects-57ob",
+  "url": "https://dev.to/shreyazz/javascript-objects-57ob",
+  "publish_date": "2021-09-18",
+  "published_at": "2021-09-18T10:25:32Z"
+ },
+ {
+  "id": 830312,
+  "title": "6 Tips and Tricks Every Developer Should Know in Visual Studio Code 🤩",
+  "description": "One of the most common text editors used by developers is Visual Studio Code. Microsoft created it to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ygf2hxnB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bd6m4d0j0qlxi8fztn0p.png",
+  "slug": "6-tips-and-tricks-every-developer-should-know-in-visual-studio-code-48mo",
+  "url": "https://dev.to/zahab/6-tips-and-tricks-every-developer-should-know-in-visual-studio-code-48mo",
+  "publish_date": "2021-09-18",
+  "published_at": "2021-09-18T06:16:23Z"
+ },
+ {
+  "id": 830290,
+  "title": "Everything you need to know about an API",
+  "description": "So what exactly is an API?   An API (Application Programming Interface) is a set of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SW55ywZN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ehdk7b3sd8770v1z1mib.png",
+  "slug": "everything-you-need-to-know-about-an-api-2oph",
+  "url": "https://dev.to/abhirajb/everything-you-need-to-know-about-an-api-2oph",
+  "publish_date": "2021-09-18",
+  "published_at": "2021-09-18T05:19:52Z"
+ },
+ {
   "id": 799604,
   "title": "JavaScript vs JavaScript: Round 2. Fight!",
   "description": "After I finished the first article I wasn't sure how long it would be before we'd have enough topics...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd",
   "publish_date": "2021-06-11",
   "published_at": "2021-06-11T00:39:51Z"
- },
- {
-  "id": 724329,
-  "title": "Imba - a JavaScript alternative for increased developer productivity",
-  "description": "Quick introduction to the major new version of Imba",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--23w-uwL5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://user-images.githubusercontent.com/8467/121170829-074a8900-c856-11eb-88d9-d4a922c24893.png",
-  "slug": "imba-a-javascript-alternative-for-increased-developer-productivity-49c9",
-  "url": "https://dev.to/somebee/imba-a-javascript-alternative-for-increased-developer-productivity-49c9",
-  "publish_date": "2021-06-10",
-  "published_at": "2021-06-10T13:39:46Z"
- },
- {
-  "id": 723042,
-  "title": "How do you stay up to date with the latest developments in tech? ",
-  "description": "Newbie looking for guidance here - I feel like the more I learn, the more I realise what I don’t know...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dSWfoRV7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oax4oet8phu25qlcbr8d.png",
-  "slug": "how-do-you-stay-up-to-date-with-the-latest-developments-in-tech-3a0d",
-  "url": "https://dev.to/s2engineers/how-do-you-stay-up-to-date-with-the-latest-developments-in-tech-3a0d",
-  "publish_date": "2021-06-10",
-  "published_at": "2021-06-10T08:29:11Z"
- },
- {
-  "id": 723962,
-  "title": "Learn React with one BIG Project [NOTES included] - Demo and Video Link",
-  "description": "Hey guys,  I created a full fledged video to help others in learning React with ease.  The video incl...",
-  "cover_image": "",
-  "slug": "learn-react-with-one-big-project-notes-included-demo-and-video-link-4fe5",
-  "url": "https://dev.to/thenerdydev/learn-react-with-one-big-project-notes-included-demo-and-video-link-4fe5",
-  "publish_date": "2021-06-10",
-  "published_at": "2021-06-10T06:42:27Z"
- },
- {
-  "id": 723845,
-  "title": "How to Give Better Code Reviews",
-  "description": "Code review is a skill and it takes practice. But there are some things you should know up front.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---RgzrpXc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lp1sxl0kcvfovd5ctlmy.jpeg",
-  "slug": "how-to-give-better-code-reviews-3jik",
-  "url": "https://dev.to/laurieontech/how-to-give-better-code-reviews-3jik",
-  "publish_date": "2021-06-10",
-  "published_at": "2021-06-10T03:23:34Z"
- },
- {
-  "id": 723840,
-  "title": "React 18: Terms and Functionality",
-  "description": "The React team has been hard at work for over a year. React is changing yet again, and it's time to start learning where it's going next.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rgO-CNm2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4scg1uq6jh6req28sbon.png",
-  "slug": "react-18-terms-and-functionality-165l",
-  "url": "https://dev.to/laurieontech/react-18-terms-and-functionality-165l",
-  "publish_date": "2021-06-10",
-  "published_at": "2021-06-10T03:21:14Z"
  }
 ]
