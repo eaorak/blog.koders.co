@@ -1,5 +1,55 @@
 [
  {
+  "id": 831510,
+  "title": "Deploy a React App on AWS Lightsail: Testing, Docker, Docker Compose, Nginx \u0026 Github Actions ",
+  "description": "So you have written your React Application and you are ready to deploy it?  Although there are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A3iVoRF1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/okmyeyu8at68j5u7d10c.png",
+  "slug": "deploy-a-react-app-on-aws-lightsail-testing-docker-docker-compose-nginx-github-actions-4lb5",
+  "url": "https://dev.to/koladev/deploy-a-react-app-on-aws-lightsail-testing-docker-docker-compose-nginx-github-actions-4lb5",
+  "publish_date": "2021-09-19",
+  "published_at": "2021-09-19T16:17:07Z"
+ },
+ {
+  "id": 831176,
+  "title": "20 Killer JavaScript One Liners ☝️",
+  "description": "Hello Folks 👋   This is Savio here. I'm young dev with an intention to enhance as a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OTXlp3iC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pz7l6wjto5nc2lrmcfi3.jpg",
+  "slug": "20-killer-javascript-one-liners-94f",
+  "url": "https://dev.to/saviomartin/20-killer-javascript-one-liners-94f",
+  "publish_date": "2021-09-19",
+  "published_at": "2021-09-19T08:47:44Z"
+ },
+ {
+  "id": 830884,
+  "title": "Load balancer - 101",
+  "description": "Okay,Now What's a Load-Balancer?? 🙄   As the name suggest it has something to do with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MbbWWcjA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f3i0crmsfsrz5dpawnwi.png",
+  "slug": "load-balancer-101-4jl9",
+  "url": "https://dev.to/uzairali10/load-balancer-101-4jl9",
+  "publish_date": "2021-09-19",
+  "published_at": "2021-09-19T06:57:49Z"
+ },
+ {
+  "id": 830980,
+  "title": "Next-Gen Way to Connect Redux Store to React Component",
+  "description": "Redux is one of the widely used State Management Solutions in React Applications. Even though it has...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lTuGrz-o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/la7ghllvzp2hcjaahht6.png",
+  "slug": "next-gen-way-to-connect-redux-store-to-react-component-5b57",
+  "url": "https://dev.to/ruppysuppy/next-gen-way-to-connect-redux-store-to-react-component-5b57",
+  "publish_date": "2021-09-19",
+  "published_at": "2021-09-19T05:02:28Z"
+ },
+ {
+  "id": 821240,
+  "title": "How to make Pdf in React, Next js quickly\n",
+  "description": "I have some data, and I'd like to make a PDF file for that data. How can I make a PDF file as a quick...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--muebhd0P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eafwe36qqxj2vxltxx2k.jpeg",
+  "slug": "how-to-make-pdf-in-react-next-js-quickly-9o8",
+  "url": "https://dev.to/thangphan37/how-to-make-pdf-in-react-next-js-quickly-9o8",
+  "publish_date": "2021-09-19",
+  "published_at": "2021-09-19T02:50:16Z"
+ },
+ {
   "id": 830456,
   "title": "6 use cases of the useEffect ReactJS hook",
   "description": "Whenever we need to make use of side effects in our application, useEffect is the way to go. This...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/krowser/8-things-i-wish-i-knew-as-a-junior-developer-29di",
   "publish_date": "2021-06-12",
   "published_at": "2021-06-12T03:30:39Z"
- },
- {
-  "id": 724355,
-  "title": "🚀10 Trending projects on GitHub for web developers - 11th June 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to ensu...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-11th-june-2021-772",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-11th-june-2021-772",
-  "publish_date": "2021-06-11",
-  "published_at": "2021-06-11T14:00:56Z"
- },
- {
-  "id": 725067,
-  "title": "4 Tips for JavaScript 2021 to write optimized code",
-  "description": "tips for JavaScript 2021 to write optimized code   JavaScript is the front-hand language as...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vHl326sF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tuw42hzqnom5k4nmuyju.jpeg",
-  "slug": "4-tips-for-javascript-2021-to-write-optimized-code-3ih",
-  "url": "https://dev.to/animeshdhanuk/4-tips-for-javascript-2021-to-write-optimized-code-3ih",
-  "publish_date": "2021-06-11",
-  "published_at": "2021-06-11T09:49:51Z"
- },
- {
-  "id": 724910,
-  "title": "My Secret Design Resources",
-  "description": "Hey Everyone!  here i have awesome design resources i use in day-to-day life.           Colors    Col...",
-  "cover_image": "",
-  "slug": "my-secret-design-resources-27f4",
-  "url": "https://dev.to/innocentcoder/my-secret-design-resources-27f4",
-  "publish_date": "2021-06-11",
-  "published_at": "2021-06-11T05:47:35Z"
- },
- {
-  "id": 724906,
-  "title": "7 JavaScript Projects For Beginners",
-  "description": "JavaScript Projects for Beginners   This is the best way to learn a new programming language...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yjmonBFc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxqw46altz91onl6icsx.png",
-  "slug": "7-javascript-projects-for-beginners-d3m",
-  "url": "https://dev.to/fahimkabir/7-javascript-projects-for-beginners-d3m",
-  "publish_date": "2021-06-11",
-  "published_at": "2021-06-11T05:35:51Z"
- },
- {
-  "id": 707058,
-  "title": "React Cheat sheet (Updated June 2021)",
-  "description": "I don't use React often and so whenever I need to do even the smallest thing in React, I have to chec...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JeM7K_XV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r3ui703pme0meo82pu5o.png",
-  "slug": "react-cheat-sheet-updated-may-2021-1mcd",
-  "url": "https://dev.to/ericchapman/react-cheat-sheet-updated-may-2021-1mcd",
-  "publish_date": "2021-06-11",
-  "published_at": "2021-06-11T00:39:51Z"
  }
 ]
