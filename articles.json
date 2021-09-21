@@ -1,5 +1,55 @@
 [
  {
+  "id": 832847,
+  "title": "Why do Webdevs keep trying to kill REST? ",
+  "description": "How I broke out of the tiresome REST vs GraphQL debate - by realizing that the real battle is between Smart Clients and Smart Servers!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KTvRVE3w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uqbmd7yo8iwhmttuq0np.png",
+  "slug": "why-do-webdevs-keep-trying-to-kill-rest-j2j",
+  "url": "https://dev.to/swyx/why-do-webdevs-keep-trying-to-kill-rest-j2j",
+  "publish_date": "2021-09-20",
+  "published_at": "2021-09-20T14:46:38Z"
+ },
+ {
+  "id": 831802,
+  "title": "Software Engineering is a Loser’s Game",
+  "description": "I’ve recently become fascinated by the idea of “winner’s games” and “loser’s games.” There are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wbKutM0y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhx58j0z8n9z02emolta.jpeg",
+  "slug": "software-engineering-is-a-loser-s-game-2k20",
+  "url": "https://dev.to/thawkin3/software-engineering-is-a-loser-s-game-2k20",
+  "publish_date": "2021-09-20",
+  "published_at": "2021-09-20T09:53:40Z"
+ },
+ {
+  "id": 832489,
+  "title": "Progressing from a beginner to intermediate developer",
+  "description": "So, you're not a complete beginner anymore: You've built a few webpages, learned the basics of HTML,...",
+  "cover_image": "",
+  "slug": "progressing-from-a-beginner-to-intermediate-developer-2jk1",
+  "url": "https://dev.to/npmrundev/progressing-from-a-beginner-to-intermediate-developer-2jk1",
+  "publish_date": "2021-09-20",
+  "published_at": "2021-09-20T08:14:04Z"
+ },
+ {
+  "id": 829383,
+  "title": "Create and publish your own React library",
+  "description": "Table Of Contents    Chapter #1 Create your library with create-react-library Chapter #2...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T5nRud86--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kr35z8d44hlcq85s076k.png",
+  "slug": "create-and-publish-your-own-react-library-3cc8",
+  "url": "https://dev.to/bornfightcompany/create-and-publish-your-own-react-library-3cc8",
+  "publish_date": "2021-09-20",
+  "published_at": "2021-09-20T07:28:27Z"
+ },
+ {
+  "id": 832018,
+  "title": "Array.map() Method in JavaScript 🚀",
+  "description": "Hello, guys today we are covering one of the most important topic.  Today we are learning map()...",
+  "cover_image": "",
+  "slug": "array-map-method-in-javascript-2fi",
+  "url": "https://dev.to/dev_shubham/array-map-method-in-javascript-2fi",
+  "publish_date": "2021-09-20",
+  "published_at": "2021-09-20T05:43:21Z"
+ },
+ {
   "id": 831510,
   "title": "Deploy a React App on AWS Lightsail: Testing, Docker, Docker Compose, Nginx \u0026 Github Actions ",
   "description": "So you have written your React Application and you are ready to deploy it?  Although there are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/krowser/how-to-become-a-senior-developer-20po",
   "publish_date": "2021-06-13",
   "published_at": "2021-06-13T00:52:42Z"
- },
- {
-  "id": 726270,
-  "title": "🔥🔥😮 Fully responsive modern product page. Only Css",
-  "description": "Hello, glad you are here. I am kunaal and today we will see how to make an awesome fully responsive...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PlXmJxQx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0f9hso7oe61uil1xmw5w.png",
-  "slug": "awesome-fully-responsive-modern-product-listing-only-css-em",
-  "url": "https://dev.to/kunaal438/awesome-fully-responsive-modern-product-listing-only-css-em",
-  "publish_date": "2021-06-12",
-  "published_at": "2021-06-12T11:49:20Z"
- },
- {
-  "id": 726096,
-  "title": "Tips For Using Async/Await - Write Better JavaScript!",
-  "description": "There’s a special syntax to work with promises in a more comfortable fashion, called “async/await”. It’s surprisingly easy to understand and use.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TswGU8Iv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwljgpmhqrthvujmw8iv.png",
-  "slug": "tips-for-using-async-await-write-better-javascript-d9h",
-  "url": "https://dev.to/milindsoorya/tips-for-using-async-await-write-better-javascript-d9h",
-  "publish_date": "2021-06-12",
-  "published_at": "2021-06-12T08:55:52Z"
- },
- {
-  "id": 726071,
-  "title": "15 Python Projects For Beginners",
-  "description": "Python Projects For Beginners   The best way to learn any new programming language easily is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XLkzy88i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v25w9piri3khxu7nm0p3.png",
-  "slug": "15-python-projects-for-beginners-4j4f",
-  "url": "https://dev.to/fahimkabir/15-python-projects-for-beginners-4j4f",
-  "publish_date": "2021-06-12",
-  "published_at": "2021-06-12T06:24:01Z"
- },
- {
-  "id": 720520,
-  "title": "The Hells Every Developer Experiences",
-  "description": "Every programmer has a tale to share about vicious cycles in their life. Here are a few common forms...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3D5DoaPp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3sn6sm68ra5jbz4mbtqs.jpg",
-  "slug": "16-eternal-hells-of-programming-5h5g",
-  "url": "https://dev.to/wadecodez/16-eternal-hells-of-programming-5h5g",
-  "publish_date": "2021-06-12",
-  "published_at": "2021-06-12T04:13:07Z"
- },
- {
-  "id": 725743,
-  "title": "8 Things I wish I knew as a Junior Developer",
-  "description": "Being a junior developer is not easy. You have a lot of work to do, and you're expected to know...",
-  "cover_image": "",
-  "slug": "8-things-i-wish-i-knew-as-a-junior-developer-29di",
-  "url": "https://dev.to/krowser/8-things-i-wish-i-knew-as-a-junior-developer-29di",
-  "publish_date": "2021-06-12",
-  "published_at": "2021-06-12T03:30:39Z"
  }
 ]
