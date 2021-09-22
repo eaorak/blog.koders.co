@@ -1,5 +1,55 @@
 [
  {
+  "id": 833659,
+  "title": "Building a User Login System with Express js and Fauna",
+  "description": "In this article, I’ll show you how to build a user login system with the node framework express.js...",
+  "cover_image": "",
+  "slug": "building-a-user-login-system-with-express-js-and-fauna-4p32",
+  "url": "https://dev.to/sodiq123/building-a-user-login-system-with-express-js-and-fauna-4p32",
+  "publish_date": "2021-09-21",
+  "published_at": "2021-09-21T08:50:05Z"
+ },
+ {
+  "id": 828605,
+  "title": "✨ 7 Tips \u0026 tricks to make your console.log() output stand out",
+  "description": "1. Styling your console.log   Is this necessary? Probably not, but if you want to leave an...",
+  "cover_image": "",
+  "slug": "7-tips-tricks-to-make-your-console-log-output-stand-out-389g",
+  "url": "https://dev.to/stefirosca/7-tips-tricks-to-make-your-console-log-output-stand-out-389g",
+  "publish_date": "2021-09-21",
+  "published_at": "2021-09-21T08:45:51Z"
+ },
+ {
+  "id": 833491,
+  "title": "Connect deprecation step 1: Listings",
+  "description": "As previously announced we're sunsetting Connect. As a first step in this direction it will now no...",
+  "cover_image": "",
+  "slug": "connect-deprecation-step-1-listings-d4f",
+  "url": "https://dev.to/devteam/connect-deprecation-step-1-listings-d4f",
+  "publish_date": "2021-09-21",
+  "published_at": "2021-09-21T07:23:45Z"
+ },
+ {
+  "id": 833478,
+  "title": "Top Free React Dashboards to Use for Your Next Project",
+  "description": "It is not necessary to spend a lot of money to create a professional-looking dashboard for your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LtTSgFZk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aig17uuvxt25rorbm87u.png",
+  "slug": "top-free-react-dashboards-to-use-for-your-next-project-4de9",
+  "url": "https://dev.to/suhailkakar/top-free-react-dashboards-to-use-for-your-next-project-4de9",
+  "publish_date": "2021-09-21",
+  "published_at": "2021-09-21T06:56:32Z"
+ },
+ {
+  "id": 833466,
+  "title": "Great VSCode extensions for JS Developers",
+  "description": "Hey everyone, welcome to my first post here on DEV Community!   In this post I will be...",
+  "cover_image": "",
+  "slug": "great-vscode-extensions-for-js-developers-5fj5",
+  "url": "https://dev.to/insidiousthedev/great-vscode-extensions-for-js-developers-5fj5",
+  "publish_date": "2021-09-21",
+  "published_at": "2021-09-21T06:27:36Z"
+ },
+ {
   "id": 832847,
   "title": "Why do Webdevs keep trying to kill REST? ",
   "description": "How I broke out of the tiresome REST vs GraphQL debate - by realizing that the real battle is between Smart Clients and Smart Servers!",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devdefinitive/25-git-commands-i-use-daily-and-you-should-know-1kj5",
   "publish_date": "2021-06-14",
   "published_at": "2021-06-14T02:05:04Z"
- },
- {
-  "id": 654158,
-  "title": "How I structure my mid-size NextJs projects",
-  "description": "As you know React is not an opinionated library. What that means is that there is no clearly defined...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ftzspy_W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ysttss61p7gaum0zyx7m.png",
-  "slug": "how-i-structure-my-nextjs-projects-5n8",
-  "url": "https://dev.to/josemukorivo/how-i-structure-my-nextjs-projects-5n8",
-  "publish_date": "2021-06-13",
-  "published_at": "2021-06-13T08:44:19Z"
- },
- {
-  "id": 726616,
-  "title": "Master Binary in Five Minutes",
-  "description": "Binary is the very core of everything digital, not only in web development, but literally everything:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TJqhdNdC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/snnepdaahjijw46qx3z8.jpg",
-  "slug": "master-binary-in-five-minutes-2lj5",
-  "url": "https://dev.to/valeriavg/master-binary-in-five-minutes-2lj5",
-  "publish_date": "2021-06-13",
-  "published_at": "2021-06-13T08:37:41Z"
- },
- {
-  "id": 715221,
-  "title": "CSS for large projects",
-  "description": "CSS for large projects     This is the content I prepared for my youtube channel's...",
-  "cover_image": "",
-  "slug": "css-for-large-projects-cmi",
-  "url": "https://dev.to/hellonehha/css-for-large-projects-cmi",
-  "publish_date": "2021-06-13",
-  "published_at": "2021-06-13T06:50:19Z"
- },
- {
-  "id": 726775,
-  "title": "Back to Basic: Should we use Rem, Em or Pixel?",
-  "description": "Using Rem and Em units is better than using px.   When we use px, it means that we hardcode the...",
-  "cover_image": "",
-  "slug": "back-to-basic-should-we-use-rem-em-or-pixel-1hd0",
-  "url": "https://dev.to/theodorusclarence/back-to-basic-should-we-use-rem-em-or-pixel-1hd0",
-  "publish_date": "2021-06-13",
-  "published_at": "2021-06-13T05:05:59Z"
- },
- {
-  "id": 726267,
-  "title": "How to become a Senior Developer",
-  "description": "The Road From Junior to Senior Developer.  Being a programmer is a great thing. For me, there’s...",
-  "cover_image": "",
-  "slug": "how-to-become-a-senior-developer-20po",
-  "url": "https://dev.to/krowser/how-to-become-a-senior-developer-20po",
-  "publish_date": "2021-06-13",
-  "published_at": "2021-06-13T00:52:42Z"
  }
 ]
