@@ -1,5 +1,55 @@
 [
  {
+  "id": 836871,
+  "title": "7 useful HTML attributes you may not know",
+  "description": "HTML is the cornerstone of web development. Yet, many aspiring programmers merely skim the surface...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u2cHB2AP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qn7nq258kamad95f2evo.gif",
+  "slug": "7-useful-html-attributes-you-may-not-know-7mn",
+  "url": "https://dev.to/simonpaix/7-useful-html-attributes-you-may-not-know-7mn",
+  "publish_date": "2021-09-22",
+  "published_at": "2021-09-22T15:28:51Z"
+ },
+ {
+  "id": 835909,
+  "title": "Three New Next.js Features and How to Use Them",
+  "description": "AWS Amplify recently added support for Next.js 10 features, including incremental static...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZX3X_d5J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z0xksqpxceizjvp67eg3.png",
+  "slug": "three-new-next-js-features-and-how-to-use-them-1d3d",
+  "url": "https://dev.to/aspittel/three-new-next-js-features-and-how-to-use-them-1d3d",
+  "publish_date": "2021-09-22",
+  "published_at": "2021-09-22T15:00:55Z"
+ },
+ {
+  "id": 836866,
+  "title": "How my open source project got angel investment from a user itself!",
+  "description": "Let's admit it, open source can be overwhelming when it comes to finding support financially.  Today,...",
+  "cover_image": "",
+  "slug": "how-my-open-source-project-got-angel-investment-from-its-user-12dp",
+  "url": "https://dev.to/o1lab/how-my-open-source-project-got-angel-investment-from-its-user-12dp",
+  "publish_date": "2021-09-22",
+  "published_at": "2021-09-22T14:37:11Z"
+ },
+ {
+  "id": 836577,
+  "title": "Best Node.js apps examples to inspire your next project",
+  "description": "Fast, flexible, comfortable to work with — these are just a few words Node.js developers use to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U4_kzhVp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3tiz1soacb677fx6xf3s.png",
+  "slug": "best-node-js-apps-examples-to-inspire-your-next-project-3bkh",
+  "url": "https://dev.to/forestadmin/best-node-js-apps-examples-to-inspire-your-next-project-3bkh",
+  "publish_date": "2021-09-22",
+  "published_at": "2021-09-22T12:04:29Z"
+ },
+ {
+  "id": 836526,
+  "title": "PHP libraries and tools",
+  "description": "Introduction   We want the new project we are starting at Filmin to be robust. Therefore,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ERwdI6Rg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5oavwb5tomh8mmn52bt1.jpg",
+  "slug": "php-libraries-and-tools-3blf",
+  "url": "https://dev.to/filmineng/php-libraries-and-tools-3blf",
+  "publish_date": "2021-09-22",
+  "published_at": "2021-09-22T10:10:25Z"
+ },
+ {
   "id": 833659,
   "title": "Building a User Login System with Express js and Fauna",
   "description": "In this article, I’ll show you how to build a user login system with the node framework express.js...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/siddharthshyniben/i-m-switching-to-vim-867",
   "publish_date": "2021-06-15",
   "published_at": "2021-06-15T05:07:12Z"
- },
- {
-  "id": 726344,
-  "title": "`at` coming soon to ECMAScript",
-  "description": " Another new proposal for ECMAScript addition, giving you the ability to cleanly access array elements using negative indices.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jqx4Bb8k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8p71l33qbde5fnuu40o.png",
-  "slug": "at-coming-soon-to-ecmascript-1k91",
-  "url": "https://dev.to/laurieontech/at-coming-soon-to-ecmascript-1k91",
-  "publish_date": "2021-06-14",
-  "published_at": "2021-06-14T14:41:59Z"
- },
- {
-  "id": 727767,
-  "title": "15+ Fantastic React UI Libraries to Consider for your Project",
-  "description": "React is a very popular JavaScript library for building User Interfaces. Using React makes the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_Zt09OZS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5zvvlh36efxlukjizgv.png",
-  "slug": "15-fantastic-react-ui-libraries-to-consider-for-your-project-3iio",
-  "url": "https://dev.to/ubahthebuilder/15-fantastic-react-ui-libraries-to-consider-for-your-project-3iio",
-  "publish_date": "2021-06-14",
-  "published_at": "2021-06-14T09:46:13Z"
- },
- {
-  "id": 726398,
-  "title": "Data visualization: Creating charts using REST API's in React.js",
-  "description": "In our previous post of the series we have created the REST API's in Mojolicious  The swagger ui is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZIs__wCW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m1xcjnzl4cv4tyjufgk1.png",
-  "slug": "data-visualization-creating-charts-using-rest-api-s-in-react-js-fmi",
-  "url": "https://dev.to/raigaurav/data-visualization-creating-charts-using-rest-api-s-in-react-js-fmi",
-  "publish_date": "2021-06-14",
-  "published_at": "2021-06-14T05:05:09Z"
- },
- {
-  "id": 724778,
-  "title": "28 Websites paying to write Technical Articles",
-  "description": "With the world depending on the web for data, there are numerous chances to bring in cash as an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_X-vfZUL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3b9a82fb2gol0d4qm52r.gif",
-  "slug": "28-websites-paying-to-write-technical-articles-4a31",
-  "url": "https://dev.to/codinglistsdev/28-websites-paying-to-write-technical-articles-4a31",
-  "publish_date": "2021-06-14",
-  "published_at": "2021-06-14T03:03:04Z"
- },
- {
-  "id": 717676,
-  "title": "25 Git commands I use daily and you should know",
-  "description": "Git is a significant piece of day by day programming and is normally utilized in the product...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zoBzMyS5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm2p9ezqdmje2l90y593.png",
-  "slug": "25-git-commands-i-use-daily-and-you-should-know-1kj5",
-  "url": "https://dev.to/devdefinitive/25-git-commands-i-use-daily-and-you-should-know-1kj5",
-  "publish_date": "2021-06-14",
-  "published_at": "2021-06-14T02:05:04Z"
  }
 ]
