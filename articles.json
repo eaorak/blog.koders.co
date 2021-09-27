@@ -1,5 +1,55 @@
 [
  {
+  "id": 840656,
+  "title": "Blockchain 101 (and the protocols that use it)",
+  "description": "A basic introduction to blockchain, bitcoin, ethereum, and smart contracts",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZEFCE71T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.freepik.com/free-photo/cryptocurrency-coins-dark-surface-blockchain-money_136875-2117.jpg",
+  "slug": "blockchain-101-and-the-protocols-that-use-it-527p",
+  "url": "https://dev.to/techgirl1908/blockchain-101-and-the-protocols-that-use-it-527p",
+  "publish_date": "2021-09-26",
+  "published_at": "2021-09-26T18:42:33Z"
+ },
+ {
+  "id": 841176,
+  "title": "How to implement Google Authentication in your React Applications!! ",
+  "description": "Intro   Hey ya folks! Have you ever wondered how to implement Google Authentication in your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Trn7R3RH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v0xl64ncxqgou1b7iq67.png",
+  "slug": "how-to-implement-google-authentication-in-your-react-applications-jb6",
+  "url": "https://dev.to/shaan_alam/how-to-implement-google-authentication-in-your-react-applications-jb6",
+  "publish_date": "2021-09-26",
+  "published_at": "2021-09-26T14:44:46Z"
+ },
+ {
+  "id": 840850,
+  "title": "How to ensure the highest quality of Software code",
+  "description": "TL;DR: By following best industry practices like linting, unit testing, static code analysis and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KM-M3aSO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t05ipvoixkrha72iwp0p.jpg",
+  "slug": "how-to-ensures-highest-quality-of-software-4917",
+  "url": "https://dev.to/someshthakur/how-to-ensures-highest-quality-of-software-4917",
+  "publish_date": "2021-09-26",
+  "published_at": "2021-09-26T09:20:36Z"
+ },
+ {
+  "id": 818459,
+  "title": "Skeleton Loading for Social Media Embeds using CSS and JavaScript 🔥",
+  "description": "Note: This post is inspired by Web Dev Simplified.   Social media embeds take some time to load and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7xYy9hyW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jkrmh4fwfabalgit92x.jpg",
+  "slug": "skeleton-loading-for-social-media-embeds-using-css-and-javascript-4njb",
+  "url": "https://dev.to/murtuzaalisurti/skeleton-loading-for-social-media-embeds-using-css-and-javascript-4njb",
+  "publish_date": "2021-09-26",
+  "published_at": "2021-09-26T08:56:15Z"
+ },
+ {
+  "id": 840056,
+  "title": "Setup ESLINT and PRETTIER in React app",
+  "description": "Setting up ESlint and Prettier is tedious for beginners, I know this because I have faced this issue...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NyxC0W9N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jrevafh3he8x2p0p47jn.png",
+  "slug": "setup-eslint-and-prettier-in-react-app-357b",
+  "url": "https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b",
+  "publish_date": "2021-09-26",
+  "published_at": "2021-09-26T02:28:39Z"
+ },
+ {
   "id": 839096,
   "title": "I wrote a fully-functioning File Explorer, using TypeScript.",
   "description": "I am very happy to introduce Xplorer to help you organize your files and/or folders.           ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rezaulkarim/5-resource-to-enrich-your-front-end-skills-38nk",
   "publish_date": "2021-06-19",
   "published_at": "2021-06-19T04:56:55Z"
- },
- {
-  "id": 730741,
-  "title": "🚀10 Trending projects on GitHub for web developers - 18th June 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-18th-june-2021-34d1",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-18th-june-2021-34d1",
-  "publish_date": "2021-06-18",
-  "published_at": "2021-06-18T15:11:19Z"
- },
- {
-  "id": 731855,
-  "title": "Top Courses To Learn JAVASCRIPT",
-  "description": "Free And Best...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1VS-VBfH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ozwrvtz18mjv930j7pwg.gif",
-  "slug": "top-courses-to-learn-javascript-43ah",
-  "url": "https://dev.to/amritanshu/top-courses-to-learn-javascript-43ah",
-  "publish_date": "2021-06-18",
-  "published_at": "2021-06-18T08:27:55Z"
- },
- {
-  "id": 731724,
-  "title": "Dark mode toggle animation using CSS !",
-  "description": "This tutorial will mainly focus on how to use transitions in CSS and make a toggle button for light...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hf-x0tlb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8pegf93lrj9imvgqm4nd.gif",
-  "slug": "dark-mode-toggle-animation-using-css-27il",
-  "url": "https://dev.to/murtuzaalisurti/dark-mode-toggle-animation-using-css-27il",
-  "publish_date": "2021-06-18",
-  "published_at": "2021-06-18T06:36:03Z"
- },
- {
-  "id": 731736,
-  "title": "How to Display Formatted Date in JavaScript Without Using Any External Library",
-  "description": "In most of the applications, we need to display a formatted date like 18 June 2021 or 06/18/2021...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V8tfjo8---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/do5epgq84jharkca859n.png",
-  "slug": "how-to-display-formatted-date-in-javascript-without-using-any-external-library-1n2m",
-  "url": "https://dev.to/myogeshchavan97/how-to-display-formatted-date-in-javascript-without-using-any-external-library-1n2m",
-  "publish_date": "2021-06-18",
-  "published_at": "2021-06-18T06:01:21Z"
- },
- {
-  "id": 729568,
-  "title": "Clean Up Your Imports using Absolute Imports \u0026 Alias on React apps (Next.js, CRA, and React-Vite)",
-  "description": "Absolute Import is a great way to clean up your imports   Setting up absolute imports can be a lot...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KTuW5_nm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/786hckl1upjo367su5rv.png",
-  "slug": "clean-up-your-imports-using-absolute-imports-alias-on-react-apps-next-js-cra-and-react-vite-2160",
-  "url": "https://dev.to/theodorusclarence/clean-up-your-imports-using-absolute-imports-alias-on-react-apps-next-js-cra-and-react-vite-2160",
-  "publish_date": "2021-06-18",
-  "published_at": "2021-06-18T05:02:18Z"
  }
 ]
