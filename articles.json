@@ -1,5 +1,55 @@
 [
  {
+  "id": 844011,
+  "title": "Self-Parking Car in \u003c500 Lines of Code",
+  "description": "Training the car to do self-parking using a genetic algorithm            TL;DR   In this article,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NXCrdb6P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2bz868y9b2sv471ag7cg.jpg",
+  "slug": "self-parking-car-in-500-lines-of-code-58ea",
+  "url": "https://dev.to/trekhleb/self-parking-car-in-500-lines-of-code-58ea",
+  "publish_date": "2021-09-28",
+  "published_at": "2021-09-28T14:43:58Z"
+ },
+ {
+  "id": 843798,
+  "title": "Just 7 lines of node.js - that turns any Database into Airtable-like Spreadsheet!  ",
+  "description": "So what is Airtable ?   Airtable is a low-code platform for building collaborative apps. It...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KtTJ585e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hr9nbkrpc7tcni16ug0.png",
+  "slug": "in-7-lines-of-code-you-can-turn-any-database-into-airtable-like-spreadsheet-using-nocodb-51ah",
+  "url": "https://dev.to/o1lab/in-7-lines-of-code-you-can-turn-any-database-into-airtable-like-spreadsheet-using-nocodb-51ah",
+  "publish_date": "2021-09-28",
+  "published_at": "2021-09-28T10:31:37Z"
+ },
+ {
+  "id": 842153,
+  "title": "Building a Dating App with MERN",
+  "description": "we are going to build a dating app using mern stack, the web app has a simple functionality a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wQUtFETf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z9kktscb2pvkb3l0c7mm.jpg",
+  "slug": "building-a-dating-app-with-mern-478h",
+  "url": "https://dev.to/collins87mbathi/building-a-dating-app-with-mern-478h",
+  "publish_date": "2021-09-28",
+  "published_at": "2021-09-28T09:51:38Z"
+ },
+ {
+  "id": 843716,
+  "title": "HTTPS for Developers",
+  "description": "This article lives in:   Dev.to Medium GitHub The FastAPI docs            Intro   Here's a brief...",
+  "cover_image": "",
+  "slug": "https-for-developers-1774",
+  "url": "https://dev.to/tiangolo/https-for-developers-1774",
+  "publish_date": "2021-09-28",
+  "published_at": "2021-09-28T08:27:34Z"
+ },
+ {
+  "id": 843460,
+  "title": "Redux is Dead: Long Live Redux Toolkit",
+  "description": "by author Victoria Lo  In this article, let's learn about Redux Toolkit, or as the development team...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AkrPEBCj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c3c1di48g862hcwdyntl.png",
+  "slug": "redux-is-dead-long-live-redux-toolkit-db8",
+  "url": "https://dev.to/asayerio_techblog/redux-is-dead-long-live-redux-toolkit-db8",
+  "publish_date": "2021-09-28",
+  "published_at": "2021-09-28T03:59:06Z"
+ },
+ {
   "id": 818521,
   "title": "The Best JetBrains Plugins For Remote Working\n",
   "description": "What do developers want? Money, flexible schedules, pizza? Sure. Effortless remote collaboration?...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/silvenleaf/how-to-create-a-typescript-project-with-expressjs-the-simplest-way-578a",
   "publish_date": "2021-06-21",
   "published_at": "2021-06-21T02:47:34Z"
- },
- {
-  "id": 733512,
-  "title": "Sidebar Menu Using HTML and CSS",
-  "description": "In this article you will learn how to create sidebar menu using HTML CSS and JavaScript code. Like...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oSRH7QtE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mf287xlagxbxip0bpdpx.jpg",
-  "slug": "sidebar-menu-using-html-and-css-o49",
-  "url": "https://dev.to/code_mystery/sidebar-menu-using-html-and-css-o49",
-  "publish_date": "2021-06-20",
-  "published_at": "2021-06-20T13:42:39Z"
- },
- {
-  "id": 733631,
-  "title": "The trouble with \nblog post views \nand vanity metrics",
-  "description": "Even if you’ve never heard the term before, you know what they are.   They’re the thumbs up, the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TDzfFwHB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3x72lh3ctdeewg58ezmj.png",
-  "slug": "the-trouble-with-blog-post-views-and-vanity-metrics-2al5",
-  "url": "https://dev.to/helenanders26/the-trouble-with-blog-post-views-and-vanity-metrics-2al5",
-  "publish_date": "2021-06-20",
-  "published_at": "2021-06-20T11:48:01Z"
- },
- {
-  "id": 732953,
-  "title": "How to Prevent or Recover from Developer Burnout",
-  "description": "Most ambitious developers follow the same pattern: they do 9-to-5 jobs, participate in hackathons and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7SgTjId1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nihgwg4vklt5m7npglgy.jpg",
-  "slug": "how-to-prevent-or-recover-from-developer-burnout-3g5f",
-  "url": "https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f",
-  "publish_date": "2021-06-20",
-  "published_at": "2021-06-20T07:38:28Z"
- },
- {
-  "id": 733087,
-  "title": "Amazing Project Ideas For Javascript",
-  "description": "Hey,  This article is helpful who want to improve their programming skills or might want to make...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yk8cPVV0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jx0wfpf36igsj6ka7xwe.png",
-  "slug": "amazing-project-ideas-for-javascript-29f6",
-  "url": "https://dev.to/nikhil27b/amazing-project-ideas-for-javascript-29f6",
-  "publish_date": "2021-06-20",
-  "published_at": "2021-06-20T06:15:42Z"
- },
- {
-  "id": 727537,
-  "title": "48 Articles to go beginner to pro in JavaScript",
-  "description": "On the off chance that you are new to coding, you may contemplate whether you can get a grip of a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GnxwuxRx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g20zuidczmkr9owjbwk5.png",
-  "slug": "48-articles-to-go-beginner-to-pro-in-javascript-2ofn",
-  "url": "https://dev.to/codinglistsdev/48-articles-to-go-beginner-to-pro-in-javascript-2ofn",
-  "publish_date": "2021-06-20",
-  "published_at": "2021-06-20T04:03:04Z"
  }
 ]
