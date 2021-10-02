@@ -1,5 +1,55 @@
 [
  {
+  "id": 848060,
+  "title": "Forem Hacktoberfest: Let’s Internationalize!",
+  "description": "We recently shipped the groundwork for internationalizing Forem. Initially, this means that admins...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QIJliALb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/llfcw7j3ep4hnqweu08s.png",
+  "slug": "forem-hacktoberfest-let-s-internationalize-404n",
+  "url": "https://dev.to/devteam/forem-hacktoberfest-let-s-internationalize-404n",
+  "publish_date": "2021-10-01",
+  "published_at": "2021-10-01T17:09:52Z"
+ },
+ {
+  "id": 845848,
+  "title": "Hacktoberfest 2021 is Here 🎃 ",
+  "description": "Here’s how we’re celebrating open source this month and how you can join us!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e-4fmJBf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/298337dvay0yoqbl4m9i.png",
+  "slug": "hacktoberfest-2021-is-here-4a3l",
+  "url": "https://dev.to/devteam/hacktoberfest-2021-is-here-4a3l",
+  "publish_date": "2021-10-01",
+  "published_at": "2021-10-01T14:01:24Z"
+ },
+ {
+  "id": 847714,
+  "title": "Cloud Technology News of the Month: September 2021",
+  "description": "Autumn is officially back, and with it another portion of fresh cloud technology news.   This series...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--boaXq9UG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ncamkliu8rmz9776ivn.png",
+  "slug": "cloud-technology-news-of-the-month-september-2021-21mo",
+  "url": "https://dev.to/castai/cloud-technology-news-of-the-month-september-2021-21mo",
+  "publish_date": "2021-10-01",
+  "published_at": "2021-10-01T10:11:59Z"
+ },
+ {
+  "id": 846393,
+  "title": "Building a Chrome Extension in Minutes",
+  "description": "Ever wondered how you can build your own Chrome Extension? It's not as hard as you might think!  In...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WHsAQmbH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36cwibji2ondt9awwq9v.png",
+  "slug": "building-a-chrome-extension-in-minutes-3662",
+  "url": "https://dev.to/codesphere/building-a-chrome-extension-in-minutes-3662",
+  "publish_date": "2021-10-01",
+  "published_at": "2021-10-01T07:52:35Z"
+ },
+ {
+  "id": 847260,
+  "title": "Fetching data in React: Quick guide",
+  "description": "Fetching data from an API either from an external source or from the Backend of your application can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lo0qcwCz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vgl5qti1tq8morg6u39.jpg",
+  "slug": "fetching-data-in-react-quick-guide-4fba",
+  "url": "https://dev.to/jideabdqudus/fetching-data-in-react-quick-guide-4fba",
+  "publish_date": "2021-10-01",
+  "published_at": "2021-10-01T01:04:59Z"
+ },
+ {
   "id": 839155,
   "title": "Vue Academy #6: Async update queue",
   "description": "Vue performs DOM updates asynchronously! But what does mean?  I will begin by explain you what is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/this-is-learning/template-literal-types-in-typescript-4fe8",
   "publish_date": "2021-06-24",
   "published_at": "2021-06-24T06:39:45Z"
- },
- {
-  "id": 730496,
-  "title": "The History of the Cloud with Jeffery Meyerson \u0026\tKelsey Hightower",
-  "description": "Listen to S5E7 of DevDiscuss!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4_TCw0mC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tmcf404ghrq8yge431e0.png",
-  "slug": "the-history-of-the-cloud-with-jeffery-meyerson-kelsey-hightower-91a",
-  "url": "https://dev.to/devteam/the-history-of-the-cloud-with-jeffery-meyerson-kelsey-hightower-91a",
-  "publish_date": "2021-06-23",
-  "published_at": "2021-06-23T15:53:59Z"
- },
- {
-  "id": 736492,
-  "title": "Top 5 Git Tips \u0026 Tricks",
-  "description": "Becoming a Git power-user is on the bucket list of every developer. Today we prepared 5 Git tips that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oZCox0pY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nm390pila84ec7wwp9ji.png",
-  "slug": "top-5-git-tips-tricks-8na",
-  "url": "https://dev.to/gitlive/top-5-git-tips-tricks-8na",
-  "publish_date": "2021-06-23",
-  "published_at": "2021-06-23T10:19:41Z"
- },
- {
-  "id": 736552,
-  "title": "Accessibility in React",
-  "description": "Accessibility is the ability for applications to be used by everyone, including those with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hRQD1eMV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0dyatbnl7r53fbl2f2sr.jpg",
-  "slug": "accessibility-in-react-2m2n",
-  "url": "https://dev.to/sreashi/accessibility-in-react-2m2n",
-  "publish_date": "2021-06-23",
-  "published_at": "2021-06-23T09:52:32Z"
- },
- {
-  "id": 735420,
-  "title": "4 no code code tools I actually use and love as a developer",
-  "description": "There are way too many no code / low code tools out there that are sadly empty promises. Within this post, I will present the 4 no code / low code tools that I use in production, as a developer",
-  "cover_image": "",
-  "slug": "4-no-code-code-tools-i-actually-use-and-love-as-a-developer-4lk4",
-  "url": "https://dev.to/budibase/4-no-code-code-tools-i-actually-use-and-love-as-a-developer-4lk4",
-  "publish_date": "2021-06-23",
-  "published_at": "2021-06-23T08:20:14Z"
- },
- {
-  "id": 735768,
-  "title": "20 Free EBooks to Learn JavaScript In-Depth",
-  "description": "As I have always said, your level of comprehension on any topic is intrinsically linked to the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wSaErCQS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pn4i32aa6s4h32hhqz3t.png",
-  "slug": "20-free-ebooks-to-learn-javascript-in-depth-53g2",
-  "url": "https://dev.to/ubahthebuilder/20-free-ebooks-to-learn-javascript-in-depth-53g2",
-  "publish_date": "2021-06-23",
-  "published_at": "2021-06-23T04:33:18Z"
  }
 ]
