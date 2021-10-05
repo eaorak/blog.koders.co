@@ -1,5 +1,55 @@
 [
  {
+  "id": 850648,
+  "title": "Land a React Job: The lazy way",
+  "description": "Hang on, lads. I've got a great idea.   So you've run out of Netflix TV shows to watch,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gmgDL6hy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbfof0a10x3zrn0ymkdo.jpg",
+  "slug": "land-a-react-job-the-lazy-way-2d1o",
+  "url": "https://dev.to/bornfightcompany/land-a-react-job-the-lazy-way-2d1o",
+  "publish_date": "2021-10-04",
+  "published_at": "2021-10-04T10:38:18Z"
+ },
+ {
+  "id": 850642,
+  "title": "React Project Architecture",
+  "description": "I’ve been developing applications with React for a long time and I’m loving it more and more. React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dVVnVvg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/668nydw4g8nt0axeswti.jpeg",
+  "slug": "react-project-architecture-25m",
+  "url": "https://dev.to/ezranbayantemur/react-project-architecture-25m",
+  "publish_date": "2021-10-04",
+  "published_at": "2021-10-04T07:48:24Z"
+ },
+ {
+  "id": 850156,
+  "title": "The Swallow programming language - A Python-like language that's as fast as C.",
+  "description": "Hey guys!  I'm Ethan, I'm one of 8 swallow developers. This post is gonna be about some updates we've...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TPwn0D8z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/muh3va2p4tzujr3govyu.png",
+  "slug": "the-swallow-programming-language-a-python-like-language-that-s-as-fast-as-c-43j7",
+  "url": "https://dev.to/ethanolchik/the-swallow-programming-language-a-python-like-language-that-s-as-fast-as-c-43j7",
+  "publish_date": "2021-10-04",
+  "published_at": "2021-10-04T05:45:39Z"
+ },
+ {
+  "id": 850454,
+  "title": "3 JS code snippets sites to use daily!",
+  "description": "Save for later.            1loc.dev    JS utilities in single line of code.             ...",
+  "cover_image": "",
+  "slug": "3-js-code-snippets-sites-to-use-daily-5642",
+  "url": "https://dev.to/deyrupak/3-js-code-snippets-sites-to-use-daily-5642",
+  "publish_date": "2021-10-04",
+  "published_at": "2021-10-04T05:25:50Z"
+ },
+ {
+  "id": 850286,
+  "title": "Basic Responsive Websites",
+  "description": "In this blog, I will share some general concepts of how to implement a responsive design to your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pjp8-42n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zxcuhottgkzlyhb3c2jq.png",
+  "slug": "basic-responsive-websites-473d",
+  "url": "https://dev.to/thedanielleellis/basic-responsive-websites-473d",
+  "publish_date": "2021-10-04",
+  "published_at": "2021-10-04T01:06:46Z"
+ },
+ {
   "id": 849643,
   "title": "Controlling mobile Phone using Python",
   "description": "Story   Hi, I am Yash Makan, a 17-year-old self-taught programmer. I was thinking a couple...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/programmerlist/10-best-development-articles-you-can-t-miss-to-read-dfg",
   "publish_date": "2021-06-27",
   "published_at": "2021-06-27T01:03:27Z"
- },
- {
-  "id": 739917,
-  "title": "Docker Cheatsheet",
-  "description": "Docker is an open platform for developing, shipping, and running applications. Docker enables you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GrTnR3F5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m3rzb4zlai39hjmbt78y.png",
-  "slug": "docker-cheatsheet-39fa",
-  "url": "https://dev.to/vishnuchilamakuru/docker-cheatsheet-39fa",
-  "publish_date": "2021-06-26",
-  "published_at": "2021-06-26T08:49:17Z"
- },
- {
-  "id": 657958,
-  "title": "Boilerplates for websites/app building",
-  "description": "Hello Dev Friends.As we are learning web development, we often get overwhelmed with so much to learn...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Eik_Z52U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qqeez0ueok0acvk4unfi.jpg",
-  "slug": "boilerplates-for-websites-app-building-2n0m",
-  "url": "https://dev.to/kritika27/boilerplates-for-websites-app-building-2n0m",
-  "publish_date": "2021-06-26",
-  "published_at": "2021-06-26T08:09:58Z"
- },
- {
-  "id": 739897,
-  "title": "A Curated List of Free APIs For Your Next Project",
-  "description": "Public APIs     This GitHub repository contains a ton of free APIs related to various...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P5as_s-U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5lhewmmaxdi3lcvzyh7a.png",
-  "slug": "a-curated-list-of-free-apis-for-your-next-project-48n5",
-  "url": "https://dev.to/myogeshchavan97/a-curated-list-of-free-apis-for-your-next-project-48n5",
-  "publish_date": "2021-06-26",
-  "published_at": "2021-06-26T07:28:34Z"
- },
- {
-  "id": 739121,
-  "title": "🤔How to avoid stress during coding? ",
-  "description": "Do you want to know how to dealing with stress while coding? Here's some tips to do when you're...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YfA-NCf8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tfjmo94doh96xo1whig7.png",
-  "slug": "how-to-avoid-stress-during-coding-56f1",
-  "url": "https://dev.to/chetan_atrawalkar/how-to-avoid-stress-during-coding-56f1",
-  "publish_date": "2021-06-26",
-  "published_at": "2021-06-26T06:27:44Z"
- },
- {
-  "id": 733528,
-  "title": "50+ Shortcut links for Developers productivity",
-  "description": "A designer's work process is loaded with expected digressions, interferences and setting switches....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Gw1gvWde--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4nfmukcseeeskno2kl5u.png",
-  "slug": "50-shortcut-links-for-developers-productivity-19pm",
-  "url": "https://dev.to/programmerlist/50-shortcut-links-for-developers-productivity-19pm",
-  "publish_date": "2021-06-26",
-  "published_at": "2021-06-26T02:25:31Z"
  }
 ]
