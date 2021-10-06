@@ -1,5 +1,55 @@
 [
  {
+  "id": 852311,
+  "title": "E-commerce website - adding/deleting product from database. Part 3",
+  "description": "Hello, hope you'll are good. In previous part, we have made login/log out feature and a seller...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6oUMA1bh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p7btxw8b9asnvyq67v3n.png",
+  "slug": "e-commerce-website-adding-deleting-product-from-database-part-3-18np",
+  "url": "https://dev.to/kunaal438/e-commerce-website-adding-deleting-product-from-database-part-3-18np",
+  "publish_date": "2021-10-05",
+  "published_at": "2021-10-05T13:11:54Z"
+ },
+ {
+  "id": 852160,
+  "title": "Building Tailwind CSS card components",
+  "description": "Tailwind CSS is a framework that I've been using a lot lately to quickly build websites without...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WdRPoBID--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/39xs5fmpjqfinnt0s4bq.png",
+  "slug": "building-tailwind-css-card-components-12c5",
+  "url": "https://dev.to/themesberg/building-tailwind-css-card-components-12c5",
+  "publish_date": "2021-10-05",
+  "published_at": "2021-10-05T10:31:16Z"
+ },
+ {
+  "id": 851996,
+  "title": "What is a REST API?",
+  "description": "If you’ve had a look at the Contentful docs, you’ll have seen the acronyms REST and API in at least a...",
+  "cover_image": "",
+  "slug": "what-is-a-rest-api-51h",
+  "url": "https://dev.to/whitep4nth3r/what-is-a-rest-api-51h",
+  "publish_date": "2021-10-05",
+  "published_at": "2021-10-05T09:05:20Z"
+ },
+ {
+  "id": 851912,
+  "title": "10 Google Chrome Extensions you should use as a developer",
+  "description": "If you’re a developer, you will likely already have a collection of favorite Chrome extensions you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zHdNyUGx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6vtdxitnbzldhix3wcch.jpg",
+  "slug": "10-google-chrome-extensions-you-should-use-as-a-developer-4bo",
+  "url": "https://dev.to/muthuannamalai12/10-google-chrome-extensions-you-should-use-as-a-developer-4bo",
+  "publish_date": "2021-10-05",
+  "published_at": "2021-10-05T06:39:24Z"
+ },
+ {
+  "id": 851657,
+  "title": "How to detect images loaded in React",
+  "description": "I had to do a manual deep linking hook, scrolling automatically down in a web application to a...",
+  "cover_image": "",
+  "slug": "how-to-detect-images-loaded-in-react-39fa",
+  "url": "https://dev.to/alejomartinez8/how-to-detect-images-loaded-in-react-39fa",
+  "publish_date": "2021-10-05",
+  "published_at": "2021-10-05T03:15:20Z"
+ },
+ {
   "id": 850648,
   "title": "Land a React Job: The lazy way",
   "description": "Hang on, lads. I've got a great idea.   So you've run out of Netflix TV shows to watch,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nilanth/10-ways-to-host-your-react-app-for-free-27ga",
   "publish_date": "2021-06-28",
   "published_at": "2021-06-28T04:24:17Z"
- },
- {
-  "id": 695884,
-  "title": "JavaScript Interview Question #50: How does Intl.Collator work in JS",
-  "description": "What is Intl.Collator and how does it work in JS? What’s the difference between two sorts? What...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a8u-669Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/034820x2lcnigidbkxlj.png",
-  "slug": "javascript-interview-question-50-how-does-intl-collator-work-in-js-3ff8",
-  "url": "https://dev.to/coderslang/javascript-interview-question-50-how-does-intl-collator-work-in-js-3ff8",
-  "publish_date": "2021-06-27",
-  "published_at": "2021-06-27T07:33:05Z"
- },
- {
-  "id": 740559,
-  "title": "20+ Open Source Project for Beginners",
-  "description": "Introduction   If you want to collaborate, discuss and code in a group of developers, just...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_MZ1k4Oh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9gery98e73nsjz6vhvs.png",
-  "slug": "beginners-guide-to-starting-your-open-source-journey-1bgb",
-  "url": "https://dev.to/surajondev/beginners-guide-to-starting-your-open-source-journey-1bgb",
-  "publish_date": "2021-06-27",
-  "published_at": "2021-06-27T06:32:55Z"
- },
- {
-  "id": 740551,
-  "title": "Top 5 Best Resources To Learn Javascript",
-  "description": "Hello friends, Today we have the top 5 resources that you can use to learn javascript. Javascript is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P9oCD-d0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fglxyj8e270wrb3cswrc.png",
-  "slug": "top-5-best-resources-to-learn-javascript-e3p",
-  "url": "https://dev.to/innocentcoder/top-5-best-resources-to-learn-javascript-e3p",
-  "publish_date": "2021-06-27",
-  "published_at": "2021-06-27T05:40:44Z"
- },
- {
-  "id": 740527,
-  "title": "How to create signature pad in html | signature pad JavaScript",
-  "description": "Hello guys, today I am going to show you how to create a signature pad using HTML CSS \u0026amp;...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--69Ygojfo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/faslsx41hvtszxg54bgw.jpg",
-  "slug": "how-to-create-signature-pad-in-html-signature-pad-javascript-3866",
-  "url": "https://dev.to/stackfindover/how-to-create-signature-pad-in-html-signature-pad-javascript-3866",
-  "publish_date": "2021-06-27",
-  "published_at": "2021-06-27T04:09:38Z"
- },
- {
-  "id": 733588,
-  "title": "10 Best Development Articles you can't miss to read",
-  "description": "In the Developer community there are many articles posted everyday. So today in this same average...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L0oXIdU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgd5rr67siutfaaml6mj.png",
-  "slug": "10-best-development-articles-you-can-t-miss-to-read-dfg",
-  "url": "https://dev.to/programmerlist/10-best-development-articles-you-can-t-miss-to-read-dfg",
-  "publish_date": "2021-06-27",
-  "published_at": "2021-06-27T01:03:27Z"
  }
 ]
