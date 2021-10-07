@@ -1,5 +1,55 @@
 [
  {
+  "id": 853826,
+  "title": "Introduction to SolidJS and Reactive Primitives",
+  "description": "SolidJS is a true reactive library that allows you to use JSX for your frontend projects. In this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1lNjfckp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/70qjfj7cx99isl0h3eqa.png",
+  "slug": "introduction-to-solidjs-and-reactive-primitives-1o6h",
+  "url": "https://dev.to/canburaks/introduction-to-solidjs-and-reactive-primitives-1o6h",
+  "publish_date": "2021-10-06",
+  "published_at": "2021-10-06T15:14:37Z"
+ },
+ {
+  "id": 853694,
+  "title": "🚀 The Missing Docker Crash Course for Developers",
+  "description": "Introduction to Docker      It is more likely than not that Docker and containers are going...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_DGQyfgQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lpxq0zhofp5vc673fqvk.jpg",
+  "slug": "the-missing-docker-crash-course-for-developers-2ccb",
+  "url": "https://dev.to/bobbyiliev/the-missing-docker-crash-course-for-developers-2ccb",
+  "publish_date": "2021-10-06",
+  "published_at": "2021-10-06T11:41:14Z"
+ },
+ {
+  "id": 853689,
+  "title": "Git Tutorial: How to Fix 18 Common Mistakes",
+  "description": "This article is a collection of the 18 most frequently asked questions and their answers when it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U5splMQs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aq46mozelv3j7fp8gfx1.jpg",
+  "slug": "git-tutorial-how-to-fix-18-common-mistakes-4een",
+  "url": "https://dev.to/creativetim_official/git-tutorial-how-to-fix-18-common-mistakes-4een",
+  "publish_date": "2021-10-06",
+  "published_at": "2021-10-06T11:34:32Z"
+ },
+ {
+  "id": 853450,
+  "title": "Django Admin Template - Volt Bootstrap 5",
+  "description": "Open-source Django Admin Template for styling the default Admin Section: Django Dashboard Volt can be downloaded and used as a package via PyPi.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--htcPXPQ4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jniwtaeh4gubs99xwv47.gif",
+  "slug": "django-admin-template-volt-bootstrap-5-5bn3",
+  "url": "https://dev.to/sm0ke/django-admin-template-volt-bootstrap-5-5bn3",
+  "publish_date": "2021-10-06",
+  "published_at": "2021-10-06T10:11:02Z"
+ },
+ {
+  "id": 831138,
+  "title": "Opinionated guide on tweaking VS Code for productivity",
+  "description": "1). Be afraid of Windows: If you are on Windows then on one beautiful day you would be presented with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5vSjzjNp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9fbzyzwborowp8j3k891.png",
+  "slug": "opinionated-guide-on-tweaking-vs-code-for-productivity-1o53",
+  "url": "https://dev.to/neer17/opinionated-guide-on-tweaking-vs-code-for-productivity-1o53",
+  "publish_date": "2021-10-06",
+  "published_at": "2021-10-06T04:03:32Z"
+ },
+ {
   "id": 852311,
   "title": "E-commerce website - adding/deleting product from database. Part 3",
   "description": "Hello, hope you'll are good. In previous part, we have made login/log out feature and a seller...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/snowbit7/best-javascript-libraries-you-should-know-in-2021-2enh",
   "publish_date": "2021-06-29",
   "published_at": "2021-06-29T09:09:28Z"
- },
- {
-  "id": 737708,
-  "title": "SolidJS Official Release: The long road to 1.0",
-  "description": "It's been a long road to get here. It's been so long I can't even remember when I started. I logged...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qxYDM5Nn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhwi93wdjm5z3dmqg53u.png",
-  "slug": "solidjs-official-release-the-long-road-to-1-0-4ldd",
-  "url": "https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd",
-  "publish_date": "2021-06-28",
-  "published_at": "2021-06-28T15:27:24Z"
- },
- {
-  "id": 741726,
-  "title": "Introduction to React.js ⚛ and the required JavaScript! ",
-  "description": "React is a JavaScript library for building UI components. The ecosystem of React is really immense...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ShQ2sB58--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fe0nxci7uiln3j04d0i3.jpg",
-  "slug": "introduction-to-react-js-and-the-required-javascript-5coh",
-  "url": "https://dev.to/cenacr007_harsh/introduction-to-react-js-and-the-required-javascript-5coh",
-  "publish_date": "2021-06-28",
-  "published_at": "2021-06-28T12:22:41Z"
- },
- {
-  "id": 741140,
-  "title": "7 GitHub projects essential for every Javascript developer 👨🏽‍💻 🚀",
-  "description": "Javascript is so widely adopted that most developers can't avoid it entirely during the course of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GvH8zGcU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/81wt9vzozray211w2mlx.png",
-  "slug": "7-github-projects-essential-for-every-javascript-developer-258i",
-  "url": "https://dev.to/ankit01oss/7-github-projects-essential-for-every-javascript-developer-258i",
-  "publish_date": "2021-06-28",
-  "published_at": "2021-06-28T12:01:52Z"
- },
- {
-  "id": 741667,
-  "title": "Introducing Code House - A whole new world of 300+ Developer Cheatsheets 👨‍💻",
-  "description": "Hello Folks 👋   This is Savio here. I hope you all are doing good. I'm young web dev with an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OUgs2GXc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugz87bcrn7xilwlzslou.jpeg",
-  "slug": "introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets-m27",
-  "url": "https://dev.to/saviomartin/introducing-code-house-a-whole-new-world-of-300-developer-cheatsheets-m27",
-  "publish_date": "2021-06-28",
-  "published_at": "2021-06-28T10:29:31Z"
- },
- {
-  "id": 740553,
-  "title": "10 Ways to Host Your React App For Free",
-  "description": "Here are the 10 services that provide free hosting for your React App.  React is the most popular...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--atbfudLk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xvials96l50h7ha8azzn.png",
-  "slug": "10-ways-to-host-your-react-app-for-free-27ga",
-  "url": "https://dev.to/nilanth/10-ways-to-host-your-react-app-for-free-27ga",
-  "publish_date": "2021-06-28",
-  "published_at": "2021-06-28T04:24:17Z"
  }
 ]
