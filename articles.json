@@ -1,5 +1,55 @@
 [
  {
+  "id": 848099,
+  "title": "5 Quizz explained in Javascript #1",
+  "description": "Welcome to the first javascript quizz!  You can answer to the question and check the response with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uYG-2esS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x3yf11kamnetge2gj7ue.jpeg",
+  "slug": "5-quizz-explained-in-javascript-1-59hn",
+  "url": "https://dev.to/codeoz/5-quizz-explained-in-javascript-1-59hn",
+  "publish_date": "2021-10-07",
+  "published_at": "2021-10-07T14:58:21Z"
+ },
+ {
+  "id": 855079,
+  "title": "CAST AI vs. Cloudability: Which one to pick for cloud cost optimization?",
+  "description": "Controlling cloud costs is one of the biggest challenges facing teams across every organization that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AZgDsVjZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qc3s5zqjzmb50idjtnbo.jpeg",
+  "slug": "cast-ai-vs-cloudability-which-one-to-pick-for-cloud-cost-optimization-44le",
+  "url": "https://dev.to/castai/cast-ai-vs-cloudability-which-one-to-pick-for-cloud-cost-optimization-44le",
+  "publish_date": "2021-10-07",
+  "published_at": "2021-10-07T13:12:50Z"
+ },
+ {
+  "id": 836320,
+  "title": "🦩 5 Free coding resources that helped me get my first frontend developer job",
+  "description": "When I wanted to learn how to code I thought the only available options were either to go to...",
+  "cover_image": "",
+  "slug": "5-free-coding-resources-that-helped-me-get-my-first-frontend-developer-job-4ak4",
+  "url": "https://dev.to/stefirosca/5-free-coding-resources-that-helped-me-get-my-first-frontend-developer-job-4ak4",
+  "publish_date": "2021-10-07",
+  "published_at": "2021-10-07T10:43:17Z"
+ },
+ {
+  "id": 854726,
+  "title": "Building a Tailwind CSS dropdown component",
+  "description": "Tailwind CSS is a utility-first framework that I've been using for most of my projects this year and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s4aW-O1w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u8e6bwsl6attvzpq9648.png",
+  "slug": "building-a-tailwind-css-dropdown-component-ban",
+  "url": "https://dev.to/themesberg/building-a-tailwind-css-dropdown-component-ban",
+  "publish_date": "2021-10-07",
+  "published_at": "2021-10-07T08:09:48Z"
+ },
+ {
+  "id": 852521,
+  "title": "Why to use Maps over Objects in JS ?",
+  "description": "In JavaScript, an object is a standalone entity, with properties and type.   Compare it with a cup,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JmTmRG5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ouen4ds2unq2dhbiwf8.jpeg",
+  "slug": "why-to-use-map-over-object-in-js-306m",
+  "url": "https://dev.to/faisalpathan/why-to-use-map-over-object-in-js-306m",
+  "publish_date": "2021-10-07",
+  "published_at": "2021-10-07T04:57:24Z"
+ },
+ {
   "id": 853826,
   "title": "Introduction to SolidJS and Reactive Primitives",
   "description": "SolidJS is a true reactive library that allows you to use JSX for your frontend projects. In this...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mokkapps/my-top-react-interview-questions-5hfb",
   "publish_date": "2021-06-30",
   "published_at": "2021-06-30T07:01:51Z"
- },
- {
-  "id": 742745,
-  "title": "8 Ultimate ressources for learning Web Dev in 2021 #2",
-  "description": "Hey friends ! I'm sharing with you a lot of ressources about web developper that will help you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nEXRt3AL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l91d3793b5pb260sr4mv.jpg",
-  "slug": "8-ultimate-ressources-for-learning-web-dev-in-2021-2-3le4",
-  "url": "https://dev.to/codeozz/8-ultimate-ressources-for-learning-web-dev-in-2021-2-3le4",
-  "publish_date": "2021-06-29",
-  "published_at": "2021-06-29T12:59:15Z"
- },
- {
-  "id": 739354,
-  "title": "20+ Lessons I've Learned Writing on DEV for 4 Years",
-  "description": "Table of Contents    1. First, get started 2. Do not Bury the Lede ⚡️ 3. Brainstorm on Paper 📝 4....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hur1ylaY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wu4oe6p9azv1gwgmc2kl.png",
-  "slug": "20-lessons-i-ve-learned-writing-on-dev-for-4-years-4nk3",
-  "url": "https://dev.to/jmfayard/20-lessons-i-ve-learned-writing-on-dev-for-4-years-4nk3",
-  "publish_date": "2021-06-29",
-  "published_at": "2021-06-29T12:05:44Z"
- },
- {
-  "id": 742696,
-  "title": "How creating CSS Art can make you a better developer",
-  "description": "Creating CSS Art is one of the best ways to improve your front-end programming skills as a developer....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GfblHrou--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2iv1hc2tm7adkenpl0p.png",
-  "slug": "how-creating-css-art-can-make-you-a-better-developer-4cd5",
-  "url": "https://dev.to/andrewbaisden/how-creating-css-art-can-make-you-a-better-developer-4cd5",
-  "publish_date": "2021-06-29",
-  "published_at": "2021-06-29T10:26:59Z"
- },
- {
-  "id": 740966,
-  "title": "Adding 100 CSS loaders to the collection of — 500 CSS loaders 🏆",
-  "description": "500 single element CSS loaders. Pure CSS loaders with only one div. The biggest collection of loading...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qstTSEuA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u13po0df336g3p0c7tfc.gif",
-  "slug": "adding-100-css-loaders-to-the-collection-of-500-css-loaders-2a3p",
-  "url": "https://dev.to/afif/adding-100-css-loaders-to-the-collection-of-500-css-loaders-2a3p",
-  "publish_date": "2021-06-29",
-  "published_at": "2021-06-29T10:06:37Z"
- },
- {
-  "id": 742651,
-  "title": "Best Javascript Libraries you should know in 2021",
-  "description": "Algolia Places:   Algolia Places is a JavaScript library that will help you autocomplete forms, and...",
-  "cover_image": "",
-  "slug": "best-javascript-libraries-you-should-know-in-2021-2enh",
-  "url": "https://dev.to/snowbit7/best-javascript-libraries-you-should-know-in-2021-2enh",
-  "publish_date": "2021-06-29",
-  "published_at": "2021-06-29T09:09:28Z"
  }
 ]
