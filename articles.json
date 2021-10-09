@@ -1,5 +1,55 @@
 [
  {
+  "id": 856156,
+  "title": "mixmello - create remixed versions of your Spotify playlists. Open source.",
+  "description": "Introducing mixmello, a free, open source application to create remixed versions of your favourite...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nprElS6r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aq55vjak4uetoji4xifi.png",
+  "slug": "mixmello-made-with-reactjs-and-open-source-40ci",
+  "url": "https://dev.to/alexgurr/mixmello-made-with-reactjs-and-open-source-40ci",
+  "publish_date": "2021-10-08",
+  "published_at": "2021-10-08T09:36:47Z"
+ },
+ {
+  "id": 856132,
+  "title": "What is a REST API ? ",
+  "description": "Hey everyone 👋🏻,  In this article, let us learn about one of the most important concepts that you as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iFVSxw2m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xlnfu2frlry5stpan0zh.png",
+  "slug": "what-is-a-rest-api-288l",
+  "url": "https://dev.to/thenerdydev/what-is-a-rest-api-288l",
+  "publish_date": "2021-10-08",
+  "published_at": "2021-10-08T08:40:10Z"
+ },
+ {
+  "id": 856129,
+  "title": "Node.js from Beginners to Advance",
+  "description": "What is NodeJs?  Nodejs is a javascript runtime environment. So, what exactly is the javascript...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pwf7MI7b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ls7my5col389w2g9o6n6.png",
+  "slug": "node-js-from-beginners-to-advance-31id",
+  "url": "https://dev.to/aviyel/node-js-from-beginners-to-advance-31id",
+  "publish_date": "2021-10-08",
+  "published_at": "2021-10-08T08:36:16Z"
+ },
+ {
+  "id": 855996,
+  "title": "Converting a React component to TypeScript",
+  "description": "In this post you will join me as I modify a simple component to start utilizing TypeScript. The...",
+  "cover_image": "",
+  "slug": "converting-a-react-component-to-typescript-15cl",
+  "url": "https://dev.to/mbarzeev/converting-a-react-component-to-typescript-15cl",
+  "publish_date": "2021-10-08",
+  "published_at": "2021-10-08T07:36:02Z"
+ },
+ {
+  "id": 855685,
+  "title": "Understanding the Modern Web Stack: Webpack (Part 1)\n",
+  "description": "(This tutorial is written using webpack v5 however the general concepts will apply to any version)   ...",
+  "cover_image": "",
+  "slug": "understanding-the-modern-web-stack-webpack-part-1-2mn1",
+  "url": "https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-part-1-2mn1",
+  "publish_date": "2021-10-08",
+  "published_at": "2021-10-08T01:29:56Z"
+ },
+ {
   "id": 848099,
   "title": "5 Quizz explained in Javascript #1",
   "description": "Welcome to the first javascript quizz!  You can answer to the question and check the response with...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cenacr007_harsh/complete-introduction-to-redux-2281",
   "publish_date": "2021-07-01",
   "published_at": "2021-07-01T08:59:47Z"
- },
- {
-  "id": 743317,
-  "title": "Demystifying DevRel with Nader Dabit, Christina Gorton \u0026 Pachi Carlson",
-  "description": "Listen to the season finale of DevDiscuss!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yIzgICCf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/noqsd7bis9i0tur4e3w6.png",
-  "slug": "demystifying-devrel-with-nader-dabit-christina-gorton-pachi-carlson-28nh",
-  "url": "https://dev.to/devteam/demystifying-devrel-with-nader-dabit-christina-gorton-pachi-carlson-28nh",
-  "publish_date": "2021-06-30",
-  "published_at": "2021-06-30T18:47:44Z"
- },
- {
-  "id": 743828,
-  "title": "Package.json File explained!!!",
-  "description": "If you've been working on javascript or related framework projects then definitely you came across...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OCYeXgqR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vu045q1s799899xj17a.png",
-  "slug": "package-json-file-explained-b94",
-  "url": "https://dev.to/naveenchandar/package-json-file-explained-b94",
-  "publish_date": "2021-06-30",
-  "published_at": "2021-06-30T12:32:06Z"
- },
- {
-  "id": 743738,
-  "title": "We Helped 42 Developers Get $772.441 in Salary Raises And Promotions, Here Is What We Learned",
-  "description": "It doesn't matter if you never went beyond building simple apps, have no degree in Computer Science...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H8TJdKPr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k5azfbko2wuo71uf2udw.png",
-  "slug": "we-helped-42-developers-get-772-441-in-salary-raises-and-promotions-here-is-what-we-learned-2h10",
-  "url": "https://dev.to/dragosnedelcu/we-helped-42-developers-get-772-441-in-salary-raises-and-promotions-here-is-what-we-learned-2h10",
-  "publish_date": "2021-06-30",
-  "published_at": "2021-06-30T10:32:57Z"
- },
- {
-  "id": 743609,
-  "title": "5 Cool Animated Button Using CSS and JS",
-  "description": "In this blog we are going to see some cool animated button made using CSS and JS.  1. Social Media...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--beqP9DIk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpfr19aisas87qlo8tl1.gif",
-  "slug": "5-cool-animated-button-using-css-and-js-26i3",
-  "url": "https://dev.to/sumeet16/5-cool-animated-button-using-css-and-js-26i3",
-  "publish_date": "2021-06-30",
-  "published_at": "2021-06-30T08:21:30Z"
- },
- {
-  "id": 742505,
-  "title": "My Top React Interview Questions",
-  "description": "This article summarizes a list of React interview questions that I would ask candidates and that I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--STbPNY8I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzo4zv7cs0tx6n8ai6rd.jpg",
-  "slug": "my-top-react-interview-questions-5hfb",
-  "url": "https://dev.to/mokkapps/my-top-react-interview-questions-5hfb",
-  "publish_date": "2021-06-30",
-  "published_at": "2021-06-30T07:01:51Z"
  }
 ]
