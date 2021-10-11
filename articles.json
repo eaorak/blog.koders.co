@@ -1,5 +1,55 @@
 [
  {
+  "id": 858112,
+  "title": "RegEx in JavaScript with a cool project 🔥",
+  "description": "Hi everyone, This is my first blog on this platform in which we are going to learn regex with the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lhj3drsu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kja6omthh4j6ev09n1le.png",
+  "slug": "regex-in-javascript-with-a-cool-project-2e6m",
+  "url": "https://dev.to/jaspalsingh1998/regex-in-javascript-with-a-cool-project-2e6m",
+  "publish_date": "2021-10-10",
+  "published_at": "2021-10-10T13:07:51Z"
+ },
+ {
+  "id": 858118,
+  "title": "Top 66  Object Oriented Programming Questions for Interviews",
+  "description": "Frequently asked Object Oriented Programming interview questions for software developers.",
+  "cover_image": "",
+  "slug": "top-50-object-oriented-programming-questions-for-interviews-4po1",
+  "url": "https://dev.to/javinpaul/top-50-object-oriented-programming-questions-for-interviews-4po1",
+  "publish_date": "2021-10-10",
+  "published_at": "2021-10-10T09:48:31Z"
+ },
+ {
+  "id": 858120,
+  "title": "Front-End Resources",
+  "description": "Hey Devs! Its my first post in the dev.to! I met front-end development exact 1 year ago and it's...",
+  "cover_image": "",
+  "slug": "front-end-resources-1jk2",
+  "url": "https://dev.to/bleedeleventh/front-end-resources-1jk2",
+  "publish_date": "2021-10-10",
+  "published_at": "2021-10-10T07:05:58Z"
+ },
+ {
+  "id": 857983,
+  "title": "5 Tips Every React Developer Should Know",
+  "description": "React is an amazing tool to build Front End Applications. This article will provide you some tips...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sHPweH6l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u2odb3uhgok4oc9ab8gq.png",
+  "slug": "5-tips-every-react-developer-should-know-1ghh",
+  "url": "https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh",
+  "publish_date": "2021-10-10",
+  "published_at": "2021-10-10T05:46:39Z"
+ },
+ {
+  "id": 857992,
+  "title": "UnFamiliar Awesome Freebies for Developers 👨🏻‍💻👩🏻‍💻",
+  "description": "HELLO👋🏻, MATES. I hope you all are doing great!!!👍🏻😊        I am glad to bring you some of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lxqt9IpU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xm4n9edn90g6czj57654.png",
+  "slug": "unfamiliar-awesome-freebies-for-developers-23ek",
+  "url": "https://dev.to/vidhyavarshanyjs/unfamiliar-awesome-freebies-for-developers-23ek",
+  "publish_date": "2021-10-10",
+  "published_at": "2021-10-10T04:11:18Z"
+ },
+ {
   "id": 857399,
   "title": "Pagination in Javascript and React, with a custom usePagination() hook",
   "description": "This guide is to help you understand the concept of pagination and how to implement it in react, the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/unadlib/a-progressive-micro-frontends-framework-fronts-3kn1",
   "publish_date": "2021-07-03",
   "published_at": "2021-07-03T02:31:41Z"
- },
- {
-  "id": 744878,
-  "title": "🚀10 Trending projects on GitHub for web developers - 2nd July 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at www.iainfreestone.com to...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-2nd-july-2021-161m",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-2nd-july-2021-161m",
-  "publish_date": "2021-07-02",
-  "published_at": "2021-07-02T13:31:20Z"
- },
- {
-  "id": 653631,
-  "title": "5 star rating system - ACTUALLY accessible, no JS, no WAI-ARIA and Semantic HTML! ⭐⭐⭐⭐⭐ [Easily converted to any framework too!]",
-  "description": "In this article I will explain how I built a star rating system that is ACTUALLY accessible, easy to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E4IjhZCX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sef59c6zp3ztoe6bttjb.jpg",
-  "slug": "5-star-rating-system-actually-accessible-no-js-no-wai-aria-3idl",
-  "url": "https://dev.to/inhuofficial/5-star-rating-system-actually-accessible-no-js-no-wai-aria-3idl",
-  "publish_date": "2021-07-02",
-  "published_at": "2021-07-02T11:49:11Z"
- },
- {
-  "id": 742910,
-  "title": "Send mails using NodeJS",
-  "description": "Hey, fams! today we are going to learn how to send e-mails, right from our IDE using NodeJS. The...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oM9XiLbH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fuhp6dmb45gdc1gwdsl2.png",
-  "slug": "send-mails-using-nodejs-42ag",
-  "url": "https://dev.to/drsimplegraffiti/send-mails-using-nodejs-42ag",
-  "publish_date": "2021-07-02",
-  "published_at": "2021-07-02T08:43:10Z"
- },
- {
-  "id": 713572,
-  "title": "Git Squash Simplified",
-  "description": "If you have just started as an open source contributor or planning to become one, you might came...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m4rDDmqn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ge5okltlvxtxyx1g8riu.PNG",
-  "slug": "git-squash-simplified-3ba1",
-  "url": "https://dev.to/pb/git-squash-simplified-3ba1",
-  "publish_date": "2021-07-02",
-  "published_at": "2021-07-02T06:19:54Z"
- },
- {
-  "id": 745795,
-  "title": "Illustrating Lexical Scope in JavaScript",
-  "description": "Chapter 2: Illustrating Lexical Scope    These are the notes of second chapter of the book...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HnRH5V7s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l9auadwh2aq3lrd5r5hh.jpeg",
-  "slug": "illustrating-lexical-scope-in-javascript-2h0f",
-  "url": "https://dev.to/rajat2502/illustrating-lexical-scope-in-javascript-2h0f",
-  "publish_date": "2021-07-02",
-  "published_at": "2021-07-02T06:00:58Z"
  }
 ]
