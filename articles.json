@@ -1,5 +1,55 @@
 [
  {
+  "id": 861121,
+  "title": "If You're Reading This, Contribute to Forem",
+  "description": "(I hope you enjoyed the title. It's a reference to Canadian Rapper Drake's 2015 mixtape: If You're...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--De5ubqfF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wbgr4dle942uy7tnjfa2.png",
+  "slug": "if-you-re-reading-this-contribute-to-forem-368o",
+  "url": "https://dev.to/github/if-you-re-reading-this-contribute-to-forem-368o",
+  "publish_date": "2021-10-12",
+  "published_at": "2021-10-12T15:58:09Z"
+ },
+ {
+  "id": 861066,
+  "title": "$10M to optimize Kubernetes: CAST AI raises Series A and extends support to top 3 cloud providers",
+  "description": "To deliver on our promise of fully automated cloud cost optimization for Kubernetes, we raised $10...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N5_s3Y5F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jefs7is2ojtben5f2t5f.jpeg",
+  "slug": "10m-to-optimize-kubernetes-cast-ai-raises-series-a-and-extends-support-to-top-3-cloud-providers-52dj",
+  "url": "https://dev.to/castai/10m-to-optimize-kubernetes-cast-ai-raises-series-a-and-extends-support-to-top-3-cloud-providers-52dj",
+  "publish_date": "2021-10-12",
+  "published_at": "2021-10-12T14:17:00Z"
+ },
+ {
+  "id": 861065,
+  "title": "Full Stack E-Commerce App (+8 hours free tutorial)",
+  "description": "Hi, I'm Safak. I am a full-stack web developer and I'm sharing open source web projects on my YouTube...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OG8A6uVI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/alburevw7gmp3czltyxh.png",
+  "slug": "full-stack-e-commerce-app-8-hours-free-tutorial-10pb",
+  "url": "https://dev.to/safak/full-stack-e-commerce-app-8-hours-free-tutorial-10pb",
+  "publish_date": "2021-10-12",
+  "published_at": "2021-10-12T14:11:38Z"
+ },
+ {
+  "id": 860753,
+  "title": "Advanced Javascript Functions",
+  "description": "What is a Javascript functions   A function is a block of organized,reusable code that is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_2NzwY6---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s22snsqadpuxzvltorfb.png",
+  "slug": "advanced-working-with-functions-d0b",
+  "url": "https://dev.to/luxacademy/advanced-working-with-functions-d0b",
+  "publish_date": "2021-10-12",
+  "published_at": "2021-10-12T09:49:26Z"
+ },
+ {
+  "id": 860324,
+  "title": "7 Ways to Escape CSS Hell",
+  "description": "Ever have this happen? lol    Yeah, me too.  Here are the 7 ways to completely center whatever you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GzOpDpNh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x541lcu7atud9e8ec80a.png",
+  "slug": "7-ways-to-escape-css-hell-2ck6",
+  "url": "https://dev.to/stackbit/7-ways-to-escape-css-hell-2ck6",
+  "publish_date": "2021-10-12",
+  "published_at": "2021-10-12T00:23:51Z"
+ },
+ {
   "id": 857224,
   "title": "12 Simple HTML Snippets To Avoid Complex Libraries ⚡✨",
   "description": "Not knowing the basic tech can sometimes increase the size, affect the performance and add an extra...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rahulbanerjee99/some-experiments-with-github-copilot-4jao",
   "publish_date": "2021-07-05",
   "published_at": "2021-07-05T04:42:29Z"
- },
- {
-  "id": 747560,
-  "title": "Scalable \"star rating\" without JS (and no SVG or image for the star)",
-  "description": "Here I am with my \"Star rating\" system:  ✔️ No JavaScript. ✔️ No complex HTML code, only the needed...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZmPd30s4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lamoa1m50lkoz1nc8l2w.png",
-  "slug": "scalable-star-rating-without-js-and-no-svg-or-image-for-the-star-2mef",
-  "url": "https://dev.to/afif/scalable-star-rating-without-js-and-no-svg-or-image-for-the-star-2mef",
-  "publish_date": "2021-07-04",
-  "published_at": "2021-07-04T15:02:32Z"
- },
- {
-  "id": 747283,
-  "title": "Complete Introduction to React-Redux ⚛",
-  "description": "React and Redux are often mentioned together and with good reason. As the developer who created Redux...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NQ8h7KvS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kg29yc38e6t863f609i2.png",
-  "slug": "complete-introduction-to-react-redux-39kl",
-  "url": "https://dev.to/cenacr007_harsh/complete-introduction-to-react-redux-39kl",
-  "publish_date": "2021-07-04",
-  "published_at": "2021-07-04T09:11:21Z"
- },
- {
-  "id": 747568,
-  "title": "Top 10 React Tricks Every Developer Should Use",
-  "description": "Discover a set of React best coding practices, tips and tricks that should be known by all...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nsqhat0P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttqxgn6rzodx3s9f31te.png",
-  "slug": "top-10-react-tricks-every-developer-should-use-8nj",
-  "url": "https://dev.to/kpiteng/top-10-react-tricks-every-developer-should-use-8nj",
-  "publish_date": "2021-07-04",
-  "published_at": "2021-07-04T08:04:29Z"
- },
- {
-  "id": 747441,
-  "title": "I did Frontend Mentor challenges for three weeks, here's what I learned",
-  "description": "Hello! It's been a while since my last post. I've been busy doing Frontend Mentor challenges for the...",
-  "cover_image": "",
-  "slug": "i-did-frontend-mentor-challenges-for-three-weeks-here-s-what-i-learned-3j01",
-  "url": "https://dev.to/riyanagueco/i-did-frontend-mentor-challenges-for-three-weeks-here-s-what-i-learned-3j01",
-  "publish_date": "2021-07-04",
-  "published_at": "2021-07-04T02:43:23Z"
- },
- {
-  "id": 744100,
-  "title": "The frontend Hitchhiker's Guide: JavaScript Frameworks",
-  "description": "Introduction   Every now an then a developer has an idea to simplify building web apps and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xuZ5E2Qs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i3f26mkvkc0blrovx1t3.png",
-  "slug": "the-frontend-hitchhiker-s-guide-javascript-frameworks-2c45",
-  "url": "https://dev.to/snickdx/the-frontend-hitchhiker-s-guide-javascript-frameworks-2c45",
-  "publish_date": "2021-07-04",
-  "published_at": "2021-07-04T00:58:44Z"
  }
 ]
