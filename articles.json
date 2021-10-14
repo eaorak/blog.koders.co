@@ -1,5 +1,55 @@
 [
  {
+  "id": 862208,
+  "title": "Web Scraping in Node.js!",
+  "description": "Web scraping:   Web Scraping is a way to collect all sorts of publicly available data like...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RKSFsrvC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2enza08y401ssv5it84.jpg",
+  "slug": "web-scraping-in-nodejs-2lkf",
+  "url": "https://dev.to/code_jedi/web-scraping-in-nodejs-2lkf",
+  "publish_date": "2021-10-13",
+  "published_at": "2021-10-13T16:49:39Z"
+ },
+ {
+  "id": 862258,
+  "title": "How does the INTERNET work? 🙀",
+  "description": "Hey Coders! In this article, I'm gonna break down how the internet actually works. It's incredible...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9d6X_CA3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4kj2jkgj2oknr7n3w277.jpg",
+  "slug": "how-does-the-internet-work-32d6",
+  "url": "https://dev.to/codewithtee/how-does-the-internet-work-32d6",
+  "publish_date": "2021-10-13",
+  "published_at": "2021-10-13T13:47:53Z"
+ },
+ {
+  "id": 861874,
+  "title": "Turning a React app into an installable PWA with offline detection, service workers and theming.",
+  "description": "Recently I decided to take the dive into making my web app progressive. Some of the benefits are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---1usaSqq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k3eow50aza72u5k89b7w.png",
+  "slug": "turning-a-react-app-into-a-pwa-with-offline-detection-service-workers-and-theming-142i",
+  "url": "https://dev.to/alexgurr/turning-a-react-app-into-a-pwa-with-offline-detection-service-workers-and-theming-142i",
+  "publish_date": "2021-10-13",
+  "published_at": "2021-10-13T10:02:52Z"
+ },
+ {
+  "id": 861863,
+  "title": "Top 10 articles about CSS of the week😁.",
+  "description": "Most popular articles about CSS published on the dev.to in this week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v5AeICtd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://source.unsplash.com/featured/colored",
+  "slug": "top-10-articles-about-css-of-the-week-1j97",
+  "url": "https://dev.to/ksengine/top-10-articles-about-css-of-the-week-1j97",
+  "publish_date": "2021-10-13",
+  "published_at": "2021-10-13T07:21:21Z"
+ },
+ {
+  "id": 861858,
+  "title": "👨‍💻 Create a Responsive Landing Page using HTML CSS \u0026 JS 🔥",
+  "description": "👋 Hello, Dear developers 👩‍💻👨‍💻, Today we'll see, how we can easily create another Responsive...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aeVuxaNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nvewzhphhgcx1nnqwfec.jpg",
+  "slug": "create-a-responsive-landing-page-using-html-css-js-b7m",
+  "url": "https://dev.to/ananiket/create-a-responsive-landing-page-using-html-css-js-b7m",
+  "publish_date": "2021-10-13",
+  "published_at": "2021-10-13T07:11:50Z"
+ },
+ {
   "id": 861121,
   "title": "If You're Reading This, Contribute to Forem",
   "description": "(I hope you enjoyed the title. It's a reference to Canadian Rapper Drake's 2015 mixtape: If You're...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aidenybai/get-s-on-your-github-project-17o1",
   "publish_date": "2021-07-06",
   "published_at": "2021-07-06T07:20:40Z"
- },
- {
-  "id": 742521,
-  "title": "5 practices I follow to get into Flow State while coding",
-  "description": "How can developers be more productive? Devs need to be focused for long hours, often with critical...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZY8tK6t4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs1ig3wa83r6alci1x7m.png",
-  "slug": "5-practices-i-follow-to-get-into-flow-state-while-coding-14b1",
-  "url": "https://dev.to/ankit01oss/5-practices-i-follow-to-get-into-flow-state-while-coding-14b1",
-  "publish_date": "2021-07-05",
-  "published_at": "2021-07-05T12:34:24Z"
- },
- {
-  "id": 748542,
-  "title": "How to Create a YouTube Downloader with Node.js and React.js",
-  "description": "In this tutorial, we will be going to build YouTube Downloader, the backend implemented in Express.js, and the frontend in React.js",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KqakgGcY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn-images-1.medium.com/max/1200/0%2A7Vq1uUDc9MSdtvvc",
-  "slug": "youtube-downloader-with-node-js-and-react-js-48jl",
-  "url": "https://dev.to/pprathameshmore/youtube-downloader-with-node-js-and-react-js-48jl",
-  "publish_date": "2021-07-05",
-  "published_at": "2021-07-05T11:59:23Z"
- },
- {
-  "id": 748473,
-  "title": "Modern Full-Stack Developer Tech Stack 2021",
-  "description": "The developer technology landscape changes all the time as new tools and technologies are introduced....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3GYxwdzv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0j1cwcwctju252urykqi.png",
-  "slug": "modern-full-stack-developer-tech-stack-2021-49ij",
-  "url": "https://dev.to/andrewbaisden/modern-full-stack-developer-tech-stack-2021-49ij",
-  "publish_date": "2021-07-05",
-  "published_at": "2021-07-05T10:08:34Z"
- },
- {
-  "id": 747810,
-  "title": "How to manage API calls in React ⚛️ ",
-  "description": "React library is well known for building rich and highly scalable user interfaces. There are many...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nhLRvwew--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qz2il9o39etnatd0p5i0.png",
-  "slug": "how-to-manage-api-calls-in-react-11a8",
-  "url": "https://dev.to/adyasha8105/how-to-manage-api-calls-in-react-11a8",
-  "publish_date": "2021-07-05",
-  "published_at": "2021-07-05T09:48:46Z"
- },
- {
-  "id": 748230,
-  "title": "Some Experiments with GitHub Copilot",
-  "description": "I recently got my hands the GitHub Copilot extension for VS Code and it's amazing (borderline...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ava_XHG1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4dkeqvcv6rt3mdc26uew.jpeg",
-  "slug": "some-experiments-with-github-copilot-4jao",
-  "url": "https://dev.to/rahulbanerjee99/some-experiments-with-github-copilot-4jao",
-  "publish_date": "2021-07-05",
-  "published_at": "2021-07-05T04:42:29Z"
  }
 ]
