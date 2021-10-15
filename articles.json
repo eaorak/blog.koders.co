@@ -1,5 +1,55 @@
 [
  {
+  "id": 863631,
+  "title": "Stop Writing JavaScript Like This\n",
+  "description": "Most of us are used to writing JavaScript code for a long time. But we might not have updated...",
+  "cover_image": "",
+  "slug": "stop-writing-javascript-like-this-8po",
+  "url": "https://dev.to/rubengabrielian/stop-writing-javascript-like-this-8po",
+  "publish_date": "2021-10-14",
+  "published_at": "2021-10-14T14:53:16Z"
+ },
+ {
+  "id": 863235,
+  "title": "JavaScript Framework TodoMVC Size Comparison",
+  "description": "Size in JavaScript Frameworks is actually a pretty tricky thing to estimate.   Even nailing down the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7kWtB_yL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8manos3f1nlzftsr54e.png",
+  "slug": "javascript-framework-todomvc-size-comparison-504f",
+  "url": "https://dev.to/this-is-learning/javascript-framework-todomvc-size-comparison-504f",
+  "publish_date": "2021-10-14",
+  "published_at": "2021-10-14T14:13:08Z"
+ },
+ {
+  "id": 863497,
+  "title": "You should stop using `parseInt()`",
+  "description": "This is something I see all the times, you have some code where at some point you have a variable...",
+  "cover_image": "",
+  "slug": "you-should-stop-using-parseint-nbf",
+  "url": "https://dev.to/darkmavis1980/you-should-stop-using-parseint-nbf",
+  "publish_date": "2021-10-14",
+  "published_at": "2021-10-14T12:39:05Z"
+ },
+ {
+  "id": 863496,
+  "title": "Stop using if else ",
+  "description": "Recently, I had a take home assignment for a front end role, and I had to make a sort of Dashboard. I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f47f8I3h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8p0qaiclbhp40gz8dfmq.png",
+  "slug": "stop-using-if-else-264o",
+  "url": "https://dev.to/rjitsu/stop-using-if-else-264o",
+  "publish_date": "2021-10-14",
+  "published_at": "2021-10-14T12:34:45Z"
+ },
+ {
+  "id": 863003,
+  "title": "I Design, You Build! - Frontend Challenge #3",
+  "description": "Appreciation   What an overwhelming response from the first two challenges! I know I said it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---_P25786--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/reokygthmvii3pkqjzvd.png",
+  "slug": "i-design-you-build-frontend-challenge-3-gda",
+  "url": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-3-gda",
+  "publish_date": "2021-10-14",
+  "published_at": "2021-10-14T02:18:13Z"
+ },
+ {
   "id": 862208,
   "title": "Web Scraping in Node.js!",
   "description": "Web scraping:   Web Scraping is a way to collect all sorts of publicly available data like...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/programmerlist/53-github-repos-you-should-check-out-to-become-better-developer-2021-5f70",
   "publish_date": "2021-07-07",
   "published_at": "2021-07-07T03:59:24Z"
- },
- {
-  "id": 745866,
-  "title": "JavaScript Frameworks and Metagaming",
-  "description": "Last week we released SolidJS 1.0. A JavaScript framework built on a foundation of ideas long ago...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EDr2VgVt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/chmbxjwbqxkqf2sdei80.jpeg",
-  "slug": "javascript-frameworks-and-metagaming-pb5",
-  "url": "https://dev.to/this-is-learning/javascript-frameworks-and-metagaming-pb5",
-  "publish_date": "2021-07-06",
-  "published_at": "2021-07-06T15:14:07Z"
- },
- {
-  "id": 751248,
-  "title": "The best VS Code extensions to supercharge Git (yes, there’s more than GitLens!)",
-  "description": "Yes, I know, we should all be terminal ninjas, memorising every git command yadda yadda. Or, like the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CTrX6TG1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uea6x5ysjxe58rp3drwl.png",
-  "slug": "the-best-vs-code-extensions-to-supercharge-git-yes-there-s-more-than-gitlens-4588",
-  "url": "https://dev.to/jamieswift90/the-best-vs-code-extensions-to-supercharge-git-yes-there-s-more-than-gitlens-4588",
-  "publish_date": "2021-07-06",
-  "published_at": "2021-07-06T12:06:49Z"
- },
- {
-  "id": 751222,
-  "title": "ES2021 Features! 🔥",
-  "description": "This article focuses on the JavaScript capabilities that are a part of ECMAScript 2021(ES12).   1....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dYk_slV_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dihrq9hr775adb5980g6.jpg",
-  "slug": "es2021-features-3pa",
-  "url": "https://dev.to/cenacr007_harsh/es2021-features-3pa",
-  "publish_date": "2021-07-06",
-  "published_at": "2021-07-06T09:42:50Z"
- },
- {
-  "id": 743825,
-  "title": "5 VS Code Extensions That Make Refactoring Easy",
-  "description": "If you’re looking at ways to clean up our code, reduce complexity and improve functionality - these...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ebjr2jDd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4hgm4fh52teptdi1528.jpg",
-  "slug": "5-vs-code-extensions-that-make-refactoring-easy-1ccb",
-  "url": "https://dev.to/alexomeyer/5-vs-code-extensions-that-make-refactoring-easy-1ccb",
-  "publish_date": "2021-07-06",
-  "published_at": "2021-07-06T09:05:29Z"
- },
- {
-  "id": 751039,
-  "title": "Get ⭐'s on your GitHub project",
-  "description": "Plug: I help develop million: \u0026lt;1kb virtual DOM - it's fast!            TL;DR   If applicable,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5PM5y-jm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5g09a1p25dmk8jfh9r9.png",
-  "slug": "get-s-on-your-github-project-17o1",
-  "url": "https://dev.to/aidenybai/get-s-on-your-github-project-17o1",
-  "publish_date": "2021-07-06",
-  "published_at": "2021-07-06T07:20:40Z"
  }
 ]
