@@ -1,5 +1,55 @@
 [
  {
+  "id": 867661,
+  "title": "How to create a fancy Github profile with README?",
+  "description": "In this article, we will show you how to use GitHub in a way that you never thought could be used....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_fmq-Z83--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x80w8l8kzvi2rg9tkr7v.jpg",
+  "slug": "how-to-create-a-fancy-github-profile-with-readme-4b1i",
+  "url": "https://dev.to/creativetim_official/how-to-create-a-fancy-github-profile-with-readme-4b1i",
+  "publish_date": "2021-10-18",
+  "published_at": "2021-10-18T13:25:39Z"
+ },
+ {
+  "id": 867600,
+  "title": "Top 10 dev.to articles of the week💪.",
+  "description": "Most popular articles published on the dev.to",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dEAN7hRz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://source.unsplash.com/featured/%3Fcoding",
+  "slug": "top-10-devto-articles-of-the-week-ggf",
+  "url": "https://dev.to/ksengine/top-10-devto-articles-of-the-week-ggf",
+  "publish_date": "2021-10-18",
+  "published_at": "2021-10-18T11:36:55Z"
+ },
+ {
+  "id": 867556,
+  "title": "Backend Developer Learning Path 2021",
+  "description": "Want to become a Backend Web Developer in 2021? Being a fresher and not knowing what career to choose...",
+  "cover_image": "",
+  "slug": "backend-developer-learning-path-2021-37c",
+  "url": "https://dev.to/codehacker/backend-developer-learning-path-2021-37c",
+  "publish_date": "2021-10-18",
+  "published_at": "2021-10-18T10:25:38Z"
+ },
+ {
+  "id": 867536,
+  "title": "How fast is your code?",
+  "description": "You ever wanted to know how long does a block of your code takes to execute? Well you have come to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wlF8noT9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bn5370gaetropzmws8k5.png",
+  "slug": "how-fast-is-your-code-31ji",
+  "url": "https://dev.to/0shuvo0/how-fast-is-your-code-31ji",
+  "publish_date": "2021-10-18",
+  "published_at": "2021-10-18T09:55:03Z"
+ },
+ {
+  "id": 867244,
+  "title": "Simplest way to compare two numbers array in JS",
+  "description": "In case of string we can simply use == or === to see if they are same but we can't use those to see...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gTrp7jIb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkcogx4gm99w18obwnzr.png",
+  "slug": "simplest-way-to-compare-two-array-in-js-4gio",
+  "url": "https://dev.to/0shuvo0/simplest-way-to-compare-two-array-in-js-4gio",
+  "publish_date": "2021-10-18",
+  "published_at": "2021-10-18T04:12:10Z"
+ },
+ {
   "id": 866231,
   "title": "How to Build a Music Streaming App with React using Auth0 and Cloudinary",
   "description": "Since its debut, music streaming has developed dramatically, and it is currently one of the most...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/5-awesome-css-tricks-you-did-not-know-2j4a",
   "publish_date": "2021-07-11",
   "published_at": "2021-07-11T04:05:57Z"
- },
- {
-  "id": 755490,
-  "title": "Impress hiring managers by presenting your React projects like a pro - Part 2",
-  "description": "If you want a job build your portfolio projects like a professional dev. This guide split in three parts explains how and provides 3 inspiring ideas.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pES144Cy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3srjwcwpj5542x6fak7o.png",
-  "slug": "impress-hiring-managers-by-presenting-your-react-projects-like-a-pro-part-2-3eje",
-  "url": "https://dev.to/profydev/impress-hiring-managers-by-presenting-your-react-projects-like-a-pro-part-2-3eje",
-  "publish_date": "2021-07-10",
-  "published_at": "2021-07-10T11:41:53Z"
- },
- {
-  "id": 755480,
-  "title": "15 Custom Hooks to Make your React Component Lightweight",
-  "description": "Here are the 15 custom hooks to make your React component lightweight  React hooks is the trending...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ks5GNio7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b11z89568ix8d7hogala.png",
-  "slug": "15-custom-hooks-to-make-your-react-component-lightweight-17cd",
-  "url": "https://dev.to/nilanth/15-custom-hooks-to-make-your-react-component-lightweight-17cd",
-  "publish_date": "2021-07-10",
-  "published_at": "2021-07-10T11:12:32Z"
- },
- {
-  "id": 754977,
-  "title": "The Scope Chain in JavaScript",
-  "description": "Chapter 3: The Scope Chain    These are the notes of third chapter of the book \"You Don't...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NtaSJS4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xy1c8ckhb7tazlc1ekse.jpeg",
-  "slug": "the-scope-chain-in-javascript-596o",
-  "url": "https://dev.to/rajat2502/the-scope-chain-in-javascript-596o",
-  "publish_date": "2021-07-10",
-  "published_at": "2021-07-10T07:07:37Z"
- },
- {
-  "id": 755260,
-  "title": "Understanding the useReducer hook in React",
-  "description": "What is useReducer?   useReducer is one of the additional hooks that shipped with React 16.8...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9F5dDyP9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rw6lqicu4v2qkh3ne7u7.png",
-  "slug": "understanding-the-usereducer-hook-in-react-4k12",
-  "url": "https://dev.to/amarjits/understanding-the-usereducer-hook-in-react-4k12",
-  "publish_date": "2021-07-10",
-  "published_at": "2021-07-10T06:17:16Z"
- },
- {
-  "id": 755142,
-  "title": "Turn your Create React App into a Progressive Web App in 100 seconds",
-  "description": "Progressive Web Apps (PWAs) let regular apps become accessible offline. They also have access to more...",
-  "cover_image": "",
-  "slug": "turn-your-create-react-app-into-a-progressive-web-app-in-100-seconds-3c11",
-  "url": "https://dev.to/myfatemi04/turn-your-create-react-app-into-a-progressive-web-app-in-100-seconds-3c11",
-  "publish_date": "2021-07-10",
-  "published_at": "2021-07-10T00:25:21Z"
  }
 ]
