@@ -1,5 +1,55 @@
 [
  {
+  "id": 869130,
+  "title": "React User Authentication - Using JWT (Json Web Tokens)",
+  "description": "This article explains how to enhance any React template with JWT (Json WEB Tokens) authentication using a simple Node JS API Backend - Free samples included.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RUkqXuBH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mbijum1y7ftm50y3lda1.png",
+  "slug": "react-user-authentication-using-jwt-json-web-tokens-4f81",
+  "url": "https://dev.to/sm0ke/react-user-authentication-using-jwt-json-web-tokens-4f81",
+  "publish_date": "2021-10-19",
+  "published_at": "2021-10-19T15:14:26Z"
+ },
+ {
+  "id": 868871,
+  "title": "How I created my portfolio with Nextjs and PlainCSS!",
+  "description": "At present Next.js has been a very popular library to build beautiful, scalable Full-Stack...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aYtDC873--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xhwpdtgf5c5vs1egv43l.png",
+  "slug": "how-i-created-my-portfolio-with-nextjs-and-plaincss-26ik",
+  "url": "https://dev.to/irandeeprana/how-i-created-my-portfolio-with-nextjs-and-plaincss-26ik",
+  "publish_date": "2021-10-19",
+  "published_at": "2021-10-19T13:29:49Z"
+ },
+ {
+  "id": 868844,
+  "title": "The Only Bash Scripting Cheat Sheet That You Will Ever Need",
+  "description": "Introduction   No matter if you are a DevOps/SysOps engineer, developer, or just a Linux...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--US-j5mQe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1gj2qg64668qduarpe1.jpg",
+  "slug": "the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7",
+  "url": "https://dev.to/bobbyiliev/the-only-bash-scripting-cheat-sheet-that-you-will-ever-need-55c7",
+  "publish_date": "2021-10-19",
+  "published_at": "2021-10-19T12:17:52Z"
+ },
+ {
+  "id": 868827,
+  "title": "Top 10 articles about JavaScript of the week💘.",
+  "description": "Most popular articles about JavaScript published on the dev.to in this week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5ZqWD-ot--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://source.unsplash.com/featured/%3Fjavascript",
+  "slug": "top-10-articles-about-javascript-of-the-week-41eg",
+  "url": "https://dev.to/ksengine/top-10-articles-about-javascript-of-the-week-41eg",
+  "publish_date": "2021-10-19",
+  "published_at": "2021-10-19T11:32:14Z"
+ },
+ {
+  "id": 868578,
+  "title": "A Visual Guide to React Rendering - Cheat Sheet",
+  "description": "When does react component re-renders? What can cause the re-render, and how to prevent unnecessary...",
+  "cover_image": "",
+  "slug": "a-visual-guide-to-react-rendering-cheat-sheet-2482",
+  "url": "https://dev.to/sidkh/a-visual-guide-to-react-rendering-cheat-sheet-2482",
+  "publish_date": "2021-10-19",
+  "published_at": "2021-10-19T09:05:11Z"
+ },
+ {
   "id": 867661,
   "title": "How to create a fancy Github profile with README?",
   "description": "In this article, we will show you how to use GitHub in a way that you never thought could be used....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ameybhavsar/i-made-a-whatsapp-bot-to-solve-math-problems-6ab",
   "publish_date": "2021-07-12",
   "published_at": "2021-07-12T07:20:32Z"
- },
- {
-  "id": 756172,
-  "title": "Master Git in 7 minutes",
-  "description": "Essentially, Git keeps tabs on text changes, but the definition is a version control system. Chances...",
-  "cover_image": "",
-  "slug": "master-git-in-7-minutes-gai",
-  "url": "https://dev.to/valeriavg/master-git-in-7-minutes-gai",
-  "publish_date": "2021-07-11",
-  "published_at": "2021-07-11T12:27:30Z"
- },
- {
-  "id": 756042,
-  "title": "A basis for a coding interview using \"FizzBuzz\" only⁉- 8 challenges for beginners AND Pros [with a twist for Pros! 😱] ",
-  "description": "FizzBuzz is a mental arithmetic game that got turned into a popular interview question. But what if...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dfX9iq7X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n43y0ofzzm0gvtccwc6q.jpg",
-  "slug": "taking-fizzbuzz-to-the-next-level-8-challenges-from-beginner-to-pro-to-test-your-javascript-skills-2dih",
-  "url": "https://dev.to/inhuofficial/taking-fizzbuzz-to-the-next-level-8-challenges-from-beginner-to-pro-to-test-your-javascript-skills-2dih",
-  "publish_date": "2021-07-11",
-  "published_at": "2021-07-11T11:30:00Z"
- },
- {
-  "id": 756166,
-  "title": "Build an outstanding portfolio with these 3 React project ideas - Part 3",
-  "description": "If you want a job build your portfolio projects like a professional dev. This guide split in three parts explains how and provides 3 inspiring ideas.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pES144Cy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3srjwcwpj5542x6fak7o.png",
-  "slug": "build-an-outstanding-portfolio-with-these-3-react-project-ideas-part-3-eii",
-  "url": "https://dev.to/profydev/build-an-outstanding-portfolio-with-these-3-react-project-ideas-part-3-eii",
-  "publish_date": "2021-07-11",
-  "published_at": "2021-07-11T11:17:49Z"
- },
- {
-  "id": 753286,
-  "title": "Demystifying Position Property",
-  "description": "CSS provides the position property that specifies how an element should appear in the document. This...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wG6q6u5Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5gce4h1sq84far8qku4f.png",
-  "slug": "demystifying-position-property-30kd",
-  "url": "https://dev.to/bharati21/demystifying-position-property-30kd",
-  "publish_date": "2021-07-11",
-  "published_at": "2021-07-11T06:38:20Z"
- },
- {
-  "id": 753820,
-  "title": "5 awesome CSS tricks for beginners",
-  "description": "Learning CSS is a life long journey. Everyday some new feature is coming up. With that said, there...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HFf08Mvn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7udwltl2di6huovkqo8i.jpg",
-  "slug": "5-awesome-css-tricks-you-did-not-know-2j4a",
-  "url": "https://dev.to/ruppysuppy/5-awesome-css-tricks-you-did-not-know-2j4a",
-  "publish_date": "2021-07-11",
-  "published_at": "2021-07-11T04:05:57Z"
  }
 ]
