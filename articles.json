@@ -1,5 +1,55 @@
 [
  {
+  "id": 871932,
+  "title": "Javascript academy #1: Primitive value vs reference value",
+  "description": "Welcome to this new academy! In this I will NOT explain you javascript from scratch, the aim of this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jRogCwiP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4tejrkoaqkivuw5doik1.png",
+  "slug": "javascript-academy-1-primitive-value-vs-reference-value-1phl",
+  "url": "https://dev.to/codeoz/javascript-academy-1-primitive-value-vs-reference-value-1phl",
+  "publish_date": "2021-10-22",
+  "published_at": "2021-10-22T14:43:34Z"
+ },
+ {
+  "id": 872485,
+  "title": "Keeping Up With CSS",
+  "description": "The following was originally sent out in my weekly newsletter.   If you're reading this, you're...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A8bwCqUM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xobric71plw5qek624r8.png",
+  "slug": "keeping-up-with-css-3f20",
+  "url": "https://dev.to/5t3ph/keeping-up-with-css-3f20",
+  "publish_date": "2021-10-22",
+  "published_at": "2021-10-22T13:43:08Z"
+ },
+ {
+  "id": 871450,
+  "title": "🚀10 Trending projects on GitHub for web developers - 22nd October 2021",
+  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
+  "cover_image": "",
+  "slug": "10-trending-projects-on-github-for-web-developers-22nd-october-2021-lck",
+  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-22nd-october-2021-lck",
+  "publish_date": "2021-10-22",
+  "published_at": "2021-10-22T13:43:05Z"
+ },
+ {
+  "id": 872209,
+  "title": "Testing a simple component with React Testing Library",
+  "description": "In this post join me as I use React Testing Library to test a simple React component. Apart from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iSGW6RHs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jdxqogmx89e3uoail0dg.jpg",
+  "slug": "testing-a-simple-component-with-react-testing-library-5bc6",
+  "url": "https://dev.to/mbarzeev/testing-a-simple-component-with-react-testing-library-5bc6",
+  "publish_date": "2021-10-22",
+  "published_at": "2021-10-22T08:40:53Z"
+ },
+ {
+  "id": 870793,
+  "title": "7 CSS tips you need to know right now.",
+  "description": "1. Change the color of the cursor for any input field              2. Center any thing with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MloPQFqf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hhmptcjpt6b6hni2xb5z.png",
+  "slug": "7-css-tips-you-need-to-know-right-now-2jji",
+  "url": "https://dev.to/abhirajb/7-css-tips-you-need-to-know-right-now-2jji",
+  "publish_date": "2021-10-22",
+  "published_at": "2021-10-22T04:12:20Z"
+ },
+ {
   "id": 871488,
   "title": "Lets create a screen recorder with JS",
   "description": "OBS studio is cool but lets create our very own screen recorder using JavaScript. And guess what? Its...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sm0ke/react-dashboard-open-source-full-stack-products-4224",
   "publish_date": "2021-07-15",
   "published_at": "2021-07-15T08:09:50Z"
- },
- {
-  "id": 758671,
-  "title": "4 JavaScript Projects To Build FAST And Get Hired In 1 Month",
-  "description": "If you're starting to apply for your first web developer junior position, then you might want to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Oqr_EQ-n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eeuye0siaq6v5c5izv8w.jpg",
-  "slug": "4-javascript-projects-to-build-fast-and-get-hired-in-1-month-4agf",
-  "url": "https://dev.to/devpool3000/4-javascript-projects-to-build-fast-and-get-hired-in-1-month-4agf",
-  "publish_date": "2021-07-14",
-  "published_at": "2021-07-14T15:31:42Z"
- },
- {
-  "id": 758557,
-  "title": "Building JavaScript Frameworks to Conquer eCommerce",
-  "description": "There was a time that I would have never imagined the need to write an article like this. If you were...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lUjplSHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5m1f803xlnlrrniuz7bm.png",
-  "slug": "building-javascript-frameworks-to-conquer-ecommerce-3glc",
-  "url": "https://dev.to/this-is-learning/building-javascript-frameworks-to-conquer-ecommerce-3glc",
-  "publish_date": "2021-07-14",
-  "published_at": "2021-07-14T14:42:07Z"
- },
- {
-  "id": 758246,
-  "title": "How To Use Axios in an Optimized and Scalable Way With React",
-  "description": "We can see how to use Axios in an optimized and scalable way in a React app.  When you are building...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fgXN8wzs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oegb9m6v0fnemnvtt4d5.png",
-  "slug": "how-to-use-axios-in-an-optimized-and-scalable-way-with-react-518n",
-  "url": "https://dev.to/nilanth/how-to-use-axios-in-an-optimized-and-scalable-way-with-react-518n",
-  "publish_date": "2021-07-14",
-  "published_at": "2021-07-14T14:22:46Z"
- },
- {
-  "id": 759120,
-  "title": "Make your own (interactive) graphic novel",
-  "description": "As a child, I was spellbound by the 2000 AD comics. It had nonlinear narratives, irreverent humour,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yDD9NkAf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rd4plt3orbxg4ed6zs4k.png",
-  "slug": "a-microaction-graphic-novel-concept-1a9g",
-  "url": "https://dev.to/robole/a-microaction-graphic-novel-concept-1a9g",
-  "publish_date": "2021-07-14",
-  "published_at": "2021-07-14T12:06:59Z"
- },
- {
-  "id": 759004,
-  "title": "CSS media query : how to make website responsive",
-  "description": "Media query are the most important concept of CSS now days. As majority of users use their phone or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aCd0Mkex--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g7cgylclq19uq5lxnvrd.png",
-  "slug": "media-query-everything-you-need-for-responsive-design-b8g",
-  "url": "https://dev.to/kunaal438/media-query-everything-you-need-for-responsive-design-b8g",
-  "publish_date": "2021-07-14",
-  "published_at": "2021-07-14T09:24:19Z"
  }
 ]
