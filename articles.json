@@ -1,5 +1,55 @@
 [
  {
+  "id": 873370,
+  "title": "7 GitHub projects to supercharge your Docker practices 🚀🧑‍💻",
+  "description": "Docker is an open-source container management platform used to build, run and package applications...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fPLwEqY4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qj1rzt2u19qwffwgi2gw.png",
+  "slug": "7-github-projects-to-supercharge-your-docker-practices-2i80",
+  "url": "https://dev.to/ankit01oss/7-github-projects-to-supercharge-your-docker-practices-2i80",
+  "publish_date": "2021-10-23",
+  "published_at": "2021-10-23T12:46:10Z"
+ },
+ {
+  "id": 873554,
+  "title": "Tools That Have Made React Documentation A Piece of Cake",
+  "description": "Full article is available on Aviyel  If you are a front end developer, chances are; you already had...",
+  "cover_image": "",
+  "slug": "tools-that-have-made-react-documentation-a-piece-of-cake-2kp3",
+  "url": "https://dev.to/sankalpswami1122/tools-that-have-made-react-documentation-a-piece-of-cake-2kp3",
+  "publish_date": "2021-10-23",
+  "published_at": "2021-10-23T11:48:31Z"
+ },
+ {
+  "id": 849154,
+  "title": "The Full-Stack Developer Vocabulary (Pt.1, the essentials)",
+  "description": "DOM? Serverless? CI/CD? JSON?            WTF is everyone talking about???   If you're new to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TdXB4S3z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ysfzy22s6b224sh9rnz.jpg",
+  "slug": "the-full-stack-developer-vocabulary-pt1-the-essentials-4ap4",
+  "url": "https://dev.to/code_jedi/the-full-stack-developer-vocabulary-pt1-the-essentials-4ap4",
+  "publish_date": "2021-10-23",
+  "published_at": "2021-10-23T11:11:45Z"
+ },
+ {
+  "id": 873291,
+  "title": "14 tips to Google like a pro",
+  "description": "Google is one of the most powerful tools, and believe it or not, Googling is one of the most...",
+  "cover_image": "",
+  "slug": "14-tips-to-google-like-a-pro-14jo",
+  "url": "https://dev.to/ruphaa/14-tips-to-google-like-a-pro-14jo",
+  "publish_date": "2021-10-23",
+  "published_at": "2021-10-23T09:00:10Z"
+ },
+ {
+  "id": 872226,
+  "title": "How not to update states in React!!",
+  "description": "How do you guys update your state if it depends on the previous value?  Simple!!    ...  const...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WSkJNOY7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6uewpkyoeidy44xzfan.png",
+  "slug": "how-not-to-update-states-in-react-33om",
+  "url": "https://dev.to/nehal_mahida/how-not-to-update-states-in-react-33om",
+  "publish_date": "2021-10-23",
+  "published_at": "2021-10-23T03:50:19Z"
+ },
+ {
   "id": 871932,
   "title": "Javascript academy #1: Primitive value vs reference value",
   "description": "Welcome to this new academy! In this I will NOT explain you javascript from scratch, the aim of this...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aidenybai/million-js-the-future-of-virtual-dom-1e6d",
   "publish_date": "2021-07-16",
   "published_at": "2021-07-16T01:29:35Z"
- },
- {
-  "id": 760274,
-  "title": "CSS Grid Cheat Sheet 🔥",
-  "description": "Hi dev friends!  I made this CSS Grid Cheat Sheet that fits on one page. I hope this will help you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sqGnD2fL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mok7m4ysvqm515f4w8la.png",
-  "slug": "css-grid-cheat-sheet-2ll8",
-  "url": "https://dev.to/simonpaix/css-grid-cheat-sheet-2ll8",
-  "publish_date": "2021-07-15",
-  "published_at": "2021-07-15T16:39:06Z"
- },
- {
-  "id": 760223,
-  "title": "⚡10 JavaScript Projects Every Beginner Must Try ",
-  "description": "Hey everyone 👋🏻,  In this article, let us see 10 JavaScript Projects Every Beginner Must Try.        ...",
-  "cover_image": "",
-  "slug": "10-javascript-projects-every-beginner-must-try-p19",
-  "url": "https://dev.to/thenerdydev/10-javascript-projects-every-beginner-must-try-p19",
-  "publish_date": "2021-07-15",
-  "published_at": "2021-07-15T15:46:14Z"
- },
- {
-  "id": 754870,
-  "title": "Vue Academy #0: What is VueJs ? (Fastly)",
-  "description": "What is VueJs ?   Vue is a progressive framework for building user interfaces. It's based on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--db4uYTzH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zri7nl44pl3c7cox0kx7.png",
-  "slug": "vue-academy-0-what-is-vuejs-fastly-2eha",
-  "url": "https://dev.to/codeozz/vue-academy-0-what-is-vuejs-fastly-2eha",
-  "publish_date": "2021-07-15",
-  "published_at": "2021-07-15T11:39:51Z"
- },
- {
-  "id": 759219,
-  "title": "Top 10 open-source SaaS that could help you build the next big thing ",
-  "description": "I'm super happy that investors and big companies are finally happy to support Open Source projects....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lVG1ldVz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zhfbmofa1hqxadc1ybl3.png",
-  "slug": "top-10-open-source-saas-that-could-help-you-build-the-next-big-thing-2eai",
-  "url": "https://dev.to/alex_barashkov/top-10-open-source-saas-that-could-help-you-build-the-next-big-thing-2eai",
-  "publish_date": "2021-07-15",
-  "published_at": "2021-07-15T08:48:03Z"
- },
- {
-  "id": 759875,
-  "title": "React Dashboard - Open-source Full-stack Products",
-  "description": "A short-list with open-source React Dashboards already coded with JWT authentication and usable backend.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_ytZfwpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8iwkvu68wcbc8r2srojd.jpg",
-  "slug": "react-dashboard-open-source-full-stack-products-4224",
-  "url": "https://dev.to/sm0ke/react-dashboard-open-source-full-stack-products-4224",
-  "publish_date": "2021-07-15",
-  "published_at": "2021-07-15T08:09:50Z"
  }
 ]
