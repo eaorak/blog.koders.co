@@ -1,5 +1,55 @@
 [
  {
+  "id": 855195,
+  "title": "5 Open Source tools for Documenting your React Component",
+  "description": "Introduction   Documenting our code is of course not the easiest part of the development...",
+  "cover_image": "",
+  "slug": "5-tools-that-have-made-react-documentation-a-piece-of-cake-2750",
+  "url": "https://dev.to/sankalpswami1122/5-tools-that-have-made-react-documentation-a-piece-of-cake-2750",
+  "publish_date": "2021-10-25",
+  "published_at": "2021-10-25T10:23:34Z"
+ },
+ {
+  "id": 846146,
+  "title": "Top 4 Mistakes in React Interviews",
+  "description": "These are four common mistakes in React interviews. Sometimes the pressure of the interview makes us...",
+  "cover_image": "",
+  "slug": "top-4-mistakes-in-react-interviews-b4i",
+  "url": "https://dev.to/andyrewlee/top-4-mistakes-in-react-interviews-b4i",
+  "publish_date": "2021-10-25",
+  "published_at": "2021-10-25T07:26:35Z"
+ },
+ {
+  "id": 872379,
+  "title": "Some Strange Concept of JavaScript",
+  "description": "In this article, we are going to look at some weird and strange concepts of Javascript, Some of which...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BRg-pzNj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iz7ubuibm1vy3kqr5x61.png",
+  "slug": "some-strange-concept-of-javascript-4icc",
+  "url": "https://dev.to/j471n/some-strange-concept-of-javascript-4icc",
+  "publish_date": "2021-10-25",
+  "published_at": "2021-10-25T07:14:13Z"
+ },
+ {
+  "id": 873135,
+  "title": "Repository Pattern with Typescript and Node.js",
+  "description": "If you working with Node.js you probably interact with the database (MongoDB, PostgreSQL, and etc)...",
+  "cover_image": "",
+  "slug": "repository-pattern-with-typescript-and-nodejs-25da",
+  "url": "https://dev.to/fyapy/repository-pattern-with-typescript-and-nodejs-25da",
+  "publish_date": "2021-10-25",
+  "published_at": "2021-10-25T05:14:37Z"
+ },
+ {
+  "id": 874762,
+  "title": "Tesla Pushes Out Dangerous Software Update, Bungles Rollback Attempt",
+  "description": "There are a lot of headlines about Tesla that overstate a story for clicks, and I can assure you this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Se7ZIi1_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dayv1qu4phhng5uegi2k.png",
+  "slug": "tesla-pushes-out-dangerous-software-update-bungles-rollback-attempt-5hl4",
+  "url": "https://dev.to/ben/tesla-pushes-out-dangerous-software-update-bungles-rollback-attempt-5hl4",
+  "publish_date": "2021-10-25",
+  "published_at": "2021-10-25T00:50:35Z"
+ },
+ {
   "id": 874194,
   "title": "Tailwind isn't the answer",
   "description": "Tailwind CSS has taken the frontend development world by storm over the last few years. A...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ayabouchiha/resources-to-master-5-popular-react-libraries-2n81",
   "publish_date": "2021-07-18",
   "published_at": "2021-07-18T00:26:31Z"
- },
- {
-  "id": 760133,
-  "title": "5 ultimate resources for git #1",
-  "description": "Welcome my friend !  I will share with you some important resource that will improve your skill in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yuI8PTYe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1xszw1lzxyqvrtff5fvg.jpg",
-  "slug": "5-ultimate-resources-for-git-1-20al",
-  "url": "https://dev.to/codeozz/5-ultimate-resources-for-git-1-20al",
-  "publish_date": "2021-07-17",
-  "published_at": "2021-07-17T16:27:42Z"
- },
- {
-  "id": 760014,
-  "title": "React hooks on steroids",
-  "description": "Introduction   This isn't going to be just another hooks and context tutorial, this is going...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CiAXc7sO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wgqbz8utl46vjiecjnf1.png",
-  "slug": "react-hooks-on-steroids-48l3",
-  "url": "https://dev.to/patheticgeek/react-hooks-on-steroids-48l3",
-  "publish_date": "2021-07-17",
-  "published_at": "2021-07-17T15:46:47Z"
- },
- {
-  "id": 761778,
-  "title": "URL Shortener API with express in 5 minutes",
-  "description": "Hello Everyone!   Today, in this tutorial, we will be trying to make a URL shortener API. To...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wsTEm5yK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2gxjeg542kd1x3pac7y.png",
-  "slug": "url-shortener-api-with-express-in-5-minutes-2ehp",
-  "url": "https://dev.to/agorushkin/url-shortener-api-with-express-in-5-minutes-2ehp",
-  "publish_date": "2021-07-17",
-  "published_at": "2021-07-17T08:34:00Z"
- },
- {
-  "id": 761767,
-  "title": "Create LANDING PAGE with 3-D Effect",
-  "description": "In this article I am going to show you how to add 3-D effects to a Landing Page using HTML, CSS and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Omiu9X8j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8o8hgtwehq3gg683ucw.jpg",
-  "slug": "create-landing-page-with-3-d-effect-4136",
-  "url": "https://dev.to/rajshreevats/create-landing-page-with-3-d-effect-4136",
-  "publish_date": "2021-07-17",
-  "published_at": "2021-07-17T07:50:41Z"
- },
- {
-  "id": 761610,
-  "title": "Getting Started with JavaScript - Ultimate Free Resources",
-  "description": "In recent times few friends reached out to me, asking for links to resources that can help them...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kNybSdQ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kxcefyjvd7r9z3dumn1x.jpeg",
-  "slug": "getting-started-with-javascript-ultimate-free-resources-59p6",
-  "url": "https://dev.to/kritikapattalam/getting-started-with-javascript-ultimate-free-resources-59p6",
-  "publish_date": "2021-07-17",
-  "published_at": "2021-07-17T01:35:24Z"
  }
 ]
