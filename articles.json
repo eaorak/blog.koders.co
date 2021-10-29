@@ -1,5 +1,55 @@
 [
  {
+  "id": 877463,
+  "title": "Want to have tech recruiters find you? Sixteen important things to remember\n",
+  "description": "I've used LinkedIn to find my last three developer jobs, and that was also my first three developer...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G4UcR2sx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3m6vsgbajp6tcc9ljalm.jpeg",
+  "slug": "want-to-have-tech-recruiters-find-you-sixteen-important-things-to-remember-4jjd",
+  "url": "https://dev.to/techieeliot/want-to-have-tech-recruiters-find-you-sixteen-important-things-to-remember-4jjd",
+  "publish_date": "2021-10-28",
+  "published_at": "2021-10-28T14:12:19Z"
+ },
+ {
+  "id": 879460,
+  "title": "Quiz📣: How Well Do You Understand Asynchronous JavaScript?",
+  "description": "Over the last few weeks, we had a lot of discussions on asynchronous JavaScript and patterns we use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQAiJA2M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/912cegapz5170692mttp.png",
+  "slug": "quiz-how-well-do-you-understand-asynchronous-javascript-5e4j",
+  "url": "https://dev.to/ditdot/quiz-how-well-do-you-understand-asynchronous-javascript-5e4j",
+  "publish_date": "2021-10-28",
+  "published_at": "2021-10-28T13:37:47Z"
+ },
+ {
+  "id": 878296,
+  "title": "Integrating captcha in your app in 10 minutes",
+  "description": "Ok, so what is a captcha?  Captcha is “a computer program or system intended to distinguish human...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MulwHqbR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cybpn8hd4ogo2yr7r841.jpg",
+  "slug": "integrating-captcha-in-your-app-in-10-minutes-1dhh",
+  "url": "https://dev.to/abhirajb/integrating-captcha-in-your-app-in-10-minutes-1dhh",
+  "publish_date": "2021-10-28",
+  "published_at": "2021-10-28T08:17:53Z"
+ },
+ {
+  "id": 879392,
+  "title": "useNavigate tutorial React JS",
+  "description": "Hi guys !.  In this post we will learn how to use the useNavigate hook in React JS. useNavigate is...",
+  "cover_image": "",
+  "slug": "usenavigate-tutorial-react-js-aop",
+  "url": "https://dev.to/salehmubashar/usenavigate-tutorial-react-js-aop",
+  "publish_date": "2021-10-28",
+  "published_at": "2021-10-28T06:27:53Z"
+ },
+ {
+  "id": 879174,
+  "title": "An NFT based game",
+  "description": "The project   So this past week I built out my second dApp with the current cohort in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WS9QK_wT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iezxljfb8pspnqkmea00.jpg",
+  "slug": "an-nft-based-game-1jfk",
+  "url": "https://dev.to/nickytonline/an-nft-based-game-1jfk",
+  "publish_date": "2021-10-28",
+  "published_at": "2021-10-28T02:29:29Z"
+ },
+ {
   "id": 878333,
   "title": "💡 Free Introduction to Docker eBook",
   "description": "💡 Introduction to Docker   This is an open-source introduction to Docker guide that will...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bekbrace/full-stack-app-django-and-react-2kih",
   "publish_date": "2021-07-21",
   "published_at": "2021-07-21T05:12:27Z"
- },
- {
-  "id": 766799,
-  "title": "Forem Self-Host is Now Officially Supported",
-  "description": "Today, the playbook for self-hosting your own Forem community is officially live. Read all...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---cFmabdl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w9wzphs3zus8yr4ngkbw.png",
-  "slug": "forem-self-host-is-now-officially-supported-16h0",
-  "url": "https://dev.to/devteam/forem-self-host-is-now-officially-supported-16h0",
-  "publish_date": "2021-07-20",
-  "published_at": "2021-07-20T19:10:28Z"
- },
- {
-  "id": 766461,
-  "title": "How to hide Feature A and show Feature B for different users in React",
-  "description": "Overview   Have you ever wondered how do companies like Slack, Netlify, Zoom, Facebook (and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YORsqrrs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2hocvrp9v6c7zi5xzcuu.png",
-  "slug": "how-to-hide-feature-a-and-show-feature-b-for-different-users-in-react-j6e",
-  "url": "https://dev.to/alex_barashkov/how-to-hide-feature-a-and-show-feature-b-for-different-users-in-react-j6e",
-  "publish_date": "2021-07-20",
-  "published_at": "2021-07-20T15:16:18Z"
- },
- {
-  "id": 765981,
-  "title": "CSS + BEM Methodology = 🤘 ",
-  "description": "We all follow naming conventions in programming languages, don't we? Now, what about CSS? Is there...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5NVa6ob3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djtcbhtaecie6x0xlo8e.png",
-  "slug": "css-bem-methodology-690",
-  "url": "https://dev.to/tanwanimohit/css-bem-methodology-690",
-  "publish_date": "2021-07-20",
-  "published_at": "2021-07-20T07:33:24Z"
- },
- {
-  "id": 766254,
-  "title": "I Recreated my VSCode Theme 🔥",
-  "description": "Hi guys! So, couple of months back I wrote a blog \"I created a VSCode theme\" describing about the VS...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7FEwdECg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q0y9jtbvlh1gpe02rf7v.png",
-  "slug": "i-recreated-my-vscode-theme-33p6",
-  "url": "https://dev.to/shaan71845/i-recreated-my-vscode-theme-33p6",
-  "publish_date": "2021-07-20",
-  "published_at": "2021-07-20T06:03:49Z"
- },
- {
-  "id": 766101,
-  "title": "Part-2: 5 HTML Tags That Almost Nobody Knows",
-  "description": "Hello, I'm Aya Bouchiha, today, I'm going to discuss another 5 HTML tags that you're almost don't...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--coo9koAv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15wmwuhqriwg2o81s6t2.jpg",
-  "slug": "part-2-5-html-tags-that-almost-nobody-knows-nj8",
-  "url": "https://dev.to/ayabouchiha/part-2-5-html-tags-that-almost-nobody-knows-nj8",
-  "publish_date": "2021-07-20",
-  "published_at": "2021-07-20T00:55:01Z"
  }
 ]
