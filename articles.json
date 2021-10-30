@@ -1,5 +1,55 @@
 [
  {
+  "id": 880656,
+  "title": "CAST AI vs. GKE Autopilot: Where to manage Kubernetes on GKE?",
+  "description": "Bonus content: Detailed simulation of cluster costs with CAST AI vs. GKE Autopilot  Running...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PfwFXQVP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zdkybjrxanxl6v8s5j7i.png",
+  "slug": "cast-ai-vs-gke-autopilot-where-to-manage-kubernetes-on-gke-2do9",
+  "url": "https://dev.to/castai/cast-ai-vs-gke-autopilot-where-to-manage-kubernetes-on-gke-2do9",
+  "publish_date": "2021-10-29",
+  "published_at": "2021-10-29T07:45:05Z"
+ },
+ {
+  "id": 880485,
+  "title": "Building a music player application in react from absolute scratch 🔥🎶",
+  "description": "In this blog tutorial, we are going to set up and build music player applications using react.js from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2POXNJZT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zs01nq18gjt385xkshgm.png",
+  "slug": "building-a-music-player-application-in-react-js-3ngd",
+  "url": "https://dev.to/aviyel/building-a-music-player-application-in-react-js-3ngd",
+  "publish_date": "2021-10-29",
+  "published_at": "2021-10-29T06:34:41Z"
+ },
+ {
+  "id": 873802,
+  "title": "How to share anything from your website by Web Share API",
+  "description": "In this article we are going to look at Web Share API. With the Web Share API, web apps are able to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sYZvFeEs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52pjqkmjblnuqkj30si7.png",
+  "slug": "how-to-share-anything-from-your-website-by-web-share-api-1h5g",
+  "url": "https://dev.to/j471n/how-to-share-anything-from-your-website-by-web-share-api-1h5g",
+  "publish_date": "2021-10-29",
+  "published_at": "2021-10-29T05:35:31Z"
+ },
+ {
+  "id": 880292,
+  "title": "What you missed at GitHub Universe, the latest feature announcements",
+  "description": "GitHub Universe has been our flagship event for announcing and launching new products. Since last...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MGbnqlVY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8l2xv9gqfri3bnmsoso.png",
+  "slug": "what-you-missed-at-github-universe-the-latest-feature-announcements-190l",
+  "url": "https://dev.to/github/what-you-missed-at-github-universe-the-latest-feature-announcements-190l",
+  "publish_date": "2021-10-29",
+  "published_at": "2021-10-29T02:40:27Z"
+ },
+ {
+  "id": 879182,
+  "title": "Creating a blockchain in 60 lines of Javascript",
+  "description": "In recent years, cryptocurrencies and blockchains are two uprising fields, so today, I will share my...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dcIy3but--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ubno1i6mkcco3xkhps1.jpg",
+  "slug": "creating-a-blockchain-in-60-lines-of-javascript-5fka",
+  "url": "https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka",
+  "publish_date": "2021-10-29",
+  "published_at": "2021-10-29T02:27:47Z"
+ },
+ {
   "id": 877463,
   "title": "Want to have tech recruiters find you? Sixteen important things to remember\n",
   "description": "I've used LinkedIn to find my last three developer jobs, and that was also my first three developer...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ayabouchiha/all-js-string-methods-in-one-post-4h23",
   "publish_date": "2021-07-22",
   "published_at": "2021-07-22T01:12:39Z"
- },
- {
-  "id": 761268,
-  "title": "5 Packages to Optimize and Speed Up Your React App During Development",
-  "description": "Optimize your React App during the development stage using these packages and avoid issues during...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PEw9H_Vc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fjeajz1ncf3wppb88y7t.png",
-  "slug": "5-packages-to-optimize-and-speed-up-your-react-app-during-development-4h5f",
-  "url": "https://dev.to/nilanth/5-packages-to-optimize-and-speed-up-your-react-app-during-development-4h5f",
-  "publish_date": "2021-07-21",
-  "published_at": "2021-07-21T15:46:46Z"
- },
- {
-  "id": 767571,
-  "title": "25 Vue Tips You Need to Know",
-  "description": "I've picked up a ton of useful tips over the years developing and writing about Vue. Some are clever, some I use almost every day, and some are more advanced — but they're all useful.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m3dwT4-6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2be4jzvy2ov4vvi6thtl.png",
-  "slug": "25-vue-tips-you-need-to-know-2h70",
-  "url": "https://dev.to/michaelthiessen/25-vue-tips-you-need-to-know-2h70",
-  "publish_date": "2021-07-21",
-  "published_at": "2021-07-21T15:32:40Z"
- },
- {
-  "id": 767615,
-  "title": "FullStack React - Code Examples to start fast",
-  "description": "A curated list with FullStack React Examples that are more than templates. All mentioned products are provided with authentication, database, and usable APIs.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--va7YgSA4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q640s9ru93wxv0uizxhn.png",
-  "slug": "fullstack-react-code-examples-to-start-fast-2o38",
-  "url": "https://dev.to/sm0ke/fullstack-react-code-examples-to-start-fast-2o38",
-  "publish_date": "2021-07-21",
-  "published_at": "2021-07-21T15:05:43Z"
- },
- {
-  "id": 767240,
-  "title": "useRef Hook | useRef vs useState",
-  "description": "Hey everyone 👋🏻,  In this article, let us understand the useRef hook in React.js.           SYNTAX...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X0eSjjoa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r6ffi7w2oc2cc67t24p8.png",
-  "slug": "useref-hook-useref-vs-usestate-3i7k",
-  "url": "https://dev.to/thenerdydev/useref-hook-useref-vs-usestate-3i7k",
-  "publish_date": "2021-07-21",
-  "published_at": "2021-07-21T06:44:16Z"
- },
- {
-  "id": 767223,
-  "title": "Full-Stack App Django and React",
-  "description": "Let us create a full-stack web application using Django Framework for Python and ReactJS , the famous...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bVMH629C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/87ug5neh88vkxkfwya2t.png",
-  "slug": "full-stack-app-django-and-react-2kih",
-  "url": "https://dev.to/bekbrace/full-stack-app-django-and-react-2kih",
-  "publish_date": "2021-07-21",
-  "published_at": "2021-07-21T05:12:27Z"
  }
 ]
