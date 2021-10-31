@@ -1,5 +1,55 @@
 [
  {
+  "id": 882091,
+  "title": "7 Nice API for your projects !",
+  "description": "API is the acronym for Application Programming Interface, which is a software intermediary that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S2KcEyev--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7fvl52qsqiilcey0n1i.jpeg",
+  "slug": "7-nice-api-for-your-projects--3ap",
+  "url": "https://dev.to/codeoz/7-nice-api-for-your-projects--3ap",
+  "publish_date": "2021-10-30",
+  "published_at": "2021-10-30T14:41:31Z"
+ },
+ {
+  "id": 881922,
+  "title": "NodeJS + Express part 4: CRUD API",
+  "description": "Here is a series of articles that will allow you to create backend applications with NodeJS +...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--olnIb_Km--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpbxy1bb1cdkvkabsokk.png",
+  "slug": "nodejs-express-part-4-crud-api-37ef",
+  "url": "https://dev.to/ericchapman/nodejs-express-part-4-crud-api-37ef",
+  "publish_date": "2021-10-30",
+  "published_at": "2021-10-30T11:34:59Z"
+ },
+ {
+  "id": 881861,
+  "title": "Flying Helicopter with CSS Animation (step-by-step guide)",
+  "description": "Hey👨‍💻, welcome back.  In this article we gonna build a beautiful animation project using only HTML...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uCn1B4Zd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmi3jhbj2xifj0aoeaqs.png",
+  "slug": "flying-helicopter-with-css-animation-2no9",
+  "url": "https://dev.to/codewithshahan/flying-helicopter-with-css-animation-2no9",
+  "publish_date": "2021-10-30",
+  "published_at": "2021-10-30T07:55:22Z"
+ },
+ {
+  "id": 880521,
+  "title": "Frontend to FullStack: Introduction to Firebase (Firebase v9)",
+  "description": "Hi there👋, welcome to this tutorial! Today, I will be showing some of Firebase cool features.  Keep...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F5GJZLEC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbrl8988ugysjqzkxv1v.png",
+  "slug": "frontend-to-fullstack-introduction-to-firebase-firebase-v9-authentication-33me",
+  "url": "https://dev.to/arshadayvid/frontend-to-fullstack-introduction-to-firebase-firebase-v9-authentication-33me",
+  "publish_date": "2021-10-30",
+  "published_at": "2021-10-30T05:08:02Z"
+ },
+ {
+  "id": 881713,
+  "title": "You Probably Don't Need Media Queries Anymore",
+  "description": "With screens available in any size you can imagine, it's time to shift our approach towards responsive design – the era of breakpoints is over and the era of fluid design is here. Modern CSS has fantastic support for responsive design that ensures you won't ever have to write a media query again (if you don't want to).",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bfBgl3GF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qspvr74it45vxok3p6vw.png",
+  "slug": "you-probably-dont-need-media-queries-anymore-a4j",
+  "url": "https://dev.to/kathryngrayson/you-probably-dont-need-media-queries-anymore-a4j",
+  "publish_date": "2021-10-30",
+  "published_at": "2021-10-30T03:21:10Z"
+ },
+ {
   "id": 880656,
   "title": "CAST AI vs. GKE Autopilot: Where to manage Kubernetes on GKE?",
   "description": "Bonus content: Detailed simulation of cluster costs with CAST AI vs. GKE Autopilot  Running...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sajrashid/css-hover-style-all-you-re-buttons-links-succinctly-496e",
   "publish_date": "2021-07-23",
   "published_at": "2021-07-23T02:02:49Z"
- },
- {
-  "id": 768355,
-  "title": "Programmers That Don't Blog Should Start Right Now",
-  "description": "Programmers that don't blog should start right now. You're future self with thank you when your blog...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P7WVZ2iF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ljh5ygnhbznew2gyawy8.jpg",
-  "slug": "programmers-that-don-t-blog-should-start-right-now-295c",
-  "url": "https://dev.to/adriantwarog/programmers-that-don-t-blog-should-start-right-now-295c",
-  "publish_date": "2021-07-22",
-  "published_at": "2021-07-22T08:50:31Z"
- },
- {
-  "id": 768243,
-  "title": "Top Nodejs Project For Beginners",
-  "description": " If you have decided to build your career in NodeJS development, we have gathered a list of nodeJS...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fjg-fIPb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/41j0h96fsnt8pzzrlegg.jpeg",
-  "slug": "top-nodejs-project-for-beginners-54jd",
-  "url": "https://dev.to/codelivly/top-nodejs-project-for-beginners-54jd",
-  "publish_date": "2021-07-22",
-  "published_at": "2021-07-22T06:28:03Z"
- },
- {
-  "id": 768225,
-  "title": "React source code visible 😲",
-  "description": "Do you know that when you deploy your React application which is created using 𝗰𝗿𝗲𝗮𝘁𝗲-𝗿𝗲𝗮𝗰𝘁-𝗮𝗽𝗽 or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vvaIehy5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fg8ztmywdcuossl75ch.png",
-  "slug": "react-souce-code-visible-4e57",
-  "url": "https://dev.to/dhanushxeno/react-souce-code-visible-4e57",
-  "publish_date": "2021-07-22",
-  "published_at": "2021-07-22T05:35:07Z"
- },
- {
-  "id": 768168,
-  "title": "15 Best CSS Accordion Designs You’ve Never 👀 Seen Before",
-  "description": "Hello Friends, I have listed over 15 best css accordion designs made with HTML, CSS, and JS. Check...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fwKzYQHB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l6yi9ansxhlspwzvy6mj.jpg",
-  "slug": "15-best-css-accordion-designs-you-ve-never-seen-before-10dp",
-  "url": "https://dev.to/stackfindover/15-best-css-accordion-designs-you-ve-never-seen-before-10dp",
-  "publish_date": "2021-07-22",
-  "published_at": "2021-07-22T02:44:01Z"
- },
- {
-  "id": 768071,
-  "title": "All JS String Methods In One Post!",
-  "description": "Hello everybody, I'm Aya Bouchiha, on this beautiful day we're going to discuss all string methods in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cphuxabO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y8a8rei2svzfbrwze9pj.jpg",
-  "slug": "all-js-string-methods-in-one-post-4h23",
-  "url": "https://dev.to/ayabouchiha/all-js-string-methods-in-one-post-4h23",
-  "publish_date": "2021-07-22",
-  "published_at": "2021-07-22T01:12:39Z"
  }
 ]
