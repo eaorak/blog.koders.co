@@ -1,5 +1,55 @@
 [
  {
+  "id": 883951,
+  "title": "Tips for developers switching from Windows to Mac",
+  "description": "I was a Windows fan all my life, both at home since I was 10 years old, and at work for 8 years of my...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k27_u8VN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bixpk7ato1rgfdxujin8.png",
+  "slug": "tips-for-developers-switching-from-windows-to-mac-3d51",
+  "url": "https://dev.to/returnofthemac/tips-for-developers-switching-from-windows-to-mac-3d51",
+  "publish_date": "2021-11-01",
+  "published_at": "2021-11-01T13:07:27Z"
+ },
+ {
+  "id": 883949,
+  "title": "Hexagonal Architecture",
+  "description": "In the evolution of software architecture, loose coupling has been at the centre. There is an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D0J8YGBI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mpy6ts3zmvij3rm61sx5.jpg",
+  "slug": "hexagonal-architecture-3ocl",
+  "url": "https://dev.to/abh1navv/hexagonal-architecture-3ocl",
+  "publish_date": "2021-11-01",
+  "published_at": "2021-11-01T13:00:37Z"
+ },
+ {
+  "id": 883944,
+  "title": "3 Soft Skills To Succeed as a Developer",
+  "description": "1. Creativity When problems surface, a creative developer knows solutions likely already exist. And...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f4hZvoGC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qa4ys19wcml2vkz57qoz.jpeg",
+  "slug": "3-soft-skills-to-succeed-as-a-developer-26f3",
+  "url": "https://dev.to/vicviral/3-soft-skills-to-succeed-as-a-developer-26f3",
+  "publish_date": "2021-11-01",
+  "published_at": "2021-11-01T12:40:36Z"
+ },
+ {
+  "id": 882084,
+  "title": "Don't Optimize Your React App, Use Preact Instead",
+  "description": "Preact - Performance Optimization by default  A few months ago, I wrote an article based on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iXdS49-U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mm5uqgq9eej1l4x8wchd.png",
+  "slug": "dont-optimize-your-react-app-use-preact-instead-30og",
+  "url": "https://dev.to/nilanth/dont-optimize-your-react-app-use-preact-instead-30og",
+  "publish_date": "2021-11-01",
+  "published_at": "2021-11-01T08:44:18Z"
+ },
+ {
+  "id": 883495,
+  "title": "Are online editors the future?",
+  "description": "Recently Visual Studio Code also launched an online version of their editor. It is a lightweight...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vVoRnXIa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/523se5aobt7zgo6g37b2.jpg",
+  "slug": "are-online-editors-the-future-51pi",
+  "url": "https://dev.to/dailydevtips1/are-online-editors-the-future-51pi",
+  "publish_date": "2021-11-01",
+  "published_at": "2021-11-01T05:54:51Z"
+ },
+ {
   "id": 881869,
   "title": "Create a Responsive Navbar using React and Tailwind",
   "description": "Overview   Even though we are at the end of 2021 and taking all that care to ensure that the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/amrtaher1234/closures-and-their-practical-uses-19fm",
   "publish_date": "2021-07-25",
   "published_at": "2021-07-25T01:43:27Z"
- },
- {
-  "id": 769635,
-  "title": "Vue Academy #3: v-show VS v-if",
-  "description": "Welcome to the new vue academy ! It will be a list of lot of article on vue! I have 2.5 years of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b5JP9dZA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fuko1zuavx0fmqm4fo1b.png",
-  "slug": "vue-academy-3-v-show-vs-v-if-iaa",
-  "url": "https://dev.to/codeozz/vue-academy-3-v-show-vs-v-if-iaa",
-  "publish_date": "2021-07-24",
-  "published_at": "2021-07-24T13:10:22Z"
- },
- {
-  "id": 770287,
-  "title": "How to write unit tests in JavaScript with Jest",
-  "description": "Unit testing is an important and often overlooked part of the development process. It is considered...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D8DHpfvG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nauccdpve30t42d1pxz5.png",
-  "slug": "how-to-write-unit-tests-in-javascript-with-jest-2e83",
-  "url": "https://dev.to/dstrekelj/how-to-write-unit-tests-in-javascript-with-jest-2e83",
-  "publish_date": "2021-07-24",
-  "published_at": "2021-07-24T11:39:48Z"
- },
- {
-  "id": 770256,
-  "title": "Quick CSS : Make infinity loading animation for your next website.",
-  "description": "Hello, welcome. Today we'll see a quick CSS tutorial on how to make gradient loading animation.     ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uoD5C18c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/srptrn6cjgr3ddex3s18.png",
-  "slug": "quick-css-make-infinity-loading-animation-for-your-next-website-187k",
-  "url": "https://dev.to/kunaal438/quick-css-make-infinity-loading-animation-for-your-next-website-187k",
-  "publish_date": "2021-07-24",
-  "published_at": "2021-07-24T10:20:10Z"
- },
- {
-  "id": 770048,
-  "title": "20+ Super DevTools you may have not heard of",
-  "description": "In this web period, practically any free tools can be found online to take care of normal issues...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o_xG9ZFW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjz7hpckhq28x9ylvotl.png",
-  "slug": "20-super-devtools-you-may-have-not-heard-of-441g",
-  "url": "https://dev.to/coderwatch/20-super-devtools-you-may-have-not-heard-of-441g",
-  "publish_date": "2021-07-24",
-  "published_at": "2021-07-24T05:54:00Z"
- },
- {
-  "id": 769920,
-  "title": "How to Get Better with Git",
-  "description": "Git is a version control tool that any developer would benefit from learning. Using git allows you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sKNGY-yy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kp0olcofa596woo9cuwn.jpg",
-  "slug": "how-to-get-better-with-git-25d1",
-  "url": "https://dev.to/anaveecodes/how-to-get-better-with-git-25d1",
-  "publish_date": "2021-07-24",
-  "published_at": "2021-07-24T00:44:25Z"
  }
 ]
