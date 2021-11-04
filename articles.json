@@ -1,5 +1,55 @@
 [
  {
+  "id": 886836,
+  "title": "How To Do Anything in TypeScript With Type Guards",
+  "description": "This article was originally published on my blog: camchenry.com. If you enjoy this article, please...",
+  "cover_image": "",
+  "slug": "how-to-do-anything-in-typescript-with-type-guards-24h7",
+  "url": "https://dev.to/camchenry/how-to-do-anything-in-typescript-with-type-guards-24h7",
+  "publish_date": "2021-11-03",
+  "published_at": "2021-11-03T16:52:19Z"
+ },
+ {
+  "id": 885420,
+  "title": "10 VS Code Extensions to Fight Technical Debt",
+  "description": "Many engineering teams get stuck and cannot ship quality software fast because of technical...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cJ__Xttj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yc0bk74ubq8f4vrw65ac.jpg",
+  "slug": "10-vs-code-extensions-to-fight-technical-debt-508f",
+  "url": "https://dev.to/alexomeyer/10-vs-code-extensions-to-fight-technical-debt-508f",
+  "publish_date": "2021-11-03",
+  "published_at": "2021-11-03T10:48:42Z"
+ },
+ {
+  "id": 879607,
+  "title": "Can you find the bug in this piece of code? - RegExp edition 🌍",
+  "description": "Hey there! 👋  I'm back with another installment of Find the bug, this time with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DFDVlmMj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ztc3fq2x1adkhx39r6ua.png",
+  "slug": "can-you-find-the-bug-in-this-piece-of-code-regexp-edition-27ac",
+  "url": "https://dev.to/nombrekeff/can-you-find-the-bug-in-this-piece-of-code-regexp-edition-27ac",
+  "publish_date": "2021-11-03",
+  "published_at": "2021-11-03T10:01:30Z"
+ },
+ {
+  "id": 863243,
+  "title": "How to Promote Yourself as a Freelance Web Designer on Social Media",
+  "description": "The website design industry is expected to generate over $40 billion in the US alone this year.  And...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CMhoNuHv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whtfgq0xd7ucviaxe4bd.jpg",
+  "slug": "how-to-promote-yourself-as-a-freelance-web-designer-on-social-media-5baf",
+  "url": "https://dev.to/study_web_dev/how-to-promote-yourself-as-a-freelance-web-designer-on-social-media-5baf",
+  "publish_date": "2021-11-03",
+  "published_at": "2021-11-03T08:18:12Z"
+ },
+ {
+  "id": 885825,
+  "title": "Different Ways to add CSS in React JS",
+  "description": "Hi guys!.  In this post, we will be looking into the best ways CSS code can be added in React JS or...",
+  "cover_image": "",
+  "slug": "3-ways-to-add-css-in-react-js-336f",
+  "url": "https://dev.to/salehmubashar/3-ways-to-add-css-in-react-js-336f",
+  "publish_date": "2021-11-03",
+  "published_at": "2021-11-03T03:48:30Z"
+ },
+ {
   "id": 885821,
   "title": "How to Create the Perfect README for Your Open Source Project",
   "description": "Hacktober is over, but that doesn't mean we shouldn't continue to encourage folks to contribute to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pat_the99/javascript-hoisting-450l",
   "publish_date": "2021-07-27",
   "published_at": "2021-07-27T01:06:33Z"
- },
- {
-  "id": 771966,
-  "title": "JavaScript Cheatsheet for Beginners 🔥",
-  "description": "A simple JavaScript JavaScript cheat sheet for beginner buddies!",
-  "cover_image": "",
-  "slug": "javascript-cheatsheet-for-beginners-3330",
-  "url": "https://dev.to/unitybuddy/javascript-cheatsheet-for-beginners-3330",
-  "publish_date": "2021-07-26",
-  "published_at": "2021-07-26T11:56:59Z"
- },
- {
-  "id": 771805,
-  "title": "Creating Weather App Using JavaScript [Day 1]",
-  "description": "INTRODUCTION   Today, I thought maybe I should practice my frontend knowledge so I check...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WNEcZfFV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05id795s6qjpl1xstsgg.png",
-  "slug": "creating-weather-app-using-javascript-day-1-2b90",
-  "url": "https://dev.to/rahulshawdev/creating-weather-app-using-javascript-day-1-2b90",
-  "publish_date": "2021-07-26",
-  "published_at": "2021-07-26T10:15:37Z"
- },
- {
-  "id": 534004,
-  "title": "From Engineer to Tech Lead - Doubts and Challenges ",
-  "description": "the hard journey into leadership for a senior engineer brings many challenges and lots of doubts. Here are some tips and lessons from my first 18 months into Technical Leadership",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S4Z4-ueK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eakjakvwoizfwa2y8fuj.png",
-  "slug": "from-engineer-to-tech-lead-doubts-and-challenges-4n9e",
-  "url": "https://dev.to/dvddpl/from-engineer-to-tech-lead-doubts-and-challenges-4n9e",
-  "publish_date": "2021-07-26",
-  "published_at": "2021-07-26T06:06:09Z"
- },
- {
-  "id": 752198,
-  "title": "The Simple Guide to Programming Paradigms",
-  "description": "I've published over 30 articles this past year, with that comes a lot of research and I've seen so...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qoTxQ59d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jgley7ge3b99j43twgwj.png",
-  "slug": "the-simple-guide-to-programming-paradigms-36o",
-  "url": "https://dev.to/tamerlang/the-simple-guide-to-programming-paradigms-36o",
-  "publish_date": "2021-07-26",
-  "published_at": "2021-07-26T05:44:38Z"
- },
- {
-  "id": 766544,
-  "title": "Top 5 coolest VsCode Themes you should try.",
-  "description": "1) Shades of Purple    If you are a fan of purple, you are absolutely gonna love this theme....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0cmmaAAY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vf0hrztfhmnwa3ja39kt.png",
-  "slug": "top-5-coolest-vscode-themes-you-should-try-3031",
-  "url": "https://dev.to/thesmartdeveloper/top-5-coolest-vscode-themes-you-should-try-3031",
-  "publish_date": "2021-07-26",
-  "published_at": "2021-07-26T03:50:24Z"
  }
 ]
