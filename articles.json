@@ -1,5 +1,55 @@
 [
  {
+  "id": 886515,
+  "title": "GraphQL in React",
+  "description": "Hello guys👋🏼, today we'd be talking about graphQL and how it works with React. We'd also be looking...",
+  "cover_image": "",
+  "slug": "graphql-in-react-97k",
+  "url": "https://dev.to/dro1/graphql-in-react-97k",
+  "publish_date": "2021-11-04",
+  "published_at": "2021-11-04T09:35:24Z"
+ },
+ {
+  "id": 887529,
+  "title": "dApps / Web3 - Help me finally understand / ELI5! ",
+  "description": "OK so I have read a few things about blockchain and dApps, I have listened to a few Twitter spaces...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tgE30dTM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mk2luv94a61z54vvy4bs.jpg",
+  "slug": "dapps-web3-help-me-finally-understand-eli5-4dc3",
+  "url": "https://dev.to/inhuofficial/dapps-web3-help-me-finally-understand-eli5-4dc3",
+  "publish_date": "2021-11-04",
+  "published_at": "2021-11-04T08:09:50Z"
+ },
+ {
+  "id": 840312,
+  "title": "⭐Angular 13 Features ⭐",
+  "description": "Angular 13 features",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A72eK5_5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bjli6fcvz63cqnlico6t.png",
+  "slug": "angular-13-features-5b1e",
+  "url": "https://dev.to/sandeepbalachandran/angular-13-features-5b1e",
+  "publish_date": "2021-11-04",
+  "published_at": "2021-11-04T07:18:50Z"
+ },
+ {
+  "id": 887478,
+  "title": "Can you solve this interview problem?",
+  "description": "So few days ago I applied to a MNC and I had some interesting problems to solve in given amount of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y4FzMDE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/um1dmbezy88la9quorkd.jpeg",
+  "slug": "can-you-solve-this-interview-problem-4gaa",
+  "url": "https://dev.to/0shuvo0/can-you-solve-this-interview-problem-4gaa",
+  "publish_date": "2021-11-04",
+  "published_at": "2021-11-04T05:29:04Z"
+ },
+ {
+  "id": 885140,
+  "title": "Free Certification Courses for Developers 🔥",
+  "description": "Hello Folks 👋   This is Savio here. 14 year old, building useful products. Helping people...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IwcasVer--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oz3f8cjvzffd7vfi6o71.jpg",
+  "slug": "free-certification-courses-for-developers-3378",
+  "url": "https://dev.to/saviomartin/free-certification-courses-for-developers-3378",
+  "publish_date": "2021-11-04",
+  "published_at": "2021-11-04T03:20:23Z"
+ },
+ {
   "id": 886836,
   "title": "How To Do Anything in TypeScript With Type Guards",
   "description": "This article was originally published on my blog: camchenry.com. If you enjoy this article, please...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/twinfred/28-front-end-development-study-topics-to-improve-your-code-quality-3mh9",
   "publish_date": "2021-07-28",
   "published_at": "2021-07-28T05:20:02Z"
- },
- {
-  "id": 772942,
-  "title": "My Placements Journey",
-  "description": "This article is all about my placements journey. I have cleared interviews and got offers from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OMew3tOh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdhgeuvy6b945uoxeg5z.png",
-  "slug": "my-placements-journey-4m0g",
-  "url": "https://dev.to/manvityagi9/my-placements-journey-4m0g",
-  "publish_date": "2021-07-27",
-  "published_at": "2021-07-27T14:09:48Z"
- },
- {
-  "id": 773144,
-  "title": "You should probably learn TypeScript",
-  "description": "Yes, you.  This post is trending right now...                                         To Typescript...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FFFyg8va--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncpd2truabm95sgmaaov.png",
-  "slug": "you-should-probably-learn-typescript-111m",
-  "url": "https://dev.to/ben/you-should-probably-learn-typescript-111m",
-  "publish_date": "2021-07-27",
-  "published_at": "2021-07-27T13:51:49Z"
- },
- {
-  "id": 772871,
-  "title": "You don’t need React for building websites",
-  "description": "Here’s what I think: if you are building websites, you don’t need React (in most cases).  I have been...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PDGLFrIv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b89ptguvtlmatb040uhn.jpg",
-  "slug": "you-don-t-need-react-for-building-websites-455f",
-  "url": "https://dev.to/starbist/you-don-t-need-react-for-building-websites-455f",
-  "publish_date": "2021-07-27",
-  "published_at": "2021-07-27T08:28:02Z"
- },
- {
-  "id": 770279,
-  "title": "🚀20 Best CSS3 Library For Developers.",
-  "description": "Web Developers used to spend a lot of time creating beautiful CSS. Thanks to the CSS libraries, we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yGgHdFXN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1i938z1nk2lblzy6fv0.png",
-  "slug": "20-best-css3-library-for-developers-58p",
-  "url": "https://dev.to/chetan_atrawalkar/20-best-css3-library-for-developers-58p",
-  "publish_date": "2021-07-27",
-  "published_at": "2021-07-27T04:53:29Z"
- },
- {
-  "id": 770159,
-  "title": "JavaScript Hoisting",
-  "description": "[JS#5 WIL 🤔 Post]   JavaScript hoisting refers to the process where the compiler allocates...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PjnfZJ6p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jixffw2673jm91ho89x.gif",
-  "slug": "javascript-hoisting-450l",
-  "url": "https://dev.to/pat_the99/javascript-hoisting-450l",
-  "publish_date": "2021-07-27",
-  "published_at": "2021-07-27T01:06:33Z"
  }
 ]
