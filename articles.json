@@ -1,5 +1,55 @@
 [
  {
+  "id": 892009,
+  "title": "Join Us for the 2021 GitHub Actions Hackathon on DEV!",
+  "description": "Join us for this opportunity to build projects with GitHub Actions while earning some fantastic prizes",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XingZWyc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22vjowkmnhrtora10bdy.png",
+  "slug": "join-us-for-the-2021-github-actions-hackathon-on-dev-4hn4",
+  "url": "https://dev.to/devteam/join-us-for-the-2021-github-actions-hackathon-on-dev-4hn4",
+  "publish_date": "2021-11-08",
+  "published_at": "2021-11-08T17:11:21Z"
+ },
+ {
+  "id": 888121,
+  "title": "React doesn't need state management tool, I said",
+  "description": "From time to time someone still tells me that is using REDUX or similar tool in their project. I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DZViZmQ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jawcwoye9j7126xcvjn4.png",
+  "slug": "react-doesnt-need-state-management-tool-i-said-31l4",
+  "url": "https://dev.to/tolgee_i18n/react-doesnt-need-state-management-tool-i-said-31l4",
+  "publish_date": "2021-11-08",
+  "published_at": "2021-11-08T08:50:53Z"
+ },
+ {
+  "id": 891059,
+  "title": "🎊 You don't need SVG! Creating animated loaders for content with Tailwind CSS",
+  "description": "Introduction   Hi, DEV friends! 😁  Today we'll talk about how to improve the UX of your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uRbyunzh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6h1oycwt9nds0lcrcprp.jpg",
+  "slug": "you-dont-need-svg-creating-animated-loaders-for-content-with-tailwind-css-2cf0",
+  "url": "https://dev.to/koddr/you-dont-need-svg-creating-animated-loaders-for-content-with-tailwind-css-2cf0",
+  "publish_date": "2021-11-08",
+  "published_at": "2021-11-08T08:01:25Z"
+ },
+ {
+  "id": 886445,
+  "title": "How to work as a solo frontend developer",
+  "description": "Working in a team is great. You can progress really fast and learn a lot from your colleagues. Having...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N6puAq1T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xiftu87wlep1ua4bit0w.jpeg",
+  "slug": "how-to-work-as-a-solo-frontend-developer-dhp",
+  "url": "https://dev.to/bornfightcompany/how-to-work-as-a-solo-frontend-developer-dhp",
+  "publish_date": "2021-11-08",
+  "published_at": "2021-11-08T07:45:25Z"
+ },
+ {
+  "id": 891639,
+  "title": "Resources to practice web development",
+  "description": "Excellence is not an art. It is the habit of practice — Aristotle   Best way to be good at any piece...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xIrepa0a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uut8xeidf582radtntoc.png",
+  "slug": "resources-to-practice-web-development-ko",
+  "url": "https://dev.to/imkarthikeyan/resources-to-practice-web-development-ko",
+  "publish_date": "2021-11-08",
+  "published_at": "2021-11-08T07:36:20Z"
+ },
+ {
   "id": 891077,
   "title": "Flexbox Properties Explained",
   "description": "In the past, CSS layouts have been a huge pain point for web designers. In order to create a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/5-ux-tips-to-become-a-better-front-end-developer-46if",
   "publish_date": "2021-08-01",
   "published_at": "2021-08-01T04:42:34Z"
- },
- {
-  "id": 776485,
-  "title": "I made 50+ COLOR PALETTES for you to use in your next projects and designs 🎨",
-  "description": "Hi, everybody! 👋  Today, I bring you 50+ color palettes to use in your upcoming projects or to just...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UQ0hgtcz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sp3yd9q4bkp8ixo7xds5.png",
-  "slug": "i-made-50-color-palettes-for-you-to-use-in-your-next-projects-and-designs-33f7",
-  "url": "https://dev.to/underscorecode/i-made-50-color-palettes-for-you-to-use-in-your-next-projects-and-designs-33f7",
-  "publish_date": "2021-07-31",
-  "published_at": "2021-07-31T17:18:27Z"
- },
- {
-  "id": 777428,
-  "title": "How to create a popup menu in React that closes on clicking outside",
-  "description": "So here you are, you want to make your popup in your website but you can't find a good tutorial on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xFIYVPYn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l2ler3zuesj4vjswezmz.png",
-  "slug": "how-to-create-a-popup-menu-in-react-34hh",
-  "url": "https://dev.to/kb24x7/how-to-create-a-popup-menu-in-react-34hh",
-  "publish_date": "2021-07-31",
-  "published_at": "2021-07-31T11:17:06Z"
- },
- {
-  "id": 776026,
-  "title": "A Guide to Git Stash",
-  "description": "Git is an amazingly vast tool for developers to manage development workflows, and it goes without...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t_eLuQWY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eh3vmevuzy8i4ce1eaie.png",
-  "slug": "a-guide-to-git-stash-2h5d",
-  "url": "https://dev.to/pragativerma18/a-guide-to-git-stash-2h5d",
-  "publish_date": "2021-07-31",
-  "published_at": "2021-07-31T07:34:22Z"
- },
- {
-  "id": 777148,
-  "title": "100+ Free Illustration Resources For Your Next Personal or Clients Project",
-  "description": "Hey Folks, I have written this same blog with preview of each illustration website and license on my...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TZ_kT_SV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bg98zw5sd0v8xev5tuo3.jpg",
-  "slug": "100-free-illustration-resources-for-your-next-personal-or-clients-project-36ll",
-  "url": "https://dev.to/narottam04/100-free-illustration-resources-for-your-next-personal-or-clients-project-36ll",
-  "publish_date": "2021-07-31",
-  "published_at": "2021-07-31T03:24:38Z"
- },
- {
-  "id": 777053,
-  "title": "The three A’s of Unit Testing",
-  "description": "Testing is an essential part of building Software. When it comes to production-ready applications we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pCaNg-15--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7nyuktwoz28g6206sy0.jpeg",
-  "slug": "the-three-a-s-of-unit-testing-b22",
-  "url": "https://dev.to/coderjay06/the-three-a-s-of-unit-testing-b22",
-  "publish_date": "2021-07-31",
-  "published_at": "2021-07-31T01:27:12Z"
  }
 ]
