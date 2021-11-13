@@ -1,5 +1,55 @@
 [
  {
+  "id": 895754,
+  "title": "Understanding Transitional JavaScript Apps",
+  "description": "Transitional JavaScript Apps? What? Well honestly I'm not sure I know completely myself. It is an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qGg1Y9S4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ws8hzkhw780byi537vm5.jpeg",
+  "slug": "understanding-transitional-javascript-apps-27i2",
+  "url": "https://dev.to/this-is-learning/understanding-transitional-javascript-apps-27i2",
+  "publish_date": "2021-11-12",
+  "published_at": "2021-11-12T15:19:34Z"
+ },
+ {
+  "id": 896421,
+  "title": "The ultimate guide to cloud cost optimization",
+  "description": "The cloud’s scalability is both a blessing and a curse. Sure, you can experiment with new ideas...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v6cT80DH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tkj2kzgx0ljpje8m5o2.jpeg",
+  "slug": "the-ultimate-guide-to-cloud-cost-optimization-mb6",
+  "url": "https://dev.to/castai/the-ultimate-guide-to-cloud-cost-optimization-mb6",
+  "publish_date": "2021-11-12",
+  "published_at": "2021-11-12T15:03:17Z"
+ },
+ {
+  "id": 896391,
+  "title": "Composable commerce: Switch parts of your stack in seconds",
+  "description": "We recently launched our sophisticated Medusa Search API. It allows you to add a blazingly fast...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BNRjKAhO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ol8vs89s49gbjk2cybp9.png",
+  "slug": "composable-commerce-switch-parts-of-your-stack-in-seconds-4880",
+  "url": "https://dev.to/medusajs/composable-commerce-switch-parts-of-your-stack-in-seconds-4880",
+  "publish_date": "2021-11-12",
+  "published_at": "2021-11-12T14:27:54Z"
+ },
+ {
+  "id": 892782,
+  "title": "Responsive Personal Portfolio Website with HTML CSS JS - Part 5",
+  "description": "Responsive personal portfolio website with html css js  In this video series,  I will show you...",
+  "cover_image": "",
+  "slug": "responsive-personal-portfolio-website-with-html-css-js-part-5-5f4m",
+  "url": "https://dev.to/codewithsadee/responsive-personal-portfolio-website-with-html-css-js-part-5-5f4m",
+  "publish_date": "2021-11-12",
+  "published_at": "2021-11-12T13:05:55Z"
+ },
+ {
+  "id": 896026,
+  "title": "JavaScript weather app for absolute beginners",
+  "description": "Introduction   I know, calling APIs and fetching them can be really tough for beginners. It...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BNQrKi8F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fpdkat8ysrsl2djrukz4.png",
+  "slug": "javascript-weather-app-for-absolute-beginners-3nfi",
+  "url": "https://dev.to/divyeshkamalanaban/javascript-weather-app-for-absolute-beginners-3nfi",
+  "publish_date": "2021-11-12",
+  "published_at": "2021-11-12T07:56:39Z"
+ },
+ {
   "id": 895249,
   "title": "How to Create an Image Slider using HTML CSS and JavaScript",
   "description": "In this article you will learn how to create image sliders using html and css. Earlier I have shared...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/enesskilic/theming-with-css-variables-cp8",
   "publish_date": "2021-08-05",
   "published_at": "2021-08-05T00:30:56Z"
- },
- {
-  "id": 781540,
-  "title": "React lists without .map",
-  "description": "When we are rendering data in React we often grab an array and do a .map() to write out our...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5dHoTgFP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jtbij27m6fugpr8dfikl.jpg",
-  "slug": "react-lists-without-map-25d5",
-  "url": "https://dev.to/miketalbot/react-lists-without-map-25d5",
-  "publish_date": "2021-08-04",
-  "published_at": "2021-08-04T15:44:35Z"
- },
- {
-  "id": 781230,
-  "title": "How to make a web scraper with JavaScript",
-  "description": "In this blog I will teach how to make a web scraper with axios and cheerio.  Source Code    const...",
-  "cover_image": "",
-  "slug": "how-to-make-a-web-scraper-with-javascript-18nk",
-  "url": "https://dev.to/heheprogrammer/how-to-make-a-web-scraper-with-javascript-18nk",
-  "publish_date": "2021-08-04",
-  "published_at": "2021-08-04T09:13:03Z"
- },
- {
-  "id": 781168,
-  "title": "Why make a Bootstrapy Website if there's TailwindCss!",
-  "description": "How Tailwind Is Different From Other Frameworks?  Tailwind is different from frameworks like...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ezepsL8m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nt4gy3keesqs942l4egl.png",
-  "slug": "why-make-a-bootstrapy-website-if-there-s-tailwindcss-5c3c",
-  "url": "https://dev.to/jobpick/why-make-a-bootstrapy-website-if-there-s-tailwindcss-5c3c",
-  "publish_date": "2021-08-04",
-  "published_at": "2021-08-04T06:10:25Z"
- },
- {
-  "id": 251400,
-  "title": "Really, why React?",
-  "description": "NOTE: I wrote this more than a year ago and decided to not publish it. I'd rather focus on writing...",
-  "cover_image": "",
-  "slug": "really-why-react-5958",
-  "url": "https://dev.to/jfbrennan/really-why-react-5958",
-  "publish_date": "2021-08-04",
-  "published_at": "2021-08-04T04:36:26Z"
- },
- {
-  "id": 779820,
-  "title": "Deno: The next step in Node.js",
-  "description": "Deno, introduced by Ryan Dahl, the creator of  Node during JSConf 2018 has been growing into a major...",
-  "cover_image": "",
-  "slug": "deno-the-next-step-in-node-js-ij1",
-  "url": "https://dev.to/siddharthshyniben/deno-the-next-step-in-node-js-ij1",
-  "publish_date": "2021-08-04",
-  "published_at": "2021-08-04T04:30:39Z"
  }
 ]
