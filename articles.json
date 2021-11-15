@@ -1,5 +1,55 @@
 [
  {
+  "id": 897669,
+  "title": "How to toggle Dark/Light Mode using JavaScript",
+  "description": "Hello, I am back with a new amazing article on Toggle Dark / Light Mode   Let's get started 🚀       ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TKu6OduA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88qyg5r3x19ckl3in7ch.png",
+  "slug": "how-to-toggle-darklight-mode-using-javascript-2ecn",
+  "url": "https://dev.to/snowbit/how-to-toggle-darklight-mode-using-javascript-2ecn",
+  "publish_date": "2021-11-14",
+  "published_at": "2021-11-14T07:13:57Z"
+ },
+ {
+  "id": 897584,
+  "title": "DOMs Decoded: DOM, Shadow DOM \u0026 Virtual DOM",
+  "description": "The Document Object Model (DOM) is one of the fundamental concepts of web development, but it is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6TS6jPgM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ra4acmf5a1pw1ywyduvz.png",
+  "slug": "doms-decoded-dom-shadow-dom-virtual-dom-28c",
+  "url": "https://dev.to/ruppysuppy/doms-decoded-dom-shadow-dom-virtual-dom-28c",
+  "publish_date": "2021-11-14",
+  "published_at": "2021-11-14T04:46:56Z"
+ },
+ {
+  "id": 879517,
+  "title": "CSS Tricks to Create that Dark Futuristic Web3 Look",
+  "description": "This dark mode web3 aesthetic looks very cool and futuristic. They all have some common designs that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G9FJ6Xy7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/231ym0fk3tljlhwb9ioo.png",
+  "slug": "css-tricks-to-create-that-dark-futuristic-web3-look-53bm",
+  "url": "https://dev.to/trishathecookie/css-tricks-to-create-that-dark-futuristic-web3-look-53bm",
+  "publish_date": "2021-11-14",
+  "published_at": "2021-11-14T01:28:49Z"
+ },
+ {
+  "id": 897567,
+  "title": "How do I make sure API is secure?",
+  "description": "One of the member in webmatrices forum asked \"How do I make sure that the API I built is secure from...",
+  "cover_image": "",
+  "slug": "how-do-i-make-sure-api-is-secure-2iao",
+  "url": "https://dev.to/bishwasbh/how-do-i-make-sure-api-is-secure-2iao",
+  "publish_date": "2021-11-14",
+  "published_at": "2021-11-14T01:18:40Z"
+ },
+ {
+  "id": 897489,
+  "title": "Cool dashboard side menu using CSS and JavaScript",
+  "description": "In this article, we will create a cool dashboard side menu that you can use in your web projects....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g4Cv2Rg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/smvkru3vavu89hh66ujz.png",
+  "slug": "cool-dashboard-side-menu-using-css-and-javascript-2cgk",
+  "url": "https://dev.to/romaopedro199/cool-dashboard-side-menu-using-css-and-javascript-2cgk",
+  "publish_date": "2021-11-14",
+  "published_at": "2021-11-14T00:37:30Z"
+ },
+ {
   "id": 896992,
   "title": "Come Join Git Commit Show #season03 be a part of this amazing adventure!",
   "description": "Join us for the 3rd Season of Git Commit Show LIVE, ONLINE on 27th \u0026amp; 28th November,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/132/fre-is-10-times-faster-than-react-224k",
   "publish_date": "2021-08-07",
   "published_at": "2021-08-07T02:11:59Z"
- },
- {
-  "id": 783385,
-  "title": "This survey among 60+ hiring managers reveals: Don't waste your time on a (React) portfolio website",
-  "description": "New developers think they need a website to get a job. But do hiring managers even care? The results of this survey are clear and provide better alternatives.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vpY0efze--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajhktj39nwixdm1cip8s.png",
-  "slug": "this-survey-among-60-hiring-managers-reveals-don-t-waste-your-time-on-a-react-portfolio-website-17ge",
-  "url": "https://dev.to/profydev/this-survey-among-60-hiring-managers-reveals-don-t-waste-your-time-on-a-react-portfolio-website-17ge",
-  "publish_date": "2021-08-06",
-  "published_at": "2021-08-06T12:14:43Z"
- },
- {
-  "id": 782675,
-  "title": "How to keep Tailwind DRY",
-  "description": "There's many complaints I see online about Tailwind: it's WET, not DRY, it's the same as inline...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RMhCjiAn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/834stpwkoep3xd3waopu.jpg",
-  "slug": "how-to-keep-tailwind-dry-2jfe",
-  "url": "https://dev.to/npmrundev/how-to-keep-tailwind-dry-2jfe",
-  "publish_date": "2021-08-06",
-  "published_at": "2021-08-06T09:24:28Z"
- },
- {
-  "id": 778174,
-  "title": "Supabase - An OpenSource Firebase Alternative",
-  "description": "Supabase is an OpenSource Firebase Alternative providing Backend as a Service to various...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dw4Uzvuj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pl2amfnfjia07tmjc58x.jpeg",
-  "slug": "supabase-an-opensource-firebase-alternative-51h4",
-  "url": "https://dev.to/somsubhra1/supabase-an-opensource-firebase-alternative-51h4",
-  "publish_date": "2021-08-06",
-  "published_at": "2021-08-06T05:26:28Z"
- },
- {
-  "id": 780872,
-  "title": "How I structure my React /TS applications (2021)",
-  "description": "(code is hosted at: https://github.com/djamaile/react-boilerplate-2021)  (last years post:...",
-  "cover_image": "",
-  "slug": "how-i-structure-my-react-ts-applications-2021-145j",
-  "url": "https://dev.to/djamaile/how-i-structure-my-react-ts-applications-2021-145j",
-  "publish_date": "2021-08-06",
-  "published_at": "2021-08-06T01:19:42Z"
- },
- {
-  "id": 781807,
-  "title": "Boy with a beard explains Web components",
-  "description": "What are Web Components?   Web component is a term used for four web standards that help us...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W1cCiFky--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bp6muz14tdpg40pnec84.png",
-  "slug": "boy-with-a-beard-explains-web-components-1jhm",
-  "url": "https://dev.to/boywithabeard/boy-with-a-beard-explains-web-components-1jhm",
-  "publish_date": "2021-08-06",
-  "published_at": "2021-08-06T00:41:40Z"
  }
 ]
