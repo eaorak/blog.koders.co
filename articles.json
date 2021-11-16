@@ -1,5 +1,55 @@
 [
  {
+  "id": 898531,
+  "title": "I created a terminal style website.",
+  "description": "Link: https://m4tt72.com Repo: https://github.com/m4tt72/terminal           Why?   I'm a Linux...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EfW_DTP8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyaxn9qf8qcexnij3yh1.jpeg",
+  "slug": "i-created-a-terminal-style-website-1jb2",
+  "url": "https://dev.to/m4tt72/i-created-a-terminal-style-website-1jb2",
+  "publish_date": "2021-11-15",
+  "published_at": "2021-11-15T08:38:22Z"
+ },
+ {
+  "id": 898512,
+  "title": "Understanding callback functions and closures in JavaScript.",
+  "description": "Hello Everyone,  In this post we will explore the HOF (Higher order function), Callbacks, and the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t3vTKAVt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mxgjzmmobrioxfxyp1f.png",
+  "slug": "understanding-callback-functions-and-closures-in-javascript-154l",
+  "url": "https://dev.to/swastikyadav/understanding-callback-functions-and-closures-in-javascript-154l",
+  "publish_date": "2021-11-15",
+  "published_at": "2021-11-15T08:09:07Z"
+ },
+ {
+  "id": 890925,
+  "title": "Bad ReactJs practices to avoid",
+  "description": "There are plenty of articles and blogs that contain useful information on how to do things the right...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H0JjbmyW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/all1ic2gjcejwpy9q79d.png",
+  "slug": "bad-reactjs-practices-to-avoid-a1b",
+  "url": "https://dev.to/bornfightcompany/bad-reactjs-practices-to-avoid-a1b",
+  "publish_date": "2021-11-15",
+  "published_at": "2021-11-15T06:29:10Z"
+ },
+ {
+  "id": 892301,
+  "title": "How To: Build A Simple Search Bar in JavaScript",
+  "description": "Hi Everyone!  Today, we will be walking through how to build a functional, yet very simple search bar...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wadEF_-2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kmkmc4ptzcd9eltb4v5f.jpg",
+  "slug": "how-to-build-a-simple-search-bar-in-javascript-4onf",
+  "url": "https://dev.to/am20dipi/how-to-build-a-simple-search-bar-in-javascript-4onf",
+  "publish_date": "2021-11-15",
+  "published_at": "2021-11-15T03:35:15Z"
+ },
+ {
+  "id": 898341,
+  "title": "Drawing an animated 3D store front with CSS",
+  "description": "Drawing an animated 3D store front with CSS (with video and demo)",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m8wc4r4p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i3c0x6k0j0vg1mo5b1te.png",
+  "slug": "drawing-an-animated-3d-store-front-with-css-9ff",
+  "url": "https://dev.to/alvaromontoro/drawing-an-animated-3d-store-front-with-css-9ff",
+  "publish_date": "2021-11-15",
+  "published_at": "2021-11-15T02:50:37Z"
+ },
+ {
   "id": 897669,
   "title": "How to toggle Dark/Light Mode using JavaScript",
   "description": "Hello, I am back with a new amazing article on Toggle Dark / Light Mode   Let's get started 🚀       ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/5-tips-to-master-the-art-of-clean-code-57b6",
   "publish_date": "2021-08-08",
   "published_at": "2021-08-08T05:46:04Z"
- },
- {
-  "id": 783447,
-  "title": "Top Interview Questions for Backend Developers(Node)",
-  "description": "Introduction   Being a Full Stack Developer, I had appeared for Backend Developer position...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8xNUdFRV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k7vkxfts8h2m6u9x0cc2.png",
-  "slug": "top-interview-questions-for-backend-developers-node-2133",
-  "url": "https://dev.to/abhishekraj272/top-interview-questions-for-backend-developers-node-2133",
-  "publish_date": "2021-08-07",
-  "published_at": "2021-08-07T17:18:29Z"
- },
- {
-  "id": 784426,
-  "title": "React: Custom hook for media queries 📱💻",
-  "description": "Today we'll be making a React hook that will take a media query and will return whether that query...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--07PDtHf8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/87jsn8trdu3ukpg7b879.jpg",
-  "slug": "react-custom-hook-for-media-queries-2bn4",
-  "url": "https://dev.to/link2twenty/react-custom-hook-for-media-queries-2bn4",
-  "publish_date": "2021-08-07",
-  "published_at": "2021-08-07T10:30:34Z"
- },
- {
-  "id": 741580,
-  "title": "Building A Minimal AutoSuggest",
-  "description": "It took the Web a lot of years to introduce the \u0026lt;datalist\u0026gt;-tag, essential in creating one of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gRxQYJfs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/evazggy0bm6pzbhdzq2x.png",
-  "slug": "building-a-minimal-autosuggest-4big",
-  "url": "https://dev.to/madsstoumann/building-a-minimal-autosuggest-4big",
-  "publish_date": "2021-08-07",
-  "published_at": "2021-08-07T06:42:43Z"
- },
- {
-  "id": 784108,
-  "title": "Drawing a cartoon with HTML and CSS (with video)",
-  "description": "css, webdev, html, art",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vzgxogXC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcv4xfypmja0yz4diry3.jpg",
-  "slug": "drawing-a-cartoon-with-html-and-css-with-video-5cml",
-  "url": "https://dev.to/alvaromontoro/drawing-a-cartoon-with-html-and-css-with-video-5cml",
-  "publish_date": "2021-08-07",
-  "published_at": "2021-08-07T06:20:07Z"
- },
- {
-  "id": 784105,
-  "title": "Fre is 10 times faster than react!",
-  "description": "Recently, some people used react to find that rendering a large amount of data is particularly slow....",
-  "cover_image": "",
-  "slug": "fre-is-10-times-faster-than-react-224k",
-  "url": "https://dev.to/132/fre-is-10-times-faster-than-react-224k",
-  "publish_date": "2021-08-07",
-  "published_at": "2021-08-07T02:11:59Z"
  }
 ]
