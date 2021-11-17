@@ -1,5 +1,55 @@
 [
  {
+  "id": 899684,
+  "title": "Building a responsive navbar component in Tailwind CSS",
+  "description": "I've been using Tailwind CSS quite a lot lately for my web projects, however, one disadvantage that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LYRsO148--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5x8qoczv3cmtuex7whik.png",
+  "slug": "building-a-responsive-navbar-component-in-tailwind-css-1jmh",
+  "url": "https://dev.to/themesberg/building-a-responsive-navbar-component-in-tailwind-css-1jmh",
+  "publish_date": "2021-11-16",
+  "published_at": "2021-11-16T11:54:13Z"
+ },
+ {
+  "id": 899616,
+  "title": "300+ React Interview Questions 🔥",
+  "description": "Do you want to make a career change to something more lucrative? Or have you been putting in a lot of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ck_OvmMH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7xp327puff909uogee4.png",
+  "slug": "300-react-interview-questions-4dag",
+  "url": "https://dev.to/aviyel/300-react-interview-questions-4dag",
+  "publish_date": "2021-11-16",
+  "published_at": "2021-11-16T09:43:11Z"
+ },
+ {
+  "id": 897860,
+  "title": "javascript - Everything you always wanted to know about localStorage (but you were afraid to ask)",
+  "description": "What is the localStorage?   The localStorage is a read-only property of the window interface...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--evViQdYk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/durkj0gm2oqg7gnw5qet.png",
+  "slug": "javascript-everything-you-always-wanted-to-know-about-localstorage-but-you-were-afraid-to-ask-2o7e",
+  "url": "https://dev.to/josec/javascript-everything-you-always-wanted-to-know-about-localstorage-but-you-were-afraid-to-ask-2o7e",
+  "publish_date": "2021-11-16",
+  "published_at": "2021-11-16T08:12:18Z"
+ },
+ {
+  "id": 899576,
+  "title": "CSS Animation Simplified!",
+  "description": "CSS animations are a module that lets you animate the element which changes the element from one...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p92Y_IuE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3yu2eulrwucmapgh7kxb.png",
+  "slug": "css-animation-simplified-2g0i",
+  "url": "https://dev.to/ansub/css-animation-simplified-2g0i",
+  "publish_date": "2021-11-16",
+  "published_at": "2021-11-16T07:52:27Z"
+ },
+ {
+  "id": 899442,
+  "title": "Build a Discord stage channel clone with 100ms and Next.js",
+  "description": "Ever since the Clubhouse app rose to fame, the popularity of drop-in audio-only rooms has been...",
+  "cover_image": "",
+  "slug": "build-a-discord-stage-channel-clone-with-100ms-and-nextjs-5heb",
+  "url": "https://dev.to/100mslive/build-a-discord-stage-channel-clone-with-100ms-and-nextjs-5heb",
+  "publish_date": "2021-11-16",
+  "published_at": "2021-11-16T07:26:30Z"
+ },
+ {
   "id": 898531,
   "title": "I created a terminal style website.",
   "description": "Link: https://m4tt72.com Repo: https://github.com/m4tt72/terminal           Why?   I'm a Linux...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nilanth/how-to-create-public-and-private-routes-using-react-router-72m",
   "publish_date": "2021-08-09",
   "published_at": "2021-08-09T06:50:34Z"
- },
- {
-  "id": 785231,
-  "title": "How to Create a Search Bar in React",
-  "description": "One of the things I was currently interested in was creating a search bar, however I didn't want to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0zmuHPIh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9woiuxrlqhgfeq9l2ihi.jpg",
-  "slug": "how-to-create-a-search-bar-in-react-58nj",
-  "url": "https://dev.to/franciscomendes10866/how-to-create-a-search-bar-in-react-58nj",
-  "publish_date": "2021-08-08",
-  "published_at": "2021-08-08T13:24:01Z"
- },
- {
-  "id": 784916,
-  "title": "Node App: How to create netflix clone. Netflix clone with HTML,CSS, JS.",
-  "description": "Hello, Today we'll see, how we can easily create a netflix clone using HTML, CSS and JS only. No...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QUb7OYNw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2db0bvcss75exc5es3d.png",
-  "slug": "how-to-create-netflix-clone-netflix-clone-with-hmtl-css-js-989",
-  "url": "https://dev.to/kunaal438/how-to-create-netflix-clone-netflix-clone-with-hmtl-css-js-989",
-  "publish_date": "2021-08-08",
-  "published_at": "2021-08-08T10:17:48Z"
- },
- {
-  "id": 785037,
-  "title": "How to make a Drag-n-Drop in JavaScript",
-  "description": "Okay so the earlier two blogs of mine got a lot of views and now I am thinking to make another blog...",
-  "cover_image": "",
-  "slug": "how-to-make-a-drag-n-drop-in-javascript-16eo",
-  "url": "https://dev.to/heheprogrammer/how-to-make-a-drag-n-drop-in-javascript-16eo",
-  "publish_date": "2021-08-08",
-  "published_at": "2021-08-08T08:13:40Z"
- },
- {
-  "id": 785024,
-  "title": "10 Tips For Clean DEV Articles!",
-  "description": "So this is a bit of fun on a Sunday in response to this article on clean code from @cleancodestudio ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RA2K4YET--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r44xgmabww8fogfkdayr.jpg",
-  "slug": "10-tips-for-clean-dev-articles-59id",
-  "url": "https://dev.to/inhuofficial/10-tips-for-clean-dev-articles-59id",
-  "publish_date": "2021-08-08",
-  "published_at": "2021-08-08T07:37:52Z"
- },
- {
-  "id": 784895,
-  "title": "5 Tips to Master the Art of Clean Code",
-  "description": "Good programmers write boring code. Great programmers write really boring code   When I came across...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---hSsGrZH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bx51uch6o41rxhp9n5i7.png",
-  "slug": "5-tips-to-master-the-art-of-clean-code-57b6",
-  "url": "https://dev.to/ruppysuppy/5-tips-to-master-the-art-of-clean-code-57b6",
-  "publish_date": "2021-08-08",
-  "published_at": "2021-08-08T05:46:04Z"
  }
 ]
