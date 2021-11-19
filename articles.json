@@ -1,5 +1,55 @@
 [
  {
+  "id": 892403,
+  "title": "You MUST store this Javascript Operator Index",
+  "description": "Here is a list of javascript operator and how to use it!  You should mark this and use it when you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7fYwTVpV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4f092svr25nfrjdexo4.jpg",
+  "slug": "you-must-store-this-javascript-operator-index-2bec",
+  "url": "https://dev.to/codeoz/you-must-store-this-javascript-operator-index-2bec",
+  "publish_date": "2021-11-18",
+  "published_at": "2021-11-18T18:04:09Z"
+ },
+ {
+  "id": 901789,
+  "title": "A One Piece of CSS Art!",
+  "description": "After my first \"draft\" of Livaï Ackerman, I am back with another CSS art and this time I am exploring...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OOcR3V0B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jsmj5ig23g1s109glfwz.png",
+  "slug": "a-one-piece-of-css-art-225l",
+  "url": "https://dev.to/afif/a-one-piece-of-css-art-225l",
+  "publish_date": "2021-11-18",
+  "published_at": "2021-11-18T13:49:03Z"
+ },
+ {
+  "id": 901564,
+  "title": "Leverage Postman to Consume APIs Using OAuth2",
+  "description": "My Fellow Developers -  If you haven’t heard about Postman yet, get ready to become close friends...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZU3VkMnP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jxvnlii4sc0avxiajw9j.png",
+  "slug": "leverage-postman-to-consume-apis-using-oauth2-707",
+  "url": "https://dev.to/entando/leverage-postman-to-consume-apis-using-oauth2-707",
+  "publish_date": "2021-11-18",
+  "published_at": "2021-11-18T09:22:48Z"
+ },
+ {
+  "id": 901537,
+  "title": "Template String Types as Discriminants in Typescript 4.5",
+  "description": "Typescript 4.5 was just released and one of the features that stood out to me is the Template String...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nuV9bcG9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w916o47267re0icjj3u6.jpg",
+  "slug": "template-string-types-as-discriminants-in-typescript-45-4fdi",
+  "url": "https://dev.to/this-is-learning/template-string-types-as-discriminants-in-typescript-45-4fdi",
+  "publish_date": "2021-11-18",
+  "published_at": "2021-11-18T08:21:00Z"
+ },
+ {
+  "id": 901467,
+  "title": "Difference between forEach and map.",
+  "description": "Javascript has some handy methods which is usefull to iterate arrays.The most two common methods is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vLoylKX0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0daowvc08dwp6v2ztgdi.png",
+  "slug": "difference-between-foreach-and-map-2674",
+  "url": "https://dev.to/jyothiprakashk/difference-between-foreach-and-map-2674",
+  "publish_date": "2021-11-18",
+  "published_at": "2021-11-18T05:03:19Z"
+ },
+ {
   "id": 863855,
   "title": "A better way to discover junior front-end developers",
   "description": "Frontend Mentor is a community to help developers improve their front-end coding skills by building projects. We're now turning our attention to helping connect great companies with our incredible community.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/menard_codes/converting-static-html-css-site-to-react-app-263e",
   "publish_date": "2021-08-11",
   "published_at": "2021-08-11T01:11:25Z"
- },
- {
-  "id": 786525,
-  "title": "Stay alert",
-  "description": "A short while ago, Chrome broke the web by disabling alert(), confirm() and prompt() dialogs from...",
-  "cover_image": "",
-  "slug": "stay-alert-d",
-  "url": "https://dev.to/richharris/stay-alert-d",
-  "publish_date": "2021-08-10",
-  "published_at": "2021-08-10T14:16:18Z"
- },
- {
-  "id": 787144,
-  "title": "Reactjs | Perfect tools for the perfect use cases🛠️💥",
-  "description": "React is awesome \u0026amp; one of the most wanted \u0026amp; most used JavaScript frameworks according to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rz3PFPfI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2aieddggukro3liwso9.png",
-  "slug": "reactjs-perfect-tools-56jg",
-  "url": "https://dev.to/krtirtho/reactjs-perfect-tools-56jg",
-  "publish_date": "2021-08-10",
-  "published_at": "2021-08-10T12:00:07Z"
- },
- {
-  "id": 786006,
-  "title": "Adding 100 underline/overlay animations | The impressive CSS collection ⭐️",
-  "description": "After the CSS loaders, it's time for this collection to reach 500 animations as well. Yes, 500 CSS...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8w4_8_o---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g4nfclcucwaplk78f81q.gif",
-  "slug": "adding-100-underline-overlay-animations-the-impressive-css-collection-1a93",
-  "url": "https://dev.to/afif/adding-100-underline-overlay-animations-the-impressive-css-collection-1a93",
-  "publish_date": "2021-08-10",
-  "published_at": "2021-08-10T09:50:07Z"
- },
- {
-  "id": 786545,
-  "title": "The ultimate guide for junior frontend developers",
-  "description": "How hard is it to become a developer? Can I do that? The answer is yes, you can. First of all, it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3cq5vowP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itshmu4x9kxv9156iv50.png",
-  "slug": "the-ultimate-guide-for-junior-frontend-developers-cff",
-  "url": "https://dev.to/lloyds-digital/the-ultimate-guide-for-junior-frontend-developers-cff",
-  "publish_date": "2021-08-10",
-  "published_at": "2021-08-10T06:55:12Z"
- },
- {
-  "id": 786695,
-  "title": "Vue 3.2 Released!",
-  "description": "We are excited to announce the release of Vue.js 3.2 \"Quintessential Quintuplets\"! This release includes many significant new features and performance improvements, and contains no breaking changes.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_PmuVRKi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/odisyn3acqovrzdd06rs.png",
-  "slug": "vue-3-2-released-1n8b",
-  "url": "https://dev.to/web2033/vue-3-2-released-1n8b",
-  "publish_date": "2021-08-10",
-  "published_at": "2021-08-10T03:26:05Z"
  }
 ]
