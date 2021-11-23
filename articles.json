@@ -1,5 +1,55 @@
 [
  {
+  "id": 899862,
+  "title": "2021 Best Black Friday Deals for Web Developers",
+  "description": "As Halloween has come and gone, Thanksgiving and Black Friday are upon us. The holiday season is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nch-2Ow0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uheqsoviy1npf4p8gv24.png",
+  "slug": "2021-best-black-friday-deals-for-web-developers-3g5h",
+  "url": "https://dev.to/andrewdejackson/2021-best-black-friday-deals-for-web-developers-3g5h",
+  "publish_date": "2021-11-22",
+  "published_at": "2021-11-22T08:44:57Z"
+ },
+ {
+  "id": 905141,
+  "title": "The JavaScript Switch Statement Explained with Examples ",
+  "description": "When learning any programming language, you will come across the concept of control flow. This is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C5-cjTaC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jmoiipd6b52esn5zhqm8.png",
+  "slug": "the-javascript-switch-statement-explained-with-examples-5b8p",
+  "url": "https://dev.to/larymak/the-javascript-switch-statement-explained-with-examples-5b8p",
+  "publish_date": "2021-11-22",
+  "published_at": "2021-11-22T05:40:04Z"
+ },
+ {
+  "id": 902261,
+  "title": "Infer in TypeScript, the Great and Powerful",
+  "description": "Let's talk about the infer keyword in TypeScript. I believe, there're a lot of developers, who've...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_YpnuBfG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8a6k8ysiq1pbxgukm00o.png",
+  "slug": "infer-in-typescript-the-great-and-powerful-5cch",
+  "url": "https://dev.to/artemmalko/infer-in-typescript-the-great-and-powerful-5cch",
+  "publish_date": "2021-11-22",
+  "published_at": "2021-11-22T04:46:17Z"
+ },
+ {
+  "id": 903578,
+  "title": "JavaScript Tips to Improve Your Webpage Performance",
+  "description": "One of the most important things, when you're building a website, is ensuring its good performance....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--REh-RKLT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1wkumo2hobocu4ozdkne.jpg",
+  "slug": "javascript-tips-to-improve-your-webpage-performance-h26",
+  "url": "https://dev.to/markfusion/javascript-tips-to-improve-your-webpage-performance-h26",
+  "publish_date": "2021-11-22",
+  "published_at": "2021-11-22T04:45:16Z"
+ },
+ {
+  "id": 904846,
+  "title": "Level up your GitHub with GitHub Actions and Kubernetes, with Sr. Principle Dev from Red Hat ",
+  "description": "Watch Senior Principle Developer Karan Singh talk about the recipe to level up your software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cTAZVuyP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcgnd7gy54s048og24lg.png",
+  "slug": "level-up-your-github-with-github-actions-and-kubernetes-with-srprinciple-dev-from-red-hat-5d6h",
+  "url": "https://dev.to/srbhr/level-up-your-github-with-github-actions-and-kubernetes-with-srprinciple-dev-from-red-hat-5d6h",
+  "publish_date": "2021-11-22",
+  "published_at": "2021-11-22T03:26:03Z"
+ },
+ {
   "id": 899406,
   "title": "Different ways to connect react frontend and node backend",
   "description": "There are different ways to connect react backend and NodeJS frontend. In this blog, I am going to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nehasoni__/create-an-amazing-image-search-app-using-pexels-api-2cf",
   "publish_date": "2021-08-15",
   "published_at": "2021-08-15T04:08:52Z"
- },
- {
-  "id": 785634,
-  "title": "✅ Top Facebook Behavioral Interview Questions (Part 2) | Facebook Jedi Interview Round 🔥",
-  "description": "This article is the second part of the series on Top Facebook Behavioral Interview Questions. In...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QysIGItD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yh6tp7l5tr345m57lkym.png",
-  "slug": "top-facebook-behavioral-interview-questions-part-2-facebook-jedi-interview-round-3ghg",
-  "url": "https://dev.to/theinterviewsage/top-facebook-behavioral-interview-questions-part-2-facebook-jedi-interview-round-3ghg",
-  "publish_date": "2021-08-14",
-  "published_at": "2021-08-14T16:03:01Z"
- },
- {
-  "id": 791704,
-  "title": "JavaScript 'this' illustrated: Learn it once and for all!",
-  "description": "Hey There 👋🏾  In today's post I wanted to ask you all a question.    How many of you really...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--39W3VfBM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tjq0tkwxekvjs3braxkb.png",
-  "slug": "javascript-this-illustrated-learn-it-once-and-for-all-i06",
-  "url": "https://dev.to/comscience/javascript-this-illustrated-learn-it-once-and-for-all-i06",
-  "publish_date": "2021-08-14",
-  "published_at": "2021-08-14T12:48:39Z"
- },
- {
-  "id": 791513,
-  "title": "Authentication with magic link in React",
-  "description": "Authenticating users via magic link is on the rise recently (for a good reason). Magic link is the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rDXnoB_i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bdpf9zokln7lasxxznor.jpg",
-  "slug": "authentication-with-magic-link-in-next-js-2k5p",
-  "url": "https://dev.to/gogulaanand/authentication-with-magic-link-in-next-js-2k5p",
-  "publish_date": "2021-08-14",
-  "published_at": "2021-08-14T10:07:54Z"
- },
- {
-  "id": 791505,
-  "title": "JS Polyfills asked in Interviews",
-  "description": "Introduction   As Javascript community keeps adding new methods in Javascript, so all...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yvxHTmwH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1gis12mzl8vk9dlosb74.png",
-  "slug": "js-polyfills-asked-in-interviews-19b3",
-  "url": "https://dev.to/abhishekraj272/js-polyfills-asked-in-interviews-19b3",
-  "publish_date": "2021-08-14",
-  "published_at": "2021-08-14T07:44:20Z"
- },
- {
-  "id": 791307,
-  "title": "⚛️ Senior React Coding Interview, By A Professional React Developer 👨‍💻 – Part 2!",
-  "description": "About Me: I've been a professional web developer for just over 10 years now. I'm currently the lead...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nMb8HVUk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/garr8rwx14qkmtvfk61r.jpg",
-  "slug": "senior-react-coding-interview-by-a-professional-react-developer-part-2-201a",
-  "url": "https://dev.to/bettercodingacademy/senior-react-coding-interview-by-a-professional-react-developer-part-2-201a",
-  "publish_date": "2021-08-14",
-  "published_at": "2021-08-14T00:48:39Z"
  }
 ]
