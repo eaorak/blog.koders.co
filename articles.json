@@ -1,5 +1,55 @@
 [
  {
+  "id": 906734,
+  "title": "3 Ways to CENTER a div in CSS",
+  "description": "3 ways to center a div in HTML/CSS!!           With Position      /* Using positions */  .parent {   ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g3zqxkO3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oiets1j1ibobjol3034t.jpeg",
+  "slug": "3-ways-to-center-a-div-in-css-gl1",
+  "url": "https://dev.to/codeoz/3-ways-to-center-a-div-in-css-gl1",
+  "publish_date": "2021-11-24",
+  "published_at": "2021-11-24T15:11:19Z"
+ },
+ {
+  "id": 907911,
+  "title": "VS Code extensions to increase your Productivity",
+  "description": "Hey everyone, here's another VS Code extensions post that'll help you boost your productivity and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jZqx_Dny--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7tmywmmsb02vpqas0fwq.png",
+  "slug": "vs-code-extensions-to-increase-your-productivity-eeb",
+  "url": "https://dev.to/harishash/vs-code-extensions-to-increase-your-productivity-eeb",
+  "publish_date": "2021-11-24",
+  "published_at": "2021-11-24T14:59:19Z"
+ },
+ {
+  "id": 907431,
+  "title": "Understanding the OOPs paradigm in JavaScript.",
+  "description": "Hello Everyone,  In this post we will explore the object oriented programming paradigm in JavaScript....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MGCQ8jMP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zj3tpeji12wpk40sqolr.jpg",
+  "slug": "understanding-the-oops-paradigm-in-javascript-3mn2",
+  "url": "https://dev.to/swastikyadav/understanding-the-oops-paradigm-in-javascript-3mn2",
+  "publish_date": "2021-11-24",
+  "published_at": "2021-11-24T06:50:53Z"
+ },
+ {
+  "id": 907412,
+  "title": "Advanced Javascript Design Patterns",
+  "description": "Overview    I have covered here 20+ design patterns explanations in javascript. We will be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_SCyoKQz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nu1vuucpfvhkblml2af2.jpeg",
+  "slug": "advanced-javascript-design-patterns-4k8l",
+  "url": "https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l",
+  "publish_date": "2021-11-24",
+  "published_at": "2021-11-24T06:03:57Z"
+ },
+ {
+  "id": 907287,
+  "title": "Writing Clean JavaScript — ES6 Edition",
+  "description": "Clean code is not just code that works, but rather code that can be easily read, reused, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CGLlTw7u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/65srt5jy8rfffocel913.jpeg",
+  "slug": "writing-clean-javascript-es6-edition-5eci",
+  "url": "https://dev.to/allaboutishaan/writing-clean-javascript-es6-edition-5eci",
+  "publish_date": "2021-11-24",
+  "published_at": "2021-11-24T01:17:20Z"
+ },
+ {
   "id": 906807,
   "title": "Introducing Instant Rebalancing for a fully autonomous Kubernetes optimization platform",
   "description": "Anyone who has ever worked with manual cost management tools knows how time-consuming they can be....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/codehunterbd/6-advanced-javascript-concepts-you-should-know-4lfe",
   "publish_date": "2021-08-17",
   "published_at": "2021-08-17T03:55:30Z"
- },
- {
-  "id": 793319,
-  "title": "Top 5 best YouTube channel for programmers",
-  "description": "Ok so in this blog imma show the top 5 best youtube channel that I personally use to learn. Keep in...",
-  "cover_image": "",
-  "slug": "top-5-best-youtube-channel-for-programmers-153l",
-  "url": "https://dev.to/heheprogrammer/top-5-best-youtube-channel-for-programmers-153l",
-  "publish_date": "2021-08-16",
-  "published_at": "2021-08-16T07:49:30Z"
- },
- {
-  "id": 793218,
-  "title": "14 functions I made to dump lodash and reduce my bundle size...",
-  "description": "Lodash and underscore changed the way I write Javascript forever, but today there might be better...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uFJkbOC5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9l6az8iq7ovvw7z07pey.jpg",
-  "slug": "14-functions-so-you-can-dump-lodash-and-reduce-your-bundle-size-3gg9",
-  "url": "https://dev.to/miketalbot/14-functions-so-you-can-dump-lodash-and-reduce-your-bundle-size-3gg9",
-  "publish_date": "2021-08-16",
-  "published_at": "2021-08-16T06:57:29Z"
- },
- {
-  "id": 790262,
-  "title": "6 Awesome CSS Layout Generators",
-  "description": "Hi everyone 👋  Today I wanted to share with you 6 awesome CSS layout generators/tools that will help...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fue1_EDa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4lp98mbly3m0ooxcizbb.png",
-  "slug": "6-awesome-css-layout-generators-pbc",
-  "url": "https://dev.to/palashmon/6-awesome-css-layout-generators-pbc",
-  "publish_date": "2021-08-16",
-  "published_at": "2021-08-16T05:42:07Z"
- },
- {
-  "id": 793123,
-  "title": "Stop Using ../../../ While Importing Components, Instead Use This Method",
-  "description": "Introduction 📚   When you go to GitHub and see some other developers code, most of them are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KXQAQV0s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdk58li948w9d6rwainp.png",
-  "slug": "stop-using-while-importing-components-instead-use-this-method-3lme",
-  "url": "https://dev.to/suhailkakar/stop-using-while-importing-components-instead-use-this-method-3lme",
-  "publish_date": "2021-08-16",
-  "published_at": "2021-08-16T04:50:21Z"
- },
- {
-  "id": 791874,
-  "title": "JavaScript Cheat sheet from beginners to advance",
-  "description": "JavaScript Basics    Set of JavaScript basic syntax to add, execute and write basic...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DvXT6-ae--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hhnlepkv4p26xdxplj5a.png",
-  "slug": "javascript-cheat-sheet-from-beginners-to-advance-4i1o",
-  "url": "https://dev.to/codehunterbd/javascript-cheat-sheet-from-beginners-to-advance-4i1o",
-  "publish_date": "2021-08-16",
-  "published_at": "2021-08-16T04:37:43Z"
  }
 ]
