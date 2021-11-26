@@ -1,5 +1,55 @@
 [
  {
+  "id": 906917,
+  "title": "I made a working Gameboy CSS art: try it out 🕹",
+  "description": "Here is the story. Last year, I went to an interview (for an Angular position) and the interviewer...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hSRt_0VR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2hu13aojhgh6hgtpm12.png",
+  "slug": "i-made-a-working-gameboy-css-art-try-it-out-4m1j",
+  "url": "https://dev.to/mustapha/i-made-a-working-gameboy-css-art-try-it-out-4m1j",
+  "publish_date": "2021-11-25",
+  "published_at": "2021-11-25T15:19:55Z"
+ },
+ {
+  "id": 908584,
+  "title": "How to become a Frontend Developer in 2022",
+  "description": "Your complete guide to become a professional frontend developer in 2021. Learn these skills, tools, and tech for frontend development in 2022",
+  "cover_image": "",
+  "slug": "how-to-become-a-frontend-developer-in-2022-4k0h",
+  "url": "https://dev.to/javinpaul/how-to-become-a-frontend-developer-in-2022-4k0h",
+  "publish_date": "2021-11-25",
+  "published_at": "2021-11-25T08:50:05Z"
+ },
+ {
+  "id": 907888,
+  "title": "Faster! Optimizing React app to the bone",
+  "description": "In Tolgee platform, we manage translations. So our most important view is a list of translations,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2g0rDv52--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0yk1ia6k34nmblk4cqrf.png",
+  "slug": "faster-optimizing-react-app-to-the-bone-21kc",
+  "url": "https://dev.to/tolgee_i18n/faster-optimizing-react-app-to-the-bone-21kc",
+  "publish_date": "2021-11-25",
+  "published_at": "2021-11-25T06:54:55Z"
+ },
+ {
+  "id": 908538,
+  "title": "🚀 A powerful drag and drop implementation in just 16 lines of JavaScript",
+  "description": "Drag and drop is a very useful tool in applications as it can simplify a large part of the process...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n8bmH_Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txwj8wdjnowig11vbyf8.png",
+  "slug": "a-powerful-drag-and-drop-implementation-in-just-16-lines-of-javascript-d5d",
+  "url": "https://dev.to/siddharthshyniben/a-powerful-drag-and-drop-implementation-in-just-16-lines-of-javascript-d5d",
+  "publish_date": "2021-11-25",
+  "published_at": "2021-11-25T06:44:02Z"
+ },
+ {
+  "id": 908510,
+  "title": "Top 10 VSCode Extensions for React",
+  "description": "What will be covered here?   We will be covering 10 essential visual studio code extensions...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BHjidqFo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nl99gqs1vgnslxdaeagw.png",
+  "slug": "top-10-vscode-extensions-for-react-57g6",
+  "url": "https://dev.to/rohidhub/top-10-vscode-extensions-for-react-57g6",
+  "publish_date": "2021-11-25",
+  "published_at": "2021-11-25T06:05:45Z"
+ },
+ {
   "id": 906734,
   "title": "3 Ways to CENTER a div in CSS",
   "description": "3 ways to center a div in HTML/CSS!!           With Position      /* Using positions */  .parent {   ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/villivald/24-top-10-must-have-web-dev-tools-august-2021-4fc0",
   "publish_date": "2021-08-18",
   "published_at": "2021-08-18T01:48:30Z"
- },
- {
-  "id": 793775,
-  "title": "Docker 101!",
-  "description": "Welcome dear reader to yet another learning opportunity. I applaud you for the commitment devoted...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z53Fo37J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4rt00vk9poo7sckmrcd6.png",
-  "slug": "docker-101-124e",
-  "url": "https://dev.to/kubona_my/docker-101-124e",
-  "publish_date": "2021-08-17",
-  "published_at": "2021-08-17T13:17:44Z"
- },
- {
-  "id": 794787,
-  "title": "5 APIs to Develop Your Next Project",
-  "description": "Introduction   I like the power of APIs. They turn simple applications into more useful,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--utqR8hTR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vj6dkjmb5ttpz2m8dcbk.png",
-  "slug": "5-apis-to-develop-your-next-project-1de5",
-  "url": "https://dev.to/basecampxd/5-apis-to-develop-your-next-project-1de5",
-  "publish_date": "2021-08-17",
-  "published_at": "2021-08-17T12:39:33Z"
- },
- {
-  "id": 793611,
-  "title": "How to create Music player with pure HTML, CSS, JS",
-  "description": "Hello, Today we'll see, how we can easily create a music player using HTML, CSS and JS only. No other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M3y8fHO1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpr2v8wxuecia41h5des.png",
-  "slug": "how-to-create-music-player-with-pure-html-css-js-34lc",
-  "url": "https://dev.to/kunaal438/how-to-create-music-player-with-pure-html-css-js-34lc",
-  "publish_date": "2021-08-17",
-  "published_at": "2021-08-17T09:35:40Z"
- },
- {
-  "id": 788362,
-  "title": "😃 Add Emoji Picker To An Input Field In React App [Easy way].",
-  "description": "😯 Simple And Easiest way to add an emoji picker to your React app.   Emojis are now such an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F9QFficI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n6rvr3e8e8ksrfgfrxa1.png",
-  "slug": "add-emoji-picker-to-an-input-field-in-react-app-easy-way-4g4e",
-  "url": "https://dev.to/chetan_atrawalkar/add-emoji-picker-to-an-input-field-in-react-app-easy-way-4g4e",
-  "publish_date": "2021-08-17",
-  "published_at": "2021-08-17T05:05:05Z"
- },
- {
-  "id": 794492,
-  "title": "6 Advanced JavaScript Concepts You Should Know",
-  "description": "1. Closures to Extend Variable Scope    Closures in JavaScript are a fairly straightforward...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zluZiAjN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hale3dwcf76spl621tuy.png",
-  "slug": "6-advanced-javascript-concepts-you-should-know-4lfe",
-  "url": "https://dev.to/codehunterbd/6-advanced-javascript-concepts-you-should-know-4lfe",
-  "publish_date": "2021-08-17",
-  "published_at": "2021-08-17T03:55:30Z"
  }
 ]
