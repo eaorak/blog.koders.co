@@ -1,5 +1,55 @@
 [
  {
+  "id": 911243,
+  "title": "Building a web3 frontend with React",
+  "description": "Introduction   In a previous tutorial, we covered how to create and deploy an NFT...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9P8uGEBN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x8vfaqfibaay30pubk73.jpeg",
+  "slug": "building-a-web3-frontend-with-react-340c",
+  "url": "https://dev.to/rounakbanik/building-a-web3-frontend-with-react-340c",
+  "publish_date": "2021-11-28",
+  "published_at": "2021-11-28T10:46:46Z"
+ },
+ {
+  "id": 911156,
+  "title": "Python decorator to show execution time of a function\n",
+  "description": "When working on a high throughput, low latency  system, it's important to measure the execution time...",
+  "cover_image": "",
+  "slug": "python-decorator-to-show-execution-time-of-a-function-afk",
+  "url": "https://dev.to/ahmedeltaweel/python-decorator-to-show-execution-time-of-a-function-afk",
+  "publish_date": "2021-11-28",
+  "published_at": "2021-11-28T08:14:56Z"
+ },
+ {
+  "id": 911149,
+  "title": "How to become a Certified AWS Developer in 2022",
+  "description": "Complete guide to pass the AWS Developer Associate Certification exam and become a certified AWS Developer in 2022 with links to courses, books, and practice tests",
+  "cover_image": "",
+  "slug": "how-to-become-a-certified-aws-developer-in-2022-4dme",
+  "url": "https://dev.to/javinpaul/how-to-become-a-certified-aws-developer-in-2022-4dme",
+  "publish_date": "2021-11-28",
+  "published_at": "2021-11-28T07:41:26Z"
+ },
+ {
+  "id": 911094,
+  "title": "Redux vs Context API: When to use them",
+  "description": "The simplest way to pass data from a parent to a child in a React Application is by passing it on to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p2vPapJU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pinwifhk5e3m4kitgb9g.png",
+  "slug": "redux-vs-context-api-when-to-use-them-4k3p",
+  "url": "https://dev.to/ruppysuppy/redux-vs-context-api-when-to-use-them-4k3p",
+  "publish_date": "2021-11-28",
+  "published_at": "2021-11-28T06:01:17Z"
+ },
+ {
+  "id": 911116,
+  "title": "Why I choose NextJS over CRA for new projects",
+  "description": "I used to use Create React App (CRA) for building new applications (i.e. app.example.com). For...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b7RRPK-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/si1txhgv68vu9ha3kxqo.png",
+  "slug": "why-i-choose-nextjs-over-cra-for-new-projects-3f77",
+  "url": "https://dev.to/andyrewlee/why-i-choose-nextjs-over-cra-for-new-projects-3f77",
+  "publish_date": "2021-11-28",
+  "published_at": "2021-11-28T05:34:04Z"
+ },
+ {
   "id": 896958,
   "title": "5 Useful and Interesting Web Animation Libraries",
   "description": "Introduction   Libraries help us to code faster through their predefined classes for...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kunaal438/how-to-make-fully-responsive-modern-portfolio-using-pure-html-css-and-js-1p65",
   "publish_date": "2021-08-21",
   "published_at": "2021-08-21T08:45:03Z"
- },
- {
-  "id": 797316,
-  "title": "🚀10 Trending projects on GitHub for web developers - 20th August 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-20th-august-2021-2jal",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-20th-august-2021-2jal",
-  "publish_date": "2021-08-20",
-  "published_at": "2021-08-20T14:00:12Z"
- },
- {
-  "id": 786024,
-  "title": "How to write a high quality post on DEV",
-  "description": "Photo by Daniel Thomas   Writing your first post on DEV can be as unfussy as clicking on the Create...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IkzY2SY4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3no57v516zwwg1tjelt3.jpg",
-  "slug": "how-to-write-a-high-quality-post-on-dev-3me0",
-  "url": "https://dev.to/devteam/how-to-write-a-high-quality-post-on-dev-3me0",
-  "publish_date": "2021-08-20",
-  "published_at": "2021-08-20T13:56:54Z"
- },
- {
-  "id": 797995,
-  "title": "React Environment Variables",
-  "description": "What is ENV 🤔   env file to store your sensitive credentials like API keys. Environment...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--swQ4azV5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqjmnmgvl1sbjok096kx.png",
-  "slug": "react-environment-variables-k0n",
-  "url": "https://dev.to/suprabhasupi/react-environment-variables-k0n",
-  "publish_date": "2021-08-20",
-  "published_at": "2021-08-20T08:48:49Z"
- },
- {
-  "id": 797841,
-  "title": "How To Use Google Like A Pro",
-  "description": "Google is such a dominant force in the search engine industry that it is the default search engine...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QKBWWBbP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkyonoh314x3ngg7mri5.png",
-  "slug": "how-to-use-google-like-a-pro-5b48",
-  "url": "https://dev.to/suhailkakar/how-to-use-google-like-a-pro-5b48",
-  "publish_date": "2021-08-20",
-  "published_at": "2021-08-20T05:37:21Z"
- },
- {
-  "id": 793016,
-  "title": "Vscode Extensions You Should Try Out",
-  "description": "It’s no news that vscode has been and still is one of the best code editors in the market.   Vscode...",
-  "cover_image": "",
-  "slug": "vscode-extensions-you-should-try-out-4f58",
-  "url": "https://dev.to/oyedeletemitope/vscode-extensions-you-should-try-out-4f58",
-  "publish_date": "2021-08-20",
-  "published_at": "2021-08-20T01:47:20Z"
  }
 ]
