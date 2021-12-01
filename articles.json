@@ -1,5 +1,55 @@
 [
  {
+  "id": 913134,
+  "title": "10 Things You Didn’t Know You Could Do With Javascript",
+  "description": "This Thanksgiving season, I'm especially grateful for Javascript. Since its announcement in December...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bECTMwjG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ijnpa2r9j028clx3sej.png",
+  "slug": "10-things-you-didnt-know-you-could-do-with-javascript-3k2l",
+  "url": "https://dev.to/codesphere/10-things-you-didnt-know-you-could-do-with-javascript-3k2l",
+  "publish_date": "2021-11-30",
+  "published_at": "2021-11-30T15:35:49Z"
+ },
+ {
+  "id": 913155,
+  "title": "How to build a Tailwind CSS modal component",
+  "description": "In this tutorial I would like to show you how you can build a Tailwind CSS modal element using...",
+  "cover_image": "",
+  "slug": "how-to-build-a-tailwind-css-modal-component-31ko",
+  "url": "https://dev.to/themesberg/how-to-build-a-tailwind-css-modal-component-31ko",
+  "publish_date": "2021-11-30",
+  "published_at": "2021-11-30T12:55:23Z"
+ },
+ {
+  "id": 913150,
+  "title": "5 Best Java Frameworks to Learn in 2022 for Microservices and Cloud Native Development",
+  "description": "Quarkus, Spring Boot, MicroNaut, Vert.x, and Eclipse MicroProfile are the best Java framework for creating Microservices in Java. ",
+  "cover_image": "",
+  "slug": "5-best-java-frameworks-to-learn-in-2022-for-microservices-and-cloud-native-development-4732",
+  "url": "https://dev.to/javinpaul/5-best-java-frameworks-to-learn-in-2022-for-microservices-and-cloud-native-development-4732",
+  "publish_date": "2021-11-30",
+  "published_at": "2021-11-30T12:53:17Z"
+ },
+ {
+  "id": 912882,
+  "title": "Algorithms in JavaScript with visual examples.",
+  "description": "Hello Programmers,  Most of us are scared of algorithms, and don't ever start to learn it. But we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---kHI_7aI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d5bxkps09taz1in4a0tn.png",
+  "slug": "algorithms-in-javascript-with-visual-examples-gh3",
+  "url": "https://dev.to/swastikyadav/algorithms-in-javascript-with-visual-examples-gh3",
+  "publish_date": "2021-11-30",
+  "published_at": "2021-11-30T06:50:12Z"
+ },
+ {
+  "id": 912881,
+  "title": "Building a Task Management Application using Rest API, Spring Boot, Maven and Fauna ",
+  "description": "Written in connection with the Write with Fauna Program.  This article focuses on the tutorial steps...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JkCqmYfL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7ot0p0qpeen2oqgp98y.jpg",
+  "slug": "building-a-task-management-application-using-rest-api-spring-boot-maven-and-fauna-9b0",
+  "url": "https://dev.to/aidelojep/building-a-task-management-application-using-rest-api-spring-boot-maven-and-fauna-9b0",
+  "publish_date": "2021-11-30",
+  "published_at": "2021-11-30T06:48:06Z"
+ },
+ {
   "id": 912169,
   "title": "How to upload videos / docs along your code using SpeaCode?👨‍💻📷🚀",
   "description": "What is Speacode?   Speacode is a knowledge sharing platform that improves collaboration...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/132/2021-javascript-framework-2d0e",
   "publish_date": "2021-08-23",
   "published_at": "2021-08-23T03:45:32Z"
- },
- {
-  "id": 799766,
-  "title": "Javascript Clean Code Tips \u0026 Good Practices",
-  "description": "Code should be written in such a way that is self-explanatory, easy to understand, and easy to modify...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ePvTqACa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tyw4x4ld4uti52g2pkjf.jpg",
-  "slug": "javascript-clean-code-tips-good-practices-2od4",
-  "url": "https://dev.to/apoorvtyagi/javascript-clean-code-tips-good-practices-2od4",
-  "publish_date": "2021-08-22",
-  "published_at": "2021-08-22T10:17:53Z"
- },
- {
-  "id": 799621,
-  "title": "Remove all console.log() from your project in less than a minute",
-  "description": "Introduction   console.log() is a debugging tool that can assist you to figure out what your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--76M_VNXC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kaeyh27gmbvp5bgf05ng.png",
-  "slug": "remove-all-console-log-from-your-project-in-less-a-minutes-3glg",
-  "url": "https://dev.to/suhailkakar/remove-all-console-log-from-your-project-in-less-a-minutes-3glg",
-  "publish_date": "2021-08-22",
-  "published_at": "2021-08-22T07:40:35Z"
- },
- {
-  "id": 797822,
-  "title": "Zero to Hero: Front End Developer Roadmap",
-  "description": "With so many languages, frameworks, and libraries to choose from, often beginners find themselves...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qhxeehlC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eiyjhgi8pm6wymhaoy0q.png",
-  "slug": "front-end-developer-roadmap-zero-to-hero-4pkf",
-  "url": "https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf",
-  "publish_date": "2021-08-22",
-  "published_at": "2021-08-22T05:45:19Z"
- },
- {
-  "id": 799582,
-  "title": "I made an App Store ",
-  "description": "Why   I love checking out new stuff, apps, apis, websites and such. And my obsession for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5lwhyyJq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/js4pr2l1kgqaoj8opsc8.png",
-  "slug": "i-made-an-app-store-283m",
-  "url": "https://dev.to/patrickweb/i-made-an-app-store-283m",
-  "publish_date": "2021-08-22",
-  "published_at": "2021-08-22T04:57:01Z"
- },
- {
-  "id": 799470,
-  "title": "Scroll reveal with Framer Motion",
-  "description": "Framer Motion is a library for creating awesome animations on React in an easy and fast way, it let...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gLskOt9l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qhilzu9xt46kr4qb2uxw.png",
-  "slug": "scroll-reveal-with-framer-motion-224",
-  "url": "https://dev.to/elvis2280/scroll-reveal-with-framer-motion-224",
-  "publish_date": "2021-08-22",
-  "published_at": "2021-08-22T02:01:04Z"
  }
 ]
