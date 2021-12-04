@@ -1,5 +1,55 @@
 [
  {
+  "id": 914903,
+  "title": "Javascript academy #2: Closures ",
+  "description": "Welcome to this new academy! In this I will NOT explain you javascript from scratch, the aim of this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NUVRkvuw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g44wowa5a0sv2csyuc5t.png",
+  "slug": "javascript-academy-2-closures-2j78",
+  "url": "https://dev.to/codeoz/javascript-academy-2-closures-2j78",
+  "publish_date": "2021-12-03",
+  "published_at": "2021-12-03T14:01:59Z"
+ },
+ {
+  "id": 916399,
+  "title": "Mistakes I made while learning Web Development as a beginner",
+  "description": "This blog is all about mistakes I made while learning Full Stack Web Development as a beginner. I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--akqTl0zS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e02psy20nbpdeq4a2ggx.jpg",
+  "slug": "mistakes-i-made-while-learning-web-development-as-a-beginner-4m7n",
+  "url": "https://dev.to/harshitaditya1/mistakes-i-made-while-learning-web-development-as-a-beginner-4m7n",
+  "publish_date": "2021-12-03",
+  "published_at": "2021-12-03T12:42:58Z"
+ },
+ {
+  "id": 916221,
+  "title": "Cloud Technology News of the Month: November 2021",
+  "description": "Already feeling the vibe of this year’s festive season? Here’s some fresh cloud technology news to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oiDdQ9QB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqut3qavxqbs9cjddesi.jpeg",
+  "slug": "cloud-technology-news-of-the-month-november-2021-464g",
+  "url": "https://dev.to/castai/cloud-technology-news-of-the-month-november-2021-464g",
+  "publish_date": "2021-12-03",
+  "published_at": "2021-12-03T08:10:29Z"
+ },
+ {
+  "id": 916161,
+  "title": "12 Tools Web Developers can Learn in 2022",
+  "description": "These are essential tools for frontend and backend development in 2022 and every web developer should learn it. Includes IDEs, REST API testing and debugging tools",
+  "cover_image": "",
+  "slug": "12-tools-web-developers-can-learn-in-2022-3ia9",
+  "url": "https://dev.to/javinpaul/12-tools-web-developers-can-learn-in-2022-3ia9",
+  "publish_date": "2021-12-03",
+  "published_at": "2021-12-03T05:51:09Z"
+ },
+ {
+  "id": 916055,
+  "title": "To improve your technical skills, become a concept collector!\n",
+  "description": "One of the best pieces of engineering advice my dad ever gave me was: \"𝐅𝐨𝐜𝐮𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐚𝐧𝐝...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J21xJcKg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zi8juwrbjyi9ss5l141u.png",
+  "slug": "to-improve-your-technical-skills-become-a-concept-collector-p8j",
+  "url": "https://dev.to/brinascode/to-improve-your-technical-skills-become-a-concept-collector-p8j",
+  "publish_date": "2021-12-03",
+  "published_at": "2021-12-03T03:07:44Z"
+ },
+ {
   "id": 915614,
   "title": "Are you a video fan?🚀",
   "description": "How many videos do you watch a week? I'm sure a lot.  Some of the videos for pleasure, and some of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nitdgplug/control-google-meet-with-expressions-gestures-21oo",
   "publish_date": "2021-08-26",
   "published_at": "2021-08-26T09:41:15Z"
- },
- {
-  "id": 800013,
-  "title": "My FrontEnd Interview Experience At Razorpay",
-  "description": "Hey Folks! I hope you are doing great.  As you know from the announcements that I've recently joined...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r8i5-Ft6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ow5xl75oog77q0mh3orm.png",
-  "slug": "my-frontend-interview-experience-at-razorpay-29bo",
-  "url": "https://dev.to/anuraghazra/my-frontend-interview-experience-at-razorpay-29bo",
-  "publish_date": "2021-08-25",
-  "published_at": "2021-08-25T16:53:29Z"
- },
- {
-  "id": 797426,
-  "title": "Basic Concepts of Node.js",
-  "description": "🔶 Introduction   Imagine a web application which sends hundreds of requests per second to a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--szPE9hzn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qq1vs87b4gf7f3r3qjgp.jpg",
-  "slug": "basic-concepts-of-node-js-pch",
-  "url": "https://dev.to/cassiocappellari/basic-concepts-of-node-js-pch",
-  "publish_date": "2021-08-25",
-  "published_at": "2021-08-25T11:50:42Z"
- },
- {
-  "id": 802851,
-  "title": "Best VS Code extensions for Front End Dev",
-  "description": "VsCode extensions are the backbone on the text editor. You can add language, keymaps, plugins,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NmM-4nWR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sdxzw90glhw2jjyaep8l.png",
-  "slug": "best-vs-code-extension-for-front-end-dev-dj4",
-  "url": "https://dev.to/labib/best-vs-code-extension-for-front-end-dev-dj4",
-  "publish_date": "2021-08-25",
-  "published_at": "2021-08-25T10:57:17Z"
- },
- {
-  "id": 802841,
-  "title": "8 reasons why having a blog is as important as having a GitHub",
-  "description": "Blogging and Technical Writing has become extremely popular these days. I think it's one of the few...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SvbDxyuf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4ortd9zovowd8ailz3r.png",
-  "slug": "8-reasons-why-having-a-blog-is-as-important-as-having-a-github-28ac",
-  "url": "https://dev.to/andrewbaisden/8-reasons-why-having-a-blog-is-as-important-as-having-a-github-28ac",
-  "publish_date": "2021-08-25",
-  "published_at": "2021-08-25T09:11:51Z"
- },
- {
-  "id": 802661,
-  "title": "25 Beginner JavaScript Project Ideas",
-  "description": "I previously wrote a blog about 15 JavaScript beginner projects and it was quite popular ( check it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MaxRcj7h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q2wtyhm4gkah0t4ntw6e.jpg",
-  "slug": "25-beginner-javascript-project-ideas-3m9h",
-  "url": "https://dev.to/codefoxx/25-beginner-javascript-project-ideas-3m9h",
-  "publish_date": "2021-08-25",
-  "published_at": "2021-08-25T03:57:23Z"
  }
 ]
