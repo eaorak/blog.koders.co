@@ -1,5 +1,55 @@
 [
  {
+  "id": 913218,
+  "title": "Two new react frameworks",
+  "description": "React is one the biggest JavaScript frameworks, since then many react frameworks like NextJs,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yN0n1HeH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6j78xht6n1ev02yuh1u.png",
+  "slug": "two-new-react-frameworks-3hg7",
+  "url": "https://dev.to/rakeshpotnuru/two-new-react-frameworks-3hg7",
+  "publish_date": "2021-12-05",
+  "published_at": "2021-12-05T11:08:24Z"
+ },
+ {
+  "id": 917738,
+  "title": "5 Tricks to Truly Call Yourself HTML master",
+  "description": "HTML is a language that everyone knows, but very few people truly know. To be honest, when you are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--swFey5_x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z97bpqx1g3srzf666fai.png",
+  "slug": "5-tricks-to-truly-call-yourself-html-master-2abk",
+  "url": "https://dev.to/ruppysuppy/5-tricks-to-truly-call-yourself-html-master-2abk",
+  "publish_date": "2021-12-05",
+  "published_at": "2021-12-05T06:21:10Z"
+ },
+ {
+  "id": 917735,
+  "title": "7 Signs That You're a Good Developer",
+  "description": "There's nothing unusual if you want to become a developer. Perhaps you'd want to create web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nbJXTTA_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/079j5gx31cqa62tm7zx6.jpg",
+  "slug": "7-signs-that-youre-a-good-developer-54i5",
+  "url": "https://dev.to/markfusion/7-signs-that-youre-a-good-developer-54i5",
+  "publish_date": "2021-12-05",
+  "published_at": "2021-12-05T03:08:05Z"
+ },
+ {
+  "id": 917732,
+  "title": "Create Profile Card using HTML \u0026 CSS",
+  "description": "Do you want to create a responsive profile card using HTML \u0026amp; CSS? If you are a beginner and want...",
+  "cover_image": "",
+  "slug": "create-profile-card-using-html-css-3402",
+  "url": "https://dev.to/softcodeon/create-profile-card-using-html-css-3402",
+  "publish_date": "2021-12-05",
+  "published_at": "2021-12-05T02:59:06Z"
+ },
+ {
+  "id": 917725,
+  "title": "Make React Higher Order Component HOC an easy one",
+  "description": "Before starting to learn Higher Order Component, we need to clear our concept about Higher order...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mg3VCgdE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4nnmga2x62vbi09sos82.png",
+  "slug": "make-react-higher-order-component-hoc-an-easy-one-2noa",
+  "url": "https://dev.to/maniruzzamanakash/make-react-higher-order-component-hoc-an-easy-one-2noa",
+  "publish_date": "2021-12-05",
+  "published_at": "2021-12-05T02:04:40Z"
+ },
+ {
   "id": 917327,
   "title": "How to integrate Husky, ESLint, Prettier to project in less than 15 minutes (step-by-step guide)",
   "description": "Usage of code formatter increases the readability of code and helps to keep the same style in the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sidmirza4/click-to-copy-81k",
   "publish_date": "2021-08-28",
   "published_at": "2021-08-28T06:39:54Z"
- },
- {
-  "id": 710330,
-  "title": "5 tools to automate your development",
-  "description": "Automating your development with Dependabot, Auto Assign, Merge Freeze, Husky and Scheduled...",
-  "cover_image": "",
-  "slug": "5-tools-to-automate-your-development-3m",
-  "url": "https://dev.to/pgarzina/5-tools-to-automate-your-development-3m",
-  "publish_date": "2021-08-27",
-  "published_at": "2021-08-27T12:43:48Z"
- },
- {
-  "id": 805126,
-  "title": "Free Resources for Developers",
-  "description": "Who doesn't love free things?            nobody   Henceforth, I present before you a curated...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PP-_SMEo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bt4v2bgsrijo9w40xbum.png",
-  "slug": "free-resources-for-developers-meg",
-  "url": "https://dev.to/rainboestrykr/free-resources-for-developers-meg",
-  "publish_date": "2021-08-27",
-  "published_at": "2021-08-27T09:56:43Z"
- },
- {
-  "id": 804881,
-  "title": " Design Patterns in JavaScript ",
-  "description": "20+ Design Patterns explanation in JavaScript    We will discuss implementation of Design Patterns...",
-  "cover_image": "",
-  "slug": "design-patterns-in-javascript-1pgm",
-  "url": "https://dev.to/zeeshanhshaheen/design-patterns-in-javascript-1pgm",
-  "publish_date": "2021-08-27",
-  "published_at": "2021-08-27T05:14:32Z"
- },
- {
-  "id": 606111,
-  "title": "Why you should be using Vue's new Composition API",
-  "description": "Vue 3 introduced the composition API and while it looks intimidating, here's a few practical examples of components rewritten using this new interface.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--totLbCeR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qwx1paml70o9t6nw9f82.jpg",
-  "slug": "why-you-should-be-using-vue-s-new-composition-api-2gnn",
-  "url": "https://dev.to/aschmelyun/why-you-should-be-using-vue-s-new-composition-api-2gnn",
-  "publish_date": "2021-08-27",
-  "published_at": "2021-08-27T03:11:47Z"
- },
- {
-  "id": 803864,
-  "title": "Build a Portfolio Using Next.js, Tailwind, and Vercel with Dark Mode Support",
-  "description": "Steps to build a portfolio website using Next.js and Tailwind with Dark Mode Support.    You can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6KwQ-jxP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8smpks108c0jt3krh6d6.png",
-  "slug": "build-a-portfolio-using-next-js-tailwind-and-vercel-4dd8",
-  "url": "https://dev.to/nilanth/build-a-portfolio-using-next-js-tailwind-and-vercel-4dd8",
-  "publish_date": "2021-08-27",
-  "published_at": "2021-08-27T01:57:47Z"
  }
 ]
