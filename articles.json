@@ -1,5 +1,55 @@
 [
  {
+  "id": 918539,
+  "title": "How to build a Tailwind CSS tabs component",
+  "description": "I've been using Tailwind CSS for quite a while and I'd never go back to a CSS framework that doesn't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--82BaDWfk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ezeyfuu8majurqjr8ox.png",
+  "slug": "how-to-build-a-tailwind-css-tabs-component-56o2",
+  "url": "https://dev.to/themesberg/how-to-build-a-tailwind-css-tabs-component-56o2",
+  "publish_date": "2021-12-06",
+  "published_at": "2021-12-06T11:08:46Z"
+ },
+ {
+  "id": 918528,
+  "title": "How to become an App Developer in 2022",
+  "description": "Your complete guide to become a professional App developer with Android, iOS, or React Native in 2022. Learn these skills, tools, and tech for mobile app development in 2022",
+  "cover_image": "",
+  "slug": "how-to-become-an-app-developer-in-2022-56o1",
+  "url": "https://dev.to/javinpaul/how-to-become-an-app-developer-in-2022-56o1",
+  "publish_date": "2021-12-06",
+  "published_at": "2021-12-06T10:49:33Z"
+ },
+ {
+  "id": 915885,
+  "title": "Web3 - just your typical post!",
+  "description": "Ready to learn what web3 is? Great let's begin.  It is blockchain, NFTs etc.  This is the future of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wMvX3O-d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0weidbu9dsag1f4eq5ae.jpg",
+  "slug": "web3-just-your-typical-post-107h",
+  "url": "https://dev.to/inhuofficial/web3-just-your-typical-post-107h",
+  "publish_date": "2021-12-06",
+  "published_at": "2021-12-06T10:16:43Z"
+ },
+ {
+  "id": 918331,
+  "title": "DaveWebOS : free, user-friendly",
+  "description": "Hey there Devs, I have created an OS using python and its web-based Features: - File...",
+  "cover_image": "",
+  "slug": "daveos-free-user-friendly-1kam",
+  "url": "https://dev.to/david050708/daveos-free-user-friendly-1kam",
+  "publish_date": "2021-12-06",
+  "published_at": "2021-12-06T04:30:00Z"
+ },
+ {
+  "id": 916239,
+  "title": "Building a Project Case study app using the absolute power of MERN stack 🔥",
+  "description": "This blog post focuses on the most important activities and ideas to help you better understand and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B_nl7czn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jrfv6o3vpqw2md8t7ba.png",
+  "slug": "building-a-project-case-study-app-using-the-absolute-power-of-mern-stack-15ak",
+  "url": "https://dev.to/aviyel/building-a-project-case-study-app-using-the-absolute-power-of-mern-stack-15ak",
+  "publish_date": "2021-12-06",
+  "published_at": "2021-12-06T04:02:54Z"
+ },
+ {
   "id": 913218,
   "title": "Two new react frameworks",
   "description": "React is one the biggest JavaScript frameworks, since then many react frameworks like NextJs,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16",
   "publish_date": "2021-08-29",
   "published_at": "2021-08-29T04:06:22Z"
- },
- {
-  "id": 806240,
-  "title": "A scalable CSS only Typewriter Effect",
-  "description": "You want a Typewriter effect for your text but you are lost within all the variations that use JS and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zpo13rPq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrsbevdmtor63nsyff45.gif",
-  "slug": "a-scalable-css-only-typewriter-effect-2opn",
-  "url": "https://dev.to/afif/a-scalable-css-only-typewriter-effect-2opn",
-  "publish_date": "2021-08-28",
-  "published_at": "2021-08-28T18:37:47Z"
- },
- {
-  "id": 806426,
-  "title": "Github.dev: Tips, Tricks \u0026 Fun Use Cases 😎",
-  "description": "GitHub recently released github.dev, which if you haven't heard, allows you to press . on any repo,...",
-  "cover_image": "",
-  "slug": "10-awesome-things-you-can-do-with-github-dev-5fm7",
-  "url": "https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7",
-  "publish_date": "2021-08-28",
-  "published_at": "2021-08-28T18:02:02Z"
- },
- {
-  "id": 806304,
-  "title": "Creating content but getting no engagement? 😭 A community that can help! 💪 ",
-  "description": "Have you ever created an article that was excellent, fine tuned it to perfection, released it...and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GURtscFz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/33skbvd4d0ihr1ai8ciu.jpg",
-  "slug": "creating-content-but-getting-no-engagement-a-community-that-can-help-5bg5",
-  "url": "https://dev.to/inhuofficial/creating-content-but-getting-no-engagement-a-community-that-can-help-5bg5",
-  "publish_date": "2021-08-28",
-  "published_at": "2021-08-28T14:15:44Z"
- },
- {
-  "id": 806249,
-  "title": "[Part 4/4] ⚛️ Senior React Coding Interview, By A Professional React Developer 👨‍💻",
-  "description": "About Me: I've been a professional web developer for just over 10 years now. I'm currently the lead...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E4FyGpRZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ms13mqfxd8ffz7t7qvxk.jpg",
-  "slug": "part-4-4-senior-react-coding-interview-by-a-professional-react-developer-1gln",
-  "url": "https://dev.to/bettercodingacademy/part-4-4-senior-react-coding-interview-by-a-professional-react-developer-1gln",
-  "publish_date": "2021-08-28",
-  "published_at": "2021-08-28T10:51:06Z"
- },
- {
-  "id": 806035,
-  "title": "Click to Copy!",
-  "description": "Hey Guys 👋   Ever wondered how some websites have \"click to copy\" functionality?     You can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G5OTCemA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80ivv8yy1mxrhycepipe.png",
-  "slug": "click-to-copy-81k",
-  "url": "https://dev.to/sidmirza4/click-to-copy-81k",
-  "publish_date": "2021-08-28",
-  "published_at": "2021-08-28T06:39:54Z"
  }
 ]
