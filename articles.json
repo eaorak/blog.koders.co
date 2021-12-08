@@ -1,5 +1,55 @@
 [
  {
+  "id": 919052,
+  "title": "Quickest Way to Secure API Keys on the Frontend (In Minutes)",
+  "description": "Integrate APIs quickly (in minutes), with security, on the frontend. API keys secured. ",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z9qv6-YV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/my3gsewpsnjyyvhd1hbc.jpg",
+  "slug": "quickest-way-to-secure-api-keys-on-the-frontend-in-minutes-1g97",
+  "url": "https://dev.to/korconnect/quickest-way-to-secure-api-keys-on-the-frontend-in-minutes-1g97",
+  "publish_date": "2021-12-07",
+  "published_at": "2021-12-07T17:13:19Z"
+ },
+ {
+  "id": 913742,
+  "title": "I 👿 BRUTALLY 👿 review your crappy sites, first victim is Bhagya Mudgal!",
+  "description": "Oh dear, I write these angry rants and people are actually silly enough to ask me to review their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XCTQgLav--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/58vfnhn4j3anbg3nozd0.jpg",
+  "slug": "i-review-your-crappy-sites-first-victim-is-bhagya-mudgal-2cdn",
+  "url": "https://dev.to/inhuofficial/i-review-your-crappy-sites-first-victim-is-bhagya-mudgal-2cdn",
+  "publish_date": "2021-12-07",
+  "published_at": "2021-12-07T11:41:01Z"
+ },
+ {
+  "id": 919526,
+  "title": "Roadmap for React JS 2022",
+  "description": "In the previous blog I talked about why one should prefer react for Frontend....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0cKr1W4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v3r39rhzu0ylq585ixni.jpg",
+  "slug": "roadmap-for-react-js-2022-4ccn",
+  "url": "https://dev.to/digvijayjadhav98/roadmap-for-react-js-2022-4ccn",
+  "publish_date": "2021-12-07",
+  "published_at": "2021-12-07T06:31:43Z"
+ },
+ {
+  "id": 918114,
+  "title": "Do we even need if/else?",
+  "description": "Flow control is one of the first things we all learn as programmers. We are going to learn about some...",
+  "cover_image": "",
+  "slug": "do-we-even-need-ifelse-4722",
+  "url": "https://dev.to/haseeb1009/do-we-even-need-ifelse-4722",
+  "publish_date": "2021-12-07",
+  "published_at": "2021-12-07T05:58:08Z"
+ },
+ {
+  "id": 919394,
+  "title": "Music Visualiser with Three.JS",
+  "description": "In an attempt to learn THREE.js — the 3D rendering WebGL framework and WebAudio API, I made something...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z9S1MctW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ap98uk74e697320s86ee.png",
+  "slug": "music-visualiser-with-threejs-3j22",
+  "url": "https://dev.to/harryholland/music-visualiser-with-threejs-3j22",
+  "publish_date": "2021-12-07",
+  "published_at": "2021-12-07T02:50:35Z"
+ },
+ {
   "id": 918539,
   "title": "How to build a Tailwind CSS tabs component",
   "description": "I've been using Tailwind CSS for quite a while and I'd never go back to a CSS framework that doesn't...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/deekob/10-things-i-ve-learnt-being-an-aws-developer-advocate-37ck",
   "publish_date": "2021-08-30",
   "published_at": "2021-08-30T04:15:49Z"
- },
- {
-  "id": 807066,
-  "title": "Animated no-element typewriter",
-  "description": "After sharing a typewriter effect with CSS, ChallengesCss beat the drums of \"CSS War\" and created a different effect, and InHuOfficial hopped in and is preparing a \"type-righter\"... Here's another entry: an animated no-element cartoon of a typewriter",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cK1pA2y4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aoax5irkvxaqdoly6puo.png",
-  "slug": "animated-no-element-typewriter-2835",
-  "url": "https://dev.to/alvaromontoro/animated-no-element-typewriter-2835",
-  "publish_date": "2021-08-29",
-  "published_at": "2021-08-29T14:22:33Z"
- },
- {
-  "id": 806952,
-  "title": "Introduction to TypeScript 👩‍💻",
-  "description": "Hello guys, you might have probably heard the popular name \"TypeScript\" if you are into Web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4diRGw6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gao3acryrj14vrlx9h49.png",
-  "slug": "introduction-to-typescript-7lg",
-  "url": "https://dev.to/shaan71845/introduction-to-typescript-7lg",
-  "publish_date": "2021-08-29",
-  "published_at": "2021-08-29T10:48:22Z"
- },
- {
-  "id": 806283,
-  "title": "Dark/Light theme switcher with HTML, CSS \u0026 Javascript Only",
-  "description": "There are different ways to implement dark mode on websites, from the simplest to the most complex,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x8PBvaXB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rpuzxh07r6v2mohhy2f7.png",
-  "slug": "dark-mode-with-html-css-javascript-only-4nb9",
-  "url": "https://dev.to/rubalaine/dark-mode-with-html-css-javascript-only-4nb9",
-  "publish_date": "2021-08-29",
-  "published_at": "2021-08-29T09:52:46Z"
- },
- {
-  "id": 806717,
-  "title": "Create React App from Scratch like a Pro",
-  "description": "Creating a React App is a very difficult feat, even when you are an experienced developer. That led...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jsqg9fVr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/759xdiyobdlcabx23erq.png",
-  "slug": "create-react-app-from-scratch-like-a-pro-de0",
-  "url": "https://dev.to/ruppysuppy/create-react-app-from-scratch-like-a-pro-de0",
-  "publish_date": "2021-08-29",
-  "published_at": "2021-08-29T06:55:27Z"
- },
- {
-  "id": 806725,
-  "title": "Memoizing async functions in Javascript",
-  "description": "Memoization is a useful concept. It helps avoid time taking or expensive calculations, after it's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--taxRkfo0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1564325724739-bae0bd08762c%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1050%26q%3D80",
-  "slug": "memoizing-fetch-api-calls-in-javascript-1d16",
-  "url": "https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16",
-  "publish_date": "2021-08-29",
-  "published_at": "2021-08-29T04:06:22Z"
  }
 ]
