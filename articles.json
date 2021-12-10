@@ -1,5 +1,55 @@
 [
  {
+  "id": 921362,
+  "title": "Learnings from React Conf 2021",
+  "description": "I recently had the opportunity to join the digital React Conf 2021 and listen to some talks from a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgO1GZE6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7pzwieb30ejnhd9d94x.png",
+  "slug": "learnings-from-react-conf-2021-17lg",
+  "url": "https://dev.to/alexeagleson/learnings-from-react-conf-2021-17lg",
+  "publish_date": "2021-12-09",
+  "published_at": "2021-12-09T14:24:54Z"
+ },
+ {
+  "id": 921551,
+  "title": "10 Best Websites to become a React.js Developer in 2022",
+  "description": "These are the best websites and platforms to learn React.js online in 2022. These websites also contains free resources which you can use to become a React Developer in 2022. ",
+  "cover_image": "",
+  "slug": "10-best-websites-to-learn-reactjs-in-2022-1o6d",
+  "url": "https://dev.to/javinpaul/10-best-websites-to-learn-reactjs-in-2022-1o6d",
+  "publish_date": "2021-12-09",
+  "published_at": "2021-12-09T05:58:46Z"
+ },
+ {
+  "id": 915649,
+  "title": "Typing Effect with typed.js",
+  "description": "As you may have already seen some website which has some kind of typing animation. It looks cool...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JKCiU0Ye--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yk3eegw62ojxoh7yq2s0.png",
+  "slug": "typing-effect-with-js-34b8",
+  "url": "https://dev.to/j471n/typing-effect-with-js-34b8",
+  "publish_date": "2021-12-09",
+  "published_at": "2021-12-09T04:26:24Z"
+ },
+ {
+  "id": 921359,
+  "title": "Using GitHub Actions to turn contributors into heroes of an open source game",
+  "description": "My submission to the GitHub Actions x DEV Hackathon 2021! Experience your contribution from the inside in this open source game.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hANU0ajK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/wusuFL2.png",
+  "slug": "using-github-actions-to-turn-contributors-into-heroes-of-an-open-source-game-4cei",
+  "url": "https://dev.to/paulasantamaria/using-github-actions-to-turn-contributors-into-heroes-of-an-open-source-game-4cei",
+  "publish_date": "2021-12-09",
+  "published_at": "2021-12-09T01:05:34Z"
+ },
+ {
+  "id": 921462,
+  "title": "How I Review Pull Requests",
+  "description": "Someone in my Virtual Coffee community asked about getting better at reviewing pull requests (PR)...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XuDzaAIL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iz97ilpuk9knd74mixxu.jpeg",
+  "slug": "how-i-review-pull-requests-44nl",
+  "url": "https://dev.to/nickytonline/how-i-review-pull-requests-44nl",
+  "publish_date": "2021-12-09",
+  "published_at": "2021-12-09T00:57:44Z"
+ },
+ {
   "id": 920522,
   "title": "How to Create a Dark Mode Component in React",
   "description": "All code from this tutorial is available in this repository, and a video version of this tutorial is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/koulurunandakishorereddy/10-intelligent-movies-to-watch-before-you-die-2nng",
   "publish_date": "2021-09-01",
   "published_at": "2021-09-01T04:17:34Z"
- },
- {
-  "id": 803274,
-  "title": "5 JetBrains plugins to upgrade the built-in Git support to the next level!\n",
-  "description": "The Git plugin that comes bundled with all JetBrains IDEs is actually quite impressive, it's a full...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oir9XwHx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j6q2rh4bi4r3x0344wa4.png",
-  "slug": "5-jetbrains-plugins-to-upgrade-the-builtin-git-support-to-the-next-level-3ojf",
-  "url": "https://dev.to/anotherdevuser/5-jetbrains-plugins-to-upgrade-the-builtin-git-support-to-the-next-level-3ojf",
-  "publish_date": "2021-08-31",
-  "published_at": "2021-08-31T16:09:48Z"
- },
- {
-  "id": 809109,
-  "title": "How I structure my React projects",
-  "description": "A React folder structure that fits my needs. Structuring and organizing React applications.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wi3Qy_Cz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2ceqg8zcbk30z6hzmeb.jpg",
-  "slug": "how-i-structure-my-react-projects-jii",
-  "url": "https://dev.to/larswaechter/how-i-structure-my-react-projects-jii",
-  "publish_date": "2021-08-31",
-  "published_at": "2021-08-31T13:24:23Z"
- },
- {
-  "id": 808838,
-  "title": "The importance of a design system and why you should be using Storybook in all of your projects",
-  "description": "JavaScript Developers and Designers are very familiar with design systems. It is essentially the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vWuDMWuN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1cetooyrc9xvvu7ktxld.png",
-  "slug": "the-importance-of-a-design-system-and-why-you-should-be-using-storybook-in-all-of-your-projects-d1o",
-  "url": "https://dev.to/andrewbaisden/the-importance-of-a-design-system-and-why-you-should-be-using-storybook-in-all-of-your-projects-d1o",
-  "publish_date": "2021-08-31",
-  "published_at": "2021-08-31T08:53:00Z"
- },
- {
-  "id": 800412,
-  "title": "🚀 JavaScript Project Series That Makes You Pro.",
-  "description": "Hello Coders!👋    JavaScript is one of the leading names when it comes to front-end web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gx1-2fbp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dr00p1dufr10i34xqw34.png",
-  "slug": "javascript-project-series-that-makes-you-pro-33ma",
-  "url": "https://dev.to/chetan_atrawalkar/javascript-project-series-that-makes-you-pro-33ma",
-  "publish_date": "2021-08-31",
-  "published_at": "2021-08-31T07:11:36Z"
- },
- {
-  "id": 808676,
-  "title": "Top 10 Free Website Template Resources",
-  "description": "Users’ first interaction with any website is with the frontend. Most developers don’t want to spend...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GTr7vQ9v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bu0p6igr19pyo2vedc51.png",
-  "slug": "top-10-free-website-template-resources-3eoe",
-  "url": "https://dev.to/helloabutaher/top-10-free-website-template-resources-3eoe",
-  "publish_date": "2021-08-31",
-  "published_at": "2021-08-31T06:29:50Z"
  }
 ]
