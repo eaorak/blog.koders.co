@@ -1,5 +1,55 @@
 [
  {
+  "id": 923303,
+  "title": "VS Code : Organization",
+  "description": "To manage your time and complete projects successfully, you must organize your tasks as a developer....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lErSGCQv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/on4wad0hr06xowq9o7wz.png",
+  "slug": "vs-code-organization-4p2j",
+  "url": "https://dev.to/free_one/vs-code-organization-4p2j",
+  "publish_date": "2021-12-11",
+  "published_at": "2021-12-11T13:07:46Z"
+ },
+ {
+  "id": 923602,
+  "title": "10 useful Git tips to improve your workflow",
+  "description": "Git is a free and open source distributed version control system designed to handle everything from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NFggmB7u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ua72bb54y4rcjvfvurxy.jpg",
+  "slug": "10-useful-git-tips-to-improve-your-workflow-kf1",
+  "url": "https://dev.to/yenyih/10-useful-git-tips-to-improve-your-workflow-kf1",
+  "publish_date": "2021-12-11",
+  "published_at": "2021-12-11T12:20:02Z"
+ },
+ {
+  "id": 923537,
+  "title": "How to become a Certified Python Developer in 2022",
+  "description": "A complete guide to pass Microsoft's Exam 98-381: Introduction to Programming Using Python in 2022 and become a certified Python Developer. ",
+  "cover_image": "",
+  "slug": "how-to-become-a-certified-python-developer-in-2022-l64",
+  "url": "https://dev.to/javinpaul/how-to-become-a-certified-python-developer-in-2022-l64",
+  "publish_date": "2021-12-11",
+  "published_at": "2021-12-11T08:58:41Z"
+ },
+ {
+  "id": 923435,
+  "title": "Responsive Personal Portfolio Website Using HTML CSS And JavaScript",
+  "description": "You can get the template from the link proivided in the description of the video.           ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bI9xejHA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjtiki42kbpl2hhwtd0n.png",
+  "slug": "responsive-personal-portfolio-website-using-html-css-and-javascript-23di",
+  "url": "https://dev.to/koolkishan/responsive-personal-portfolio-website-using-html-css-and-javascript-23di",
+  "publish_date": "2021-12-11",
+  "published_at": "2021-12-11T04:59:33Z"
+ },
+ {
+  "id": 918214,
+  "title": "VS Code : Aesthetics",
+  "description": "Visual Studio Code is the most popular software development environment at the moment. It is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0tY99H59--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80u70srpqn5p5m2w92r7.png",
+  "slug": "vs-code-aesthetics-2ce5",
+  "url": "https://dev.to/free_one/vs-code-aesthetics-2ce5",
+  "publish_date": "2021-12-11",
+  "published_at": "2021-12-11T01:06:45Z"
+ },
+ {
   "id": 922069,
   "title": "🚀10 Trending projects on GitHub for web developers - 10th December 2021",
   "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ug/top-5-website-to-learn-web-development-2k4h",
   "publish_date": "2021-09-03",
   "published_at": "2021-09-03T06:44:47Z"
- },
- {
-  "id": 811465,
-  "title": "How to be successful as a self taught developer",
-  "description": "The game has changed. You don't need a College or University Degree to be a developer anymore. I am...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qOINc-fc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cafdgks2detuzcjakqkk.png",
-  "slug": "how-to-be-successful-as-a-self-taught-developer-4ofk",
-  "url": "https://dev.to/andrewbaisden/how-to-be-successful-as-a-self-taught-developer-4ofk",
-  "publish_date": "2021-09-02",
-  "published_at": "2021-09-02T13:58:13Z"
- },
- {
-  "id": 808849,
-  "title": "Automating quality checks for Kubernetes YAMLs",
-  "description": "Cover image by Mark Tegethoff on Unsplash   If you have ever wondered how to make sure that your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tt1ARIxG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94rzl3hpe1roj3od860y.jpg",
-  "slug": "automating-quality-checks-for-kubernetes-yamls-398",
-  "url": "https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398",
-  "publish_date": "2021-09-02",
-  "published_at": "2021-09-02T10:44:43Z"
- },
- {
-  "id": 801667,
-  "title": "Infinite scrolling in React with intersection observer",
-  "description": "Hello folks,   Few days back I came across the use-case of infinite scroll in React. For this, I used...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9ih_kOK9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ksycrmgma4q1ty5abz1s.png",
-  "slug": "infinite-scrolling-in-react-with-intersection-observer-22fh",
-  "url": "https://dev.to/ms_yogii/infinite-scrolling-in-react-with-intersection-observer-22fh",
-  "publish_date": "2021-09-02",
-  "published_at": "2021-09-02T10:43:48Z"
- },
- {
-  "id": 811095,
-  "title": "Last minute guide to React.useEffect()",
-  "description": "React.useEffect() is one of the React hooks that manages side-effects in functional React components....",
-  "cover_image": "",
-  "slug": "last-minute-guide-to-react-useeffect-4n1i",
-  "url": "https://dev.to/forkbikash/last-minute-guide-to-react-useeffect-4n1i",
-  "publish_date": "2021-09-02",
-  "published_at": "2021-09-02T06:31:39Z"
- },
- {
-  "id": 810985,
-  "title": "Coding a SaaS in 30 days",
-  "description": "So I built a SaaS in 30 days... and it was way more complicated that I originally thought, but check...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8PIzA1ng--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/84qmyguqksvzrbpudzo4.gif",
-  "slug": "coding-a-saas-in-30-days-20ji",
-  "url": "https://dev.to/adriantwarog/coding-a-saas-in-30-days-20ji",
-  "publish_date": "2021-09-02",
-  "published_at": "2021-09-02T05:36:52Z"
  }
 ]
