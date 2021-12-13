@@ -1,5 +1,55 @@
 [
  {
+  "id": 924107,
+  "title": "Simple Loader Animation with CSS",
+  "description": "Hello everyone, In this article we are going to create Loading Animation with the use of simple CSS....",
+  "cover_image": "",
+  "slug": "simple-loader-animation-with-css-3e4n",
+  "url": "https://dev.to/devrohit0/simple-loader-animation-with-css-3e4n",
+  "publish_date": "2021-12-12",
+  "published_at": "2021-12-12T07:00:14Z"
+ },
+ {
+  "id": 924097,
+  "title": "CSS Practices to avoid as a developer",
+  "description": "Set Margins or Padding and then RESET them   We often see developers coding their CSS...",
+  "cover_image": "",
+  "slug": "css-practices-to-avoid-as-a-developer-3hj2",
+  "url": "https://dev.to/mursalfk/css-practices-to-avoid-as-a-developer-3hj2",
+  "publish_date": "2021-12-12",
+  "published_at": "2021-12-12T06:45:39Z"
+ },
+ {
+  "id": 924099,
+  "title": "UX Trends in 2021",
+  "description": "2021 was a wild year. We had Facebook being renamed to Meta, we also witnessed insane hype around the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6tcOoq_l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n4azzzkpmryp0pk9t5jr.png",
+  "slug": "ux-trends-in-2021-19pj",
+  "url": "https://dev.to/ruppysuppy/ux-trends-in-2021-19pj",
+  "publish_date": "2021-12-12",
+  "published_at": "2021-12-12T06:29:35Z"
+ },
+ {
+  "id": 923998,
+  "title": "Why I no longer use the MIT license for new projects",
+  "description": "What if your code is used for something bad? It happened to Andrew Tanenbaum.   Table of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cbsBCAzA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d5pk9189k6nb9ljm8yaf.png",
+  "slug": "why-i-no-longer-use-the-mit-license-for-new-projects-348m",
+  "url": "https://dev.to/ender_minyard/why-i-no-longer-use-the-mit-license-for-new-projects-348m",
+  "publish_date": "2021-12-12",
+  "published_at": "2021-12-12T01:03:01Z"
+ },
+ {
+  "id": 923953,
+  "title": "VS Code : Productivity",
+  "description": "Being productive with VS Code will help you focus solely on your code \u0026amp; speed up some...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5xbvS7HL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t7kbuo871k2gfzy3mgxg.png",
+  "slug": "vs-code-productivity-3546",
+  "url": "https://dev.to/free_one/vs-code-productivity-3546",
+  "publish_date": "2021-12-12",
+  "published_at": "2021-12-12T00:58:40Z"
+ },
+ {
   "id": 923303,
   "title": "VS Code : Organization",
   "description": "To manage your time and complete projects successfully, you must organize your tasks as a developer....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ayabouchiha/my-favourite-library-for-providing-logging-in-logging-out-with-google-functionalities-in-my-react-apps-50l0",
   "publish_date": "2021-09-04",
   "published_at": "2021-09-04T00:40:53Z"
- },
- {
-  "id": 811143,
-  "title": "🚀10 Trending projects on GitHub for web developers - 3rd September 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-3rd-september-2021-427a",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-3rd-september-2021-427a",
-  "publish_date": "2021-09-03",
-  "published_at": "2021-09-03T13:45:47Z"
- },
- {
-  "id": 812343,
-  "title": "5 Ways To Undo Mistakes In Git",
-  "description": "If you’re no stranger to developer workflow then you know that sometimes - Git happens! The good news...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UiFJZewi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ji6fo47lipgais9refky.png",
-  "slug": "5-ways-to-undo-mistakes-in-git-37if",
-  "url": "https://dev.to/gitlive/5-ways-to-undo-mistakes-in-git-37if",
-  "publish_date": "2021-09-03",
-  "published_at": "2021-09-03T12:01:05Z"
- },
- {
-  "id": 811810,
-  "title": "ECMAScript 2021 (ES12) new features",
-  "description": "ECMAScript, the standardized version of JavaScript is increasing its popularity and is becoming...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--94nsSHF4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://media-exp1.licdn.com/dms/image/C4E12AQHiczyWfCVh-w/article-cover_image-shrink_720_1280/0/1629662599633%3Fe%3D1635379200%26v%3Dbeta%26t%3DlpjRpfsOvmXX8cIWwFnxA73VjuYohys1ua-OLP9PlEg",
-  "slug": "ecmascript-2021-es12-new-features-2l67",
-  "url": "https://dev.to/naimlatifi5/ecmascript-2021-es12-new-features-2l67",
-  "publish_date": "2021-09-03",
-  "published_at": "2021-09-03T10:08:37Z"
- },
- {
-  "id": 808887,
-  "title": "Getting Started with Appwrite Realtime for Web Developers",
-  "description": "For all those who have been waiting for Appwrite's realtime service, we have good news. The latest...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---02O1WNU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g22d3dazcchswoetwh9e.jpg",
-  "slug": "getting-started-with-appwrite-realtime-for-web-developers-45o6",
-  "url": "https://dev.to/appwrite/getting-started-with-appwrite-realtime-for-web-developers-45o6",
-  "publish_date": "2021-09-03",
-  "published_at": "2021-09-03T07:46:12Z"
- },
- {
-  "id": 811857,
-  "title": "Top 5 Websites to Learn Web Development ",
-  "description": "Due to COVID-19 Pandemic the whole world had shifted to Digital Platform which affect the website...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGh6Yln9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rkxmoavjsiv4txeazpxo.png",
-  "slug": "top-5-website-to-learn-web-development-2k4h",
-  "url": "https://dev.to/ug/top-5-website-to-learn-web-development-2k4h",
-  "publish_date": "2021-09-03",
-  "published_at": "2021-09-03T06:44:47Z"
  }
 ]
