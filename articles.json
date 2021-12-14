@@ -1,5 +1,55 @@
 [
  {
+  "id": 923155,
+  "title": "Announcing the MongoDB Atlas Hackathon on DEV!",
+  "description": "Join us for this challenge to build projects with MongoDB's suite of tools in exchange for the chance to win some stellar prizes",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vuq-somU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tah8m0zqe11xt7zknl5.png",
+  "slug": "announcing-the-mongodb-atlas-hackathon-on-dev-4b6m",
+  "url": "https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-on-dev-4b6m",
+  "publish_date": "2021-12-13",
+  "published_at": "2021-12-13T19:27:24Z"
+ },
+ {
+  "id": 924638,
+  "title": "The Dark Side of Software Development ",
+  "description": "Software engineering is one of the most intriguing and in-demand occupations right now. You've...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FLqTakxl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/794fzw2v3dc1eosivqjb.png",
+  "slug": "the-dark-side-of-software-development-441e",
+  "url": "https://dev.to/vibalijoshi/the-dark-side-of-software-development-441e",
+  "publish_date": "2021-12-13",
+  "published_at": "2021-12-13T10:57:17Z"
+ },
+ {
+  "id": 923577,
+  "title": "Bypassing CORS via custom proxy backend",
+  "description": "As a frontend developer, sooner or later you will encounter a CORS error, something like...",
+  "cover_image": "",
+  "slug": "bypassing-cors-via-custom-proxy-backend-2po",
+  "url": "https://dev.to/bornfightcompany/bypassing-cors-via-custom-proxy-backend-2po",
+  "publish_date": "2021-12-13",
+  "published_at": "2021-12-13T07:53:07Z"
+ },
+ {
+  "id": 924646,
+  "title": "Difference between localStorage and sessionStorage",
+  "description": "Websites hosted on a browser have no capacity of having any memory to store user's data. A user...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Jp0KetW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zkd43dzeebl67w2d15s.jpg",
+  "slug": "difference-between-localstorage-and-sessionstorage-5a40",
+  "url": "https://dev.to/pankajkumar/difference-between-localstorage-and-sessionstorage-5a40",
+  "publish_date": "2021-12-13",
+  "published_at": "2021-12-13T03:01:48Z"
+ },
+ {
+  "id": 924641,
+  "title": "10 Best Forum to become a good Developer in 2022",
+  "description": "This is the list of some top 5 growing programming related forums/communities you must join. These...",
+  "cover_image": "",
+  "slug": "10-best-forum-to-become-a-good-developer-in-2022-2cgm",
+  "url": "https://dev.to/developerbishwas/10-best-forum-to-become-a-good-developer-in-2022-2cgm",
+  "publish_date": "2021-12-13",
+  "published_at": "2021-12-13T02:47:35Z"
+ },
+ {
   "id": 924107,
   "title": "Simple Loader Animation with CSS",
   "description": "Hello everyone, In this article we are going to create Loading Animation with the use of simple CSS....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/how-pros-automate-repetitive-code-using-vs-code-53b",
   "publish_date": "2021-09-05",
   "published_at": "2021-09-05T04:02:44Z"
- },
- {
-  "id": 813525,
-  "title": "How to create Music player with pure HTML, CSS, JS",
-  "description": "Hello, Today we'll see, how we can easily create a music player using HTML, CSS and JS only. No other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MujdfzJj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tgowa1n5m55rhxhawhpp.png",
-  "slug": "how-to-create-music-player-with-pure-html-css-js-c1j",
-  "url": "https://dev.to/kunaal438/how-to-create-music-player-with-pure-html-css-js-c1j",
-  "publish_date": "2021-09-04",
-  "published_at": "2021-09-04T14:12:06Z"
- },
- {
-  "id": 811473,
-  "title": "5 Best Creativity tools for Developers and Bloggers",
-  "description": "Whether it be testing out markdown, creating your next viral blog cover, or making cool and minimal...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3oGYeMqD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8yg5qb5o2zzd2ftrwxwq.png",
-  "slug": "5-best-creativity-tools-for-developers-and-bloggers-3dei",
-  "url": "https://dev.to/rainboestrykr/5-best-creativity-tools-for-developers-and-bloggers-3dei",
-  "publish_date": "2021-09-04",
-  "published_at": "2021-09-04T11:12:47Z"
- },
- {
-  "id": 813379,
-  "title": "Notification API: Show notifications from your web app 🔔",
-  "description": "Hey guys. Notifications are vital if you want to drive traffic to your web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jCdP-sVn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t0f8po3fzg9i1ndhxt9f.png",
-  "slug": "notification-api-show-notifications-from-your-web-app-3hkf",
-  "url": "https://dev.to/sidmirza4/notification-api-show-notifications-from-your-web-app-3hkf",
-  "publish_date": "2021-09-04",
-  "published_at": "2021-09-04T10:49:40Z"
- },
- {
-  "id": 812913,
-  "title": "Building custom hooks in React to fetch Data",
-  "description": "Fetching data from the backend is one of the crucial parts of the web application. For every...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7PENXYJh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lrroeq8v7iw087iddg43.png",
-  "slug": "building-custom-hooks-in-react-to-fetch-data-4ig6",
-  "url": "https://dev.to/shaedrizwan/building-custom-hooks-in-react-to-fetch-data-4ig6",
-  "publish_date": "2021-09-04",
-  "published_at": "2021-09-04T08:02:10Z"
- },
- {
-  "id": 813041,
-  "title": "My Favourite Library For Providing Logging In \u0026 Logging Out With Google Functionalities In My React Apps",
-  "description": "Hi I'm Aya Bouchiha, I decided to share with you my favorite react library for providing logging in...",
-  "cover_image": "",
-  "slug": "my-favourite-library-for-providing-logging-in-logging-out-with-google-functionalities-in-my-react-apps-50l0",
-  "url": "https://dev.to/ayabouchiha/my-favourite-library-for-providing-logging-in-logging-out-with-google-functionalities-in-my-react-apps-50l0",
-  "publish_date": "2021-09-04",
-  "published_at": "2021-09-04T00:40:53Z"
  }
 ]
