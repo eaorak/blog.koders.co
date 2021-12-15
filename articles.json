@@ -1,5 +1,55 @@
 [
  {
+  "id": 916654,
+  "title": "34 Tips for Professional JavaScript Developers",
+  "description": "What is this article all about?   It might be easier to begin by saying what it's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OygfGGd---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gs6i54ah41dlrpxa8r6k.jpeg",
+  "slug": "34-tips-for-professional-javascript-developers-37la",
+  "url": "https://dev.to/michaelmangial1/34-tips-for-professional-javascript-developers-37la",
+  "publish_date": "2021-12-14",
+  "published_at": "2021-12-14T14:06:42Z"
+ },
+ {
+  "id": 924994,
+  "title": "Cherry-Pick Your Teammate's Changes Without Push 'n Pull-ing To Your Repo In Android Studio",
+  "description": "You asked your teammate for help with a piece of code and they showed you the solution in their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ocahf7TS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mxxw6c94pquapf832bqy.png",
+  "slug": "cherry-pick-your-teammates-changes-without-push-n-pull-ing-to-your-repo-in-android-studio-3dnf",
+  "url": "https://dev.to/gitlive/cherry-pick-your-teammates-changes-without-push-n-pull-ing-to-your-repo-in-android-studio-3dnf",
+  "publish_date": "2021-12-14",
+  "published_at": "2021-12-14T09:06:36Z"
+ },
+ {
+  "id": 925745,
+  "title": "6 Best Websites to become a Blockchain Developer in 2022",
+  "description": "These are the best planforms and website to learn Blockchain in 2022 and become a Blockchain developer. They contain both free and paid blockchain courses and study materials. ",
+  "cover_image": "",
+  "slug": "6-best-websites-to-become-a-blockchain-developer-in-2022-3han",
+  "url": "https://dev.to/javinpaul/6-best-websites-to-become-a-blockchain-developer-in-2022-3han",
+  "publish_date": "2021-12-14",
+  "published_at": "2021-12-14T06:27:42Z"
+ },
+ {
+  "id": 923157,
+  "title": "Top 10 Gifts For the Developer in Your Life\n",
+  "description": "It's gift buying season, and I don't know about you, but I enjoy giving great gifts. Not to sound...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HXnDUGAC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/34t603y91j36g5at96oj.png",
+  "slug": "top-11-gifts-for-the-developer-in-your-life-893",
+  "url": "https://dev.to/github/top-11-gifts-for-the-developer-in-your-life-893",
+  "publish_date": "2021-12-14",
+  "published_at": "2021-12-14T04:41:06Z"
+ },
+ {
+  "id": 925595,
+  "title": "How to do Deletion Animations with CSS",
+  "description": "In this quick tutorial we're going to be looking at a bunch of different 'delete' styles to use on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9_QWZLxQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3oawhvpo62u6u1sjbdba.png",
+  "slug": "how-to-do-deletion-animations-with-css-3a51",
+  "url": "https://dev.to/smpnjn/how-to-do-deletion-animations-with-css-3a51",
+  "publish_date": "2021-12-14",
+  "published_at": "2021-12-14T00:51:59Z"
+ },
+ {
   "id": 923155,
   "title": "Announcing the MongoDB Atlas Hackathon on DEV!",
   "description": "Join us for this challenge to build projects with MongoDB's suite of tools in exchange for the chance to win some stellar prizes",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zigrazor/javascript-library-and-resources-202k",
   "publish_date": "2021-09-06",
   "published_at": "2021-09-06T07:00:41Z"
- },
- {
-  "id": 814326,
-  "title": "Free Dashboards - 5 Killer Templates for 2021",
-  "description": "A curated list with pixel-perfect dashboards to use for free in 2021: Soft UI, Volt, Berry, CoreUI, and Star Admin. All products are open-source released under MIT License on Github.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AwPBpLDt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/td8y9kifjumts4vfprst.jpg",
-  "slug": "free-dashboards-5-killer-templates-for-2021-4f3g",
-  "url": "https://dev.to/sm0ke/free-dashboards-5-killer-templates-for-2021-4f3g",
-  "publish_date": "2021-09-05",
-  "published_at": "2021-09-05T15:51:58Z"
- },
- {
-  "id": 814168,
-  "title": "Vue: When a computed property can be the wrong tool",
-  "description": "Exploring scenarios where computed properties might degrade your Vue component's performance.",
-  "cover_image": "",
-  "slug": "vue-when-a-computed-property-can-be-the-wrong-tool-195j",
-  "url": "https://dev.to/linusborg/vue-when-a-computed-property-can-be-the-wrong-tool-195j",
-  "publish_date": "2021-09-05",
-  "published_at": "2021-09-05T12:57:45Z"
- },
- {
-  "id": 813968,
-  "title": "I build a Github Dark Theme inspired Portfolio",
-  "description": "I always wanted to build a unique portfolio for myself and was inspired by a lot of portfolios. Right...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XEvtTEHa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wsvd4efne1fjvi5u95vz.png",
-  "slug": "i-build-a-github-dark-theme-inspired-portfolio-5gmo",
-  "url": "https://dev.to/commentme/i-build-a-github-dark-theme-inspired-portfolio-5gmo",
-  "publish_date": "2021-09-05",
-  "published_at": "2021-09-05T07:37:08Z"
- },
- {
-  "id": 813595,
-  "title": "Top 10 VS Code Themes",
-  "description": "Working in a nice place makes you feel more productive, if you enjoy the look of your code, then you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5kJO2OLI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9v0ym1k9yk16i7q8s98t.jpg",
-  "slug": "top-10-vs-code-themes-3b60",
-  "url": "https://dev.to/muthuannamalai12/top-10-vs-code-themes-3b60",
-  "publish_date": "2021-09-05",
-  "published_at": "2021-09-05T05:45:56Z"
- },
- {
-  "id": 813836,
-  "title": "How Pros Automate Repetitive Code using VS Code",
-  "description": "While Programming, you are bound to encounter Repetitive Code, writing which is a complete waste of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GFRrghdB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpztviiddqkh6w8v91uc.png",
-  "slug": "how-pros-automate-repetitive-code-using-vs-code-53b",
-  "url": "https://dev.to/ruppysuppy/how-pros-automate-repetitive-code-using-vs-code-53b",
-  "publish_date": "2021-09-05",
-  "published_at": "2021-09-05T04:02:44Z"
  }
 ]
