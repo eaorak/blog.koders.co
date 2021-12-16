@@ -1,5 +1,55 @@
 [
  {
+  "id": 926228,
+  "title": "CSS can help improve your HTML⁉ - Ep 2: buttons and links.",
+  "description": "Part 2 of using CSS to make our HTML better!  In this second part of this series we will be exploring...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p26Zml0V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q30has78kv6opfod8awp.jpg",
+  "slug": "css-can-help-improve-your-html-ep-2-buttons-and-links-21m9",
+  "url": "https://dev.to/inhuofficial/css-can-help-improve-your-html-ep-2-buttons-and-links-21m9",
+  "publish_date": "2021-12-15",
+  "published_at": "2021-12-15T13:07:06Z"
+ },
+ {
+  "id": 926296,
+  "title": "Why should you build for the Shopify App Store? (+How to Start)",
+  "description": "I realize more and more that the Shopify market is being overlooked by developer communities. Whereas...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jnJmcW27--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qlp3it72lddi91fy0h0j.jpg",
+  "slug": "why-should-you-build-for-the-shopify-app-store-how-to-start-1k18",
+  "url": "https://dev.to/analyzify/why-should-you-build-for-the-shopify-app-store-how-to-start-1k18",
+  "publish_date": "2021-12-15",
+  "published_at": "2021-12-15T12:37:25Z"
+ },
+ {
+  "id": 927057,
+  "title": "Blazingly fast Preview Environments for NextJS, NodeJS, and MongoDB on AWS",
+  "description": "Introduction   Have you ever dreamed of deploying your applications on the cloud without any...",
+  "cover_image": "",
+  "slug": "blazingly-fast-preview-environments-for-nextjs-nodejs-and-mongodb-on-aws-o1k",
+  "url": "https://dev.to/pjeziorowski/blazingly-fast-preview-environments-for-nextjs-nodejs-and-mongodb-on-aws-o1k",
+  "publish_date": "2021-12-15",
+  "published_at": "2021-12-15T10:00:59Z"
+ },
+ {
+  "id": 927015,
+  "title": "Why Every Developer should Learn Docker in 2022",
+  "description": "Docker is not just another tool, its a game changer and learning Docker can make developer more competent and efficient. It also help with development and deployment of Microservices. ",
+  "cover_image": "",
+  "slug": "why-every-developer-should-learn-docker-in-2022-2ndi",
+  "url": "https://dev.to/javinpaul/why-every-developer-should-learn-docker-in-2022-2ndi",
+  "publish_date": "2021-12-15",
+  "published_at": "2021-12-15T08:39:56Z"
+ },
+ {
+  "id": 887533,
+  "title": "Introduction to Data Mesh",
+  "description": "Organizations of all sizes have recognized that data is one of the key factors for increasing and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eHSiF9qN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkj7bco6fcj8ia2y4ds2.jpg",
+  "slug": "introduction-to-data-mesh-3f1b",
+  "url": "https://dev.to/aws-builders/introduction-to-data-mesh-3f1b",
+  "publish_date": "2021-12-15",
+  "published_at": "2021-12-15T06:52:31Z"
+ },
+ {
   "id": 916654,
   "title": "34 Tips for Professional JavaScript Developers",
   "description": "What is this article all about?   It might be easier to begin by saying what it's...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/chetan_atrawalkar/2-javascript-project-series-that-makes-you-pro-3gfj",
   "publish_date": "2021-09-07",
   "published_at": "2021-09-07T07:37:10Z"
- },
- {
-  "id": 808903,
-  "title": "Appwrite, Android and Realtime",
-  "description": "🤔 What is Appwrite?   Appwrite is a new open-source, end-to-end, backend server for web and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qA3rzlC---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0h2dtpm35ktbwh1ux2nl.jpg",
-  "slug": "appwrite-android-and-realtime-42jd",
-  "url": "https://dev.to/appwrite/appwrite-android-and-realtime-42jd",
-  "publish_date": "2021-09-06",
-  "published_at": "2021-09-06T11:32:07Z"
- },
- {
-  "id": 814896,
-  "title": "100 blog topic ideas for your next article - No more writers block",
-  "description": "A stumbling block for almost all aspiring writers is what should I write about? Writers block...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RG4BpcwW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/shoeukzryx21ts88xsie.png",
-  "slug": "100-blog-topic-ideas-for-your-next-article-no-more-writers-block-2e0j",
-  "url": "https://dev.to/andrewbaisden/100-blog-topic-ideas-for-your-next-article-no-more-writers-block-2e0j",
-  "publish_date": "2021-09-06",
-  "published_at": "2021-09-06T09:42:59Z"
- },
- {
-  "id": 807994,
-  "title": "Dev tool: A markdown and code editor inspired by Jupyter notebooks 💫",
-  "description": "A super versatile code editor",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dkCNihvo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xtuvelyqaxq1zxrc1c83.png",
-  "slug": "dev-tool-a-project-built-to-boost-your-skills-and-productivity-29j8",
-  "url": "https://dev.to/alagrede/dev-tool-a-project-built-to-boost-your-skills-and-productivity-29j8",
-  "publish_date": "2021-09-06",
-  "published_at": "2021-09-06T07:45:11Z"
- },
- {
-  "id": 814385,
-  "title": "How to Display the Progress of Promises in JavaScript",
-  "description": "Contents    Overview Implementation Conclusion               Overview   Displaying the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b6DoN5d6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7bp31nhwiw0t1khxsido.jpg",
-  "slug": "how-to-display-the-progress-of-promises-in-javascript-lh0",
-  "url": "https://dev.to/jrdev_/how-to-display-the-progress-of-promises-in-javascript-lh0",
-  "publish_date": "2021-09-06",
-  "published_at": "2021-09-06T07:33:10Z"
- },
- {
-  "id": 814828,
-  "title": "JavaScript Library and Resources",
-  "description": "A collection of JavaScript libraries, resources and shiny things.              Package...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UdOQLIkd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l0k8o6lyyo8n2mm7m1i4.jpg",
-  "slug": "javascript-library-and-resources-202k",
-  "url": "https://dev.to/zigrazor/javascript-library-and-resources-202k",
-  "publish_date": "2021-09-06",
-  "published_at": "2021-09-06T07:00:41Z"
  }
 ]
