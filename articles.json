@@ -1,5 +1,55 @@
 [
  {
+  "id": 928276,
+  "title": "🔥🤯 Amazing Portfolio website using HTML, CSS and JS.",
+  "description": "If you are a beginner or a pro. This blog is for everyone who want to make his/her portfolio an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KlqLgFky--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vuk7p8sh2q9788rxgdvh.png",
+  "slug": "amazing-portfolio-website-using-html-css-and-js-l8f",
+  "url": "https://dev.to/kunaal438/amazing-portfolio-website-using-html-css-and-js-l8f",
+  "publish_date": "2021-12-16",
+  "published_at": "2021-12-16T13:44:31Z"
+ },
+ {
+  "id": 928073,
+  "title": "5 Best Cloud Computing Courses for Beginners",
+  "description": "These are the best online courses to learn Cloud Computing fundamentals for AWS, Azure, and GCP from popular websites and online platforms like Udemy, Coursera, and Pluralsight.",
+  "cover_image": "",
+  "slug": "5-best-cloud-computing-courses-for-beginners-4k4",
+  "url": "https://dev.to/javinpaul/5-best-cloud-computing-courses-for-beginners-4k4",
+  "publish_date": "2021-12-16",
+  "published_at": "2021-12-16T11:02:39Z"
+ },
+ {
+  "id": 920749,
+  "title": "It's Prisma Time - Setup",
+  "description": "Hi Guys, welcome to the second article of this series.  Today I'll show you how to setup a project...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C10jnk7---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52qwbacxx85e6384lwh5.png",
+  "slug": "its-prisma-time-setup-ei7",
+  "url": "https://dev.to/this-is-learning/its-prisma-time-setup-ei7",
+  "publish_date": "2021-12-16",
+  "published_at": "2021-12-16T07:03:17Z"
+ },
+ {
+  "id": 927839,
+  "title": "What is WEB3 and Why Is It gaining so much of a Traction ?",
+  "description": "Everything began with web 1.0, an information transit hub of documents connected by Hyperlinks. The...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--beNGE5fL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/um2ll2gf5xr1wvwls21k.png",
+  "slug": "what-is-web3-and-why-is-it-gaining-so-much-of-a-traction--2d4n",
+  "url": "https://dev.to/aviyel/what-is-web3-and-why-is-it-gaining-so-much-of-a-traction--2d4n",
+  "publish_date": "2021-12-16",
+  "published_at": "2021-12-16T04:49:03Z"
+ },
+ {
+  "id": 927757,
+  "title": "The Wacky World of Closures \u0026 What Makes Them Useful",
+  "description": "Can you guess what this prints out?    for (let i=0; i\u0026lt;3; i++) {   setTimeout(() =\u0026gt;...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7ZfNUh7f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t0lc281d1c3t6mgq84g5.jpg",
+  "slug": "the-wacky-world-of-closures-what-makes-them-useful-24a7",
+  "url": "https://dev.to/aruna/the-wacky-world-of-closures-what-makes-them-useful-24a7",
+  "publish_date": "2021-12-16",
+  "published_at": "2021-12-16T02:18:43Z"
+ },
+ {
   "id": 926228,
   "title": "CSS can help improve your HTML⁉ - Ep 2: buttons and links.",
   "description": "Part 2 of using CSS to make our HTML better!  In this second part of this series we will be exploring...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dustinbrett/windows-10-clone-in-the-browser-project-update-9-months-4o4",
   "publish_date": "2021-09-08",
   "published_at": "2021-09-08T03:53:36Z"
- },
- {
-  "id": 816338,
-  "title": "How to learn React - The Effective way",
-  "description": "What is React?   React is a free and Open Source Front End JavaScript Library for building...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mo_wk7QL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nh5vs0k1qaobm3s4ivgk.png",
-  "slug": "how-to-learn-react-the-effective-way-2km7",
-  "url": "https://dev.to/shaan_alam/how-to-learn-react-the-effective-way-2km7",
-  "publish_date": "2021-09-07",
-  "published_at": "2021-09-07T15:11:59Z"
- },
- {
-  "id": 816277,
-  "title": "10 New AWS Amplify Features to Check Out",
-  "description": "My team at AWS has been releasing a ton of new features that make AWS Amplify better than ever. Here...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GTydF35w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jdcel8wns4t60thq5ake.png",
-  "slug": "10-new-aws-amplify-features-to-check-out-4291",
-  "url": "https://dev.to/aws/10-new-aws-amplify-features-to-check-out-4291",
-  "publish_date": "2021-09-07",
-  "published_at": "2021-09-07T13:56:40Z"
- },
- {
-  "id": 816257,
-  "title": "Visiting card designer - Make designing website with Html, css and js. ",
-  "description": "Hello, In today's article you'll learn to create awesome visiting card designer. Where you can add...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w5bDHPPI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nxwrig3zuhgohnd63vps.png",
-  "slug": "how-to-make-a-designing-website-with-html-css-and-js-visiting-card-designer-4ml4",
-  "url": "https://dev.to/kunaal438/how-to-make-a-designing-website-with-html-css-and-js-visiting-card-designer-4ml4",
-  "publish_date": "2021-09-07",
-  "published_at": "2021-09-07T13:19:48Z"
- },
- {
-  "id": 815973,
-  "title": "CAST AI vs. CloudCheckr: Which one is a better choice for your team?",
-  "description": "Keeping cloud costs in check is a challenge for many teams. Luckily, they can now benefit from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H6o0xPfU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d0jhh2izraaw4bjn42gw.png",
-  "slug": "cast-ai-vs-cloudcheckr-which-one-is-a-better-choice-for-your-team-2k94",
-  "url": "https://dev.to/castai/cast-ai-vs-cloudcheckr-which-one-is-a-better-choice-for-your-team-2k94",
-  "publish_date": "2021-09-07",
-  "published_at": "2021-09-07T08:12:37Z"
- },
- {
-  "id": 815786,
-  "title": "🚀#2 JavaScript Project Series That Makes You Pro.",
-  "description": "Hello Coders!👋   Welcome back to the Javascript project series. Today i'm share another...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nPq4YQb4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bq8c7w856u968tm7har2.png",
-  "slug": "2-javascript-project-series-that-makes-you-pro-3gfj",
-  "url": "https://dev.to/chetan_atrawalkar/2-javascript-project-series-that-makes-you-pro-3gfj",
-  "publish_date": "2021-09-07",
-  "published_at": "2021-09-07T07:37:10Z"
  }
 ]
