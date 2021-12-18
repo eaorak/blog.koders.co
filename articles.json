@@ -1,5 +1,55 @@
 [
  {
+  "id": 929359,
+  "title": "Congrats to our 2021 GitHub Actions Hackathon Winners!",
+  "description": "Celebrating the winners from the GitHub Actions Hackathon on DEV!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oSFPnbHQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbwhxf3bpkovyp4lp2fw.png",
+  "slug": "congrats-to-our-2021-github-actions-hackathon-winners-1fhk",
+  "url": "https://dev.to/devteam/congrats-to-our-2021-github-actions-hackathon-winners-1fhk",
+  "publish_date": "2021-12-17",
+  "published_at": "2021-12-17T20:05:10Z"
+ },
+ {
+  "id": 928003,
+  "title": "🚀10 Trending projects on GitHub for web developers - 17th December 2021",
+  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
+  "cover_image": "",
+  "slug": "10-trending-projects-on-github-for-web-developers-17th-december-2021-2fmn",
+  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-17th-december-2021-2fmn",
+  "publish_date": "2021-12-17",
+  "published_at": "2021-12-17T14:51:26Z"
+ },
+ {
+  "id": 928947,
+  "title": "How to use spot instances during the Christmas frenzy?",
+  "description": "You’ve been doing a great job using spot instances for the entire year. But as 2021 is coming to a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tvEYbCJM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48z0rbgs6mouzqcjttyt.jpeg",
+  "slug": "how-to-use-spot-instances-during-the-christmas-frenzy-5c0f",
+  "url": "https://dev.to/castai/how-to-use-spot-instances-during-the-christmas-frenzy-5c0f",
+  "publish_date": "2021-12-17",
+  "published_at": "2021-12-17T09:26:32Z"
+ },
+ {
+  "id": 928736,
+  "title": "How to Build a Unique Web Application with React Js?",
+  "description": "With the advancement of technology, the development of mobile-friendly web applications has become...",
+  "cover_image": "",
+  "slug": "how-to-build-a-unique-web-application-with-react-js-2ho0",
+  "url": "https://dev.to/tbihitesh/how-to-build-a-unique-web-application-with-react-js-2ho0",
+  "publish_date": "2021-12-17",
+  "published_at": "2021-12-17T04:10:52Z"
+ },
+ {
+  "id": 902440,
+  "title": "Building a Webpack alternative in F#",
+  "description": "Fable 3 made something I was not aware for some time, it moved to emitting ESM Modules and leaving...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DMuY9BZM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1lo9l9tm4ajnnze56u93.png",
+  "slug": "building-a-webpack-alternative-in-f-4p0f",
+  "url": "https://dev.to/tunaxor/building-a-webpack-alternative-in-f-4p0f",
+  "publish_date": "2021-12-17",
+  "published_at": "2021-12-17T01:18:58Z"
+ },
+ {
   "id": 928276,
   "title": "🔥🤯 Amazing Portfolio website using HTML, CSS and JS.",
   "description": "If you are a beginner or a pro. This blog is for everyone who want to make his/her portfolio an...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/whitep4nth3r/how-to-build-a-personalized-image-social-sharing-app-with-cloudinary-and-next-js-2640",
   "publish_date": "2021-09-09",
   "published_at": "2021-09-09T05:57:44Z"
- },
- {
-  "id": 817355,
-  "title": "Every React Developer should know these libraries",
-  "description": "Hey, Devs! I'm here to share some best React component libraries that are popular among developers...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CG63A1QO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hll7dr6szekkhcqomwez.png",
-  "slug": "every-react-developer-should-know-these-libraries-17mg",
-  "url": "https://dev.to/undefinedhere/every-react-developer-should-know-these-libraries-17mg",
-  "publish_date": "2021-09-08",
-  "published_at": "2021-09-08T19:01:43Z"
- },
- {
-  "id": 817265,
-  "title": "Magic URL authentication with Flutter + Appwrite ",
-  "description": "Appwrite 0.10 introduced Magic URL a password-less authentication method. This allows developers to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NPr3KW14--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9p15djbgfz4swnj7sowf.jpg",
-  "slug": "magic-url-authentication-with-flutter-appwrite-349g",
-  "url": "https://dev.to/appwrite/magic-url-authentication-with-flutter-appwrite-349g",
-  "publish_date": "2021-09-08",
-  "published_at": "2021-09-08T09:40:27Z"
- },
- {
-  "id": 817087,
-  "title": "Building Clubhouse clone in React",
-  "description": "Building a Clubhouse clone with audio conferencing , chat and change roles using React , Tailwind and 100ms SDKs.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Ve12jaB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwjr5tsbza2b35vsnird.png",
-  "slug": "building-clubhouse-clone-in-react-15fa",
-  "url": "https://dev.to/100mslive/building-clubhouse-clone-in-react-15fa",
-  "publish_date": "2021-09-08",
-  "published_at": "2021-09-08T06:39:59Z"
- },
- {
-  "id": 817053,
-  "title": "15 Developer Portfolios to Inspire You",
-  "description": "One of the toughest things to do as a new developer is to assemble an online portfolio.   What should...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZL-XNogQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjn9lbkjovuc8kjq2jmq.jpg",
-  "slug": "15-developer-portfolios-to-inspire-you-1k73",
-  "url": "https://dev.to/muthuannamalai12/15-developer-portfolios-to-inspire-you-1k73",
-  "publish_date": "2021-09-08",
-  "published_at": "2021-09-08T06:34:40Z"
- },
- {
-  "id": 817047,
-  "title": "Windows 10 Clone in the Browser - Project Update @ 9 Months",
-  "description": "Back at the start of this year I began weekly live streams of my side project where I've been...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ilLDPBsx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mw4ncf4i230x0b2ptcz.png",
-  "slug": "windows-10-clone-in-the-browser-project-update-9-months-4o4",
-  "url": "https://dev.to/dustinbrett/windows-10-clone-in-the-browser-project-update-9-months-4o4",
-  "publish_date": "2021-09-08",
-  "published_at": "2021-09-08T03:53:36Z"
  }
 ]
