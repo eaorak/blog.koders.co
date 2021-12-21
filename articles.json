@@ -1,5 +1,55 @@
 [
  {
+  "id": 931033,
+  "title": "Introducing GitLive's Early Access Program for VS Code",
+  "description": "We are happy to announce that GitLive’s Early Access Program is now available in VS Code 🎉  Our Early...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kTUlU4yN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gdrt3657jb95s9qflcb.png",
+  "slug": "introducing-gitlives-early-access-program-for-vs-code-1l5j",
+  "url": "https://dev.to/gitlive/introducing-gitlives-early-access-program-for-vs-code-1l5j",
+  "publish_date": "2021-12-20",
+  "published_at": "2021-12-20T17:09:33Z"
+ },
+ {
+  "id": 931025,
+  "title": "Enzyme is dead. Now what?",
+  "description": "A warning from the maintainer of React 17 Enzyme adapter.",
+  "cover_image": "",
+  "slug": "enzyme-is-dead-now-what-ekl",
+  "url": "https://dev.to/wojtekmaj/enzyme-is-dead-now-what-ekl",
+  "publish_date": "2021-12-20",
+  "published_at": "2021-12-20T10:59:30Z"
+ },
+ {
+  "id": 930678,
+  "title": "AWS open source news and updates #94",
+  "description": "December 20th, 2021 - Instalment #94   Newsletter #94.   This will be the last newsletter ...",
+  "cover_image": "",
+  "slug": "aws-open-source-news-and-updates-94-3o90",
+  "url": "https://dev.to/aws/aws-open-source-news-and-updates-94-3o90",
+  "publish_date": "2021-12-20",
+  "published_at": "2021-12-20T09:55:50Z"
+ },
+ {
+  "id": 930955,
+  "title": "Don't be a prick: Frontend Engineers and Accessibility",
+  "description": "Basic Accessibility isn't hard and it often isn't even a choice. What's hard is your damn...",
+  "cover_image": "",
+  "slug": "dont-be-a-prick-frontend-engineers-and-accessibility-1m8m",
+  "url": "https://dev.to/activenode/dont-be-a-prick-frontend-engineers-and-accessibility-1m8m",
+  "publish_date": "2021-12-20",
+  "published_at": "2021-12-20T08:54:44Z"
+ },
+ {
+  "id": 930097,
+  "title": "Build A Markdown Editor In Reactjs",
+  "description": "Introduction   In this tutorial, we'll be building a markdown editor. As we all know that...",
+  "cover_image": "",
+  "slug": "build-a-markdown-editor-in-reactjs-4g0i",
+  "url": "https://dev.to/oyedeletemitope/build-a-markdown-editor-in-reactjs-4g0i",
+  "publish_date": "2021-12-20",
+  "published_at": "2021-12-20T03:52:17Z"
+ },
+ {
   "id": 926270,
   "title": "Start Testing Your JavaScript Codes with Jest",
   "description": "Why should we write tests for our codes?   When there are more than one developers making...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ug/top-5-ide-for-web-development-4df8",
   "publish_date": "2021-09-12",
   "published_at": "2021-09-12T04:38:24Z"
- },
- {
-  "id": 820937,
-  "title": "⌨️ An ACTUAL typewriter (that auto types and is interactive too!)  🤯 ",
-  "description": "A bit late to the party but here is my silly entry for the typewriter wars!  And unlike everyone...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ljP4M-n8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z5a5ogftm2ew5ka9a0ou.gif",
-  "slug": "an-actual-interactive-typewriter-2hg9",
-  "url": "https://dev.to/inhuofficial/an-actual-interactive-typewriter-2hg9",
-  "publish_date": "2021-09-11",
-  "published_at": "2021-09-11T18:43:47Z"
- },
- {
-  "id": 820526,
-  "title": "The Ultimate Guide to Web Console 🔥",
-  "description": "To debug a code you will use the console   The console object provides access to the browser's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l-EENIT_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/25tyl7dal5etx9r6nv63.png",
-  "slug": "master-the-console-5cj3",
-  "url": "https://dev.to/awedis/master-the-console-5cj3",
-  "publish_date": "2021-09-11",
-  "published_at": "2021-09-11T10:37:32Z"
- },
- {
-  "id": 820591,
-  "title": "Some handy HTML tags can do to make things easier",
-  "description": "HTML (Hypertext Markup Language) is a standard markup language used to create web pages. Tags are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pty5-ly4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbkgjh2jfvtcg3dj1k6u.png",
-  "slug": "some-handy-html-tags-can-do-to-make-things-easier-1jla",
-  "url": "https://dev.to/junlow/some-handy-html-tags-can-do-to-make-things-easier-1jla",
-  "publish_date": "2021-09-11",
-  "published_at": "2021-09-11T10:29:56Z"
- },
- {
-  "id": 820571,
-  "title": "Django Website Templates - Free Download",
-  "description": "A curated list with Django Website Templates completely Free for Download. All projects are actively supported and the article provides the download link for each product.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dLmifDUp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/omy2mjivz3ksqn82p87z.jpg",
-  "slug": "django-website-templates-free-download-4m62",
-  "url": "https://dev.to/sm0ke/django-website-templates-free-download-4m62",
-  "publish_date": "2021-09-11",
-  "published_at": "2021-09-11T09:41:18Z"
- },
- {
-  "id": 820524,
-  "title": "VS Code Shortcuts every developer should know (Windows)",
-  "description": "Who doesn't want to speed up their work? Especially developers. They love shortcuts. And here we are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kgv6EQyh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kgt9nc5dgs7nqzjnolrc.png",
-  "slug": "vs-code-shortcuts-every-developer-should-know-windows-30g2",
-  "url": "https://dev.to/mursalfk/vs-code-shortcuts-every-developer-should-know-windows-30g2",
-  "publish_date": "2021-09-11",
-  "published_at": "2021-09-11T06:54:58Z"
  }
 ]
