@@ -1,5 +1,55 @@
 [
  {
+  "id": 934703,
+  "title": "How many programming languages do you know?",
+  "description": "Feel free to offer a personal definition of \"know\" 😅",
+  "cover_image": "",
+  "slug": "how-many-programming-languages-do-you-know-1in1",
+  "url": "https://dev.to/ben/how-many-programming-languages-do-you-know-1in1",
+  "publish_date": "2021-12-23",
+  "published_at": "2021-12-23T14:00:41Z"
+ },
+ {
+  "id": 934430,
+  "title": "5 Best Courses to learn Blockchain for Beginners in 2022",
+  "description": "My favorite Blockchain development courses to join in 2022. ",
+  "cover_image": "",
+  "slug": "5-best-courses-to-learn-blockchain-for-beginners-in-2022-2me4",
+  "url": "https://dev.to/javinpaul/5-best-courses-to-learn-blockchain-for-beginners-in-2022-2me4",
+  "publish_date": "2021-12-23",
+  "published_at": "2021-12-23T09:59:03Z"
+ },
+ {
+  "id": 933294,
+  "title": "How to make a QR Code generator using Vanilla JavaScript?",
+  "description": "While you can generate QR codes for URLs in browsers such as Chrome it's always interesting to learn...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j4EjOvDc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhxdwlrd8y8it74ttfnq.jpg",
+  "slug": "how-to-make-a-qr-code-generator-using-vanilla-javascript-3cla",
+  "url": "https://dev.to/murtuzaalisurti/how-to-make-a-qr-code-generator-using-vanilla-javascript-3cla",
+  "publish_date": "2021-12-23",
+  "published_at": "2021-12-23T07:52:46Z"
+ },
+ {
+  "id": 934273,
+  "title": "OK. So...I might have completely rebuilt my website...again ",
+  "description": "First of all Merry Christmas in advance, you probably won't be hearing from me on Christmas...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5dB2mHKK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90ogzsxl301q3r3ar55j.png",
+  "slug": "ok-soi-might-have-completely-rebuilt-my-websiteagain-4h22",
+  "url": "https://dev.to/sidcraftscode/ok-soi-might-have-completely-rebuilt-my-websiteagain-4h22",
+  "publish_date": "2021-12-23",
+  "published_at": "2021-12-23T05:01:52Z"
+ },
+ {
+  "id": 934172,
+  "title": "Improving the Next.js config",
+  "description": "The Next.js config file feels underutilized. Here's how it could be better",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q7xpvpIm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1593720213411-697ba0ac0162%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26ixlib%3Drb-1.2.1%26auto%3Dformat%26fit%3Dcrop%26w%3D1712%26q%3D80",
+  "slug": "improving-the-nextjs-config-400j",
+  "url": "https://dev.to/nuro/improving-the-nextjs-config-400j",
+  "publish_date": "2021-12-23",
+  "published_at": "2021-12-23T00:35:15Z"
+ },
+ {
   "id": 933300,
   "title": "Stop Building Your UI Components like this❌",
   "description": "It is true everyone feels elated abstracting the most often copy-pasted code in the codebase into a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/luigizaccagnini/open-source-static-site-generator-3953",
   "publish_date": "2021-09-15",
   "published_at": "2021-09-15T02:56:52Z"
- },
- {
-  "id": 822910,
-  "title": "Master Frontend Development 💻 By Cloning These Websites 💯",
-  "description": "Why clone websites?   Frontend development has everything to do with the client side....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dWzThJC6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wdxsy5j9o8edb9c8mge0.png",
-  "slug": "master-frontend-development-by-cloning-these-websites-1m08",
-  "url": "https://dev.to/hyggedev/master-frontend-development-by-cloning-these-websites-1m08",
-  "publish_date": "2021-09-14",
-  "published_at": "2021-09-14T16:49:28Z"
- },
- {
-  "id": 823456,
-  "title": "How to Reduce\nReact App Loading Time By 70% ",
-  "description": "Steps to decrease your React app initial loading time using code splitting.  We build large-scale...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Qq32URN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5dm9huqwfbb3g94vuzvt.png",
-  "slug": "how-to-reduce-react-app-loading-time-by-70-1kmm",
-  "url": "https://dev.to/nilanth/how-to-reduce-react-app-loading-time-by-70-1kmm",
-  "publish_date": "2021-09-14",
-  "published_at": "2021-09-14T14:30:59Z"
- },
- {
-  "id": 823450,
-  "title": "Free pass to KubeCon 2021 and 50%+ cloud savings",
-  "description": "Get a free pass to KubeCon 2021 and 50%+ cloud savings with CAST AI. We're giving away 10 individual...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TUWRwN8V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wdqkbxjgt1qihob15z1w.png",
-  "slug": "free-pass-to-kubecon-2021-and-50-cloud-savings-4bbd",
-  "url": "https://dev.to/castai/free-pass-to-kubecon-2021-and-50-cloud-savings-4bbd",
-  "publish_date": "2021-09-14",
-  "published_at": "2021-09-14T10:46:46Z"
- },
- {
-  "id": 823451,
-  "title": "Top 10 Must Know JavaScript Functions!\n",
-  "description": "I recently started a new blog TheDailyTechTalk where I create free content. If you liked this post...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UPI292cC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r9s3d94nhug8f3amqn7t.jpg",
-  "slug": "top-10-must-know-javascript-functions-1dm9",
-  "url": "https://dev.to/thedailytechtalk/top-10-must-know-javascript-functions-1dm9",
-  "publish_date": "2021-09-14",
-  "published_at": "2021-09-14T09:15:18Z"
- },
- {
-  "id": 823274,
-  "title": "Best VS Code extensions to increase your productivity",
-  "description": "I recently started a new blog TheDailyTechTalk where I create free content. If you liked this post...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y11n5cvW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zuvr4udr2d54seousjjj.jpg",
-  "slug": "best-vs-code-extensions-to-increase-your-productivity-3562",
-  "url": "https://dev.to/thedailytechtalk/best-vs-code-extensions-to-increase-your-productivity-3562",
-  "publish_date": "2021-09-14",
-  "published_at": "2021-09-14T06:48:20Z"
  }
 ]
