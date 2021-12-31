@@ -1,5 +1,55 @@
 [
  {
+  "id": 896938,
+  "title": "Designing the Analytics patterns using a Lake House approach on AWS\n",
+  "description": "Many organizations are moving all their data from various silos into a single location, often called...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qmLyiolc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l4ng9y1y7zz1i0rdah5k.jpg",
+  "slug": "designing-the-analytics-patterns-using-a-lake-house-approach-on-aws-2hh6",
+  "url": "https://dev.to/aws-builders/designing-the-analytics-patterns-using-a-lake-house-approach-on-aws-2hh6",
+  "publish_date": "2021-12-30",
+  "published_at": "2021-12-30T15:12:13Z"
+ },
+ {
+  "id": 940466,
+  "title": "Ultimate list of JavaScript Learning Resource (Free)",
+  "description": "This post is Going to have some Awesome...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tehYc4t5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfpuqt87uqmt29x4d0n3.png",
+  "slug": "ultimate-list-of-javascript-learning-resource-free-3kef",
+  "url": "https://dev.to/officialkamran/ultimate-list-of-javascript-learning-resource-free-3kef",
+  "publish_date": "2021-12-30",
+  "published_at": "2021-12-30T13:15:12Z"
+ },
+ {
+  "id": 940315,
+  "title": "Will automated cloud optimization replace your DevOps job?",
+  "description": "Everything about automation sounds tempting. Apart from the fact that it would be doing the tasks...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZgEOlUr7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4btlh3myaaevx9io1kwj.jpeg",
+  "slug": "will-automated-cloud-optimization-replace-your-devops-job-2h8m",
+  "url": "https://dev.to/castai/will-automated-cloud-optimization-replace-your-devops-job-2h8m",
+  "publish_date": "2021-12-30",
+  "published_at": "2021-12-30T12:20:53Z"
+ },
+ {
+  "id": 940291,
+  "title": "Git Command Cheat Sheet ",
+  "description": "Hello Dev,  We all know about Git but I want to share little bit about that, In daily base where I am...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FSkvWqqI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jw63cxzfe7rd1mc3r24n.jpg",
+  "slug": "git-command-cheat-sheet-31ec",
+  "url": "https://dev.to/anitaparmar26/git-command-cheat-sheet-31ec",
+  "publish_date": "2021-12-30",
+  "published_at": "2021-12-30T11:34:07Z"
+ },
+ {
+  "id": 939255,
+  "title": "Awesome VSCode extensions for a better coding experience [ Part 1 ]",
+  "description": "Imagine yourself typing all the HTML boilerplate code when you decided to make a new project or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sTv6MOi8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f77c51nbixehl6bvcecj.png",
+  "slug": "awesome-vscode-extensions-for-a-better-coding-experience-part-1--3i9b",
+  "url": "https://dev.to/hyperloop/awesome-vscode-extensions-for-a-better-coding-experience-part-1--3i9b",
+  "publish_date": "2021-12-30",
+  "published_at": "2021-12-30T06:52:36Z"
+ },
+ {
   "id": 939541,
   "title": "What does 2022 have in store for cybersecurity and cloud security specialists?",
   "description": "Cloud adoption and industry transformation are accelerating as the world looks for efficiency. Let’s...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/insidiousthedev/great-vscode-extensions-for-js-developers-5fj5",
   "publish_date": "2021-09-21",
   "published_at": "2021-09-21T06:27:36Z"
- },
- {
-  "id": 832847,
-  "title": "Why do Webdevs keep trying to kill REST? ",
-  "description": "How I broke out of the tiresome REST vs GraphQL debate - by realizing that the real battle is between Smart Clients and Smart Servers!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KTvRVE3w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uqbmd7yo8iwhmttuq0np.png",
-  "slug": "why-do-webdevs-keep-trying-to-kill-rest-j2j",
-  "url": "https://dev.to/swyx/why-do-webdevs-keep-trying-to-kill-rest-j2j",
-  "publish_date": "2021-09-20",
-  "published_at": "2021-09-20T14:46:38Z"
- },
- {
-  "id": 831802,
-  "title": "Software Engineering is a Loser’s Game",
-  "description": "I’ve recently become fascinated by the idea of “winner’s games” and “loser’s games.” There are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wbKutM0y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhx58j0z8n9z02emolta.jpeg",
-  "slug": "software-engineering-is-a-loser-s-game-2k20",
-  "url": "https://dev.to/thawkin3/software-engineering-is-a-loser-s-game-2k20",
-  "publish_date": "2021-09-20",
-  "published_at": "2021-09-20T09:53:40Z"
- },
- {
-  "id": 832489,
-  "title": "Progressing from a beginner to intermediate developer",
-  "description": "So, you're not a complete beginner anymore: You've built a few webpages, learned the basics of HTML,...",
-  "cover_image": "",
-  "slug": "progressing-from-a-beginner-to-intermediate-developer-2jk1",
-  "url": "https://dev.to/npmrundev/progressing-from-a-beginner-to-intermediate-developer-2jk1",
-  "publish_date": "2021-09-20",
-  "published_at": "2021-09-20T08:14:04Z"
- },
- {
-  "id": 829383,
-  "title": "Create and publish your own React library",
-  "description": "Table Of Contents    Chapter #1 Create your library with create-react-library Chapter #2...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T5nRud86--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kr35z8d44hlcq85s076k.png",
-  "slug": "create-and-publish-your-own-react-library-3cc8",
-  "url": "https://dev.to/bornfightcompany/create-and-publish-your-own-react-library-3cc8",
-  "publish_date": "2021-09-20",
-  "published_at": "2021-09-20T07:28:27Z"
- },
- {
-  "id": 832018,
-  "title": "Array.map() Method in JavaScript 🚀",
-  "description": "Hello, guys today we are covering one of the most important topic.  Today we are learning map()...",
-  "cover_image": "",
-  "slug": "array-map-method-in-javascript-2fi",
-  "url": "https://dev.to/dev_shubham/array-map-method-in-javascript-2fi",
-  "publish_date": "2021-09-20",
-  "published_at": "2021-09-20T05:43:21Z"
  }
 ]
