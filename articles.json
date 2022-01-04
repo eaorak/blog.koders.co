@@ -1,5 +1,55 @@
 [
  {
+  "id": 943305,
+  "title": "My writing stats for 2021, best time to post on DEV and plans for 2022-2023 [over 250 articles planned]",
+  "description": "In 11 months of writing I have amassed over 250k views on DEV, not to be sniffed at...but I can do...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k28HfYfH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jzr5v10ohdhdoktn6l3j.jpg",
+  "slug": "my-writing-stats-for-2021-best-time-to-post-on-dev-and-plans-for-2022-2023-over-250-articles-planned-557l",
+  "url": "https://dev.to/inhuofficial/my-writing-stats-for-2021-best-time-to-post-on-dev-and-plans-for-2022-2023-over-250-articles-planned-557l",
+  "publish_date": "2022-01-03",
+  "published_at": "2022-01-03T15:40:40Z"
+ },
+ {
+  "id": 942631,
+  "title": "Hoppscotch is celebrating 35,000 GitHub Stars",
+  "description": "Hoppscotch now has 35,000 star gazers on GitHub. We'll use this milestone to recap Hoppscotch’s...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eatFHyGt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0mlgj9iexmrxolspkk13.png",
+  "slug": "hoppscotch-is-celebrating-35000-github-stars-42hj",
+  "url": "https://dev.to/liyasthomas/hoppscotch-is-celebrating-35000-github-stars-42hj",
+  "publish_date": "2022-01-03",
+  "published_at": "2022-01-03T10:44:40Z"
+ },
+ {
+  "id": 942732,
+  "title": "Asynchronous loops in Javascript - using forEach, map and for loop",
+  "description": "Asynchronous operations are crucial when working with web applications. We can all agree how easy...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uYBkJXWG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/az0429ibcsk0iwgx5b4l.jpg",
+  "slug": "asynchronous-loops-in-javascript-using-foreach-vs-map-vs-for-loop-5020",
+  "url": "https://dev.to/anshuman_bhardwaj/asynchronous-loops-in-javascript-using-foreach-vs-map-vs-for-loop-5020",
+  "publish_date": "2022-01-03",
+  "published_at": "2022-01-03T08:48:01Z"
+ },
+ {
+  "id": 936147,
+  "title": "React Component Testing",
+  "description": "In our last article, we have introduced the usage of Jest to test our JavaScript code Start Testing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6EmMXN18--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x4n8ipl1v9dy7uvpp1dt.jpg",
+  "slug": "react-component-testing-54ie",
+  "url": "https://dev.to/ohdylan/react-component-testing-54ie",
+  "publish_date": "2022-01-03",
+  "published_at": "2022-01-03T08:02:43Z"
+ },
+ {
+  "id": 942864,
+  "title": "8 techniques to write cleaner  JavaScript code",
+  "description": "I believe being a Software Engineer is just like being a Super Hero! And with great power, comes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MZIJFg-q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2cab86auqek9wqzpv79e.png",
+  "slug": "8-techniques-to-write-cleaner-javascript-code-369e",
+  "url": "https://dev.to/muhd_ahsanayaz/8-techniques-to-write-cleaner-javascript-code-369e",
+  "publish_date": "2022-01-03",
+  "published_at": "2022-01-03T01:27:01Z"
+ },
+ {
   "id": 942546,
   "title": "Please remove that .DS_Store",
   "description": "macOS automatically creates .DS_Store when you open a folder with Finder, the default file manager....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-1-158a",
   "publish_date": "2021-09-25",
   "published_at": "2021-09-25T07:03:59Z"
- },
- {
-  "id": 838429,
-  "title": "🚀10 Trending projects on GitHub for web developers - 24th September 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-24th-september-2021-44p0",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-24th-september-2021-44p0",
-  "publish_date": "2021-09-24",
-  "published_at": "2021-09-24T13:43:24Z"
- },
- {
-  "id": 836318,
-  "title": "Ultimate ReactJS Resources 🛠For Web Developers 2021👨‍💻",
-  "description": "Looking for helpful ReactJS Resources? Then here is the best collection of extremely useful ReactJS...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rrFemxf3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r71azkkh4mvqfh6r9w50.png",
-  "slug": "ultimate-reactjs-resources-for-web-developers-2021-424c",
-  "url": "https://dev.to/theme_selection/ultimate-reactjs-resources-for-web-developers-2021-424c",
-  "publish_date": "2021-09-24",
-  "published_at": "2021-09-24T12:51:59Z"
- },
- {
-  "id": 838887,
-  "title": "Make your own API under 30 lines of code",
-  "description": "Make your own API under 30 lines of code   Hey readers 👋🏻, in this blog we are going to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bGI7lHyT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ihh9bt0m353ry4174on6.png",
-  "slug": "make-your-own-api-under-30-lines-of-code-4doh",
-  "url": "https://dev.to/shreyazz/make-your-own-api-under-30-lines-of-code-4doh",
-  "publish_date": "2021-09-24",
-  "published_at": "2021-09-24T10:31:03Z"
- },
- {
-  "id": 831392,
-  "title": "Improve your JS skills with those tips #2\n",
-  "description": "In this article I will share with you some news tips about JS that can improve your skills!          ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2bbiIjGA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/masjo5s1q9yiuz17xssn.jpg",
-  "slug": "improve-your-js-skills-with-theses-tips-2-3bg2",
-  "url": "https://dev.to/codeoz/improve-your-js-skills-with-theses-tips-2-3bg2",
-  "publish_date": "2021-09-24",
-  "published_at": "2021-09-24T09:46:23Z"
- },
- {
-  "id": 838807,
-  "title": "5  Ways to Fetch API Data in React.js",
-  "description": "This article is a reference guide to strengthen your skills as a React developer and for job...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3aIXDMst--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6kg4saf4xrlo8lz9g1ia.png",
-  "slug": "5-ways-to-fetch-api-data-in-react-js-3pfk",
-  "url": "https://dev.to/zahab/5-ways-to-fetch-api-data-in-react-js-3pfk",
-  "publish_date": "2021-09-24",
-  "published_at": "2021-09-24T08:16:34Z"
  }
 ]
