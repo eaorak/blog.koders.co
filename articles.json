@@ -1,5 +1,55 @@
 [
  {
+  "id": 944417,
+  "title": "How do you feel about regex?",
+  "description": "Regex seems to have a broad array of love and hate. How do you feel about it? Do you seek to use or...",
+  "cover_image": "",
+  "slug": "how-do-you-feel-about-regex-14c2",
+  "url": "https://dev.to/ben/how-do-you-feel-about-regex-14c2",
+  "publish_date": "2022-01-04",
+  "published_at": "2022-01-04T14:22:52Z"
+ },
+ {
+  "id": 941325,
+  "title": "💡 Vue Typescript State Management : We can do better than “isLoading” in 2022",
+  "description": "Sorry for the clickbait title, but I needed your attention 👀   Have you ever encountered code like...",
+  "cover_image": "",
+  "slug": "vue-typescript-state-management-we-can-do-better-than-isloading-in-2022-2n5d",
+  "url": "https://dev.to/monisnap/vue-typescript-state-management-we-can-do-better-than-isloading-in-2022-2n5d",
+  "publish_date": "2022-01-04",
+  "published_at": "2022-01-04T10:57:22Z"
+ },
+ {
+  "id": 944119,
+  "title": "Windows, WSL, Docker, and Free Starters",
+  "description": "Learn how to set up WSL and Docker on Windows - Free \u0026 open-source samples provided.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NcgJuAql--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5s8jmd2cfj91t1gtovmz.jpg",
+  "slug": "windows-wsl-docker-and-free-starters-4ndn",
+  "url": "https://dev.to/sm0ke/windows-wsl-docker-and-free-starters-4ndn",
+  "publish_date": "2022-01-04",
+  "published_at": "2022-01-04T09:07:34Z"
+ },
+ {
+  "id": 944111,
+  "title": "5 cool JavaScript features that most developers don't know about",
+  "description": "You can use JavaScript to do the same thing in different ways. With the release of each new...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DCPCqOz5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l7vimhl50fd84azan42s.jpg",
+  "slug": "5-cool-javascript-features-that-most-developers-dont-know-about-5b7f",
+  "url": "https://dev.to/ra1nbow1/5-cool-javascript-features-that-most-developers-dont-know-about-5b7f",
+  "publish_date": "2022-01-04",
+  "published_at": "2022-01-04T08:55:10Z"
+ },
+ {
+  "id": 943171,
+  "title": "RegExp Cheatsheet to speed up code editing and refactor",
+  "description": "Have you ever asked yourself some of these questions:   How do I find all the imports of a particular...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qcAqDZgO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w6dm3fezpmgtjo4br95b.png",
+  "slug": "regexp-cheatsheet-to-speed-up-code-editing-and-refactor-d2d",
+  "url": "https://dev.to/admitkard/regexp-cheatsheet-to-speed-up-code-editing-and-refactor-d2d",
+  "publish_date": "2022-01-04",
+  "published_at": "2022-01-04T07:30:00Z"
+ },
+ {
   "id": 943305,
   "title": "My writing stats for 2021, best time to post on DEV and plans for 2022-2023 [over 250 articles planned]",
   "description": "In 11 months of writing I have amassed over 250k views on DEV, not to be sniffed at...but I can do...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b",
   "publish_date": "2021-09-26",
   "published_at": "2021-09-26T02:28:39Z"
- },
- {
-  "id": 839096,
-  "title": "I wrote a fully-functioning File Explorer, using TypeScript.",
-  "description": "I am very happy to introduce Xplorer to help you organize your files and/or folders.           ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y0RVIHLc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5lmujefkpw9mu561gu2.png",
-  "slug": "i-wrote-a-fully-functioning-file-explorer-using-typescript-1e4n",
-  "url": "https://dev.to/kimlimjustin/i-wrote-a-fully-functioning-file-explorer-using-typescript-1e4n",
-  "publish_date": "2021-09-25",
-  "published_at": "2021-09-25T13:23:10Z"
- },
- {
-  "id": 840044,
-  "title": "React: How to create a reusable form using React Context",
-  "description": "Forms are very common in web apps. We are going to be creating forms over and over again when working...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4M9Pb1US--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4jfd6fbrurmq84co5on.png",
-  "slug": "react-creating-a-reusable-form-using-react-context-5eof",
-  "url": "https://dev.to/trishathecookie/react-creating-a-reusable-form-using-react-context-5eof",
-  "publish_date": "2021-09-25",
-  "published_at": "2021-09-25T10:09:40Z"
- },
- {
-  "id": 840028,
-  "title": "JavaScript Best Practices for Beginners",
-  "description": "Let us quickly discuss some of the best practices which you can follow while working with JavaScript....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3pQqW_Ek--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2kgjz625u1j687qmp17s.png",
-  "slug": "javascript-best-practices-for-beginners-11ec",
-  "url": "https://dev.to/syedafrozpasha/javascript-best-practices-for-beginners-11ec",
-  "publish_date": "2021-09-25",
-  "published_at": "2021-09-25T07:26:32Z"
- },
- {
-  "id": 840023,
-  "title": "Most Useful Visual Studio Code Shortcuts To Improve Your Productivity",
-  "description": "Visual Studio Code is the most widely used and most loved code editor for application...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nAmZApBx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0a9symfb5glhp0ggi6rq.jpeg",
-  "slug": "most-useful-visual-studio-code-shortcuts-to-improve-your-productivity-2kh4",
-  "url": "https://dev.to/myogeshchavan97/most-useful-visual-studio-code-shortcuts-to-improve-your-productivity-2kh4",
-  "publish_date": "2021-09-25",
-  "published_at": "2021-09-25T07:06:22Z"
- },
- {
-  "id": 840016,
-  "title": "I Design, You Build! - Frontend Challenge #1",
-  "description": "Challenge   Awesome Gradient, 3D Space design with different kind of Design Flavor. Create a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6_ZQ6XEH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/akqho6affec7298p6hu7.png",
-  "slug": "i-design-you-build-frontend-challenge-1-158a",
-  "url": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-1-158a",
-  "publish_date": "2021-09-25",
-  "published_at": "2021-09-25T07:03:59Z"
  }
 ]
