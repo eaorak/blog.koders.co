@@ -1,5 +1,55 @@
 [
  {
+  "id": 946664,
+  "title": "Why Is Website Performance Important And Tricks To Improve Front End Performance",
+  "description": "WHY DOES PERFORMANCE MATTER:   The performance of your website is important for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aWX_tPnq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ve5kligh5e2kjeho2iso.jpg",
+  "slug": "why-is-website-performance-important-and-tricks-to-improve-front-end-performance-f09",
+  "url": "https://dev.to/sharma2288/why-is-website-performance-important-and-tricks-to-improve-front-end-performance-f09",
+  "publish_date": "2022-01-06",
+  "published_at": "2022-01-06T10:04:08Z"
+ },
+ {
+  "id": 946656,
+  "title": "Did you know there are 4 and 8 digit hex codes (#11223344?) for colours? 🤯",
+  "description": "10 years as a developer and somehow I have missed that there are 4 digit (#1234) and 8 digit...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wp_gHgtr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gh6tdch3lnsnbygw7ygh.jpg",
+  "slug": "hold-on-there-are-4-and-8-digit-hex-codes-for-colours-261i",
+  "url": "https://dev.to/inhuofficial/hold-on-there-are-4-and-8-digit-hex-codes-for-colours-261i",
+  "publish_date": "2022-01-06",
+  "published_at": "2022-01-06T09:50:33Z"
+ },
+ {
+  "id": 946568,
+  "title": "I received a letter from myself",
+  "description": "And to be precise, from my past self.  I wrote this letter precisely a year ago, as a gift to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ubXg24qG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l70fqjwvyxmee16tpr77.jpg",
+  "slug": "i-received-a-letter-from-myself-p4n",
+  "url": "https://dev.to/dailydevtips1/i-received-a-letter-from-myself-p4n",
+  "publish_date": "2022-01-06",
+  "published_at": "2022-01-06T06:58:20Z"
+ },
+ {
+  "id": 946567,
+  "title": "System Design Guide for Front-end Developers",
+  "description": "TOC:   Why system design for FE What do interviewers look for Important Topics UI/UX Frameworks,...",
+  "cover_image": "",
+  "slug": "system-design-guide-for-front-end-developers-5fkl",
+  "url": "https://dev.to/hellonehha/system-design-guide-for-front-end-developers-5fkl",
+  "publish_date": "2022-01-06",
+  "published_at": "2022-01-06T06:56:53Z"
+ },
+ {
+  "id": 946480,
+  "title": "5 Best Azure Courses for Beginners",
+  "description": "These are the best online courses to learn Microsoft Azure platform, concepts, and services from Udemy, Coursera, Pluralsight and other popular platforms. ",
+  "cover_image": "",
+  "slug": "5-best-azure-courses-for-beginners-5bie",
+  "url": "https://dev.to/javinpaul/5-best-azure-courses-for-beginners-5bie",
+  "publish_date": "2022-01-06",
+  "published_at": "2022-01-06T06:00:44Z"
+ },
+ {
   "id": 887714,
   "title": "Introduction to Streaming Ingestion and Stream Processing",
   "description": "Processing real-time streaming data requires throughput scalability, reliability, high availability,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/asayerio_techblog/redux-is-dead-long-live-redux-toolkit-db8",
   "publish_date": "2021-09-28",
   "published_at": "2021-09-28T03:59:06Z"
- },
- {
-  "id": 818521,
-  "title": "The Best JetBrains Plugins For Remote Working\n",
-  "description": "What do developers want? Money, flexible schedules, pizza? Sure. Effortless remote collaboration?...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y7aoFnkw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1gveobg998x4obra3blb.png",
-  "slug": "the-best-jetbrains-plugins-for-remote-working-64",
-  "url": "https://dev.to/morrone_carlo/the-best-jetbrains-plugins-for-remote-working-64",
-  "publish_date": "2021-09-27",
-  "published_at": "2021-09-27T11:37:08Z"
- },
- {
-  "id": 833724,
-  "title": "Me, AWS and Netlify",
-  "description": "Into the city   When I moved to Cloud City I noticed that everybody was nice and friendly....",
-  "cover_image": "",
-  "slug": "me-aws-and-netlify-4016",
-  "url": "https://dev.to/bornfightcompany/me-aws-and-netlify-4016",
-  "publish_date": "2021-09-27",
-  "published_at": "2021-09-27T07:44:46Z"
- },
- {
-  "id": 841781,
-  "title": "5 Best Places to find Hackathons!🧑‍💻",
-  "description": "Hackathons are probably one of the best places to network with people and simultaneously learn and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rKqt1xBx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cjap0q1tbad8rmiiycr9.jpg",
-  "slug": "7-best-places-to-find-hackathons-8h7",
-  "url": "https://dev.to/rakeshsantwani/7-best-places-to-find-hackathons-8h7",
-  "publish_date": "2021-09-27",
-  "published_at": "2021-09-27T05:14:04Z"
- },
- {
-  "id": 841766,
-  "title": "5 essential Web UX laws",
-  "description": "1. JAKOB’S LAW   Users spend most of their time on other sites. This means that users prefer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--odswtT3F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4lxmmlm5jo6rv45uhq7d.png",
-  "slug": "5-essential-web-ux-laws-318a",
-  "url": "https://dev.to/abhirajb/5-essential-web-ux-laws-318a",
-  "publish_date": "2021-09-27",
-  "published_at": "2021-09-27T04:12:06Z"
- },
- {
-  "id": 841765,
-  "title": "JavaScript Functions: Explain Like I'm Five",
-  "description": "If you are a newbie to programming and JavaScript, you might first find it hard to grasp the concept...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H77ROdek--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y65wvto0r4st3uxd9bba.jpg",
-  "slug": "javascript-functions-explain-like-i-m-five-5009",
-  "url": "https://dev.to/sumusiriwardana/javascript-functions-explain-like-i-m-five-5009",
-  "publish_date": "2021-09-27",
-  "published_at": "2021-09-27T04:10:14Z"
  }
 ]
