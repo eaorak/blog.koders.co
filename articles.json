@@ -1,5 +1,55 @@
 [
  {
+  "id": 948795,
+  "title": "How I built my second brain using Next.JS",
+  "description": "Okay! Before you declare me crazy and ask “How the hell can anyone build a second braing using...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fdrp4fCa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t5vwz4xp3u61jn0q208a.png",
+  "slug": "how-i-built-my-second-brain-using-nextjs-56e7",
+  "url": "https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7",
+  "publish_date": "2022-01-08",
+  "published_at": "2022-01-08T14:03:51Z"
+ },
+ {
+  "id": 948791,
+  "title": "How to make full stack e-commerce website using HTML, CSS and JS | Part 01",
+  "description": "Hello, Today in this article, we'll learn to create an e-commerce website using HTML, CSS and JS....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AL40aV6S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ejcg1ulv1obxxbqw682.png",
+  "slug": "how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
+  "url": "https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
+  "publish_date": "2022-01-08",
+  "published_at": "2022-01-08T13:39:32Z"
+ },
+ {
+  "id": 947195,
+  "title": "Memory Leaks, How to avoid them in a React App.",
+  "description": "What is a memory leak?   According to Wikipedia, a memory leak is a type of resource leak...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qDOkq2mj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9cnags4huqtvddlcf0bq.png",
+  "slug": "memory-leaks-how-to-avoid-them-in-a-react-app-1g5e",
+  "url": "https://dev.to/jeremiahjacinth13/memory-leaks-how-to-avoid-them-in-a-react-app-1g5e",
+  "publish_date": "2022-01-08",
+  "published_at": "2022-01-08T09:58:39Z"
+ },
+ {
+  "id": 948623,
+  "title": "I Built My Own TinyURL. Here’s How I Did It",
+  "description": "Designing a URL shortener such as TinyURL and Bitly is one of the most common system design interview...",
+  "cover_image": "",
+  "slug": "i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
+  "url": "https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
+  "publish_date": "2022-01-08",
+  "published_at": "2022-01-08T08:31:30Z"
+ },
+ {
+  "id": 948528,
+  "title": "The Better Way of Sending Data to the Backend",
+  "description": "If you are a front-end developer, who ever worked on picture uploading, video uploading or audio...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VGXZka5G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g43vvcgs07u6d145gaql.png",
+  "slug": "the-better-way-of-sending-data-to-the-backend-bdp",
+  "url": "https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp",
+  "publish_date": "2022-01-08",
+  "published_at": "2022-01-08T07:11:03Z"
+ },
+ {
   "id": 946696,
   "title": "How to Start Using Typescript",
   "description": "One of the most significant innovations in web development in the past decade has been the shift...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/muthuannamalai12/10-github-repository-every-web-developer-should-know-10pm",
   "publish_date": "2021-09-30",
   "published_at": "2021-09-30T06:11:11Z"
- },
- {
-  "id": 833256,
-  "title": "12+ Github Repositories to Help You Ace Your Job Interview",
-  "description": "The word \"interview\" is frequently associated with anxiety and discomfort. However, you may prepare...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I5Yt2wFO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pt6pwm8yg83tb1u94g37.png",
-  "slug": "12-github-repositories-to-help-you-ace-your-job-interview-2a08",
-  "url": "https://dev.to/olanetsoft/12-github-repositories-to-help-you-ace-your-job-interview-2a08",
-  "publish_date": "2021-09-29",
-  "published_at": "2021-09-29T14:40:39Z"
- },
- {
-  "id": 825165,
-  "title": "State of Solid - September 2021",
-  "description": "A lot of exciting things have been going in the Solid in the last few months since the 1.0...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nsIs7Q5y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1u8dtcgdph36jbebhi3y.png",
-  "slug": "state-of-solid-september-2021-4mi2",
-  "url": "https://dev.to/ryansolid/state-of-solid-september-2021-4mi2",
-  "publish_date": "2021-09-29",
-  "published_at": "2021-09-29T14:10:05Z"
- },
- {
-  "id": 844676,
-  "title": "Bookmark These 8 Front-End Websites Now!",
-  "description": "Now that I've been working with front-end web frameworks professionally for over 2 years, I can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Sw0W6oSr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d948myp4n0sk70s1kzc2.jpeg",
-  "slug": "bookmark-these-8-front-end-websites-now-gl0",
-  "url": "https://dev.to/jburroughs/bookmark-these-8-front-end-websites-now-gl0",
-  "publish_date": "2021-09-29",
-  "published_at": "2021-09-29T12:46:07Z"
- },
- {
-  "id": 845126,
-  "title": "Exploring the CSS Paint API: Blob Animation",
-  "description": "After the fragmentation effect, I am going to tackle another interesting animation: The Blob! We all...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aSFJ8pTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fi8flx77nzqpmjy2npak.png",
-  "slug": "exploring-the-css-paint-api-blob-animation-3djl",
-  "url": "https://dev.to/this-is-learning/exploring-the-css-paint-api-blob-animation-3djl",
-  "publish_date": "2021-09-29",
-  "published_at": "2021-09-29T12:02:54Z"
- },
- {
-  "id": 844819,
-  "title": "5 Common HTML Mistakes you should avoid.",
-  "description": "1. Semantic Header and Footer   Divs have no semantic structure. Instead of using divs to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ADnFxJYc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/amszdsbmj18kb2r9ybtu.png",
-  "slug": "5-common-html-mistakes-you-should-avoid-35he",
-  "url": "https://dev.to/abhirajb/5-common-html-mistakes-you-should-avoid-35he",
-  "publish_date": "2021-09-29",
-  "published_at": "2021-09-29T04:59:11Z"
  }
 ]
