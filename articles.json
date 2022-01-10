@@ -1,5 +1,55 @@
 [
  {
+  "id": 949594,
+  "title": "30 JavaScript Libraries to use in your Projects",
+  "description": "JavaScript is a programming language that is vastly used in the world both on the client-side as well...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PiQovfpv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3aa4u0b1hwxidbp1r1te.png",
+  "slug": "30-javascript-libraries-to-use-in-your-projects-1gd3",
+  "url": "https://dev.to/devdefinitive/30-javascript-libraries-to-use-in-your-projects-1gd3",
+  "publish_date": "2022-01-09",
+  "published_at": "2022-01-09T15:11:28Z"
+ },
+ {
+  "id": 949331,
+  "title": "Build your own WYSIWYG editor (HTML, CSS \u0026 pure JavaScript)\n",
+  "description": "Are you annoyed by missing or unnecessary functions in WYSIWYG editors? No problem! Here I show you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mRXi31j8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4z20xowww01ftxhoo3hf.jpg",
+  "slug": "program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
+  "url": "https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
+  "publish_date": "2022-01-09",
+  "published_at": "2022-01-09T08:31:54Z"
+ },
+ {
+  "id": 949036,
+  "title": "Deep dive into React codebase [EP1: Prerequisites]",
+  "description": "Preface   My last article about the obscured history behind Hyperscript was warmly received,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rZ9myLGd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kx3u86vgtn99ko4cd5z0.png",
+  "slug": "deep-dive-into-react-codebase-ep1-prerequisites-33ak",
+  "url": "https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak",
+  "publish_date": "2022-01-09",
+  "published_at": "2022-01-09T06:06:48Z"
+ },
+ {
+  "id": 949269,
+  "title": "Show and hide a header based on scroll direction",
+  "description": "This article actually has a funny origin as it was requested by my good friend Fredrik asked me to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZvxRqE29--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/220zer9y3dczftb5x7z4.jpg",
+  "slug": "show-and-hide-a-header-based-on-scroll-direction-19fa",
+  "url": "https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa",
+  "publish_date": "2022-01-09",
+  "published_at": "2022-01-09T05:46:58Z"
+ },
+ {
+  "id": 949164,
+  "title": "How to Connect a React App to a Notion Database",
+  "description": "All code from this tutorial as a complete package is available in this repository.    If you find...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3cFh67Wl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ox9nndgwa9ivsb7udu0.png",
+  "slug": "how-to-connect-a-react-app-to-a-notion-database-51mc",
+  "url": "https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc",
+  "publish_date": "2022-01-09",
+  "published_at": "2022-01-09T02:23:44Z"
+ },
+ {
   "id": 948795,
   "title": "How I built my second brain using Next.JS",
   "description": "Okay! Before you declare me crazy and ask “How the hell can anyone build a second braing using...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jideabdqudus/fetching-data-in-react-quick-guide-4fba",
   "publish_date": "2021-10-01",
   "published_at": "2021-10-01T01:04:59Z"
- },
- {
-  "id": 839155,
-  "title": "Vue Academy #6: Async update queue",
-  "description": "Vue performs DOM updates asynchronously! But what does mean?  I will begin by explain you what is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6d_Hmmhp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/60c8zb7fn4xingt1mn2y.png",
-  "slug": "vue-academy-6-async-update-queue-56k",
-  "url": "https://dev.to/codeoz/vue-academy-6-async-update-queue-56k",
-  "publish_date": "2021-09-30",
-  "published_at": "2021-09-30T15:38:06Z"
- },
- {
-  "id": 846750,
-  "title": "How to build 7,000+ REST APIs within 2 mins (Node.js + MySQL) !!",
-  "description": "NocoDB is an open source Airtable alternative that instantly also provides you REST APIs on any MySQL...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f3KApTA4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4hbbisll5zq6v482g3rl.png",
-  "slug": "how-to-build-7-000-rest-apis-within-2-mins-node-js-mysql-470b",
-  "url": "https://dev.to/o1lab/how-to-build-7-000-rest-apis-within-2-mins-node-js-mysql-470b",
-  "publish_date": "2021-09-30",
-  "published_at": "2021-09-30T14:01:46Z"
- },
- {
-  "id": 804337,
-  "title": "Cherry-Pick Your Teammate's Changes Without Push 'n Pull-ing To Your Repo In VS Code",
-  "description": "You asked your teammate for help with a piece of code and they showed you the solution in their...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h_y9QW-p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/husifi8qo5ubjahh3muc.png",
-  "slug": "cherry-pick-your-teammate-s-changes-without-push-n-pull-ing-to-your-repo-in-vs-code-10i9",
-  "url": "https://dev.to/gitlive/cherry-pick-your-teammate-s-changes-without-push-n-pull-ing-to-your-repo-in-vs-code-10i9",
-  "publish_date": "2021-09-30",
-  "published_at": "2021-09-30T13:08:40Z"
- },
- {
-  "id": 846501,
-  "title": "The largest library of UI components for popular frameworks",
-  "description": "Building websites from scratch is a tough task if you don't have a designer on board. Most of the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--siQc1WRq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmctar2ygzln70dg995h.png",
-  "slug": "the-largest-library-of-ui-components-for-popular-frameworks-51b5",
-  "url": "https://dev.to/kemyd/the-largest-library-of-ui-components-for-popular-frameworks-51b5",
-  "publish_date": "2021-09-30",
-  "published_at": "2021-09-30T11:12:48Z"
- },
- {
-  "id": 846098,
-  "title": "10 GitHub Repository every Web Developer should Know",
-  "description": "GitHub is the place you should be looking for when you’re trying to improve yourself as a developer....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SKERkWh8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ywa1iqmjy9s4lzw315vp.jpg",
-  "slug": "10-github-repository-every-web-developer-should-know-10pm",
-  "url": "https://dev.to/muthuannamalai12/10-github-repository-every-web-developer-should-know-10pm",
-  "publish_date": "2021-09-30",
-  "published_at": "2021-09-30T06:11:11Z"
  }
 ]
