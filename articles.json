@@ -1,5 +1,55 @@
 [
  {
+  "id": 954344,
+  "title": "Make your first contribution to a GitHub Action! ",
+  "description": "Why edit a GitHub Action?   There are many reasons to edit a GitHub Action. Perhaps, you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0gQ6zOo---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i3bvov3l86du81gze0mv.png",
+  "slug": "how-to-edit-a-github-action-3j14",
+  "url": "https://dev.to/github/how-to-edit-a-github-action-3j14",
+  "publish_date": "2022-01-13",
+  "published_at": "2022-01-13T18:36:26Z"
+ },
+ {
+  "id": 954042,
+  "title": "Sending Text Messages with Javascript and Twilio",
+  "description": "Twilio has become a favorite among devs looking to integrate messaging, calls, and streaming into...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1yj5APSN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qydybv7nqgr8nbkm10ed.png",
+  "slug": "sending-text-messages-with-javascript-and-twilio-2hpp",
+  "url": "https://dev.to/codesphere/sending-text-messages-with-javascript-and-twilio-2hpp",
+  "publish_date": "2022-01-13",
+  "published_at": "2022-01-13T15:46:10Z"
+ },
+ {
+  "id": 953823,
+  "title": "How to build a Tailwind CSS pagination component with Flowbite",
+  "description": "Tailwind CSS is one of the fastest growing frameworks and it is popular for its utility-first...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H92_agc2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgcpqec4g1x2qrofxl7d.png",
+  "slug": "how-to-build-a-tailwind-css-pagination-component-with-flowbite-19mb",
+  "url": "https://dev.to/themesberg/how-to-build-a-tailwind-css-pagination-component-with-flowbite-19mb",
+  "publish_date": "2022-01-13",
+  "published_at": "2022-01-13T11:19:41Z"
+ },
+ {
+  "id": 896951,
+  "title": "Security Pillar - AWS Well-Architected Framework | AWS White Paper Summary",
+  "description": "Introduction    The AWS Well-Architected Framework helps you understand trade-offs for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0kiELK3O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jymsghbish4pgsj2dve4.png",
+  "slug": "security-pillar-aws-well-architected-framework-aws-white-paper-summary-5cbj",
+  "url": "https://dev.to/awsmenacommunity/security-pillar-aws-well-architected-framework-aws-white-paper-summary-5cbj",
+  "publish_date": "2022-01-13",
+  "published_at": "2022-01-13T09:37:07Z"
+ },
+ {
+  "id": 953711,
+  "title": "CleanDocs A Documentation Template",
+  "description": "CleanDocs is a free and open-source documentation template built using html, tailwindcss, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EreNO7Gc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4d3dh2h3t5jzo715ym8p.PNG",
+  "slug": "cleandocs-a-documentation-template-59h9",
+  "url": "https://dev.to/lmas3009/cleandocs-a-documentation-template-59h9",
+  "publish_date": "2022-01-13",
+  "published_at": "2022-01-13T09:13:39Z"
+ },
+ {
   "id": 953042,
   "title": "Figma for Developers ",
   "description": "Learn your way around the popular design software Figma, and level up your dev game. ",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alejomartinez8/how-to-detect-images-loaded-in-react-39fa",
   "publish_date": "2021-10-05",
   "published_at": "2021-10-05T03:15:20Z"
- },
- {
-  "id": 850648,
-  "title": "Land a React Job: The lazy way",
-  "description": "Hang on, lads. I've got a great idea.   So you've run out of Netflix TV shows to watch,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gmgDL6hy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbfof0a10x3zrn0ymkdo.jpg",
-  "slug": "land-a-react-job-the-lazy-way-2d1o",
-  "url": "https://dev.to/bornfightcompany/land-a-react-job-the-lazy-way-2d1o",
-  "publish_date": "2021-10-04",
-  "published_at": "2021-10-04T10:38:18Z"
- },
- {
-  "id": 850642,
-  "title": "React Project Architecture",
-  "description": "I’ve been developing applications with React for a long time and I’m loving it more and more. React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dVVnVvg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/668nydw4g8nt0axeswti.jpeg",
-  "slug": "react-project-architecture-25m",
-  "url": "https://dev.to/ezranbayantemur/react-project-architecture-25m",
-  "publish_date": "2021-10-04",
-  "published_at": "2021-10-04T07:48:24Z"
- },
- {
-  "id": 850156,
-  "title": "The Swallow programming language - A Python-like language that's as fast as C.",
-  "description": "Hey guys!  I'm Ethan, I'm one of 8 swallow developers. This post is gonna be about some updates we've...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TPwn0D8z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/muh3va2p4tzujr3govyu.png",
-  "slug": "the-swallow-programming-language-a-python-like-language-that-s-as-fast-as-c-43j7",
-  "url": "https://dev.to/ethanolchik/the-swallow-programming-language-a-python-like-language-that-s-as-fast-as-c-43j7",
-  "publish_date": "2021-10-04",
-  "published_at": "2021-10-04T05:45:39Z"
- },
- {
-  "id": 850454,
-  "title": "3 JS code snippets sites to use daily!",
-  "description": "Save for later.            1loc.dev    JS utilities in single line of code.             ...",
-  "cover_image": "",
-  "slug": "3-js-code-snippets-sites-to-use-daily-5642",
-  "url": "https://dev.to/deyrupak/3-js-code-snippets-sites-to-use-daily-5642",
-  "publish_date": "2021-10-04",
-  "published_at": "2021-10-04T05:25:50Z"
- },
- {
-  "id": 850286,
-  "title": "Basic Responsive Websites",
-  "description": "In this blog, I will share some general concepts of how to implement a responsive design to your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pjp8-42n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zxcuhottgkzlyhb3c2jq.png",
-  "slug": "basic-responsive-websites-473d",
-  "url": "https://dev.to/thedanielleellis/basic-responsive-websites-473d",
-  "publish_date": "2021-10-04",
-  "published_at": "2021-10-04T01:06:46Z"
  }
 ]
