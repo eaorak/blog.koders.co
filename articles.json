@@ -1,5 +1,55 @@
 [
  {
+  "id": 955408,
+  "title": "What was your win this week?",
+  "description": "Got to all your meetings on time? Started a new project? Fixed a tricky bug?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pyDLAPme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cl.ly/188e843c2985/download/Image%25202019-02-15%2520at%25202.36.37%2520PM.png",
+  "slug": "what-was-your-win-this-week-2b5k",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-2b5k",
+  "publish_date": "2022-01-14",
+  "published_at": "2022-01-14T18:30:07Z"
+ },
+ {
+  "id": 953773,
+  "title": "🚀10 Trending projects on GitHub for web developers - 14th January 2022",
+  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
+  "cover_image": "",
+  "slug": "10-trending-projects-on-github-for-web-developers-14th-january-2022-3k2a",
+  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-14th-january-2022-3k2a",
+  "publish_date": "2022-01-14",
+  "published_at": "2022-01-14T14:45:14Z"
+ },
+ {
+  "id": 954772,
+  "title": "Monitoring Django application performance with OpenTelemetry | SigNoz",
+  "description": "Django is a popular open-source python web framework that enables rapid development while taking out...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h3ZFQxFc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7p1kq1i1a86cigaotli.png",
+  "slug": "monitoring-django-application-performance-with-opentelemetry-signoz-4k8m",
+  "url": "https://dev.to/signoz/monitoring-django-application-performance-with-opentelemetry-signoz-4k8m",
+  "publish_date": "2022-01-14",
+  "published_at": "2022-01-14T14:27:59Z"
+ },
+ {
+  "id": 955085,
+  "title": "Moving to Germany",
+  "description": "If you follow me, you know I have worked as a consultant for the last year. I have decided to take...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eFB5GYf4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4gon6qg1drylxlfcugi7.jpg",
+  "slug": "moving-to-germany-4no9",
+  "url": "https://dev.to/santoshyadav198613/moving-to-germany-4no9",
+  "publish_date": "2022-01-14",
+  "published_at": "2022-01-14T13:00:26Z"
+ },
+ {
+  "id": 955037,
+  "title": "How to structure your Express and Node.Js project",
+  "description": "Why is project architecture so crucial?   Having a proper foundation for our project...",
+  "cover_image": "",
+  "slug": "how-to-structure-your-express-and-nodejs-project-3bl",
+  "url": "https://dev.to/nermineslimane/how-to-structure-your-express-and-nodejs-project-3bl",
+  "publish_date": "2022-01-14",
+  "published_at": "2022-01-14T11:19:21Z"
+ },
+ {
   "id": 954344,
   "title": "Make your first contribution to a GitHub Action! ",
   "description": "Why edit a GitHub Action?   There are many reasons to edit a GitHub Action. Perhaps, you...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/neer17/opinionated-guide-on-tweaking-vs-code-for-productivity-1o53",
   "publish_date": "2021-10-06",
   "published_at": "2021-10-06T04:03:32Z"
- },
- {
-  "id": 852311,
-  "title": "E-commerce website - adding/deleting product from database. Part 3",
-  "description": "Hello, hope you'll are good. In previous part, we have made login/log out feature and a seller...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6oUMA1bh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p7btxw8b9asnvyq67v3n.png",
-  "slug": "e-commerce-website-adding-deleting-product-from-database-part-3-18np",
-  "url": "https://dev.to/kunaal438/e-commerce-website-adding-deleting-product-from-database-part-3-18np",
-  "publish_date": "2021-10-05",
-  "published_at": "2021-10-05T13:11:54Z"
- },
- {
-  "id": 852160,
-  "title": "Building Tailwind CSS card components",
-  "description": "Tailwind CSS is a framework that I've been using a lot lately to quickly build websites without...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WdRPoBID--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/39xs5fmpjqfinnt0s4bq.png",
-  "slug": "building-tailwind-css-card-components-12c5",
-  "url": "https://dev.to/themesberg/building-tailwind-css-card-components-12c5",
-  "publish_date": "2021-10-05",
-  "published_at": "2021-10-05T10:31:16Z"
- },
- {
-  "id": 851996,
-  "title": "What is a REST API?",
-  "description": "If you’ve had a look at the Contentful docs, you’ll have seen the acronyms REST and API in at least a...",
-  "cover_image": "",
-  "slug": "what-is-a-rest-api-51h",
-  "url": "https://dev.to/whitep4nth3r/what-is-a-rest-api-51h",
-  "publish_date": "2021-10-05",
-  "published_at": "2021-10-05T09:05:20Z"
- },
- {
-  "id": 851912,
-  "title": "10 Google Chrome Extensions you should use as a developer",
-  "description": "If you’re a developer, you will likely already have a collection of favorite Chrome extensions you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zHdNyUGx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6vtdxitnbzldhix3wcch.jpg",
-  "slug": "10-google-chrome-extensions-you-should-use-as-a-developer-4bo",
-  "url": "https://dev.to/muthuannamalai12/10-google-chrome-extensions-you-should-use-as-a-developer-4bo",
-  "publish_date": "2021-10-05",
-  "published_at": "2021-10-05T06:39:24Z"
- },
- {
-  "id": 851657,
-  "title": "How to detect images loaded in React",
-  "description": "I had to do a manual deep linking hook, scrolling automatically down in a web application to a...",
-  "cover_image": "",
-  "slug": "how-to-detect-images-loaded-in-react-39fa",
-  "url": "https://dev.to/alejomartinez8/how-to-detect-images-loaded-in-react-39fa",
-  "publish_date": "2021-10-05",
-  "published_at": "2021-10-05T03:15:20Z"
  }
 ]
