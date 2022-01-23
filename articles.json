@@ -1,5 +1,55 @@
 [
  {
+  "id": 933293,
+  "title": "Change Management in the Cloud | AWS White Paper Summary",
+  "description": "Like every business function, change management should act as an enabler for your organization to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EmvL-0IC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pcliculquzm5kf214pf4.png",
+  "slug": "change-management-in-the-cloud-aws-white-paper-summary-2o47",
+  "url": "https://dev.to/awsmenacommunity/change-management-in-the-cloud-aws-white-paper-summary-2o47",
+  "publish_date": "2022-01-22",
+  "published_at": "2022-01-22T17:25:33Z"
+ },
+ {
+  "id": 963978,
+  "title": "Utilizando a bolha dev ao seu favor na busca do seu primeiro emprego!",
+  "description": "Ultimamente, cada vez é mais comum pessoas iniciantes em desenvolvimento entrarem nas minhas lives,...",
+  "cover_image": "",
+  "slug": "utilizando-a-bolha-dev-ao-seu-favor-na-busca-do-seu-primeiro-emprego-15cf",
+  "url": "https://dev.to/pokemaobr/utilizando-a-bolha-dev-ao-seu-favor-na-busca-do-seu-primeiro-emprego-15cf",
+  "publish_date": "2022-01-22",
+  "published_at": "2022-01-22T15:51:31Z"
+ },
+ {
+  "id": 963933,
+  "title": "How to build a REST API using NodeJS",
+  "description": "👋 Hey everyone, I know it's been a long since I posted a new blog 😅. 👀 So in this blog post we are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_ghoGiL4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gyrh0lfaycz8s8goqrf5.png",
+  "slug": "how-to-build-a-rest-api-using-nodejs-19ai",
+  "url": "https://dev.to/kira272921/how-to-build-a-rest-api-using-nodejs-19ai",
+  "publish_date": "2022-01-22",
+  "published_at": "2022-01-22T14:08:57Z"
+ },
+ {
+  "id": 963926,
+  "title": "7 Killer JavaScript One-Liners that you must know",
+  "description": "1. Generate Random String    if you will ever need a temporary unique id for something. this   ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BIci4Gp4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/60yg9m161ypnyby1xxn3.png",
+  "slug": "7-killer-javascript-one-liners-that-you-must-know-2lla",
+  "url": "https://dev.to/ikamran/7-killer-javascript-one-liners-that-you-must-know-2lla",
+  "publish_date": "2022-01-22",
+  "published_at": "2022-01-22T13:50:54Z"
+ },
+ {
+  "id": 963615,
+  "title": "Git Commands Every Dev MUST know",
+  "description": "Hello and Good Morning ☕ I know I had not been writing lately, but now I am back on my writing spree...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DCzHRGe5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwtyr0lvsijw4fgkyqzs.png",
+  "slug": "git-commands-every-dev-must-know-53c3",
+  "url": "https://dev.to/mursalfk/git-commands-every-dev-must-know-53c3",
+  "publish_date": "2022-01-22",
+  "published_at": "2022-01-22T06:04:57Z"
+ },
+ {
   "id": 962709,
   "title": "5 old Programming Languages you should know about",
   "description": "This post was originally posted on LinkedIn.     For some people, old programming languages are ugly,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-3-gda",
   "publish_date": "2021-10-14",
   "published_at": "2021-10-14T02:18:13Z"
- },
- {
-  "id": 862208,
-  "title": "Web Scraping in Node.js!",
-  "description": "Web scraping:   Web Scraping is a way to collect all sorts of publicly available data like...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RKSFsrvC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2enza08y401ssv5it84.jpg",
-  "slug": "web-scraping-in-nodejs-2lkf",
-  "url": "https://dev.to/code_jedi/web-scraping-in-nodejs-2lkf",
-  "publish_date": "2021-10-13",
-  "published_at": "2021-10-13T16:49:39Z"
- },
- {
-  "id": 862258,
-  "title": "How does the INTERNET work? 🙀",
-  "description": "Hey Coders! In this article, I'm gonna break down how the internet actually works. It's incredible...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9d6X_CA3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4kj2jkgj2oknr7n3w277.jpg",
-  "slug": "how-does-the-internet-work-32d6",
-  "url": "https://dev.to/codewithtee/how-does-the-internet-work-32d6",
-  "publish_date": "2021-10-13",
-  "published_at": "2021-10-13T13:47:53Z"
- },
- {
-  "id": 861874,
-  "title": "Turning a React app into an installable PWA with offline detection, service workers and theming.",
-  "description": "Recently I decided to take the dive into making my web app progressive. Some of the benefits are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---1usaSqq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k3eow50aza72u5k89b7w.png",
-  "slug": "turning-a-react-app-into-a-pwa-with-offline-detection-service-workers-and-theming-142i",
-  "url": "https://dev.to/alexgurr/turning-a-react-app-into-a-pwa-with-offline-detection-service-workers-and-theming-142i",
-  "publish_date": "2021-10-13",
-  "published_at": "2021-10-13T10:02:52Z"
- },
- {
-  "id": 861863,
-  "title": "Top 10 articles about CSS of the week😁.",
-  "description": "Most popular articles about CSS published on the dev.to in this week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v5AeICtd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://source.unsplash.com/featured/colored",
-  "slug": "top-10-articles-about-css-of-the-week-1j97",
-  "url": "https://dev.to/ksengine/top-10-articles-about-css-of-the-week-1j97",
-  "publish_date": "2021-10-13",
-  "published_at": "2021-10-13T07:21:21Z"
- },
- {
-  "id": 861858,
-  "title": "👨‍💻 Create a Responsive Landing Page using HTML CSS \u0026 JS 🔥",
-  "description": "👋 Hello, Dear developers 👩‍💻👨‍💻, Today we'll see, how we can easily create another Responsive...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aeVuxaNf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nvewzhphhgcx1nnqwfec.jpg",
-  "slug": "create-a-responsive-landing-page-using-html-css-js-b7m",
-  "url": "https://dev.to/ananiket/create-a-responsive-landing-page-using-html-css-js-b7m",
-  "publish_date": "2021-10-13",
-  "published_at": "2021-10-13T07:11:50Z"
  }
 ]
