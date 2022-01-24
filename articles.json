@@ -1,5 +1,55 @@
 [
  {
+  "id": 964845,
+  "title": "Want to learn about git and GitHub in a more fun way?",
+  "description": "We always watch tons of videos and tutorials and skim through lots of documentation to learn some...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K_AhuVdx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sty3izfdbicv27g90ilt.jpg",
+  "slug": "want-to-learn-about-git-and-github-in-a-more-fun-way-4o5f",
+  "url": "https://dev.to/pradumnasaraf/want-to-learn-about-git-and-github-in-a-more-fun-way-4o5f",
+  "publish_date": "2022-01-23",
+  "published_at": "2022-01-23T14:49:20Z"
+ },
+ {
+  "id": 964583,
+  "title": "CSS Pseudo-classes: Forms",
+  "description": "Yesterday we started looking at pseudo-classes that relate to links. In this article, we'll take a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--13OiBYtY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g75604f61uzcnfyfvcx1.jpg",
+  "slug": "css-pseudo-classes-forms-5fjb",
+  "url": "https://dev.to/dailydevtips1/css-pseudo-classes-forms-5fjb",
+  "publish_date": "2022-01-23",
+  "published_at": "2022-01-23T09:14:50Z"
+ },
+ {
+  "id": 964155,
+  "title": "Adding Google Authentication Feature.",
+  "description": "Hey everyone! In this article, we will be adding a new feature Google AUTH to our login Form. Let's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vrizB0Cs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jznjwhpfchnp5o0awok1.jpg",
+  "slug": "adding-google-authentication-feature-25a4",
+  "url": "https://dev.to/kirtisingh3008/adding-google-authentication-feature-25a4",
+  "publish_date": "2022-01-23",
+  "published_at": "2022-01-23T08:13:11Z"
+ },
+ {
+  "id": 907606,
+  "title": "Introduction to Modern Data Architecture (formerly Lake House)",
+  "description": "Organizations have been building data lakes to analyze massive amounts of data for deeper insights...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g0L2Af0r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hs2md41y4xaxcqbiuv7u.jpg",
+  "slug": "introduction-to-modern-data-architecture-formerly-lake-house-29g6",
+  "url": "https://dev.to/aws-builders/introduction-to-modern-data-architecture-formerly-lake-house-29g6",
+  "publish_date": "2022-01-23",
+  "published_at": "2022-01-23T07:39:43Z"
+ },
+ {
+  "id": 964359,
+  "title": "The Complete React Roadmap",
+  "description": "Learning React can be confusing at first, sometimes even downright scary! This article aims to put...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m-fSQfcU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ipzm2s4g0gtspnzs5f15.png",
+  "slug": "the-complete-react-roadmap-1ho4",
+  "url": "https://dev.to/ruppysuppy/the-complete-react-roadmap-1ho4",
+  "publish_date": "2022-01-23",
+  "published_at": "2022-01-23T06:12:38Z"
+ },
+ {
   "id": 933293,
   "title": "Change Management in the Cloud | AWS White Paper Summary",
   "description": "Like every business function, change management should act as an enabler for your organization to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tienbku/javascript-fetch-getpostputdelete-example-3dmp",
   "publish_date": "2021-10-15",
   "published_at": "2021-10-15T01:36:29Z"
- },
- {
-  "id": 863631,
-  "title": "Stop Writing JavaScript Like This\n",
-  "description": "Most of us are used to writing JavaScript code for a long time. But we might not have updated...",
-  "cover_image": "",
-  "slug": "stop-writing-javascript-like-this-8po",
-  "url": "https://dev.to/rubengabrielian/stop-writing-javascript-like-this-8po",
-  "publish_date": "2021-10-14",
-  "published_at": "2021-10-14T14:53:16Z"
- },
- {
-  "id": 863235,
-  "title": "JavaScript Framework TodoMVC Size Comparison",
-  "description": "Size in JavaScript Frameworks is actually a pretty tricky thing to estimate.   Even nailing down the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7kWtB_yL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8manos3f1nlzftsr54e.png",
-  "slug": "javascript-framework-todomvc-size-comparison-504f",
-  "url": "https://dev.to/this-is-learning/javascript-framework-todomvc-size-comparison-504f",
-  "publish_date": "2021-10-14",
-  "published_at": "2021-10-14T14:13:08Z"
- },
- {
-  "id": 863497,
-  "title": "You should stop using `parseInt()`",
-  "description": "This is something I see all the times, you have some code where at some point you have a variable...",
-  "cover_image": "",
-  "slug": "you-should-stop-using-parseint-nbf",
-  "url": "https://dev.to/darkmavis1980/you-should-stop-using-parseint-nbf",
-  "publish_date": "2021-10-14",
-  "published_at": "2021-10-14T12:39:05Z"
- },
- {
-  "id": 863496,
-  "title": "Stop using if else ",
-  "description": "Recently, I had a take home assignment for a front end role, and I had to make a sort of Dashboard. I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f47f8I3h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8p0qaiclbhp40gz8dfmq.png",
-  "slug": "stop-using-if-else-264o",
-  "url": "https://dev.to/rjitsu/stop-using-if-else-264o",
-  "publish_date": "2021-10-14",
-  "published_at": "2021-10-14T12:34:45Z"
- },
- {
-  "id": 863003,
-  "title": "I Design, You Build! - Frontend Challenge #3",
-  "description": "Appreciation   What an overwhelming response from the first two challenges! I know I said it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---_P25786--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/reokygthmvii3pkqjzvd.png",
-  "slug": "i-design-you-build-frontend-challenge-3-gda",
-  "url": "https://dev.to/zernonia/i-design-you-build-frontend-challenge-3-gda",
-  "publish_date": "2021-10-14",
-  "published_at": "2021-10-14T02:18:13Z"
  }
 ]
