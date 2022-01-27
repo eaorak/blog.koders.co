@@ -1,5 +1,55 @@
 [
  {
+  "id": 968742,
+  "title": "A launch.json to turn VS code into a full web development IDE",
+  "description": "When I start a new project these days I create the following launch.json file and put in in a .vscode...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hAVq_MTP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs5t6wn1sziajkoxttu5.png",
+  "slug": "a-launchjson-to-turn-vs-code-into-a-full-web-development-ide-36ge",
+  "url": "https://dev.to/codepo8/a-launchjson-to-turn-vs-code-into-a-full-web-development-ide-36ge",
+  "publish_date": "2022-01-26",
+  "published_at": "2022-01-26T18:10:09Z"
+ },
+ {
+  "id": 968244,
+  "title": "10 VSCode Extensions To Look Out For In 2022🎬",
+  "description": "Let's take a look at the 10 promising VSCode extensions that are updated frequently and are getting...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SvcpfUBn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/usyzhhxs9mzq5xpbkc29.png",
+  "slug": "10-vscode-extensions-to-look-out-for-in-2022-4k42",
+  "url": "https://dev.to/alexomeyer/10-vscode-extensions-to-look-out-for-in-2022-4k42",
+  "publish_date": "2022-01-26",
+  "published_at": "2022-01-26T12:21:46Z"
+ },
+ {
+  "id": 968389,
+  "title": "Optimizing your Visual Studio Code in 2022\t",
+  "description": "In this article we’ll be covering useful extensions, plugins and settings needed in order to ease and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Td_9EXWf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yr6exr2envrhs71dzmii.png",
+  "slug": "optimizing-your-visual-studio-code-in-2022-12i1",
+  "url": "https://dev.to/wavist/optimizing-your-visual-studio-code-in-2022-12i1",
+  "publish_date": "2022-01-26",
+  "published_at": "2022-01-26T12:18:50Z"
+ },
+ {
+  "id": 957311,
+  "title": "Google alternatives?",
+  "description": "Some years ago, I tried to use Android without using Google. While my wife was using a Fairphone One...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uENxGzh5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x0f5rf2sesfbvrdvtq1t.png",
+  "slug": "google-alternatives-5e7k",
+  "url": "https://dev.to/ingosteinke/google-alternatives-5e7k",
+  "publish_date": "2022-01-26",
+  "published_at": "2022-01-26T09:26:24Z"
+ },
+ {
+  "id": 965205,
+  "title": "The Return of Server Side Routing",
+  "description": "Return? It never went away. Or at least that is what some smug \"told you so\" is going to say. But for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NLsWCYmy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdtlafe81eo4jchqx37w.png",
+  "slug": "the-return-of-server-side-routing-b05",
+  "url": "https://dev.to/this-is-learning/the-return-of-server-side-routing-b05",
+  "publish_date": "2022-01-26",
+  "published_at": "2022-01-26T00:33:23Z"
+ },
+ {
   "id": 967207,
   "title": "17 Killer Web Apps You Should Use to Increase Productivity 🚀💯",
   "description": "Today speed is one of the main criteria to beat the competition. I handpicked some useful...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/0shuvo0/simplest-way-to-compare-two-array-in-js-4gio",
   "publish_date": "2021-10-18",
   "published_at": "2021-10-18T04:12:10Z"
- },
- {
-  "id": 866231,
-  "title": "How to Build a Music Streaming App with React using Auth0 and Cloudinary",
-  "description": "Since its debut, music streaming has developed dramatically, and it is currently one of the most...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9DeTe1OG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p9cgrkse38tvgocvl4yg.png",
-  "slug": "how-to-build-a-music-streaming-app-with-react-using-auth0-and-cloudinary-6k9",
-  "url": "https://dev.to/hackmamba/how-to-build-a-music-streaming-app-with-react-using-auth0-and-cloudinary-6k9",
-  "publish_date": "2021-10-17",
-  "published_at": "2021-10-17T14:30:54Z"
- },
- {
-  "id": 865628,
-  "title": "How to Implement a Dark Mode with CSS and 3 Simple Lines of Javascript",
-  "description": "There's no denying that a must-have feature of most modern websites and web apps is the ability to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--opfQO097--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m600dggfkhi1s7q3nvmz.gif",
-  "slug": "how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript-576",
-  "url": "https://dev.to/daveyhert/how-to-implement-a-dark-mode-with-css-and-3-simple-lines-of-javascript-576",
-  "publish_date": "2021-10-17",
-  "published_at": "2021-10-17T14:15:51Z"
- },
- {
-  "id": 866534,
-  "title": "How To Think Like a Programmer?",
-  "description": "Hello, buddies! Lemme ask you a common question,    Do programmers think differently?   It's true;...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9gyIybbl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g2x95rdfmu51bbvzvsr8.png",
-  "slug": "how-to-think-like-a-programmer-4pd9",
-  "url": "https://dev.to/unitybuddy/how-to-think-like-a-programmer-4pd9",
-  "publish_date": "2021-10-17",
-  "published_at": "2021-10-17T10:13:54Z"
- },
- {
-  "id": 866396,
-  "title": "Improve your productivity as a developer",
-  "description": "We are in the era of information explosion. People are tend to have poor concentration and cause low...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s----0TYAm9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6r7hmictf8crr4ay1k4o.jpg",
-  "slug": "improve-your-productivity-as-a-developer-22kc",
-  "url": "https://dev.to/ohdylan/improve-your-productivity-as-a-developer-22kc",
-  "publish_date": "2021-10-17",
-  "published_at": "2021-10-17T04:38:27Z"
- },
- {
-  "id": 866327,
-  "title": "Advanced Front End Developer , Interview Essentials - Part 2",
-  "description": "This post is a continuation of Advanced Front End Developer , Interview Essentials - Part 1 ,if you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8gJp0jDK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itu85z4g8d00un0l24oh.jpg",
-  "slug": "advanced-front-end-developer-interview-essentials-part-2-41gm",
-  "url": "https://dev.to/gouthamjm/advanced-front-end-developer-interview-essentials-part-2-41gm",
-  "publish_date": "2021-10-17",
-  "published_at": "2021-10-17T03:31:00Z"
  }
 ]
