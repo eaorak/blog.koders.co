@@ -1,5 +1,55 @@
 [
  {
+  "id": 969389,
+  "title": "Building Native Desktop Apps with Electron.JS",
+  "description": "Gone are the days where Javascript is locked behind the shackles of a browser. Electron, or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0hkGjFPn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jswkuy4lvyj42t9b41b6.png",
+  "slug": "building-native-desktop-apps-with-electronjs-4m8n",
+  "url": "https://dev.to/codesphere/building-native-desktop-apps-with-electronjs-4m8n",
+  "publish_date": "2022-01-27",
+  "published_at": "2022-01-27T16:03:56Z"
+ },
+ {
+  "id": 969498,
+  "title": "21 GitHub Repositories to Become a JavaScript Master 📚🚀",
+  "description": "Learning and mastering JavaScript can be hard if you are not aware of the resources that are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DA1hySX_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nspqrcdxc5mkdowifuqq.png",
+  "slug": "21-github-repositories-to-become-a-javascript-master-5bpa",
+  "url": "https://dev.to/madza/21-github-repositories-to-become-a-javascript-master-5bpa",
+  "publish_date": "2022-01-27",
+  "published_at": "2022-01-27T12:34:30Z"
+ },
+ {
+  "id": 969466,
+  "title": "🎶 Background Music to Get Into the Zone",
+  "description": "Maybe the most essential skill for a developer is having a crystal clear focus. Some call it \"the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nlm7wqGA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4ozhubds5f5yqkn1uzr.jpg",
+  "slug": "background-music-to-get-in-the-zone-1i0a",
+  "url": "https://dev.to/bascodes/background-music-to-get-in-the-zone-1i0a",
+  "publish_date": "2022-01-27",
+  "published_at": "2022-01-27T12:07:02Z"
+ },
+ {
+  "id": 969409,
+  "title": "⭐️ The Open Source Alternative To Notion ⭐️",
+  "description": "Getting Started with development   Please view the documentation for OS specific...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K3Yb-71x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xmn9u5xl38fof90xg84r.png",
+  "slug": "the-open-source-alternative-to-notion-1j3m",
+  "url": "https://dev.to/mutafakir/the-open-source-alternative-to-notion-1j3m",
+  "publish_date": "2022-01-27",
+  "published_at": "2022-01-27T10:19:59Z"
+ },
+ {
+  "id": 898359,
+  "title": "Introduction to AWS Lake Formation",
+  "description": "Introduction    AWS Lake Formation is an integrated data lake service that makes it easy for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1FIfzFCB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkp1cfeg4pgtyifr9mbm.png",
+  "slug": "introduction-to-aws-lake-formation-1j8c",
+  "url": "https://dev.to/aws-builders/introduction-to-aws-lake-formation-1j8c",
+  "publish_date": "2022-01-27",
+  "published_at": "2022-01-27T09:27:23Z"
+ },
+ {
   "id": 968742,
   "title": "A launch.json to turn VS code into a full web development IDE",
   "description": "When I start a new project these days I create the following launch.json file and put in in a .vscode...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sidkh/a-visual-guide-to-react-rendering-cheat-sheet-2482",
   "publish_date": "2021-10-19",
   "published_at": "2021-10-19T09:05:11Z"
- },
- {
-  "id": 867661,
-  "title": "How to create a fancy Github profile with README?",
-  "description": "In this article, we will show you how to use GitHub in a way that you never thought could be used....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_fmq-Z83--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x80w8l8kzvi2rg9tkr7v.jpg",
-  "slug": "how-to-create-a-fancy-github-profile-with-readme-4b1i",
-  "url": "https://dev.to/creativetim_official/how-to-create-a-fancy-github-profile-with-readme-4b1i",
-  "publish_date": "2021-10-18",
-  "published_at": "2021-10-18T13:25:39Z"
- },
- {
-  "id": 867600,
-  "title": "Top 10 dev.to articles of the week💪.",
-  "description": "Most popular articles published on the dev.to",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dEAN7hRz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://source.unsplash.com/featured/%3Fcoding",
-  "slug": "top-10-devto-articles-of-the-week-ggf",
-  "url": "https://dev.to/ksengine/top-10-devto-articles-of-the-week-ggf",
-  "publish_date": "2021-10-18",
-  "published_at": "2021-10-18T11:36:55Z"
- },
- {
-  "id": 867556,
-  "title": "Backend Developer Learning Path 2021",
-  "description": "Want to become a Backend Web Developer in 2021? Being a fresher and not knowing what career to choose...",
-  "cover_image": "",
-  "slug": "backend-developer-learning-path-2021-37c",
-  "url": "https://dev.to/codehacker/backend-developer-learning-path-2021-37c",
-  "publish_date": "2021-10-18",
-  "published_at": "2021-10-18T10:25:38Z"
- },
- {
-  "id": 867536,
-  "title": "How fast is your code?",
-  "description": "You ever wanted to know how long does a block of your code takes to execute? Well you have come to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wlF8noT9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bn5370gaetropzmws8k5.png",
-  "slug": "how-fast-is-your-code-31ji",
-  "url": "https://dev.to/0shuvo0/how-fast-is-your-code-31ji",
-  "publish_date": "2021-10-18",
-  "published_at": "2021-10-18T09:55:03Z"
- },
- {
-  "id": 867244,
-  "title": "Simplest way to compare two numbers array in JS",
-  "description": "In case of string we can simply use == or === to see if they are same but we can't use those to see...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gTrp7jIb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkcogx4gm99w18obwnzr.png",
-  "slug": "simplest-way-to-compare-two-array-in-js-4gio",
-  "url": "https://dev.to/0shuvo0/simplest-way-to-compare-two-array-in-js-4gio",
-  "publish_date": "2021-10-18",
-  "published_at": "2021-10-18T04:12:10Z"
  }
 ]
