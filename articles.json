@@ -1,5 +1,55 @@
 [
  {
+  "id": 972742,
+  "title": "Flask Social Authentication - Github \u0026 Twitter (With Sample)",
+  "description": "An open-source project that implements social login for Github and Twitter using Flask and Flask-Dance.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FVSk6tEH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oytj2th4auay8qejqhw7.jpg",
+  "slug": "flask-social-authentication-github-twitter-with-sample-gnc",
+  "url": "https://dev.to/sm0ke/flask-social-authentication-github-twitter-with-sample-gnc",
+  "publish_date": "2022-01-30",
+  "published_at": "2022-01-30T14:06:04Z"
+ },
+ {
+  "id": 898360,
+  "title": "Introduction to Amazon Redshift",
+  "description": "Introduction    Amazon Redshift is a fast, fully-managed, petabyte-scale data warehouse...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H-tAvCZr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yo5pvkwiagx4a4nv6mi0.png",
+  "slug": "introduction-to-amazon-redshift-i33",
+  "url": "https://dev.to/aws-builders/introduction-to-amazon-redshift-i33",
+  "publish_date": "2022-01-30",
+  "published_at": "2022-01-30T13:53:30Z"
+ },
+ {
+  "id": 972589,
+  "title": "How to build a spinner (loader) component using Flowbite and Tailwind CSS",
+  "description": "One of my favourite front-end technologies to work with at this moment is Tailwind CSS coupled with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--guxBWi2m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3e2hpn8eonaw55m94jip.png",
+  "slug": "how-to-build-a-spinner-loader-component-using-flowbite-and-tailwind-css-do5",
+  "url": "https://dev.to/themesberg/how-to-build-a-spinner-loader-component-using-flowbite-and-tailwind-css-do5",
+  "publish_date": "2022-01-30",
+  "published_at": "2022-01-30T10:03:00Z"
+ },
+ {
+  "id": 972588,
+  "title": "Explained: Imperative vs Declarative programming",
+  "description": "You most probably have heard of declarative vs imperative programming.  You might also have looked it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---pnICNiV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.siddu.tech/_next/image%3Furl%3Dhttps%253A%252F%252Fcdn.hashnode.com%252Fres%252Fhashnode%252Fimage%252Fupload%252Fv1643536768836%252FRK2kEFdZT.png%253Fw%253D1600%2526h%253D840%2526fit%253Dcrop%2526crop%253Dentropy%2526auto%253Dcompress%252Cformat%2526format%253Dwebp%26w%3D1920%26q%3D75",
+  "slug": "explained-imperative-vs-declarative-programming-577g",
+  "url": "https://dev.to/siddharthshyniben/explained-imperative-vs-declarative-programming-577g",
+  "publish_date": "2022-01-30",
+  "published_at": "2022-01-30T10:00:56Z"
+ },
+ {
+  "id": 972550,
+  "title": "ReactJS - Disable console.log() in production and staging ",
+  "description": "Husky hooks are a really good way to prevent someone from pushing accidental console logs to a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yY1gSLT3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpx4vniswiusil3oesak.png",
+  "slug": "reactjs-disable-consolelog-in-production-and-staging-3l38",
+  "url": "https://dev.to/rajeshroyal/reactjs-disable-consolelog-in-production-and-staging-3l38",
+  "publish_date": "2022-01-30",
+  "published_at": "2022-01-30T08:01:10Z"
+ },
+ {
   "id": 971871,
   "title": "How Cryptocurrency Works Explained Visually",
   "description": "In 2008, when Lehman Brothers Holdings Inc. filed for bankruptcy, it shook people's faith in banks so...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/abhirajb/7-css-tips-you-need-to-know-right-now-2jji",
   "publish_date": "2021-10-22",
   "published_at": "2021-10-22T04:12:20Z"
- },
- {
-  "id": 871488,
-  "title": "Lets create a screen recorder with JS",
-  "description": "OBS studio is cool but lets create our very own screen recorder using JavaScript. And guess what? Its...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FeHDT50F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/duxwuftie1d2dnvlv7fi.png",
-  "slug": "lets-create-a-screen-recorder-with-js-3leb",
-  "url": "https://dev.to/0shuvo0/lets-create-a-screen-recorder-with-js-3leb",
-  "publish_date": "2021-10-21",
-  "published_at": "2021-10-21T15:00:48Z"
- },
- {
-  "id": 871184,
-  "title": "Top 10 articles of the week for beginners🔫.",
-  "description": "Most popular articles for beginners published on the dev.to in this week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dEAN7hRz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://source.unsplash.com/featured/%3Fcoding",
-  "slug": "top-10-articles-of-the-week-for-beginners-510",
-  "url": "https://dev.to/ksengine/top-10-articles-of-the-week-for-beginners-510",
-  "publish_date": "2021-10-21",
-  "published_at": "2021-10-21T11:38:07Z"
- },
- {
-  "id": 871107,
-  "title": "10 best practices to make switching cloud providers less painful",
-  "description": "Switching from one cloud provider to another is like opening Pandora’s box of infrastructure...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L0JngdnW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/an4v5dtmqapdn5apuqv8.jpeg",
-  "slug": "10-best-practices-to-make-switching-cloud-providers-less-painful-43m6",
-  "url": "https://dev.to/castai/10-best-practices-to-make-switching-cloud-providers-less-painful-43m6",
-  "publish_date": "2021-10-21",
-  "published_at": "2021-10-21T09:42:31Z"
- },
- {
-  "id": 870421,
-  "title": "Async/Await with easy to understand examples.",
-  "description": "Let's first understand the Async keyword.   Put this keyword before the function which returns a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5718xAz_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mnwpykxxm3uvq5w65a8z.png",
-  "slug": "asyncawait-with-easy-to-understand-examples-2221",
-  "url": "https://dev.to/nehal_mahida/asyncawait-with-easy-to-understand-examples-2221",
-  "publish_date": "2021-10-21",
-  "published_at": "2021-10-21T04:11:46Z"
- },
- {
-  "id": 870786,
-  "title": "Python + JavaScript = 🔥🔥🔥",
-  "description": "When in comes to Web Development nothing beats JavaScript. But sometimes we have to do a bit more...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FlkdEgF9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fc439sauu5yr1fwqs0gr.png",
-  "slug": "python-javascript--1nd6",
-  "url": "https://dev.to/0shuvo0/python-javascript--1nd6",
-  "publish_date": "2021-10-21",
-  "published_at": "2021-10-21T03:40:30Z"
  }
 ]
