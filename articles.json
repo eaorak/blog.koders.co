@@ -1,5 +1,55 @@
 [
  {
+  "id": 974838,
+  "title": "24 Lesser-Known HTML Attributes You May Want to Use ✨📚",
+  "description": "A while ago I created an article where I covered useful HTML tags and their types. This week I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---IMbjlvt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbxm3f4jgk1bdh9gwj9k.png",
+  "slug": "24-lesser-known-html-attributes-you-may-want-to-use-1059",
+  "url": "https://dev.to/madza/24-lesser-known-html-attributes-you-may-want-to-use-1059",
+  "publish_date": "2022-02-01",
+  "published_at": "2022-02-01T12:06:47Z"
+ },
+ {
+  "id": 965715,
+  "title": "JavaScript: Tips and Tricks",
+  "description": "The !! operator   To check either a value is truthy or falsey use !! operator you can call...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KYg6PUaa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a7v511ydzgqil9n417h.jpg",
+  "slug": "javascript-tips-and-tricks-2mhk",
+  "url": "https://dev.to/devsyedmohsin/javascript-tips-and-tricks-2mhk",
+  "publish_date": "2022-02-01",
+  "published_at": "2022-02-01T11:56:38Z"
+ },
+ {
+  "id": 973884,
+  "title": "Measuring Gatsby projects build time using paid plans of popular static website hosting platforms",
+  "description": "Jamstack is showing rapid growth these days. We get more and more tools and frameworks for it almost...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K9DagdEC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mkcnxpqpkzp3ep3ao5bn.jpeg",
+  "slug": "measuring-gatsby-projects-build-time-using-paid-plans-of-popular-static-website-hosting-platforms-47pp",
+  "url": "https://dev.to/alex_barashkov/measuring-gatsby-projects-build-time-using-paid-plans-of-popular-static-website-hosting-platforms-47pp",
+  "publish_date": "2022-02-01",
+  "published_at": "2022-02-01T11:22:03Z"
+ },
+ {
+  "id": 974748,
+  "title": "How to build a footer component with Tailwind CSS and Flowbite",
+  "description": "One of my favourite front-end development stacks when it comes to building websites is Tailwind CSS...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sgQcYDUa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kin9i9fs42oqt9msrj25.png",
+  "slug": "how-to-build-a-footer-component-with-tailwind-css-and-flowbite-853",
+  "url": "https://dev.to/themesberg/how-to-build-a-footer-component-with-tailwind-css-and-flowbite-853",
+  "publish_date": "2022-02-01",
+  "published_at": "2022-02-01T09:01:50Z"
+ },
+ {
+  "id": 974721,
+  "title": "Lugares talvez não triviais para você procurar empregos em desenvolvimento",
+  "description": "Fala galera linda do meu coração. Aqui é o pokemão novamente e estamos de volta aqui com mais um...",
+  "cover_image": "",
+  "slug": "lugares-talvez-nao-triviais-para-voce-procurar-empregos-em-desenvolvimento-1jl5",
+  "url": "https://dev.to/pokemaobr/lugares-talvez-nao-triviais-para-voce-procurar-empregos-em-desenvolvimento-1jl5",
+  "publish_date": "2022-02-01",
+  "published_at": "2022-02-01T08:08:59Z"
+ },
+ {
   "id": 968775,
   "title": "What is this Developer Experience thing?",
   "description": "And why you should consider it for your next role",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/j471n/10-css-resources-that-you-should-bookmark-46l6",
   "publish_date": "2021-10-24",
   "published_at": "2021-10-24T02:53:51Z"
- },
- {
-  "id": 873370,
-  "title": "7 GitHub projects to supercharge your Docker practices 🚀🧑‍💻",
-  "description": "Docker is an open-source container management platform used to build, run and package applications...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fPLwEqY4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qj1rzt2u19qwffwgi2gw.png",
-  "slug": "7-github-projects-to-supercharge-your-docker-practices-2i80",
-  "url": "https://dev.to/ankit01oss/7-github-projects-to-supercharge-your-docker-practices-2i80",
-  "publish_date": "2021-10-23",
-  "published_at": "2021-10-23T12:46:10Z"
- },
- {
-  "id": 873554,
-  "title": "Tools That Have Made React Documentation A Piece of Cake",
-  "description": "Full article is available on Aviyel  If you are a front end developer, chances are; you already had...",
-  "cover_image": "",
-  "slug": "tools-that-have-made-react-documentation-a-piece-of-cake-2kp3",
-  "url": "https://dev.to/sankalpswami1122/tools-that-have-made-react-documentation-a-piece-of-cake-2kp3",
-  "publish_date": "2021-10-23",
-  "published_at": "2021-10-23T11:48:31Z"
- },
- {
-  "id": 849154,
-  "title": "The Full-Stack Developer Vocabulary (Pt.1, the essentials)",
-  "description": "DOM? Serverless? CI/CD? JSON?            WTF is everyone talking about???   If you're new to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TdXB4S3z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ysfzy22s6b224sh9rnz.jpg",
-  "slug": "the-full-stack-developer-vocabulary-pt1-the-essentials-4ap4",
-  "url": "https://dev.to/code_jedi/the-full-stack-developer-vocabulary-pt1-the-essentials-4ap4",
-  "publish_date": "2021-10-23",
-  "published_at": "2021-10-23T11:11:45Z"
- },
- {
-  "id": 873291,
-  "title": "14 tips to Google like a pro",
-  "description": "Google is one of the most powerful tools, and believe it or not, Googling is one of the most...",
-  "cover_image": "",
-  "slug": "14-tips-to-google-like-a-pro-14jo",
-  "url": "https://dev.to/ruphaa/14-tips-to-google-like-a-pro-14jo",
-  "publish_date": "2021-10-23",
-  "published_at": "2021-10-23T09:00:10Z"
- },
- {
-  "id": 872226,
-  "title": "How not to update states in React!!",
-  "description": "How do you guys update your state if it depends on the previous value?  Simple!!    ...  const...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WSkJNOY7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6uewpkyoeidy44xzfan.png",
-  "slug": "how-not-to-update-states-in-react-33om",
-  "url": "https://dev.to/nehal_mahida/how-not-to-update-states-in-react-33om",
-  "publish_date": "2021-10-23",
-  "published_at": "2021-10-23T03:50:19Z"
  }
 ]
