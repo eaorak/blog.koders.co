@@ -1,5 +1,55 @@
 [
  {
+  "id": 978513,
+  "title": "10 Must-Know Patterns for Writing Clean Code with React and TypeScript✨🛀",
+  "description": "React is a JavaScript library, and it is the most popular and industry-leading frontend development...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dx9CTugp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3gfjnk74b92beqf41su0.png",
+  "slug": "10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g",
+  "url": "https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-react-and-typescript-1m0g",
+  "publish_date": "2022-02-04",
+  "published_at": "2022-02-04T11:48:51Z"
+ },
+ {
+  "id": 978484,
+  "title": "How I got my internship at Google - The interview process with tips and resources",
+  "description": "I am Divya Sri Darimisetti, a student currently pursuing my BTech in Electrical Engineering from the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6b_llpJj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0hzhfxf23wg1r7a7ya27.jpg",
+  "slug": "how-i-got-my-internship-at-google-the-interview-process-with-tips-and-resources-4d3n",
+  "url": "https://dev.to/irsayvid/how-i-got-my-internship-at-google-the-interview-process-with-tips-and-resources-4d3n",
+  "publish_date": "2022-02-04",
+  "published_at": "2022-02-04T10:50:04Z"
+ },
+ {
+  "id": 978487,
+  "title": "Concurrency in modern programming languages: Rust vs Go vs Java vs Node.js vs Deno",
+  "description": "Building a concurrent web server in Rust, Go, JS, TS, Kotlin, and Java to compare concurrency performance",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XJe5G39t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/NAMPHmu.png",
+  "slug": "concurrency-in-modern-programming-languages-rust-vs-go-vs-java-vs-nodejs-vs-deno-36gg",
+  "url": "https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-vs-go-vs-java-vs-nodejs-vs-deno-36gg",
+  "publish_date": "2022-02-04",
+  "published_at": "2022-02-04T10:11:52Z"
+ },
+ {
+  "id": 978437,
+  "title": "Cloud Technology News of the Month: January 2022",
+  "description": "2022 started with a bang, that’s for sure.   This series explores the most interesting cloud...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UonV4pNY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qvvpht3mmyqoa5vgew9n.png",
+  "slug": "cloud-technology-news-of-the-month-january-2022-3bm4",
+  "url": "https://dev.to/castai/cloud-technology-news-of-the-month-january-2022-3bm4",
+  "publish_date": "2022-02-04",
+  "published_at": "2022-02-04T08:05:39Z"
+ },
+ {
+  "id": 933303,
+  "title": "Enterprise Data Governance\nCatalog | AWS White Paper Summary",
+  "description": "This whitepaper outlines the benefits and strategies for implementing an enterprise-wide unified...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TVBjKfV5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/az27fhye0m26102v58ec.png",
+  "slug": "enterprise-data-governancecatalog-aws-white-paper-summary-3236",
+  "url": "https://dev.to/awsmenacommunity/enterprise-data-governancecatalog-aws-white-paper-summary-3236",
+  "publish_date": "2022-02-04",
+  "published_at": "2022-02-04T04:10:51Z"
+ },
+ {
   "id": 936767,
   "title": "Why Efficient Hydration in JavaScript Frameworks is so Challenging",
   "description": "Hydration is the name given to the process in JavaScript frameworks to initializing the page in the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jafb321/learn-git-in-an-afternoon-beginners-200m",
   "publish_date": "2021-10-27",
   "published_at": "2021-10-27T02:33:26Z"
- },
- {
-  "id": 877483,
-  "title": "Implementing a Practical Server-Side Solution for Cumulative Layout Shift",
-  "description": "☝️☝️☝️ That's what happens when visitors run into cumulative layout shift.   Cumulative...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n2WA0HX8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i5c1yqavzuw2xgw2ccpx.jpeg",
-  "slug": "implementing-a-practical-server-side-solution-for-cumulative-layout-shift-31o5",
-  "url": "https://dev.to/ben/implementing-a-practical-server-side-solution-for-cumulative-layout-shift-31o5",
-  "publish_date": "2021-10-26",
-  "published_at": "2021-10-26T22:35:55Z"
- },
- {
-  "id": 877465,
-  "title": "Jamstack Open Source Projects Looking for Contributors ",
-  "description": "Happy Hacktober! There are only a few days left of Hacktober, but it's not too late to contribute....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E4C5MeT0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9h90u9jinpifvui9n1o8.png",
-  "slug": "jamstack-open-source-projects-looking-for-contributors-2ooh",
-  "url": "https://dev.to/github/jamstack-open-source-projects-looking-for-contributors-2ooh",
-  "publish_date": "2021-10-26",
-  "published_at": "2021-10-26T21:44:46Z"
- },
- {
-  "id": 831543,
-  "title": "How I created my Complete Portfolio Website in less than 2 hours 🤯",
-  "description": "Few days before, I created an OpenSource Project called Dopefolio and wrote an Article about it here...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cDrHeRx5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3xz87na9quqes39cijow.gif",
-  "slug": "how-i-created-my-complete-portfolio-website-in-less-than-2-hours-4k7a",
-  "url": "https://dev.to/rammcodes/how-i-created-my-complete-portfolio-website-in-less-than-2-hours-4k7a",
-  "publish_date": "2021-10-26",
-  "published_at": "2021-10-26T14:09:11Z"
- },
- {
-  "id": 876605,
-  "title": "Can you find the bug in this piece of php code? 🤹",
-  "description": "Hey there! 👋  I was doing a bit of bug-hunting in an old project of mine when I found an interesting...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Widegh7D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h7w6fhu3xe1634n8o6zl.png",
-  "slug": "can-you-find-the-bug-in-this-piece-of-php-code-g7l",
-  "url": "https://dev.to/nombrekeff/can-you-find-the-bug-in-this-piece-of-php-code-g7l",
-  "publish_date": "2021-10-26",
-  "published_at": "2021-10-26T09:55:19Z"
- },
- {
-  "id": 876277,
-  "title": "The Ultimate Resource Guide for Your Next 100 Days of Code",
-  "description": "The adrenaline rush that we get from the idea of sticking to coding every day for 100 days is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V7MThjvd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gdvdmw2grx2esvf7sdtw.PNG",
-  "slug": "the-ultimate-resource-guide-for-your-next-100-days-of-code-2630",
-  "url": "https://dev.to/vibalijoshi/the-ultimate-resource-guide-for-your-next-100-days-of-code-2630",
-  "publish_date": "2021-10-26",
-  "published_at": "2021-10-26T04:57:59Z"
  }
 ]
