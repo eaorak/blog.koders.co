@@ -1,5 +1,55 @@
 [
  {
+  "id": 981721,
+  "title": "Flask Data Tables - Inline Edit / Docker / Flask-RestX API",
+  "description": "The project implements paginated access to data using Simple-DataTables, inline edit, toasts notifications and Docker Support.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R_9M2LtQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttauvep5xaakwb315apt.png",
+  "slug": "flask-data-tables-inline-edit-docker-flask-restx-api-2627",
+  "url": "https://dev.to/sm0ke/flask-data-tables-inline-edit-docker-flask-restx-api-2627",
+  "publish_date": "2022-02-07",
+  "published_at": "2022-02-07T16:45:07Z"
+ },
+ {
+  "id": 981384,
+  "title": "How to use an accordion component with Tailwind CSS and Flowbite",
+  "description": "One of my favorite stacks when building websites is to use the utility classes from Tailwind CSS and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ysxIB1HB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15mrj9lnkz4myhu1o2hf.png",
+  "slug": "how-to-use-an-accordion-component-with-tailwind-css-and-flowbite-59o3",
+  "url": "https://dev.to/themesberg/how-to-use-an-accordion-component-with-tailwind-css-and-flowbite-59o3",
+  "publish_date": "2022-02-07",
+  "published_at": "2022-02-07T10:36:47Z"
+ },
+ {
+  "id": 981301,
+  "title": "Tips for starting a new job",
+  "description": "This post is part of my mentoring conversation series which includes relatively short posts on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bKTam64P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z8bob68t87jpxue6sgai.jpg",
+  "slug": "tips-for-starting-a-new-job-42gb",
+  "url": "https://dev.to/rinaarts/tips-for-starting-a-new-job-42gb",
+  "publish_date": "2022-02-07",
+  "published_at": "2022-02-07T08:52:17Z"
+ },
+ {
+  "id": 933304,
+  "title": "Industrial IoT Architecture\nPatterns | AWS White Paper Summary",
+  "description": "Today, industrial companies want to ingest, store, and analyze IoT data, closer to the point where...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KdGaME53--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uksopmq6ax1hm0u1u2jd.png",
+  "slug": "industrial-iot-architecturepatterns-aws-white-paper-summary-4b6g",
+  "url": "https://dev.to/awsmenacommunity/industrial-iot-architecturepatterns-aws-white-paper-summary-4b6g",
+  "publish_date": "2022-02-07",
+  "published_at": "2022-02-07T03:36:23Z"
+ },
+ {
+  "id": 981018,
+  "title": "React Hooks: useContext()",
+  "description": "What are React hooks? They are functions in React that allow you to add react functionality to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DW45lxIx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kgqstha04upl500anukc.png",
+  "slug": "react-hooks-usecontext-167h",
+  "url": "https://dev.to/fig781/react-hooks-usecontext-167h",
+  "publish_date": "2022-02-07",
+  "published_at": "2022-02-07T01:07:07Z"
+ },
+ {
   "id": 980858,
   "title": "Flask Data Tables - Open-Source Sample",
   "description": "The project implements paginated access to data using Simple-DataTables, a lightweight, extendable, dependency-free javascript HTML table plugin",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kathryngrayson/you-probably-dont-need-media-queries-anymore-a4j",
   "publish_date": "2021-10-30",
   "published_at": "2021-10-30T03:21:10Z"
- },
- {
-  "id": 880656,
-  "title": "CAST AI vs. GKE Autopilot: Where to manage Kubernetes on GKE?",
-  "description": "Bonus content: Detailed simulation of cluster costs with CAST AI vs. GKE Autopilot  Running...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PfwFXQVP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zdkybjrxanxl6v8s5j7i.png",
-  "slug": "cast-ai-vs-gke-autopilot-where-to-manage-kubernetes-on-gke-2do9",
-  "url": "https://dev.to/castai/cast-ai-vs-gke-autopilot-where-to-manage-kubernetes-on-gke-2do9",
-  "publish_date": "2021-10-29",
-  "published_at": "2021-10-29T07:45:05Z"
- },
- {
-  "id": 880485,
-  "title": "Building a music player application in react from absolute scratch 🔥🎶",
-  "description": "In this blog tutorial, we are going to set up and build music player applications using react.js from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2POXNJZT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zs01nq18gjt385xkshgm.png",
-  "slug": "building-a-music-player-application-in-react-js-3ngd",
-  "url": "https://dev.to/aviyel/building-a-music-player-application-in-react-js-3ngd",
-  "publish_date": "2021-10-29",
-  "published_at": "2021-10-29T06:34:41Z"
- },
- {
-  "id": 873802,
-  "title": "How to share anything from your website by Web Share API",
-  "description": "In this article we are going to look at Web Share API. With the Web Share API, web apps are able to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sYZvFeEs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52pjqkmjblnuqkj30si7.png",
-  "slug": "how-to-share-anything-from-your-website-by-web-share-api-1h5g",
-  "url": "https://dev.to/j471n/how-to-share-anything-from-your-website-by-web-share-api-1h5g",
-  "publish_date": "2021-10-29",
-  "published_at": "2021-10-29T05:35:31Z"
- },
- {
-  "id": 880292,
-  "title": "What you missed at GitHub Universe, the latest feature announcements",
-  "description": "GitHub Universe has been our flagship event for announcing and launching new products. Since last...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MGbnqlVY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8l2xv9gqfri3bnmsoso.png",
-  "slug": "what-you-missed-at-github-universe-the-latest-feature-announcements-190l",
-  "url": "https://dev.to/github/what-you-missed-at-github-universe-the-latest-feature-announcements-190l",
-  "publish_date": "2021-10-29",
-  "published_at": "2021-10-29T02:40:27Z"
- },
- {
-  "id": 879182,
-  "title": "Creating a blockchain in 60 lines of Javascript",
-  "description": "In recent years, cryptocurrencies and blockchains are two uprising fields, so today, I will share my...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dcIy3but--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ubno1i6mkcco3xkhps1.jpg",
-  "slug": "creating-a-blockchain-in-60-lines-of-javascript-5fka",
-  "url": "https://dev.to/freakcdev297/creating-a-blockchain-in-60-lines-of-javascript-5fka",
-  "publish_date": "2021-10-29",
-  "published_at": "2021-10-29T02:27:47Z"
  }
 ]
