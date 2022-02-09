@@ -1,5 +1,55 @@
 [
  {
+  "id": 966342,
+  "title": "Announcing the Microsoft Azure Trial Hackathon on DEV!",
+  "description": "Join us for this challenge to build applications using Microsoft Azure's suite of tools in exchange for the chance to win some stellar prizes",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uKUPb-Hm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22r9ndg7o2doutl3pkni.png",
+  "slug": "hack-the-microsoft-azure-trial-on-dev-2ne5",
+  "url": "https://dev.to/devteam/hack-the-microsoft-azure-trial-on-dev-2ne5",
+  "publish_date": "2022-02-08",
+  "published_at": "2022-02-08T17:23:47Z"
+ },
+ {
+  "id": 958263,
+  "title": "The Marie Kondo guide for the clean developer",
+  "description": "Marie Kondo is that Japanese woman who became famous with her method for reaching a tidy home and a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F3nFl9SG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lx7qw16tyfj65hybiics.jpg",
+  "slug": "the-marie-kondo-guide-for-the-clean-developer-h0",
+  "url": "https://dev.to/samuelfaure/the-marie-kondo-guide-for-the-clean-developer-h0",
+  "publish_date": "2022-02-08",
+  "published_at": "2022-02-08T10:12:30Z"
+ },
+ {
+  "id": 944117,
+  "title": "Taking colors to the next (CSS) level",
+  "description": "\"CSS4\" will make even brighter colors available to web designers and developers. Like parent...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U3RA26kQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7tdm0aupssohfb3nrref.jpeg",
+  "slug": "ccs4-colors-5bj2",
+  "url": "https://dev.to/ingosteinke/ccs4-colors-5bj2",
+  "publish_date": "2022-02-08",
+  "published_at": "2022-02-08T08:32:18Z"
+ },
+ {
+  "id": 982215,
+  "title": "Sou iniciante em desenvolvimento, que projetos devo fazer no meu github?",
+  "description": "Fala pessoal, tudo bom com vocês? Pokemão de volta aqui com mais um tema para iniciantes em...",
+  "cover_image": "",
+  "slug": "sou-iniciante-em-desenvolvimento-que-projetos-devo-fazer-no-meu-github-4611",
+  "url": "https://dev.to/acaverna/sou-iniciante-em-desenvolvimento-que-projetos-devo-fazer-no-meu-github-4611",
+  "publish_date": "2022-02-08",
+  "published_at": "2022-02-08T05:17:59Z"
+ },
+ {
+  "id": 981948,
+  "title": "The Ultimate Personal Website 👨‍💻 Fully Functional Windows 10 Clone",
+  "description": "I've been fascinated with personal websites since I was a kid. Making my first personal website back...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JqJzbY2I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8x3607i7s2asu2bz3sk.gif",
+  "slug": "the-ultimate-personal-website-fully-functional-windows-10-clone-52im",
+  "url": "https://dev.to/dustinbrett/the-ultimate-personal-website-fully-functional-windows-10-clone-52im",
+  "publish_date": "2022-02-08",
+  "published_at": "2022-02-08T04:08:49Z"
+ },
+ {
   "id": 981721,
   "title": "Flask Data Tables - Inline Edit / Docker / Flask-RestX API",
   "description": "The project implements paginated access to data using Simple-DataTables, inline edit, toasts notifications and Docker Support.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sgoulas/i-created-an-e-commerce-site-from-scratch-and-kept-a-development-diary-over-the-cource-of-5-months-12mm",
   "publish_date": "2021-10-31",
   "published_at": "2021-10-31T01:19:28Z"
- },
- {
-  "id": 882091,
-  "title": "7 Nice API for your projects !",
-  "description": "API is the acronym for Application Programming Interface, which is a software intermediary that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S2KcEyev--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7fvl52qsqiilcey0n1i.jpeg",
-  "slug": "7-nice-api-for-your-projects--3ap",
-  "url": "https://dev.to/codeoz/7-nice-api-for-your-projects--3ap",
-  "publish_date": "2021-10-30",
-  "published_at": "2021-10-30T14:41:31Z"
- },
- {
-  "id": 881922,
-  "title": "NodeJS + Express part 4: CRUD API",
-  "description": "Here is a series of articles that will allow you to create backend applications with NodeJS +...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--olnIb_Km--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpbxy1bb1cdkvkabsokk.png",
-  "slug": "nodejs-express-part-4-crud-api-37ef",
-  "url": "https://dev.to/ericchapman/nodejs-express-part-4-crud-api-37ef",
-  "publish_date": "2021-10-30",
-  "published_at": "2021-10-30T11:34:59Z"
- },
- {
-  "id": 881861,
-  "title": "Flying Helicopter with CSS Animation (step-by-step guide)",
-  "description": "Hey👨‍💻, welcome back.  In this article we gonna build a beautiful animation project using only HTML...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uCn1B4Zd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmi3jhbj2xifj0aoeaqs.png",
-  "slug": "flying-helicopter-with-css-animation-2no9",
-  "url": "https://dev.to/codewithshahan/flying-helicopter-with-css-animation-2no9",
-  "publish_date": "2021-10-30",
-  "published_at": "2021-10-30T07:55:22Z"
- },
- {
-  "id": 880521,
-  "title": "Frontend to FullStack: Introduction to Firebase (Firebase v9)",
-  "description": "Hi there👋, welcome to this tutorial! Today, I will be showing some of Firebase cool features.  Keep...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F5GJZLEC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbrl8988ugysjqzkxv1v.png",
-  "slug": "frontend-to-fullstack-introduction-to-firebase-firebase-v9-authentication-33me",
-  "url": "https://dev.to/arshadayvid/frontend-to-fullstack-introduction-to-firebase-firebase-v9-authentication-33me",
-  "publish_date": "2021-10-30",
-  "published_at": "2021-10-30T05:08:02Z"
- },
- {
-  "id": 881713,
-  "title": "You Probably Don't Need Media Queries Anymore",
-  "description": "With screens available in any size you can imagine, it's time to shift our approach towards responsive design – the era of breakpoints is over and the era of fluid design is here. Modern CSS has fantastic support for responsive design that ensures you won't ever have to write a media query again (if you don't want to).",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bfBgl3GF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qspvr74it45vxok3p6vw.png",
-  "slug": "you-probably-dont-need-media-queries-anymore-a4j",
-  "url": "https://dev.to/kathryngrayson/you-probably-dont-need-media-queries-anymore-a4j",
-  "publish_date": "2021-10-30",
-  "published_at": "2021-10-30T03:21:10Z"
  }
 ]
