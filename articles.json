@@ -1,5 +1,55 @@
 [
  {
+  "id": 983516,
+  "title": "Bidding farewell to Appwrite's Tasks Service 👋",
+  "description": "Appwrite's Tasks Service was a great way to send HTTP requests to remote URLs at specific intervals...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sp7P2RV9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kjks8rw1ps4bhyt3cc0b.jpg",
+  "slug": "bidding-farewell-to-appwrites-tasks-service-2396",
+  "url": "https://dev.to/appwrite/bidding-farewell-to-appwrites-tasks-service-2396",
+  "publish_date": "2022-02-09",
+  "published_at": "2022-02-09T12:42:37Z"
+ },
+ {
+  "id": 983567,
+  "title": "Generate a CSS Color Gradient",
+  "description": "The CSS Gradient online generator tool is a nice and simple to use utility to quickly generate linear...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tVXoPGzb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkzca7gqo7qyvb53aroh.jpg",
+  "slug": "generate-a-css-color-gradient-54ca",
+  "url": "https://dev.to/colortools/generate-a-css-color-gradient-54ca",
+  "publish_date": "2022-02-09",
+  "published_at": "2022-02-09T11:02:58Z"
+ },
+ {
+  "id": 983488,
+  "title": "Creating a Read Progress Bar in React and TailwindCSS",
+  "description": "Recently, I was reading one of my favorite author's articles on his website. I realized he has a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wYj6-QE0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/49a5779ennir28dun3gx.png",
+  "slug": "creating-a-read-progress-bar-in-react-and-tailwindcss-g1n",
+  "url": "https://dev.to/anshuman_bhardwaj/creating-a-read-progress-bar-in-react-and-tailwindcss-g1n",
+  "publish_date": "2022-02-09",
+  "published_at": "2022-02-09T10:24:30Z"
+ },
+ {
+  "id": 898423,
+  "title": "Introduction to Amazon Compute Services (EC2, EKS, and ECS)",
+  "description": "Introduction    Amazon EC2, with instances acting as AWS virtual machines, provides an ideal...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z1Dradn7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ss3wnbaamo505j5sngcz.png",
+  "slug": "introduction-to-amazon-compute-services-ec2-eks-and-ecs-511e",
+  "url": "https://dev.to/aws-builders/introduction-to-amazon-compute-services-ec2-eks-and-ecs-511e",
+  "publish_date": "2022-02-09",
+  "published_at": "2022-02-09T03:31:23Z"
+ },
+ {
+  "id": 983241,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-h6h",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-h6h",
+  "publish_date": "2022-02-09",
+  "published_at": "2022-02-09T01:18:15Z"
+ },
+ {
   "id": 966342,
   "title": "Announcing the Microsoft Azure Trial Hackathon on DEV!",
   "description": "Join us for this challenge to build applications using Microsoft Azure's suite of tools in exchange for the chance to win some stellar prizes",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/are-online-editors-the-future-51pi",
   "publish_date": "2021-11-01",
   "published_at": "2021-11-01T05:54:51Z"
- },
- {
-  "id": 881869,
-  "title": "Create a Responsive Navbar using React and Tailwind",
-  "description": "Overview   Even though we are at the end of 2021 and taking all that care to ensure that the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--otuAY2Ld--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0gppai9tavc2hpe7ajsj.png",
-  "slug": "create-a-responsive-navbar-using-react-and-tailwind-3768",
-  "url": "https://dev.to/franciscomendes10866/create-a-responsive-navbar-using-react-and-tailwind-3768",
-  "publish_date": "2021-10-31",
-  "published_at": "2021-10-31T10:22:10Z"
- },
- {
-  "id": 882757,
-  "title": "🎃🦇 HTMLoween 🦇🎃 - HTML, JS and CSS to make your blood boil! 😱",
-  "description": "Muuwwwaaahhhhhhahaha it's Spooky time. So here is a fun post full of Ghoulish code (that will make...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ia3CVTmt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/llmn3gbz1d5fxe1tkchv.jpg",
-  "slug": "its-htmloween-scary-html-js-and-css-2ncj",
-  "url": "https://dev.to/inhuofficial/its-htmloween-scary-html-js-and-css-2ncj",
-  "publish_date": "2021-10-31",
-  "published_at": "2021-10-31T09:15:16Z"
- },
- {
-  "id": 882581,
-  "title": "🔥 🔥 🔥 Do you know all these means to avoid repeated rendering of React components?",
-  "description": "Use React has been three years, in these three years inside also deposited a lot of best practices on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2jwNCqR8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g33trqywpo34ex3n1993.png",
-  "slug": "do-you-know-all-these-means-to-avoid-repeated-rendering-of-react-components-5mf",
-  "url": "https://dev.to/liujinyi/do-you-know-all-these-means-to-avoid-repeated-rendering-of-react-components-5mf",
-  "publish_date": "2021-10-31",
-  "published_at": "2021-10-31T06:11:21Z"
- },
- {
-  "id": 882288,
-  "title": "99 Python Programs for Beginners",
-  "description": "There can be various python programs on many topics like basic python programming, conditions and...",
-  "cover_image": "",
-  "slug": "99-python-programs-for-beginners-3k1j",
-  "url": "https://dev.to/rrtutors/99-python-programs-for-beginners-3k1j",
-  "publish_date": "2021-10-31",
-  "published_at": "2021-10-31T02:16:56Z"
- },
- {
-  "id": 882439,
-  "title": "I created an e-commerce site from scratch and kept a development diary over the cource of 5 months",
-  "description": "tl;dr I completed a personal project that I would like to share: project repository  Hello all,  I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zZKBz_CE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zibj168e2c9xsdlojexh.png",
-  "slug": "i-created-an-e-commerce-site-from-scratch-and-kept-a-development-diary-over-the-cource-of-5-months-12mm",
-  "url": "https://dev.to/sgoulas/i-created-an-e-commerce-site-from-scratch-and-kept-a-development-diary-over-the-cource-of-5-months-12mm",
-  "publish_date": "2021-10-31",
-  "published_at": "2021-10-31T01:19:28Z"
  }
 ]
