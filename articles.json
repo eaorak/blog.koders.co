@@ -1,5 +1,55 @@
 [
  {
+  "id": 987863,
+  "title": "15 underrated HTML attributes every web developer should know",
+  "description": "HTML may not be a programming language per se, but there's no doubt in the power it possesses. We...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pCzn0wxP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/erc7akrmx2m545zeggr2.png",
+  "slug": "15-underrated-html-attributes-every-web-developer-should-know-5704",
+  "url": "https://dev.to/genicsblog/15-underrated-html-attributes-every-web-developer-should-know-5704",
+  "publish_date": "2022-02-13",
+  "published_at": "2022-02-13T14:37:32Z"
+ },
+ {
+  "id": 987681,
+  "title": "How do React Fragments work under the hood?",
+  "description": "React aims to stay neat and clean that's why fragments are out there. They allow getting rid of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mx5X1AEy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qo65x14w1ohhrd8nq2ka.png",
+  "slug": "how-do-react-fragments-work-under-the-hood-36n5",
+  "url": "https://dev.to/fromaline/how-do-react-fragments-work-under-the-hood-36n5",
+  "publish_date": "2022-02-13",
+  "published_at": "2022-02-13T09:33:09Z"
+ },
+ {
+  "id": 987525,
+  "title": "7 Killer One-Liners in JavaScript",
+  "description": "7 Killer One-Liners in JavaScript   JavaScript is the most crucial pillar of Web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YbKJL8Cg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k2xjggmmb0apji1zmesy.png",
+  "slug": "7-killer-one-liners-in-javascript-one",
+  "url": "https://dev.to/ruppysuppy/7-killer-one-liners-in-javascript-one",
+  "publish_date": "2022-02-13",
+  "published_at": "2022-02-13T05:49:32Z"
+ },
+ {
+  "id": 887743,
+  "title": "Streaming Data Solutions on AWS - Part 5",
+  "description": "Stream processing applications process data continuously in real-time, even before it is stored....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rD72tLBc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jl1hjnfwjklhryqa077s.jpg",
+  "slug": "streaming-data-solutions-on-aws-part-5-57o3",
+  "url": "https://dev.to/aws-builders/streaming-data-solutions-on-aws-part-5-57o3",
+  "publish_date": "2022-02-13",
+  "published_at": "2022-02-13T04:50:18Z"
+ },
+ {
+  "id": 987483,
+  "title": "On Blockchain — Understanding the absolute basics.",
+  "description": "In this post, we are going to learn about blockchain in its simplest form, my objective for this...",
+  "cover_image": "",
+  "slug": "on-blockchain-understanding-the-absolute-basics-oog",
+  "url": "https://dev.to/ceonyema/on-blockchain-understanding-the-absolute-basics-oog",
+  "publish_date": "2022-02-13",
+  "published_at": "2022-02-13T02:26:58Z"
+ },
+ {
   "id": 979334,
   "title": "Reading Comprehension",
   "description": "Reading comprehension is a developer’s closest friend. Most of the information you will use comes...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cometchat/how-to-create-a-tinder-clone-dating-web-app-in-node-js-545k",
   "publish_date": "2021-11-05",
   "published_at": "2021-11-05T02:27:38Z"
- },
- {
-  "id": 886515,
-  "title": "GraphQL in React",
-  "description": "Hello guys👋🏼, today we'd be talking about graphQL and how it works with React. We'd also be looking...",
-  "cover_image": "",
-  "slug": "graphql-in-react-97k",
-  "url": "https://dev.to/dro1/graphql-in-react-97k",
-  "publish_date": "2021-11-04",
-  "published_at": "2021-11-04T09:35:24Z"
- },
- {
-  "id": 887529,
-  "title": "dApps / Web3 - Help me finally understand / ELI5! ",
-  "description": "OK so I have read a few things about blockchain and dApps, I have listened to a few Twitter spaces...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tgE30dTM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mk2luv94a61z54vvy4bs.jpg",
-  "slug": "dapps-web3-help-me-finally-understand-eli5-4dc3",
-  "url": "https://dev.to/inhuofficial/dapps-web3-help-me-finally-understand-eli5-4dc3",
-  "publish_date": "2021-11-04",
-  "published_at": "2021-11-04T08:09:50Z"
- },
- {
-  "id": 840312,
-  "title": "⭐Angular 13 Features ⭐",
-  "description": "Angular 13 features",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A72eK5_5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bjli6fcvz63cqnlico6t.png",
-  "slug": "angular-13-features-5b1e",
-  "url": "https://dev.to/sandeepbalachandran/angular-13-features-5b1e",
-  "publish_date": "2021-11-04",
-  "published_at": "2021-11-04T07:18:50Z"
- },
- {
-  "id": 887478,
-  "title": "Can you solve this interview problem?",
-  "description": "So few days ago I applied to a MNC and I had some interesting problems to solve in given amount of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y4FzMDE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/um1dmbezy88la9quorkd.jpeg",
-  "slug": "can-you-solve-this-interview-problem-4gaa",
-  "url": "https://dev.to/0shuvo0/can-you-solve-this-interview-problem-4gaa",
-  "publish_date": "2021-11-04",
-  "published_at": "2021-11-04T05:29:04Z"
- },
- {
-  "id": 885140,
-  "title": "Free Certification Courses for Developers 🔥",
-  "description": "Hello Folks 👋   This is Savio here. 14 year old, building useful products. Helping people...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IwcasVer--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oz3f8cjvzffd7vfi6o71.jpg",
-  "slug": "free-certification-courses-for-developers-3378",
-  "url": "https://dev.to/saviomartin/free-certification-courses-for-developers-3378",
-  "publish_date": "2021-11-04",
-  "published_at": "2021-11-04T03:20:23Z"
  }
 ]
