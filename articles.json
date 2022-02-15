@@ -1,5 +1,55 @@
 [
  {
+  "id": 988916,
+  "title": "Using Dark/Light Mode Specific Images in GitHub Markdown",
+  "description": "Hey There Devs! 👋   Hope you are doing great with your projects.           TOC    Why this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yV12QsCH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/exblnmebmhljmubqya7c.png",
+  "slug": "using-darklight-mode-specific-images-in-github-markdown-3iln",
+  "url": "https://dev.to/arnavkr/using-darklight-mode-specific-images-in-github-markdown-3iln",
+  "publish_date": "2022-02-14",
+  "published_at": "2022-02-14T16:56:44Z"
+ },
+ {
+  "id": 987973,
+  "title": "Deep dive into React keys bugs",
+  "description": "Let's figure out what are React keys and why do we need them",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QdTjtQMU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ulafze6qqvwzgdp9char.png",
+  "slug": "deep-dive-into-react-keys-bugs-1351",
+  "url": "https://dev.to/kozlovzxc/deep-dive-into-react-keys-bugs-1351",
+  "publish_date": "2022-02-14",
+  "published_at": "2022-02-14T11:50:22Z"
+ },
+ {
+  "id": 988559,
+  "title": "Awesome Shopify Resources for 2022",
+  "description": "Shopify released a lot of new features in 2021, and naturally new tools and resources needed to be...",
+  "cover_image": "",
+  "slug": "awesome-shopify-resources-for-2022-3hjh",
+  "url": "https://dev.to/bornfightcompany/awesome-shopify-resources-for-2022-3hjh",
+  "publish_date": "2022-02-14",
+  "published_at": "2022-02-14T09:04:18Z"
+ },
+ {
+  "id": 952428,
+  "title": "Using Microsoft Power BI with the AWS Cloud | AWS White Paper Summary",
+  "description": "This whitepaper discusses how to integrate and use Microsoft Power BI (Desktop, Report Server,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PaeX6E-4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8d6goqnvim3sycwbp96g.png",
+  "slug": "using-microsoft-power-bi-with-the-aws-cloud-aws-white-paper-summary-c44",
+  "url": "https://dev.to/awsmenacommunity/using-microsoft-power-bi-with-the-aws-cloud-aws-white-paper-summary-c44",
+  "publish_date": "2022-02-14",
+  "published_at": "2022-02-14T03:54:01Z"
+ },
+ {
+  "id": 988331,
+  "title": "5 Awesome HTML and CSS projects to build (with codepen preview)",
+  "description": "Coding is a fun and exciting practice but how do you measure your progress in your learning...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6N_esUsc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/07ii48tj9mmwut54iv5i.png",
+  "slug": "5-awesome-html-and-css-projects-to-build-5en5",
+  "url": "https://dev.to/babib/5-awesome-html-and-css-projects-to-build-5en5",
+  "publish_date": "2022-02-14",
+  "published_at": "2022-02-14T01:42:03Z"
+ },
+ {
   "id": 987863,
   "title": "15 underrated HTML attributes every web developer should know",
   "description": "HTML may not be a programming language per se, but there's no doubt in the power it possesses. We...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nilanth/react-architecture-for-enterprise-application-3pnh",
   "publish_date": "2021-11-06",
   "published_at": "2021-11-06T05:39:59Z"
- },
- {
-  "id": 888380,
-  "title": "🚀10 Trending projects on GitHub for web developers - 5th November 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-5th-november-2021-1aki",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-5th-november-2021-1aki",
-  "publish_date": "2021-11-05",
-  "published_at": "2021-11-05T14:54:30Z"
- },
- {
-  "id": 888102,
-  "title": "Enhance your JS Skill by using the correct array method",
-  "description": "I saw a lot of junior developper using forEach when they need to handle array.  I will show you and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2rDsZfNA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t99gaklkkvhwa391td5n.jpg",
-  "slug": "enhance-your-js-skill-by-using-the-correct-array-method-5c2j",
-  "url": "https://dev.to/codeoz/enhance-your-js-skill-by-using-the-correct-array-method-5c2j",
-  "publish_date": "2021-11-05",
-  "published_at": "2021-11-05T10:51:19Z"
- },
- {
-  "id": 888075,
-  "title": "Cherry-Pick Your Teammate's Changes Without Push 'n Pull-ing To Your Repo In WebStorm",
-  "description": "You asked your teammate for help with a piece of code and they showed you the solution in their...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Jc8rMZX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/51ugikpplrhev3zkn466.png",
-  "slug": "cherry-pick-your-teammates-changes-without-push-n-pull-ing-to-your-repo-in-webstorm-5h41",
-  "url": "https://dev.to/gitlive/cherry-pick-your-teammates-changes-without-push-n-pull-ing-to-your-repo-in-webstorm-5h41",
-  "publish_date": "2021-11-05",
-  "published_at": "2021-11-05T09:58:15Z"
- },
- {
-  "id": 888436,
-  "title": "Creating a React component with TDD",
-  "description": "Join me in this post as I create a React component using Test Driven Development (TDD) approach.  I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QryL_1VA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/we1r81gmo7qy4iubpw5f.jpg",
-  "slug": "creating-a-react-component-with-tdd-2jn8",
-  "url": "https://dev.to/mbarzeev/creating-a-react-component-with-tdd-2jn8",
-  "publish_date": "2021-11-05",
-  "published_at": "2021-11-05T09:23:20Z"
- },
- {
-  "id": 888596,
-  "title": "How to Create a Tinder Clone Dating Web App In Node JS",
-  "description": "What you’ll be building, Git Repo Here.               Featured Articles    Uber Clone Facebook...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4xuzL6Xy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmi2e02bjrfdzbl0cryd.png",
-  "slug": "how-to-create-a-tinder-clone-dating-web-app-in-node-js-545k",
-  "url": "https://dev.to/cometchat/how-to-create-a-tinder-clone-dating-web-app-in-node-js-545k",
-  "publish_date": "2021-11-05",
-  "published_at": "2021-11-05T02:27:38Z"
  }
 ]
