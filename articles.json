@@ -1,5 +1,55 @@
 [
  {
+  "id": 991418,
+  "title": "Tell me you're web developer without telling me you're a web developer.",
+  "description": "A post by Ben Halpern",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1XJPUO5y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qlo81rw6c44kj5rvmnan.png",
+  "slug": "tell-me-youre-web-developer-without-telling-me-youre-a-web-developer-59cd",
+  "url": "https://dev.to/ben/tell-me-youre-web-developer-without-telling-me-youre-a-web-developer-59cd",
+  "publish_date": "2022-02-16",
+  "published_at": "2022-02-16T15:38:42Z"
+ },
+ {
+  "id": 990209,
+  "title": "The Harsh Reality for JS Developers: If You Don't Study The Fundamentals You Will Be Just Another “Coder”",
+  "description": "Three years ago, I faced a brutal truth.  Up to that point, I had been writing dozens of lines of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wYbbp3JC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vctu7d4vqr5zebqnxbp2.jpg",
+  "slug": "the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke",
+  "url": "https://dev.to/dragosnedelcu/the-harsh-reality-for-js-developers-master-the-fundamentals-or-you-will-be-just-a-coder-21ke",
+  "publish_date": "2022-02-16",
+  "published_at": "2022-02-16T08:46:21Z"
+ },
+ {
+  "id": 990930,
+  "title": "How TypeScript can change your life",
+  "description": "JavaScript is now one of the most used programming languages, and it's fantastic at what it does. But...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hD-nFuN7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2fudzn8cjlix02ktmk1g.jpg",
+  "slug": "how-typescript-can-change-your-life-4j6o",
+  "url": "https://dev.to/dailydevtips1/how-typescript-can-change-your-life-4j6o",
+  "publish_date": "2022-02-16",
+  "published_at": "2022-02-16T06:47:51Z"
+ },
+ {
+  "id": 990886,
+  "title": "Os primeiros passos para sua vaga em desenvolvimento",
+  "description": "Fala pessoal, belezinha? Aqui é o pokemão com mais um artigo para falar um pouco sobre o começo de...",
+  "cover_image": "",
+  "slug": "os-primeiros-passos-para-sua-vaga-em-desenvolvimento-2e95",
+  "url": "https://dev.to/acaverna/os-primeiros-passos-para-sua-vaga-em-desenvolvimento-2e95",
+  "publish_date": "2022-02-16",
+  "published_at": "2022-02-16T04:44:52Z"
+ },
+ {
+  "id": 867091,
+  "title": "Teaching AI to Generate New Pokemon",
+  "description": "Pokemon was first created in 1996. In the twenty years, it has become one of the most recognizable...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7viqUKU3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bxjtidhjk4nranioe4pp.jpeg",
+  "slug": "teaching-ai-to-generate-new-pokemon-3kk1",
+  "url": "https://dev.to/mage_ai/teaching-ai-to-generate-new-pokemon-3kk1",
+  "publish_date": "2022-02-16",
+  "published_at": "2022-02-16T01:57:02Z"
+ },
+ {
   "id": 990121,
   "title": "How to use JavaScript feature toggles to deploy safely [React.js example with Dev.to App]",
   "description": "Feature flags aka Feature toggles in any language significantly reduce the blast radius of a release...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/imkarthikeyan/resources-to-practice-web-development-ko",
   "publish_date": "2021-11-08",
   "published_at": "2021-11-08T07:36:20Z"
- },
- {
-  "id": 891077,
-  "title": "Flexbox Properties Explained",
-  "description": "In the past, CSS layouts have been a huge pain point for web designers. In order to create a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m1qA8fhw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vrbg300nmwudprgv14g2.png",
-  "slug": "flexbox-properties-3nd3",
-  "url": "https://dev.to/snowbit/flexbox-properties-3nd3",
-  "publish_date": "2021-11-07",
-  "published_at": "2021-11-07T14:55:30Z"
- },
- {
-  "id": 890944,
-  "title": "5 Python Tricks in one line. Beginner vs Professional",
-  "description": "Photo by AltumCode on Unsplash  Python is famous for its simplicity and ease of use. This is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5Dxsbzz3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x63a9qrykuqwxk28nyqg.jpg",
-  "slug": "5-python-tricks-in-one-line-beginner-vs-professional-5b0j",
-  "url": "https://dev.to/abstract/5-python-tricks-in-one-line-beginner-vs-professional-5b0j",
-  "publish_date": "2021-11-07",
-  "published_at": "2021-11-07T09:59:26Z"
- },
- {
-  "id": 890941,
-  "title": "Pusher to get Real Time Updates For Your WebApp.",
-  "description": "Introduction   I recently discovered Pusher that provides real time communication amongst...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6XXViHfD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o63ybc108lz3pduf4urk.png",
-  "slug": "pusher-to-get-real-time-updates-for-your-webapp-4c40",
-  "url": "https://dev.to/mrsharm/pusher-to-get-real-time-updates-for-your-webapp-4c40",
-  "publish_date": "2021-11-07",
-  "published_at": "2021-11-07T09:36:25Z"
- },
- {
-  "id": 890822,
-  "title": "5 Tips to Take your Website Lighthouse Score from Meh to WOW!",
-  "description": "When creating a website for Production, you would want the world to have a great experience using it....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6CI3YKhN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kpnxqdvknws1bitpak6p.png",
-  "slug": "5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375",
-  "url": "https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375",
-  "publish_date": "2021-11-07",
-  "published_at": "2021-11-07T06:16:22Z"
- },
- {
-  "id": 886814,
-  "title": "How to make asynchronous requests to your API in React",
-  "description": "This is a common problem that beginner React developers face when working on a new project. I will...",
-  "cover_image": "",
-  "slug": "how-to-make-asynchronous-requests-to-your-api-in-react-1a7m",
-  "url": "https://dev.to/eliasjnior/how-to-make-asynchronous-requests-to-your-api-in-react-1a7m",
-  "publish_date": "2021-11-07",
-  "published_at": "2021-11-07T02:51:54Z"
  }
 ]
