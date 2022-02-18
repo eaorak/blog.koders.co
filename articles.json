@@ -1,5 +1,55 @@
 [
  {
+  "id": 989675,
+  "title": "Resumable JavaScript with Qwik",
+  "description": "When Misko Hevery (creator of AngularJS) approaches you to look at his new framework, well, you stop...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6SYviH1c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22iek3yby9myuj9bkhss.png",
+  "slug": "resumable-javascript-with-qwik-2i29",
+  "url": "https://dev.to/this-is-learning/resumable-javascript-with-qwik-2i29",
+  "publish_date": "2022-02-17",
+  "published_at": "2022-02-17T15:27:13Z"
+ },
+ {
+  "id": 992306,
+  "title": "What’s Wrong With Measuring Developer Performance (+ 10 Best Metrics)",
+  "description": "*header pic by Shen Comix  Developer performance is a hot topic nowadays, especially during the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nqh8tKv_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwqukpzll2bxn8uz54fy.jpg",
+  "slug": "whats-wrong-with-measuring-developer-performance-10-best-metrics-5620",
+  "url": "https://dev.to/actitime/whats-wrong-with-measuring-developer-performance-10-best-metrics-5620",
+  "publish_date": "2022-02-17",
+  "published_at": "2022-02-17T11:54:31Z"
+ },
+ {
+  "id": 991451,
+  "title": "Top 5 Best Javascript Icons Libraries 🚀",
+  "description": "Video Version 📹 :   Note: If you find this video to be helpful then please show me some love by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RDptiK7i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/emvfwhyiea8oauvtrvvq.png",
+  "slug": "top-5-best-javascript-icons-libraries-5c2j",
+  "url": "https://dev.to/rammcodes/top-5-best-javascript-icons-libraries-5c2j",
+  "publish_date": "2022-02-17",
+  "published_at": "2022-02-17T10:51:23Z"
+ },
+ {
+  "id": 847768,
+  "title": "PWA: Learning, Implementing and Loving ft. NextJS under 2 mins",
+  "description": "When I started my web dev journey, I was always overwhelmed by the concept of transforming a web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BSSHczTt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbkg12o08s3az9xxvu61.jpeg",
+  "slug": "pwa-learning-implementing-and-loving-ft-nextjs-under-2-mins-il7",
+  "url": "https://dev.to/aniket762/pwa-learning-implementing-and-loving-ft-nextjs-under-2-mins-il7",
+  "publish_date": "2022-02-17",
+  "published_at": "2022-02-17T04:44:46Z"
+ },
+ {
+  "id": 991525,
+  "title": "Complete Guide On How To Use Styled-components In React",
+  "description": "I have often found styling a React application very confusing and difficult. Initially, I was...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--26APvxwH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qsqhcy3qtkuvbvbs449g.png",
+  "slug": "complete-guide-on-how-to-use-styled-components-in-react-360c",
+  "url": "https://dev.to/elijahtrillionz/complete-guide-on-how-to-use-styled-components-in-react-360c",
+  "publish_date": "2022-02-17",
+  "published_at": "2022-02-17T01:47:12Z"
+ },
+ {
   "id": 991418,
   "title": "Tell me you're web developer without telling me you're a web developer.",
   "description": "A post by Ben Halpern",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/abdulrrehman0/windows-11-but-for-web-2nh4",
   "publish_date": "2021-11-09",
   "published_at": "2021-11-09T04:45:41Z"
- },
- {
-  "id": 892009,
-  "title": "Join Us for the 2021 GitHub Actions Hackathon on DEV!",
-  "description": "Join us for this opportunity to build projects with GitHub Actions while earning some fantastic prizes",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XingZWyc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22vjowkmnhrtora10bdy.png",
-  "slug": "join-us-for-the-2021-github-actions-hackathon-on-dev-4hn4",
-  "url": "https://dev.to/devteam/join-us-for-the-2021-github-actions-hackathon-on-dev-4hn4",
-  "publish_date": "2021-11-08",
-  "published_at": "2021-11-08T17:11:21Z"
- },
- {
-  "id": 888121,
-  "title": "React doesn't need state management tool, I said",
-  "description": "From time to time someone still tells me that is using REDUX or similar tool in their project. I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DZViZmQ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jawcwoye9j7126xcvjn4.png",
-  "slug": "react-doesnt-need-state-management-tool-i-said-31l4",
-  "url": "https://dev.to/tolgee_i18n/react-doesnt-need-state-management-tool-i-said-31l4",
-  "publish_date": "2021-11-08",
-  "published_at": "2021-11-08T08:50:53Z"
- },
- {
-  "id": 891059,
-  "title": "🎊 You don't need SVG! Creating animated loaders for content with Tailwind CSS",
-  "description": "Introduction   Hi, DEV friends! 😁  Today we'll talk about how to improve the UX of your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uRbyunzh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6h1oycwt9nds0lcrcprp.jpg",
-  "slug": "you-dont-need-svg-creating-animated-loaders-for-content-with-tailwind-css-2cf0",
-  "url": "https://dev.to/koddr/you-dont-need-svg-creating-animated-loaders-for-content-with-tailwind-css-2cf0",
-  "publish_date": "2021-11-08",
-  "published_at": "2021-11-08T08:01:25Z"
- },
- {
-  "id": 886445,
-  "title": "How to work as a solo frontend developer",
-  "description": "Working in a team is great. You can progress really fast and learn a lot from your colleagues. Having...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N6puAq1T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xiftu87wlep1ua4bit0w.jpeg",
-  "slug": "how-to-work-as-a-solo-frontend-developer-dhp",
-  "url": "https://dev.to/bornfightcompany/how-to-work-as-a-solo-frontend-developer-dhp",
-  "publish_date": "2021-11-08",
-  "published_at": "2021-11-08T07:45:25Z"
- },
- {
-  "id": 891639,
-  "title": "Resources to practice web development",
-  "description": "Excellence is not an art. It is the habit of practice — Aristotle   Best way to be good at any piece...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xIrepa0a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uut8xeidf582radtntoc.png",
-  "slug": "resources-to-practice-web-development-ko",
-  "url": "https://dev.to/imkarthikeyan/resources-to-practice-web-development-ko",
-  "publish_date": "2021-11-08",
-  "published_at": "2021-11-08T07:36:20Z"
  }
 ]
