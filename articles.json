@@ -1,5 +1,55 @@
 [
  {
+  "id": 978576,
+  "title": "General Design Principles for Hybrid Networking",
+  "description": "This article outlines two key scenarios that are common in hybrid networking and how they influence...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7nQdGdvw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8i62qjkhtod7a8do081m.jpg",
+  "slug": "general-design-principles-for-hybrid-networking-5954",
+  "url": "https://dev.to/aws-builders/general-design-principles-for-hybrid-networking-5954",
+  "publish_date": "2022-02-19",
+  "published_at": "2022-02-19T15:51:46Z"
+ },
+ {
+  "id": 994584,
+  "title": "Make Your Github Profile Stand Out",
+  "description": "Github is awesome, that's known.  But, did you ever think how to make yours more attractive for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XW7rKrrW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wl1hrb3oshky7m3nb2hd.JPG",
+  "slug": "make-your-github-profile-stand-out-19b2",
+  "url": "https://dev.to/saritchaethudis/make-your-github-profile-stand-out-19b2",
+  "publish_date": "2022-02-19",
+  "published_at": "2022-02-19T15:01:19Z"
+ },
+ {
+  "id": 994531,
+  "title": "Top 5 state management libraries for React",
+  "description": "There are a lot of state management libraries available for Reactjs. Here you will learn about the 5...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pSmlxVgr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmnppr14d5vnzj986r80.png",
+  "slug": "top-5-state-management-libraries-for-react-7ml",
+  "url": "https://dev.to/thatanjan/top-5-state-management-libraries-for-react-7ml",
+  "publish_date": "2022-02-19",
+  "published_at": "2022-02-19T13:21:19Z"
+ },
+ {
+  "id": 994412,
+  "title": "Create a parallax effect when the mouse moves",
+  "description": "Animated and interactive pages attract more and more attention from users. For this, we can use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XVWRcXEt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rljnc9vyd7dfk98gwprk.png",
+  "slug": "create-a-parallax-effect-when-the-mouse-moves-3km0",
+  "url": "https://dev.to/clementgaudiniere/create-a-parallax-effect-when-the-mouse-moves-3km0",
+  "publish_date": "2022-02-19",
+  "published_at": "2022-02-19T10:35:13Z"
+ },
+ {
+  "id": 994297,
+  "title": "TypeScript utility types: Partial and Required",
+  "description": "TypeScript comes with several utility types. These are utilities we can use to do type...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--81lblsVM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ly1tl585mj40ifzcvh4i.jpg",
+  "slug": "typescript-utility-types-partial-and-required-1klm",
+  "url": "https://dev.to/dailydevtips1/typescript-utility-types-partial-and-required-1klm",
+  "publish_date": "2022-02-19",
+  "published_at": "2022-02-19T07:36:16Z"
+ },
+ {
   "id": 993589,
   "title": "Environmental Impact of the Cloud: 5 Data-Based Insights and One Good Fix",
   "description": "Does using the cloud make your business sustainable? Research suggests that it’s a greener...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mage_ai/the-future-of-programming-low-code-ai-tools-fe3",
   "publish_date": "2021-11-11",
   "published_at": "2021-11-11T00:57:28Z"
- },
- {
-  "id": 894005,
-  "title": "6 Repos github you should marked as web developper!",
-  "description": "Today I will share with you some repository Github that will help you to be more efficient for every...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BGPVZlVO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2sx8z5oe3xcgw95p153i.png",
-  "slug": "6-repos-github-you-should-marked-as-web-developper-36eo",
-  "url": "https://dev.to/codeoz/6-repos-github-you-should-marked-as-web-developper-36eo",
-  "publish_date": "2021-11-10",
-  "published_at": "2021-11-10T17:47:49Z"
- },
- {
-  "id": 893613,
-  "title": "NgRx Tips I Needed in the Beginning",
-  "description": "Cover photo by Léonard Cotte on Unsplash.  This article contains a list of tips and best practices...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--akGUymOY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/htql8idw7dtrtnunegpr.jpg",
-  "slug": "ngrx-tips-i-needed-in-the-beginning-4hno",
-  "url": "https://dev.to/this-is-angular/ngrx-tips-i-needed-in-the-beginning-4hno",
-  "publish_date": "2021-11-10",
-  "published_at": "2021-11-10T10:51:06Z"
- },
- {
-  "id": 890961,
-  "title": "CSS Loader / Spinners collection ",
-  "description": "A general situation that we all might face while going through websites/apps is to wait for some...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0gxgUgaU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlul477znzyskxhruu8.png",
-  "slug": "css-loader-spinners-collection-k3c",
-  "url": "https://dev.to/vineethtrv/css-loader-spinners-collection-k3c",
-  "publish_date": "2021-11-10",
-  "published_at": "2021-11-10T06:53:23Z"
- },
- {
-  "id": 893720,
-  "title": "Lets create a Drawing APP with JS",
-  "description": "In this article I will show you how you can create a Drawing/Pain APP using JavaScript and HTML5...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2Lb8j5yN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q379zva250un9ue9qdno.png",
-  "slug": "lets-create-a-drawing-app-with-js-4ej3",
-  "url": "https://dev.to/0shuvo0/lets-create-a-drawing-app-with-js-4ej3",
-  "publish_date": "2021-11-10",
-  "published_at": "2021-11-10T05:47:47Z"
- },
- {
-  "id": 893601,
-  "title": "Understanding Generics in TypeScript",
-  "description": "Quick note! If you'd like to experience this post interactively, go to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TKmvqZpd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsfr7wgah882ap44bycd.png",
-  "slug": "understanding-generics-in-typescript-2hfh",
-  "url": "https://dev.to/plondon/understanding-generics-in-typescript-2hfh",
-  "publish_date": "2021-11-10",
-  "published_at": "2021-11-10T01:15:04Z"
  }
 ]
