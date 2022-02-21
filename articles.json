@@ -1,5 +1,55 @@
 [
  {
+  "id": 995225,
+  "title": "Introduction to Data Structures and Algorithms with Python",
+  "description": "Introduction   Data is something that everyone is familiar with, but knowing how to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kLlj6kPc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yuoa6u9ivony989ouesk.png",
+  "slug": "introduction-to-data-structures-and-algorithms-with-python-3jhn",
+  "url": "https://dev.to/brayan_kai/introduction-to-data-structures-and-algorithms-with-python-3jhn",
+  "publish_date": "2022-02-20",
+  "published_at": "2022-02-20T16:18:31Z"
+ },
+ {
+  "id": 995400,
+  "title": "Create a Reddit clone with RedwoodJS",
+  "description": "Learn how to clone the popular social media website Reddit with RedwoodJS, a new full-stack javascript framework",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v72sHzi9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/zMh5LEI.png",
+  "slug": "create-a-reddit-clone-with-redwoodjs-pcp",
+  "url": "https://dev.to/arnu515/create-a-reddit-clone-with-redwoodjs-pcp",
+  "publish_date": "2022-02-20",
+  "published_at": "2022-02-20T14:41:46Z"
+ },
+ {
+  "id": 995103,
+  "title": "Planning a React Application",
+  "description": "Planning a non-trivial web application that utilizes React is something you may have done in the past...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Eyww9gE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nbhu98b72ff6abgutnra.png",
+  "slug": "planning-a-react-application-3pe4",
+  "url": "https://dev.to/fkkarakurt/planning-a-react-application-3pe4",
+  "publish_date": "2022-02-20",
+  "published_at": "2022-02-20T07:34:26Z"
+ },
+ {
+  "id": 995102,
+  "title": "TypeScript utility types: Pick and Omit",
+  "description": "In the previous article, we first looked at TypeScript utility types: Partial and Required. We'll...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MI47ng5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9tuop6mxj5ouzsmwpicl.jpg",
+  "slug": "typescript-utility-types-pick-and-omit-135e",
+  "url": "https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e",
+  "publish_date": "2022-02-20",
+  "published_at": "2022-02-20T07:20:38Z"
+ },
+ {
+  "id": 995058,
+  "title": "6 Killer Utility Functions in JavaScript",
+  "description": "This is somewhat of an extension to last week's 7 Killer One-Liners in JavaScript. If you haven't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bhhbou8u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d3q87phuvhpy0ddx814t.png",
+  "slug": "6-killer-utility-functions-in-javascript-1j68",
+  "url": "https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68",
+  "publish_date": "2022-02-20",
+  "published_at": "2022-02-20T05:39:13Z"
+ },
+ {
   "id": 978576,
   "title": "General Design Principles for Hybrid Networking",
   "description": "This article outlines two key scenarios that are common in hybrid networking and how they influence...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/divyeshkamalanaban/javascript-weather-app-for-absolute-beginners-3nfi",
   "publish_date": "2021-11-12",
   "published_at": "2021-11-12T07:56:39Z"
- },
- {
-  "id": 895249,
-  "title": "How to Create an Image Slider using HTML CSS and JavaScript",
-  "description": "In this article you will learn how to create image sliders using html and css. Earlier I have shared...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1puPYwCk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3iivt4v5fcfdfeoaopoc.jpg",
-  "slug": "how-to-create-an-image-slider-using-html-css-and-javascript-mo0",
-  "url": "https://dev.to/shantanu_jana/how-to-create-an-image-slider-using-html-css-and-javascript-mo0",
-  "publish_date": "2021-11-11",
-  "published_at": "2021-11-11T16:33:02Z"
- },
- {
-  "id": 887762,
-  "title": "50+ Awesome Vue.js Templates And Themes",
-  "description": "As a huge Vue enthusiast, I am always on the hunt for high-quality templates, themes, and resources...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9aShL8iA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/de20f3prb7uvexinhoku.png",
-  "slug": "50-awesome-vuejs-templates-and-themes-1pln",
-  "url": "https://dev.to/markc86/50-awesome-vuejs-templates-and-themes-1pln",
-  "publish_date": "2021-11-11",
-  "published_at": "2021-11-11T11:19:45Z"
- },
- {
-  "id": 894894,
-  "title": "Difference between for...of and for...in loop in JavaScript.",
-  "description": "Hello Everyone,  The difference between for-of and for-in loop really troubled me when I was learning...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M2n-NhAG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zyifd3xneq7wkpbgi1rr.png",
-  "slug": "difference-between-forof-and-forin-loop-in-javascript-j2o",
-  "url": "https://dev.to/swastikyadav/difference-between-forof-and-forin-loop-in-javascript-j2o",
-  "publish_date": "2021-11-11",
-  "published_at": "2021-11-11T07:19:59Z"
- },
- {
-  "id": 894666,
-  "title": "Tap bar with liquid animation using CSS and JavaScript",
-  "description": "In this article, we will create a tap bar that you can use in your mobile projects. Let's first look...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D82GwVsr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qipgwv5qz0tq8915wtv3.jpeg",
-  "slug": "tap-bar-with-liquid-animation-using-css-and-javascript-2l99",
-  "url": "https://dev.to/romaopedro199/tap-bar-with-liquid-animation-using-css-and-javascript-2l99",
-  "publish_date": "2021-11-11",
-  "published_at": "2021-11-11T01:24:46Z"
- },
- {
-  "id": 894655,
-  "title": "The Future of Programming: Low Code AI Tools",
-  "description": "TLDR   With the evolution of AI comes many tools for product developers. AI isn’t replacing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W7kdRGER--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wylgntw2i9vksvnkofs9.jpg",
-  "slug": "the-future-of-programming-low-code-ai-tools-fe3",
-  "url": "https://dev.to/mage_ai/the-future-of-programming-low-code-ai-tools-fe3",
-  "publish_date": "2021-11-11",
-  "published_at": "2021-11-11T00:57:28Z"
  }
 ]
