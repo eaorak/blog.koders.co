@@ -1,5 +1,55 @@
 [
  {
+  "id": 994849,
+  "title": "The First Two Dev Tools Installed On My M1 Mac ",
+  "description": "I was overdue for an upgrade at my day job and recently received a 16 inch M1 Macbook Pro. If you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qwvftGwL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rul9q63xqvqk9sle2s2.JPG",
+  "slug": "the-first-two-dev-tools-installed-on-my-m1-mac-50l8",
+  "url": "https://dev.to/bdougieyo/the-first-two-dev-tools-installed-on-my-m1-mac-50l8",
+  "publish_date": "2022-02-21",
+  "published_at": "2022-02-21T15:19:39Z"
+ },
+ {
+  "id": 990936,
+  "title": "Azure Trial Hackathon - Moodflix - your mood, our suggestions",
+  "description": "Overview of our project   We have started this project with the purpose of participating to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cnziy8NN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/etehgw8w5ll30q9zqq0y.gif",
+  "slug": "azure-trial-hackathon-moodflix-your-mood-our-suggestions-4p92",
+  "url": "https://dev.to/kasuken/azure-trial-hackathon-moodflix-your-mood-our-suggestions-4p92",
+  "publish_date": "2022-02-21",
+  "published_at": "2022-02-21T14:58:55Z"
+ },
+ {
+  "id": 996179,
+  "title": "Developing an authentication system in Java+Tarantool",
+  "description": "Author: Alexander Goryakin    My name is Alexander, I am a software engineer in the architecture and...",
+  "cover_image": "",
+  "slug": "developing-an-authentication-system-in-javatarantool-35oh",
+  "url": "https://dev.to/tarantool/developing-an-authentication-system-in-javatarantool-35oh",
+  "publish_date": "2022-02-21",
+  "published_at": "2022-02-21T12:01:10Z"
+ },
+ {
+  "id": 995636,
+  "title": "Top React JS Frameworks Every Developer Should Know",
+  "description": "Best UI Frameworks for React.js   In this post, I have listed some of the best React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kkwFDI3k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b8sd8sl0l54uic269mf1.jpeg",
+  "slug": "top-react-js-frameworks-every-developer-should-know-3pod",
+  "url": "https://dev.to/pankod/top-react-js-frameworks-every-developer-should-know-3pod",
+  "publish_date": "2022-02-21",
+  "published_at": "2022-02-21T08:19:45Z"
+ },
+ {
+  "id": 987138,
+  "title": "Visual Studio Code - Tips \u0026 Tricks - Command Palette and its friends",
+  "description": "Visual Studio Code is one of the best code editors in this moment. Its Palette has many features but...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sfEz_5cg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r45tmynw5aggc9swt3fu.png",
+  "slug": "visual-studio-code-tips-tricks-command-palette-and-its-friends-2bhi",
+  "url": "https://dev.to/this-is-learning/visual-studio-code-tips-tricks-command-palette-and-its-friends-2bhi",
+  "publish_date": "2022-02-21",
+  "published_at": "2022-02-21T06:27:16Z"
+ },
+ {
   "id": 995225,
   "title": "Introduction to Data Structures and Algorithms with Python",
   "description": "Introduction   Data is something that everyone is familiar with, but knowing how to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ronyfr3/web-push-notification-using-react-and-node-js-oc9",
   "publish_date": "2021-11-13",
   "published_at": "2021-11-13T01:39:03Z"
- },
- {
-  "id": 895754,
-  "title": "Understanding Transitional JavaScript Apps",
-  "description": "Transitional JavaScript Apps? What? Well honestly I'm not sure I know completely myself. It is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qGg1Y9S4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ws8hzkhw780byi537vm5.jpeg",
-  "slug": "understanding-transitional-javascript-apps-27i2",
-  "url": "https://dev.to/this-is-learning/understanding-transitional-javascript-apps-27i2",
-  "publish_date": "2021-11-12",
-  "published_at": "2021-11-12T15:19:34Z"
- },
- {
-  "id": 896421,
-  "title": "The ultimate guide to cloud cost optimization",
-  "description": "The cloud’s scalability is both a blessing and a curse. Sure, you can experiment with new ideas...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v6cT80DH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tkj2kzgx0ljpje8m5o2.jpeg",
-  "slug": "the-ultimate-guide-to-cloud-cost-optimization-mb6",
-  "url": "https://dev.to/castai/the-ultimate-guide-to-cloud-cost-optimization-mb6",
-  "publish_date": "2021-11-12",
-  "published_at": "2021-11-12T15:03:17Z"
- },
- {
-  "id": 896391,
-  "title": "Composable commerce: Switch parts of your stack in seconds",
-  "description": "We recently launched our sophisticated Medusa Search API. It allows you to add a blazingly fast...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BNRjKAhO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ol8vs89s49gbjk2cybp9.png",
-  "slug": "composable-commerce-switch-parts-of-your-stack-in-seconds-4880",
-  "url": "https://dev.to/medusajs/composable-commerce-switch-parts-of-your-stack-in-seconds-4880",
-  "publish_date": "2021-11-12",
-  "published_at": "2021-11-12T14:27:54Z"
- },
- {
-  "id": 892782,
-  "title": "Responsive Personal Portfolio Website with HTML CSS JS - Part 5",
-  "description": "Responsive personal portfolio website with html css js  In this video series,  I will show you...",
-  "cover_image": "",
-  "slug": "responsive-personal-portfolio-website-with-html-css-js-part-5-5f4m",
-  "url": "https://dev.to/codewithsadee/responsive-personal-portfolio-website-with-html-css-js-part-5-5f4m",
-  "publish_date": "2021-11-12",
-  "published_at": "2021-11-12T13:05:55Z"
- },
- {
-  "id": 896026,
-  "title": "JavaScript weather app for absolute beginners",
-  "description": "Introduction   I know, calling APIs and fetching them can be really tough for beginners. It...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BNQrKi8F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fpdkat8ysrsl2djrukz4.png",
-  "slug": "javascript-weather-app-for-absolute-beginners-3nfi",
-  "url": "https://dev.to/divyeshkamalanaban/javascript-weather-app-for-absolute-beginners-3nfi",
-  "publish_date": "2021-11-12",
-  "published_at": "2021-11-12T07:56:39Z"
  }
 ]
