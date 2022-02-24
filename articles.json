@@ -1,5 +1,55 @@
 [
  {
+  "id": 998796,
+  "title": "10 JetBrains Extensions to Fight Technical Debt🥷",
+  "description": "My last article on 10 VS Code Extensions to Fight Technical Debt got over 50.000 views and 500...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9wBKXjL0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b1l68t5xttupma7nqaai.jpg",
+  "slug": "10-jetbrains-extensions-to-fight-technical-debt-5gg6",
+  "url": "https://dev.to/alexomeyer/10-jetbrains-extensions-to-fight-technical-debt-5gg6",
+  "publish_date": "2022-02-23",
+  "published_at": "2022-02-23T14:34:05Z"
+ },
+ {
+  "id": 998840,
+  "title": "Develop your Own Customizable Invoice Generator with Refine and Strapi | Part I",
+  "description": "Introduction   We are going to develop an invoice generator application for our business...",
+  "cover_image": "",
+  "slug": "develop-your-own-customizable-invoice-generator-with-refine-and-strapi-part-i-51m5",
+  "url": "https://dev.to/pankod/develop-your-own-customizable-invoice-generator-with-refine-and-strapi-part-i-51m5",
+  "publish_date": "2022-02-23",
+  "published_at": "2022-02-23T13:55:18Z"
+ },
+ {
+  "id": 998480,
+  "title": "Five Year Club at dev.to",
+  "description": "Today marks 5 years of me being on dev.to",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k0sgfENT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txwjv8jebfu8bmxuy295.png",
+  "slug": "five-year-club-at-devto-9oi",
+  "url": "https://dev.to/nikola/five-year-club-at-devto-9oi",
+  "publish_date": "2022-02-23",
+  "published_at": "2022-02-23T13:05:38Z"
+ },
+ {
+  "id": 998434,
+  "title": "Why I stepped out of my first startup",
+  "description": "This is not a story about a startup that raised millions and grew exponentially. This is a story...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0QfZdhsl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h2tiff7azvhx9hgdg50k.jpg",
+  "slug": "why-i-stepped-out-of-my-first-startup-1bj3",
+  "url": "https://dev.to/smeetsmeister/why-i-stepped-out-of-my-first-startup-1bj3",
+  "publish_date": "2022-02-23",
+  "published_at": "2022-02-23T07:03:18Z"
+ },
+ {
+  "id": 998151,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-1452",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1452",
+  "publish_date": "2022-02-23",
+  "published_at": "2022-02-23T01:30:07Z"
+ },
+ {
   "id": 997722,
   "title": "How to set up a one-page check-out flow in Next.js",
   "description": "Introduction   Medusa is an open source headless ecommerce platform that enables you to set...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alvaromontoro/drawing-an-animated-3d-store-front-with-css-9ff",
   "publish_date": "2021-11-15",
   "published_at": "2021-11-15T02:50:37Z"
- },
- {
-  "id": 897669,
-  "title": "How to toggle Dark/Light Mode using JavaScript",
-  "description": "Hello, I am back with a new amazing article on Toggle Dark / Light Mode   Let's get started 🚀       ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TKu6OduA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88qyg5r3x19ckl3in7ch.png",
-  "slug": "how-to-toggle-darklight-mode-using-javascript-2ecn",
-  "url": "https://dev.to/snowbit/how-to-toggle-darklight-mode-using-javascript-2ecn",
-  "publish_date": "2021-11-14",
-  "published_at": "2021-11-14T07:13:57Z"
- },
- {
-  "id": 897584,
-  "title": "DOMs Decoded: DOM, Shadow DOM \u0026 Virtual DOM",
-  "description": "The Document Object Model (DOM) is one of the fundamental concepts of web development, but it is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6TS6jPgM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ra4acmf5a1pw1ywyduvz.png",
-  "slug": "doms-decoded-dom-shadow-dom-virtual-dom-28c",
-  "url": "https://dev.to/ruppysuppy/doms-decoded-dom-shadow-dom-virtual-dom-28c",
-  "publish_date": "2021-11-14",
-  "published_at": "2021-11-14T04:46:56Z"
- },
- {
-  "id": 879517,
-  "title": "CSS Tricks to Create that Dark Futuristic Web3 Look",
-  "description": "This dark mode web3 aesthetic looks very cool and futuristic. They all have some common designs that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G9FJ6Xy7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/231ym0fk3tljlhwb9ioo.png",
-  "slug": "css-tricks-to-create-that-dark-futuristic-web3-look-53bm",
-  "url": "https://dev.to/trishathecookie/css-tricks-to-create-that-dark-futuristic-web3-look-53bm",
-  "publish_date": "2021-11-14",
-  "published_at": "2021-11-14T01:28:49Z"
- },
- {
-  "id": 897567,
-  "title": "How do I make sure API is secure?",
-  "description": "One of the member in webmatrices forum asked \"How do I make sure that the API I built is secure from...",
-  "cover_image": "",
-  "slug": "how-do-i-make-sure-api-is-secure-2iao",
-  "url": "https://dev.to/bishwasbh/how-do-i-make-sure-api-is-secure-2iao",
-  "publish_date": "2021-11-14",
-  "published_at": "2021-11-14T01:18:40Z"
- },
- {
-  "id": 897489,
-  "title": "Cool dashboard side menu using CSS and JavaScript",
-  "description": "In this article, we will create a cool dashboard side menu that you can use in your web projects....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g4Cv2Rg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/smvkru3vavu89hh66ujz.png",
-  "slug": "cool-dashboard-side-menu-using-css-and-javascript-2cgk",
-  "url": "https://dev.to/romaopedro199/cool-dashboard-side-menu-using-css-and-javascript-2cgk",
-  "publish_date": "2021-11-14",
-  "published_at": "2021-11-14T00:37:30Z"
  }
 ]
