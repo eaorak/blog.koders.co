@@ -1,5 +1,55 @@
 [
  {
+  "id": 1000297,
+  "title": "Building an Apache ECharts dashboard with React and Cube",
+  "description": "This guest post was written by Osinachi Chukwujama. He is a web developer and technical writer. He...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CGIo4EV9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i7bq8q92wl28q26rl35u.png",
+  "slug": "building-an-apache-echarts-dashboard-with-react-and-cube-45i3",
+  "url": "https://dev.to/cubejs/building-an-apache-echarts-dashboard-with-react-and-cube-45i3",
+  "publish_date": "2022-02-24",
+  "published_at": "2022-02-24T15:02:06Z"
+ },
+ {
+  "id": 1000284,
+  "title": "Make Your Portfolio Stand Out",
+  "description": "Recruiters get HUNDREDS of job applications everyday, but none of them stand out.  Having an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--APRC9I5S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4u82bf702imc8jtshag.png",
+  "slug": "make-your-portfolio-stand-out-2mbb",
+  "url": "https://dev.to/portfoliodesigners/make-your-portfolio-stand-out-2mbb",
+  "publish_date": "2022-02-24",
+  "published_at": "2022-02-24T14:35:52Z"
+ },
+ {
+  "id": 1000003,
+  "title": "It *IS* possible to get a voice here! [tips to grow on DEV.to + a mini rant!]",
+  "description": "I was reading a post about how hard it is to gain traction on DEV a couple of days ago, go give it a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I02VThCz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/etgm775l5zhe7zv3jmse.jpg",
+  "slug": "it-is-possible-to-get-a-voice-here-tips-to-grow-on-devto-a-mini-rant-27n6",
+  "url": "https://dev.to/inhuofficial/it-is-possible-to-get-a-voice-here-tips-to-grow-on-devto-a-mini-rant-27n6",
+  "publish_date": "2022-02-24",
+  "published_at": "2022-02-24T14:08:12Z"
+ },
+ {
+  "id": 1000051,
+  "title": "Difference Between \u003cbr\u003e and \u003cbr/\u003e Tag in HTML\n\n\n",
+  "description": "Introduction   Suppose you want your webpage to show the below message with the same format,...",
+  "cover_image": "",
+  "slug": "difference-between-and-tag-in-html-5350",
+  "url": "https://dev.to/scalertopics/difference-between-and-tag-in-html-5350",
+  "publish_date": "2022-02-24",
+  "published_at": "2022-02-24T11:09:14Z"
+ },
+ {
+  "id": 999783,
+  "title": "Introducing CropScore: An Image Cropper for Content Creators ✂✨",
+  "description": "If you are a content creator, the chances are you have come across stretched, shrank, non-centered or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W44fGAHL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m7nuq3vm2mw6x9v5nr1w.png",
+  "slug": "introducing-cropscore-an-image-cropper-for-content-creators-2o41",
+  "url": "https://dev.to/madza/introducing-cropscore-an-image-cropper-for-content-creators-2o41",
+  "publish_date": "2022-02-24",
+  "published_at": "2022-02-24T08:25:32Z"
+ },
+ {
   "id": 998796,
   "title": "10 JetBrains Extensions to Fight Technical Debt🥷",
   "description": "My last article on 10 VS Code Extensions to Fight Technical Debt got over 50.000 views and 500...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/100mslive/build-a-discord-stage-channel-clone-with-100ms-and-nextjs-5heb",
   "publish_date": "2021-11-16",
   "published_at": "2021-11-16T07:26:30Z"
- },
- {
-  "id": 898531,
-  "title": "I created a terminal style website.",
-  "description": "Link: https://m4tt72.com Repo: https://github.com/m4tt72/terminal           Why?   I'm a Linux...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EfW_DTP8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyaxn9qf8qcexnij3yh1.jpeg",
-  "slug": "i-created-a-terminal-style-website-1jb2",
-  "url": "https://dev.to/m4tt72/i-created-a-terminal-style-website-1jb2",
-  "publish_date": "2021-11-15",
-  "published_at": "2021-11-15T08:38:22Z"
- },
- {
-  "id": 898512,
-  "title": "Understanding callback functions and closures in JavaScript.",
-  "description": "Hello Everyone,  In this post we will explore the HOF (Higher order function), Callbacks, and the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t3vTKAVt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mxgjzmmobrioxfxyp1f.png",
-  "slug": "understanding-callback-functions-and-closures-in-javascript-154l",
-  "url": "https://dev.to/swastikyadav/understanding-callback-functions-and-closures-in-javascript-154l",
-  "publish_date": "2021-11-15",
-  "published_at": "2021-11-15T08:09:07Z"
- },
- {
-  "id": 890925,
-  "title": "Bad ReactJs practices to avoid",
-  "description": "There are plenty of articles and blogs that contain useful information on how to do things the right...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H0JjbmyW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/all1ic2gjcejwpy9q79d.png",
-  "slug": "bad-reactjs-practices-to-avoid-a1b",
-  "url": "https://dev.to/bornfightcompany/bad-reactjs-practices-to-avoid-a1b",
-  "publish_date": "2021-11-15",
-  "published_at": "2021-11-15T06:29:10Z"
- },
- {
-  "id": 892301,
-  "title": "How To: Build A Simple Search Bar in JavaScript",
-  "description": "Hi Everyone!  Today, we will be walking through how to build a functional, yet very simple search bar...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wadEF_-2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kmkmc4ptzcd9eltb4v5f.jpg",
-  "slug": "how-to-build-a-simple-search-bar-in-javascript-4onf",
-  "url": "https://dev.to/am20dipi/how-to-build-a-simple-search-bar-in-javascript-4onf",
-  "publish_date": "2021-11-15",
-  "published_at": "2021-11-15T03:35:15Z"
- },
- {
-  "id": 898341,
-  "title": "Drawing an animated 3D store front with CSS",
-  "description": "Drawing an animated 3D store front with CSS (with video and demo)",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m8wc4r4p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i3c0x6k0j0vg1mo5b1te.png",
-  "slug": "drawing-an-animated-3d-store-front-with-css-9ff",
-  "url": "https://dev.to/alvaromontoro/drawing-an-animated-3d-store-front-with-css-9ff",
-  "publish_date": "2021-11-15",
-  "published_at": "2021-11-15T02:50:37Z"
  }
 ]
