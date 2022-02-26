@@ -1,5 +1,55 @@
 [
  {
+  "id": 1000799,
+  "title": "Read XKCD in the terminal with some bash magic",
+  "description": "XKCD is probably the most popular webcomic with Devs. It only seems right that you can read it from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mEzJCjOX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q4tmw4xbom0xyrikkqzo.png",
+  "slug": "read-xkcd-in-the-terminal-with-some-bash-magic-1i4j",
+  "url": "https://dev.to/robole/read-xkcd-in-the-terminal-with-some-bash-magic-1i4j",
+  "publish_date": "2022-02-25",
+  "published_at": "2022-02-25T10:54:26Z"
+ },
+ {
+  "id": 1001212,
+  "title": "Build and deploy a real-time react chat app in under 10 minutes",
+  "description": "In this article, you will learn how to use IHP Backend's react API to build a chat application like...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oQOeMpk---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sx6174ivkqvhrkzgzbfj.png",
+  "slug": "build-and-deploy-a-real-time-react-chat-app-in-under-10-minutes-2gie",
+  "url": "https://dev.to/digitallyinduced/build-and-deploy-a-real-time-react-chat-app-in-under-10-minutes-2gie",
+  "publish_date": "2022-02-25",
+  "published_at": "2022-02-25T10:11:07Z"
+ },
+ {
+  "id": 1001071,
+  "title": "Jest Mocking Cheatsheet",
+  "description": "Here are a few useful Jest mocking snippets which help me get through the day.  I bet you’re all like...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xNkaGgLu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4wa2p018usa9q3er7bc.jpg",
+  "slug": "jest-mocking-cheatsheet-fca",
+  "url": "https://dev.to/mbarzeev/jest-mocking-cheatsheet-fca",
+  "publish_date": "2022-02-25",
+  "published_at": "2022-02-25T07:46:32Z"
+ },
+ {
+  "id": 991790,
+  "title": "My Juspay Internship Experience",
+  "description": "This article is about my internship at Juspay.  Juspay is a leading fintech company in India. Their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vBQzaStS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fg7veb1ydelg6mqxwb24.jpeg",
+  "slug": "my-juspay-internship-experience-46pc",
+  "url": "https://dev.to/kitarp/my-juspay-internship-experience-46pc",
+  "publish_date": "2022-02-25",
+  "published_at": "2022-02-25T07:08:07Z"
+ },
+ {
+  "id": 1000946,
+  "title": "How writing 700 articles changed my life",
+  "description": "It's been a while since I've done one of these celebration posts. The last one was when I wrote 500...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8GUEvm3x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n30m3lmaa0he74c3knib.jpg",
+  "slug": "how-writing-700-articles-changed-my-life-3k8d",
+  "url": "https://dev.to/dailydevtips1/how-writing-700-articles-changed-my-life-3k8d",
+  "publish_date": "2022-02-25",
+  "published_at": "2022-02-25T04:11:42Z"
+ },
+ {
   "id": 1000297,
   "title": "Building an Apache ECharts dashboard with React and Cube",
   "description": "This guest post was written by Osinachi Chukwujama. He is a web developer and technical writer. He...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alexomeyer/top-20-web-development-learning-resources-from-beginner-to-advanced-4h8a",
   "publish_date": "2021-11-17",
   "published_at": "2021-11-17T09:35:14Z"
- },
- {
-  "id": 899684,
-  "title": "Building a responsive navbar component in Tailwind CSS",
-  "description": "I've been using Tailwind CSS quite a lot lately for my web projects, however, one disadvantage that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LYRsO148--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5x8qoczv3cmtuex7whik.png",
-  "slug": "building-a-responsive-navbar-component-in-tailwind-css-1jmh",
-  "url": "https://dev.to/themesberg/building-a-responsive-navbar-component-in-tailwind-css-1jmh",
-  "publish_date": "2021-11-16",
-  "published_at": "2021-11-16T11:54:13Z"
- },
- {
-  "id": 899616,
-  "title": "300+ React Interview Questions 🔥",
-  "description": "Do you want to make a career change to something more lucrative? Or have you been putting in a lot of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ck_OvmMH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7xp327puff909uogee4.png",
-  "slug": "300-react-interview-questions-4dag",
-  "url": "https://dev.to/aviyel/300-react-interview-questions-4dag",
-  "publish_date": "2021-11-16",
-  "published_at": "2021-11-16T09:43:11Z"
- },
- {
-  "id": 897860,
-  "title": "javascript - Everything you always wanted to know about localStorage (but you were afraid to ask)",
-  "description": "What is the localStorage?   The localStorage is a read-only property of the window interface...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--evViQdYk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/durkj0gm2oqg7gnw5qet.png",
-  "slug": "javascript-everything-you-always-wanted-to-know-about-localstorage-but-you-were-afraid-to-ask-2o7e",
-  "url": "https://dev.to/josec/javascript-everything-you-always-wanted-to-know-about-localstorage-but-you-were-afraid-to-ask-2o7e",
-  "publish_date": "2021-11-16",
-  "published_at": "2021-11-16T08:12:18Z"
- },
- {
-  "id": 899576,
-  "title": "CSS Animation Simplified!",
-  "description": "CSS animations are a module that lets you animate the element which changes the element from one...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p92Y_IuE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3yu2eulrwucmapgh7kxb.png",
-  "slug": "css-animation-simplified-2g0i",
-  "url": "https://dev.to/ansub/css-animation-simplified-2g0i",
-  "publish_date": "2021-11-16",
-  "published_at": "2021-11-16T07:52:27Z"
- },
- {
-  "id": 899442,
-  "title": "Build a Discord stage channel clone with 100ms and Next.js",
-  "description": "Ever since the Clubhouse app rose to fame, the popularity of drop-in audio-only rooms has been...",
-  "cover_image": "",
-  "slug": "build-a-discord-stage-channel-clone-with-100ms-and-nextjs-5heb",
-  "url": "https://dev.to/100mslive/build-a-discord-stage-channel-clone-with-100ms-and-nextjs-5heb",
-  "publish_date": "2021-11-16",
-  "published_at": "2021-11-16T07:26:30Z"
  }
 ]
