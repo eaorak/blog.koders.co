@@ -1,5 +1,55 @@
 [
  {
+  "id": 1001820,
+  "title": "Should Frontend Devs Care About Performance??",
+  "description": "I was recently talking to an architect at Amazon and he made a very interesting comment to me.  We...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1QULGcme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xxo5nbnplde50lj1nehb.png",
+  "slug": "should-frontend-devs-care-about-performance-3eg1",
+  "url": "https://dev.to/bytebodger/should-frontend-devs-care-about-performance-3eg1",
+  "publish_date": "2022-02-27",
+  "published_at": "2022-02-27T18:31:29Z"
+ },
+ {
+  "id": 1003157,
+  "title": "Convert nested JSON to simple JSON in Javascript",
+  "description": "This will be the very much used utility function we almost regularly use.   Depends on the data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rMl-z7-V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vm5fvx2706zxxiu0kjta.png",
+  "slug": "convert-nested-json-to-simple-json-in-javascript-4a34",
+  "url": "https://dev.to/urstrulyvishwak/convert-nested-json-to-simple-json-in-javascript-4a34",
+  "publish_date": "2022-02-27",
+  "published_at": "2022-02-27T13:59:12Z"
+ },
+ {
+  "id": 994450,
+  "title": "How to Turn Your Python Machine Learning Code Into a Web App",
+  "description": "What if I told you that there's an easy way to turn your Python Machine Learning code into an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4HPdKaGe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7bt6mhq1n4rylzy4rezj.gif",
+  "slug": "how-to-turn-your-python-machine-learning-code-into-a-web-app-2hfc",
+  "url": "https://dev.to/code_jedi/how-to-turn-your-python-machine-learning-code-into-a-web-app-2hfc",
+  "publish_date": "2022-02-27",
+  "published_at": "2022-02-27T11:46:48Z"
+ },
+ {
+  "id": 1002982,
+  "title": "How To Become a DevOps Engineer in 2022",
+  "description": "DevOps—or the smooth integration of development (Dev) and operations (Ops) teams to more effectively...",
+  "cover_image": "",
+  "slug": "how-to-become-a-devops-engineer-in-2022-5gd2",
+  "url": "https://dev.to/rophilogene/how-to-become-a-devops-engineer-in-2022-5gd2",
+  "publish_date": "2022-02-27",
+  "published_at": "2022-02-27T08:58:05Z"
+ },
+ {
+  "id": 1002869,
+  "title": "Am I Smart Enough?",
+  "description": "Prior to deciding I wanted to be a software engineer, I was a fashion designer, real estate...",
+  "cover_image": "",
+  "slug": "am-i-smart-enough-ffe",
+  "url": "https://dev.to/marilia/am-i-smart-enough-ffe",
+  "publish_date": "2022-02-27",
+  "published_at": "2022-02-27T05:21:58Z"
+ },
+ {
   "id": 1002393,
   "title": "13 Placeholder Avatar \u0026 Image Websites",
   "description": "Introduction   Placeholder images and avatars are something that almost every web developer...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gabrlcj/react-router-v6-some-of-the-new-changes-181m",
   "publish_date": "2021-11-19",
   "published_at": "2021-11-19T04:11:54Z"
- },
- {
-  "id": 892403,
-  "title": "You MUST store this Javascript Operator Index",
-  "description": "Here is a list of javascript operator and how to use it!  You should mark this and use it when you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7fYwTVpV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c4f092svr25nfrjdexo4.jpg",
-  "slug": "you-must-store-this-javascript-operator-index-2bec",
-  "url": "https://dev.to/codeoz/you-must-store-this-javascript-operator-index-2bec",
-  "publish_date": "2021-11-18",
-  "published_at": "2021-11-18T18:04:09Z"
- },
- {
-  "id": 901789,
-  "title": "A One Piece of CSS Art!",
-  "description": "After my first \"draft\" of Livaï Ackerman, I am back with another CSS art and this time I am exploring...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OOcR3V0B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jsmj5ig23g1s109glfwz.png",
-  "slug": "a-one-piece-of-css-art-225l",
-  "url": "https://dev.to/afif/a-one-piece-of-css-art-225l",
-  "publish_date": "2021-11-18",
-  "published_at": "2021-11-18T13:49:03Z"
- },
- {
-  "id": 901564,
-  "title": "Leverage Postman to Consume APIs Using OAuth2",
-  "description": "My Fellow Developers -  If you haven’t heard about Postman yet, get ready to become close friends...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZU3VkMnP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jxvnlii4sc0avxiajw9j.png",
-  "slug": "leverage-postman-to-consume-apis-using-oauth2-707",
-  "url": "https://dev.to/entando/leverage-postman-to-consume-apis-using-oauth2-707",
-  "publish_date": "2021-11-18",
-  "published_at": "2021-11-18T09:22:48Z"
- },
- {
-  "id": 901537,
-  "title": "Template String Types as Discriminants in Typescript 4.5",
-  "description": "Typescript 4.5 was just released and one of the features that stood out to me is the Template String...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nuV9bcG9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w916o47267re0icjj3u6.jpg",
-  "slug": "template-string-types-as-discriminants-in-typescript-45-4fdi",
-  "url": "https://dev.to/this-is-learning/template-string-types-as-discriminants-in-typescript-45-4fdi",
-  "publish_date": "2021-11-18",
-  "published_at": "2021-11-18T08:21:00Z"
- },
- {
-  "id": 901467,
-  "title": "Difference between forEach and map.",
-  "description": "Javascript has some handy methods which is usefull to iterate arrays.The most two common methods is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vLoylKX0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0daowvc08dwp6v2ztgdi.png",
-  "slug": "difference-between-foreach-and-map-2674",
-  "url": "https://dev.to/jyothiprakashk/difference-between-foreach-and-map-2674",
-  "publish_date": "2021-11-18",
-  "published_at": "2021-11-18T05:03:19Z"
  }
 ]
