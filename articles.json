@@ -1,5 +1,55 @@
 [
  {
+  "id": 1004855,
+  "title": "Getting into software testing with Jest ",
+  "description": "Starting from open-source projects to enterprise software, most softwares have a huge codebase. Don't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K63zpJpS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ceejllk88fnx0sy48ty3.jpeg",
+  "slug": "getting-into-software-testing-with-jest-2ca0",
+  "url": "https://dev.to/aniket762/getting-into-software-testing-with-jest-2ca0",
+  "publish_date": "2022-03-01",
+  "published_at": "2022-03-01T19:46:24Z"
+ },
+ {
+  "id": 1005501,
+  "title": "CodeLand 2022 is coming in June! Submit Your Talk Today🌈",
+  "description": "Cross-Posted From CodeNewbie Community  The CodeNewbie team is thrilled to share that the tech...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_rqFaQL4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://community.codenewbie.org/remoteimages/uploads/articles/6y2rtusrt3su0oxr1awa.png",
+  "slug": "codeland-2022-is-coming-in-june-submit-your-talk-today-4h4",
+  "url": "https://dev.to/codenewbieteam/codeland-2022-is-coming-in-june-submit-your-talk-today-4h4",
+  "publish_date": "2022-03-01",
+  "published_at": "2022-03-01T17:34:03Z"
+ },
+ {
+  "id": 1005176,
+  "title": "19 Valuable GitHub Repositories for Beginner Developers 📚✨",
+  "description": "I have often been asked what resources would I recommend for beginners looking to step their foot...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wG_kkqwd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t9e1h7yrhamwwiym4bun.png",
+  "slug": "19-valuable-github-repositories-for-beginner-developers-3i18",
+  "url": "https://dev.to/madza/19-valuable-github-repositories-for-beginner-developers-3i18",
+  "publish_date": "2022-03-01",
+  "published_at": "2022-03-01T11:57:38Z"
+ },
+ {
+  "id": 1005101,
+  "title": "5 Secret features of JSON you didn't know about 🤯",
+  "description": "I'm pretty sure you have used the global JSON object for a variety of things, like in fetch requests...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pRmuYTMA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zhesaxgqsgh7su1rx8pu.png",
+  "slug": "5-secret-features-of-json-you-didnt-know-about-5bbg",
+  "url": "https://dev.to/siddharthshyniben/5-secret-features-of-json-you-didnt-know-about-5bbg",
+  "publish_date": "2022-03-01",
+  "published_at": "2022-03-01T10:24:19Z"
+ },
+ {
+  "id": 946811,
+  "title": "Understanding closures in JavaScript",
+  "description": "As a developer, one of the great things about working in this field is that you are learning new...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kcRA3J5J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yi2030hp8l2qfxtyvydn.jpg",
+  "slug": "understanding-closures-in-javascript-1ph",
+  "url": "https://dev.to/dcsl-guidesmiths/understanding-closures-in-javascript-1ph",
+  "publish_date": "2022-03-01",
+  "published_at": "2022-03-01T09:28:48Z"
+ },
+ {
   "id": 996666,
   "title": "Share Your 2022 #SheCoded Story to Donate $20 to Closing the Tech Gender Gap",
   "description": "Our Annual International Women's Day Celebration is back and more impactful than ever",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/5-effective-ways-to-grab-users-attention-3m1m",
   "publish_date": "2021-11-21",
   "published_at": "2021-11-21T04:33:55Z"
- },
- {
-  "id": 902814,
-  "title": "How to Create a Notification/Toast using React and Tailwind",
-  "description": "Overview   One of the most important components to communicate something more effectively...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EkOXJWYk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8wxkq1rtyk12czia8bxj.png",
-  "slug": "how-to-create-a-notificationtoast-using-react-and-tailwind-545o",
-  "url": "https://dev.to/franciscomendes10866/how-to-create-a-notificationtoast-using-react-and-tailwind-545o",
-  "publish_date": "2021-11-20",
-  "published_at": "2021-11-20T14:58:29Z"
- },
- {
-  "id": 903954,
-  "title": "🌎 Track Twitter Trends of any country or town in the world ",
-  "description": "The Problem   When it comes to viewing what's trending on twitter of some other location...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VXYRZwDq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/he0e1jom8o7ntpd95wg0.png",
-  "slug": "track-twitter-trends-of-any-country-or-town-in-the-world-28b2",
-  "url": "https://dev.to/ayush_singh_dev/track-twitter-trends-of-any-country-or-town-in-the-world-28b2",
-  "publish_date": "2021-11-20",
-  "published_at": "2021-11-20T12:47:45Z"
- },
- {
-  "id": 903764,
-  "title": "Top 10 Websites to find Remote Jobs",
-  "description": "Hello, everyone  Nomadev  here, back with another blog on tech. Today I will be sharing the top 10...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PuLY0UsR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nznmmpmf7fbcnuxbtnfo.jpg",
-  "slug": "top-10-websites-to-find-remote-jobs-f7i",
-  "url": "https://dev.to/thenomadevel/top-10-websites-to-find-remote-jobs-f7i",
-  "publish_date": "2021-11-20",
-  "published_at": "2021-11-20T08:12:52Z"
- },
- {
-  "id": 903596,
-  "title": "Java – A brief note.",
-  "description": "Hey everyone, this is just an article portraying some basics of Java. Those who are new to Java,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bJt00D5L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otsoxtal9uevlyozsnnj.png",
-  "slug": "java-a-brief-note-39hc",
-  "url": "https://dev.to/mahadev_k/java-a-brief-note-39hc",
-  "publish_date": "2021-11-20",
-  "published_at": "2021-11-20T07:14:44Z"
- },
- {
-  "id": 903607,
-  "title": "Responsive Design CSS tips",
-  "description": "Hi folks, hope you are doing well. In this post I am going to share you some tips that I personally...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RKYHkS8c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ixwf8ldladua3cp6edl.png",
-  "slug": "responsive-design-css-tips-nhj",
-  "url": "https://dev.to/fidalmathew/responsive-design-css-tips-nhj",
-  "publish_date": "2021-11-20",
-  "published_at": "2021-11-20T03:22:21Z"
  }
 ]
