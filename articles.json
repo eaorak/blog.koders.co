@@ -1,5 +1,55 @@
 [
  {
+  "id": 1006873,
+  "title": "Migrating a legacy application from MongoDB to HarperDB",
+  "description": "A few weeks ago I gave a talk at the HarperDB channel about how we can migrate a legacy application...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tvrJMfvG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gc4xorwdvnt0asmumw1t.jpg",
+  "slug": "migrating-a-legacy-application-from-mongodb-to-harperdb-4cca",
+  "url": "https://dev.to/khaosdoctor/migrating-a-legacy-application-from-mongodb-to-harperdb-4cca",
+  "publish_date": "2022-03-02",
+  "published_at": "2022-03-02T19:51:23Z"
+ },
+ {
+  "id": 1006315,
+  "title": "Material Design Color Palette Generator",
+  "description": "Creating beautiful, consistent color palettes is hard. You have to find the right colors and make...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q2f1-g9d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zmgg0lrm09mhasp9cq0n.jpeg",
+  "slug": "material-design-color-palette-generator-3dhp",
+  "url": "https://dev.to/colortools/material-design-color-palette-generator-3dhp",
+  "publish_date": "2022-03-02",
+  "published_at": "2022-03-02T12:03:53Z"
+ },
+ {
+  "id": 1005406,
+  "title": "Top 7+ Node.js React Templates and Themes for Your Admin Panel",
+  "description": "The appearance of Node.js became the new era for JavaScript because of the opportunity to synchronize frontend and backend.",
+  "cover_image": "",
+  "slug": "top-7-nodejs-react-templates-and-themes-for-your-admin-panel-4h9h",
+  "url": "https://dev.to/flatlogic/top-7-nodejs-react-templates-and-themes-for-your-admin-panel-4h9h",
+  "publish_date": "2022-03-02",
+  "published_at": "2022-03-02T09:56:13Z"
+ },
+ {
+  "id": 1006224,
+  "title": "How to install Tailwind CSS with Svelte and Flowbite",
+  "description": "Svelte is a modern and growing front-end compiler. Developers build boilerplate-free components using...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UT9vk18e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6fy3kztwx8czyqeknvle.png",
+  "slug": "how-to-install-tailwind-css-with-svelte-and-flowbite-2eje",
+  "url": "https://dev.to/themesberg/how-to-install-tailwind-css-with-svelte-and-flowbite-2eje",
+  "publish_date": "2022-03-02",
+  "published_at": "2022-03-02T08:59:23Z"
+ },
+ {
+  "id": 1006040,
+  "title": "Javascript: Spread Operators CheetSheet  ",
+  "description": "You might have heard about this Spread Operators and be are using it too in everyday Developement....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rJCm6kUD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/58wvth2b5s3zbnreyr2z.png",
+  "slug": "javascript-spread-operators-cheetsheet-2c8o",
+  "url": "https://dev.to/msabir/javascript-spread-operators-cheetsheet-2c8o",
+  "publish_date": "2022-03-02",
+  "published_at": "2022-03-02T06:36:08Z"
+ },
+ {
   "id": 1004855,
   "title": "Getting into software testing with Jest ",
   "description": "Starting from open-source projects to enterprise software, most softwares have a huge codebase. Don't...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/srbhr/level-up-your-github-with-github-actions-and-kubernetes-with-srprinciple-dev-from-red-hat-5d6h",
   "publish_date": "2021-11-22",
   "published_at": "2021-11-22T03:26:03Z"
- },
- {
-  "id": 899406,
-  "title": "Different ways to connect react frontend and node backend",
-  "description": "There are different ways to connect react backend and NodeJS frontend. In this blog, I am going to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AdCXPBbQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0xb9raf3wkes6rpqabg.png",
-  "slug": "different-ways-to-connect-react-frontend-and-node-backend-1pik",
-  "url": "https://dev.to/rakeshpotnuru/different-ways-to-connect-react-frontend-and-node-backend-1pik",
-  "publish_date": "2021-11-21",
-  "published_at": "2021-11-21T09:33:08Z"
- },
- {
-  "id": 903570,
-  "title": "Simple Commands in Linux That Will Make You Feel Like a Pro",
-  "description": "Linux is a very popular and interesting operating system (OS), especially for programmers. The Linux...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QZ_la4kr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z1sb8jaytd7koezll0d5.jpg",
-  "slug": "simple-commands-in-linux-that-will-make-you-feel-like-a-pro-3nde",
-  "url": "https://dev.to/abstract/simple-commands-in-linux-that-will-make-you-feel-like-a-pro-3nde",
-  "publish_date": "2021-11-21",
-  "published_at": "2021-11-21T04:58:09Z"
- },
- {
-  "id": 904387,
-  "title": "Different ways for User Authentication with NodeJS Part - 2 (JWT)",
-  "description": "So this is the part 2 of the User Authentication with NodeJS. You can check out the Part - 1 here. In...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7cJA_mLn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xo470fguf4myu8ohrnzi.jpg",
-  "slug": "different-ways-for-user-authentication-with-nodejs-part-2-jwt-3h0p",
-  "url": "https://dev.to/lavig10/different-ways-for-user-authentication-with-nodejs-part-2-jwt-3h0p",
-  "publish_date": "2021-11-21",
-  "published_at": "2021-11-21T04:46:47Z"
- },
- {
-  "id": 897847,
-  "title": "OOPS in JavaScript with easy to understand examples 🔥🔥",
-  "description": "Introduction   In this article, we will learn and use Object-Oriented Programming (OOP)...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6hYj9ZXf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mduo835gq3vtzq5yaw52.png",
-  "slug": "oops-in-javascript-with-easy-to-understand-examples-2ppn",
-  "url": "https://dev.to/nehal_mahida/oops-in-javascript-with-easy-to-understand-examples-2ppn",
-  "publish_date": "2021-11-21",
-  "published_at": "2021-11-21T04:35:12Z"
- },
- {
-  "id": 904363,
-  "title": "5 Effective ways to Grab Users' Attention",
-  "description": "As the saying goes:   Where attention goes, money follows   It is of utmost importance to effectively...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8XyLa83e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ge7p7gh5ew6na0dnahf2.png",
-  "slug": "5-effective-ways-to-grab-users-attention-3m1m",
-  "url": "https://dev.to/ruppysuppy/5-effective-ways-to-grab-users-attention-3m1m",
-  "publish_date": "2021-11-21",
-  "published_at": "2021-11-21T04:33:55Z"
  }
 ]
