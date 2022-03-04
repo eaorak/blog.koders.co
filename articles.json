@@ -1,5 +1,55 @@
 [
  {
+  "id": 998814,
+  "title": "How I Found the Best Posting Times on dev.to With NodeJS(+ Usable Code)",
+  "description": "One thing that bothers a lot of creators(including me) is, well, what if I post at the wrong time?...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--60PwhrVB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ot0ox673tyiingfdiuc3.gif",
+  "slug": "how-i-found-the-best-posting-times-on-devto-with-nodejs-usable-code-18m8",
+  "url": "https://dev.to/code_jedi/how-i-found-the-best-posting-times-on-devto-with-nodejs-usable-code-18m8",
+  "publish_date": "2022-03-03",
+  "published_at": "2022-03-03T13:14:17Z"
+ },
+ {
+  "id": 1005469,
+  "title": " 4 Tips I Wish I Knew 10 Years Ago",
+  "description": "Hey, fellow developers!  What advice would you give to yourself if you could travel back in time?...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7KL8u-FM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n9bxwwz94g3bgfi8d94y.png",
+  "slug": "4-tips-i-wish-i-knew-10-years-ago-2h8k",
+  "url": "https://dev.to/entando/4-tips-i-wish-i-knew-10-years-ago-2h8k",
+  "publish_date": "2022-03-03",
+  "published_at": "2022-03-03T12:44:57Z"
+ },
+ {
+  "id": 1006320,
+  "title": "Create an NFT Collection Website Landing Page in ReactJS🔴",
+  "description": "Hey there👋,  I saw some cool animations and effects on different websites few days ago. So I made...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TvjQD0wB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmz32jqh80imuybmr9a3.png",
+  "slug": "create-nft-collection-website-landing-page-in-reactjs-1jnl",
+  "url": "https://dev.to/codebucks/create-nft-collection-website-landing-page-in-reactjs-1jnl",
+  "publish_date": "2022-03-03",
+  "published_at": "2022-03-03T09:21:55Z"
+ },
+ {
+  "id": 1007463,
+  "title": "tsParticles 1.41.6 Released",
+  "description": "tsParticles 1.41.5 Changelog            Bug Fixes    Fixed emitters issues, some presets...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---lnTY12z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/85e8x1rpt0syk7gs6clc.jpg",
+  "slug": "tsparticles-1416-released-3jo",
+  "url": "https://dev.to/matteobruni/tsparticles-1416-released-3jo",
+  "publish_date": "2022-03-03",
+  "published_at": "2022-03-03T08:49:20Z"
+ },
+ {
+  "id": 1007420,
+  "title": "The Forgotten Rule In Software Development: Why Fundamentals Never Change",
+  "description": "Note: You can read the article or watch the video directly on YouTube here.    In the 19th century,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ejjf6zP9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rcf61a7yt73i4muberpt.jpeg",
+  "slug": "the-forgotten-rule-in-software-development-why-fundamentals-never-change-30ob",
+  "url": "https://dev.to/dragosnedelcu/the-forgotten-rule-in-software-development-why-fundamentals-never-change-30ob",
+  "publish_date": "2022-03-03",
+  "published_at": "2022-03-03T08:05:18Z"
+ },
+ {
   "id": 1006873,
   "title": "Migrating a legacy application from MongoDB to HarperDB",
   "description": "A few weeks ago I gave a talk at the HarperDB channel about how we can migrate a legacy application...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/yash_makan/18-python-one-liners-that-will-speed-up-your-coding-process-21md",
   "publish_date": "2021-11-23",
   "published_at": "2021-11-23T05:41:19Z"
- },
- {
-  "id": 899862,
-  "title": "2021 Best Black Friday Deals for Web Developers",
-  "description": "As Halloween has come and gone, Thanksgiving and Black Friday are upon us. The holiday season is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nch-2Ow0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uheqsoviy1npf4p8gv24.png",
-  "slug": "2021-best-black-friday-deals-for-web-developers-3g5h",
-  "url": "https://dev.to/andrewdejackson/2021-best-black-friday-deals-for-web-developers-3g5h",
-  "publish_date": "2021-11-22",
-  "published_at": "2021-11-22T08:44:57Z"
- },
- {
-  "id": 905141,
-  "title": "The JavaScript Switch Statement Explained with Examples ",
-  "description": "When learning any programming language, you will come across the concept of control flow. This is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C5-cjTaC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jmoiipd6b52esn5zhqm8.png",
-  "slug": "the-javascript-switch-statement-explained-with-examples-5b8p",
-  "url": "https://dev.to/larymak/the-javascript-switch-statement-explained-with-examples-5b8p",
-  "publish_date": "2021-11-22",
-  "published_at": "2021-11-22T05:40:04Z"
- },
- {
-  "id": 902261,
-  "title": "Infer in TypeScript, the Great and Powerful",
-  "description": "Let's talk about the infer keyword in TypeScript. I believe, there're a lot of developers, who've...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_YpnuBfG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8a6k8ysiq1pbxgukm00o.png",
-  "slug": "infer-in-typescript-the-great-and-powerful-5cch",
-  "url": "https://dev.to/artemmalko/infer-in-typescript-the-great-and-powerful-5cch",
-  "publish_date": "2021-11-22",
-  "published_at": "2021-11-22T04:46:17Z"
- },
- {
-  "id": 903578,
-  "title": "JavaScript Tips to Improve Your Webpage Performance",
-  "description": "One of the most important things, when you're building a website, is ensuring its good performance....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--REh-RKLT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1wkumo2hobocu4ozdkne.jpg",
-  "slug": "javascript-tips-to-improve-your-webpage-performance-h26",
-  "url": "https://dev.to/markfusion/javascript-tips-to-improve-your-webpage-performance-h26",
-  "publish_date": "2021-11-22",
-  "published_at": "2021-11-22T04:45:16Z"
- },
- {
-  "id": 904846,
-  "title": "Level up your GitHub with GitHub Actions and Kubernetes, with Sr. Principle Dev from Red Hat ",
-  "description": "Watch Senior Principle Developer Karan Singh talk about the recipe to level up your software...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cTAZVuyP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcgnd7gy54s048og24lg.png",
-  "slug": "level-up-your-github-with-github-actions-and-kubernetes-with-srprinciple-dev-from-red-hat-5d6h",
-  "url": "https://dev.to/srbhr/level-up-your-github-with-github-actions-and-kubernetes-with-srprinciple-dev-from-red-hat-5d6h",
-  "publish_date": "2021-11-22",
-  "published_at": "2021-11-22T03:26:03Z"
  }
 ]
