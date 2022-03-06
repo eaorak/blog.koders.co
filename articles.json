@@ -1,5 +1,55 @@
 [
  {
+  "id": 1010902,
+  "title": "Java for Beginners: Introduction to Java",
+  "description": "What is JAVA?   Java is a high-level, third generation programming language, like C,C++,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jf49PXY2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8u764f6ke53kf70eu4no.PNG",
+  "slug": "java-for-beginners-introduction-to-java-36kn",
+  "url": "https://dev.to/killallnano/java-for-beginners-introduction-to-java-36kn",
+  "publish_date": "2022-03-05",
+  "published_at": "2022-03-05T11:02:44Z"
+ },
+ {
+  "id": 1010823,
+  "title": "Important Javascript functions you have to know to be a better developer",
+  "description": "I everybody, today I am going to show examples of few important Javascript functions.           DEEP...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l3IvYJ-H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uktaueo0xvjmrmkpjo8c.jpeg",
+  "slug": "important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8",
+  "url": "https://dev.to/asapsonter/important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8",
+  "publish_date": "2022-03-05",
+  "published_at": "2022-03-05T09:31:18Z"
+ },
+ {
+  "id": 1007259,
+  "title": "The Intricate Art of Being Yourself",
+  "description": "We don't observe how we grow up and a lot of events and interactions that form our future selves...",
+  "cover_image": "",
+  "slug": "the-intricate-art-of-being-yourself-2loi",
+  "url": "https://dev.to/valeriavg/the-intricate-art-of-being-yourself-2loi",
+  "publish_date": "2022-03-05",
+  "published_at": "2022-03-05T08:09:19Z"
+ },
+ {
+  "id": 1010546,
+  "title": "Does GraphQL replace REST API ?",
+  "description": "GraphQL is gaining popularity because of its ability to develop APIs more efficiently, powerful, and...",
+  "cover_image": "",
+  "slug": "does-graphql-replace-rest-api--50fm",
+  "url": "https://dev.to/pratham10/does-graphql-replace-rest-api--50fm",
+  "publish_date": "2022-03-05",
+  "published_at": "2022-03-05T05:39:02Z"
+ },
+ {
+  "id": 1010312,
+  "title": "#HowTo - Making a Neumorphism portfolio",
+  "description": "Hey Devs,   It's good to see you again. from this post I will tell you how to use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UASw_EgV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bly6bwl258bv1mjt9a1b.png",
+  "slug": "howto-making-a-neumorphism-portfolio-5h1m",
+  "url": "https://dev.to/rededge967/howto-making-a-neumorphism-portfolio-5h1m",
+  "publish_date": "2022-03-05",
+  "published_at": "2022-03-05T01:16:18Z"
+ },
+ {
   "id": 1009186,
   "title": "So I got a job 🎉...and I am as shocked as you are! 🤯",
   "description": "Yes, you heard me right I got a job as a content creator! 15 years self-employed and someone finally...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rohidhub/top-10-vscode-extensions-for-react-57g6",
   "publish_date": "2021-11-25",
   "published_at": "2021-11-25T06:05:45Z"
- },
- {
-  "id": 906734,
-  "title": "3 Ways to CENTER a div in CSS",
-  "description": "3 ways to center a div in HTML/CSS!!           With Position      /* Using positions */  .parent {   ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g3zqxkO3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oiets1j1ibobjol3034t.jpeg",
-  "slug": "3-ways-to-center-a-div-in-css-gl1",
-  "url": "https://dev.to/codeoz/3-ways-to-center-a-div-in-css-gl1",
-  "publish_date": "2021-11-24",
-  "published_at": "2021-11-24T15:11:19Z"
- },
- {
-  "id": 907911,
-  "title": "VS Code extensions to increase your Productivity",
-  "description": "Hey everyone, here's another VS Code extensions post that'll help you boost your productivity and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jZqx_Dny--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7tmywmmsb02vpqas0fwq.png",
-  "slug": "vs-code-extensions-to-increase-your-productivity-eeb",
-  "url": "https://dev.to/harishash/vs-code-extensions-to-increase-your-productivity-eeb",
-  "publish_date": "2021-11-24",
-  "published_at": "2021-11-24T14:59:19Z"
- },
- {
-  "id": 907431,
-  "title": "Understanding the OOPs paradigm in JavaScript.",
-  "description": "Hello Everyone,  In this post we will explore the object oriented programming paradigm in JavaScript....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MGCQ8jMP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zj3tpeji12wpk40sqolr.jpg",
-  "slug": "understanding-the-oops-paradigm-in-javascript-3mn2",
-  "url": "https://dev.to/swastikyadav/understanding-the-oops-paradigm-in-javascript-3mn2",
-  "publish_date": "2021-11-24",
-  "published_at": "2021-11-24T06:50:53Z"
- },
- {
-  "id": 907412,
-  "title": "Advanced Javascript Design Patterns",
-  "description": "Overview    I have covered here 20+ design patterns explanations in javascript. We will be...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_SCyoKQz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nu1vuucpfvhkblml2af2.jpeg",
-  "slug": "advanced-javascript-design-patterns-4k8l",
-  "url": "https://dev.to/dhiwise/advanced-javascript-design-patterns-4k8l",
-  "publish_date": "2021-11-24",
-  "published_at": "2021-11-24T06:03:57Z"
- },
- {
-  "id": 907287,
-  "title": "Writing Clean JavaScript — ES6 Edition",
-  "description": "Clean code is not just code that works, but rather code that can be easily read, reused, and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CGLlTw7u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/65srt5jy8rfffocel913.jpeg",
-  "slug": "writing-clean-javascript-es6-edition-5eci",
-  "url": "https://dev.to/allaboutishaan/writing-clean-javascript-es6-edition-5eci",
-  "publish_date": "2021-11-24",
-  "published_at": "2021-11-24T01:17:20Z"
  }
 ]
