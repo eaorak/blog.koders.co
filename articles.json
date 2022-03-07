@@ -1,5 +1,55 @@
 [
  {
+  "id": 928284,
+  "title": "On Levelling Up",
+  "description": "Storytime for your career doldrums",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--50YNjPUH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://archives.bulbagarden.net/media/upload/d/df/Evolution_VIII.png",
+  "slug": "on-levelling-up-1i3f",
+  "url": "https://dev.to/jenc/on-levelling-up-1i3f",
+  "publish_date": "2022-03-06",
+  "published_at": "2022-03-06T15:28:38Z"
+ },
+ {
+  "id": 1012732,
+  "title": "Modifying rehype autolink headings",
+  "description": "In the previous article, we introduced a table of contents in our markdown files. For this, we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T6LgeVBa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l3u0m51r8yy0nm0962l4.jpg",
+  "slug": "modifying-rehype-autolink-headings-440d",
+  "url": "https://dev.to/dailydevtips1/modifying-rehype-autolink-headings-440d",
+  "publish_date": "2022-03-06",
+  "published_at": "2022-03-06T13:29:21Z"
+ },
+ {
+  "id": 1012336,
+  "title": "I made a Node.js colors library in 192 bytes minzipped (+ code explanation!)",
+  "description": "A few minutes ago, I published PlanckColors. It's probably the smallest node module for colors on the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VSdWZLXX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1ubiy8w49j2tmuw48qj.png",
+  "slug": "i-made-a-nodejs-colors-library-in-192-bytes-minzipped-code-explanation-196i",
+  "url": "https://dev.to/siddharthshyniben/i-made-a-nodejs-colors-library-in-192-bytes-minzipped-code-explanation-196i",
+  "publish_date": "2022-03-06",
+  "published_at": "2022-03-06T10:19:50Z"
+ },
+ {
+  "id": 1012323,
+  "title": "Enhance your terminal experience on Windows",
+  "description": "Are you still using the Command Prompt on your Windows machine? It really feels like the relic of the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQkRLqVC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yzf657u1i5ym5juuorae.png",
+  "slug": "enhance-your-terminal-experience-on-windows-f8e",
+  "url": "https://dev.to/duncanlew/enhance-your-terminal-experience-on-windows-f8e",
+  "publish_date": "2022-03-06",
+  "published_at": "2022-03-06T09:56:37Z"
+ },
+ {
+  "id": 1011948,
+  "title": "Escaping X InnerHTML",
+  "description": "any comments HIGHLY appreciated; feedback/questions welcome!               Escape and Data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_sr5q5pO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7p1p0rwhbw5089ytnvu.jpg",
+  "slug": "escaping-x-innerhtml-3fbl",
+  "url": "https://dev.to/skywrithin/escaping-x-innerhtml-3fbl",
+  "publish_date": "2022-03-06",
+  "published_at": "2022-03-06T04:00:20Z"
+ },
+ {
   "id": 1010902,
   "title": "Java for Beginners: Introduction to Java",
   "description": "What is JAVA?   Java is a high-level, third generation programming language, like C,C++,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/__junaidshah/interview-questions-for-js-4a4m",
   "publish_date": "2021-11-26",
   "published_at": "2021-11-26T05:32:10Z"
- },
- {
-  "id": 906917,
-  "title": "I made a working Gameboy CSS art: try it out 🕹",
-  "description": "Here is the story. Last year, I went to an interview (for an Angular position) and the interviewer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hSRt_0VR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2hu13aojhgh6hgtpm12.png",
-  "slug": "i-made-a-working-gameboy-css-art-try-it-out-4m1j",
-  "url": "https://dev.to/mustapha/i-made-a-working-gameboy-css-art-try-it-out-4m1j",
-  "publish_date": "2021-11-25",
-  "published_at": "2021-11-25T15:19:55Z"
- },
- {
-  "id": 908584,
-  "title": "How to become a Frontend Developer in 2022",
-  "description": "Your complete guide to become a professional frontend developer in 2021. Learn these skills, tools, and tech for frontend development in 2022",
-  "cover_image": "",
-  "slug": "how-to-become-a-frontend-developer-in-2022-4k0h",
-  "url": "https://dev.to/javinpaul/how-to-become-a-frontend-developer-in-2022-4k0h",
-  "publish_date": "2021-11-25",
-  "published_at": "2021-11-25T08:50:05Z"
- },
- {
-  "id": 907888,
-  "title": "Faster! Optimizing React app to the bone",
-  "description": "In Tolgee platform, we manage translations. So our most important view is a list of translations,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2g0rDv52--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0yk1ia6k34nmblk4cqrf.png",
-  "slug": "faster-optimizing-react-app-to-the-bone-21kc",
-  "url": "https://dev.to/tolgee_i18n/faster-optimizing-react-app-to-the-bone-21kc",
-  "publish_date": "2021-11-25",
-  "published_at": "2021-11-25T06:54:55Z"
- },
- {
-  "id": 908538,
-  "title": "🚀 A powerful drag and drop implementation in just 16 lines of JavaScript",
-  "description": "Drag and drop is a very useful tool in applications as it can simplify a large part of the process...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n8bmH_Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txwj8wdjnowig11vbyf8.png",
-  "slug": "a-powerful-drag-and-drop-implementation-in-just-16-lines-of-javascript-d5d",
-  "url": "https://dev.to/siddharthshyniben/a-powerful-drag-and-drop-implementation-in-just-16-lines-of-javascript-d5d",
-  "publish_date": "2021-11-25",
-  "published_at": "2021-11-25T06:44:02Z"
- },
- {
-  "id": 908510,
-  "title": "Top 10 VSCode Extensions for React",
-  "description": "What will be covered here?   We will be covering 10 essential visual studio code extensions...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BHjidqFo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nl99gqs1vgnslxdaeagw.png",
-  "slug": "top-10-vscode-extensions-for-react-57g6",
-  "url": "https://dev.to/rohidhub/top-10-vscode-extensions-for-react-57g6",
-  "publish_date": "2021-11-25",
-  "published_at": "2021-11-25T06:05:45Z"
  }
 ]
