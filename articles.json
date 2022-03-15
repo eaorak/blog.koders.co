@@ -1,5 +1,55 @@
 [
  {
+  "id": 1022551,
+  "title": "The 5 Guidelines to Write Cleaner Code in C#",
+  "description": "Your C# code should be as easy to read and understand as possible, but this can often be difficult...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LKGTUk71--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ivbqbo7xm43966klza69.png",
+  "slug": "the-5-guidelines-to-write-cleaner-code-in-c-fid",
+  "url": "https://dev.to/dotnetsafer/the-5-guidelines-to-write-cleaner-code-in-c-fid",
+  "publish_date": "2022-03-14",
+  "published_at": "2022-03-14T16:01:44Z"
+ },
+ {
+  "id": 1022315,
+  "title": "Traditional Education vs Self Taught Route in Programming (2022 edition)",
+  "description": "This blog post will be written from the self taught programmer's perspective. Backstory: after I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--twsCcB-q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nz7qvzd91c2ez8r4aap6.jpeg",
+  "slug": "traditional-education-vs-self-taught-route-in-programming-2022-edition-355n",
+  "url": "https://dev.to/bornfightcompany/traditional-education-vs-self-taught-route-in-programming-2022-edition-355n",
+  "publish_date": "2022-03-14",
+  "published_at": "2022-03-14T14:23:30Z"
+ },
+ {
+  "id": 965741,
+  "title": "Create your own URL shortener with Next.js and MongoDB in 10 Minutes",
+  "description": "Motivation   A few weeks back, I was working on a Twitter bot to post my popular articles...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X9D2wQDO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fjhm3pew8twv7suf3cin.png",
+  "slug": "create-your-own-url-shortener-with-nextjs-and-mongodb-in-10-minutes-4fg",
+  "url": "https://dev.to/anshuman_bhardwaj/create-your-own-url-shortener-with-nextjs-and-mongodb-in-10-minutes-4fg",
+  "publish_date": "2022-03-14",
+  "published_at": "2022-03-14T09:39:40Z"
+ },
+ {
+  "id": 1006890,
+  "title": "Best Free Resources to Learn Web3/Blockchain Development",
+  "description": "Introduction   Web3 is very popular right now. Web3 developers are earning more than web2...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Za39E7s6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4xul5wj59add4esxg8d6.png",
+  "slug": "best-free-resources-to-learn-web3blockchain-development-243l",
+  "url": "https://dev.to/abdulmaajid/best-free-resources-to-learn-web3blockchain-development-243l",
+  "publish_date": "2022-03-14",
+  "published_at": "2022-03-14T07:50:46Z"
+ },
+ {
+  "id": 1015110,
+  "title": "8 🍨 Sweet Treats 🍨 in Modern C#",
+  "description": "C# through the Ages     Many, many eons ago ✨, C# 'twas but an archaic, OOP focused...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cIpxRZLe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oqy9wgjo4oxbbvogt18u.jpg",
+  "slug": "8-new-things-in-modern-c-1a2b",
+  "url": "https://dev.to/htissink/8-new-things-in-modern-c-1a2b",
+  "publish_date": "2022-03-14",
+  "published_at": "2022-03-14T07:07:50Z"
+ },
+ {
   "id": 1021488,
   "title": "20 Productivity Tips From Developers to Developers",
   "description": "*header pic by Kelsey Wroten  Being a developer is not easy – it is a mentally demanding job that...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/markfusion/the-future-of-coding-is-no-code-1cpk",
   "publish_date": "2021-12-04",
   "published_at": "2021-12-04T03:29:24Z"
- },
- {
-  "id": 914903,
-  "title": "Javascript academy #2: Closures ",
-  "description": "Welcome to this new academy! In this I will NOT explain you javascript from scratch, the aim of this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NUVRkvuw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g44wowa5a0sv2csyuc5t.png",
-  "slug": "javascript-academy-2-closures-2j78",
-  "url": "https://dev.to/codeoz/javascript-academy-2-closures-2j78",
-  "publish_date": "2021-12-03",
-  "published_at": "2021-12-03T14:01:59Z"
- },
- {
-  "id": 916399,
-  "title": "Mistakes I made while learning Web Development as a beginner",
-  "description": "This blog is all about mistakes I made while learning Full Stack Web Development as a beginner. I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--akqTl0zS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e02psy20nbpdeq4a2ggx.jpg",
-  "slug": "mistakes-i-made-while-learning-web-development-as-a-beginner-4m7n",
-  "url": "https://dev.to/harshitaditya1/mistakes-i-made-while-learning-web-development-as-a-beginner-4m7n",
-  "publish_date": "2021-12-03",
-  "published_at": "2021-12-03T12:42:58Z"
- },
- {
-  "id": 916221,
-  "title": "Cloud Technology News of the Month: November 2021",
-  "description": "Already feeling the vibe of this year’s festive season? Here’s some fresh cloud technology news to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oiDdQ9QB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqut3qavxqbs9cjddesi.jpeg",
-  "slug": "cloud-technology-news-of-the-month-november-2021-464g",
-  "url": "https://dev.to/castai/cloud-technology-news-of-the-month-november-2021-464g",
-  "publish_date": "2021-12-03",
-  "published_at": "2021-12-03T08:10:29Z"
- },
- {
-  "id": 916161,
-  "title": "12 Tools Web Developers can Learn in 2022",
-  "description": "These are essential tools for frontend and backend development in 2022 and every web developer should learn it. Includes IDEs, REST API testing and debugging tools",
-  "cover_image": "",
-  "slug": "12-tools-web-developers-can-learn-in-2022-3ia9",
-  "url": "https://dev.to/javinpaul/12-tools-web-developers-can-learn-in-2022-3ia9",
-  "publish_date": "2021-12-03",
-  "published_at": "2021-12-03T05:51:09Z"
- },
- {
-  "id": 916055,
-  "title": "To improve your technical skills, become a concept collector!\n",
-  "description": "One of the best pieces of engineering advice my dad ever gave me was: \"𝐅𝐨𝐜𝐮𝐬 𝐨𝐧 𝐭𝐡𝐞 𝐜𝐨𝐧𝐜𝐞𝐩𝐭𝐬 𝐚𝐧𝐝...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J21xJcKg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zi8juwrbjyi9ss5l141u.png",
-  "slug": "to-improve-your-technical-skills-become-a-concept-collector-p8j",
-  "url": "https://dev.to/brinascode/to-improve-your-technical-skills-become-a-concept-collector-p8j",
-  "publish_date": "2021-12-03",
-  "published_at": "2021-12-03T03:07:44Z"
  }
 ]
