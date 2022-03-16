@@ -1,5 +1,55 @@
 [
  {
+  "id": 1019903,
+  "title": "JavaScript Array Method Cheat Sheet (17 must-know methods) 📄",
+  "description": "Having useful array methods at the top of your head will improve your problem solving ability.  So I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tXGU2Upv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/41ws8krsmldruftnjydh.jpg",
+  "slug": "javascript-array-method-cheat-sheet-17-must-know-methods-441g",
+  "url": "https://dev.to/doabledanny/javascript-array-method-cheat-sheet-17-must-know-methods-441g",
+  "publish_date": "2022-03-15",
+  "published_at": "2022-03-15T17:57:14Z"
+ },
+ {
+  "id": 1002200,
+  "title": "Appwrite Storage meets limitless S3",
+  "description": "Appwrite is an open source backend-as-a-service that abstracts all the complexity involved in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R0Rcqr-G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9qbqhmp2nczqjnx6n42v.png",
+  "slug": "appwrite-storage-meets-limitless-s3-1g89",
+  "url": "https://dev.to/appwrite/appwrite-storage-meets-limitless-s3-1g89",
+  "publish_date": "2022-03-15",
+  "published_at": "2022-03-15T14:43:04Z"
+ },
+ {
+  "id": 1023442,
+  "title": "Create Your Open Source Ecommerce Store using Medusa and Next.js",
+  "description": "Medusa is an open source headless commerce platform giving engineers the foundation for building...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NA954Zql--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jgo38idehxtw753oe3kz.png",
+  "slug": "create-your-open-source-ecommerce-store-using-medusa-and-nextjs-1b4d",
+  "url": "https://dev.to/medusajs/create-your-open-source-ecommerce-store-using-medusa-and-nextjs-1b4d",
+  "publish_date": "2022-03-15",
+  "published_at": "2022-03-15T12:06:51Z"
+ },
+ {
+  "id": 1023416,
+  "title": "Destructive arguments used in technology discussions on social media that have to die",
+  "description": "These are some antipatterns in communication about technology on social media we shouldn't use any longer.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AzYmcdQD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rve1sp69aqe615u2ufjt.png",
+  "slug": "destructive-arguments-used-in-technology-discussions-on-social-media-that-have-to-die-2oop",
+  "url": "https://dev.to/codepo8/destructive-arguments-used-in-technology-discussions-on-social-media-that-have-to-die-2oop",
+  "publish_date": "2022-03-15",
+  "published_at": "2022-03-15T11:32:41Z"
+ },
+ {
+  "id": 1023017,
+  "title": "Working alone is so exhausting so I created my own assistant",
+  "description": "Working alone is great... but... I am so tired of dealing with all of these.. these shitty...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kr8EOknr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gbwp3fmc52tiy8iheaqn.jpg",
+  "slug": "working-alone-is-so-exhausting-so-i-created-my-own-assistant-4mki",
+  "url": "https://dev.to/happping_min/working-alone-is-so-exhausting-so-i-created-my-own-assistant-4mki",
+  "publish_date": "2022-03-15",
+  "published_at": "2022-03-15T02:18:47Z"
+ },
+ {
   "id": 1022551,
   "title": "The 5 Guidelines to Write Cleaner Code in C#",
   "description": "Your C# code should be as easy to read and understand as possible, but this can often be difficult...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/maniruzzamanakash/make-react-higher-order-component-hoc-an-easy-one-2noa",
   "publish_date": "2021-12-05",
   "published_at": "2021-12-05T02:04:40Z"
- },
- {
-  "id": 917327,
-  "title": "How to integrate Husky, ESLint, Prettier to project in less than 15 minutes (step-by-step guide)",
-  "description": "Usage of code formatter increases the readability of code and helps to keep the same style in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eyyPOiRz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27xwyfl12bqjx2edj5s7.png",
-  "slug": "how-to-integrate-husky-eslint-prettier-to-project-in-less-than-15-minutes-5gh",
-  "url": "https://dev.to/smetankajakub/how-to-integrate-husky-eslint-prettier-to-project-in-less-than-15-minutes-5gh",
-  "publish_date": "2021-12-04",
-  "published_at": "2021-12-04T11:58:03Z"
- },
- {
-  "id": 917288,
-  "title": "5 GitHub Repositories for learning developers...",
-  "description": "For programmers and budding developers, GitHub is always the first choice to explore and learn new...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-vzCbDu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pbnt6je65qcewj68n48w.jpg",
-  "slug": "5-github-repositories-for-learning-developers-4kn6",
-  "url": "https://dev.to/crater90/5-github-repositories-for-learning-developers-4kn6",
-  "publish_date": "2021-12-04",
-  "published_at": "2021-12-04T10:44:36Z"
- },
- {
-  "id": 917206,
-  "title": "Why Frontend Developers Should Learn Firebase in 2022",
-  "description": "Frontend developers can learn Firebase to create dummy backend where they call API and interact with database with having to wait for actual backend to be ready,",
-  "cover_image": "",
-  "slug": "why-frontend-developers-should-learn-firebase-in-2022-1kga",
-  "url": "https://dev.to/javinpaul/why-frontend-developers-should-learn-firebase-in-2022-1kga",
-  "publish_date": "2021-12-04",
-  "published_at": "2021-12-04T09:38:50Z"
- },
- {
-  "id": 818191,
-  "title": "Building a Robot Friend from a McDonald's Toy",
-  "description": "How a simple McDonald's toy ended up providing a nice development challenge.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sgnVC30C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2yylmjejg4i7dz2pcvm.png",
-  "slug": "building-a-robot-friend-from-a-mcdonalds-toy-lgm",
-  "url": "https://dev.to/alvaromontoro/building-a-robot-friend-from-a-mcdonalds-toy-lgm",
-  "publish_date": "2021-12-04",
-  "published_at": "2021-12-04T05:36:25Z"
- },
- {
-  "id": 917032,
-  "title": "The Future of Coding is 'No Code'",
-  "description": "What's in your mind when you think about building some sort of Startup or App. Probably, your answer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bT2TcWSg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rbb5rmeakwtvrq5pkofk.jpg",
-  "slug": "the-future-of-coding-is-no-code-1cpk",
-  "url": "https://dev.to/markfusion/the-future-of-coding-is-no-code-1cpk",
-  "publish_date": "2021-12-04",
-  "published_at": "2021-12-04T03:29:24Z"
  }
 ]
