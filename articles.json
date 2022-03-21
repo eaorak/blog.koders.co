@@ -1,5 +1,55 @@
 [
  {
+  "id": 1028054,
+  "title": "React best practices and patterns to reduce code - Part 3",
+  "description": "This is 3rd the article about React best practices, If you have not read my previous articles,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aunPgx8Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfqpc6qmbn1rth2hchkj.png",
+  "slug": "react-best-practices-and-patterns-to-reduce-code-part-3-4bh1",
+  "url": "https://dev.to/devsmitra/react-best-practices-and-patterns-to-reduce-code-part-3-4bh1",
+  "publish_date": "2022-03-20",
+  "published_at": "2022-03-20T17:30:43Z"
+ },
+ {
+  "id": 1028418,
+  "title": "Essential Layout Components For Your Design System",
+  "description": "If your app uses a component based library/framework like React, Vue, or Svelte, leverage the power...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zGh0adyD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pba5049v4hhvwxazi6b7.png",
+  "slug": "essential-layout-components-for-your-design-system-26p",
+  "url": "https://dev.to/nayaabkhan/essential-layout-components-for-your-design-system-26p",
+  "publish_date": "2022-03-20",
+  "published_at": "2022-03-20T09:25:20Z"
+ },
+ {
+  "id": 1028523,
+  "title": "React useEffect cleanup",
+  "description": "React's useEffect hook is a super hook to run side effects. You might be wondering what kind of side...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xd2lYok_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gzzdvv6qphymxxz912ei.jpg",
+  "slug": "react-useeffect-cleanup-4ha8",
+  "url": "https://dev.to/dailydevtips1/react-useeffect-cleanup-4ha8",
+  "publish_date": "2022-03-20",
+  "published_at": "2022-03-20T08:18:50Z"
+ },
+ {
+  "id": 1028430,
+  "title": "How to make a beautiful gradient scroll bar with CSS",
+  "description": "Introduction   In this article, we will explain how to make a custom scrollbar in CSS....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S9E0vaAD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8k18zp4jqadx7rsul70i.png",
+  "slug": "how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
+  "url": "https://dev.to/codewithsnowbit/how-to-make-a-beautiful-gradient-scroll-bar-with-css-1fh2",
+  "publish_date": "2022-03-20",
+  "published_at": "2022-03-20T05:37:08Z"
+ },
+ {
+  "id": 1028394,
+  "title": "6 Killer Productivity Apps for Programmers",
+  "description": "With the rise of \"instant-dopamine-hit\" applications, the current attention span of humans has...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F9tG7HS0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7r6saohqxmhcihymcgjh.png",
+  "slug": "6-killer-productivity-apps-for-programmers-2ieo",
+  "url": "https://dev.to/ruppysuppy/6-killer-productivity-apps-for-programmers-2ieo",
+  "publish_date": "2022-03-20",
+  "published_at": "2022-03-20T02:49:28Z"
+ },
+ {
   "id": 1028084,
   "title": "How to build personal portfolio using HTML CSS JavaScript",
   "description": "How to build personal portfolio using HTML CSS JavaScript  In this video, I will show you how to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/notsidney/how-and-why-you-should-store-react-ui-state-in-the-url-34pi",
   "publish_date": "2021-12-10",
   "published_at": "2021-12-10T02:50:19Z"
- },
- {
-  "id": 921362,
-  "title": "Learnings from React Conf 2021",
-  "description": "I recently had the opportunity to join the digital React Conf 2021 and listen to some talks from a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgO1GZE6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x7pzwieb30ejnhd9d94x.png",
-  "slug": "learnings-from-react-conf-2021-17lg",
-  "url": "https://dev.to/alexeagleson/learnings-from-react-conf-2021-17lg",
-  "publish_date": "2021-12-09",
-  "published_at": "2021-12-09T14:24:54Z"
- },
- {
-  "id": 921551,
-  "title": "10 Best Websites to become a React.js Developer in 2022",
-  "description": "These are the best websites and platforms to learn React.js online in 2022. These websites also contains free resources which you can use to become a React Developer in 2022. ",
-  "cover_image": "",
-  "slug": "10-best-websites-to-learn-reactjs-in-2022-1o6d",
-  "url": "https://dev.to/javinpaul/10-best-websites-to-learn-reactjs-in-2022-1o6d",
-  "publish_date": "2021-12-09",
-  "published_at": "2021-12-09T05:58:46Z"
- },
- {
-  "id": 915649,
-  "title": "Typing Effect with typed.js",
-  "description": "As you may have already seen some website which has some kind of typing animation. It looks cool...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JKCiU0Ye--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yk3eegw62ojxoh7yq2s0.png",
-  "slug": "typing-effect-with-js-34b8",
-  "url": "https://dev.to/j471n/typing-effect-with-js-34b8",
-  "publish_date": "2021-12-09",
-  "published_at": "2021-12-09T04:26:24Z"
- },
- {
-  "id": 921359,
-  "title": "Using GitHub Actions to turn contributors into heroes of an open source game",
-  "description": "My submission to the GitHub Actions x DEV Hackathon 2021! Experience your contribution from the inside in this open source game.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hANU0ajK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/wusuFL2.png",
-  "slug": "using-github-actions-to-turn-contributors-into-heroes-of-an-open-source-game-4cei",
-  "url": "https://dev.to/paulasantamaria/using-github-actions-to-turn-contributors-into-heroes-of-an-open-source-game-4cei",
-  "publish_date": "2021-12-09",
-  "published_at": "2021-12-09T01:05:34Z"
- },
- {
-  "id": 921462,
-  "title": "How I Review Pull Requests",
-  "description": "Someone in my Virtual Coffee community asked about getting better at reviewing pull requests (PR)...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XuDzaAIL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iz97ilpuk9knd74mixxu.jpeg",
-  "slug": "how-i-review-pull-requests-44nl",
-  "url": "https://dev.to/nickytonline/how-i-review-pull-requests-44nl",
-  "publish_date": "2021-12-09",
-  "published_at": "2021-12-09T00:57:44Z"
  }
 ]
