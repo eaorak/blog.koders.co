@@ -1,5 +1,55 @@
 [
  {
+  "id": 1018817,
+  "title": "Conquering JavaScript Hydration",
+  "description": "That is an ambitious title for an article. An ambitious goal in general. Hydration, the process of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JrHFWE0Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkj767b9i035yoarigij.jpg",
+  "slug": "conquering-javascript-hydration-a9f",
+  "url": "https://dev.to/ryansolid/conquering-javascript-hydration-a9f",
+  "publish_date": "2022-03-21",
+  "published_at": "2022-03-21T14:50:07Z"
+ },
+ {
+  "id": 1018259,
+  "title": "GitLive now works with any Git repository in VS Code!",
+  "description": "We are happy to announce GitLive now works, out-of-the-box in offline mode, with any Git repository...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j6y-beJd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mo8z86ztibzghzqdi5en.png",
+  "slug": "gitlive-now-works-with-any-git-repository-in-vs-code-304o",
+  "url": "https://dev.to/gitlive/gitlive-now-works-with-any-git-repository-in-vs-code-304o",
+  "publish_date": "2022-03-21",
+  "published_at": "2022-03-21T12:50:35Z"
+ },
+ {
+  "id": 1005710,
+  "title": "Becoming a Better Developer Through Open Source",
+  "description": "Recently, we at Appwrite hosted a Twitter Space on Becoming A Better Developer Through Open Source...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6WCD1HI6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5m73omkbnm8m7huweaa6.png",
+  "slug": "becoming-a-better-developer-through-open-source-39ki",
+  "url": "https://dev.to/appwrite/becoming-a-better-developer-through-open-source-39ki",
+  "publish_date": "2022-03-21",
+  "published_at": "2022-03-21T10:52:52Z"
+ },
+ {
+  "id": 1024160,
+  "title": "How I Got Hired at Amazon",
+  "description": "So I got hired at Amazon...  I wanted to write this post because 1) my previous posts may have given...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xUSyXOZH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q4ytcv7y01brtd73a8aa.jpg",
+  "slug": "how-i-got-hired-at-amazon-3ajl",
+  "url": "https://dev.to/bytebodger/how-i-got-hired-at-amazon-3ajl",
+  "publish_date": "2022-03-21",
+  "published_at": "2022-03-21T08:38:32Z"
+ },
+ {
+  "id": 1020475,
+  "title": "Visual Studio Code - Tips \u0026 Tricks - Snippets",
+  "description": "If you used to adopt Visual Studio in the past probably you already know something about...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EH05ueMl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ok4d9r0uf5699w497791.png",
+  "slug": "visual-studio-code-tips-tricks-snippets-5041",
+  "url": "https://dev.to/this-is-learning/visual-studio-code-tips-tricks-snippets-5041",
+  "publish_date": "2022-03-21",
+  "published_at": "2022-03-21T07:53:21Z"
+ },
+ {
   "id": 1028054,
   "title": "React best practices and patterns to reduce code - Part 3",
   "description": "This is 3rd the article about React best practices, If you have not read my previous articles,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/free_one/vs-code-aesthetics-2ce5",
   "publish_date": "2021-12-11",
   "published_at": "2021-12-11T01:06:45Z"
- },
- {
-  "id": 922069,
-  "title": "🚀10 Trending projects on GitHub for web developers - 10th December 2021",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-10th-december-2021-28l1",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-10th-december-2021-28l1",
-  "publish_date": "2021-12-10",
-  "published_at": "2021-12-10T14:56:15Z"
- },
- {
-  "id": 911737,
-  "title": "What's the difference between a GitHub Action and a Workflow?",
-  "description": "The GitHub Actions Hackathon has just concluded. Congrats to everyone who submitted an Action....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dMpnYKR1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4s14xi24avki915gn4oq.png",
-  "slug": "whats-the-difference-between-a-github-action-and-a-workflow-2gba",
-  "url": "https://dev.to/github/whats-the-difference-between-a-github-action-and-a-workflow-2gba",
-  "publish_date": "2021-12-10",
-  "published_at": "2021-12-10T11:31:55Z"
- },
- {
-  "id": 922641,
-  "title": "AWS Karpenter - Is the AWS Open Source Kubernetes Autoscaler Right for You?",
-  "description": "AWS has just made a new open-source tool called Karpenter generally available. I will dig into how it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R5uF2xBU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvn6eowkvx1s2q4fe2ff.jpeg",
-  "slug": "aws-karpenter-is-the-aws-open-source-kubernetes-autoscaler-right-for-you-60c",
-  "url": "https://dev.to/castai/aws-karpenter-is-the-aws-open-source-kubernetes-autoscaler-right-for-you-60c",
-  "publish_date": "2021-12-10",
-  "published_at": "2021-12-10T10:53:34Z"
- },
- {
-  "id": 922587,
-  "title": "GUI in Python Using Tkinter",
-  "description": "GUI in Python   Python libraries to create Graphical Interfaces :   Tkinter Python...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EkqcE2ic--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/26fy1r4kyznqqoaa7f45.png",
-  "slug": "gui-in-python-using-tkinter-gfa",
-  "url": "https://dev.to/anjalikumawat2002/gui-in-python-using-tkinter-gfa",
-  "publish_date": "2021-12-10",
-  "published_at": "2021-12-10T08:11:11Z"
- },
- {
-  "id": 920394,
-  "title": "How and why you should store React UI state in the URL",
-  "description": "Deep linking in React, as simple as useState   Have you ever used a complex web app with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dV6SQrwK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ecpo4kbfry4wayj614w.png",
-  "slug": "how-and-why-you-should-store-react-ui-state-in-the-url-34pi",
-  "url": "https://dev.to/notsidney/how-and-why-you-should-store-react-ui-state-in-the-url-34pi",
-  "publish_date": "2021-12-10",
-  "published_at": "2021-12-10T02:50:19Z"
  }
 ]
