@@ -1,5 +1,55 @@
 [
  {
+  "id": 1035565,
+  "title": "Top developer newsletters",
+  "description": "Here is a curated list of newsletters that I like, they are all vetted 💯.          ...",
+  "cover_image": "",
+  "slug": "top-developer-newsletters-g8b",
+  "url": "https://dev.to/agamm/top-developer-newsletters-g8b",
+  "publish_date": "2022-04-02",
+  "published_at": "2022-04-02T18:33:29Z"
+ },
+ {
+  "id": 1021847,
+  "title": "All React Hooks and Concepts In A Single Post!! 🤗",
+  "description": "First of all React is a JS Library not a Complete Framework 🙂 so for making a complete web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FmjjO-lB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e79bvdtj04yxomtm65h8.png",
+  "slug": "all-react-hooks-and-concepts-in-a-single-post-1daf",
+  "url": "https://dev.to/nyctonio/all-react-hooks-and-concepts-in-a-single-post-1daf",
+  "publish_date": "2022-04-02",
+  "published_at": "2022-04-02T13:09:34Z"
+ },
+ {
+  "id": 1042481,
+  "title": "Ways to Reduce your Front-End Codes",
+  "description": "Here, several approaches will be introduced to reduce your front-end code base, especially, for...",
+  "cover_image": "",
+  "slug": "ways-to-reduce-your-front-end-codes-30hl",
+  "url": "https://dev.to/zhcalvin/ways-to-reduce-your-front-end-codes-30hl",
+  "publish_date": "2022-04-02",
+  "published_at": "2022-04-02T11:44:18Z"
+ },
+ {
+  "id": 1038766,
+  "title": "13 Typescript Utility: A Cheat Sheet for Developer",
+  "description": "Typescript is very powerful in terms of type checking, but sometime it gets tedious when some types...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BFfjnZwN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mu2ulhvf8evbndzoxeqo.gif",
+  "slug": "13-typescript-utility-a-cheat-sheet-for-developer-ab3",
+  "url": "https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3",
+  "publish_date": "2022-04-02",
+  "published_at": "2022-04-02T07:15:44Z"
+ },
+ {
+  "id": 1042213,
+  "title": "Adding Jest tests to a project",
+  "description": "Now that we are talking about testing, let's try out Jest, a pretty well-used testing framework for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hv6uNR-c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ueg0cblu9qc45emxj3v.jpg",
+  "slug": "adding-jest-tests-to-a-project-3hai",
+  "url": "https://dev.to/dailydevtips1/adding-jest-tests-to-a-project-3hai",
+  "publish_date": "2022-04-02",
+  "published_at": "2022-04-02T05:14:24Z"
+ },
+ {
   "id": 1041850,
   "title": "Building and distributing a command line tool in Golang",
   "description": "Thanks to its static binaries and cross-compiling, building and distributing command-line apps in Go...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nuro/improving-the-nextjs-config-400j",
   "publish_date": "2021-12-23",
   "published_at": "2021-12-23T00:35:15Z"
- },
- {
-  "id": 933300,
-  "title": "Stop Building Your UI Components like this❌",
-  "description": "It is true everyone feels elated abstracting the most often copy-pasted code in the codebase into a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PzuOdW7I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j0zvwcrp5zjkq1dd6yl0.jpg",
-  "slug": "stop-building-your-ui-components-like-this-19il",
-  "url": "https://dev.to/harshkc/stop-building-your-ui-components-like-this-19il",
-  "publish_date": "2021-12-22",
-  "published_at": "2021-12-22T13:56:02Z"
- },
- {
-  "id": 933019,
-  "title": "Introduction to Docker for Javascript Developers (feat Node.js and PostgreSQL)",
-  "description": "All code from this tutorial as a complete package is available in this repository.  If you find this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PXSppsib--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ucucxxlv5o1bve1yen55.png",
-  "slug": "docker-for-javascript-developers-41me",
-  "url": "https://dev.to/alexeagleson/docker-for-javascript-developers-41me",
-  "publish_date": "2021-12-22",
-  "published_at": "2021-12-22T13:24:29Z"
- },
- {
-  "id": 932984,
-  "title": "How to solve two sum problem in Java? [Solved]",
-  "description": "Two sum problem is an interesting array based coding problem where you need to find two pairs whose sum equals to given number. This article shows multiple ways to solve two sum problem in Java.",
-  "cover_image": "",
-  "slug": "how-to-solve-two-sum-problem-in-java-solved-2ci7",
-  "url": "https://dev.to/javinpaul/how-to-solve-two-sum-problem-in-java-solved-2ci7",
-  "publish_date": "2021-12-22",
-  "published_at": "2021-12-22T07:24:11Z"
- },
- {
-  "id": 932916,
-  "title": "Web Performance Cheat Sheet",
-  "description": "Table of Contents    Introduction (LCP) Largest Contentful Paint (FCP) First Contentful...",
-  "cover_image": "",
-  "slug": "how-to-improve-the-performance-of-your-website-1637",
-  "url": "https://dev.to/codegino/how-to-improve-the-performance-of-your-website-1637",
-  "publish_date": "2021-12-22",
-  "published_at": "2021-12-22T04:47:45Z"
- },
- {
-  "id": 932834,
-  "title": "How to use MongoDB locally with VS Code",
-  "description": "Recently, a friend asked me if it's possible to work with their MongoDB databases and Atlas clusters...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VccCktWN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cwxtgpuwsc2kuvyzxtoq.png",
-  "slug": "how-to-use-mongodb-locally-with-vs-code-jgm",
-  "url": "https://dev.to/heymich/how-to-use-mongodb-locally-with-vs-code-jgm",
-  "publish_date": "2021-12-22",
-  "published_at": "2021-12-22T02:59:17Z"
  }
 ]
