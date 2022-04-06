@@ -1,5 +1,55 @@
 [
  {
+  "id": 1044046,
+  "title": "Headless Explained to a 5-Year-Old",
+  "description": "You’ve probably seen the term “headless” used countlessly over and over again. There are so many...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jD4HzoYY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5q7eizcw6fcsnrdor46c.png",
+  "slug": "headless-explained-to-a-5-year-old-56bh",
+  "url": "https://dev.to/medusajs/headless-explained-to-a-5-year-old-56bh",
+  "publish_date": "2022-04-05",
+  "published_at": "2022-04-05T11:18:32Z"
+ },
+ {
+  "id": 1045248,
+  "title": "10 must-know patterns for writing clean code with Python🐍",
+  "description": "Python is one of the most elegant and clean programming languages, yet having a beautiful and clean...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vBkB6zjR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9n6ygx0l2pdldc1j7a3e.jpg",
+  "slug": "10-must-know-patterns-for-writing-clean-code-with-python-56bf",
+  "url": "https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-python-56bf",
+  "publish_date": "2022-04-05",
+  "published_at": "2022-04-05T09:44:21Z"
+ },
+ {
+  "id": 1045136,
+  "title": "10 SEO tips to increase the reach of your blogs.",
+  "description": "Whether you're a blogger, startup, or a business, blogging is a long-term strategy to build a strong...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_63pHFgR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4uu300rfe03pez0cdsq4.jpg",
+  "slug": "10-seo-tips-to-increase-the-reach-of-your-blogs-54kk",
+  "url": "https://dev.to/abh1navv/10-seo-tips-to-increase-the-reach-of-your-blogs-54kk",
+  "publish_date": "2022-04-05",
+  "published_at": "2022-04-05T07:11:43Z"
+ },
+ {
+  "id": 1045102,
+  "title": "Open-Source Dashboards - React, Vue3, Bootstrap 5, Tailwind",
+  "description": "A curated list with pixel-perfect Open-Source Dashboards crafted in modern technologies: React, Vue3, Boostrap 5, Tailwind CSS",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TKXfEm7C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e53ryqldmb7bub8qvlbv.jpg",
+  "slug": "open-source-dashboards-9i1",
+  "url": "https://dev.to/sm0ke/open-source-dashboards-9i1",
+  "publish_date": "2022-04-05",
+  "published_at": "2022-04-05T06:17:18Z"
+ },
+ {
+  "id": 1044773,
+  "title": "Micro-frontends building blocks: Monorepos",
+  "description": "A monorepo, what's that?   A while back I was finishing work with an employer and was due to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---VyaKuxk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t89odad9s89e2cqqludp.jpg",
+  "slug": "micro-frontends-building-blocks-monorepos-ge1",
+  "url": "https://dev.to/aws-builders/micro-frontends-building-blocks-monorepos-ge1",
+  "publish_date": "2022-04-05",
+  "published_at": "2022-04-05T00:51:49Z"
+ },
+ {
   "id": 1044340,
   "title": "Palmette JS",
   "description": "Have you ever had to write the same code over and over again, perhaps changing only small...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cesscode/find-the-perfect-color-palette-using-these-free-tools-28dk",
   "publish_date": "2021-12-26",
   "published_at": "2021-12-26T00:29:37Z"
- },
- {
-  "id": 936358,
-  "title": "Useful JavaScript Code Snippets for Common Problems 😎",
-  "description": "Hey Coders! JavaScript is one of the widely used languages in Web Development.  A broad and vital...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tBa-nyEM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ha857rzbycbar5w54o2s.png",
-  "slug": "useful-javascript-code-snippets-for-common-problems-2lpc",
-  "url": "https://dev.to/codewithtee/useful-javascript-code-snippets-for-common-problems-2lpc",
-  "publish_date": "2021-12-25",
-  "published_at": "2021-12-25T13:31:16Z"
- },
- {
-  "id": 936261,
-  "title": "2022 Frontend Development interview checklist \u0026 Roadmap",
-  "description": "Hello folks,  I have created the Frontend Development #interview checklist and Roadmap for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jEdigE6f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t94ges85suuz6l8ot07l.png",
-  "slug": "2022-frontend-development-interview-checklist-roadmap-343j",
-  "url": "https://dev.to/sadanandpai/2022-frontend-development-interview-checklist-roadmap-343j",
-  "publish_date": "2021-12-25",
-  "published_at": "2021-12-25T09:25:57Z"
- },
- {
-  "id": 936244,
-  "title": "Interactive Personal Portfolio website with HTML CSS JS",
-  "description": "How to make interactive personal portfolio website with html css javascript.  In this video, I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q0MRc4KT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ze2x0mcsplyi7bdh4u4w.png",
-  "slug": "how-to-create-nft-preview-card-with-html-css-3gio",
-  "url": "https://dev.to/codewithsadee/how-to-create-nft-preview-card-with-html-css-3gio",
-  "publish_date": "2021-12-25",
-  "published_at": "2021-12-25T08:19:36Z"
- },
- {
-  "id": 936181,
-  "title": "10+ Best Christmas and New Year Gift Ideas for Developers",
-  "description": "A list of best gifts for programmers and developers including best learning resources, best fitness tracker, books, and gadgets programmers love. ",
-  "cover_image": "",
-  "slug": "10-best-christmas-and-new-year-gift-ideas-for-developers-57bh",
-  "url": "https://dev.to/javinpaul/10-best-christmas-and-new-year-gift-ideas-for-developers-57bh",
-  "publish_date": "2021-12-25",
-  "published_at": "2021-12-25T05:51:34Z"
- },
- {
-  "id": 936077,
-  "title": "Best GitHub repos to learn Programming [UPDATED]",
-  "description": "Sometimes knowing exactly what you should learn can be a daunting task , in this article I will...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nXfSO8vM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wtf861uquxacv99ui9dt.jpg",
-  "slug": "best-github-repos-to-learn-programming-updated-aec",
-  "url": "https://dev.to/oussamazeddam/best-github-repos-to-learn-programming-updated-aec",
-  "publish_date": "2021-12-25",
-  "published_at": "2021-12-25T00:34:04Z"
  }
 ]
