@@ -1,5 +1,55 @@
 [
  {
+  "id": 1050154,
+  "title": "Bad Habits of Mid-Level React Developers",
+  "description": "If you're a mid-level React developer looking to become an advanced React developer, this post is for...",
+  "cover_image": "",
+  "slug": "bad-habits-of-mid-level-react-developers-b41",
+  "url": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
+  "publish_date": "2022-04-09",
+  "published_at": "2022-04-09T19:03:09Z"
+ },
+ {
+  "id": 1050024,
+  "title": "33 JavaScript Concepts Every Developer Should Know 🤓️💯️",
+  "description": "How much of JavaScript do you really think you know? You probably know how to write functions,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4tWC1Zv8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/apermbjy6ntvd4gutaz9.png",
+  "slug": "33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
+  "url": "https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
+  "publish_date": "2022-04-09",
+  "published_at": "2022-04-09T15:48:06Z"
+ },
+ {
+  "id": 1049870,
+  "title": "10 JavaScript concepts for React beginners",
+  "description": "A short list of important Javascript concepts for React Developers - With Code Samples.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SW_TlBj2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r3pm1jr0ovpbkskclspv.jpg",
+  "slug": "10-javascript-concepts-for-react-beginners-4j6n",
+  "url": "https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n",
+  "publish_date": "2022-04-09",
+  "published_at": "2022-04-09T12:18:28Z"
+ },
+ {
+  "id": 1049701,
+  "title": "OpenTelemetry and Jaeger | Key concepts, features, and differences",
+  "description": "OpenTelemetry and Jaeger are both open-source projects under Cloud Native Computing Foundation. In...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L7MFtt8N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yp9xhumvisq6zz25ix6e.png",
+  "slug": "opentelemetry-and-jaeger-key-concepts-features-and-differences-4pd8",
+  "url": "https://dev.to/signoz/opentelemetry-and-jaeger-key-concepts-features-and-differences-4pd8",
+  "publish_date": "2022-04-09",
+  "published_at": "2022-04-09T11:17:01Z"
+ },
+ {
+  "id": 1049697,
+  "title": "2022 ExpressJS Cheatsheet",
+  "description": "This article assumes basic knowledge of ExpressJS, if your new to Express I recommend starting with...",
+  "cover_image": "",
+  "slug": "2022-expressjs-cheatsheet-160o",
+  "url": "https://dev.to/alexmercedcoder/2022-expressjs-cheatsheet-160o",
+  "publish_date": "2022-04-09",
+  "published_at": "2022-04-09T04:21:08Z"
+ },
+ {
   "id": 1049296,
   "title": "Laravel 9 - Open-Source Full-Stack Starters",
   "description": "A curated list with full-stack Open-Source Starters crafted on top of Laravel 9 (latest version) - Source Code for all projects is available on Github.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/j471n/image-slider-with-vanila-js-22bf",
   "publish_date": "2021-12-31",
   "published_at": "2021-12-31T04:01:18Z"
- },
- {
-  "id": 896938,
-  "title": "Designing the Analytics patterns using a Lake House approach on AWS\n",
-  "description": "Many organizations are moving all their data from various silos into a single location, often called...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qmLyiolc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l4ng9y1y7zz1i0rdah5k.jpg",
-  "slug": "designing-the-analytics-patterns-using-a-lake-house-approach-on-aws-2hh6",
-  "url": "https://dev.to/aws-builders/designing-the-analytics-patterns-using-a-lake-house-approach-on-aws-2hh6",
-  "publish_date": "2021-12-30",
-  "published_at": "2021-12-30T15:12:13Z"
- },
- {
-  "id": 940466,
-  "title": "Ultimate list of JavaScript Learning Resource (Free)",
-  "description": "This post is Going to have some Awesome...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tehYc4t5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lfpuqt87uqmt29x4d0n3.png",
-  "slug": "ultimate-list-of-javascript-learning-resource-free-3kef",
-  "url": "https://dev.to/officialkamran/ultimate-list-of-javascript-learning-resource-free-3kef",
-  "publish_date": "2021-12-30",
-  "published_at": "2021-12-30T13:15:12Z"
- },
- {
-  "id": 940315,
-  "title": "Will automated cloud optimization replace your DevOps job?",
-  "description": "Everything about automation sounds tempting. Apart from the fact that it would be doing the tasks...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZgEOlUr7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4btlh3myaaevx9io1kwj.jpeg",
-  "slug": "will-automated-cloud-optimization-replace-your-devops-job-2h8m",
-  "url": "https://dev.to/castai/will-automated-cloud-optimization-replace-your-devops-job-2h8m",
-  "publish_date": "2021-12-30",
-  "published_at": "2021-12-30T12:20:53Z"
- },
- {
-  "id": 940291,
-  "title": "Git Command Cheat Sheet ",
-  "description": "Hello Dev,  We all know about Git but I want to share little bit about that, In daily base where I am...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FSkvWqqI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jw63cxzfe7rd1mc3r24n.jpg",
-  "slug": "git-command-cheat-sheet-31ec",
-  "url": "https://dev.to/anitaparmar26/git-command-cheat-sheet-31ec",
-  "publish_date": "2021-12-30",
-  "published_at": "2021-12-30T11:34:07Z"
- },
- {
-  "id": 939255,
-  "title": "Awesome VSCode extensions for a better coding experience [ Part 1 ]",
-  "description": "Imagine yourself typing all the HTML boilerplate code when you decided to make a new project or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sTv6MOi8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f77c51nbixehl6bvcecj.png",
-  "slug": "awesome-vscode-extensions-for-a-better-coding-experience-part-1--3i9b",
-  "url": "https://dev.to/hyperloop/awesome-vscode-extensions-for-a-better-coding-experience-part-1--3i9b",
-  "publish_date": "2021-12-30",
-  "published_at": "2021-12-30T06:52:36Z"
  }
 ]
