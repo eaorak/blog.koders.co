@@ -1,5 +1,55 @@
 [
  {
+  "id": 1054240,
+  "title": "Interested in the social impact you can have as a developer? Read this post.",
+  "description": "Today, I’m excited to highlight a Forem that has a ton of relevance for everyone on DEV:  the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2w72JlDA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/efouj9ag3u9xd7ehuazz.png",
+  "slug": "interested-in-the-social-impact-you-can-have-as-a-developer-read-this-post-31lh",
+  "url": "https://dev.to/devteam/interested-in-the-social-impact-you-can-have-as-a-developer-read-this-post-31lh",
+  "publish_date": "2022-04-13",
+  "published_at": "2022-04-13T18:30:06Z"
+ },
+ {
+  "id": 1053789,
+  "title": "How do you use git when working solo?",
+  "description": "A post by Ben Halpern",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MsNGK4is--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0mdzihlemq23tuu5qpz.jpeg",
+  "slug": "how-do-you-use-git-when-working-solo-827",
+  "url": "https://dev.to/ben/how-do-you-use-git-when-working-solo-827",
+  "publish_date": "2022-04-13",
+  "published_at": "2022-04-13T13:04:00Z"
+ },
+ {
+  "id": 1053765,
+  "title": "⚛️ ReactJS folder structure + Boilerplate.",
+  "description": "There are many folders structure to follow in ReactJS , And you might be confused which one you have...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nWPhdrQv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2i71gwk7hnxvlyodzfc3.png",
+  "slug": "reactjs-folder-structure-boilerplate-155n",
+  "url": "https://dev.to/yacouri/reactjs-folder-structure-boilerplate-155n",
+  "publish_date": "2022-04-13",
+  "published_at": "2022-04-13T11:59:17Z"
+ },
+ {
+  "id": 1053744,
+  "title": "How to detect scroll direction in vanilla JavaScript (to make a goofy logo animation)",
+  "description": "I wanted to try out a goofy idea. I wanted to animate a website's logo so that it would fall over...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ozj7QoAm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u49d6nlg5tk9q8g08tr8.jpg",
+  "slug": "how-to-detect-scroll-direction-in-vanilla-javascript-to-make-a-goofy-logo-animation-njc",
+  "url": "https://dev.to/robole/how-to-detect-scroll-direction-in-vanilla-javascript-to-make-a-goofy-logo-animation-njc",
+  "publish_date": "2022-04-13",
+  "published_at": "2022-04-13T11:13:20Z"
+ },
+ {
+  "id": 1053661,
+  "title": "MUI React - Coding a Simple Landing Page",
+  "description": "Learn how to code a simple landing page with MUI Library and React - Sample Code available on Github.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W3GpmPg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1qx8iwti5uejgah76v8c.jpg",
+  "slug": "mui-react-coding-a-simple-landing-page-4k67",
+  "url": "https://dev.to/sm0ke/mui-react-coding-a-simple-landing-page-4k67",
+  "publish_date": "2022-04-13",
+  "published_at": "2022-04-13T08:23:55Z"
+ },
+ {
   "id": 1052920,
   "title": "NodeJS for Beginners - Practical Guide (With Samples)",
   "description": "A comprehensive introduction to NodeJS for Beginners - With Free Samples.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/admitkard/regexp-cheatsheet-to-speed-up-code-editing-and-refactor-d2d",
   "publish_date": "2022-01-04",
   "published_at": "2022-01-04T07:30:00Z"
- },
- {
-  "id": 943305,
-  "title": "My writing stats for 2021, best time to post on DEV and plans for 2022-2023 [over 250 articles planned]",
-  "description": "In 11 months of writing I have amassed over 250k views on DEV, not to be sniffed at...but I can do...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k28HfYfH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jzr5v10ohdhdoktn6l3j.jpg",
-  "slug": "my-writing-stats-for-2021-best-time-to-post-on-dev-and-plans-for-2022-2023-over-250-articles-planned-557l",
-  "url": "https://dev.to/inhuofficial/my-writing-stats-for-2021-best-time-to-post-on-dev-and-plans-for-2022-2023-over-250-articles-planned-557l",
-  "publish_date": "2022-01-03",
-  "published_at": "2022-01-03T15:40:40Z"
- },
- {
-  "id": 942631,
-  "title": "Hoppscotch is celebrating 35,000 GitHub Stars",
-  "description": "Hoppscotch now has 35,000 star gazers on GitHub. We'll use this milestone to recap Hoppscotch’s...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eatFHyGt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0mlgj9iexmrxolspkk13.png",
-  "slug": "hoppscotch-is-celebrating-35000-github-stars-42hj",
-  "url": "https://dev.to/liyasthomas/hoppscotch-is-celebrating-35000-github-stars-42hj",
-  "publish_date": "2022-01-03",
-  "published_at": "2022-01-03T10:44:40Z"
- },
- {
-  "id": 942732,
-  "title": "Asynchronous loops in Javascript - using forEach, map and for loop",
-  "description": "Asynchronous operations are crucial when working with web applications. We can all agree how easy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uYBkJXWG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/az0429ibcsk0iwgx5b4l.jpg",
-  "slug": "asynchronous-loops-in-javascript-using-foreach-vs-map-vs-for-loop-5020",
-  "url": "https://dev.to/anshuman_bhardwaj/asynchronous-loops-in-javascript-using-foreach-vs-map-vs-for-loop-5020",
-  "publish_date": "2022-01-03",
-  "published_at": "2022-01-03T08:48:01Z"
- },
- {
-  "id": 936147,
-  "title": "React Component Testing",
-  "description": "In our last article, we have introduced the usage of Jest to test our JavaScript code Start Testing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6EmMXN18--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x4n8ipl1v9dy7uvpp1dt.jpg",
-  "slug": "react-component-testing-54ie",
-  "url": "https://dev.to/ohdylan/react-component-testing-54ie",
-  "publish_date": "2022-01-03",
-  "published_at": "2022-01-03T08:02:43Z"
- },
- {
-  "id": 942864,
-  "title": "8 techniques to write cleaner  JavaScript code",
-  "description": "I believe being a Software Engineer is just like being a Super Hero! And with great power, comes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MZIJFg-q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2cab86auqek9wqzpv79e.png",
-  "slug": "8-techniques-to-write-cleaner-javascript-code-369e",
-  "url": "https://dev.to/muhd_ahsanayaz/8-techniques-to-write-cleaner-javascript-code-369e",
-  "publish_date": "2022-01-03",
-  "published_at": "2022-01-03T01:27:01Z"
  }
 ]
