@@ -1,5 +1,55 @@
 [
  {
+  "id": 1057239,
+  "title": "Textual: The Definitive Guide - Part 2.",
+  "description": "Greetings, everyone. In this article, we will pick up where we left off and continue our series on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pT2DH1jm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/Textualize/textual/main/imgs/textual.png",
+  "slug": "textual-the-definitive-guide-part-2-6h8",
+  "url": "https://dev.to/wiseai/textual-the-definitive-guide-part-2-6h8",
+  "publish_date": "2022-04-15",
+  "published_at": "2022-04-15T15:54:14Z"
+ },
+ {
+  "id": 1057017,
+  "title": "Serverless Node.js URL Shortener App powered by Upstash Kafka and Materialize",
+  "description": "This is a simple Node.js URL shortener app that uses Cloudflare Workers.  The app is powered by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Sj7JajLB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ul7rpcj853tabw9smjhq.png",
+  "slug": "serverless-nodejs-url-shortener-app-powered-by-upstash-kafka-and-materialize-3mae",
+  "url": "https://dev.to/bobbyiliev/serverless-nodejs-url-shortener-app-powered-by-upstash-kafka-and-materialize-3mae",
+  "publish_date": "2022-04-15",
+  "published_at": "2022-04-15T13:58:45Z"
+ },
+ {
+  "id": 1056679,
+  "title": "When Does Inflation Hit Cloud Prices and What Can You Do About It?",
+  "description": "For years, the only direction that cloud prices would go was down. But this is already...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pnHVBuTV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo56u48othgq0dbmufqy.jpg",
+  "slug": "when-does-inflation-hit-cloud-prices-and-what-can-you-do-about-it-299l",
+  "url": "https://dev.to/castai/when-does-inflation-hit-cloud-prices-and-what-can-you-do-about-it-299l",
+  "publish_date": "2022-04-15",
+  "published_at": "2022-04-15T09:24:27Z"
+ },
+ {
+  "id": 1056652,
+  "title": "Wisely Designing your React Components",
+  "description": "Join me in this post as I share with you my thought process when approaching component development. I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tqpic4Wc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ut7rldafdqwh94hcms6.jpg",
+  "slug": "wisely-designing-your-react-components-4o0",
+  "url": "https://dev.to/mbarzeev/wisely-designing-your-react-components-4o0",
+  "publish_date": "2022-04-15",
+  "published_at": "2022-04-15T08:29:05Z"
+ },
+ {
+  "id": 1056458,
+  "title": "Unpopular Opinion: Years worked != experience level.",
+  "description": "If I say I have 5 years of experience, what I mean is, I have 5 years worth of experience even though...",
+  "cover_image": "",
+  "slug": "unpopular-opinion-years-worked-experience-level-104i",
+  "url": "https://dev.to/britzdylan/unpopular-opinion-years-worked-experience-level-104i",
+  "publish_date": "2022-04-15",
+  "published_at": "2022-04-15T00:55:03Z"
+ },
+ {
   "id": 1056113,
   "title": "React Forms — Formik vs. Hook-Form vs. Final-Form",
   "description": "A fair comparison over three top-rated Forms Library for React: Formik, React-Hook-Form, and React-Final-Form - With code samples and validation.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/5-best-azure-courses-for-beginners-5bie",
   "publish_date": "2022-01-06",
   "published_at": "2022-01-06T06:00:44Z"
- },
- {
-  "id": 887714,
-  "title": "Introduction to Streaming Ingestion and Stream Processing",
-  "description": "Processing real-time streaming data requires throughput scalability, reliability, high availability,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9d076Px8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2kghebc9eispthe9act0.png",
-  "slug": "introduction-to-streaming-ingestion-and-stream-processing-3m4a",
-  "url": "https://dev.to/aws-builders/introduction-to-streaming-ingestion-and-stream-processing-3m4a",
-  "publish_date": "2022-01-05",
-  "published_at": "2022-01-05T12:30:55Z"
- },
- {
-  "id": 942042,
-  "title": "It's Here! Announcing the Release of Appwrite 0.12!",
-  "description": "We're excited to share that Appwrite 0.12 is now officially available! The new Appwrite version...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LHcoJcBS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h4fawixpuz9r7lofb281.jpg",
-  "slug": "its-here-announcing-the-release-of-appwrite-012-5c8b",
-  "url": "https://dev.to/appwrite/its-here-announcing-the-release-of-appwrite-012-5c8b",
-  "publish_date": "2022-01-05",
-  "published_at": "2022-01-05T10:37:45Z"
- },
- {
-  "id": 945075,
-  "title": "5 Best Design Pattern Courses for Java Programmers",
-  "description": "These are the best online courses to learn design patterns in Java for beginners and experienced programmers. ",
-  "cover_image": "",
-  "slug": "5-best-java-design-pattern-courses-for-beginners-4dj",
-  "url": "https://dev.to/javinpaul/5-best-java-design-pattern-courses-for-beginners-4dj",
-  "publish_date": "2022-01-05",
-  "published_at": "2022-01-05T06:03:27Z"
- },
- {
-  "id": 941718,
-  "title": "Ultimate List Of Javascript Learning Resources [Free]",
-  "description": "What JavaScript Is And Why You Should Learn It   In simple terms, JavaScript is a scripting...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gFD0ItsN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qhbpfq1gt9p3d9ipgl6i.png",
-  "slug": "ultimate-list-of-javascript-learning-resources-free-37c2",
-  "url": "https://dev.to/chetan_atrawalkar/ultimate-list-of-javascript-learning-resources-free-37c2",
-  "publish_date": "2022-01-05",
-  "published_at": "2022-01-05T05:52:11Z"
- },
- {
-  "id": 944954,
-  "title": "5 mistakes most dev's do when starting out on Linux!",
-  "description": "Hello Beautiful People, Nomadev is back with another blog in this new year. I hope the new year will...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f-a2vVXN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/exv7wqpx38a251e06rru.png",
-  "slug": "5-mistakes-most-devs-do-when-starting-out-on-linux-4de5",
-  "url": "https://dev.to/thenomadevel/5-mistakes-most-devs-do-when-starting-out-on-linux-4de5",
-  "publish_date": "2022-01-05",
-  "published_at": "2022-01-05T05:42:22Z"
  }
 ]
