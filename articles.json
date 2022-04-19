@@ -1,5 +1,55 @@
 [
  {
+  "id": 1059430,
+  "title": "What cloud services do you use? (Personal and team)",
+  "description": "A post by Ben Halpern",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F80i7XGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wpxwgqzn3mhktykirkjy.png",
+  "slug": "what-cloud-services-do-you-use-personal-and-team-4agd",
+  "url": "https://dev.to/ben/what-cloud-services-do-you-use-personal-and-team-4agd",
+  "publish_date": "2022-04-18",
+  "published_at": "2022-04-18T11:13:55Z"
+ },
+ {
+  "id": 1059135,
+  "title": "GitHub API",
+  "description": "Table of Contents    Overview Available Libraries Useful Endpoints Project Ideas with GitHub...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eEsYHZ-t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a8h3odccq7uks048ubhv.jpg",
+  "slug": "github-api-4kk",
+  "url": "https://dev.to/tmchuynh/github-api-4kk",
+  "publish_date": "2022-04-18",
+  "published_at": "2022-04-18T11:10:56Z"
+ },
+ {
+  "id": 1053668,
+  "title": "⚡️20 Easy Ways to Be More Productive as a Developer⚡️",
+  "description": "Everyone wants to be more productive, but how do you become more productive? Well, hopefully you'll...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xu_kmNfF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oxxj1f1rs6gi88s4n3t7.gif",
+  "slug": "20-easy-ways-to-be-more-productive-as-a-developer-5f99",
+  "url": "https://dev.to/code_jedi/20-easy-ways-to-be-more-productive-as-a-developer-5f99",
+  "publish_date": "2022-04-18",
+  "published_at": "2022-04-18T08:07:20Z"
+ },
+ {
+  "id": 1059168,
+  "title": "How to manage your professional career?",
+  "description": "In the last career advice article, I talked about how to become a good developer? Today, I'll talk...",
+  "cover_image": "",
+  "slug": "how-to-manage-your-professional-career-5bf",
+  "url": "https://dev.to/this-is-learning/how-to-manage-your-professional-career-5bf",
+  "publish_date": "2022-04-18",
+  "published_at": "2022-04-18T05:22:34Z"
+ },
+ {
+  "id": 1059032,
+  "title": "Organize a sua vida com Google Keep",
+  "description": "Por que EU precisei me organizar?   Conforme mais tempo eu organizava comunidades e produzia...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ih6zOxuz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zgv1g3s8r96oyy6mtg19.png",
+  "slug": "organize-a-sua-vida-com-google-keep-10a5",
+  "url": "https://dev.to/feministech/organize-a-sua-vida-com-google-keep-10a5",
+  "publish_date": "2022-04-18",
+  "published_at": "2022-04-18T01:30:17Z"
+ },
+ {
   "id": 1058905,
   "title": "Textual: The Definitive Guide - Part 3.",
   "description": "Hello, puppies and kittens! In this article, we will carry on our series demystifying every damn...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc",
   "publish_date": "2022-01-09",
   "published_at": "2022-01-09T02:23:44Z"
- },
- {
-  "id": 948795,
-  "title": "How I built my second brain using Next.JS",
-  "description": "Okay! Before you declare me crazy and ask “How the hell can anyone build a second braing using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fdrp4fCa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t5vwz4xp3u61jn0q208a.png",
-  "slug": "how-i-built-my-second-brain-using-nextjs-56e7",
-  "url": "https://dev.to/shaan_alam/how-i-built-my-second-brain-using-nextjs-56e7",
-  "publish_date": "2022-01-08",
-  "published_at": "2022-01-08T14:03:51Z"
- },
- {
-  "id": 948791,
-  "title": "How to make full stack e-commerce website using HTML, CSS and JS | Part 01",
-  "description": "Hello, Today in this article, we'll learn to create an e-commerce website using HTML, CSS and JS....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AL40aV6S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ejcg1ulv1obxxbqw682.png",
-  "slug": "how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
-  "url": "https://dev.to/kunaal438/how-to-make-an-e-commerce-website-with-html-css-and-js-01-4m2h",
-  "publish_date": "2022-01-08",
-  "published_at": "2022-01-08T13:39:32Z"
- },
- {
-  "id": 947195,
-  "title": "Memory Leaks, How to avoid them in a React App.",
-  "description": "What is a memory leak?   According to Wikipedia, a memory leak is a type of resource leak...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qDOkq2mj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9cnags4huqtvddlcf0bq.png",
-  "slug": "memory-leaks-how-to-avoid-them-in-a-react-app-1g5e",
-  "url": "https://dev.to/jeremiahjacinth13/memory-leaks-how-to-avoid-them-in-a-react-app-1g5e",
-  "publish_date": "2022-01-08",
-  "published_at": "2022-01-08T09:58:39Z"
- },
- {
-  "id": 948623,
-  "title": "I Built My Own TinyURL. Here’s How I Did It",
-  "description": "Designing a URL shortener such as TinyURL and Bitly is one of the most common system design interview...",
-  "cover_image": "",
-  "slug": "i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
-  "url": "https://dev.to/jerrynsh/i-built-my-own-tinyurl-heres-how-i-did-it-11ah",
-  "publish_date": "2022-01-08",
-  "published_at": "2022-01-08T08:31:30Z"
- },
- {
-  "id": 948528,
-  "title": "The Better Way of Sending Data to the Backend",
-  "description": "If you are a front-end developer, who ever worked on picture uploading, video uploading or audio...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VGXZka5G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g43vvcgs07u6d145gaql.png",
-  "slug": "the-better-way-of-sending-data-to-the-backend-bdp",
-  "url": "https://dev.to/manas_dev/the-better-way-of-sending-data-to-the-backend-bdp",
-  "publish_date": "2022-01-08",
-  "published_at": "2022-01-08T07:11:03Z"
  }
 ]
