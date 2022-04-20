@@ -1,5 +1,55 @@
 [
  {
+  "id": 1060914,
+  "title": "Announcing CodeLand 2022's First Keynote Speaker: Angie Jones!",
+  "description": "Announcing our first CodeLand 2022 keynote speaker",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZNjRtjXm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://community.codenewbie.org/remoteimages/uploads/articles/c6secq7q9v6jjoyhnp5c.png",
+  "slug": "announcing-codeland-2022s-first-keynote-speaker-angie-jones-12p0",
+  "url": "https://dev.to/codenewbieteam/announcing-codeland-2022s-first-keynote-speaker-angie-jones-12p0",
+  "publish_date": "2022-04-19",
+  "published_at": "2022-04-19T17:15:59Z"
+ },
+ {
+  "id": 1059961,
+  "title": "Github Co-Pilot: Pair Programming com Inteligência Artificial",
+  "description": "Hoje eu vim te apresentar o Co-Piloto do Github, uma tecnologia que pode substituir muitas pessoas...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--877IpqXy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k9g5ozde8peu5jna66gk.png",
+  "slug": "github-co-pilot-pair-programming-com-inteligencia-artificial-1m43",
+  "url": "https://dev.to/github/github-co-pilot-pair-programming-com-inteligencia-artificial-1m43",
+  "publish_date": "2022-04-19",
+  "published_at": "2022-04-19T14:08:08Z"
+ },
+ {
+  "id": 1060637,
+  "title": "8 Creative Text Animations for Your Website's Hero Area 😍🎉",
+  "description": "Modern web development is about grabbing the visitors' attention. There are several ways of making...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Xlk94vI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2m0d263w5rzpndwx3v3d.png",
+  "slug": "8-creative-text-animations-for-your-websites-hero-area-gbo",
+  "url": "https://dev.to/madza/8-creative-text-animations-for-your-websites-hero-area-gbo",
+  "publish_date": "2022-04-19",
+  "published_at": "2022-04-19T13:34:53Z"
+ },
+ {
+  "id": 1060470,
+  "title": "Why AWS Cost Explorer Isn’t Enough to Seriously Reduce Your Cloud Expenses",
+  "description": "Teams interested in tracing their AWS cloud costs usually turn to AWS Cost Explorer, the industry’s...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X59_SvFS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lb0xacsu5kenjoe9phad.jpg",
+  "slug": "why-aws-cost-explorer-isnt-enough-to-seriously-reduce-your-cloud-expenses-4l8",
+  "url": "https://dev.to/castai/why-aws-cost-explorer-isnt-enough-to-seriously-reduce-your-cloud-expenses-4l8",
+  "publish_date": "2022-04-19",
+  "published_at": "2022-04-19T10:34:35Z"
+ },
+ {
+  "id": 1060241,
+  "title": "AppSeed - New Version",
+  "description": "The new version of AppSeed is LIVE - improved design and complete refactoring over the site structure.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--owB7ts1J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z8zqr4fbd8pxnbpl52w6.jpg",
+  "slug": "appseed-new-version-32a",
+  "url": "https://dev.to/sm0ke/appseed-new-version-32a",
+  "publish_date": "2022-04-19",
+  "published_at": "2022-04-19T05:37:49Z"
+ },
+ {
   "id": 1059430,
   "title": "What cloud services do you use? (Personal and team)",
   "description": "A post by Ben Halpern",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/farhadfaghihi/git-survival-kit-part-1-1bfk",
   "publish_date": "2022-01-10",
   "published_at": "2022-01-10T00:42:36Z"
- },
- {
-  "id": 949594,
-  "title": "30 JavaScript Libraries to use in your Projects",
-  "description": "JavaScript is a programming language that is vastly used in the world both on the client-side as well...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PiQovfpv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3aa4u0b1hwxidbp1r1te.png",
-  "slug": "30-javascript-libraries-to-use-in-your-projects-1gd3",
-  "url": "https://dev.to/devdefinitive/30-javascript-libraries-to-use-in-your-projects-1gd3",
-  "publish_date": "2022-01-09",
-  "published_at": "2022-01-09T15:11:28Z"
- },
- {
-  "id": 949331,
-  "title": "Build your own WYSIWYG editor (HTML, CSS \u0026 pure JavaScript)\n",
-  "description": "Are you annoyed by missing or unnecessary functions in WYSIWYG editors? No problem! Here I show you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mRXi31j8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4z20xowww01ftxhoo3hf.jpg",
-  "slug": "program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
-  "url": "https://dev.to/webdeasy/program-your-own-wysiwyg-editor-with-html-css-pure-javascript-5mm",
-  "publish_date": "2022-01-09",
-  "published_at": "2022-01-09T08:31:54Z"
- },
- {
-  "id": 949036,
-  "title": "Deep dive into React codebase [EP1: Prerequisites]",
-  "description": "Preface   My last article about the obscured history behind Hyperscript was warmly received,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rZ9myLGd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kx3u86vgtn99ko4cd5z0.png",
-  "slug": "deep-dive-into-react-codebase-ep1-prerequisites-33ak",
-  "url": "https://dev.to/fromaline/deep-dive-into-react-codebase-ep1-prerequisites-33ak",
-  "publish_date": "2022-01-09",
-  "published_at": "2022-01-09T06:06:48Z"
- },
- {
-  "id": 949269,
-  "title": "Show and hide a header based on scroll direction",
-  "description": "This article actually has a funny origin as it was requested by my good friend Fredrik asked me to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZvxRqE29--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/220zer9y3dczftb5x7z4.jpg",
-  "slug": "show-and-hide-a-header-based-on-scroll-direction-19fa",
-  "url": "https://dev.to/dailydevtips1/show-and-hide-a-header-based-on-scroll-direction-19fa",
-  "publish_date": "2022-01-09",
-  "published_at": "2022-01-09T05:46:58Z"
- },
- {
-  "id": 949164,
-  "title": "How to Connect a React App to a Notion Database",
-  "description": "All code from this tutorial as a complete package is available in this repository.    If you find...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3cFh67Wl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ox9nndgwa9ivsb7udu0.png",
-  "slug": "how-to-connect-a-react-app-to-a-notion-database-51mc",
-  "url": "https://dev.to/alexeagleson/how-to-connect-a-react-app-to-a-notion-database-51mc",
-  "publish_date": "2022-01-09",
-  "published_at": "2022-01-09T02:23:44Z"
  }
 ]
