@@ -1,5 +1,55 @@
 [
  {
+  "id": 1062830,
+  "title": "The Best VS Code Extensions For Python Developers In 2022.",
+  "description": "This is part 1 of the series where I share helpful VS code extensions, settings, shortcuts, tips, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7QZaSIM4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vii4yu977amda0jgtwld.png",
+  "slug": "vs-code-extensions-for-python-developers-3n9b",
+  "url": "https://dev.to/wiseai/vs-code-extensions-for-python-developers-3n9b",
+  "publish_date": "2022-04-21",
+  "published_at": "2022-04-21T19:49:42Z"
+ },
+ {
+  "id": 519671,
+  "title": "Marko: Compiling Fine-Grained Reactivity",
+  "description": "Reactivity has been all the buzz in frontend frameworks the last couple of years. It is being...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--02co5Ohs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eq1xkpq1c0jhpe8oc1m1.png",
+  "slug": "marko-compiling-fine-grained-reactivity-4lk4",
+  "url": "https://dev.to/ryansolid/marko-compiling-fine-grained-reactivity-4lk4",
+  "publish_date": "2022-04-21",
+  "published_at": "2022-04-21T17:56:58Z"
+ },
+ {
+  "id": 1062906,
+  "title": "6 Useful Checklists Every Developer Should Know 📃💯",
+  "description": "The product lifecycle often holds us accountable for so many things. Even if you think you are aware...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UQiL5ezC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ack6ix2twgk9wxo9nkoi.png",
+  "slug": "6-useful-checklists-every-developer-should-know-dle",
+  "url": "https://dev.to/madza/6-useful-checklists-every-developer-should-know-dle",
+  "publish_date": "2022-04-21",
+  "published_at": "2022-04-21T16:17:14Z"
+ },
+ {
+  "id": 1062761,
+  "title": "How Tesla’s tech stack is a testimony to the need for open source solutions",
+  "description": "In 2021, Tesla became the fastest-growing brand worldwide. It also became the most valuable...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WE47VbKo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05zto8fdi70s5s9ic80y.jpg",
+  "slug": "how-teslas-tech-stack-is-a-testimony-to-the-need-for-open-source-solutions-5c6e",
+  "url": "https://dev.to/medusajs/how-teslas-tech-stack-is-a-testimony-to-the-need-for-open-source-solutions-5c6e",
+  "publish_date": "2022-04-21",
+  "published_at": "2022-04-21T11:59:17Z"
+ },
+ {
+  "id": 1062386,
+  "title": "CSS Box-Model Simplified",
+  "description": "Each element on a web page is wrapped around by a box. The arrangement of these boxes make up the...",
+  "cover_image": "",
+  "slug": "css-box-model-simplified-4en4",
+  "url": "https://dev.to/valeshgopal/css-box-model-simplified-4en4",
+  "publish_date": "2022-04-21",
+  "published_at": "2022-04-21T07:45:24Z"
+ },
+ {
   "id": 1062015,
   "title": "Horizon UI - Open-Source React Template",
   "description": "Get started and build your dream web app with Horizon UI, the trendiest \u0026 innovative Open Source Admin Template for Chakra UI \u0026 React",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/castai/the-cloud-in-2021-21-game-changing-outages-security-issues-and-highlights-1kd8",
   "publish_date": "2022-01-12",
   "published_at": "2022-01-12T09:45:40Z"
- },
- {
-  "id": 887716,
-  "title": "Introduction to Operational Analytics",
-  "description": "Operational analytics refers to inter-disciplinary techniques and methodologies that aim to improve...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--taMLbrsq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/97r9j7ye5d671i24lfju.jpg",
-  "slug": "introduction-to-operational-analytics-2fm",
-  "url": "https://dev.to/aws-builders/introduction-to-operational-analytics-2fm",
-  "publish_date": "2022-01-11",
-  "published_at": "2022-01-11T13:21:05Z"
- },
- {
-  "id": 951211,
-  "title": "IoT-SaaS: Web App using ReactJS, MongoDB Atlas \u0026 Realm",
-  "description": "Overview of My Submission   Nowadays, SaaS platforms \u0026amp; IoT devices are gaining...",
-  "cover_image": "",
-  "slug": "iot-saas-web-app-using-reactjs-mongodb-atlas-realm-48gb",
-  "url": "https://dev.to/tagorenathv/iot-saas-web-app-using-reactjs-mongodb-atlas-realm-48gb",
-  "publish_date": "2022-01-11",
-  "published_at": "2022-01-11T12:41:56Z"
- },
- {
-  "id": 945460,
-  "title": "Cherry-Pick Your Teammate's Changes Without Push 'n Pull-ing To Your Repo In PyCharm",
-  "description": "You asked your teammate for help with a piece of code and they showed you the solution in their...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1F4aDaeE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wc35d6fj8dboqepowd34.png",
-  "slug": "cherry-pick-your-teammates-changes-without-push-n-pull-ing-to-your-repo-in-pycharm-eej",
-  "url": "https://dev.to/gitlive/cherry-pick-your-teammates-changes-without-push-n-pull-ing-to-your-repo-in-pycharm-eej",
-  "publish_date": "2022-01-11",
-  "published_at": "2022-01-11T10:09:35Z"
- },
- {
-  "id": 951185,
-  "title": "Get JavaScript Objects from a JSON File",
-  "description": "Introduction   JSON stands for JavaScript Object Notation.JSON is a lightweight format for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Sy86PL1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecuce7ypq0idll5l7ii7.jpg",
-  "slug": "get-javascript-objects-from-a-json-file-2c86",
-  "url": "https://dev.to/sharma2288/get-javascript-objects-from-a-json-file-2c86",
-  "publish_date": "2022-01-11",
-  "published_at": "2022-01-11T06:44:09Z"
- },
- {
-  "id": 951058,
-  "title": "4 Ways to Level-Up Your JS Destructuring and Spread Syntax",
-  "description": "If you're a fan of Javascript and reading dev articles, you might share my addiction of clicking on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q7fn-4FZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sfwf6b1f5ssox0f0ihqo.jpg",
-  "slug": "4-ways-to-level-up-your-js-destructuring-and-spread-syntax-4eoo",
-  "url": "https://dev.to/scottodea/4-ways-to-level-up-your-js-destructuring-and-spread-syntax-4eoo",
-  "publish_date": "2022-01-11",
-  "published_at": "2022-01-11T04:29:28Z"
  }
 ]
