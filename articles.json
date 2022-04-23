@@ -1,5 +1,55 @@
 [
  {
+  "id": 1064287,
+  "title": "Optimizing with the PostgreSQL deterministic query planner",
+  "description": "Feed the planner, trust the plan   Of all the Aha! engineering tool expenses, the money I'm...",
+  "cover_image": "",
+  "slug": "optimizing-with-the-postgresql-deterministic-query-planner-5hfa",
+  "url": "https://dev.to/aha/optimizing-with-the-postgresql-deterministic-query-planner-5hfa",
+  "publish_date": "2022-04-22",
+  "published_at": "2022-04-22T19:08:23Z"
+ },
+ {
+  "id": 1064020,
+  "title": "Have a Community-Powered Earth Day 🌍",
+  "description": "As you might know, I've been highlighting some of the early Forems joining the network of late over...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FekjpdKG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/987klyka9pd5kb1fudih.png",
+  "slug": "have-a-community-powered-earth-day-5jc",
+  "url": "https://dev.to/devteam/have-a-community-powered-earth-day-5jc",
+  "publish_date": "2022-04-22",
+  "published_at": "2022-04-22T16:32:43Z"
+ },
+ {
+  "id": 1063342,
+  "title": "🎙️Select* Podcast: For Devs \u0026 Tech Leaders",
+  "description": "We’re already almost halfway through season two of Select*, the podcast hosted by HarperDB, and it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qXPFzmg2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vw5zpfctuh9oilc5m5ak.png",
+  "slug": "select-podcast-for-devs-tech-leaders-5g2c",
+  "url": "https://dev.to/margo_hdb/select-podcast-for-devs-tech-leaders-5g2c",
+  "publish_date": "2022-04-22",
+  "published_at": "2022-04-22T15:35:39Z"
+ },
+ {
+  "id": 1063129,
+  "title": "The Triangle of INJECTIONS: Learn How To detect these vulnerabilities + How To avoid them",
+  "description": "When it comes to common injection vulnerabilities, there are three that you need to know about if you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fgF0lopu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wwqynut42qajqqazge2.png",
+  "slug": "the-triangle-of-injections-learn-how-to-detect-these-vulnerabilities-how-to-avoid-them-1g03",
+  "url": "https://dev.to/dotnetsafer/the-triangle-of-injections-learn-how-to-detect-these-vulnerabilities-how-to-avoid-them-1g03",
+  "publish_date": "2022-04-22",
+  "published_at": "2022-04-22T10:45:14Z"
+ },
+ {
+  "id": 1062807,
+  "title": "5 Fantastic Developer Tools for Async Comms 🎯",
+  "description": "As dev teams are looking for new ways to stay productive and communicate effectively, asynchronous...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7fSngHMw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/enyndepw4jmg9y4nt0sa.jpg",
+  "slug": "5-fantastic-developer-tools-for-async-comms-2i0b",
+  "url": "https://dev.to/alexomeyer/5-fantastic-developer-tools-for-async-comms-2i0b",
+  "publish_date": "2022-04-22",
+  "published_at": "2022-04-22T09:39:51Z"
+ },
+ {
   "id": 1062830,
   "title": "The Best VS Code Extensions For Python Developers In 2022.",
   "description": "This is part 1 of the series where I share helpful VS code extensions, settings, shortcuts, tips, and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lmas3009/cleandocs-a-documentation-template-59h9",
   "publish_date": "2022-01-13",
   "published_at": "2022-01-13T09:13:39Z"
- },
- {
-  "id": 953042,
-  "title": "Figma for Developers ",
-  "description": "Learn your way around the popular design software Figma, and level up your dev game. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bkOKlhvR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5qbl3jlcuh64epme60v.png",
-  "slug": "figma-for-developers-6op",
-  "url": "https://dev.to/kathryngrayson/figma-for-developers-6op",
-  "publish_date": "2022-01-12",
-  "published_at": "2022-01-12T17:01:58Z"
- },
- {
-  "id": 952251,
-  "title": "Launching SigNoz Technical Writer Program 🧑‍💻🥳",
-  "description": "Are you a developer who loves creating content and getting it across to a global audience? We'd love...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3N5KTImV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/469phnh50uai3qwdajak.png",
-  "slug": "launching-signoz-technical-writer-program-hmi",
-  "url": "https://dev.to/signoz/launching-signoz-technical-writer-program-hmi",
-  "publish_date": "2022-01-12",
-  "published_at": "2022-01-12T13:31:33Z"
- },
- {
-  "id": 952583,
-  "title": "Working with database indexes ( the right way )",
-  "description": "👀 Overview   The database is an integral part of any modern application. We use a database...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2OsStms8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2mv4p1vlolloga059mc.jpg",
-  "slug": "working-with-database-indexes-the-right-way--4agp",
-  "url": "https://dev.to/appwrite/working-with-database-indexes-the-right-way--4agp",
-  "publish_date": "2022-01-12",
-  "published_at": "2022-01-12T12:39:59Z"
- },
- {
-  "id": 951276,
-  "title": "I am back with 100 \"Dark Mode\" CSS loaders",
-  "description": "It's been a while since the last collection, but here I am with another one. Let's start 2022 with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YxkGSbOJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/khkfw2e8kclc35vgpmob.gif",
-  "slug": "i-am-back-with-100-dark-mode-css-loaders-4gp6",
-  "url": "https://dev.to/afif/i-am-back-with-100-dark-mode-css-loaders-4gp6",
-  "publish_date": "2022-01-12",
-  "published_at": "2022-01-12T10:30:34Z"
- },
- {
-  "id": 952526,
-  "title": "The cloud in 2021: 21 game-changing outages, security issues, and highlights",
-  "description": "Whew, what a year! From data centers going up in flames to security vulnerabilities that have been...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7OFX_x8Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uuvdfr1w9jorjpkld5tu.jpeg",
-  "slug": "the-cloud-in-2021-21-game-changing-outages-security-issues-and-highlights-1kd8",
-  "url": "https://dev.to/castai/the-cloud-in-2021-21-game-changing-outages-security-issues-and-highlights-1kd8",
-  "publish_date": "2022-01-12",
-  "published_at": "2022-01-12T09:45:40Z"
  }
 ]
