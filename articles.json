@@ -1,5 +1,55 @@
 [
  {
+  "id": 1065122,
+  "title": "Let's review some techniques to harm privacy",
+  "description": "Here are some of the most popular vs. unlikely techniques that can be used to identify people.       ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sCQD1dXK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k589krw41wpazfeg4dg1.jpg",
+  "slug": "lets-review-some-techniques-to-harm-privacy-l2",
+  "url": "https://dev.to/jmau111/lets-review-some-techniques-to-harm-privacy-l2",
+  "publish_date": "2022-04-23",
+  "published_at": "2022-04-23T20:08:28Z"
+ },
+ {
+  "id": 1064741,
+  "title": "Demystifying Linux: The purpose of /bin, /usr/bin and /usr/local/bin",
+  "description": "Introduction   Linux is a Unix-like, open source and community-developed operating system...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--57JjaGgy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a7bxr7yjx4k8yhudmz6h.jpg",
+  "slug": "demystifying-linux-the-purpose-of-bin-usrbin-and-usrlocalbin-5a8e",
+  "url": "https://dev.to/kcdchennai/demystifying-linux-the-purpose-of-bin-usrbin-and-usrlocalbin-5a8e",
+  "publish_date": "2022-04-23",
+  "published_at": "2022-04-23T15:40:20Z"
+ },
+ {
+  "id": 731121,
+  "title": "How We Migrated from Javascript and Flow to TypeScript at Osome",
+  "description": "This fairy tale started a long time ago. Often, you make a bet on the wrong horse in life, but,...",
+  "cover_image": "",
+  "slug": "how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661",
+  "url": "https://dev.to/frolovdev/how-we-migrated-from-javascript-and-flow-to-typescript-at-osome-4661",
+  "publish_date": "2022-04-23",
+  "published_at": "2022-04-23T11:49:53Z"
+ },
+ {
+  "id": 1064769,
+  "title": "11 Productive Websites for Web Developers",
+  "description": "Found amazing resources which will save you tons of time as a web developer and increase your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3m2Nq6rB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u54yow8cp9ube2tonow5.png",
+  "slug": "11-productive-websites-for-web-developers-2f1",
+  "url": "https://dev.to/suprabhasupi/11-productive-websites-for-web-developers-2f1",
+  "publish_date": "2022-04-23",
+  "published_at": "2022-04-23T11:12:12Z"
+ },
+ {
+  "id": 1061402,
+  "title": "How to Build the Perfect Developer Portfolio 🔥",
+  "description": "Hey everyone! I hope you're having a nice day or night.  Developer portfolios are interesting....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZATaYweu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j51jcekrjg8yclhirfda.png",
+  "slug": "how-to-build-the-perfect-developer-portfolio-576l",
+  "url": "https://dev.to/harshhhdev/how-to-build-the-perfect-developer-portfolio-576l",
+  "publish_date": "2022-04-23",
+  "published_at": "2022-04-23T06:00:18Z"
+ },
+ {
   "id": 1064287,
   "title": "Optimizing with the PostgreSQL deterministic query planner",
   "description": "Feed the planner, trust the plan   Of all the Aha! engineering tool expenses, the money I'm...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nermineslimane/how-to-structure-your-express-and-nodejs-project-3bl",
   "publish_date": "2022-01-14",
   "published_at": "2022-01-14T11:19:21Z"
- },
- {
-  "id": 954344,
-  "title": "Make your first contribution to a GitHub Action! ",
-  "description": "Why edit a GitHub Action?   There are many reasons to edit a GitHub Action. Perhaps, you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0gQ6zOo---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i3bvov3l86du81gze0mv.png",
-  "slug": "how-to-edit-a-github-action-3j14",
-  "url": "https://dev.to/github/how-to-edit-a-github-action-3j14",
-  "publish_date": "2022-01-13",
-  "published_at": "2022-01-13T18:36:26Z"
- },
- {
-  "id": 954042,
-  "title": "Sending Text Messages with Javascript and Twilio",
-  "description": "Twilio has become a favorite among devs looking to integrate messaging, calls, and streaming into...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1yj5APSN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qydybv7nqgr8nbkm10ed.png",
-  "slug": "sending-text-messages-with-javascript-and-twilio-2hpp",
-  "url": "https://dev.to/codesphere/sending-text-messages-with-javascript-and-twilio-2hpp",
-  "publish_date": "2022-01-13",
-  "published_at": "2022-01-13T15:46:10Z"
- },
- {
-  "id": 953823,
-  "title": "How to build a Tailwind CSS pagination component with Flowbite",
-  "description": "Tailwind CSS is one of the fastest growing frameworks and it is popular for its utility-first...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H92_agc2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgcpqec4g1x2qrofxl7d.png",
-  "slug": "how-to-build-a-tailwind-css-pagination-component-with-flowbite-19mb",
-  "url": "https://dev.to/themesberg/how-to-build-a-tailwind-css-pagination-component-with-flowbite-19mb",
-  "publish_date": "2022-01-13",
-  "published_at": "2022-01-13T11:19:41Z"
- },
- {
-  "id": 896951,
-  "title": "Security Pillar - AWS Well-Architected Framework | AWS White Paper Summary",
-  "description": "Introduction    The AWS Well-Architected Framework helps you understand trade-offs for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0kiELK3O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jymsghbish4pgsj2dve4.png",
-  "slug": "security-pillar-aws-well-architected-framework-aws-white-paper-summary-5cbj",
-  "url": "https://dev.to/awsmenacommunity/security-pillar-aws-well-architected-framework-aws-white-paper-summary-5cbj",
-  "publish_date": "2022-01-13",
-  "published_at": "2022-01-13T09:37:07Z"
- },
- {
-  "id": 953711,
-  "title": "CleanDocs A Documentation Template",
-  "description": "CleanDocs is a free and open-source documentation template built using html, tailwindcss, and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EreNO7Gc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4d3dh2h3t5jzo715ym8p.PNG",
-  "slug": "cleandocs-a-documentation-template-59h9",
-  "url": "https://dev.to/lmas3009/cleandocs-a-documentation-template-59h9",
-  "publish_date": "2022-01-13",
-  "published_at": "2022-01-13T09:13:39Z"
  }
 ]
