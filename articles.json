@@ -1,5 +1,55 @@
 [
  {
+  "id": 1065860,
+  "title": "The Complete Guide To Using One Monitor As A Programmer.",
+  "description": "The debate over whether one monitor is better than multiple monitors has been going on for years....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UM-4qnWi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6p2fmsioliexm71zfcub.png",
+  "slug": "the-complete-guide-to-using-one-monitor-as-a-programmer-4jp6",
+  "url": "https://dev.to/wiseai/the-complete-guide-to-using-one-monitor-as-a-programmer-4jp6",
+  "publish_date": "2022-04-24",
+  "published_at": "2022-04-24T19:44:53Z"
+ },
+ {
+  "id": 1065380,
+  "title": "I've made a react component that hides sensitive information in your app.",
+  "description": "Did you ever want to showcase a site you have worked on or a new feature you just published in a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eRkn_3tI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dqmu669aul48z39ee0f2.png",
+  "slug": "ive-made-a-react-component-that-hides-sensitive-information-in-your-app-6og",
+  "url": "https://dev.to/itaylisaey/ive-made-a-react-component-that-hides-sensitive-information-in-your-app-6og",
+  "publish_date": "2022-04-24",
+  "published_at": "2022-04-24T08:04:27Z"
+ },
+ {
+  "id": 1064949,
+  "title": "Use 2 monitors for learning and work",
+  "description": "Cover image shows me using 1st monitor to watch youtube while writing code on 2nd.  Since I bought an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rsEZ64Cw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mj12yu5j5p0tyljqxm7.png",
+  "slug": "use-2-monitors-for-learning-and-work-14bj",
+  "url": "https://dev.to/apayrus/use-2-monitors-for-learning-and-work-14bj",
+  "publish_date": "2022-04-24",
+  "published_at": "2022-04-24T07:57:01Z"
+ },
+ {
+  "id": 1065350,
+  "title": ".toLocaleString, one of the most underrated JavaScript features",
+  "description": ".toLocaleString and friends are some of the most underrated features of JavaScript. I came over them...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lGtyWoCC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rtprrxqjj0mxi2a2f3dz.png",
+  "slug": "tolocalestring-one-of-the-most-underrated-javascript-features-lid",
+  "url": "https://dev.to/siddharthshyniben/tolocalestring-one-of-the-most-underrated-javascript-features-lid",
+  "publish_date": "2022-04-24",
+  "published_at": "2022-04-24T06:18:55Z"
+ },
+ {
+  "id": 1065330,
+  "title": "7 More Killer One-Liners in JavaScript",
+  "description": "This is a continuation of the previous list of javascript one-liners. If you haven't checked out the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lbqmCQfk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fv3dbvxa5e4pko7fcnwe.jpg",
+  "slug": "7-more-killer-one-liners-in-javascript-2gf8",
+  "url": "https://dev.to/ruppysuppy/7-more-killer-one-liners-in-javascript-2gf8",
+  "publish_date": "2022-04-24",
+  "published_at": "2022-04-24T05:33:47Z"
+ },
+ {
   "id": 1065122,
   "title": "Let's review some techniques to harm privacy",
   "description": "Here are some of the most popular vs. unlikely techniques that can be used to identify people.       ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aws-builders/introduction-to-amazon-kinesis-18fh",
   "publish_date": "2022-01-15",
   "published_at": "2022-01-15T04:35:02Z"
- },
- {
-  "id": 955408,
-  "title": "What was your win this week?",
-  "description": "Got to all your meetings on time? Started a new project? Fixed a tricky bug?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pyDLAPme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cl.ly/188e843c2985/download/Image%25202019-02-15%2520at%25202.36.37%2520PM.png",
-  "slug": "what-was-your-win-this-week-2b5k",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-2b5k",
-  "publish_date": "2022-01-14",
-  "published_at": "2022-01-14T18:30:07Z"
- },
- {
-  "id": 953773,
-  "title": "🚀10 Trending projects on GitHub for web developers - 14th January 2022",
-  "description": "Trending Projects is available as a weekly newsletter please sign up at Stargazing.dev to ensure you...",
-  "cover_image": "",
-  "slug": "10-trending-projects-on-github-for-web-developers-14th-january-2022-3k2a",
-  "url": "https://dev.to/iainfreestone/10-trending-projects-on-github-for-web-developers-14th-january-2022-3k2a",
-  "publish_date": "2022-01-14",
-  "published_at": "2022-01-14T14:45:14Z"
- },
- {
-  "id": 954772,
-  "title": "Monitoring Django application performance with OpenTelemetry | SigNoz",
-  "description": "Django is a popular open-source python web framework that enables rapid development while taking out...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h3ZFQxFc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7p1kq1i1a86cigaotli.png",
-  "slug": "monitoring-django-application-performance-with-opentelemetry-signoz-4k8m",
-  "url": "https://dev.to/signoz/monitoring-django-application-performance-with-opentelemetry-signoz-4k8m",
-  "publish_date": "2022-01-14",
-  "published_at": "2022-01-14T14:27:59Z"
- },
- {
-  "id": 955085,
-  "title": "Moving to Germany",
-  "description": "If you follow me, you know I have worked as a consultant for the last year. I have decided to take...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eFB5GYf4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4gon6qg1drylxlfcugi7.jpg",
-  "slug": "moving-to-germany-4no9",
-  "url": "https://dev.to/santoshyadav198613/moving-to-germany-4no9",
-  "publish_date": "2022-01-14",
-  "published_at": "2022-01-14T13:00:26Z"
- },
- {
-  "id": 955037,
-  "title": "How to structure your Express and Node.Js project",
-  "description": "Why is project architecture so crucial?   Having a proper foundation for our project...",
-  "cover_image": "",
-  "slug": "how-to-structure-your-express-and-nodejs-project-3bl",
-  "url": "https://dev.to/nermineslimane/how-to-structure-your-express-and-nodejs-project-3bl",
-  "publish_date": "2022-01-14",
-  "published_at": "2022-01-14T11:19:21Z"
  }
 ]
