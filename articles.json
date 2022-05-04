@@ -1,5 +1,55 @@
 [
  {
+  "id": 1074467,
+  "title": "Por que você não acredita na sua capacidade?",
+  "description": "Fala galera, pokemaobr aqui novamente, para trazer mais conteúdo para você que é dev e está começando...",
+  "cover_image": "",
+  "slug": "por-que-voce-nao-acredita-na-sua-capacidade-51pg",
+  "url": "https://dev.to/acaverna/por-que-voce-nao-acredita-na-sua-capacidade-51pg",
+  "publish_date": "2022-05-03",
+  "published_at": "2022-05-03T17:12:16Z"
+ },
+ {
+  "id": 1073439,
+  "title": "Subindo seu site no GitHub Pages sem sair do seu editor de código",
+  "description": "Minha colega de trabalho, Rizèl Scarlett, criou uma extensão para o VScode que te permite subir seu...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JKsi9GYm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c08qso4jjl57t4g6vk2q.png",
+  "slug": "subindo-seu-site-no-github-pages-sem-sair-do-seu-editor-de-codigo-3og2",
+  "url": "https://dev.to/github/subindo-seu-site-no-github-pages-sem-sair-do-seu-editor-de-codigo-3og2",
+  "publish_date": "2022-05-03",
+  "published_at": "2022-05-03T13:56:32Z"
+ },
+ {
+  "id": 1066296,
+  "title": "Why Discord Is a Must-Have for OSS",
+  "description": "Appwrite is an OSS company, and we share as much as possible with our community. Since transparency...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LKJLxDkb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/98e2qokp8ld5h3fkk7q4.png",
+  "slug": "why-discord-is-a-must-have-for-oss-2jpj",
+  "url": "https://dev.to/appwrite/why-discord-is-a-must-have-for-oss-2jpj",
+  "publish_date": "2022-05-03",
+  "published_at": "2022-05-03T10:46:17Z"
+ },
+ {
+  "id": 1071288,
+  "title": "Building Nigma, a simple puzzle App Game using AppWrite",
+  "description": "(͠≖ ͜ʖ͠≖)👌 Overview of Nigma   The Nigma app was born from a simple inspiration: wasting...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7WcfbuTW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rv0xrz4wqob6xxhtxwsm.png",
+  "slug": "building-nigma-a-simple-puzzle-app-game-using-appwrite-4f0o",
+  "url": "https://dev.to/calo001/building-nigma-a-simple-puzzle-app-game-using-appwrite-4f0o",
+  "publish_date": "2022-05-03",
+  "published_at": "2022-05-03T02:13:06Z"
+ },
+ {
+  "id": 1071231,
+  "title": "We shouldn't use Enums on TypeScript anymore.",
+  "description": "Hi, Devs! I am Taishi, a software developer in Vancouver!  I have been thinking about using Enums...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Gi3VSXWx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l76vi2z985wf724vp3j1.png",
+  "slug": "we-shouldnt-use-enums-on-typescript-anymore-18d3",
+  "url": "https://dev.to/taishi/we-shouldnt-use-enums-on-typescript-anymore-18d3",
+  "publish_date": "2022-05-03",
+  "published_at": "2022-05-03T01:18:16Z"
+ },
+ {
   "id": 762065,
   "title": "PHP Array: A Gross Mistake",
   "description": "Any developer who has spent a little time working with PHP knows one of the most used compound types...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/yokwejuste/how-to-make-a-link-preview-2fnf",
   "publish_date": "2022-01-24",
   "published_at": "2022-01-24T01:35:05Z"
- },
- {
-  "id": 964845,
-  "title": "Want to learn about git and GitHub in a more fun way?",
-  "description": "We always watch tons of videos and tutorials and skim through lots of documentation to learn some...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K_AhuVdx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sty3izfdbicv27g90ilt.jpg",
-  "slug": "want-to-learn-about-git-and-github-in-a-more-fun-way-4o5f",
-  "url": "https://dev.to/pradumnasaraf/want-to-learn-about-git-and-github-in-a-more-fun-way-4o5f",
-  "publish_date": "2022-01-23",
-  "published_at": "2022-01-23T14:49:20Z"
- },
- {
-  "id": 964583,
-  "title": "CSS Pseudo-classes: Forms",
-  "description": "Yesterday we started looking at pseudo-classes that relate to links. In this article, we'll take a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--13OiBYtY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g75604f61uzcnfyfvcx1.jpg",
-  "slug": "css-pseudo-classes-forms-5fjb",
-  "url": "https://dev.to/dailydevtips1/css-pseudo-classes-forms-5fjb",
-  "publish_date": "2022-01-23",
-  "published_at": "2022-01-23T09:14:50Z"
- },
- {
-  "id": 964155,
-  "title": "Adding Google Authentication Feature.",
-  "description": "Hey everyone! In this article, we will be adding a new feature Google AUTH to our login Form. Let's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vrizB0Cs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jznjwhpfchnp5o0awok1.jpg",
-  "slug": "adding-google-authentication-feature-25a4",
-  "url": "https://dev.to/kirtisingh3008/adding-google-authentication-feature-25a4",
-  "publish_date": "2022-01-23",
-  "published_at": "2022-01-23T08:13:11Z"
- },
- {
-  "id": 907606,
-  "title": "Introduction to Modern Data Architecture (formerly Lake House)",
-  "description": "Organizations have been building data lakes to analyze massive amounts of data for deeper insights...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g0L2Af0r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hs2md41y4xaxcqbiuv7u.jpg",
-  "slug": "introduction-to-modern-data-architecture-formerly-lake-house-29g6",
-  "url": "https://dev.to/aws-builders/introduction-to-modern-data-architecture-formerly-lake-house-29g6",
-  "publish_date": "2022-01-23",
-  "published_at": "2022-01-23T07:39:43Z"
- },
- {
-  "id": 964359,
-  "title": "The Complete React Roadmap",
-  "description": "Learning React can be confusing at first, sometimes even downright scary! This article aims to put...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m-fSQfcU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ipzm2s4g0gtspnzs5f15.png",
-  "slug": "the-complete-react-roadmap-1ho4",
-  "url": "https://dev.to/ruppysuppy/the-complete-react-roadmap-1ho4",
-  "publish_date": "2022-01-23",
-  "published_at": "2022-01-23T06:12:38Z"
  }
 ]
