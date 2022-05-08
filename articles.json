@@ -1,5 +1,55 @@
 [
  {
+  "id": 1077595,
+  "title": "Virtual Machines 101",
+  "description": "Introduction   Alex  : Hey Garry! Can you spin up a VM and test this application? Garry :...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lftVKj_I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c2jc06l6fp3zzg52fl01.jpg",
+  "slug": "virtual-machines-101-2gmg",
+  "url": "https://dev.to/kcdchennai/virtual-machines-101-2gmg",
+  "publish_date": "2022-05-07",
+  "published_at": "2022-05-07T16:10:39Z"
+ },
+ {
+  "id": 1078334,
+  "title": "Chakra UI React - Coding a Simple Landing Page",
+  "description": "How to code a simple landing page in Chakra and React - A comprehensive tutorial.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_tXp06IN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pr7542uf50kdq0upizwc.jpg",
+  "slug": "chakra-ui-react-coding-a-simple-landing-page-41jg",
+  "url": "https://dev.to/sm0ke/chakra-ui-react-coding-a-simple-landing-page-41jg",
+  "publish_date": "2022-05-07",
+  "published_at": "2022-05-07T12:58:23Z"
+ },
+ {
+  "id": 1023434,
+  "title": "Parsers for Dummies",
+  "description": "Here are my notes about parsers. They are not particulary academic, but I hope they can help someone...",
+  "cover_image": "",
+  "slug": "parsers-for-dummies-23d0",
+  "url": "https://dev.to/frolovdev/parsers-for-dummies-23d0",
+  "publish_date": "2022-05-07",
+  "published_at": "2022-05-07T12:09:23Z"
+ },
+ {
+  "id": 1020887,
+  "title": "📖 History of \"Stop unnecessary re-rendering component in React !!\"",
+  "description": "once upon time...           💎 Generation of class component            🚩 Pure component()   Compare...",
+  "cover_image": "",
+  "slug": "history-of-stop-unnecessary-re-rendering-component-in-react--146f",
+  "url": "https://dev.to/kaziusan/history-of-stop-unnecessary-re-rendering-component-in-react--146f",
+  "publish_date": "2022-05-07",
+  "published_at": "2022-05-07T12:00:20Z"
+ },
+ {
+  "id": 1078074,
+  "title": "9 Best Software Architecture Patterns",
+  "description": "What is an architectural pattern?   Just like the architecture of a building, software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7szfCZMO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vroea35ih9dippc0ries.jpg",
+  "slug": "9-best-software-architecture-patterns-44pc",
+  "url": "https://dev.to/hussein_nm/9-best-software-architecture-patterns-44pc",
+  "publish_date": "2022-05-07",
+  "published_at": "2022-05-07T06:26:52Z"
+ },
+ {
   "id": 1077187,
   "title": "Cloud Pricing Comparison: AWS vs. Azure vs. Google Cloud Platform in 2022",
   "description": "If you’re considering moving to the public cloud or optimizing the choice for your next project,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/castai/the-hidden-shortcut-to-increasing-fintech-gross-margins-cloud-automation-5a14",
   "publish_date": "2022-01-28",
   "published_at": "2022-01-28T11:43:05Z"
- },
- {
-  "id": 969389,
-  "title": "Building Native Desktop Apps with Electron.JS",
-  "description": "Gone are the days where Javascript is locked behind the shackles of a browser. Electron, or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0hkGjFPn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jswkuy4lvyj42t9b41b6.png",
-  "slug": "building-native-desktop-apps-with-electronjs-4m8n",
-  "url": "https://dev.to/codesphere/building-native-desktop-apps-with-electronjs-4m8n",
-  "publish_date": "2022-01-27",
-  "published_at": "2022-01-27T16:03:56Z"
- },
- {
-  "id": 969498,
-  "title": "21 GitHub Repositories to Become a JavaScript Master 📚🚀",
-  "description": "Learning and mastering JavaScript can be hard if you are not aware of the resources that are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DA1hySX_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nspqrcdxc5mkdowifuqq.png",
-  "slug": "21-github-repositories-to-become-a-javascript-master-5bpa",
-  "url": "https://dev.to/madza/21-github-repositories-to-become-a-javascript-master-5bpa",
-  "publish_date": "2022-01-27",
-  "published_at": "2022-01-27T12:34:30Z"
- },
- {
-  "id": 969466,
-  "title": "🎶 Background Music to Get Into the Zone",
-  "description": "Maybe the most essential skill for a developer is having a crystal clear focus. Some call it \"the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nlm7wqGA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4ozhubds5f5yqkn1uzr.jpg",
-  "slug": "background-music-to-get-in-the-zone-1i0a",
-  "url": "https://dev.to/bascodes/background-music-to-get-in-the-zone-1i0a",
-  "publish_date": "2022-01-27",
-  "published_at": "2022-01-27T12:07:02Z"
- },
- {
-  "id": 969409,
-  "title": "⭐️ The Open Source Alternative To Notion ⭐️",
-  "description": "Getting Started with development   Please view the documentation for OS specific...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K3Yb-71x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xmn9u5xl38fof90xg84r.png",
-  "slug": "the-open-source-alternative-to-notion-1j3m",
-  "url": "https://dev.to/mutafakir/the-open-source-alternative-to-notion-1j3m",
-  "publish_date": "2022-01-27",
-  "published_at": "2022-01-27T10:19:59Z"
- },
- {
-  "id": 898359,
-  "title": "Introduction to AWS Lake Formation",
-  "description": "Introduction    AWS Lake Formation is an integrated data lake service that makes it easy for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1FIfzFCB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkp1cfeg4pgtyifr9mbm.png",
-  "slug": "introduction-to-aws-lake-formation-1j8c",
-  "url": "https://dev.to/aws-builders/introduction-to-aws-lake-formation-1j8c",
-  "publish_date": "2022-01-27",
-  "published_at": "2022-01-27T09:27:23Z"
  }
 ]
