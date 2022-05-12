@@ -1,5 +1,55 @@
 [
  {
+  "id": 1082483,
+  "title": "Season 9 of DevDiscuss is here! Let's talk about design patterns...",
+  "description": "DevDiscuss Season 9 is here! 🎉  In the premiere, my cohost @ridhwana and I focused on using design...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E2T66j_n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e526zmdjfba0jghsjuwn.png",
+  "slug": "season-9-of-devdiscuss-is-here-lets-talk-about-design-patterns-16bj",
+  "url": "https://dev.to/devteam/season-9-of-devdiscuss-is-here-lets-talk-about-design-patterns-16bj",
+  "publish_date": "2022-05-11",
+  "published_at": "2022-05-11T22:53:33Z"
+ },
+ {
+  "id": 1081914,
+  "title": "Our open-source project got funded!",
+  "description": "Hi Community, We have exciting news to share!  @combarnea and I open-sourced the Novu project because...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gdBQho1Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbp5y3o9tufnxb9kek6d.png",
+  "slug": "our-open-source-project-got-funded-1bon",
+  "url": "https://dev.to/scopsy/our-open-source-project-got-funded-1bon",
+  "publish_date": "2022-05-11",
+  "published_at": "2022-05-11T14:02:14Z"
+ },
+ {
+  "id": 1082143,
+  "title": "Pitch me on Python",
+  "description": "Let's say I've never used Python before. Can all the Pythonistas out there give the run down of what...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l6dQoqAn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a2qmot4u7vyjg3j93vjq.png",
+  "slug": "pitch-me-on-python-1loj",
+  "url": "https://dev.to/ben/pitch-me-on-python-1loj",
+  "publish_date": "2022-05-11",
+  "published_at": "2022-05-11T12:09:29Z"
+ },
+ {
+  "id": 1081925,
+  "title": "PostgreSQL Cheat Sheet",
+  "description": "We gathered a list of handy PostgreSQL commands and queries when working with PostgreSQL databases....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lrim6GaQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t4ti0mqpx5sxlr92o31d.png",
+  "slug": "postgresql-cheat-sheet-38j3",
+  "url": "https://dev.to/forestadmin/postgresql-cheat-sheet-38j3",
+  "publish_date": "2022-05-11",
+  "published_at": "2022-05-11T08:41:13Z"
+ },
+ {
+  "id": 1081513,
+  "title": "14 great tips to make amazing CLI applications",
+  "description": "I find command-line tools an incredibly way to multiply the impact of the code they produce.   Did...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h9q47eM9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrkoiomb5cy8jm312jqe.jpeg",
+  "slug": "14-great-tips-to-make-amazing-cli-applications-3gp3",
+  "url": "https://dev.to/wesen/14-great-tips-to-make-amazing-cli-applications-3gp3",
+  "publish_date": "2022-05-11",
+  "published_at": "2022-05-11T01:18:04Z"
+ },
+ {
   "id": 1081274,
   "title": "What do you spend the most time on as a developer? ⏳",
   "description": "This is the second post of the Mayfield + DEV Discussion series. Please feel free to go back and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pokemaobr/lugares-talvez-nao-triviais-para-voce-procurar-empregos-em-desenvolvimento-1jl5",
   "publish_date": "2022-02-01",
   "published_at": "2022-02-01T08:08:59Z"
- },
- {
-  "id": 968775,
-  "title": "What is this Developer Experience thing?",
-  "description": "And why you should consider it for your next role",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EnL2RPBk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rn8ppn18ro7yaz8v3n4z.jpg",
-  "slug": "what-is-this-developer-experience-thing-70l",
-  "url": "https://dev.to/missamarakay/what-is-this-developer-experience-thing-70l",
-  "publish_date": "2022-01-31",
-  "published_at": "2022-01-31T17:19:47Z"
- },
- {
-  "id": 908511,
-  "title": "Machine Learning Lifecycle Process",
-  "description": "Building and operating a typical ML workload is an iterative process, and consists of multiple...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KlGh8yqk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qz8vtzibpbaz8rofh1ty.png",
-  "slug": "machine-learning-lifecycle-process-547p",
-  "url": "https://dev.to/cloudtech/machine-learning-lifecycle-process-547p",
-  "publish_date": "2022-01-31",
-  "published_at": "2022-01-31T12:07:52Z"
- },
- {
-  "id": 973508,
-  "title": "5 tips I wish I knew as a junior developer",
-  "description": "Here are some tips for junior developers or everyone who just started taking interest in becoming...",
-  "cover_image": "",
-  "slug": "5-tips-i-wish-i-knew-as-a-junior-developer-38a1",
-  "url": "https://dev.to/bornfightcompany/5-tips-i-wish-i-knew-as-a-junior-developer-38a1",
-  "publish_date": "2022-01-31",
-  "published_at": "2022-01-31T11:34:08Z"
- },
- {
-  "id": 973342,
-  "title": "Creating a sidebar layout in Next.js with Tailwind",
-  "description": "We will be creating a website layout in Next.js powered by Tailwind CSS for all the styling.  The...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l4QfnquL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gnhm9n4loza1nti4hkfq.jpg",
-  "slug": "creating-a-sidebar-layout-in-nextjs-with-tailwind-3692",
-  "url": "https://dev.to/dailydevtips1/creating-a-sidebar-layout-in-nextjs-with-tailwind-3692",
-  "publish_date": "2022-01-31",
-  "published_at": "2022-01-31T06:27:27Z"
- },
- {
-  "id": 973315,
-  "title": "Building Motivation through Coding Affirmations \u0026 Achievement Lists",
-  "description": "I've started my front-end developer journey, and decided I'd share my way of helping get through the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kmnr9XsW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pq2168y9cy5ebp3man61.jpg",
-  "slug": "building-motivation-through-coding-affirmations-achievement-lists-18b4",
-  "url": "https://dev.to/marcojhb/building-motivation-through-coding-affirmations-achievement-lists-18b4",
-  "publish_date": "2022-01-31",
-  "published_at": "2022-01-31T05:56:28Z"
  }
 ]
