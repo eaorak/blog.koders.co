@@ -1,5 +1,55 @@
 [
  {
+  "id": 1089235,
+  "title": "How the DEV {% embed %} codes were created 🎙",
+  "description": "In this week's episode of DevDiscuss, we welcomed @aritdeveloper and @jeremyf from the Forem team to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ehsLmyOa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zrxbbyftfcqrc9x875c.png",
+  "slug": "how-the-dev-embed-codes-were-created-12aj",
+  "url": "https://dev.to/devteam/how-the-dev-embed-codes-were-created-12aj",
+  "publish_date": "2022-05-18",
+  "published_at": "2022-05-18T19:47:13Z"
+ },
+ {
+  "id": 1087408,
+  "title": "Show Off Your Comment Streak with Community Wellness Badges",
+  "description": "Hey DEV Community! I'm here to share an exciting announcement with you 🗣️          ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--clWsoi8R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w75oqliannbz1dh8fnja.png",
+  "slug": "show-off-your-comment-streak-with-community-wellness-badges-k7f",
+  "url": "https://dev.to/devteam/show-off-your-comment-streak-with-community-wellness-badges-k7f",
+  "publish_date": "2022-05-18",
+  "published_at": "2022-05-18T18:08:39Z"
+ },
+ {
+  "id": 1079618,
+  "title": "Manipulating the DOM using Javascript - how to select nodes (part 1) 👨🏼‍🔬🎯",
+  "description": "In the beginning, websites were entirely made out of HTML and they could only display text (back in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1d9PCQ7Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/da2hfeal3hhow50ra8u3.jpg",
+  "slug": "manipulating-the-dom-using-javascript-how-to-select-nodes-part-1-38j",
+  "url": "https://dev.to/arikaturika/manipulating-the-dom-using-javascript-how-to-select-nodes-part-1-38j",
+  "publish_date": "2022-05-18",
+  "published_at": "2022-05-18T06:54:17Z"
+ },
+ {
+  "id": 1084266,
+  "title": "Merging Pull Requests Like a Pro With Mergify",
+  "description": "If you have been using Git for sometime now, I am sure working with Pull Requests is now a second...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uwc9uSVl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k4ad4sdtpo9v0douknv4.png",
+  "slug": "merging-pull-requests-like-a-pro-with-mergify-30fa",
+  "url": "https://dev.to/aniket762/merging-pull-requests-like-a-pro-with-mergify-30fa",
+  "publish_date": "2022-05-18",
+  "published_at": "2022-05-18T04:43:29Z"
+ },
+ {
+  "id": 1088535,
+  "title": "What's your current code editor/IDE setup?",
+  "description": "Coding without a code editor or IDE is unimaginable unless you use notepad. So, what's you current...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EZlrIlZQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rc4igdnbnt6qn7ebs7nd.png",
+  "slug": "share-your-code-editoride-setup-1nlp",
+  "url": "https://dev.to/asheeshh/share-your-code-editoride-setup-1nlp",
+  "publish_date": "2022-05-18",
+  "published_at": "2022-05-18T03:22:15Z"
+ },
+ {
   "id": 1075776,
   "title": "Swiftly Awaiting Async Code Using Appwrite",
   "description": "Modern application development with Swift involves a lot of asynchronous (or \"async\") programming...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dustinbrett/the-ultimate-personal-website-fully-functional-windows-10-clone-52im",
   "publish_date": "2022-02-08",
   "published_at": "2022-02-08T04:08:49Z"
- },
- {
-  "id": 981721,
-  "title": "Flask Data Tables - Inline Edit / Docker / Flask-RestX API",
-  "description": "The project implements paginated access to data using Simple-DataTables, inline edit, toasts notifications and Docker Support.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R_9M2LtQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttauvep5xaakwb315apt.png",
-  "slug": "flask-data-tables-inline-edit-docker-flask-restx-api-2627",
-  "url": "https://dev.to/sm0ke/flask-data-tables-inline-edit-docker-flask-restx-api-2627",
-  "publish_date": "2022-02-07",
-  "published_at": "2022-02-07T16:45:07Z"
- },
- {
-  "id": 981384,
-  "title": "How to use an accordion component with Tailwind CSS and Flowbite",
-  "description": "One of my favorite stacks when building websites is to use the utility classes from Tailwind CSS and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ysxIB1HB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15mrj9lnkz4myhu1o2hf.png",
-  "slug": "how-to-use-an-accordion-component-with-tailwind-css-and-flowbite-59o3",
-  "url": "https://dev.to/themesberg/how-to-use-an-accordion-component-with-tailwind-css-and-flowbite-59o3",
-  "publish_date": "2022-02-07",
-  "published_at": "2022-02-07T10:36:47Z"
- },
- {
-  "id": 981301,
-  "title": "Tips for starting a new job",
-  "description": "This post is part of my mentoring conversation series which includes relatively short posts on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bKTam64P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z8bob68t87jpxue6sgai.jpg",
-  "slug": "tips-for-starting-a-new-job-42gb",
-  "url": "https://dev.to/rinaarts/tips-for-starting-a-new-job-42gb",
-  "publish_date": "2022-02-07",
-  "published_at": "2022-02-07T08:52:17Z"
- },
- {
-  "id": 933304,
-  "title": "Industrial IoT Architecture\nPatterns | AWS White Paper Summary",
-  "description": "Today, industrial companies want to ingest, store, and analyze IoT data, closer to the point where...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KdGaME53--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uksopmq6ax1hm0u1u2jd.png",
-  "slug": "industrial-iot-architecturepatterns-aws-white-paper-summary-4b6g",
-  "url": "https://dev.to/awsmenacommunity/industrial-iot-architecturepatterns-aws-white-paper-summary-4b6g",
-  "publish_date": "2022-02-07",
-  "published_at": "2022-02-07T03:36:23Z"
- },
- {
-  "id": 981018,
-  "title": "React Hooks: useContext()",
-  "description": "What are React hooks? They are functions in React that allow you to add react functionality to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DW45lxIx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kgqstha04upl500anukc.png",
-  "slug": "react-hooks-usecontext-167h",
-  "url": "https://dev.to/fig781/react-hooks-usecontext-167h",
-  "publish_date": "2022-02-07",
-  "published_at": "2022-02-07T01:07:07Z"
  }
 ]
