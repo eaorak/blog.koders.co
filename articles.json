@@ -1,5 +1,55 @@
 [
  {
+  "id": 1091159,
+  "title": "What *new* technologies do you most want to learn?",
+  "description": "Only talking about relatively new technologies, what is most appealing to you? Why do you want to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bD-_RFVo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dt0td2wfnul7ijc42ch6.png",
+  "slug": "what-new-technologies-do-you-most-want-to-learn-34kb",
+  "url": "https://dev.to/devteam/what-new-technologies-do-you-most-want-to-learn-34kb",
+  "publish_date": "2022-05-20",
+  "published_at": "2022-05-20T15:37:52Z"
+ },
+ {
+  "id": 1073952,
+  "title": "Cloud Functions Using the New Java Runtime",
+  "description": "One of the highlights of Appwrite’s latest release is the addition of four new Cloud Function...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4tt9Zam1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1m3mkwmln1fe44xiz29t.png",
+  "slug": "cloud-functions-using-the-new-java-runtime-39j0",
+  "url": "https://dev.to/appwrite/cloud-functions-using-the-new-java-runtime-39j0",
+  "publish_date": "2022-05-20",
+  "published_at": "2022-05-20T12:21:02Z"
+ },
+ {
+  "id": 1073949,
+  "title": "Cloud Functions Using the New Kotlin Runtime",
+  "description": "One of the highlights of Appwrite’s latest release is the addition of four new Cloud Function...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YmuDvylZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0weulru08wmviow6ddl8.png",
+  "slug": "cloud-functions-using-the-new-kotlin-runtime-3ejo",
+  "url": "https://dev.to/appwrite/cloud-functions-using-the-new-kotlin-runtime-3ejo",
+  "publish_date": "2022-05-20",
+  "published_at": "2022-05-20T12:02:18Z"
+ },
+ {
+  "id": 1090850,
+  "title": "Tech Companies Can Endure Recession If They Fix This One Neglected Cost Item",
+  "description": "As the global economy flounders, investors rush to safer equities and VCs are no longer amused by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pftZXO1M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjmjueuyh33a0mxwfqfj.jpg",
+  "slug": "tech-companies-can-endure-recession-if-they-fix-this-one-neglected-cost-item-41l",
+  "url": "https://dev.to/castai/tech-companies-can-endure-recession-if-they-fix-this-one-neglected-cost-item-41l",
+  "publish_date": "2022-05-20",
+  "published_at": "2022-05-20T11:08:18Z"
+ },
+ {
+  "id": 1090732,
+  "title": "Learn how React Context API works by Building a Minimal Ecommerce Shopping App",
+  "description": "So, this is a project that has been on my mind for a while, but I didn't put much thought or effort...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CX6NYaV2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z09tf70qah4lawngdy2z.png",
+  "slug": "learn-how-react-context-api-works-by-building-a-minimal-ecommerce-shopping-app-2479",
+  "url": "https://dev.to/israelmitolu/learn-how-react-context-api-works-by-building-a-minimal-ecommerce-shopping-app-2479",
+  "publish_date": "2022-05-20",
+  "published_at": "2022-05-20T10:14:00Z"
+ },
+ {
   "id": 1090093,
   "title": "16 Useful Background Generators for Your Website Designs 🎨😍",
   "description": "Have you ever struggled to create engaging visuals for products, branding, and interfaces? The...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aws-builders/streaming-data-solutions-on-aws-part-4-3h19",
   "publish_date": "2022-02-10",
   "published_at": "2022-02-10T03:22:51Z"
- },
- {
-  "id": 983516,
-  "title": "Bidding farewell to Appwrite's Tasks Service 👋",
-  "description": "Appwrite's Tasks Service was a great way to send HTTP requests to remote URLs at specific intervals...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sp7P2RV9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kjks8rw1ps4bhyt3cc0b.jpg",
-  "slug": "bidding-farewell-to-appwrites-tasks-service-2396",
-  "url": "https://dev.to/appwrite/bidding-farewell-to-appwrites-tasks-service-2396",
-  "publish_date": "2022-02-09",
-  "published_at": "2022-02-09T12:42:37Z"
- },
- {
-  "id": 983567,
-  "title": "Generate a CSS Color Gradient",
-  "description": "The CSS Gradient online generator tool is a nice and simple to use utility to quickly generate linear...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tVXoPGzb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qkzca7gqo7qyvb53aroh.jpg",
-  "slug": "generate-a-css-color-gradient-54ca",
-  "url": "https://dev.to/colortools/generate-a-css-color-gradient-54ca",
-  "publish_date": "2022-02-09",
-  "published_at": "2022-02-09T11:02:58Z"
- },
- {
-  "id": 983488,
-  "title": "Creating a Read Progress Bar in React and TailwindCSS",
-  "description": "Recently, I was reading one of my favorite author's articles on his website. I realized he has a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wYj6-QE0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/49a5779ennir28dun3gx.png",
-  "slug": "creating-a-read-progress-bar-in-react-and-tailwindcss-g1n",
-  "url": "https://dev.to/anshuman_bhardwaj/creating-a-read-progress-bar-in-react-and-tailwindcss-g1n",
-  "publish_date": "2022-02-09",
-  "published_at": "2022-02-09T10:24:30Z"
- },
- {
-  "id": 898423,
-  "title": "Introduction to Amazon Compute Services (EC2, EKS, and ECS)",
-  "description": "Introduction    Amazon EC2, with instances acting as AWS virtual machines, provides an ideal...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z1Dradn7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ss3wnbaamo505j5sngcz.png",
-  "slug": "introduction-to-amazon-compute-services-ec2-eks-and-ecs-511e",
-  "url": "https://dev.to/aws-builders/introduction-to-amazon-compute-services-ec2-eks-and-ecs-511e",
-  "publish_date": "2022-02-09",
-  "published_at": "2022-02-09T03:31:23Z"
- },
- {
-  "id": 983241,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-h6h",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-h6h",
-  "publish_date": "2022-02-09",
-  "published_at": "2022-02-09T01:18:15Z"
  }
 ]
