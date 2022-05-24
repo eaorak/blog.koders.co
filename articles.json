@@ -1,5 +1,55 @@
 [
  {
+  "id": 1093688,
+  "title": "Introducing Rediscovering Ruby",
+  "description": "This post is co-authored by @juliannatetreault and @ridhwana.            Introduction   👋 Hi there...",
+  "cover_image": "",
+  "slug": "introducing-rediscovering-ruby-53bk",
+  "url": "https://dev.to/ridhwana/introducing-rediscovering-ruby-53bk",
+  "publish_date": "2022-05-23",
+  "published_at": "2022-05-23T16:38:35Z"
+ },
+ {
+  "id": 1035712,
+  "title": "When Netlify asks you to full-time OSS, you say yes!",
+  "description": "Well, there it is.  I'm ecstatic to announce that, as of today, I’ve joined OSS Team at Netlify as a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6bWqWBjY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rv0t454dtao7ml73xeu9.jpeg",
+  "slug": "when-netlify-asks-you-to-full-time-oss-you-say-yes-5ccf",
+  "url": "https://dev.to/ryansolid/when-netlify-asks-you-to-full-time-oss-you-say-yes-5ccf",
+  "publish_date": "2022-05-23",
+  "published_at": "2022-05-23T15:54:01Z"
+ },
+ {
+  "id": 1087446,
+  "title": "A Guide to writing Industry Standard Git Commit Message",
+  "description": "I bet you already heard something about Git before starting this article whatever led you here,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DXBzIEO6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c0bnyxbi7voh1yba0ixb.jpeg",
+  "slug": "a-guide-to-writing-industry-standard-git-commit-message-2ohl",
+  "url": "https://dev.to/tuasegun/a-guide-to-writing-industry-standard-git-commit-message-2ohl",
+  "publish_date": "2022-05-23",
+  "published_at": "2022-05-23T14:14:32Z"
+ },
+ {
+  "id": 1093406,
+  "title": "⛔ Squash commits considered harmful ⛔",
+  "description": "A recurring conversation in developer circles is if you should use git --squash when merging or do...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vTKTjPSd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bnr8zi5a3btotaeddvon.png",
+  "slug": "squash-commits-considered-harmful-ob1",
+  "url": "https://dev.to/wesen/squash-commits-considered-harmful-ob1",
+  "publish_date": "2022-05-23",
+  "published_at": "2022-05-23T11:46:32Z"
+ },
+ {
+  "id": 1093019,
+  "title": "Do you remember the FIRST project made by you?",
+  "description": "Do you remember the very first project made by you when you started learning to code in a particular...",
+  "cover_image": "",
+  "slug": "do-you-remember-the-first-project-made-by-you-2ap8",
+  "url": "https://dev.to/asheeshh/do-you-remember-the-first-project-made-by-you-2ap8",
+  "publish_date": "2022-05-23",
+  "published_at": "2022-05-23T01:29:16Z"
+ },
+ {
   "id": 1092755,
   "title": "Top 15 Vim shortcuts to remember",
   "description": "Introduction   If you ever installed Linux in your life, I'm sure you might have come across...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ceonyema/on-blockchain-understanding-the-absolute-basics-oog",
   "publish_date": "2022-02-13",
   "published_at": "2022-02-13T02:26:58Z"
- },
- {
-  "id": 979334,
-  "title": "Reading Comprehension",
-  "description": "Reading comprehension is a developer’s closest friend. Most of the information you will use comes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WogHwvu9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eyrcbhee050eigxv3gi6.gif",
-  "slug": "reading-comprehension-22e0",
-  "url": "https://dev.to/theodinproject/reading-comprehension-22e0",
-  "publish_date": "2022-02-12",
-  "published_at": "2022-02-12T15:48:39Z"
- },
- {
-  "id": 987120,
-  "title": "Node.js Tutorial ✨ Complete Guide for Beginners",
-  "description": "This Node.js tutorial is aimed at developers who want to program with Node.js but know little or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PtA2VgN_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jmagblzr5454b8hp1xm5.png",
-  "slug": "nodejs-tutorial-complete-guide-for-beginners-1l83",
-  "url": "https://dev.to/webdeasy/nodejs-tutorial-complete-guide-for-beginners-1l83",
-  "publish_date": "2022-02-12",
-  "published_at": "2022-02-12T14:09:46Z"
- },
- {
-  "id": 986812,
-  "title": "7 Animation Tool For Graphic Design",
-  "description": "*Animate Your Ideas, Design Better Apps * Principle makes it easy to design animated and interactive...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--egHeohMY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xld8vsihaifkirmiejcm.jpg",
-  "slug": "7-animation-tool-for-graphic-design-3cj4",
-  "url": "https://dev.to/aatmprakash/7-animation-tool-for-graphic-design-3cj4",
-  "publish_date": "2022-02-12",
-  "published_at": "2022-02-12T07:18:28Z"
- },
- {
-  "id": 986684,
-  "title": "Level-Up Your React Skill with Testing (Part 1)",
-  "description": "Are you currently learning React JS or using it in your work ?   Let's step up the game by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c40rpflM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/abqetckyyiqj795l7h5v.jpg",
-  "slug": "level-up-your-react-game-with-testing-part-1-lhd",
-  "url": "https://dev.to/fadhilradh/level-up-your-react-game-with-testing-part-1-lhd",
-  "publish_date": "2022-02-12",
-  "published_at": "2022-02-12T04:51:38Z"
- },
- {
-  "id": 908593,
-  "title": "Introduction to Amazon Machine Learning",
-  "description": "Introduction    AWS offers the broadest and deepest set of machine learning services and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jVZ9Eq53--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2r8gcr9mubmsw9sugrre.png",
-  "slug": "introduction-to-amazon-machine-learning-5adc",
-  "url": "https://dev.to/aws-builders/introduction-to-amazon-machine-learning-5adc",
-  "publish_date": "2022-02-12",
-  "published_at": "2022-02-12T01:37:46Z"
  }
 ]
