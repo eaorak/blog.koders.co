@@ -1,5 +1,55 @@
 [
  {
+  "id": 1094740,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-3n3k",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3n3k",
+  "publish_date": "2022-05-24",
+  "published_at": "2022-05-24T15:17:36Z"
+ },
+ {
+  "id": 1094563,
+  "title": "Complete guide to GraphQL in Angular [with example] 🚀",
+  "description": "This tutorial was originally posted on SigNoz Blog and is written by Sai Deepesh  GraphQL is a query...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Yo8hql1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2f1a3hzd1ju37i3qinsx.png",
+  "slug": "complete-guide-to-graphql-in-angular-with-example-2fh5",
+  "url": "https://dev.to/signoz/complete-guide-to-graphql-in-angular-with-example-2fh5",
+  "publish_date": "2022-05-24",
+  "published_at": "2022-05-24T13:45:27Z"
+ },
+ {
+  "id": 1094493,
+  "title": "The NodeJS 18 Fetch API",
+  "description": "NodeJS 18 introduced some new cool features and one of the most useful ones is the built in Fetch...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WHiM_9r7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vkln4ngn44ww8kd5k9ts.png",
+  "slug": "the-nodejs-18-fetch-api-72m",
+  "url": "https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m",
+  "publish_date": "2022-05-24",
+  "published_at": "2022-05-24T11:12:22Z"
+ },
+ {
+  "id": 1094351,
+  "title": "How I Created a Comic Book Store with Medusa, Gatsby, PayPal, and MeiliSearch",
+  "description": "Medusa is an open source headless commerce platform targeted toward developers. It can be used to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4YCRXlD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jogp8khgje0rhmuubqi3.jpg",
+  "slug": "how-i-created-a-comic-book-store-with-medusa-gatsby-paypal-and-meilisearch-2k01",
+  "url": "https://dev.to/medusajs/how-i-created-a-comic-book-store-with-medusa-gatsby-paypal-and-meilisearch-2k01",
+  "publish_date": "2022-05-24",
+  "published_at": "2022-05-24T09:59:52Z"
+ },
+ {
+  "id": 1094098,
+  "title": "Exploring The F# Frontend Landscape",
+  "description": "Hello everyone it's been a while! Today we will talk about what is the current frontend landscape of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J9me6oPa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/85jykgocg5i8ux1yrx6f.png",
+  "slug": "exploring-the-f-frontend-landscape-13aa",
+  "url": "https://dev.to/tunaxor/exploring-the-f-frontend-landscape-13aa",
+  "publish_date": "2022-05-24",
+  "published_at": "2022-05-24T01:04:17Z"
+ },
+ {
   "id": 1093688,
   "title": "Introducing Rediscovering Ruby",
   "description": "This post is co-authored by @juliannatetreault and @ridhwana.            Introduction   👋 Hi there...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/babib/5-awesome-html-and-css-projects-to-build-5en5",
   "publish_date": "2022-02-14",
   "published_at": "2022-02-14T01:42:03Z"
- },
- {
-  "id": 987863,
-  "title": "15 underrated HTML attributes every web developer should know",
-  "description": "HTML may not be a programming language per se, but there's no doubt in the power it possesses. We...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pCzn0wxP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/erc7akrmx2m545zeggr2.png",
-  "slug": "15-underrated-html-attributes-every-web-developer-should-know-5704",
-  "url": "https://dev.to/genicsblog/15-underrated-html-attributes-every-web-developer-should-know-5704",
-  "publish_date": "2022-02-13",
-  "published_at": "2022-02-13T14:37:32Z"
- },
- {
-  "id": 987681,
-  "title": "How do React Fragments work under the hood?",
-  "description": "React aims to stay neat and clean that's why fragments are out there. They allow getting rid of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mx5X1AEy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qo65x14w1ohhrd8nq2ka.png",
-  "slug": "how-do-react-fragments-work-under-the-hood-36n5",
-  "url": "https://dev.to/fromaline/how-do-react-fragments-work-under-the-hood-36n5",
-  "publish_date": "2022-02-13",
-  "published_at": "2022-02-13T09:33:09Z"
- },
- {
-  "id": 987525,
-  "title": "7 Killer One-Liners in JavaScript",
-  "description": "7 Killer One-Liners in JavaScript   JavaScript is the most crucial pillar of Web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YbKJL8Cg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k2xjggmmb0apji1zmesy.png",
-  "slug": "7-killer-one-liners-in-javascript-one",
-  "url": "https://dev.to/ruppysuppy/7-killer-one-liners-in-javascript-one",
-  "publish_date": "2022-02-13",
-  "published_at": "2022-02-13T05:49:32Z"
- },
- {
-  "id": 887743,
-  "title": "Streaming Data Solutions on AWS - Part 5",
-  "description": "Stream processing applications process data continuously in real-time, even before it is stored....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rD72tLBc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jl1hjnfwjklhryqa077s.jpg",
-  "slug": "streaming-data-solutions-on-aws-part-5-57o3",
-  "url": "https://dev.to/aws-builders/streaming-data-solutions-on-aws-part-5-57o3",
-  "publish_date": "2022-02-13",
-  "published_at": "2022-02-13T04:50:18Z"
- },
- {
-  "id": 987483,
-  "title": "On Blockchain — Understanding the absolute basics.",
-  "description": "In this post, we are going to learn about blockchain in its simplest form, my objective for this...",
-  "cover_image": "",
-  "slug": "on-blockchain-understanding-the-absolute-basics-oog",
-  "url": "https://dev.to/ceonyema/on-blockchain-understanding-the-absolute-basics-oog",
-  "publish_date": "2022-02-13",
-  "published_at": "2022-02-13T02:26:58Z"
  }
 ]
