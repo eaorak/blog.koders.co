@@ -1,5 +1,55 @@
 [
  {
+  "id": 1016842,
+  "title": "CTO last day: reflections, mistakes, and some learnings",
+  "description": "Burning my hands on the steering wheel.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Iqw1I-NU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://danlebrero.com/images/blog/cto/day8/bye.jpg",
+  "slug": "cto-last-day-reflections-mistakes-and-some-learnings-mip",
+  "url": "https://dev.to/danlebrero/cto-last-day-reflections-mistakes-and-some-learnings-mip",
+  "publish_date": "2022-05-31",
+  "published_at": "2022-05-31T18:26:49Z"
+ },
+ {
+  "id": 1100853,
+  "title": "19 GitHub Repositories to Become a React Master ⚛️🧙",
+  "description": "React is among the most popular choices to build interactive UIs. Learning and mastering it can be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6yb3M0-y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bfqnrt6i96wtdkpa6xgi.png",
+  "slug": "19-github-repositories-to-become-a-react-master-379n",
+  "url": "https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n",
+  "publish_date": "2022-05-31",
+  "published_at": "2022-05-31T16:11:10Z"
+ },
+ {
+  "id": 1100422,
+  "title": "Customizing my Zsh Prompt",
+  "description": "Cassidy updated her Zsh prompt to have some fun colors, the date, and git information. Here's how!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o3nbpiJ5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1629654291663-b91ad427698f%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1674%26q%3D80",
+  "slug": "customizing-my-zsh-prompt-3417",
+  "url": "https://dev.to/cassidoo/customizing-my-zsh-prompt-3417",
+  "publish_date": "2022-05-31",
+  "published_at": "2022-05-31T15:21:04Z"
+ },
+ {
+  "id": 1100750,
+  "title": "Have you done anything interesting with AI/ML?",
+  "description": "Whether part of your job, school, or just spare time — have you made use of this branch of our field?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s44j0S5D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ln15jyvk49bwfuc7irsm.png",
+  "slug": "have-you-done-anything-interesting-with-aiml-1i2c",
+  "url": "https://dev.to/ben/have-you-done-anything-interesting-with-aiml-1i2c",
+  "publish_date": "2022-05-31",
+  "published_at": "2022-05-31T12:27:04Z"
+ },
+ {
+  "id": 1099692,
+  "title": "GitLive's Tool Window Just Got a Major Upgrade in PhpStorm",
+  "description": "With the new tool window, you can now see all work in progress across your entire team in a single...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tqk4GHwZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wefkq0hfb9xp5atjzgie.png",
+  "slug": "gitlives-tool-window-just-got-a-major-upgrade-in-phpstorm-31c5",
+  "url": "https://dev.to/gitlive/gitlives-tool-window-just-got-a-major-upgrade-in-phpstorm-31c5",
+  "publish_date": "2022-05-31",
+  "published_at": "2022-05-31T08:53:54Z"
+ },
+ {
   "id": 1099871,
   "title": "Music Monday — What are you listening to? (May 30)",
   "description": "cover image credits: gifovea  In this weekly series, folks can chime in and drop links to whatever it...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/this-is-learning/visual-studio-code-tips-tricks-command-palette-and-its-friends-2bhi",
   "publish_date": "2022-02-21",
   "published_at": "2022-02-21T06:27:16Z"
- },
- {
-  "id": 995225,
-  "title": "Introduction to Data Structures and Algorithms with Python",
-  "description": "Introduction   Data is something that everyone is familiar with, but knowing how to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kLlj6kPc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yuoa6u9ivony989ouesk.png",
-  "slug": "introduction-to-data-structures-and-algorithms-with-python-3jhn",
-  "url": "https://dev.to/brayan_kai/introduction-to-data-structures-and-algorithms-with-python-3jhn",
-  "publish_date": "2022-02-20",
-  "published_at": "2022-02-20T16:18:31Z"
- },
- {
-  "id": 995400,
-  "title": "Create a Reddit clone with RedwoodJS",
-  "description": "Learn how to clone the popular social media website Reddit with RedwoodJS, a new full-stack javascript framework",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v72sHzi9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/zMh5LEI.png",
-  "slug": "create-a-reddit-clone-with-redwoodjs-pcp",
-  "url": "https://dev.to/arnu515/create-a-reddit-clone-with-redwoodjs-pcp",
-  "publish_date": "2022-02-20",
-  "published_at": "2022-02-20T14:41:46Z"
- },
- {
-  "id": 995103,
-  "title": "Planning a React Application",
-  "description": "Planning a non-trivial web application that utilizes React is something you may have done in the past...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Eyww9gE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nbhu98b72ff6abgutnra.png",
-  "slug": "planning-a-react-application-3pe4",
-  "url": "https://dev.to/fkkarakurt/planning-a-react-application-3pe4",
-  "publish_date": "2022-02-20",
-  "published_at": "2022-02-20T07:34:26Z"
- },
- {
-  "id": 995102,
-  "title": "TypeScript utility types: Pick and Omit",
-  "description": "In the previous article, we first looked at TypeScript utility types: Partial and Required. We'll...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MI47ng5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9tuop6mxj5ouzsmwpicl.jpg",
-  "slug": "typescript-utility-types-pick-and-omit-135e",
-  "url": "https://dev.to/dailydevtips1/typescript-utility-types-pick-and-omit-135e",
-  "publish_date": "2022-02-20",
-  "published_at": "2022-02-20T07:20:38Z"
- },
- {
-  "id": 995058,
-  "title": "6 Killer Utility Functions in JavaScript",
-  "description": "This is somewhat of an extension to last week's 7 Killer One-Liners in JavaScript. If you haven't...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bhhbou8u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d3q87phuvhpy0ddx814t.png",
-  "slug": "6-killer-utility-functions-in-javascript-1j68",
-  "url": "https://dev.to/ruppysuppy/6-killer-utility-functions-in-javascript-1j68",
-  "publish_date": "2022-02-20",
-  "published_at": "2022-02-20T05:39:13Z"
  }
 ]
