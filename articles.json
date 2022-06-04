@@ -1,5 +1,55 @@
 [
  {
+  "id": 1104075,
+  "title": "Cloud Functions Using the New .NET Runtime",
+  "description": "One of the highlights of Appwrite’s latest release is the addition of four new Cloud Function...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uoM3DfiL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l6jry1rbqo29okn2lr1b.png",
+  "slug": "cloud-functions-using-the-new-net-runtime-4fkm",
+  "url": "https://dev.to/appwrite/cloud-functions-using-the-new-net-runtime-4fkm",
+  "publish_date": "2022-06-03",
+  "published_at": "2022-06-03T15:13:28Z"
+ },
+ {
+  "id": 1098293,
+  "title": "How to mentor a junior dev",
+  "description": "Mentoring can have a huge impact on the world. It creates a ripple effect, where you influence someone's mental models and approaches to code in the years to come.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RQ2aK6xM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1529156069898-49953e39b3ac%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D2232%26q%3D80",
+  "slug": "how-to-mentor-a-junior-dev-21dd",
+  "url": "https://dev.to/arielbk/how-to-mentor-a-junior-dev-21dd",
+  "publish_date": "2022-06-03",
+  "published_at": "2022-06-03T15:04:05Z"
+ },
+ {
+  "id": 1101041,
+  "title": "Coding and ADHD - Can't Stop",
+  "description": "Hyperfocus   I find \"hyperfocus\" and \"flow state\" to be analogous with one key difference -...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sbror-jP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l959sogemomqfh7wun7u.png",
+  "slug": "coding-and-adhd-cant-stop-10mf",
+  "url": "https://dev.to/abbeyperini/coding-and-adhd-cant-stop-10mf",
+  "publish_date": "2022-06-03",
+  "published_at": "2022-06-03T13:04:19Z"
+ },
+ {
+  "id": 1103607,
+  "title": "A11Y 101: Buttons vs links",
+  "description": "Let's set one thing straight before we even dive into the article.  Divs are not buttons!  Yes, they...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WoziN1cN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ub1nbb6hmim38kh6d69.jpg",
+  "slug": "a11y-101-buttons-vs-links-4hlp",
+  "url": "https://dev.to/dailydevtips1/a11y-101-buttons-vs-links-4hlp",
+  "publish_date": "2022-06-03",
+  "published_at": "2022-06-03T04:57:56Z"
+ },
+ {
+  "id": 1103483,
+  "title": "Becoming disillusioned with career in tech as a software engineer",
+  "description": "I graduated from my SWE degree around 6 years ago (almost to the date). The uni I went to wasn’t one...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--71Cgx3oh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j7pw6u3pyikgfkpkbbuc.jpg",
+  "slug": "becoming-disillusioned-with-career-in-tech-as-a-software-engineer-4pe6",
+  "url": "https://dev.to/martinzokov/becoming-disillusioned-with-career-in-tech-as-a-software-engineer-4pe6",
+  "publish_date": "2022-06-03",
+  "published_at": "2022-06-03T01:20:33Z"
+ },
+ {
   "id": 1102980,
   "title": "Can Open-Source Exist in China? 🎙",
   "description": "In this episode of DevNews, our hosts speak with Zeyi Yang, reporter at the MIT Technology Review...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/madza/introducing-cropscore-an-image-cropper-for-content-creators-2o41",
   "publish_date": "2022-02-24",
   "published_at": "2022-02-24T08:25:32Z"
- },
- {
-  "id": 998796,
-  "title": "10 JetBrains Extensions to Fight Technical Debt🥷",
-  "description": "My last article on 10 VS Code Extensions to Fight Technical Debt got over 50.000 views and 500...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9wBKXjL0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b1l68t5xttupma7nqaai.jpg",
-  "slug": "10-jetbrains-extensions-to-fight-technical-debt-5gg6",
-  "url": "https://dev.to/alexomeyer/10-jetbrains-extensions-to-fight-technical-debt-5gg6",
-  "publish_date": "2022-02-23",
-  "published_at": "2022-02-23T14:34:05Z"
- },
- {
-  "id": 998840,
-  "title": "Develop your Own Customizable Invoice Generator with Refine and Strapi | Part I",
-  "description": "Introduction   We are going to develop an invoice generator application for our business...",
-  "cover_image": "",
-  "slug": "develop-your-own-customizable-invoice-generator-with-refine-and-strapi-part-i-51m5",
-  "url": "https://dev.to/pankod/develop-your-own-customizable-invoice-generator-with-refine-and-strapi-part-i-51m5",
-  "publish_date": "2022-02-23",
-  "published_at": "2022-02-23T13:55:18Z"
- },
- {
-  "id": 998480,
-  "title": "Five Year Club at dev.to",
-  "description": "Today marks 5 years of me being on dev.to",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k0sgfENT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txwjv8jebfu8bmxuy295.png",
-  "slug": "five-year-club-at-devto-9oi",
-  "url": "https://dev.to/nikola/five-year-club-at-devto-9oi",
-  "publish_date": "2022-02-23",
-  "published_at": "2022-02-23T13:05:38Z"
- },
- {
-  "id": 998434,
-  "title": "Why I stepped out of my first startup",
-  "description": "This is not a story about a startup that raised millions and grew exponentially. This is a story...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0QfZdhsl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h2tiff7azvhx9hgdg50k.jpg",
-  "slug": "why-i-stepped-out-of-my-first-startup-1bj3",
-  "url": "https://dev.to/smeetsmeister/why-i-stepped-out-of-my-first-startup-1bj3",
-  "publish_date": "2022-02-23",
-  "published_at": "2022-02-23T07:03:18Z"
- },
- {
-  "id": 998151,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-1452",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1452",
-  "publish_date": "2022-02-23",
-  "published_at": "2022-02-23T01:30:07Z"
  }
 ]
