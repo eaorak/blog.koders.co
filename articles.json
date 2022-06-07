@@ -1,5 +1,55 @@
 [
  {
+  "id": 1106601,
+  "title": "Congrats to the Appwrite Hackathon Winners!",
+  "description": "Celebrating the winners from the Appwrite Hackathon on DEV!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dXwXyq0I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9sbnvyv22dhhuq83lnvk.png",
+  "slug": "congrats-to-the-appwrite-hackathon-winners-4dk9",
+  "url": "https://dev.to/devteam/congrats-to-the-appwrite-hackathon-winners-4dk9",
+  "publish_date": "2022-06-06",
+  "published_at": "2022-06-06T20:49:39Z"
+ },
+ {
+  "id": 1104103,
+  "title": "Shallow Copy and Deep Copy",
+  "description": "Table of Contents    Introduction Shallow Copy Deep Copy Summary References           ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AIVKNDbd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3iwthffc5rbo1xk8lrk.png",
+  "slug": "shallow-copy-and-deep-copy-10hh",
+  "url": "https://dev.to/aditi05/shallow-copy-and-deep-copy-10hh",
+  "publish_date": "2022-06-06",
+  "published_at": "2022-06-06T13:23:11Z"
+ },
+ {
+  "id": 1106249,
+  "title": "Meme Monday!",
+  "description": "Welcome to the second Meme Monday post! Today's cover image comes from my favorite submission from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v1bJ1OXD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w08yacbakpzo75lb4ztm.png",
+  "slug": "meme-monday-1h1",
+  "url": "https://dev.to/ben/meme-monday-1h1",
+  "publish_date": "2022-06-06",
+  "published_at": "2022-06-06T12:48:16Z"
+ },
+ {
+  "id": 1106144,
+  "title": "Kubernetes monitoring with open-source tools [OpenTelemetry and SigNoz]",
+  "description": "Kubernetes monitoring is a critical process for keeping your Kubernetes clusters running in fine...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rcUrLAJF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0eagqw7thvjyefz5fs9s.png",
+  "slug": "kubernetes-monitoring-with-open-source-tools-opentelemetry-and-signoz-3obl",
+  "url": "https://dev.to/signoz/kubernetes-monitoring-with-open-source-tools-opentelemetry-and-signoz-3obl",
+  "publish_date": "2022-06-06",
+  "published_at": "2022-06-06T12:28:14Z"
+ },
+ {
+  "id": 1106121,
+  "title": "How to make a slick CSS animation from Upload (TV series title sequence)",
+  "description": "This time, I will tackle a title sequence from Upload.  Upload is an American science fiction...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xsz_i9Pp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://roboleary.net/assets/img/blog/2022-06-06-how-to-make-a-slick-css-animation-upload-title-sequence/cover.jpg",
+  "slug": "how-to-make-a-slick-css-animation-from-upload-tv-series-title-sequence-2h8f",
+  "url": "https://dev.to/robole/how-to-make-a-slick-css-animation-from-upload-tv-series-title-sequence-2h8f",
+  "publish_date": "2022-06-06",
+  "published_at": "2022-06-06T11:22:05Z"
+ },
+ {
   "id": 1105534,
   "title": "Side Project Sunday! Share your progress.",
   "description": "Give a quick description of what you're up to and what some recent challenges have been.  Anyone who...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/marilia/am-i-smart-enough-ffe",
   "publish_date": "2022-02-27",
   "published_at": "2022-02-27T05:21:58Z"
- },
- {
-  "id": 1002393,
-  "title": "13 Placeholder Avatar \u0026 Image Websites",
-  "description": "Introduction   Placeholder images and avatars are something that almost every web developer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0C5GE3E1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/brfj77msig1j3b39vshj.png",
-  "slug": "13-placeholder-avatar-image-websites-4g03",
-  "url": "https://dev.to/ashallendesign/13-placeholder-avatar-image-websites-4g03",
-  "publish_date": "2022-02-26",
-  "published_at": "2022-02-26T15:55:40Z"
- },
- {
-  "id": 1002296,
-  "title": "TypeScript generic types",
-  "description": "When working with types in TypeScript, we assume that we know what kind of type we will be working...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z2wGP2Gx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ypgcmk9w847o2rtxmes.jpg",
-  "slug": "typescript-generic-types-3j38",
-  "url": "https://dev.to/dailydevtips1/typescript-generic-types-3j38",
-  "publish_date": "2022-02-26",
-  "published_at": "2022-02-26T14:25:49Z"
- },
- {
-  "id": 898374,
-  "title": "Introduction to Amazon QuickSight",
-  "description": "Introduction    Amazon QuickSight is a scalable, serverless, embeddable, machine...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C-1-s41G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/txiumsqfcnt5yur46atg.png",
-  "slug": "introduction-to-amazon-quicksight-5bok",
-  "url": "https://dev.to/aws-builders/introduction-to-amazon-quicksight-5bok",
-  "publish_date": "2022-02-26",
-  "published_at": "2022-02-26T06:30:20Z"
- },
- {
-  "id": 984075,
-  "title": "Introducing comiCSS",
-  "description": "Presenting the project comiCSS: a webcomic about CSS, coded in CSS.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d8K_D-ih--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/335ns4gp73emzwmak9ne.png",
-  "slug": "introducing-comicss-1amh",
-  "url": "https://dev.to/alvaromontoro/introducing-comicss-1amh",
-  "publish_date": "2022-02-26",
-  "published_at": "2022-02-26T05:29:29Z"
- },
- {
-  "id": 1001960,
-  "title": "5 Best React UI Frameworks to Build Web Applications Faster in 2022",
-  "description": "It’s not always easy to find the right framework for your web application - so you'll probably be tempted to try a lot of different options out. Still, just because there are multiple frameworks doesn't mean they're all equal.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xDB8pZqJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://diogocapela.com/assets/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022-thumbnail.jpg",
-  "slug": "5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022-48eh",
-  "url": "https://dev.to/diogocapela/5-best-react-ui-frameworks-to-build-web-applications-faster-in-2022-48eh",
-  "publish_date": "2022-02-26",
-  "published_at": "2022-02-26T04:33:07Z"
  }
 ]
