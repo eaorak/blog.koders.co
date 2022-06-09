@@ -1,5 +1,55 @@
 [
  {
+  "id": 1108477,
+  "title": "A new community space for open source maintainers and contributors! 🚀",
+  "description": "Today I am highlighting a new Forem dedicated to the success of contributors, maintainers and OSS...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---B_lP6Da--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/afbd7z97uwxzs5drxvj2.png",
+  "slug": "a-new-community-space-for-open-source-maintainers-and-contributors-32p3",
+  "url": "https://dev.to/devteam/a-new-community-space-for-open-source-maintainers-and-contributors-32p3",
+  "publish_date": "2022-06-08",
+  "published_at": "2022-06-08T18:05:17Z"
+ },
+ {
+  "id": 1004834,
+  "title": "Patterns for Building JavaScript Websites in 2022",
+  "description": "Deciding on the approaches and tools to use to build on web these days can be a challenging prospect....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aHn8WrWG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nqfz6a0qg98oy64h4afi.jpeg",
+  "slug": "patterns-for-building-javascript-websites-in-2022-5a93",
+  "url": "https://dev.to/this-is-learning/patterns-for-building-javascript-websites-in-2022-5a93",
+  "publish_date": "2022-06-08",
+  "published_at": "2022-06-08T16:11:03Z"
+ },
+ {
+  "id": 1108433,
+  "title": "Getting Your Conference Talk Proposal Accepted 🎙",
+  "description": "Ever wonder what it takes to get your conference talk accepted? In this episode of DevDiscuss we talk...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bBW3B-K6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kvyy0bbgzgepfipg93v3.png",
+  "slug": "getting-your-conference-talk-proposal-accepted-1cb6",
+  "url": "https://dev.to/devteam/getting-your-conference-talk-proposal-accepted-1cb6",
+  "publish_date": "2022-06-08",
+  "published_at": "2022-06-08T15:31:20Z"
+ },
+ {
+  "id": 1106143,
+  "title": "LGBTQ+ Flags Coded in CSS",
+  "description": "The meaning behind different LGBTQ+ flags and how to code them with CSS and a single HTML element.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2Z5o34dH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/19k7ncrs8gt1mfxrwlw4.jpg",
+  "slug": "lgbtq-flags-coded-in-css-3k1k",
+  "url": "https://dev.to/alvaromontoro/lgbtq-flags-coded-in-css-3k1k",
+  "publish_date": "2022-06-08",
+  "published_at": "2022-06-08T04:03:25Z"
+ },
+ {
+  "id": 1107838,
+  "title": "Why FontAwesome is still awesome",
+  "description": "I read an interesting post in which the author stated the reasons why they were officially done with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mIi90EfW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qygf3sifi6g00ufkiapw.jpg",
+  "slug": "why-fontawesome-is-still-awesome-2bo",
+  "url": "https://dev.to/danwalsh/why-fontawesome-is-still-awesome-2bo",
+  "publish_date": "2022-06-08",
+  "published_at": "2022-06-08T01:54:42Z"
+ },
+ {
   "id": 1107387,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dcsl-guidesmiths/understanding-closures-in-javascript-1ph",
   "publish_date": "2022-03-01",
   "published_at": "2022-03-01T09:28:48Z"
- },
- {
-  "id": 996666,
-  "title": "Share Your 2022 #SheCoded Story to Donate $20 to Closing the Tech Gender Gap",
-  "description": "Our Annual International Women's Day Celebration is back and more impactful than ever",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JADS1GWP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gh2cvug66g5wnbzo2pz9.png",
-  "slug": "share-your-2022-shecoded-story-to-donate-20-to-closing-the-tech-gender-gap-2hid",
-  "url": "https://dev.to/devteam/share-your-2022-shecoded-story-to-donate-20-to-closing-the-tech-gender-gap-2hid",
-  "publish_date": "2022-02-28",
-  "published_at": "2022-02-28T17:33:39Z"
- },
- {
-  "id": 1004146,
-  "title": "Design Systems for Developers",
-  "description": "Having a design system makes it easy for developers to onboard new team members, quickly find answers to basic questions without having to DM someone and wait for an answer, download common assets like logos and icons, and so much more.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f-SR47Bf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n37rgl1hz41sm0b0cg0g.png",
-  "slug": "design-systems-for-developers-5efi",
-  "url": "https://dev.to/kathryngrayson/design-systems-for-developers-5efi",
-  "publish_date": "2022-02-28",
-  "published_at": "2022-02-28T14:41:34Z"
- },
- {
-  "id": 992600,
-  "title": "HTML Tips and Tricks You Will Love To Know ✨❤️\n",
-  "description": "In my very last article I shared some JavaScript tips and tricks In this article I will be covering...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lm5dLP3P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz5xkcqpiyq9yz86ewfv.jpg",
-  "slug": "html-tips-tricks-that-you-will-love-to-know-27ig",
-  "url": "https://dev.to/devsyedmohsin/html-tips-tricks-that-you-will-love-to-know-27ig",
-  "publish_date": "2022-02-28",
-  "published_at": "2022-02-28T11:24:45Z"
- },
- {
-  "id": 1003803,
-  "title": "Avoid async/await hell",
-  "description": "Escape from the async/await hell or avoid the chained async tasks  First of all let's talk about...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vfGQbzaX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90q0hffp9nztrolhvewt.png",
-  "slug": "avoid-asyncawait-hell-2gb6",
-  "url": "https://dev.to/judionit/avoid-asyncawait-hell-2gb6",
-  "publish_date": "2022-02-28",
-  "published_at": "2022-02-28T06:45:44Z"
- },
- {
-  "id": 1003754,
-  "title": "TypeScript: How to use Enums",
-  "description": "Before diving into Enums in TypeScript, let's take a second to look at what they are.  Enums are a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---LKqVcpl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ol17xzz5g168ucaf6thm.jpg",
-  "slug": "typescript-how-to-use-enums-2nn8",
-  "url": "https://dev.to/dailydevtips1/typescript-how-to-use-enums-2nn8",
-  "publish_date": "2022-02-28",
-  "published_at": "2022-02-28T06:34:15Z"
  }
 ]
