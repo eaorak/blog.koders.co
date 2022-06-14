@@ -1,5 +1,55 @@
 [
  {
+  "id": 1112787,
+  "title": "7 Tools To Make Kubernetes Management Easy",
+  "description": "In the emerging Cloud-Native environment, Kubernetes is everywhere without any question. It has...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5Eir7h5e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/114rvipun5v434but0rs.jpg",
+  "slug": "7-tools-to-make-kubernetes-management-easy-15bn",
+  "url": "https://dev.to/devtron_/7-tools-to-make-kubernetes-management-easy-15bn",
+  "publish_date": "2022-06-13",
+  "published_at": "2022-06-13T13:29:47Z"
+ },
+ {
+  "id": 1112871,
+  "title": "Meme Monday!",
+  "description": "Welcome to the second Meme Monday post! Today's cover image comes from my favorite submission from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xdKssaod--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vz5g6c9aj5n205uzfchs.png",
+  "slug": "meme-monday-1lnl",
+  "url": "https://dev.to/ben/meme-monday-1lnl",
+  "publish_date": "2022-06-13",
+  "published_at": "2022-06-13T13:12:04Z"
+ },
+ {
+  "id": 1111174,
+  "title": "Monitoring PHP applications with OpenTelemetry and SigNoz",
+  "description": "PHP is a widely popular server-side language and enjoys the top spot in terms of market share. Many...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jP_M7Dp_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cbzcuhxh1jjtp67x8vxk.png",
+  "slug": "monitoring-php-applications-with-opentelemetry-and-signoz-3h51",
+  "url": "https://dev.to/signoz/monitoring-php-applications-with-opentelemetry-and-signoz-3h51",
+  "publish_date": "2022-06-13",
+  "published_at": "2022-06-13T12:20:59Z"
+ },
+ {
+  "id": 1112773,
+  "title": "Building a live chart with Deno, WebSockets, Chart.js and Materialize",
+  "description": "Introduction   This is a self-contained example of a real-time chart powered by Deno, Web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Trr9RbOU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rnn8sshpaggqoewtuidw.jpeg",
+  "slug": "building-a-live-chart-with-deno-websockets-chartjs-and-materialize-3cd7",
+  "url": "https://dev.to/bobbyiliev/building-a-live-chart-with-deno-websockets-chartjs-and-materialize-3cd7",
+  "publish_date": "2022-06-13",
+  "published_at": "2022-06-13T09:42:44Z"
+ },
+ {
+  "id": 1112290,
+  "title": "Is Virtual DOM overhyped?",
+  "description": "Brief Origin of where the hype began   On the 29th of May, 2013, the pain of building...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rWzh1dFs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bftv9qjjbbmgpkjsw0rj.png",
+  "slug": "is-virtual-dom-overhyped-96",
+  "url": "https://dev.to/paul_emechebe/is-virtual-dom-overhyped-96",
+  "publish_date": "2022-06-13",
+  "published_at": "2022-06-13T02:15:23Z"
+ },
+ {
   "id": 1111981,
   "title": "Sites where you can get free hosting",
   "description": "🎇Netlify.com 🎇Firebase 🎇Vercel.com 🎇GitHubPages 🎇Surge.sh 🎇Render.com 🎇Amazone Web hosting 🎇Google...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/skywrithin/escaping-x-innerhtml-3fbl",
   "publish_date": "2022-03-06",
   "published_at": "2022-03-06T04:00:20Z"
- },
- {
-  "id": 1010902,
-  "title": "Java for Beginners: Introduction to Java",
-  "description": "What is JAVA?   Java is a high-level, third generation programming language, like C,C++,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jf49PXY2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8u764f6ke53kf70eu4no.PNG",
-  "slug": "java-for-beginners-introduction-to-java-36kn",
-  "url": "https://dev.to/killallnano/java-for-beginners-introduction-to-java-36kn",
-  "publish_date": "2022-03-05",
-  "published_at": "2022-03-05T11:02:44Z"
- },
- {
-  "id": 1010823,
-  "title": "Important Javascript functions you have to know to be a better developer",
-  "description": "I everybody, today I am going to show examples of few important Javascript functions.           DEEP...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l3IvYJ-H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uktaueo0xvjmrmkpjo8c.jpeg",
-  "slug": "important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8",
-  "url": "https://dev.to/asapsonter/important-javascript-functions-you-have-to-know-to-be-a-better-developer-2if8",
-  "publish_date": "2022-03-05",
-  "published_at": "2022-03-05T09:31:18Z"
- },
- {
-  "id": 1007259,
-  "title": "The Intricate Art of Being Yourself",
-  "description": "We don't observe how we grow up and a lot of events and interactions that form our future selves...",
-  "cover_image": "",
-  "slug": "the-intricate-art-of-being-yourself-2loi",
-  "url": "https://dev.to/valeriavg/the-intricate-art-of-being-yourself-2loi",
-  "publish_date": "2022-03-05",
-  "published_at": "2022-03-05T08:09:19Z"
- },
- {
-  "id": 1010546,
-  "title": "Does GraphQL replace REST API ?",
-  "description": "GraphQL is gaining popularity because of its ability to develop APIs more efficiently, powerful, and...",
-  "cover_image": "",
-  "slug": "does-graphql-replace-rest-api--50fm",
-  "url": "https://dev.to/pratham10/does-graphql-replace-rest-api--50fm",
-  "publish_date": "2022-03-05",
-  "published_at": "2022-03-05T05:39:02Z"
- },
- {
-  "id": 1010312,
-  "title": "#HowTo - Making a Neumorphism portfolio",
-  "description": "Hey Devs,   It's good to see you again. from this post I will tell you how to use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UASw_EgV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bly6bwl258bv1mjt9a1b.png",
-  "slug": "howto-making-a-neumorphism-portfolio-5h1m",
-  "url": "https://dev.to/rededge967/howto-making-a-neumorphism-portfolio-5h1m",
-  "publish_date": "2022-03-05",
-  "published_at": "2022-03-05T01:16:18Z"
  }
 ]
