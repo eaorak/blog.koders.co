@@ -1,5 +1,55 @@
 [
  {
+  "id": 1114122,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-4ghj",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ghj",
+  "publish_date": "2022-06-14",
+  "published_at": "2022-06-14T15:24:58Z"
+ },
+ {
+  "id": 1113836,
+  "title": "I built the trendiest admin dashboard for React using the latest UI trends! Use it for free!",
+  "description": "Hey guys, I built the trendiest admin dashboard for React \u0026amp; Chakra UI using the latest UI trends!...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DOvbrWDJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i0swztibqie6e4hkgai7.png",
+  "slug": "i-built-the-trendiest-admin-dashboard-for-react-using-the-latest-ui-trends-use-it-for-free-21pn",
+  "url": "https://dev.to/fredy/i-built-the-trendiest-admin-dashboard-for-react-using-the-latest-ui-trends-use-it-for-free-21pn",
+  "publish_date": "2022-06-14",
+  "published_at": "2022-06-14T10:26:25Z"
+ },
+ {
+  "id": 1112889,
+  "title": "React + TypeScript + ESLint + Prettier Full Setup ✈",
+  "description": "Table of Content      📌 Introduction  📌 Why this configuration 🤔?  📌 Configuration 🛠   👉...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RfiJOAcb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4887u5m6xwo9atxbrdm.png",
+  "slug": "reacttypescripteslint-prettier-full-setup-p7j",
+  "url": "https://dev.to/suchintan/reacttypescripteslint-prettier-full-setup-p7j",
+  "publish_date": "2022-06-14",
+  "published_at": "2022-06-14T09:08:12Z"
+ },
+ {
+  "id": 1113717,
+  "title": "Wasp - language for developing full-stack Javascript web apps with no boilerplate",
+  "description": "Meet Wasp: a new programming language for developing full-stack web apps with less code.  Wasp is a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t7aYQJHU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjxms2f3zkxj0jxlai3p.png",
+  "slug": "wasp-language-for-developing-full-stack-javascript-web-apps-with-no-boilerplate-2fo4",
+  "url": "https://dev.to/wasp/wasp-language-for-developing-full-stack-javascript-web-apps-with-no-boilerplate-2fo4",
+  "publish_date": "2022-06-14",
+  "published_at": "2022-06-14T08:56:59Z"
+ },
+ {
+  "id": 1112648,
+  "title": "Writing a Game in Typescript",
+  "description": "I know people make all kinds of stuff with \u0026lt;canvas\u0026gt; but that's all black magic to me. Time to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZCaAVaxy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t21nnada3lwqu567vpx2.jpg",
+  "slug": "writing-a-game-in-typescript-13em",
+  "url": "https://dev.to/iamschulz/writing-a-game-in-typescript-13em",
+  "publish_date": "2022-06-14",
+  "published_at": "2022-06-14T06:31:49Z"
+ },
+ {
   "id": 1112787,
   "title": "7 Tools To Make Kubernetes Management Easy",
   "description": "In the emerging Cloud-Native environment, Kubernetes is everywhere without any question. It has...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/10-amazing-games-to-learn-css-382i",
   "publish_date": "2022-03-07",
   "published_at": "2022-03-07T07:40:59Z"
- },
- {
-  "id": 928284,
-  "title": "On Levelling Up",
-  "description": "Storytime for your career doldrums",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--50YNjPUH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://archives.bulbagarden.net/media/upload/d/df/Evolution_VIII.png",
-  "slug": "on-levelling-up-1i3f",
-  "url": "https://dev.to/jenc/on-levelling-up-1i3f",
-  "publish_date": "2022-03-06",
-  "published_at": "2022-03-06T15:28:38Z"
- },
- {
-  "id": 1012732,
-  "title": "Modifying rehype autolink headings",
-  "description": "In the previous article, we introduced a table of contents in our markdown files. For this, we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T6LgeVBa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l3u0m51r8yy0nm0962l4.jpg",
-  "slug": "modifying-rehype-autolink-headings-440d",
-  "url": "https://dev.to/dailydevtips1/modifying-rehype-autolink-headings-440d",
-  "publish_date": "2022-03-06",
-  "published_at": "2022-03-06T13:29:21Z"
- },
- {
-  "id": 1012336,
-  "title": "I made a Node.js colors library in 192 bytes minzipped (+ code explanation!)",
-  "description": "A few minutes ago, I published PlanckColors. It's probably the smallest node module for colors on the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VSdWZLXX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o1ubiy8w49j2tmuw48qj.png",
-  "slug": "i-made-a-nodejs-colors-library-in-192-bytes-minzipped-code-explanation-196i",
-  "url": "https://dev.to/siddharthshyniben/i-made-a-nodejs-colors-library-in-192-bytes-minzipped-code-explanation-196i",
-  "publish_date": "2022-03-06",
-  "published_at": "2022-03-06T10:19:50Z"
- },
- {
-  "id": 1012323,
-  "title": "Enhance your terminal experience on Windows",
-  "description": "Are you still using the Command Prompt on your Windows machine? It really feels like the relic of the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQkRLqVC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yzf657u1i5ym5juuorae.png",
-  "slug": "enhance-your-terminal-experience-on-windows-f8e",
-  "url": "https://dev.to/duncanlew/enhance-your-terminal-experience-on-windows-f8e",
-  "publish_date": "2022-03-06",
-  "published_at": "2022-03-06T09:56:37Z"
- },
- {
-  "id": 1011948,
-  "title": "Escaping X InnerHTML",
-  "description": "any comments HIGHLY appreciated; feedback/questions welcome!               Escape and Data...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_sr5q5pO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7p1p0rwhbw5089ytnvu.jpg",
-  "slug": "escaping-x-innerhtml-3fbl",
-  "url": "https://dev.to/skywrithin/escaping-x-innerhtml-3fbl",
-  "publish_date": "2022-03-06",
-  "published_at": "2022-03-06T04:00:20Z"
  }
 ]
