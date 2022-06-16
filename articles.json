@@ -1,5 +1,55 @@
 [
  {
+  "id": 1115326,
+  "title": "CodeLand is special, and I'm not just saying that.",
+  "description": "I've been to every CodeLand — well before I was officially involved in it. It's been one of the best...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v0ztwH-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6bkiyz7lvdbrp2nr4plo.png",
+  "slug": "codeland-is-special-and-im-not-just-saying-that-4hka",
+  "url": "https://dev.to/codenewbieteam/codeland-is-special-and-im-not-just-saying-that-4hka",
+  "publish_date": "2022-06-15",
+  "published_at": "2022-06-15T20:30:59Z"
+ },
+ {
+  "id": 1114982,
+  "title": "People rarely use complicated git commands on the weekend, and I have the data to prove it.",
+  "description": "Preamble: We've been running an experimental project to catalog good evergreen guides on DEV. Some...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T1KWi6Vb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u660dzthxcjp108m9qlv.png",
+  "slug": "people-rarely-use-complicated-git-commands-on-the-weekend-and-i-have-the-data-to-prove-it-3ae2",
+  "url": "https://dev.to/devteam/people-rarely-use-complicated-git-commands-on-the-weekend-and-i-have-the-data-to-prove-it-3ae2",
+  "publish_date": "2022-06-15",
+  "published_at": "2022-06-15T13:28:52Z"
+ },
+ {
+  "id": 1114757,
+  "title": "Designing a Scalable and Secure REST API Gateway",
+  "description": "Design patterns in microservices: API Gateway, Backend for Frontend, Event-Driven...",
+  "cover_image": "",
+  "slug": "designing-a-scalable-and-secure-rest-api-gateway-k5f",
+  "url": "https://dev.to/roy8/designing-a-scalable-and-secure-rest-api-gateway-k5f",
+  "publish_date": "2022-06-15",
+  "published_at": "2022-06-15T10:34:51Z"
+ },
+ {
+  "id": 1114754,
+  "title": "How to use Docker in your Node and React Applications",
+  "description": "Docker gives developers the ability to package all of their applications inside of containers. These...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ovWWHS_z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zex89464rgfil4pkqnu8.png",
+  "slug": "how-to-use-docker-in-your-node-and-react-applications-597e",
+  "url": "https://dev.to/andrewbaisden/how-to-use-docker-in-your-node-and-react-applications-597e",
+  "publish_date": "2022-06-15",
+  "published_at": "2022-06-15T10:29:17Z"
+ },
+ {
+  "id": 1114691,
+  "title": "SVG Spinners!",
+  "description": "I have created a collection of 24 x 24 dp SVG spinners! Use them for free!  I'll be adding new...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ql4bnfG4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2316cvw7z66h2ufvx1pu.gif",
+  "slug": "svg-spinners-1do6",
+  "url": "https://dev.to/n3r4zzurr0/svg-spinners-1do6",
+  "publish_date": "2022-06-15",
+  "published_at": "2022-06-15T07:42:19Z"
+ },
+ {
   "id": 1114122,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devteam/happy-international-womens-day-browse-the-2022-shecoded-collection-and-contribute-your-own-story-lno",
   "publish_date": "2022-03-08",
   "published_at": "2022-03-08T02:51:32Z"
- },
- {
-  "id": 1008332,
-  "title": "How Forem is Supporting the People of Ukraine",
-  "description": "Dear DEV Community,  I wanted to let you know that Forem (the open source software company behind...",
-  "cover_image": "",
-  "slug": "why-forem-is-donating-to-ukraine-support-eom",
-  "url": "https://dev.to/devteam/why-forem-is-donating-to-ukraine-support-eom",
-  "publish_date": "2022-03-07",
-  "published_at": "2022-03-07T21:21:21Z"
- },
- {
-  "id": 1008304,
-  "title": "Introducing the Forem Shop! New Merch, Giveaways, and More. ",
-  "description": "Today, we're excited to share that we've redesigned the beloved DEV Shop to be more representative of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s4Z872IO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/87kjp97tme2mv5ynxwrb.png",
-  "slug": "introducing-the-forem-shop-new-merch-giveaways-and-more-4kff",
-  "url": "https://dev.to/devteam/introducing-the-forem-shop-new-merch-giveaways-and-more-4kff",
-  "publish_date": "2022-03-07",
-  "published_at": "2022-03-07T17:57:12Z"
- },
- {
-  "id": 1014232,
-  "title": "Take your Serverless Functions to new speeds with Appwrite 0.13",
-  "description": "What are Cloud Functions?   Cloud functions are a way of extending a cloud provider’s...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q_0Q9IId--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l5n0p95ncwml546a7hpu.png",
-  "slug": "take-your-serverless-functions-to-new-speeds-with-appwrite-013-5868",
-  "url": "https://dev.to/appwrite/take-your-serverless-functions-to-new-speeds-with-appwrite-013-5868",
-  "publish_date": "2022-03-07",
-  "published_at": "2022-03-07T11:49:25Z"
- },
- {
-  "id": 1014177,
-  "title": "13 Very Profitable Business Ideas for Web Developers",
-  "description": "This article was originally published at:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wvm6dwmt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c5zwhse0tqyjmuioot5o.png",
-  "slug": "13-very-profitable-business-ideas-for-web-developers-539l",
-  "url": "https://dev.to/duomly/13-very-profitable-business-ideas-for-web-developers-539l",
-  "publish_date": "2022-03-07",
-  "published_at": "2022-03-07T10:14:16Z"
- },
- {
-  "id": 1013950,
-  "title": "10 amazing games to learn CSS",
-  "description": "Learning CSS can be quite a challenge. There are no shortcuts, and you will have to get your hands...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VVP0zQyd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6dpa0ek073srtusttpyq.jpg",
-  "slug": "10-amazing-games-to-learn-css-382i",
-  "url": "https://dev.to/dailydevtips1/10-amazing-games-to-learn-css-382i",
-  "publish_date": "2022-03-07",
-  "published_at": "2022-03-07T07:40:59Z"
  }
 ]
