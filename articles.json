@@ -1,5 +1,55 @@
 [
  {
+  "id": 1005708,
+  "title": "From Student 👨‍🎓 To DevRel 🥑: A Memoir 📃",
+  "description": "It was only this week that I got my final semester results from university, finally knowing that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l4o-eB16--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s2o4euozdm7cgdyhd321.png",
+  "slug": "from-student-to-devrel-a-memoir-43pf",
+  "url": "https://dev.to/adityaoberai/from-student-to-devrel-a-memoir-43pf",
+  "publish_date": "2022-06-17",
+  "published_at": "2022-06-17T11:16:42Z"
+ },
+ {
+  "id": 1116350,
+  "title": "These 5 C# Guidelines (Revealed by a SENIOR DEVELOPER) will Change your Coding Style",
+  "description": "Learning how to code can be challenging, but following the advice of more experienced developers can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0uoZF5UT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4fpwr0w5l9iwd380ul4d.png",
+  "slug": "these-5-c-guidelines-revealed-by-a-senior-developer-will-change-your-coding-style-3jfp",
+  "url": "https://dev.to/dotnetsafer/these-5-c-guidelines-revealed-by-a-senior-developer-will-change-your-coding-style-3jfp",
+  "publish_date": "2022-06-17",
+  "published_at": "2022-06-17T08:03:52Z"
+ },
+ {
+  "id": 1115802,
+  "title": "15+ VS Code Extensions For Web Developers 🤯",
+  "description": "Interested in some great extensions for Visual Studio Code that will make your web development life...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lkaTfaqo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4vhy7yw9uzqmj4awgs30.png",
+  "slug": "15-vs-code-extensions-for-web-developers-1dp8",
+  "url": "https://dev.to/souptikdn/15-vs-code-extensions-for-web-developers-1dp8",
+  "publish_date": "2022-06-17",
+  "published_at": "2022-06-17T05:49:13Z"
+ },
+ {
+  "id": 1116737,
+  "title": "CSS Logos: daily dev Logo",
+  "description": "Of course, I couldn't resist recreating my employer's logo in CSS. We are talking, of course, about...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CXve0ZkN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1km6630ml2hqy6ikqgt.jpg",
+  "slug": "css-logos-daily-dev-logo-3dfh",
+  "url": "https://dev.to/dailydevtips1/css-logos-daily-dev-logo-3dfh",
+  "publish_date": "2022-06-17",
+  "published_at": "2022-06-17T05:33:42Z"
+ },
+ {
+  "id": 1116583,
+  "title": "How do you make folks who sponsor your open source projects feel valued?",
+  "description": "Hey, yall!  I've been talking to folks about how they've maintained relationships with folks and...",
+  "cover_image": "",
+  "slug": "how-do-you-make-folks-who-sponsor-your-open-source-projects-feel-valued-3ij7",
+  "url": "https://dev.to/github/how-do-you-make-folks-who-sponsor-your-open-source-projects-feel-valued-3ij7",
+  "publish_date": "2022-06-17",
+  "published_at": "2022-06-17T01:07:07Z"
+ },
+ {
   "id": 1115591,
   "title": "Top 11 MYSQL monitoring tools in 2022 [open-source included]",
   "description": "Database monitoring is a critical component in your application performance monitoring. Apart from...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/signoz/43-tips-for-getting-good-at-devops-life-55cp",
   "publish_date": "2022-03-10",
   "published_at": "2022-03-10T13:02:44Z"
- },
- {
-  "id": 1016389,
-  "title": "Open source ecommerce platform for multi-vendor marketplaces",
-  "description": "Medusa is an open source headless commerce platform that allows you to create your own store in a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uhFNd231--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ggfdd54x1kldq4bb7rh8.png",
-  "slug": "create-an-open-source-commerce-marketplace-part-1-3m5k",
-  "url": "https://dev.to/medusajs/create-an-open-source-commerce-marketplace-part-1-3m5k",
-  "publish_date": "2022-03-09",
-  "published_at": "2022-03-09T12:47:49Z"
- },
- {
-  "id": 1017270,
-  "title": "Design Principles To Achieve a Better UI/UX Design",
-  "description": "Table of Contents   Introduction   Place Users In Control Make your User comfortable Reduce...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xbFr4fhz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/su6wqlyua9ytylxgrg3c.png",
-  "slug": "design-principles-to-achieve-a-better-uiux-design-pf3",
-  "url": "https://dev.to/iayeshasahar/design-principles-to-achieve-a-better-uiux-design-pf3",
-  "publish_date": "2022-03-09",
-  "published_at": "2022-03-09T12:11:55Z"
- },
- {
-  "id": 1011107,
-  "title": "Offline College and Internships",
-  "description": "The article discusses balancing your coding journey with offline college.    The world has seen many...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Nd8xnGv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lwzppmjtll3m9q5lfnnv.jpg",
-  "slug": "offline-college-and-internships-p6e",
-  "url": "https://dev.to/kitarp/offline-college-and-internships-p6e",
-  "publish_date": "2022-03-09",
-  "published_at": "2022-03-09T07:37:49Z"
- },
- {
-  "id": 1016983,
-  "title": "Tailwind CSS Numeric font variants",
-  "description": "Did you know there is a CSS property to adjust how numeric values are displayed?  It's called the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tOcrxRU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t00xtheg1rdjfu1sf0h1.jpg",
-  "slug": "tailwind-css-numeric-font-variants-agc",
-  "url": "https://dev.to/dailydevtips1/tailwind-css-numeric-font-variants-agc",
-  "publish_date": "2022-03-09",
-  "published_at": "2022-03-09T07:18:59Z"
- },
- {
-  "id": 1016940,
-  "title": "Integrate SuperTokens Passwordless Authentication with Next.js",
-  "description": "A Quick Introduction   Authentication is the mechanism to validate a user's identity for an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4-nlP7XQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8axlgltwgi0wj9cq5jsk.png",
-  "slug": "integrate-supertokens-passwordless-authentication-with-nextjs-3j7j",
-  "url": "https://dev.to/atapas/integrate-supertokens-passwordless-authentication-with-nextjs-3j7j",
-  "publish_date": "2022-03-09",
-  "published_at": "2022-03-09T05:05:35Z"
  }
 ]
