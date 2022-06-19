@@ -1,5 +1,55 @@
 [
  {
+  "id": 1117830,
+  "title": "10 Algorithms Every Developer Should Learn",
+  "description": "There seems to be a large misconception from a lot of aspiring devs that memorizing standard...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8W4Q-OEX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzud4zejd2cbgdxktved.png",
+  "slug": "10-algorithms-every-developer-should-learn-3lnm",
+  "url": "https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm",
+  "publish_date": "2022-06-18",
+  "published_at": "2022-06-18T13:38:50Z"
+ },
+ {
+  "id": 1117782,
+  "title": "Hoisting in JavaScript(Variables \u0026 function)",
+  "description": "Hoisting            What is Hoisting in JavaScript?   When the JavaScript engine executes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2PxujMiZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rg157xmbs2uuuc7pv0sd.png",
+  "slug": "hoisting-in-javascriptvariables-function-1j4h",
+  "url": "https://dev.to/srishtikprasad/hoisting-in-javascriptvariables-function-1j4h",
+  "publish_date": "2022-06-18",
+  "published_at": "2022-06-18T10:04:21Z"
+ },
+ {
+  "id": 1117778,
+  "title": "React Horizon UI - Open-Source Full-Stack Starter",
+  "description": "Open-Source full-stack starter crafted on top of Chakra UI, react, and powered by a simple NodeJS API Server.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7M3gWq4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rqdsssbu19yjosez2eb1.jpg",
+  "slug": "react-horizon-ui-open-source-full-stack-starter-3nbp",
+  "url": "https://dev.to/sm0ke/react-horizon-ui-open-source-full-stack-starter-3nbp",
+  "publish_date": "2022-06-18",
+  "published_at": "2022-06-18T09:53:21Z"
+ },
+ {
+  "id": 1117688,
+  "title": "CSS Logos: Instagram logo",
+  "description": "I'm pretty sure everyone has seen this one before, the Instagram logo.  For reference, it's the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MiBHGL5H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1eh3ikb3j8ljmttsu500.jpg",
+  "slug": "css-logos-instagram-logo-1i96",
+  "url": "https://dev.to/dailydevtips1/css-logos-instagram-logo-1i96",
+  "publish_date": "2022-06-18",
+  "published_at": "2022-06-18T08:24:33Z"
+ },
+ {
+  "id": 1117679,
+  "title": "Python:Functional Programming",
+  "description": "Defining functions Python can also be used for functional programming as it can for structural...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_oRWpQGY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1idu5g3ao9z9j5cx6y4l.png",
+  "slug": "pythonfunctional-programming-1cd1",
+  "url": "https://dev.to/ezeanamichael/pythonfunctional-programming-1cd1",
+  "publish_date": "2022-06-18",
+  "published_at": "2022-06-18T08:03:16Z"
+ },
+ {
   "id": 1005708,
   "title": "From Student 👨‍🎓 To DevRel 🥑: A Memoir 📃",
   "description": "It was only this week that I got my final semester results from university, finally knowing that...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jdgamble555/firebase-is-dead-what-is-the-perfect-database-in-2022-4o9a",
   "publish_date": "2022-03-11",
   "published_at": "2022-03-11T07:03:43Z"
- },
- {
-  "id": 1018782,
-  "title": "12 Gorgeous UI Components for Your Design Inspiration 🎨✨",
-  "description": "Modern web development has shifted to component-based architecture, resulting in faster development,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--If9jegRR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wc1yc9m48zjeiwtelghg.png",
-  "slug": "12-gorgeous-ui-components-for-your-design-inspiration-3feh",
-  "url": "https://dev.to/madza/12-gorgeous-ui-components-for-your-design-inspiration-3feh",
-  "publish_date": "2022-03-10",
-  "published_at": "2022-03-10T18:38:45Z"
- },
- {
-  "id": 1018741,
-  "title": "Hidden gems - 5 JetBrains plugins to boost your productivity! 💎",
-  "description": "If you’re anything like me, you surely like to keep up with the newest technologies on the market. I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iw8tqXms--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hzmtzriacg17qqeq9lhi.png",
-  "slug": "hidden-gems-5-jetbrains-plugins-to-boost-your-productivity-1728",
-  "url": "https://dev.to/morrone_carlo/hidden-gems-5-jetbrains-plugins-to-boost-your-productivity-1728",
-  "publish_date": "2022-03-10",
-  "published_at": "2022-03-10T17:37:53Z"
- },
- {
-  "id": 1018555,
-  "title": "Escaping the traditional Rails form",
-  "description": "Theres been a pattern I've seen creeping in Rails apps. The pattern is that there are cases where...",
-  "cover_image": "",
-  "slug": "escaping-the-traditional-rails-form-4c4o",
-  "url": "https://dev.to/paramagicdev/escaping-the-traditional-rails-form-4c4o",
-  "publish_date": "2022-03-10",
-  "published_at": "2022-03-10T17:30:49Z"
- },
- {
-  "id": 999554,
-  "title": "Join us for a new kind of hackathon on DEV — brought to you by Deepgram!",
-  "description": "This Deepgram x DEV hackathon has something for everyone. We hope you'll join the fun!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KoZsgb2P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eni908xa8i6l6x6kkeyf.png",
-  "slug": "join-us-for-a-new-kind-of-hackathon-on-dev-brought-to-you-by-deepgram-2bjd",
-  "url": "https://dev.to/devteam/join-us-for-a-new-kind-of-hackathon-on-dev-brought-to-you-by-deepgram-2bjd",
-  "publish_date": "2022-03-10",
-  "published_at": "2022-03-10T17:23:45Z"
- },
- {
-  "id": 1017085,
-  "title": "42 tips for Getting Good at DevOps \u0026 Life 🚀👩🏻‍💻",
-  "description": "Hi Folks,  This is Ankit from SigNoz! Sharing some tips I collected over the past few weeks talking...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IlHmJD0S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2fti33q834q1y5t257rl.png",
-  "slug": "43-tips-for-getting-good-at-devops-life-55cp",
-  "url": "https://dev.to/signoz/43-tips-for-getting-good-at-devops-life-55cp",
-  "publish_date": "2022-03-10",
-  "published_at": "2022-03-10T13:02:44Z"
  }
 ]
