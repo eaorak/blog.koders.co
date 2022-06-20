@@ -1,5 +1,55 @@
 [
  {
+  "id": 1078942,
+  "title": "Cheatsheet for Web Developers",
+  "description": "If you are searching for cheatsheet, here I am sharing all the cheatsheet which will definitely going...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VBT-1qBA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsdjf2r28nhpu9jj1t6l.png",
+  "slug": "cheatsheet-for-web-developers-1opg",
+  "url": "https://dev.to/suprabhasupi/cheatsheet-for-web-developers-1opg",
+  "publish_date": "2022-06-19",
+  "published_at": "2022-06-19T12:06:04Z"
+ },
+ {
+  "id": 1118358,
+  "title": "Use the power of a JavaScript framework right in your HTML file!!",
+  "description": "frameworks are overrated, let's use HTML!            Intro   Jokes apart, this blog is about yet...",
+  "cover_image": "",
+  "slug": "use-the-power-of-a-javascript-framework-right-in-your-html-file-1d88",
+  "url": "https://dev.to/asheeshh/use-the-power-of-a-javascript-framework-right-in-your-html-file-1d88",
+  "publish_date": "2022-06-19",
+  "published_at": "2022-06-19T07:01:58Z"
+ },
+ {
+  "id": 1118342,
+  "title": "Dev Tools Unleashed: 7 things you probably didn't know Dev Tools could do",
+  "description": "The Chromium Dev Tools provides a powerful toolset for debugging and testing web apps, but most...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tJb3UW-n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a8jixnzziq95735twvot.png",
+  "slug": "dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-4b5d",
+  "url": "https://dev.to/ruppysuppy/dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-4b5d",
+  "publish_date": "2022-06-19",
+  "published_at": "2022-06-19T06:09:19Z"
+ },
+ {
+  "id": 1116707,
+  "title": "JavaScript to TypeScript | Complete Guide with React ⚛️",
+  "description": "Table of Content      📌 Introduction  📌 Introduction to TypeScript   ➡ Variables  ➡...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ml8niJKJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w5z85gmbr6anvfjhoywf.png",
+  "slug": "javascript-to-typescript-complete-guide-with-react-1nd8",
+  "url": "https://dev.to/suchintan/javascript-to-typescript-complete-guide-with-react-1nd8",
+  "publish_date": "2022-06-19",
+  "published_at": "2022-06-19T04:30:26Z"
+ },
+ {
+  "id": 996602,
+  "title": "Serving Single-Page Application in a single binary file with Go",
+  "description": "Although there are many alternatives to deploy a single-page application (SPA), you might find a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n1miOEDR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/luii1hyk4yt3g0zc7j6m.jpg",
+  "slug": "serving-single-page-application-in-a-single-binary-file-with-go-12ij",
+  "url": "https://dev.to/aryaprakasa/serving-single-page-application-in-a-single-binary-file-with-go-12ij",
+  "publish_date": "2022-06-19",
+  "published_at": "2022-06-19T01:01:08Z"
+ },
+ {
   "id": 1117830,
   "title": "10 Algorithms Every Developer Should Learn",
   "description": "There seems to be a large misconception from a lot of aspiring devs that memorizing standard...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/techfortified/realtime-data-streaming-using-server-sent-eventssse-with-reactjs-and-nodejs-2aak",
   "publish_date": "2022-03-12",
   "published_at": "2022-03-12T01:45:42Z"
- },
- {
-  "id": 1019017,
-  "title": "Testes Unitários: Fundamentos e Qualidade de Software!",
-  "description": "Photo by Ferenc Almasi on Unsplash           Sumário    Introdução Qualidade de Software Por que eu...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--476eWd62--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ftx134hc3ppm0ay548y.jpg",
-  "slug": "testes-unitarios-fundamentos-e-qualidade-de-software-5af0",
-  "url": "https://dev.to/wnqueiroz/testes-unitarios-fundamentos-e-qualidade-de-software-5af0",
-  "publish_date": "2022-03-11",
-  "published_at": "2022-03-11T12:41:38Z"
- },
- {
-  "id": 1017315,
-  "title": "How to set up a professional React project (including screencast)",
-  "description": "This guide explains how to create a new React app using a popular tech stack: Next.js, TypeScript, ESLint, Prettier, styled-components, Cypress, Storybook.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HTq9MxPr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mlc92fpwou8lcry7iv9g.png",
-  "slug": "how-to-set-up-a-professional-react-project-including-screencast-180f",
-  "url": "https://dev.to/profydev/how-to-set-up-a-professional-react-project-including-screencast-180f",
-  "publish_date": "2022-03-11",
-  "published_at": "2022-03-11T11:49:10Z"
- },
- {
-  "id": 1019375,
-  "title": "What is the Cost of Building a Website in 2022?",
-  "description": "The article was initially published on Codica blog.  When we buy a product or service, what is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IR7FByV3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cb3hgfy8n6bcgcoftd05.jpg",
-  "slug": "what-is-the-cost-of-building-a-website-in-2022-5e6p",
-  "url": "https://dev.to/codicacom/what-is-the-cost-of-building-a-website-in-2022-5e6p",
-  "publish_date": "2022-03-11",
-  "published_at": "2022-03-11T09:56:38Z"
- },
- {
-  "id": 998575,
-  "title": "Heroku Database VS AWS RDS",
-  "description": "Database is the heart of almost any real world software system, and when it comes to choosing the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HOPJoTdk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tarqa6l9d8e3t0t9j52d.png",
-  "slug": "heroku-database-vs-aws-rds-50a6",
-  "url": "https://dev.to/mohsenkamrani/heroku-database-vs-aws-rds-50a6",
-  "publish_date": "2022-03-11",
-  "published_at": "2022-03-11T07:37:07Z"
- },
- {
-  "id": 1019167,
-  "title": "Firebase is Dead: What is the Perfect Database in 2022?",
-  "description": "Firestore   To be fair I meant Firestore really, not Firebase the Platform. Ok, Firestore is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7k4bQuF_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wlvolw63qmz17rk42y1u.png",
-  "slug": "firebase-is-dead-what-is-the-perfect-database-in-2022-4o9a",
-  "url": "https://dev.to/jdgamble555/firebase-is-dead-what-is-the-perfect-database-in-2022-4o9a",
-  "publish_date": "2022-03-11",
-  "published_at": "2022-03-11T07:03:43Z"
  }
 ]
