@@ -1,5 +1,55 @@
 [
  {
+  "id": 1121752,
+  "title": "Happy 110th Birthday, Alan Turing!",
+  "description": "note: We published a version of this article last year. You can read it here.     Today, June 23,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G5mKAi6J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqe8nsh73ghv7g9355gv.png",
+  "slug": "happy-110th-birthday-alan-turing-3m6o",
+  "url": "https://dev.to/devteam/happy-110th-birthday-alan-turing-3m6o",
+  "publish_date": "2022-06-23",
+  "published_at": "2022-06-23T16:00:23Z"
+ },
+ {
+  "id": 1119080,
+  "title": "How to be productive and deal with time management",
+  "description": "Hi, my name is Julia, and I'm a self-taught Accessibility \u0026amp; Frontend Developer in my 30s who is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LJBa7MGo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9t2h5sz4ew6gkuucn23v.png",
+  "slug": "how-to-be-productive-and-deal-with-time-management-55p1",
+  "url": "https://dev.to/yuridevat/how-to-be-productive-and-deal-with-time-management-55p1",
+  "publish_date": "2022-06-23",
+  "published_at": "2022-06-23T09:53:43Z"
+ },
+ {
+  "id": 1122070,
+  "title": "Why Estimates Are Waste",
+  "description": "Software development is unpredictable but people waste hours every week trying to guess how long...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0QPa1knf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dlfiqjghl01df5biu269.png",
+  "slug": "why-estimates-are-waste-1o0f",
+  "url": "https://dev.to/bentorvo/why-estimates-are-waste-1o0f",
+  "publish_date": "2022-06-23",
+  "published_at": "2022-06-23T06:58:27Z"
+ },
+ {
+  "id": 1122065,
+  "title": "Git Commands ( to ease your development 🤗 )",
+  "description": "Git is a prevalent version control system ( VCS ) used by most programmers. In this blog, I am going...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ylj3JMx9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a77to6mahtdja7q89faa.png",
+  "slug": "git-commands-to-ease-your-development--5a2h",
+  "url": "https://dev.to/shivam164/git-commands-to-ease-your-development--5a2h",
+  "publish_date": "2022-06-23",
+  "published_at": "2022-06-23T06:52:36Z"
+ },
+ {
+  "id": 1092005,
+  "title": "How Do You Overcome Imposter Syndrome?",
+  "description": "\"**There is only one thing that makes a dream impossible to achieve: the fear of failure\".-Paulo...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--65Uua1PU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mnarx29wpg2jeptsigcf.jpeg",
+  "slug": "how-do-you-overcome-imposter-syndrome-55m8",
+  "url": "https://dev.to/janicera2880/how-do-you-overcome-imposter-syndrome-55m8",
+  "publish_date": "2022-06-23",
+  "published_at": "2022-06-23T01:19:11Z"
+ },
+ {
   "id": 1113328,
   "title": "I Made an entire FULL-STACK App using ONLY my Phone 🤯️",
   "description": "Thanks to Cyclic.sh for sponsoring this article!   After a long day of programming, I came back...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/appwrite/scale-appwrite-storage-with-digitalocean-spaces-36kh",
   "publish_date": "2022-03-16",
   "published_at": "2022-03-16T04:14:32Z"
- },
- {
-  "id": 1019903,
-  "title": "JavaScript Array Method Cheat Sheet (17 must-know methods) 📄",
-  "description": "Having useful array methods at the top of your head will improve your problem solving ability.  So I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tXGU2Upv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/41ws8krsmldruftnjydh.jpg",
-  "slug": "javascript-array-method-cheat-sheet-17-must-know-methods-441g",
-  "url": "https://dev.to/doabledanny/javascript-array-method-cheat-sheet-17-must-know-methods-441g",
-  "publish_date": "2022-03-15",
-  "published_at": "2022-03-15T17:57:14Z"
- },
- {
-  "id": 1002200,
-  "title": "Appwrite Storage meets limitless S3",
-  "description": "Appwrite is an open source backend-as-a-service that abstracts all the complexity involved in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R0Rcqr-G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9qbqhmp2nczqjnx6n42v.png",
-  "slug": "appwrite-storage-meets-limitless-s3-1g89",
-  "url": "https://dev.to/appwrite/appwrite-storage-meets-limitless-s3-1g89",
-  "publish_date": "2022-03-15",
-  "published_at": "2022-03-15T14:43:04Z"
- },
- {
-  "id": 1023442,
-  "title": "Create Your Open Source Ecommerce Store using Medusa and Next.js",
-  "description": "Medusa is an open source headless commerce platform giving engineers the foundation for building...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NA954Zql--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jgo38idehxtw753oe3kz.png",
-  "slug": "create-your-open-source-ecommerce-store-using-medusa-and-nextjs-1b4d",
-  "url": "https://dev.to/medusajs/create-your-open-source-ecommerce-store-using-medusa-and-nextjs-1b4d",
-  "publish_date": "2022-03-15",
-  "published_at": "2022-03-15T12:06:51Z"
- },
- {
-  "id": 1023416,
-  "title": "Destructive arguments used in technology discussions on social media that have to die",
-  "description": "These are some antipatterns in communication about technology on social media we shouldn't use any longer.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AzYmcdQD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rve1sp69aqe615u2ufjt.png",
-  "slug": "destructive-arguments-used-in-technology-discussions-on-social-media-that-have-to-die-2oop",
-  "url": "https://dev.to/codepo8/destructive-arguments-used-in-technology-discussions-on-social-media-that-have-to-die-2oop",
-  "publish_date": "2022-03-15",
-  "published_at": "2022-03-15T11:32:41Z"
- },
- {
-  "id": 1023017,
-  "title": "Working alone is so exhausting so I created my own assistant",
-  "description": "Working alone is great... but... I am so tired of dealing with all of these.. these shitty...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kr8EOknr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gbwp3fmc52tiy8iheaqn.jpg",
-  "slug": "working-alone-is-so-exhausting-so-i-created-my-own-assistant-4mki",
-  "url": "https://dev.to/happping_min/working-alone-is-so-exhausting-so-i-created-my-own-assistant-4mki",
-  "publish_date": "2022-03-15",
-  "published_at": "2022-03-15T02:18:47Z"
  }
 ]
