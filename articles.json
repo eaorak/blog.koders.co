@@ -1,5 +1,55 @@
 [
  {
+  "id": 1124166,
+  "title": "How to disable text selection with CSS",
+  "description": "On a web page, we typically should not disable text selection, but there are a few cases where having...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--unJitTEA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sy6mooih860c4ys4urdq.png",
+  "slug": "how-to-disable-text-selection-with-css-4jan",
+  "url": "https://dev.to/smpnjn/how-to-disable-text-selection-with-css-4jan",
+  "publish_date": "2022-06-25",
+  "published_at": "2022-06-25T10:43:31Z"
+ },
+ {
+  "id": 1122061,
+  "title": "How to embed YouTube and Vimeo the light way",
+  "description": "You've probably embedded YouTube and Vimeo-videos dozens of times, using the standard...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G0rB8h1N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m92a9catmxrvditbjo9i.jpg",
+  "slug": "how-to-embed-youtube-and-vimeo-the-light-way-2pek",
+  "url": "https://dev.to/madsstoumann/how-to-embed-youtube-and-vimeo-the-light-way-2pek",
+  "publish_date": "2022-06-25",
+  "published_at": "2022-06-25T09:56:49Z"
+ },
+ {
+  "id": 1120480,
+  "title": "React Props complete guide for beginners",
+  "description": "Table of Content      📌 Introduction  📌 React Props  📌 Pro Tips   ➡ Reduce HTML...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P64v-Mnt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v2y6iiibdnco7jti68zp.png",
+  "slug": "use-react-props-like-a-pro--1gll",
+  "url": "https://dev.to/suchintan/use-react-props-like-a-pro--1gll",
+  "publish_date": "2022-06-25",
+  "published_at": "2022-06-25T07:44:55Z"
+ },
+ {
+  "id": 898532,
+  "title": "Preaching 'Clean Code' is Lowering the Quality of Developers",
+  "description": "Okay - first things first... I am in no way anti clean code, and I'm not saying it is necessarily a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BGOiTdMo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yeybnvspzt5dsobuilck.png",
+  "slug": "preaching-clean-code-is-lowering-the-quality-of-developers-1cmb",
+  "url": "https://dev.to/jonrandy/preaching-clean-code-is-lowering-the-quality-of-developers-1cmb",
+  "publish_date": "2022-06-25",
+  "published_at": "2022-06-25T07:23:23Z"
+ },
+ {
+  "id": 1123958,
+  "title": "CSS Battle: #1 - Simply Square",
+  "description": "In this article, I will solve a Simply Square CSS Challenge on CSS Battle. Let's look at the problem...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EwMZKlaD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9yl4mikdwp1n39ncliik.png",
+  "slug": "css-battle-1-pilot-battle-1fhh",
+  "url": "https://dev.to/j471n/css-battle-1-pilot-battle-1fhh",
+  "publish_date": "2022-06-25",
+  "published_at": "2022-06-25T04:40:17Z"
+ },
+ {
   "id": 1123311,
   "title": "Monitoring a full-stack Nodejs application with open-source tools",
   "description": "Nodejs tops the list of most widely used frameworks for server-side programming by developers....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/n3wt0n/i-got-awarded-as-microsoft-mvp-8e1",
   "publish_date": "2022-03-18",
   "published_at": "2022-03-18T10:01:46Z"
- },
- {
-  "id": 1025757,
-  "title": "The Subtle Art Of Cold Emailing",
-  "description": "What is cold- emailing?   Is there a dream company/dream role you want to work for? Do you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3jl_xJa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rddga1q96x02q3r1yw0r.png",
-  "slug": "the-subtle-art-of-cold-emailing-i6o",
-  "url": "https://dev.to/haimantika/the-subtle-art-of-cold-emailing-i6o",
-  "publish_date": "2022-03-17",
-  "published_at": "2022-03-17T14:22:43Z"
- },
- {
-  "id": 1025865,
-  "title": "Open source ecommerce - How Medusa compares to Shopify",
-  "description": "Open source ecommerce is becoming increasingly popular in the ecommerce space. In this article, we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x0cqb4KL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r9x5qx4t0wuukc6gwj4m.png",
-  "slug": "open-source-ecommerce-how-medusa-compares-to-shopify-3ef",
-  "url": "https://dev.to/medusajs/open-source-ecommerce-how-medusa-compares-to-shopify-3ef",
-  "publish_date": "2022-03-17",
-  "published_at": "2022-03-17T12:14:45Z"
- },
- {
-  "id": 1024174,
-  "title": "Create a Github stunning profile 💫 (by dynamically listing your recent blog posts)",
-  "description": "I learned that you have to expose your blog posts as much you can, without spamming or being annoying, to have a chance to someone read them.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K6O3moV_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/46ffpi0h01fj7ddny2mv.jpeg",
-  "slug": "create-a-github-stunning-profile-by-dynamically-listing-your-recent-blog-posts-3g0j",
-  "url": "https://dev.to/renanfranca/create-a-github-stunning-profile-by-dynamically-listing-your-recent-blog-posts-3g0j",
-  "publish_date": "2022-03-17",
-  "published_at": "2022-03-17T11:21:33Z"
- },
- {
-  "id": 1025806,
-  "title": "Black Design - Curated List with FREE Dashboards",
-  "description": "A curated list with starters and templates crafted on top of pixel-perfect dark-themed kits - ALL Free, released under the MIT License.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q9gMuNMP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yhqcqdwoumq1biptdasj.jpg",
-  "slug": "black-design-curated-list-with-free-dashboards-4d24",
-  "url": "https://dev.to/sm0ke/black-design-curated-list-with-free-dashboards-4d24",
-  "publish_date": "2022-03-17",
-  "published_at": "2022-03-17T10:12:35Z"
- },
- {
-  "id": 1025641,
-  "title": "I quit my job to make free web tools",
-  "description": "I quit my job. I'm now unemployed. It feels great to finally be able to write this blog post. I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_pD4K_cY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zwgscljjob349l7zr76a.jpg",
-  "slug": "i-quit-my-job-to-make-free-web-tools-5ei1",
-  "url": "https://dev.to/ruurtjan/i-quit-my-job-to-make-free-web-tools-5ei1",
-  "publish_date": "2022-03-17",
-  "published_at": "2022-03-17T08:11:58Z"
  }
 ]
