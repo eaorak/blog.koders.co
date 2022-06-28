@@ -1,5 +1,55 @@
 [
  {
+  "id": 1125626,
+  "title": "Meme Monday! 🥸",
+  "description": "Welcome to another Meme Monday post! Today's cover image comes from my favorite submission from last...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--08CYGdjW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xmidm36im5omrh5odj6.png",
+  "slug": "meme-monday-3o74",
+  "url": "https://dev.to/ben/meme-monday-3o74",
+  "publish_date": "2022-06-27",
+  "published_at": "2022-06-27T14:26:44Z"
+ },
+ {
+  "id": 1125460,
+  "title": "Fastest ever Laravel deployments via GitHub? You decide.",
+  "description": "Laravel is a much-loved, free PHP framework for developing web applications. Using expressive and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--il386eJA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/950jfex37j9rnteeaei8.png",
+  "slug": "fastest-ever-laravel-deployments-via-github-you-decide-27f7",
+  "url": "https://dev.to/ionos/fastest-ever-laravel-deployments-via-github-you-decide-27f7",
+  "publish_date": "2022-06-27",
+  "published_at": "2022-06-27T13:19:58Z"
+ },
+ {
+  "id": 1125256,
+  "title": "Pure CSS Woman Wearing Face Mask",
+  "description": "Speed Code Video https://twitter.com/asyrafhussin4/status/1541307022297030656",
+  "cover_image": "",
+  "slug": "pure-css-woman-wearing-face-mask-i55",
+  "url": "https://dev.to/asyrafhussin4/pure-css-woman-wearing-face-mask-i55",
+  "publish_date": "2022-06-27",
+  "published_at": "2022-06-27T07:16:50Z"
+ },
+ {
+  "id": 1125246,
+  "title": "Git the Parts to Avoid",
+  "description": "Git is a great tool for managing code changes over time and allowing code to be integrated by teams...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4C99ciii--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9h8umsk6jem0u7nist7d.png",
+  "slug": "git-the-parts-to-avoid-4pad",
+  "url": "https://dev.to/bentorvo/git-the-parts-to-avoid-4pad",
+  "publish_date": "2022-06-27",
+  "published_at": "2022-06-27T06:45:40Z"
+ },
+ {
+  "id": 1123298,
+  "title": ".NET 7 is on the way! 5 Features that will blow your mind 🤯",
+  "description": "It’s no secret that Microsoft has been working on .NET 7 for quite some time now, and every time...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zTk_5eCR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/baget9rpjcwpvwjzgw0t.png",
+  "slug": "net-7-is-on-the-way-5-features-that-will-blow-your-mind-bmg",
+  "url": "https://dev.to/dotnetsafer/net-7-is-on-the-way-5-features-that-will-blow-your-mind-bmg",
+  "publish_date": "2022-06-27",
+  "published_at": "2022-06-27T06:13:31Z"
+ },
+ {
   "id": 1124942,
   "title": "Which YouTube channels do you follow and would recommend as a programmer/developer?",
   "description": "The question is simple, which YouTube channels do you follow and would recommend as a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/6-killer-productivity-apps-for-programmers-2ieo",
   "publish_date": "2022-03-20",
   "published_at": "2022-03-20T02:49:28Z"
- },
- {
-  "id": 1028084,
-  "title": "How to build personal portfolio using HTML CSS JavaScript",
-  "description": "How to build personal portfolio using HTML CSS JavaScript  In this video, I will show you how to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gaB6DcD5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kin52xvsyxd87mxhlqhk.png",
-  "slug": "how-to-build-personal-portfolio-using-html-css-javascript-37e2",
-  "url": "https://dev.to/codewithsadee/how-to-build-personal-portfolio-using-html-css-javascript-37e2",
-  "publish_date": "2022-03-19",
-  "published_at": "2022-03-19T19:25:00Z"
- },
- {
-  "id": 1027865,
-  "title": "Promises: async/await vs .then(), how we got here and why I use both",
-  "description": "How we got here   Promises marked a huge turning point in async js, they enabled a new type...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mJByjFIw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7kdq72js2t5pqg64i89t.png",
-  "slug": "promises-asyncawait-vs-then-how-we-got-here-and-why-i-use-both-emg",
-  "url": "https://dev.to/_hariti/promises-asyncawait-vs-then-how-we-got-here-and-why-i-use-both-emg",
-  "publish_date": "2022-03-19",
-  "published_at": "2022-03-19T13:44:25Z"
- },
- {
-  "id": 1027834,
-  "title": "Cheers to two years of consistency",
-  "description": "I think I can officially say I've been consistent. It was exactly two years ago I started the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Aun_1N_4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbmn2dkep9y4gobr42o7.jpg",
-  "slug": "cheers-to-two-years-of-consistency-3mak",
-  "url": "https://dev.to/dailydevtips1/cheers-to-two-years-of-consistency-3mak",
-  "publish_date": "2022-03-19",
-  "published_at": "2022-03-19T10:57:15Z"
- },
- {
-  "id": 1027603,
-  "title": "How does the Blockchain work?",
-  "description": "Any idea about Blockchain?  Well,  Let's see first, what Blockchain is! and then we will discuss how...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mX5s3eIw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1y939jnc0b1rvmwpnx51.jpg",
-  "slug": "how-does-the-blockchain-work-1mla",
-  "url": "https://dev.to/sarojvrc/how-does-the-blockchain-work-1mla",
-  "publish_date": "2022-03-19",
-  "published_at": "2022-03-19T05:20:33Z"
- },
- {
-  "id": 1027584,
-  "title": "Lessons from a Computer Science College Grad",
-  "description": "In December of 2021 I graduated with a degree in Computer Science. I've been working as a programming...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QoJ_jxEC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ghxhjs7qadsossc1s6kg.jpg",
-  "slug": "lessons-from-a-computer-science-college-grad-2j7i",
-  "url": "https://dev.to/2320sharon/lessons-from-a-computer-science-college-grad-2j7i",
-  "publish_date": "2022-03-19",
-  "published_at": "2022-03-19T03:24:25Z"
  }
 ]
