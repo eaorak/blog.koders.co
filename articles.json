@@ -1,5 +1,55 @@
 [
  {
+  "id": 1134647,
+  "title": "If you could add one feature to DEV, what would it be?",
+  "description": "If you could add one feature to DEV, what would it be?  Feel free to take an existing feature and...",
+  "cover_image": "",
+  "slug": "if-you-could-add-one-feature-to-dev-what-would-it-be-i98",
+  "url": "https://dev.to/devteam/if-you-could-add-one-feature-to-dev-what-would-it-be-i98",
+  "publish_date": "2022-07-07",
+  "published_at": "2022-07-07T15:48:05Z"
+ },
+ {
+  "id": 1134619,
+  "title": "What is a wrong turn you took your career?",
+  "description": "What is a direction you took in your career that turned out to be the wrong direction, and you had to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q3OE-jlb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9em6zzctp5m034gn7jg7.png",
+  "slug": "what-is-a-wrong-turn-you-took-your-career-2omp",
+  "url": "https://dev.to/ben/what-is-a-wrong-turn-you-took-your-career-2omp",
+  "publish_date": "2022-07-07",
+  "published_at": "2022-07-07T14:29:20Z"
+ },
+ {
+  "id": 1134440,
+  "title": "How I began using TypeScript",
+  "description": "I hope this post will convince you to give TypeScript a try if you haven't already. It really is an...",
+  "cover_image": "",
+  "slug": "how-i-began-using-typescript-3noe",
+  "url": "https://dev.to/omerwow/how-i-began-using-typescript-3noe",
+  "publish_date": "2022-07-07",
+  "published_at": "2022-07-07T12:23:59Z"
+ },
+ {
+  "id": 1134209,
+  "title": "Using the native web share JavaScript API",
+  "description": "Did you know there is a native share function you can invoke with JavaScript?  You might have seen...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RpnU5HPW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y9a1n1sx9yipa4qw0dun.jpg",
+  "slug": "using-the-native-web-share-javascript-api-23ei",
+  "url": "https://dev.to/dailydevtips1/using-the-native-web-share-javascript-api-23ei",
+  "publish_date": "2022-07-07",
+  "published_at": "2022-07-07T06:24:58Z"
+ },
+ {
+  "id": 1134192,
+  "title": "Some useful JavaScript One-Liners",
+  "description": "JavaScript is one of the most powerful language in this modern world. In this article we will go...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C-mo0zei--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtgigby98jjjrjaatwdu.jpg",
+  "slug": "some-useful-javascript-one-liners-4eoe",
+  "url": "https://dev.to/shshank/some-useful-javascript-one-liners-4eoe",
+  "publish_date": "2022-07-07",
+  "published_at": "2022-07-07T05:47:27Z"
+ },
+ {
   "id": 1133275,
   "title": "The Hard Parts of Developer Advocacy (for me)",
   "description": "Pivoting from software engineering to developer advocacy is the best career decision I have ever...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/afif/a-css-art-from-demon-slayer-4f0c",
   "publish_date": "2022-03-30",
   "published_at": "2022-03-30T09:17:14Z"
- },
- {
-  "id": 1038563,
-  "title": "Productivity Tools I Use",
-  "description": "Here is a short list of some great tools I've discovered over the past year.           macOS Only    ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HY1BAZDa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6o3ie5mp1y2ki6xpra6q.jpeg",
-  "slug": "productivity-tools-i-use-4gm3",
-  "url": "https://dev.to/nickytonline/productivity-tools-i-use-4gm3",
-  "publish_date": "2022-03-29",
-  "published_at": "2022-03-29T20:47:12Z"
- },
- {
-  "id": 1038012,
-  "title": "Maintaining An Open Source Project - Cake Walk Or No?",
-  "description": "At Appwrite, we aim to build awesome products and spread the word about open source.🚀  With continued...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jnv5RVLn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t26j3od18yums6dgdmoc.png",
-  "slug": "maintaining-an-open-source-project-cake-walk-or-no-4o8f",
-  "url": "https://dev.to/appwrite/maintaining-an-open-source-project-cake-walk-or-no-4o8f",
-  "publish_date": "2022-03-29",
-  "published_at": "2022-03-29T13:22:57Z"
- },
- {
-  "id": 1038010,
-  "title": "How to Migrate From ECS to EKS and the #1 Trick to Make EKS Easier",
-  "description": "Migrating from Amazon ECS to EKS is probably the last thing you want to spend your time on.  Yet,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bOOckCun--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6bzf3xnw28natuisn9w4.png",
-  "slug": "how-to-migrate-from-ecs-to-eks-and-the-1-trick-to-make-eks-easier-fl0",
-  "url": "https://dev.to/castai/how-to-migrate-from-ecs-to-eks-and-the-1-trick-to-make-eks-easier-fl0",
-  "publish_date": "2022-03-29",
-  "published_at": "2022-03-29T13:15:09Z"
- },
- {
-  "id": 1037995,
-  "title": "What is the future of CSS?",
-  "description": "Utility-first CSS is all the rage these days. Does anybody have feelings about what the next...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E7l9Y7HA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6fnktdiztc3ee1tf3e3.png",
-  "slug": "what-is-the-future-of-css-42l9",
-  "url": "https://dev.to/ben/what-is-the-future-of-css-42l9",
-  "publish_date": "2022-03-29",
-  "published_at": "2022-03-29T12:39:34Z"
- },
- {
-  "id": 1037720,
-  "title": "CSS Logos: Figma logo",
-  "description": "While creating the CSS Slack logo I couldn't help but think it looks a lot like the Figma logo in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ysYgIGVy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v24r04v4oxoqi014kgc6.jpg",
-  "slug": "css-logos-figma-logo-3465",
-  "url": "https://dev.to/dailydevtips1/css-logos-figma-logo-3465",
-  "publish_date": "2022-03-29",
-  "published_at": "2022-03-29T06:46:42Z"
  }
 ]
