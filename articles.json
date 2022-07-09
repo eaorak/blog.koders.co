@@ -1,5 +1,55 @@
 [
  {
+  "id": 1134053,
+  "title": "Using Dark Mode in your react app! 🌙",
+  "description": "Dark mode is one of the features that would look excellent implemented in your app, as it would...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VZl4niBi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7n6yny4pnv9zm58vbsc.gif",
+  "slug": "using-dark-mode-in-your-react-app-5364",
+  "url": "https://dev.to/franklin030601/using-dark-mode-in-your-react-app-5364",
+  "publish_date": "2022-07-08",
+  "published_at": "2022-07-08T12:35:12Z"
+ },
+ {
+  "id": 1135390,
+  "title": "Keep Cloud Operations In Top Shape This Summer With Automation",
+  "description": "A Gartner survey of infrastructure and operations leaders revealed that 58% of them deal with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4lUSj954--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqkf7064mte7g0rahsax.png",
+  "slug": "keep-cloud-operations-in-top-shape-this-summer-with-automation-2cgp",
+  "url": "https://dev.to/castai/keep-cloud-operations-in-top-shape-this-summer-with-automation-2cgp",
+  "publish_date": "2022-07-08",
+  "published_at": "2022-07-08T11:47:10Z"
+ },
+ {
+  "id": 1135347,
+  "title": "CQRS is Software Development Schizophrenia",
+  "description": "CQRS is an acronym, and it implies \"Command Query Responsibility Segregation\" - Which again just...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lf1v3ccV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hjn8q27ci055xlr80w1i.jpg",
+  "slug": "cqrs-is-software-development-schizophrenia-301o",
+  "url": "https://dev.to/polterguy/cqrs-is-software-development-schizophrenia-301o",
+  "publish_date": "2022-07-08",
+  "published_at": "2022-07-08T10:22:18Z"
+ },
+ {
+  "id": 1135151,
+  "title": "How to insert an element at a specific array index with JavaScript",
+  "description": "In this article, I'll teach you how to add an element to a JavaScript array but set it to a specific...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4aFHlSB6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lf5g71xw4vq8iv3z9pb6.jpg",
+  "slug": "how-to-insert-an-element-at-a-specific-array-index-with-javascript-5f5m",
+  "url": "https://dev.to/dailydevtips1/how-to-insert-an-element-at-a-specific-array-index-with-javascript-5f5m",
+  "publish_date": "2022-07-08",
+  "published_at": "2022-07-08T07:06:06Z"
+ },
+ {
+  "id": 1135105,
+  "title": "4 Most Common Git Mistakes",
+  "description": "1. Discard changes to local files in git   As a programmer, it happens every day that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ugoAh6Zc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfhzayrwrs02h5g6kos9.png",
+  "slug": "4-most-common-git-mistakes-40a9",
+  "url": "https://dev.to/devsimc/4-most-common-git-mistakes-40a9",
+  "publish_date": "2022-07-08",
+  "published_at": "2022-07-08T04:57:28Z"
+ },
+ {
   "id": 1134647,
   "title": "If you could add one feature to DEV, what would it be?",
   "description": "If you could add one feature to DEV, what would it be?  Feel free to take an existing feature and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/lets-talk-about-software-testing-117",
   "publish_date": "2022-03-31",
   "published_at": "2022-03-31T06:02:29Z"
- },
- {
-  "id": 1039557,
-  "title": "Curious about content-driven micropayments? You may want to join the Web Monetization Community",
-  "description": "Did you know you can monetize your DEV posts and get a drip of micropayments from some of your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oMMKwnHa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcr8frmrbi15mgi3lba9.png",
-  "slug": "curious-about-content-driven-micropayments-you-may-want-to-join-the-web-monetization-community-4lk6",
-  "url": "https://dev.to/devteam/curious-about-content-driven-micropayments-you-may-want-to-join-the-web-monetization-community-4lk6",
-  "publish_date": "2022-03-30",
-  "published_at": "2022-03-30T19:36:10Z"
- },
- {
-  "id": 1038557,
-  "title": "Building Moderation Discord Bots with Appwrite Cloud Functions",
-  "description": "At Appwrite, we try to make our software flexible and agnostic to any tech stack or use case. While...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Sh7mHcCx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0syv49wrvji1hbykrw9c.png",
-  "slug": "building-moderation-discord-bots-with-appwrite-cloud-functions-a7h",
-  "url": "https://dev.to/appwrite/building-moderation-discord-bots-with-appwrite-cloud-functions-a7h",
-  "publish_date": "2022-03-30",
-  "published_at": "2022-03-30T15:02:20Z"
- },
- {
-  "id": 1038404,
-  "title": "A importância de uma boa Documentação",
-  "description": "Prólogo   Uma das discussões mais recentes do nosso querido TwitterDev é sobre algo que eu,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9mrwtcZv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5673j5qnh3dhs90n1i85.jpeg",
-  "slug": "a-importancia-de-uma-boa-documentacao-5686",
-  "url": "https://dev.to/danielhe4rt/a-importancia-de-uma-boa-documentacao-5686",
-  "publish_date": "2022-03-30",
-  "published_at": "2022-03-30T12:58:18Z"
- },
- {
-  "id": 1039192,
-  "title": "Pitch me on the pros and cons of your preferred web app framework",
-  "description": "A post by Ben Halpern",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hwxHR6GR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mwfzjr5pejf1vcd3wml0.png",
-  "slug": "pitch-me-on-the-pros-and-cons-of-your-preferred-web-app-framework-iam",
-  "url": "https://dev.to/ben/pitch-me-on-the-pros-and-cons-of-your-preferred-web-app-framework-iam",
-  "publish_date": "2022-03-30",
-  "published_at": "2022-03-30T12:37:49Z"
- },
- {
-  "id": 1038976,
-  "title": "A CSS Art from Demon Slayer",
-  "description": "Another world, Another anime, and another CSS Art. Adding Tanjiro Kamado to the list. A CSS-only...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AhuYQJJT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pmpn00c5mmw3jqanivyh.png",
-  "slug": "a-css-art-from-demon-slayer-4f0c",
-  "url": "https://dev.to/afif/a-css-art-from-demon-slayer-4f0c",
-  "publish_date": "2022-03-30",
-  "published_at": "2022-03-30T09:17:14Z"
  }
 ]
