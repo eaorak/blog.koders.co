@@ -1,5 +1,55 @@
 [
  {
+  "id": 1136270,
+  "title": "7 Mind-blowing websites that you as a developer will not hate.",
+  "description": "Without wasting your time!   💡 1. Witboard   Witeboard is the fastest real-time online whiteboard for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4SbnImk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n13k17f278k5907esm1k.gif",
+  "slug": "7-mind-blowing-websites-that-you-as-a-developer-will-not-hate-2j9h",
+  "url": "https://dev.to/hr21don/7-mind-blowing-websites-that-you-as-a-developer-will-not-hate-2j9h",
+  "publish_date": "2022-07-09",
+  "published_at": "2022-07-09T17:39:57Z"
+ },
+ {
+  "id": 872473,
+  "title": "Introduction to Storage with AWS",
+  "description": "Although legacy storage players are tired of talking about cloud’s impact on their business, the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Oygp-4Hm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3gdozwnq7c7dk8f7yzj6.jpg",
+  "slug": "introduction-to-storage-with-aws-2jh3",
+  "url": "https://dev.to/aws-builders/introduction-to-storage-with-aws-2jh3",
+  "publish_date": "2022-07-09",
+  "published_at": "2022-07-09T12:52:16Z"
+ },
+ {
+  "id": 1136021,
+  "title": "JavaScript Proxy a first introduction",
+  "description": "Recently I had my first production use-case for the Proxy object. So let me tell you a bit more about...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nrHF2jZ0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a9l6smzn5oj0r4ajc2r9.jpg",
+  "slug": "javascript-proxy-a-first-introduction-4hgf",
+  "url": "https://dev.to/dailydevtips1/javascript-proxy-a-first-introduction-4hgf",
+  "publish_date": "2022-07-09",
+  "published_at": "2022-07-09T06:58:47Z"
+ },
+ {
+  "id": 1135741,
+  "title": "Refactoring",
+  "description": "1. What is Refactoring?            1.1. Concept of refactoring   Code refactoring is the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rPfYyef6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5dbcibbws4mbmeky5ecj.png",
+  "slug": "refactoring-3jib",
+  "url": "https://dev.to/tomek_21/refactoring-3jib",
+  "publish_date": "2022-07-09",
+  "published_at": "2022-07-09T05:06:11Z"
+ },
+ {
+  "id": 1135957,
+  "title": "Open-Source contribution, a beginner's guide (in 2 minutes).",
+  "description": "Open-source is not a new concept but in recent years specially it has gained more attention from both...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oz1O2KET--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z1h9xh2oppabrdptf6id.jpg",
+  "slug": "open-source-contribution-a-beginners-guide-in-2-minutes-2g58",
+  "url": "https://dev.to/mohsenkamrani/open-source-contribution-a-beginners-guide-in-2-minutes-2g58",
+  "publish_date": "2022-07-09",
+  "published_at": "2022-07-09T03:31:08Z"
+ },
+ {
   "id": 1134053,
   "title": "Using Dark Mode in your react app! 🌙",
   "description": "Dark mode is one of the features that would look excellent implemented in your app, as it would...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nickytonline/strongly-typed-json-in-typescript-5gb2",
   "publish_date": "2022-04-01",
   "published_at": "2022-04-01T03:36:19Z"
- },
- {
-  "id": 1040438,
-  "title": "What do you think of my HTML5 game?",
-  "description": "Eight Colors is a block shifting game where the goal is to shift circular blocks to reach the target",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cmwdHOxI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8v5x975it0gapf478i6v.png",
-  "slug": "what-do-you-think-of-my-html5-game-1oe4",
-  "url": "https://dev.to/shubhamjain/what-do-you-think-of-my-html5-game-1oe4",
-  "publish_date": "2022-03-31",
-  "published_at": "2022-03-31T12:43:49Z"
- },
- {
-  "id": 1040248,
-  "title": "DeGoogle",
-  "description": "Google LLC provides slick products and services. While most are free to use, there are huge hidden...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g8RyhcUe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/voah4glou71ifrrdi29g.jpeg",
-  "slug": "degoogle-21k5",
-  "url": "https://dev.to/jmau111/degoogle-21k5",
-  "publish_date": "2022-03-31",
-  "published_at": "2022-03-31T11:31:27Z"
- },
- {
-  "id": 1040162,
-  "title": "How to Multipart File Upload Using FormData with React Hook Form",
-  "description": "In this example, we will learn how to upload files with React Hook Form, which is very preferred for...",
-  "cover_image": "",
-  "slug": "how-to-multipart-file-upload-using-formdata-with-react-hook-form-4d6d",
-  "url": "https://dev.to/pankod/how-to-multipart-file-upload-using-formdata-with-react-hook-form-4d6d",
-  "publish_date": "2022-03-31",
-  "published_at": "2022-03-31T09:12:11Z"
- },
- {
-  "id": 1040002,
-  "title": "Star Admin - Open-Source Django Starter",
-  "description": "Free Django Dashboard generated by AppSeed on top of Star Admin - Sources available on Github.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HyL-JN3A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quqc2bqb0list1wzn6jl.jpg",
-  "slug": "star-admin-open-source-django-starter-3894",
-  "url": "https://dev.to/sm0ke/star-admin-open-source-django-starter-3894",
-  "publish_date": "2022-03-31",
-  "published_at": "2022-03-31T07:17:32Z"
- },
- {
-  "id": 1039965,
-  "title": "Let's talk about software testing",
-  "description": "Software testing seems to be one of the most opinionated things in the software ecosystem. Some...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tXF3zKXm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/is7f71wggjrs53s87xft.jpg",
-  "slug": "lets-talk-about-software-testing-117",
-  "url": "https://dev.to/dailydevtips1/lets-talk-about-software-testing-117",
-  "publish_date": "2022-03-31",
-  "published_at": "2022-03-31T06:02:29Z"
  }
 ]
