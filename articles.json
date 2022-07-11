@@ -1,5 +1,55 @@
 [
  {
+  "id": 1136742,
+  "title": "Top 10 Celebrities Who Code",
+  "description": "Trust me if you want, but here are the ten most famous celebrities who also has a career as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XrysWvcK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m6ig7xjdx0wh5d7zqtqi.png",
+  "slug": "top-10-celebrities-who-code-7g7",
+  "url": "https://dev.to/perssondennis/top-10-celebrities-who-code-7g7",
+  "publish_date": "2022-07-10",
+  "published_at": "2022-07-10T14:40:54Z"
+ },
+ {
+  "id": 1136613,
+  "title": "7 Reasons Why React is King of JavaScript UI Frameworks",
+  "description": "React is still the best JavaScript framework to use for frontend web development in 2022, the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aJp9OPuN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kug2si57wssiyyezvrir.png",
+  "slug": "7-reasons-why-react-is-king-of-javascript-ui-frameworks-1j76",
+  "url": "https://dev.to/kalashin1/7-reasons-why-react-is-king-of-javascript-ui-frameworks-1j76",
+  "publish_date": "2022-07-10",
+  "published_at": "2022-07-10T14:30:05Z"
+ },
+ {
+  "id": 1136553,
+  "title": "Detect object changes with JavaScript Proxy",
+  "description": "Let's say we have an object for our users. How can we detect when a property changes?    const user =...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--laY2NiDH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w1whtt7qqswaicdk331y.jpg",
+  "slug": "detect-object-changes-with-javascript-proxy-1o5g",
+  "url": "https://dev.to/dailydevtips1/detect-object-changes-with-javascript-proxy-1o5g",
+  "publish_date": "2022-07-10",
+  "published_at": "2022-07-10T06:49:20Z"
+ },
+ {
+  "id": 1136511,
+  "title": "11 Advanced React Interview Questions you should absolutely know (with detailed answers)",
+  "description": "1. What is the React Virtual DOM?   Virtual DOM is a concept where a virtual representation...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7t_EsSBE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2d1zyy1lh9z55lliic8u.png",
+  "slug": "11-advanced-react-interview-questions-you-should-absolutely-know-with-detailed-answers-1n05",
+  "url": "https://dev.to/ruppysuppy/11-advanced-react-interview-questions-you-should-absolutely-know-with-detailed-answers-1n05",
+  "publish_date": "2022-07-10",
+  "published_at": "2022-07-10T06:22:06Z"
+ },
+ {
+  "id": 1136490,
+  "title": "Learning Resources for TypeScript",
+  "description": "I've had folks ask me for Typescript resources a few times over the past couple of months, so I might...",
+  "cover_image": "",
+  "slug": "learning-resources-for-typescript-4g1n",
+  "url": "https://dev.to/nickytonline/learning-resources-for-typescript-4g1n",
+  "publish_date": "2022-07-10",
+  "published_at": "2022-07-10T04:16:34Z"
+ },
+ {
   "id": 1136270,
   "title": "7 Mind-blowing websites that you as a developer will not hate.",
   "description": "Without wasting your time!   💡 1. Witboard   Witeboard is the fastest real-time online whiteboard for...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/adding-jest-tests-to-a-project-3hai",
   "publish_date": "2022-04-02",
   "published_at": "2022-04-02T05:14:24Z"
- },
- {
-  "id": 1041850,
-  "title": "Building and distributing a command line tool in Golang",
-  "description": "Thanks to its static binaries and cross-compiling, building and distributing command-line apps in Go...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qATlkp2a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f9i7fh1reaum3esht42f.jpg",
-  "slug": "building-and-distributing-a-command-line-tool-in-golang-go0",
-  "url": "https://dev.to/mauriciolinhares/building-and-distributing-a-command-line-tool-in-golang-go0",
-  "publish_date": "2022-04-01",
-  "published_at": "2022-04-01T17:42:51Z"
- },
- {
-  "id": 1041822,
-  "title": "React NodeJS Soft Dashboard - Open-Source Full-Stack Starter",
-  "description": "Simple full-stack starter that uses a M-UI React design powered by Express/NodeJS",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YQVCRK9K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ck2f1bcskd7hrwtd1c1s.jpg",
-  "slug": "react-nodejs-soft-dashboard-open-source-full-stack-starter-4bfb",
-  "url": "https://dev.to/sm0ke/react-nodejs-soft-dashboard-open-source-full-stack-starter-4bfb",
-  "publish_date": "2022-04-01",
-  "published_at": "2022-04-01T17:19:42Z"
- },
- {
-  "id": 1030939,
-  "title": "Announcing Appwrite One-Click Droplets on DigitalOcean",
-  "description": "Appwrite is an open-source back-end-as-a-service that abstracts all the complexity of building a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KlIRlXDv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mg2s1vll29yyqh1ptmb.png",
-  "slug": "announcing-appwrite-one-click-droplets-on-digitalocean-1hd8",
-  "url": "https://dev.to/appwrite/announcing-appwrite-one-click-droplets-on-digitalocean-1hd8",
-  "publish_date": "2022-04-01",
-  "published_at": "2022-04-01T16:31:52Z"
- },
- {
-  "id": 1041174,
-  "title": "I quit",
-  "description": "It's been 735 articles, and I've finally had enough. Time to lay down the keyboard and retire the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FBFCjQdu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n5215dodhfdwl2w733w3.jpg",
-  "slug": "i-quit-1g32",
-  "url": "https://dev.to/dailydevtips1/i-quit-1g32",
-  "publish_date": "2022-04-01",
-  "published_at": "2022-04-01T06:06:22Z"
- },
- {
-  "id": 1041123,
-  "title": "Strongly Typed JSON in TypeScript",
-  "description": "Someone in one of the Slack communities I'm a part of asked today how to type JSON in TypeScript,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kzB8DJTv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7sjay11pqa91it8euj0l.png",
-  "slug": "strongly-typed-json-in-typescript-5gb2",
-  "url": "https://dev.to/nickytonline/strongly-typed-json-in-typescript-5gb2",
-  "publish_date": "2022-04-01",
-  "published_at": "2022-04-01T03:36:19Z"
  }
 ]
