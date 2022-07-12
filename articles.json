@@ -1,5 +1,55 @@
 [
  {
+  "id": 1137553,
+  "title": "Meme Monday!! 🦖",
+  "description": "No Meme Monday last week due to USA holiday — but we're back!  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JL9m9ZUR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rj5848hnd5n57li42tsz.png",
+  "slug": "meme-monday-375e",
+  "url": "https://dev.to/ben/meme-monday-375e",
+  "publish_date": "2022-07-11",
+  "published_at": "2022-07-11T13:39:06Z"
+ },
+ {
+  "id": 1137410,
+  "title": "Cloud Technology News of the Month: June 2022",
+  "description": "There’s a wave of layoffs and executive step-downs running through the industry, that’s for sure. As...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NBxkMCPd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sp3ay4tsa6kkcajj7uvz.jpg",
+  "slug": "cloud-technology-news-of-the-month-june-2022-h2k",
+  "url": "https://dev.to/castai/cloud-technology-news-of-the-month-june-2022-h2k",
+  "publish_date": "2022-07-11",
+  "published_at": "2022-07-11T11:25:10Z"
+ },
+ {
+  "id": 1137308,
+  "title": "What is DevRel and how can you start doing it today?",
+  "description": "When I first heard the term \"DevRel\" I was not sure what it means exactly. Before I joined Vue...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yyxu_Oo1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e5qj1difls2mdmf0mu6x.png",
+  "slug": "what-is-devrel-and-how-can-you-start-doing-it-today-lpc",
+  "url": "https://dev.to/jacobandrewsky/what-is-devrel-and-how-can-you-start-doing-it-today-lpc",
+  "publish_date": "2022-07-11",
+  "published_at": "2022-07-11T10:11:38Z"
+ },
+ {
+  "id": 1137346,
+  "title": "How to send an SMS using Twilio",
+  "description": "Communicating with users from a software application is a common feature in modern software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HHiWPgsx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ta964sq7h2mtupt10502.png",
+  "slug": "how-to-send-an-sms-using-twilio-f4",
+  "url": "https://dev.to/novu/how-to-send-an-sms-using-twilio-f4",
+  "publish_date": "2022-07-11",
+  "published_at": "2022-07-11T09:32:02Z"
+ },
+ {
+  "id": 1137333,
+  "title": "GitHub Actions: a New Hope in YAML Programming Wasteland",
+  "description": "The main superpower of a programmer is her ability to automate almost everything. That's where GitHub...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wDDMW1zL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5cp9it8mo4ow1qhii5g.png",
+  "slug": "github-actions-a-new-hope-in-yaml-wasteland-1i9c",
+  "url": "https://dev.to/jmfayard/github-actions-a-new-hope-in-yaml-wasteland-1i9c",
+  "publish_date": "2022-07-11",
+  "published_at": "2022-07-11T08:46:51Z"
+ },
+ {
   "id": 1136742,
   "title": "Top 10 Celebrities Who Code",
   "description": "Trust me if you want, but here are the ten most famous celebrities who also has a career as...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/eludadev/take-your-github-repository-to-the-next-level-17ge",
   "publish_date": "2022-04-03",
   "published_at": "2022-04-03T08:47:36Z"
- },
- {
-  "id": 1035565,
-  "title": "Top developer newsletters",
-  "description": "Here is a curated list of newsletters that I like, they are all vetted 💯.          ...",
-  "cover_image": "",
-  "slug": "top-developer-newsletters-g8b",
-  "url": "https://dev.to/agamm/top-developer-newsletters-g8b",
-  "publish_date": "2022-04-02",
-  "published_at": "2022-04-02T18:33:29Z"
- },
- {
-  "id": 1021847,
-  "title": "All React Hooks and Concepts In A Single Post!! 🤗",
-  "description": "First of all React is a JS Library not a Complete Framework 🙂 so for making a complete web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FmjjO-lB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e79bvdtj04yxomtm65h8.png",
-  "slug": "all-react-hooks-and-concepts-in-a-single-post-1daf",
-  "url": "https://dev.to/nyctonio/all-react-hooks-and-concepts-in-a-single-post-1daf",
-  "publish_date": "2022-04-02",
-  "published_at": "2022-04-02T13:09:34Z"
- },
- {
-  "id": 1042481,
-  "title": "Ways to Reduce your Front-End Codes",
-  "description": "Here, several approaches will be introduced to reduce your front-end code base, especially, for...",
-  "cover_image": "",
-  "slug": "ways-to-reduce-your-front-end-codes-30hl",
-  "url": "https://dev.to/zhcalvin/ways-to-reduce-your-front-end-codes-30hl",
-  "publish_date": "2022-04-02",
-  "published_at": "2022-04-02T11:44:18Z"
- },
- {
-  "id": 1038766,
-  "title": "13 Typescript Utility: A Cheat Sheet for Developer",
-  "description": "Typescript is very powerful in terms of type checking, but sometime it gets tedious when some types...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BFfjnZwN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mu2ulhvf8evbndzoxeqo.gif",
-  "slug": "13-typescript-utility-a-cheat-sheet-for-developer-ab3",
-  "url": "https://dev.to/devsmitra/13-typescript-utility-a-cheat-sheet-for-developer-ab3",
-  "publish_date": "2022-04-02",
-  "published_at": "2022-04-02T07:15:44Z"
- },
- {
-  "id": 1042213,
-  "title": "Adding Jest tests to a project",
-  "description": "Now that we are talking about testing, let's try out Jest, a pretty well-used testing framework for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hv6uNR-c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ueg0cblu9qc45emxj3v.jpg",
-  "slug": "adding-jest-tests-to-a-project-3hai",
-  "url": "https://dev.to/dailydevtips1/adding-jest-tests-to-a-project-3hai",
-  "publish_date": "2022-04-02",
-  "published_at": "2022-04-02T05:14:24Z"
  }
 ]
