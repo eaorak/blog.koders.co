@@ -1,5 +1,55 @@
 [
  {
+  "id": 1140090,
+  "title": "Javascript best practices🔥",
+  "description": "Declare and Initialize Arrays in javascript Find out the sum, minimum and maximum value in...",
+  "cover_image": "",
+  "slug": "javascript-best-practices-44ll",
+  "url": "https://dev.to/devsimc/javascript-best-practices-44ll",
+  "publish_date": "2022-07-14",
+  "published_at": "2022-07-14T08:22:21Z"
+ },
+ {
+  "id": 1138543,
+  "title": "PhpStorm Plugins You Should Know",
+  "description": "If you are a PhpStorm user you know that it comes with many great features that make programming in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S32MgphE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9duujfoql8eys834400j.png",
+  "slug": "phpstorm-plugins-you-should-know-o0b",
+  "url": "https://dev.to/hugomartinezzz/phpstorm-plugins-you-should-know-o0b",
+  "publish_date": "2022-07-14",
+  "published_at": "2022-07-14T07:33:58Z"
+ },
+ {
+  "id": 1139921,
+  "title": "Front End Interview Question",
+  "description": "We as programmers lead a hard life. Especially when it comes to the interview process. There are many...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fpLA1ZHF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0pwvzfp1za30ymzwt0t.jpeg",
+  "slug": "front-end-interview-question-5392",
+  "url": "https://dev.to/lucvankerkvoort/front-end-interview-question-5392",
+  "publish_date": "2022-07-14",
+  "published_at": "2022-07-14T04:12:30Z"
+ },
+ {
+  "id": 1139940,
+  "title": "What is Deno?",
+  "description": "I got to hang with Deno core team member Luca Casonato a couple of weeks ago to discuss a framework...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vO_muh2a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s4rykg32xnqkbo8155be.png",
+  "slug": "what-is-deno-13he",
+  "url": "https://dev.to/nickytonline/what-is-deno-13he",
+  "publish_date": "2022-07-14",
+  "published_at": "2022-07-14T03:41:52Z"
+ },
+ {
+  "id": 965109,
+  "title": "Stepping Outside My Comfort Zone",
+  "description": "Hi, everyone! Thanks for taking a moment to read my first ever blog post, ever. Shout-out to Fireship...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nrP2HCWY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vh7t3jyyijr4xs821edp.jpg",
+  "slug": "stepping-outside-my-comfort-zone-m75",
+  "url": "https://dev.to/donbfry/stepping-outside-my-comfort-zone-m75",
+  "publish_date": "2022-07-14",
+  "published_at": "2022-07-14T00:59:01Z"
+ },
+ {
   "id": 1139774,
   "title": "Moose facts",
   "description": "Cassidy learned a lot about moose and needs to tell people, namely you, about them",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/castai/cloud-technology-news-of-the-month-march-2022-1g77",
   "publish_date": "2022-04-06",
   "published_at": "2022-04-06T08:59:54Z"
- },
- {
-  "id": 1044046,
-  "title": "Headless Explained to a 5-Year-Old",
-  "description": "You’ve probably seen the term “headless” used countlessly over and over again. There are so many...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jD4HzoYY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5q7eizcw6fcsnrdor46c.png",
-  "slug": "headless-explained-to-a-5-year-old-56bh",
-  "url": "https://dev.to/medusajs/headless-explained-to-a-5-year-old-56bh",
-  "publish_date": "2022-04-05",
-  "published_at": "2022-04-05T11:18:32Z"
- },
- {
-  "id": 1045248,
-  "title": "10 must-know patterns for writing clean code with Python🐍",
-  "description": "Python is one of the most elegant and clean programming languages, yet having a beautiful and clean...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vBkB6zjR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9n6ygx0l2pdldc1j7a3e.jpg",
-  "slug": "10-must-know-patterns-for-writing-clean-code-with-python-56bf",
-  "url": "https://dev.to/alexomeyer/10-must-know-patterns-for-writing-clean-code-with-python-56bf",
-  "publish_date": "2022-04-05",
-  "published_at": "2022-04-05T09:44:21Z"
- },
- {
-  "id": 1045136,
-  "title": "10 SEO tips to increase the reach of your blogs.",
-  "description": "Whether you're a blogger, startup, or a business, blogging is a long-term strategy to build a strong...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_63pHFgR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4uu300rfe03pez0cdsq4.jpg",
-  "slug": "10-seo-tips-to-increase-the-reach-of-your-blogs-54kk",
-  "url": "https://dev.to/abh1navv/10-seo-tips-to-increase-the-reach-of-your-blogs-54kk",
-  "publish_date": "2022-04-05",
-  "published_at": "2022-04-05T07:11:43Z"
- },
- {
-  "id": 1045102,
-  "title": "Open-Source Dashboards - React, Vue3, Bootstrap 5, Tailwind",
-  "description": "A curated list with pixel-perfect Open-Source Dashboards crafted in modern technologies: React, Vue3, Boostrap 5, Tailwind CSS",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TKXfEm7C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e53ryqldmb7bub8qvlbv.jpg",
-  "slug": "open-source-dashboards-9i1",
-  "url": "https://dev.to/sm0ke/open-source-dashboards-9i1",
-  "publish_date": "2022-04-05",
-  "published_at": "2022-04-05T06:17:18Z"
- },
- {
-  "id": 1044773,
-  "title": "Micro-frontends building blocks: Monorepos",
-  "description": "A monorepo, what's that?   A while back I was finishing work with an employer and was due to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---VyaKuxk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t89odad9s89e2cqqludp.jpg",
-  "slug": "micro-frontends-building-blocks-monorepos-ge1",
-  "url": "https://dev.to/aws-builders/micro-frontends-building-blocks-monorepos-ge1",
-  "publish_date": "2022-04-05",
-  "published_at": "2022-04-05T00:51:49Z"
  }
 ]
