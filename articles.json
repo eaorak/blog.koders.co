@@ -1,5 +1,55 @@
 [
  {
+  "id": 970007,
+  "title": "How the CSS Box Model Works",
+  "description": "The CSS box model is a term thrown around in CSS with very little context, but is probably the most...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QBvmRYSo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l68fcmugmvsaoz8ug14c.png",
+  "slug": "css-box-model-37bl",
+  "url": "https://dev.to/smpnjn/css-box-model-37bl",
+  "publish_date": "2022-07-16",
+  "published_at": "2022-07-16T10:44:57Z"
+ },
+ {
+  "id": 1142041,
+  "title": "Soft UI Dashboard - Free Django Template",
+  "description": "Open-Source template built with authentication, Docker, and dark-mode support in Django.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZvLTU2nk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6y2ue056zyuzzdeetqp.jpg",
+  "slug": "soft-ui-dashboard-free-django-template-gkf",
+  "url": "https://dev.to/sm0ke/soft-ui-dashboard-free-django-template-gkf",
+  "publish_date": "2022-07-16",
+  "published_at": "2022-07-16T07:00:07Z"
+ },
+ {
+  "id": 1142030,
+  "title": "JavaScript find min/max from array of arrays",
+  "description": "Let's say we have an array of users, but each user is also an array.  For the example, we'll use the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I1FZeB0f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkxb2naac55yaljtyb6k.jpg",
+  "slug": "javascript-find-minmax-from-array-of-arrays-1bkg",
+  "url": "https://dev.to/dailydevtips1/javascript-find-minmax-from-array-of-arrays-1bkg",
+  "publish_date": "2022-07-16",
+  "published_at": "2022-07-16T06:24:16Z"
+ },
+ {
+  "id": 1141036,
+  "title": "Why ORMs Aren't Always a Great Idea",
+  "description": "Recently, I talked with a bunch of people across several Discord and Slack communities about their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lDFV7gTG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ciawr8qy80n2he4zr51z.jpg",
+  "slug": "why-orms-arent-always-a-great-idea-41kg",
+  "url": "https://dev.to/harshhhdev/why-orms-arent-always-a-great-idea-41kg",
+  "publish_date": "2022-07-16",
+  "published_at": "2022-07-16T04:12:18Z"
+ },
+ {
+  "id": 1138957,
+  "title": "Create a react app with bun",
+  "description": "Want to use bun for your next react projects?               Install bun   First run the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3Yh_uvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cs7ms80f544icyyzqjzf.png",
+  "slug": "create-a-react-app-with-bun-125o",
+  "url": "https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o",
+  "publish_date": "2022-07-16",
+  "published_at": "2022-07-16T02:11:25Z"
+ },
+ {
   "id": 1141386,
   "title": "Follow Friday: Git Edition (15 July 2022)",
   "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/react-snapshot-testing-with-jest-eii",
   "publish_date": "2022-04-08",
   "published_at": "2022-04-08T06:37:12Z"
- },
- {
-  "id": 1048053,
-  "title": "React MUI Templates - Open-Source and FREE",
-  "description": "A curated list with Open-Source MUI Templates released under permissive licenses - React Soft UI, Berry, Material Dashboard - All FREE.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9l6h2YWn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w2ncmmb7pt6gjl75wskm.jpg",
-  "slug": "mui-template-open-source-and-free-5eh8",
-  "url": "https://dev.to/sm0ke/mui-template-open-source-and-free-5eh8",
-  "publish_date": "2022-04-07",
-  "published_at": "2022-04-07T16:57:18Z"
- },
- {
-  "id": 1046465,
-  "title": "Docker 101: Introduction to Docker",
-  "description": "According to the official documentation from Docker,   Docker is an open platform for developing,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--70Rtz6z7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n0m0qb4dld6w2ynmo8z2.jpeg",
-  "slug": "docker-101-introduction-to-docker-1kbm",
-  "url": "https://dev.to/signoz/docker-101-introduction-to-docker-1kbm",
-  "publish_date": "2022-04-07",
-  "published_at": "2022-04-07T13:18:41Z"
- },
- {
-  "id": 1047684,
-  "title": "GitLive's Team Sidebar just got a major upgrade in VS Code 🙌",
-  "description": "With the new team sidebar, you can now see all work in progress across your entire team in a single...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uahfzach--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mb1qez9cls8c8dslt6cx.png",
-  "slug": "gitlives-team-sidebar-just-got-a-major-upgrade-in-vs-code-2403",
-  "url": "https://dev.to/gitlive/gitlives-team-sidebar-just-got-a-major-upgrade-in-vs-code-2403",
-  "publish_date": "2022-04-07",
-  "published_at": "2022-04-07T13:01:13Z"
- },
- {
-  "id": 1047295,
-  "title": "Material Kit React - Open-Source React Template",
-  "description": "Open-Source React UI Kit crafted by Creative-Tim - Material Kit React can be downloaded from Github (MIT License).",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vnxg-S2C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9s7g9ndkx2c89scf27sl.jpg",
-  "slug": "material-kit-react-open-source-react-template-bj7",
-  "url": "https://dev.to/sm0ke/material-kit-react-open-source-react-template-bj7",
-  "publish_date": "2022-04-07",
-  "published_at": "2022-04-07T05:22:49Z"
- },
- {
-  "id": 1047154,
-  "title": "7 Must have skills on your resume to stand out",
-  "description": "Cloud computing skills are in high demand, without a doubt.  AWS partners we spoke to say that 83%...",
-  "cover_image": "",
-  "slug": "7-must-have-skills-on-your-resume-to-stand-out-25ei",
-  "url": "https://dev.to/innovativecoder/7-must-have-skills-on-your-resume-to-stand-out-25ei",
-  "publish_date": "2022-04-07",
-  "published_at": "2022-04-07T00:58:25Z"
  }
 ]
