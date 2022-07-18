@@ -1,5 +1,55 @@
 [
  {
+  "id": 1142968,
+  "title": "Side Project Sunday! What do you have going on?",
+  "description": "Let's hear about what you have going on! If you've shared your project before, what's new?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5AtY3vhS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f1os7kbahw52o0c7bs64.png",
+  "slug": "side-project-sunday-what-do-you-have-going-on-185l",
+  "url": "https://dev.to/ben/side-project-sunday-what-do-you-have-going-on-185l",
+  "publish_date": "2022-07-17",
+  "published_at": "2022-07-17T15:34:49Z"
+ },
+ {
+  "id": 1142900,
+  "title": "React Hook: useRunOnce",
+  "description": "Sometimes we need to run code only once. useRunOnce is a hook that runs a function one time when a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MIfRgMl8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k305heu45xuooqonszz9.png",
+  "slug": "react-hook-userunonce-48a8",
+  "url": "https://dev.to/perssondennis/react-hook-userunonce-48a8",
+  "publish_date": "2022-07-17",
+  "published_at": "2022-07-17T14:23:40Z"
+ },
+ {
+  "id": 1142626,
+  "title": "7 Tips for Clean React TypeScript Code you Must Know 🧹✨",
+  "description": "Clean code isn't code that just works. It refers to neatly organized code which is easy to read,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YdmVca7---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04hjfkugtirw1xcovx5t.png",
+  "slug": "7-tips-for-clean-react-typescript-code-you-must-know-2da2",
+  "url": "https://dev.to/ruppysuppy/7-tips-for-clean-react-typescript-code-you-must-know-2da2",
+  "publish_date": "2022-07-17",
+  "published_at": "2022-07-17T06:22:49Z"
+ },
+ {
+  "id": 1142599,
+  "title": "Appwrite Community Report #14",
+  "description": "Hello World!👋Greetings from team Appwrite!    We are back with our weekly updates!  TLDR; This week...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wNy7eQC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5qea8rniwsbowy8xhifp.png",
+  "slug": "appwrite-community-report-14-4cp9",
+  "url": "https://dev.to/appwrite/appwrite-community-report-14-4cp9",
+  "publish_date": "2022-07-17",
+  "published_at": "2022-07-17T05:53:04Z"
+ },
+ {
+  "id": 1142382,
+  "title": "An Approach to Continuous Learning",
+  "description": "Being a successful developer requires continuous learning and skill improvement. But there are simply...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M4yygSmH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fe1k0hl9wodl4txkw5mg.jpg",
+  "slug": "an-approach-to-continuous-learning-30pk",
+  "url": "https://dev.to/abh1navv/an-approach-to-continuous-learning-30pk",
+  "publish_date": "2022-07-17",
+  "published_at": "2022-07-17T05:27:18Z"
+ },
+ {
   "id": 970007,
   "title": "How the CSS Box Model Works",
   "description": "The CSS box model is a term thrown around in CSS with very little context, but is probably the most...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alexmercedcoder/2022-expressjs-cheatsheet-160o",
   "publish_date": "2022-04-09",
   "published_at": "2022-04-09T04:21:08Z"
- },
- {
-  "id": 1049296,
-  "title": "Laravel 9 - Open-Source Full-Stack Starters",
-  "description": "A curated list with full-stack Open-Source Starters crafted on top of Laravel 9 (latest version) - Source Code for all projects is available on Github.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JTCjOXwC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0xbljv60ahwpvio2alkd.jpg",
-  "slug": "laravel-9-open-source-full-stack-starters-4be9",
-  "url": "https://dev.to/sm0ke/laravel-9-open-source-full-stack-starters-4be9",
-  "publish_date": "2022-04-08",
-  "published_at": "2022-04-08T16:37:47Z"
- },
- {
-  "id": 1049149,
-  "title": "Accessible Toggle",
-  "description": "Intro   Toggle is a TRUE/FALSE switch that looks like a... switch... Similar control you can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u-sn1N-J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0kffosn47qb4sbhey5el.png",
-  "slug": "accessible-toggle-3690",
-  "url": "https://dev.to/pp/accessible-toggle-3690",
-  "publish_date": "2022-04-08",
-  "published_at": "2022-04-08T15:25:41Z"
- },
- {
-  "id": 1049024,
-  "title": "What jobs did you have *before* software development?",
-  "description": "Most of us probably had some sort of other jobs before getting into software as a career. I'd love to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--quQEx052--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ub78c5t7wtw29x0bnmg.png",
-  "slug": "what-jobs-did-you-have-before-software-development-34c6",
-  "url": "https://dev.to/ben/what-jobs-did-you-have-before-software-development-34c6",
-  "publish_date": "2022-04-08",
-  "published_at": "2022-04-08T12:31:02Z"
- },
- {
-  "id": 1048620,
-  "title": "A Better Way To Code: Documentation Driven Development",
-  "description": "If you've spent much time in software development, you've undoubtedly heard the expression...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y5JZXQc7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/semqb8g7mcdivsomfrjo.jpg",
-  "slug": "a-better-way-to-code-documentation-driven-development-1kem",
-  "url": "https://dev.to/this-is-learning/a-better-way-to-code-documentation-driven-development-1kem",
-  "publish_date": "2022-04-08",
-  "published_at": "2022-04-08T06:51:44Z"
- },
- {
-  "id": 1048613,
-  "title": "React snapshot testing with Jest",
-  "description": "Now that we set up Jest for our React application, we can start looking into snapshot testing.  A...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eXWa8JVW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/den1ns5sbp262625f94d.jpg",
-  "slug": "react-snapshot-testing-with-jest-eii",
-  "url": "https://dev.to/dailydevtips1/react-snapshot-testing-with-jest-eii",
-  "publish_date": "2022-04-08",
-  "published_at": "2022-04-08T06:37:12Z"
  }
 ]
