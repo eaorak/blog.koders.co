@@ -1,5 +1,55 @@
 [
  {
+  "id": 1143751,
+  "title": "Meme Monday? 🤔",
+  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vl5J4wi1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fqx0svxt62g342h90ieb.png",
+  "slug": "meme-monday-5d7f",
+  "url": "https://dev.to/ben/meme-monday-5d7f",
+  "publish_date": "2022-07-18",
+  "published_at": "2022-07-18T13:50:06Z"
+ },
+ {
+  "id": 1143584,
+  "title": "How To Make Personal Portfolio Using HTML CSS JavaScript",
+  "description": "How To Make Personal Portfolio Using HTML CSS JavaScript  In this video, I will show you how to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HBYwOYwo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r0uvjwpsji8oldb916zi.png",
+  "slug": "how-to-make-personal-portfolio-using-html-css-javascript-2760",
+  "url": "https://dev.to/codewithsadee/how-to-make-personal-portfolio-using-html-css-javascript-2760",
+  "publish_date": "2022-07-18",
+  "published_at": "2022-07-18T11:18:23Z"
+ },
+ {
+  "id": 1143505,
+  "title": "Sending real-time notifications with Socket.io in Node.js",
+  "description": "How do websites work?    A user provides a URL to the web browser. The browser sends a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JJY-oS5C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7bif3krr40zkofxkw07l.png",
+  "slug": "sending-real-time-notifications-with-socketio-in-nodejs-1l5j",
+  "url": "https://dev.to/novu/sending-real-time-notifications-with-socketio-in-nodejs-1l5j",
+  "publish_date": "2022-07-18",
+  "published_at": "2022-07-18T10:14:13Z"
+ },
+ {
+  "id": 1143541,
+  "title": "We're open-source! The data-centric sibling of VS Code",
+  "description": "Hello, open-source world!   We have been working tirelessly towards this day for a long...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xmtljTue--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1l6wmbzlulg2sujqrirz.png",
+  "slug": "were-open-source-the-data-centric-sibling-of-vs-code-3f8p",
+  "url": "https://dev.to/meetkern/were-open-source-the-data-centric-sibling-of-vs-code-3f8p",
+  "publish_date": "2022-07-18",
+  "published_at": "2022-07-18T09:53:23Z"
+ },
+ {
+  "id": 1143415,
+  "title": "Amazing Pure CSS Scrolling Indicator Effect",
+  "description": "Using Linear-Gradient Implement Scrolling Indicator Effect",
+  "cover_image": "",
+  "slug": "amazing-pure-css-scrolling-indicator-effect-5eja",
+  "url": "https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja",
+  "publish_date": "2022-07-18",
+  "published_at": "2022-07-18T07:12:04Z"
+ },
+ {
   "id": 1142968,
   "title": "Side Project Sunday! What do you have going on?",
   "description": "Let's hear about what you have going on! If you've shared your project before, what's new?",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/koladev/introduction-to-test-driven-development-in-react-for-beginners-260f",
   "publish_date": "2022-04-10",
   "published_at": "2022-04-10T08:59:42Z"
- },
- {
-  "id": 1050154,
-  "title": "Bad Habits of Mid-Level React Developers",
-  "description": "If you're a mid-level React developer looking to become an advanced React developer, this post is for...",
-  "cover_image": "",
-  "slug": "bad-habits-of-mid-level-react-developers-b41",
-  "url": "https://dev.to/srmagura/bad-habits-of-mid-level-react-developers-b41",
-  "publish_date": "2022-04-09",
-  "published_at": "2022-04-09T19:03:09Z"
- },
- {
-  "id": 1050024,
-  "title": "33 JavaScript Concepts Every Developer Should Know 🤓️💯️",
-  "description": "How much of JavaScript do you really think you know? You probably know how to write functions,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4tWC1Zv8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/apermbjy6ntvd4gutaz9.png",
-  "slug": "33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
-  "url": "https://dev.to/eludadev/33-javascript-concepts-every-beginner-should-know-with-tutorials-4kao",
-  "publish_date": "2022-04-09",
-  "published_at": "2022-04-09T15:48:06Z"
- },
- {
-  "id": 1049870,
-  "title": "10 JavaScript concepts for React beginners",
-  "description": "A short list of important Javascript concepts for React Developers - With Code Samples.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SW_TlBj2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r3pm1jr0ovpbkskclspv.jpg",
-  "slug": "10-javascript-concepts-for-react-beginners-4j6n",
-  "url": "https://dev.to/sm0ke/10-javascript-concepts-for-react-beginners-4j6n",
-  "publish_date": "2022-04-09",
-  "published_at": "2022-04-09T12:18:28Z"
- },
- {
-  "id": 1049701,
-  "title": "OpenTelemetry and Jaeger | Key concepts, features, and differences",
-  "description": "OpenTelemetry and Jaeger are both open-source projects under Cloud Native Computing Foundation. In...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L7MFtt8N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yp9xhumvisq6zz25ix6e.png",
-  "slug": "opentelemetry-and-jaeger-key-concepts-features-and-differences-4pd8",
-  "url": "https://dev.to/signoz/opentelemetry-and-jaeger-key-concepts-features-and-differences-4pd8",
-  "publish_date": "2022-04-09",
-  "published_at": "2022-04-09T11:17:01Z"
- },
- {
-  "id": 1049697,
-  "title": "2022 ExpressJS Cheatsheet",
-  "description": "This article assumes basic knowledge of ExpressJS, if your new to Express I recommend starting with...",
-  "cover_image": "",
-  "slug": "2022-expressjs-cheatsheet-160o",
-  "url": "https://dev.to/alexmercedcoder/2022-expressjs-cheatsheet-160o",
-  "publish_date": "2022-04-09",
-  "published_at": "2022-04-09T04:21:08Z"
  }
 ]
