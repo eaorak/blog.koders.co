@@ -1,5 +1,55 @@
 [
  {
+  "id": 1145106,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-55p3",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-55p3",
+  "publish_date": "2022-07-19",
+  "published_at": "2022-07-19T18:42:12Z"
+ },
+ {
+  "id": 1144923,
+  "title": "Appwrite Community Discord 3.0",
+  "description": "Howdy everybody! 👋 For Appwrite, our community is the biggest strength and we want everyone to feel...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SCqs7be3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncxtd4tpw7zw825qhumk.png",
+  "slug": "appwrite-community-discord-30-26l",
+  "url": "https://dev.to/appwrite/appwrite-community-discord-30-26l",
+  "publish_date": "2022-07-19",
+  "published_at": "2022-07-19T16:57:37Z"
+ },
+ {
+  "id": 1144730,
+  "title": "The Best Github Repos for Self-Taught",
+  "description": "Project-Based Learnings     Free Programming Books    Developer Roadmap     Public API’s     Coding...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6lxMpknZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hkb7hvavd45nb59mxutq.png",
+  "slug": "the-best-github-repos-for-self-taught-114j",
+  "url": "https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j",
+  "publish_date": "2022-07-19",
+  "published_at": "2022-07-19T13:06:15Z"
+ },
+ {
+  "id": 1133190,
+  "title": "How I Integrated Live Chat into Gatsby with Tidio and Medusa",
+  "description": "Live Chats on your ecommerce storefront allow you to communicate with your customers and provide them...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3KP70PtT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9cmeforjwfjjk9ib589m.png",
+  "slug": "how-i-integrated-live-chat-into-gatsby-with-tidio-and-medusa-5a3i",
+  "url": "https://dev.to/medusajs/how-i-integrated-live-chat-into-gatsby-with-tidio-and-medusa-5a3i",
+  "publish_date": "2022-07-19",
+  "published_at": "2022-07-19T11:07:24Z"
+ },
+ {
+  "id": 1144355,
+  "title": "JSX for beginners (and how it differs from HTML)",
+  "description": "What is JSX   JSX or JavaScript XML is an extension of JavaScript used to write React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4DSNzLJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mooe0y4lju8ba7yjwco.png",
+  "slug": "jsx-for-beginners-and-how-it-differs-from-html-2l9e",
+  "url": "https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e",
+  "publish_date": "2022-07-19",
+  "published_at": "2022-07-19T03:34:57Z"
+ },
+ {
   "id": 1143751,
   "title": "Meme Monday? 🤔",
   "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/hebertdev/useful-online-tools-and-websites-for-web-developers-520n",
   "publish_date": "2022-04-11",
   "published_at": "2022-04-11T04:34:53Z"
- },
- {
-  "id": 1050875,
-  "title": "Level Up Your Wordle Game With Deepgram AI.",
-  "description": "Well, Hello there. This is my first blog post and hackathon here. The following sections will give...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ah4faApR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://drive.google.com/uc%3Fexport%3Dview%26id%3D1dQ3pVwx4SJHSTTcF86e11vBIb_wQoR3e",
-  "slug": "level-up-your-wordle-game-with-deepgram-ai-4kj3",
-  "url": "https://dev.to/wiseai/level-up-your-wordle-game-with-deepgram-ai-4kj3",
-  "publish_date": "2022-04-10",
-  "published_at": "2022-04-10T17:40:17Z"
- },
- {
-  "id": 974826,
-  "title": "CSS Tips and Tricks You Will Add To Cart 💖🛒",
-  "description": "As we are done with HTML and JavaScript tricks now its time to cover CSS Tips and Tricks 💖✨          ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AimnR37S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/klrvnvhwmm3xccn41wcl.jpg",
-  "slug": "css-tips-and-tricks-you-will-add-to-cart-163p",
-  "url": "https://dev.to/devsyedmohsin/css-tips-and-tricks-you-will-add-to-cart-163p",
-  "publish_date": "2022-04-10",
-  "published_at": "2022-04-10T17:12:43Z"
- },
- {
-  "id": 1050797,
-  "title": "Flutter GroupButton 5.0.0 release notes",
-  "description": "Hello everybody!   A lot of people read my last post about my group_button package And I...",
-  "cover_image": "",
-  "slug": "flutter-groupbutton-500-release-notes-35fn",
-  "url": "https://dev.to/frezyx/flutter-groupbutton-500-release-notes-35fn",
-  "publish_date": "2022-04-10",
-  "published_at": "2022-04-10T15:33:56Z"
- },
- {
-  "id": 1050646,
-  "title": "How to turn HTML webpage into an Image?",
-  "description": "While working in one of my project I had to implement a feature where I have turn an HTML webpage to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ayS6eF6a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/veyqajcnp2piz0fn1oc1.png",
-  "slug": "how-to-turn-html-webpage-into-an-image-n1c",
-  "url": "https://dev.to/jasmin/how-to-turn-html-webpage-into-an-image-n1c",
-  "publish_date": "2022-04-10",
-  "published_at": "2022-04-10T11:51:08Z"
- },
- {
-  "id": 1050529,
-  "title": "Introduction to Test-Driven-Development in React for Beginners",
-  "description": "The first rule of Test-Driven-Development (TDD) is to write a test before coding the feature. It...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--merDkpdZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.bloggu.io/ipfs/bafkreiarfpqcdmn723dzx6zv24sk4d4i3pc5nmuw7efvpfmh3x4ta4ftou",
-  "slug": "introduction-to-test-driven-development-in-react-for-beginners-260f",
-  "url": "https://dev.to/koladev/introduction-to-test-driven-development-in-react-for-beginners-260f",
-  "publish_date": "2022-04-10",
-  "published_at": "2022-04-10T08:59:42Z"
  }
 ]
