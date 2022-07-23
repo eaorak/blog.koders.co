@@ -1,5 +1,55 @@
 [
  {
+  "id": 1148540,
+  "title": "Coding an extension that blocks Social Media Websites with HTML, CSS and JS.",
+  "description": "In this post, I will show you how you can create a Google Chrome extension that will block social...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gAX5Iz-0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/at6khluju6hwcwfeicw9.gif",
+  "slug": "coding-an-extension-that-blocks-social-media-websites-with-html-css-and-js-3bp",
+  "url": "https://dev.to/hr21don/coding-an-extension-that-blocks-social-media-websites-with-html-css-and-js-3bp",
+  "publish_date": "2022-07-22",
+  "published_at": "2022-07-22T11:09:00Z"
+ },
+ {
+  "id": 1148550,
+  "title": "Say no to Tailwind, embrace plain CSS",
+  "description": "Tools like Tailwind may help you develop your hobby project faster, but the thing is...          ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OhNJj6OG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6fkkda7e8fx5dl1ynzjo.png",
+  "slug": "say-no-to-tailwind-embrace-plain-css-5cn7",
+  "url": "https://dev.to/haykerman/say-no-to-tailwind-embrace-plain-css-5cn7",
+  "publish_date": "2022-07-22",
+  "published_at": "2022-07-22T10:13:00Z"
+ },
+ {
+  "id": 1148602,
+  "title": "Free Plug-and-Play Kubernetes Cost Monitoring",
+  "description": "Kubernetes poses many challenges around cost allocation and reporting – from learning which team adds...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bXKk-1uC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cdrh7p1cgi3x2of6j7sa.png",
+  "slug": "free-plug-and-play-kubernetes-cost-monitoring-3ko6",
+  "url": "https://dev.to/castai/free-plug-and-play-kubernetes-cost-monitoring-3ko6",
+  "publish_date": "2022-07-22",
+  "published_at": "2022-07-22T10:11:51Z"
+ },
+ {
+  "id": 1148447,
+  "title": "You should really not work",
+  "description": "If you followed me for a while, you might have seen I like traveling around.  I've recently been to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ttQ7GL17--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtfn8grj0re22zf8m2o5.jpg",
+  "slug": "you-should-really-not-work-2lie",
+  "url": "https://dev.to/dailydevtips1/you-should-really-not-work-2lie",
+  "publish_date": "2022-07-22",
+  "published_at": "2022-07-22T06:43:06Z"
+ },
+ {
+  "id": 1148346,
+  "title": "Fantastic CSS border animation",
+  "description": "In this article we will use CSS to create a variety of wonderful border effects.",
+  "cover_image": "",
+  "slug": "fantastic-css-border-animation-5166",
+  "url": "https://dev.to/chokcoco/fantastic-css-border-animation-5166",
+  "publish_date": "2022-07-22",
+  "published_at": "2022-07-22T03:34:35Z"
+ },
+ {
   "id": 1147963,
   "title": "How to get 2000+ stars on GitHub with 11 places to promote your project",
   "description": "My React Boilerplate with Next.js has recently reached 2000+ stars on GitHub. In the last months,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/adiatiayu/tech-is-for-everyone-dont-let-people-tell-you-otherwise-3fh5",
   "publish_date": "2022-04-14",
   "published_at": "2022-04-14T03:19:58Z"
- },
- {
-  "id": 1054240,
-  "title": "Interested in the social impact you can have as a developer? Read this post.",
-  "description": "Today, I’m excited to highlight a Forem that has a ton of relevance for everyone on DEV:  the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2w72JlDA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/efouj9ag3u9xd7ehuazz.png",
-  "slug": "interested-in-the-social-impact-you-can-have-as-a-developer-read-this-post-31lh",
-  "url": "https://dev.to/devteam/interested-in-the-social-impact-you-can-have-as-a-developer-read-this-post-31lh",
-  "publish_date": "2022-04-13",
-  "published_at": "2022-04-13T18:30:06Z"
- },
- {
-  "id": 1053789,
-  "title": "How do you use git when working solo?",
-  "description": "A post by Ben Halpern",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MsNGK4is--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e0mdzihlemq23tuu5qpz.jpeg",
-  "slug": "how-do-you-use-git-when-working-solo-827",
-  "url": "https://dev.to/ben/how-do-you-use-git-when-working-solo-827",
-  "publish_date": "2022-04-13",
-  "published_at": "2022-04-13T13:04:00Z"
- },
- {
-  "id": 1053765,
-  "title": "⚛️ ReactJS folder structure + Boilerplate.",
-  "description": "There are many folders structure to follow in ReactJS , And you might be confused which one you have...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nWPhdrQv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2i71gwk7hnxvlyodzfc3.png",
-  "slug": "reactjs-folder-structure-boilerplate-155n",
-  "url": "https://dev.to/yacouri/reactjs-folder-structure-boilerplate-155n",
-  "publish_date": "2022-04-13",
-  "published_at": "2022-04-13T11:59:17Z"
- },
- {
-  "id": 1053744,
-  "title": "How to detect scroll direction in vanilla JavaScript (to make a goofy logo animation)",
-  "description": "I wanted to try out a goofy idea. I wanted to animate a website's logo so that it would fall over...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ozj7QoAm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u49d6nlg5tk9q8g08tr8.jpg",
-  "slug": "how-to-detect-scroll-direction-in-vanilla-javascript-to-make-a-goofy-logo-animation-njc",
-  "url": "https://dev.to/robole/how-to-detect-scroll-direction-in-vanilla-javascript-to-make-a-goofy-logo-animation-njc",
-  "publish_date": "2022-04-13",
-  "published_at": "2022-04-13T11:13:20Z"
- },
- {
-  "id": 1053661,
-  "title": "MUI React - Coding a Simple Landing Page",
-  "description": "Learn how to code a simple landing page with MUI Library and React - Sample Code available on Github.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W3GpmPg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1qx8iwti5uejgah76v8c.jpg",
-  "slug": "mui-react-coding-a-simple-landing-page-4k67",
-  "url": "https://dev.to/sm0ke/mui-react-coding-a-simple-landing-page-4k67",
-  "publish_date": "2022-04-13",
-  "published_at": "2022-04-13T08:23:55Z"
  }
 ]
