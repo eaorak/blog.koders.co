@@ -1,5 +1,55 @@
 [
  {
+  "id": 1151955,
+  "title": "Help fight spam in our community! 🙌",
+  "description": "Hey folks! 👋  I wanted to write up a quick post about spam fighting in this community as it's a never...",
+  "cover_image": "",
+  "slug": "help-fight-spam-in-our-community-1ngb",
+  "url": "https://dev.to/devteam/help-fight-spam-in-our-community-1ngb",
+  "publish_date": "2022-07-26",
+  "published_at": "2022-07-26T21:11:00Z"
+ },
+ {
+  "id": 1152019,
+  "title": "How to Send a Tweet with GitHub Copilot",
+  "description": "This month, I learned how to send a tweet with GitHub Copilot. It was so cool! I'm anticipating that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HI7W8lLq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0c3qnqr2t8slgkmcbio2.png",
+  "slug": "how-to-send-a-tweet-with-github-copilot-4ih7",
+  "url": "https://dev.to/github/how-to-send-a-tweet-with-github-copilot-4ih7",
+  "publish_date": "2022-07-26",
+  "published_at": "2022-07-26T15:50:00Z"
+ },
+ {
+  "id": 1149059,
+  "title": "15+ Must have VS Code Extensions for Web Developers",
+  "description": "Extensions provide add-on features \u0026amp; tools that let us customize \u0026amp; enhance the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZiiV1syn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vca25ge8vdc5jqno4mqo.jpg",
+  "slug": "15-must-have-vs-code-extensions-for-web-developers-3gln",
+  "url": "https://dev.to/eshankvaish/15-must-have-vs-code-extensions-for-web-developers-3gln",
+  "publish_date": "2022-07-26",
+  "published_at": "2022-07-26T12:38:00Z"
+ },
+ {
+  "id": 1151491,
+  "title": "15 Best Terminal Commands That You Should Know",
+  "description": "As a developer, they are working with SSSL(Server Site Scripting Language), Programming languages,...",
+  "cover_image": "",
+  "slug": "15-best-terminal-commands-that-you-should-know-47m7",
+  "url": "https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-47m7",
+  "publish_date": "2022-07-26",
+  "published_at": "2022-07-26T04:32:00Z"
+ },
+ {
+  "id": 1151456,
+  "title": "Golang Writing memory efficient and CPU optimized Go Structs",
+  "description": "null",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X4MEsbks--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://github.com/kodelint/blog-images/raw/main/common/01-golang-struct.png",
+  "slug": "golang-writing-memory-efficient-and-cpu-optimized-go-structs-2ick",
+  "url": "https://dev.to/deadlock/golang-writing-memory-efficient-and-cpu-optimized-go-structs-2ick",
+  "publish_date": "2022-07-26",
+  "published_at": "2022-07-26T03:26:04Z"
+ },
+ {
   "id": 1150891,
   "title": "Meme Monday 😍",
   "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/feministech/organize-a-sua-vida-com-google-keep-10a5",
   "publish_date": "2022-04-18",
   "published_at": "2022-04-18T01:30:17Z"
- },
- {
-  "id": 1058905,
-  "title": "Textual: The Definitive Guide - Part 3.",
-  "description": "Hello, puppies and kittens! In this article, we will carry on our series demystifying every damn...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pT2DH1jm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/Textualize/textual/main/imgs/textual.png",
-  "slug": "textual-the-definitive-guide-part-3-2gl",
-  "url": "https://dev.to/wiseai/textual-the-definitive-guide-part-3-2gl",
-  "publish_date": "2022-04-17",
-  "published_at": "2022-04-17T20:24:26Z"
- },
- {
-  "id": 1057459,
-  "title": "Beautify your GitHub repo",
-  "description": "Whether you like it or not, GitHub has become the primary provider to host one's code. You or your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lAjHlWMP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xowqkvhgux779g1aibmf.jpg",
-  "slug": "beautify-your-github-repo-2co7",
-  "url": "https://dev.to/nfrankel/beautify-your-github-repo-2co7",
-  "publish_date": "2022-04-17",
-  "published_at": "2022-04-17T15:36:55Z"
- },
- {
-  "id": 1058644,
-  "title": "Test-Driven-Development with React \u0026 Redux: Thunk, Slices \u0026 Requests Mocking",
-  "description": "If you want to read more of these articles, don't hesitate to subscribe to my newsletter.😁  Writing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tyZQMKck--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://img.bloggu.io/ipfs/bafkreigckhma7r5rcumchxeixtnpy3hlcitop35rvfz7wg4ewiq6xvqiea",
-  "slug": "test-driven-development-with-react-redux-thunk-slices-requests-mocking-585i",
-  "url": "https://dev.to/koladev/test-driven-development-with-react-redux-thunk-slices-requests-mocking-585i",
-  "publish_date": "2022-04-17",
-  "published_at": "2022-04-17T12:48:42Z"
- },
- {
-  "id": 1058398,
-  "title": "Hello V-Lang",
-  "description": "V-lang is an extraordinarily powerful language that can help you create a variety of applications....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jdZ4BJxV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/37z6bruah92cb9mt8iui.png",
-  "slug": "hello-v-lang-2n0p",
-  "url": "https://dev.to/hrbt/hello-v-lang-2n0p",
-  "publish_date": "2022-04-17",
-  "published_at": "2022-04-17T06:13:26Z"
- },
- {
-  "id": 1058393,
-  "title": "Best Chrome Extensions to boost GitHub",
-  "description": "Today, most of us spend most of our time on web browsers rather than desktop apps. Thus, to improvise...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DaE8c-0B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5qry5y4n2cg5mpn20jkw.png",
-  "slug": "best-chrome-extensions-to-boost-github-550j",
-  "url": "https://dev.to/pragativerma18/best-chrome-extensions-to-boost-github-550j",
-  "publish_date": "2022-04-17",
-  "published_at": "2022-04-17T05:53:40Z"
  }
 ]
