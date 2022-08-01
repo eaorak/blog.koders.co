@@ -1,5 +1,55 @@
 [
  {
+  "id": 1155908,
+  "title": "The Importance of Clean Code in Your Startup's Success",
+  "description": "Clean Code has become a bit of a buzzword recently, but it is important, both as a developer and as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vdg6DF2x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yyjfmuk2r6eh4zgwxuux.jpeg",
+  "slug": "the-importance-of-clean-code-in-your-startups-success-ooc",
+  "url": "https://dev.to/chainguns/the-importance-of-clean-code-in-your-startups-success-ooc",
+  "publish_date": "2022-07-31",
+  "published_at": "2022-07-31T14:17:12Z"
+ },
+ {
+  "id": 1155905,
+  "title": "List of Free Image Tools Every Frontend Developer Needs",
+  "description": "This is a list of free tools every frontend developer probably will google for one day. These...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eGgK4Onq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dh3c8ulf5b6ohai4c9uj.png",
+  "slug": "list-of-free-image-tools-every-frontend-developer-needs-489a",
+  "url": "https://dev.to/perssondennis/list-of-free-image-tools-every-frontend-developer-needs-489a",
+  "publish_date": "2022-07-31",
+  "published_at": "2022-07-31T14:04:19Z"
+ },
+ {
+  "id": 1155867,
+  "title": "Side Project Sunday! What's the latest?",
+  "description": "Let's hear about what you have going on! If you've shared your project before, what's new?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7l5VkVof--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/107e7c549n2wcxmk8cxy.png",
+  "slug": "side-project-sunday-whats-the-latest-4nl5",
+  "url": "https://dev.to/ben/side-project-sunday-whats-the-latest-4nl5",
+  "publish_date": "2022-07-31",
+  "published_at": "2022-07-31T12:14:04Z"
+ },
+ {
+  "id": 1155748,
+  "title": "I Created A Simple 1 To 1 Meeting Tool",
+  "description": "Introduction   Hello! I recently heard about the PlanetScale X Hashnode hackathon, so I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uEtxdAR1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nljhs6rm8xmddw1x6s37.jpeg",
+  "slug": "i-created-a-simple-1-to-1-meeting-tool-ib2",
+  "url": "https://dev.to/ethand91/i-created-a-simple-1-to-1-meeting-tool-ib2",
+  "publish_date": "2022-07-31",
+  "published_at": "2022-07-31T07:21:12Z"
+ },
+ {
+  "id": 1155728,
+  "title": "Unit testing frontend code is (probably) useless",
+  "description": "I love unit tests. Magic and its satellite projects has 1,000+ unit tests, and some of the satellite...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d6ma9VMF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1vgpfkeyfb55xy5sdwpd.jpg",
+  "slug": "unit-testing-frontend-code-is-probably-useless-27n9",
+  "url": "https://dev.to/polterguy/unit-testing-frontend-code-is-probably-useless-27n9",
+  "publish_date": "2022-07-31",
+  "published_at": "2022-07-31T06:11:00Z"
+ },
+ {
   "id": 1155343,
   "title": "How to Build Responsive car rental website using Html CSS JavaScript",
   "description": "How to Build Responsive car rental website using Html CSS JavaScript  This video will show you...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/harshhhdev/how-to-build-the-perfect-developer-portfolio-576l",
   "publish_date": "2022-04-23",
   "published_at": "2022-04-23T06:00:18Z"
- },
- {
-  "id": 1064287,
-  "title": "Optimizing with the PostgreSQL deterministic query planner",
-  "description": "Feed the planner, trust the plan   Of all the Aha! engineering tool expenses, the money I'm...",
-  "cover_image": "",
-  "slug": "optimizing-with-the-postgresql-deterministic-query-planner-5hfa",
-  "url": "https://dev.to/aha/optimizing-with-the-postgresql-deterministic-query-planner-5hfa",
-  "publish_date": "2022-04-22",
-  "published_at": "2022-04-22T19:08:23Z"
- },
- {
-  "id": 1064020,
-  "title": "Have a Community-Powered Earth Day 🌍",
-  "description": "As you might know, I've been highlighting some of the early Forems joining the network of late over...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FekjpdKG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/987klyka9pd5kb1fudih.png",
-  "slug": "have-a-community-powered-earth-day-5jc",
-  "url": "https://dev.to/devteam/have-a-community-powered-earth-day-5jc",
-  "publish_date": "2022-04-22",
-  "published_at": "2022-04-22T16:32:43Z"
- },
- {
-  "id": 1063342,
-  "title": "🎙️Select* Podcast: For Devs \u0026 Tech Leaders",
-  "description": "We’re already almost halfway through season two of Select*, the podcast hosted by HarperDB, and it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qXPFzmg2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vw5zpfctuh9oilc5m5ak.png",
-  "slug": "select-podcast-for-devs-tech-leaders-5g2c",
-  "url": "https://dev.to/margo_hdb/select-podcast-for-devs-tech-leaders-5g2c",
-  "publish_date": "2022-04-22",
-  "published_at": "2022-04-22T15:35:39Z"
- },
- {
-  "id": 1063129,
-  "title": "The Triangle of INJECTIONS: Learn How To detect these vulnerabilities + How To avoid them",
-  "description": "When it comes to common injection vulnerabilities, there are three that you need to know about if you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fgF0lopu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wwqynut42qajqqazge2.png",
-  "slug": "the-triangle-of-injections-learn-how-to-detect-these-vulnerabilities-how-to-avoid-them-1g03",
-  "url": "https://dev.to/dotnetsafer/the-triangle-of-injections-learn-how-to-detect-these-vulnerabilities-how-to-avoid-them-1g03",
-  "publish_date": "2022-04-22",
-  "published_at": "2022-04-22T10:45:14Z"
- },
- {
-  "id": 1062807,
-  "title": "5 Fantastic Developer Tools for Async Comms 🎯",
-  "description": "As dev teams are looking for new ways to stay productive and communicate effectively, asynchronous...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7fSngHMw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/enyndepw4jmg9y4nt0sa.jpg",
-  "slug": "5-fantastic-developer-tools-for-async-comms-2i0b",
-  "url": "https://dev.to/alexomeyer/5-fantastic-developer-tools-for-async-comms-2i0b",
-  "publish_date": "2022-04-22",
-  "published_at": "2022-04-22T09:39:51Z"
  }
 ]
