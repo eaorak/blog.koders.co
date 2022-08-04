@@ -1,5 +1,55 @@
 [
  {
+  "id": 1158415,
+  "title": "Explain the difference between shell, console, terminal, command line, etc. like I'm five",
+  "description": "This is an anonymous post sent in by a member who does not want their name disclosed. Please be...",
+  "cover_image": "",
+  "slug": "explain-the-difference-between-shell-console-terminal-command-line-etc-like-im-five-565a",
+  "url": "https://dev.to/sloan/explain-the-difference-between-shell-console-terminal-command-line-etc-like-im-five-565a",
+  "publish_date": "2022-08-03",
+  "published_at": "2022-08-03T14:02:32Z"
+ },
+ {
+  "id": 1158406,
+  "title": "Better Programming Productivity- Techniques and Attitude",
+  "description": "Techniques to improve productivity   As a programmer, there are many things you can do to...",
+  "cover_image": "",
+  "slug": "better-programming-productivity-techniques-and-attitude-19n",
+  "url": "https://dev.to/chainguns/better-programming-productivity-techniques-and-attitude-19n",
+  "publish_date": "2022-08-03",
+  "published_at": "2022-08-03T13:38:00Z"
+ },
+ {
+  "id": 1156434,
+  "title": "DynamoDB Pros \u0026 Cons",
+  "description": "What is AWS DynamoDB?   AWS DynamoDB is a fast, scalable, and fully managed NoSQL database...",
+  "cover_image": "",
+  "slug": "dynamodb-pros-cons-k2a",
+  "url": "https://dev.to/roy8/dynamodb-pros-cons-k2a",
+  "publish_date": "2022-08-03",
+  "published_at": "2022-08-03T09:21:00Z"
+ },
+ {
+  "id": 1158202,
+  "title": "TypeScript - The Best Way to Use It with React",
+  "description": "Why TypeScript?   I have another article that explains a lot about TypeScript, what it is...",
+  "cover_image": "",
+  "slug": "how-to-use-typescript-with-react-mn9",
+  "url": "https://dev.to/omerwow/how-to-use-typescript-with-react-mn9",
+  "publish_date": "2022-08-03",
+  "published_at": "2022-08-03T09:10:00Z"
+ },
+ {
+  "id": 1158084,
+  "title": "5 Rules for Every Code Review",
+  "description": "Code reviews are the glue of any effective software engineering team. A code review is the stage at...",
+  "cover_image": "",
+  "slug": "5-rules-for-every-code-review-4o7a",
+  "url": "https://dev.to/devsimc/5-rules-for-every-code-review-4o7a",
+  "publish_date": "2022-08-03",
+  "published_at": "2022-08-03T06:31:00Z"
+ },
+ {
   "id": 1157586,
   "title": "This new GIT push config will save you lot of frustration!",
   "description": "If you have 59 seconds and in particular you're also on mobile, you might enjoy watching the YouTube...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github/deploy-your-first-website-without-leaving-your-ide-2mpp",
   "publish_date": "2022-04-26",
   "published_at": "2022-04-26T01:26:30Z"
- },
- {
-  "id": 1064117,
-  "title": "Marko for Sites, Solid for Apps",
-  "description": "I've been sitting on writing this article for 2 years. In my heart this was the article I was going...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OyGvG2yn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3vh2n9lii6hw2jivz4r6.jpeg",
-  "slug": "marko-for-sites-solid-for-apps-2c7d",
-  "url": "https://dev.to/this-is-learning/marko-for-sites-solid-for-apps-2c7d",
-  "publish_date": "2022-04-25",
-  "published_at": "2022-04-25T18:27:04Z"
- },
- {
-  "id": 1066548,
-  "title": "What is the future of remote work in software development?",
-  "description": "The world went primarily remote in the height of the pandemic. With things returning to \"normal\" in a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bi0qwlHX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v9baosisclai9tqt8jue.png",
-  "slug": "what-is-the-future-of-remote-work-in-software-development-5d9e",
-  "url": "https://dev.to/ben/what-is-the-future-of-remote-work-in-software-development-5d9e",
-  "publish_date": "2022-04-25",
-  "published_at": "2022-04-25T15:11:08Z"
- },
- {
-  "id": 1066270,
-  "title": "How to Increase Your Fintech's Agility and Thrive in the Turmoil of 2022?",
-  "description": "Expect the unexpected, says the old adage.  It’s two months since the Russian-Ukrainian war started,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zGnKDxQ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mb5dgdbgt03drvczf8py.jpg",
-  "slug": "how-to-increase-your-fintechs-agility-and-thrive-in-the-turmoil-of-2022-2neb",
-  "url": "https://dev.to/castai/how-to-increase-your-fintechs-agility-and-thrive-in-the-turmoil-of-2022-2neb",
-  "publish_date": "2022-04-25",
-  "published_at": "2022-04-25T08:59:16Z"
- },
- {
-  "id": 1066201,
-  "title": "Productivity Boosters: My Top Five Developer Tools Worth The Money",
-  "description": "They say the best things in life are free, but when it comes to software... well, it’s not always...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xcCZlVYh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/go2xhs26mzw9d7nc82mf.png",
-  "slug": "productivity-boosters-my-top-five-developer-tools-worth-the-money-57j3",
-  "url": "https://dev.to/anotherdevuser/productivity-boosters-my-top-five-developer-tools-worth-the-money-57j3",
-  "publish_date": "2022-04-25",
-  "published_at": "2022-04-25T06:33:31Z"
- },
- {
-  "id": 1066207,
-  "title": "19 JavaScript Questions I Have Been Asked Most In Interviews",
-  "description": "Being a fresher it’s a lot difficult to prepare for an interview. You will have very little idea and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_ZdX1BiP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4xe6stnmvze96fqyr7qi.png",
-  "slug": "19-javascript-questions-i-have-been-asked-most-in-interviews-4e4b",
-  "url": "https://dev.to/lambdatest/19-javascript-questions-i-have-been-asked-most-in-interviews-4e4b",
-  "publish_date": "2022-04-25",
-  "published_at": "2022-04-25T06:25:01Z"
  }
 ]
