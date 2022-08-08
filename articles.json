@@ -1,5 +1,55 @@
 [
  {
+  "id": 1161493,
+  "title": "Side Project Sunday! How's it going?",
+  "description": "Let's hear about what you have going on! If you've shared your project before, what's new?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VVh8OrhT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m4u1vzdfmj2uetvexv5j.png",
+  "slug": "side-project-sunday-hows-it-going-4fij",
+  "url": "https://dev.to/ben/side-project-sunday-hows-it-going-4fij",
+  "publish_date": "2022-08-07",
+  "published_at": "2022-08-07T14:47:48Z"
+ },
+ {
+  "id": 811549,
+  "title": "7️⃣ VSCODE Shortcuts for Developers you should know Thread🧵",
+  "description": "ID and CLASS Attributes    Add ID attr html tag     div#info 👇 \u0026lt;div id=\"info\"\u0026gt;\u0026lt;/div\u0026gt;    ...",
+  "cover_image": "",
+  "slug": "7-vscode-shortcuts-for-developers-you-should-know-thread-2p9l",
+  "url": "https://dev.to/qbentil/7-vscode-shortcuts-for-developers-you-should-know-thread-2p9l",
+  "publish_date": "2022-08-07",
+  "published_at": "2022-08-07T08:50:44Z"
+ },
+ {
+  "id": 1161289,
+  "title": "Showing Flutter custom error messages",
+  "description": "Error handling is a complex process. It's very boring and takes a lot of time. One of the problems is...",
+  "cover_image": "",
+  "slug": "showing-flutter-custom-error-messages-109o",
+  "url": "https://dev.to/frezyx/showing-flutter-custom-error-messages-109o",
+  "publish_date": "2022-08-07",
+  "published_at": "2022-08-07T08:43:00Z"
+ },
+ {
+  "id": 1161088,
+  "title": "5 Good practices to scale your React projects easily",
+  "description": "For most React developers, it's easy to just get our hands on writting new lines of code. However, we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nG8c5NvS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fu0l7s99o0chnu5xusy8.jpeg",
+  "slug": "5-good-practices-to-scale-your-react-projects-3jnb",
+  "url": "https://dev.to/jeffreythecoder/5-good-practices-to-scale-your-react-projects-3jnb",
+  "publish_date": "2022-08-07",
+  "published_at": "2022-08-07T07:29:00Z"
+ },
+ {
+  "id": 1161238,
+  "title": "Bringing perspective to CSS",
+  "description": "The other day I started exploring 3D in CSS and began with a dice. The dice is excellent in 3D....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vmJ_ZM7v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/an50k64kqmmytsu0wq8i.jpg",
+  "slug": "bringing-perspective-to-css-1ffd",
+  "url": "https://dev.to/dailydevtips1/bringing-perspective-to-css-1ffd",
+  "publish_date": "2022-08-07",
+  "published_at": "2022-08-07T05:00:46Z"
+ },
+ {
   "id": 829600,
   "title": "✨Useful Css Shorthand Properties",
   "description": "In this post we are going to check the most useful and commonly used Css Shorthand Properties which...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kithminiii/the-mongodb-crud-database-operations-999",
   "publish_date": "2022-04-30",
   "published_at": "2022-04-30T10:33:44Z"
- },
- {
-  "id": 1071002,
-  "title": "What do your friends and family think software development is like?",
-  "description": "A post by Ben Halpern",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7f9IYh5n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kviq7b41pbxicul6xfqc.png",
-  "slug": "what-do-your-friends-and-family-think-software-development-is-like-27og",
-  "url": "https://dev.to/ben/what-do-your-friends-and-family-think-software-development-is-like-27og",
-  "publish_date": "2022-04-29",
-  "published_at": "2022-04-29T14:45:36Z"
- },
- {
-  "id": 1068000,
-  "title": "I've joined the Forem team! 🌱",
-  "description": "Hey all! I'm delighted to share that I've joined Forem full-time in the role of Social Media Manager...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e-HdNKsY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aaeocw1lqvc2p3rup1yg.jpg",
-  "slug": "ive-joined-the-forem-team-3h88",
-  "url": "https://dev.to/erinposting/ive-joined-the-forem-team-3h88",
-  "publish_date": "2022-04-29",
-  "published_at": "2022-04-29T13:47:24Z"
- },
- {
-  "id": 1070823,
-  "title": "The Advantages and Disadvantages of Working on Open Source Projects",
-  "description": "Working on open source projects can be both an advantage and disadvantage. There are many reasons for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--frClKjDo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2khfqisnr1920r3o1797.jpeg",
-  "slug": "the-advantages-and-disadvantages-of-working-on-open-source-projects-338i",
-  "url": "https://dev.to/pankod/the-advantages-and-disadvantages-of-working-on-open-source-projects-338i",
-  "publish_date": "2022-04-29",
-  "published_at": "2022-04-29T13:30:12Z"
- },
- {
-  "id": 1070739,
-  "title": "How to Convince Your Dev Team that Cloud Cost Management is Important?",
-  "description": "Software engineers typically don’t care about infrastructure costs because they never had to.  But...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--70Gza1_y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uas9zi2dy3x52qbdxykf.jpg",
-  "slug": "how-to-convince-your-dev-team-that-cloud-cost-management-is-important-kl4",
-  "url": "https://dev.to/castai/how-to-convince-your-dev-team-that-cloud-cost-management-is-important-kl4",
-  "publish_date": "2022-04-29",
-  "published_at": "2022-04-29T09:50:28Z"
- },
- {
-  "id": 1070587,
-  "title": "WebSocket vs Server-Sent events",
-  "description": "let's understand what are the differences between websocket and server-sent events and their ideal cases",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rknPXitj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://miro.medium.com/max/1400/1%2AAgap4Upvp4UoSb6ODSU9Og.png",
-  "slug": "websocket-vs-server-sent-events-2b77",
-  "url": "https://dev.to/minompi/websocket-vs-server-sent-events-2b77",
-  "publish_date": "2022-04-29",
-  "published_at": "2022-04-29T08:25:37Z"
  }
 ]
