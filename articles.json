@@ -1,5 +1,55 @@
 [
  {
+  "id": 1153363,
+  "title": "The JavaScript Paradox",
+  "description": "I'm not sure if there's ever been a language more loathed, yet so widely used, as JavaScript.  I'm...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MTHUOdxL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15ynnl6l8c1s2pau96m0.jpeg",
+  "slug": "the-javascript-paradox-2njj",
+  "url": "https://dev.to/this-is-learning/the-javascript-paradox-2njj",
+  "publish_date": "2022-08-08",
+  "published_at": "2022-08-08T15:27:32Z"
+ },
+ {
+  "id": 1162164,
+  "title": "Meme Monday!! 🐘",
+  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4wKH4aVl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8t48m3f1c2kcrqdr8dv3.png",
+  "slug": "meme-monday-23m",
+  "url": "https://dev.to/ben/meme-monday-23m",
+  "publish_date": "2022-08-08",
+  "published_at": "2022-08-08T15:02:29Z"
+ },
+ {
+  "id": 1159598,
+  "title": "Tabbing Tactfully",
+  "description": "Try your hand at HOCUS :FOCUS or spend today tabbing instead of your typical mouse navigation....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MlRjYUsv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pwnehce08112rw1dlhlo.jpg",
+  "slug": "tabbing-tactfully-2dpc",
+  "url": "https://dev.to/abbeyperini/tabbing-tactfully-2dpc",
+  "publish_date": "2022-08-08",
+  "published_at": "2022-08-08T12:34:22Z"
+ },
+ {
+  "id": 1162081,
+  "title": "Non-standard Flutter custom bottom navigation bar",
+  "description": "Are you tired of the usual navigation solutions in Flutter apps? I have something to show you 😎      ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5uXfiKtG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dlqk4119e9acrm6njrhf.jpeg",
+  "slug": "non-standard-flutter-custom-bottom-navigation-bar-e0c",
+  "url": "https://dev.to/frezyx/non-standard-flutter-custom-bottom-navigation-bar-e0c",
+  "publish_date": "2022-08-08",
+  "published_at": "2022-08-08T12:09:11Z"
+ },
+ {
+  "id": 1160985,
+  "title": "How to Google Like a Pro",
+  "description": "Search for a specific site    Put \"site:\" in front of a site or domain.  Example:...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fYDSwOni--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpcvdc74jgzduk0t3ohb.png",
+  "slug": "how-to-google-like-a-pro-3m31",
+  "url": "https://dev.to/anasnmu/how-to-google-like-a-pro-3m31",
+  "publish_date": "2022-08-08",
+  "published_at": "2022-08-08T10:39:00Z"
+ },
+ {
   "id": 1161493,
   "title": "Side Project Sunday! How's it going?",
   "description": "Let's hear about what you have going on! If you've shared your project before, what's new?",
@@ -100,22 +150,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tmchuynh/what-is-the-one-languageframework-you-refuse-to-use-butwhy-515e",
   "publish_date": "2022-05-01",
   "published_at": "2022-05-01T02:27:46Z"
- },
- {
-  "id": 1071879,
-  "title": "15 Essential GitHub Repos for Web Developers",
-  "description": "##  1. getify / You-Dont-Know-JS A repo dedicated to the well-known You Don't Know JS book series by...",
-  "cover_image": "",
-  "slug": "15-essential-github-repos-for-web-developers-2paa",
-  "url": "https://dev.to/digomic/15-essential-github-repos-for-web-developers-2paa",
-  "publish_date": "2022-04-30",
-  "published_at": "2022-04-30T19:26:23Z"
- },
- {
-  "id": 1071730,
-  "title": "Creating a firework effect with CSS",
-  "description": "A simple effect with CSS and a single HTML element",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--imtFk16s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6vh89jbvdb7ge8w1buz9.png",
-  "slug": "creating-a-firework-effect-with-css-njg",
-  "url": "https://dev.to/alvaromontoro/creating-a-firework-effect-with-css-njg",
-  "publish_date": "2022-04-30",
-  "published_at": "2022-04-30T15:34:33Z"
- },
- {
-  "id": 1071724,
-  "title": "8 Reasons Why I Love Chakra-UI",
-  "description": "In this blog, I will tell you 8 reasons why I love Chakra-UI.           Now why would you want to use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HaoRf039--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d4azpuj7ja16wo5xmzwh.png",
-  "slug": "8-reasons-why-i-love-chakra-ui-4lp4",
-  "url": "https://dev.to/thatanjan/8-reasons-why-i-love-chakra-ui-4lp4",
-  "publish_date": "2022-04-30",
-  "published_at": "2022-04-30T14:49:01Z"
- },
- {
-  "id": 1071680,
-  "title": "Appwrite Community Report #4",
-  "description": "Hello everyone! Greetings from team Appwrite 👋  Welcome back to yet another weekly community report...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rwbgNDLl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6nsouoi9fwsc7eu5fra.png",
-  "slug": "appwrite-community-report-4-5cg8",
-  "url": "https://dev.to/appwrite/appwrite-community-report-4-5cg8",
-  "publish_date": "2022-04-30",
-  "published_at": "2022-04-30T11:55:19Z"
- },
- {
-  "id": 1071669,
-  "title": "The MongoDB CRUD Database Operations🍃",
-  "description": "This article explains MongoDB CRUD operations to you, the four primary database operations in any...",
-  "cover_image": "",
-  "slug": "the-mongodb-crud-database-operations-999",
-  "url": "https://dev.to/kithminiii/the-mongodb-crud-database-operations-999",
-  "publish_date": "2022-04-30",
-  "published_at": "2022-04-30T10:33:44Z"
  }
 ]
