@@ -1,5 +1,55 @@
 [
  {
+  "id": 1162775,
+  "title": "My Neovim setup for React, TypeScript, Tailwind CSS, etc",
+  "description": "Hi, it's Takuya here. As you may know, I mainly use Neovim to code my app called Inkdrop, a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4pVyS5Hv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajh2cbj9sbq3g2sdqmli.png",
+  "slug": "my-neovim-setup-for-react-typescript-tailwind-css-etc-58fb",
+  "url": "https://dev.to/craftzdog/my-neovim-setup-for-react-typescript-tailwind-css-etc-58fb",
+  "publish_date": "2022-08-09",
+  "published_at": "2022-08-09T10:35:56Z"
+ },
+ {
+  "id": 1162299,
+  "title": "Getting ready for my first website: Choosing the right platform",
+  "description": "After my last article about Typescript, I've decided to move forward and start building a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6agMCMog--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/649bfpen4s3cuul5c7u9.jpg",
+  "slug": "getting-ready-for-my-first-website-choosing-the-right-platform-779",
+  "url": "https://dev.to/annabaker/getting-ready-for-my-first-website-choosing-the-right-platform-779",
+  "publish_date": "2022-08-09",
+  "published_at": "2022-08-09T10:06:00Z"
+ },
+ {
+  "id": 1162731,
+  "title": "How to build a real-time Auction system - Connecting Socket.io With React 🔥 (Part 2)",
+  "description": "Hi everybody and welcome back!           A small recap   Like an actual auction, if you bid for a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---YWaKvGI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vcvntqk6goh2aygwhqfs.png",
+  "slug": "how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
+  "url": "https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
+  "publish_date": "2022-08-09",
+  "published_at": "2022-08-09T09:24:00Z"
+ },
+ {
+  "id": 1162329,
+  "title": "Discover the New ASP.NET Core Features in .NET 7!",
+  "description": "It is no news that Microsoft is working very hard on improving and bringing new features to the .NET...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L1f0Jb7N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j6428qnt9qfl7iq0wi4o.png",
+  "slug": "discover-the-new-aspnet-core-features-in-net-7-nkj",
+  "url": "https://dev.to/dotnetsafer/discover-the-new-aspnet-core-features-in-net-7-nkj",
+  "publish_date": "2022-08-09",
+  "published_at": "2022-08-09T06:54:46Z"
+ },
+ {
+  "id": 1162648,
+  "title": "Simple auth system using JWT",
+  "description": "Continuation of the last post, I will try to implement auth system by using JWT (Json Web Token) for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dYsKVZab--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbh3444ktv3ndyu16l46.png",
+  "slug": "simple-auth-system-using-jwt-59e5",
+  "url": "https://dev.to/khusyasy/simple-auth-system-using-jwt-59e5",
+  "publish_date": "2022-08-09",
+  "published_at": "2022-08-09T04:23:00Z"
+ },
+ {
   "id": 1153363,
   "title": "The JavaScript Paradox",
   "description": "I'm not sure if there's ever been a language more loathed, yet so widely used, as JavaScript.  I'm...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/wesen/90-of-software-engineering-is-integrating-janky-apis-and-i-love-it-4k41",
   "publish_date": "2022-05-02",
   "published_at": "2022-05-02T04:01:42Z"
- },
- {
-  "id": 1072408,
-  "title": "What are pointers in golang",
-  "description": "Hi, I'm Abdulrahman, and I'm glad to share this blog, in this blog we will talk about Pointers in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ATHIRha5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qchrp2mw6hr03j84qm9d.png",
-  "slug": "what-are-pointers-in-golang-2kmc",
-  "url": "https://dev.to/theamasoud/what-are-pointers-in-golang-2kmc",
-  "publish_date": "2022-05-01",
-  "published_at": "2022-05-01T13:25:03Z"
- },
- {
-  "id": 1072274,
-  "title": "What Skills Makes a Great Software Engineer?",
-  "description": "Being a software engineer requires you to have many skills. In my career I've worked with people from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oIw527ft--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mex7tt4zpegdwvtm7vvg.png",
-  "slug": "what-skills-do-you-think-makes-a-great-software-engineer-1b14",
-  "url": "https://dev.to/simeg/what-skills-do-you-think-makes-a-great-software-engineer-1b14",
-  "publish_date": "2022-05-01",
-  "published_at": "2022-05-01T09:50:37Z"
- },
- {
-  "id": 1072215,
-  "title": "Django Charts via DRF - Step-by-Step Tutorial",
-  "description": "Sample project crafted with Django, Charts.JS, and DRF to showcase how to plot different charts Pie, Line, and Bar Charts.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qIo6hEkT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yj0rv8kn5w3mufn6nm78.jpg",
-  "slug": "django-charts-via-drf-and-chartjs-with-samples-4dh0",
-  "url": "https://dev.to/sm0ke/django-charts-via-drf-and-chartjs-with-samples-4dh0",
-  "publish_date": "2022-05-01",
-  "published_at": "2022-05-01T07:04:00Z"
- },
- {
-  "id": 1072147,
-  "title": "Develop a Full-Fledged Component Library with React, just like Material UI",
-  "description": "Always wondered how component libraries work in React? Want to create a library of your own, but the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uYsC8tOY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y4u89lcx36uvtcn1tyhm.png",
-  "slug": "develop-a-full-fledged-component-library-with-react-just-like-material-ui-50m0",
-  "url": "https://dev.to/ruppysuppy/develop-a-full-fledged-component-library-with-react-just-like-material-ui-50m0",
-  "publish_date": "2022-05-01",
-  "published_at": "2022-05-01T06:13:26Z"
- },
- {
-  "id": 1072097,
-  "title": "What is the ONE language/framework you refuse to use? But...WHY???",
-  "description": "Why do developers HATE certain programming languages?   You hear such things as \"--- is slower and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3IUCZ7ip--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3brnoog2wa065aogetr3.jpeg",
-  "slug": "what-is-the-one-languageframework-you-refuse-to-use-butwhy-515e",
-  "url": "https://dev.to/tmchuynh/what-is-the-one-languageframework-you-refuse-to-use-butwhy-515e",
-  "publish_date": "2022-05-01",
-  "published_at": "2022-05-01T02:27:46Z"
  }
 ]
