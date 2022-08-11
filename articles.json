@@ -1,5 +1,55 @@
 [
  {
+  "id": 1071669,
+  "title": "The MongoDB CRUD Database Operations🍃",
+  "description": "This article explains MongoDB CRUD operations to you, the four primary database operations in any...",
+  "cover_image": "",
+  "slug": "the-mongodb-crud-database-operations-999",
+  "url": "https://dev.to/kithminiii/the-mongodb-crud-database-operations-999",
+  "publish_date": "2022-08-10",
+  "published_at": "2022-08-10T20:28:10Z"
+ },
+ {
+  "id": 1163724,
+  "title": "How to raise funds for an open-source company 💵",
+  "description": "I had a pleasure talking to Igor Kotua VC @ RunaCapital, a VC company that invests mainly in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cs1Ck8I3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72ztz651y1zii8qp0djz.png",
+  "slug": "how-to-get-funds-for-an-open-source-company-1996",
+  "url": "https://dev.to/novu/how-to-get-funds-for-an-open-source-company-1996",
+  "publish_date": "2022-08-10",
+  "published_at": "2022-08-10T13:22:00Z"
+ },
+ {
+  "id": 1141665,
+  "title": "Learn AWS (Amazon web services) for FREE😎😎 in 2022 (Updated)",
+  "description": "Hello everyone, and thank you for taking out your precious time to read this blog and investing in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wV9xzChc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/69mcm55msfsulqsubi30.png",
+  "slug": "learn-aws-amazon-web-services-for-free-in-2022-updated-4m0a",
+  "url": "https://dev.to/tanmaygi/learn-aws-amazon-web-services-for-free-in-2022-updated-4m0a",
+  "publish_date": "2022-08-10",
+  "published_at": "2022-08-10T13:10:00Z"
+ },
+ {
+  "id": 1163902,
+  "title": "Flutter multiplatform navigation sidebar / drawer widget",
+  "description": "SidebarX - package to create beautiful and convenient sidebar navigation widgets easy...",
+  "cover_image": "",
+  "slug": "flutter-multiplatform-navigation-sidebar-drawer-widget-4ecj",
+  "url": "https://dev.to/frezyx/flutter-multiplatform-navigation-sidebar-drawer-widget-4ecj",
+  "publish_date": "2022-08-10",
+  "published_at": "2022-08-10T11:37:00Z"
+ },
+ {
+  "id": 1162110,
+  "title": "How to develop strong problem solving skills as a software developer",
+  "description": "Introduction   It is generally known that problem solving is an essential skill for software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4TmJwPkE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otql3f3y7cs13uw3dk21.png",
+  "slug": "how-to-develop-strong-problem-solving-skills-as-a-software-developer-25nb",
+  "url": "https://dev.to/nathan20/how-to-develop-strong-problem-solving-skills-as-a-software-developer-25nb",
+  "publish_date": "2022-08-10",
+  "published_at": "2022-08-10T09:41:15Z"
+ },
+ {
   "id": 1162775,
   "title": "My Neovim setup for React, TypeScript, Tailwind CSS, etc",
   "description": "Hi, it's Takuya here. As you may know, I mainly use Neovim to code my app called Inkdrop, a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/taishi/we-shouldnt-use-enums-on-typescript-anymore-18d3",
   "publish_date": "2022-05-03",
   "published_at": "2022-05-03T01:18:16Z"
- },
- {
-  "id": 762065,
-  "title": "PHP Array: A Gross Mistake",
-  "description": "Any developer who has spent a little time working with PHP knows one of the most used compound types...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IjW1VSeM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8l0x599jnspghmv30lk7.png",
-  "slug": "php-array-a-gross-mistake-3np4",
-  "url": "https://dev.to/xedinunknown/php-array-a-gross-mistake-3np4",
-  "publish_date": "2022-05-02",
-  "published_at": "2022-05-02T11:51:23Z"
- },
- {
-  "id": 1073122,
-  "title": "OOP a software development mass psychosis",
-  "description": "A broad layman's definition of a psychosis is roughly; \"The belief in something that has been proven...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K8I5dD9n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jb4v2fsuk2avq8m2vqrp.jpeg",
-  "slug": "oop-a-software-development-mass-psychosis-9n4",
-  "url": "https://dev.to/polterguy/oop-a-software-development-mass-psychosis-9n4",
-  "publish_date": "2022-05-02",
-  "published_at": "2022-05-02T09:07:10Z"
- },
- {
-  "id": 1072641,
-  "title": "10 High-Quality Free Resources That Will Make Every Web Developer's Life Easier",
-  "description": "There are so many ways to make web development more efficient, and I found some amazing resources...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rp9dX0bY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/id6pmk1i5lxxrn1m8p2v.gif",
-  "slug": "10-high-quality-free-resources-that-will-make-every-web-developers-life-easier-4e34",
-  "url": "https://dev.to/pankod/10-high-quality-free-resources-that-will-make-every-web-developers-life-easier-4e34",
-  "publish_date": "2022-05-02",
-  "published_at": "2022-05-02T07:00:39Z"
- },
- {
-  "id": 1072291,
-  "title": "Best Open-Source Headless CMS to Try for Your Next Application",
-  "description": "A headless CMS system, which can be developed quickly, contains many features you need, and helps you to produce products very quickly compared to traditional systems.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--syCWcVVY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo9bz4zi6po1gi7ggcjw.jpg",
-  "slug": "best-open-source-headless-cms-to-try-for-your-next-application-lpl",
-  "url": "https://dev.to/pankod/best-open-source-headless-cms-to-try-for-your-next-application-lpl",
-  "publish_date": "2022-05-02",
-  "published_at": "2022-05-02T06:27:31Z"
- },
- {
-  "id": 1072947,
-  "title": "90% of software engineering is integrating janky APIs, and I love it",
-  "description": "(Title photo: Ophelia photos - Creative Commons)  I stumbled upon this twitter thread and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8JuRxqTY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cdtl1rf2sjhg6owxue88.jpeg",
-  "slug": "90-of-software-engineering-is-integrating-janky-apis-and-i-love-it-4k41",
-  "url": "https://dev.to/wesen/90-of-software-engineering-is-integrating-janky-apis-and-i-love-it-4k41",
-  "publish_date": "2022-05-02",
-  "published_at": "2022-05-02T04:01:42Z"
  }
 ]
