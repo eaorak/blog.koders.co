@@ -1,5 +1,55 @@
 [
  {
+  "id": 1165851,
+  "title": "Appwrite Community Report #18",
+  "description": "Howdy people! 👋  We are back with our weekly community report, to share with you all what Appwrite...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xdwThzMH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/83gznuor9hme3f3oivz3.png",
+  "slug": "appwrite-community-report-17-1309",
+  "url": "https://dev.to/appwrite/appwrite-community-report-17-1309",
+  "publish_date": "2022-08-12",
+  "published_at": "2022-08-12T13:35:00Z"
+ },
+ {
+  "id": 1166027,
+  "title": "Forging GraphQL Bombs, the 2022 version of Zip Bombs",
+  "description": "GraphQL Bombs are a new and widespread vulnerability exploiting file uploads on GraphQL endpoints",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--41QYdRlH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.escape.tech/content/images/size/w2000/2022/08/--Landscape---GraphQL.Security--3-.png",
+  "slug": "forging-graphql-bombs-the-2022-version-of-zip-bombs-5ak1",
+  "url": "https://dev.to/gauben/forging-graphql-bombs-the-2022-version-of-zip-bombs-5ak1",
+  "publish_date": "2022-08-12",
+  "published_at": "2022-08-12T13:16:24Z"
+ },
+ {
+  "id": 1165916,
+  "title": "We are trending on Github, This is how we did it 🤯",
+  "description": "We are trending on Github!   To be honest, Github has an extraordinary algorithm, and it's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wtqNKkD8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/70s2isk7z7x4hzwbgzra.png",
+  "slug": "we-are-trending-on-github-this-is-how-we-did-it-kab",
+  "url": "https://dev.to/novu/we-are-trending-on-github-this-is-how-we-did-it-kab",
+  "publish_date": "2022-08-12",
+  "published_at": "2022-08-12T12:44:00Z"
+ },
+ {
+  "id": 1165673,
+  "title": "Build a full stack app with create-t3-app",
+  "description": "Hey there! Today we'll be building an application with the T3 stack. We're going to building a...",
+  "cover_image": "",
+  "slug": "build-a-full-stack-app-with-create-t3-app-5e1e",
+  "url": "https://dev.to/nexxeln/build-a-full-stack-app-with-create-t3-app-5e1e",
+  "publish_date": "2022-08-12",
+  "published_at": "2022-08-12T04:27:39Z"
+ },
+ {
+  "id": 1165646,
+  "title": "The Console API.",
+  "description": "Know the functions of the console object that makes debugging a lot faster.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cmmDnixh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxmuall737iok5vukwuf.jpg",
+  "slug": "the-console-api-ce8",
+  "url": "https://dev.to/chucks1093/the-console-api-ce8",
+  "publish_date": "2022-08-12",
+  "published_at": "2022-08-12T02:37:39Z"
+ },
+ {
   "id": 737753,
   "title": "List of Best GitHub Repos for Web Developers",
   "description": "In this post we are going to check best GitHub Repositories for Web Developers to learn fundamentals...",
@@ -300,22 +350,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kcdchennai/revisiting-the-pain-the-world-without-git-3jod",
   "publish_date": "2022-05-05",
   "published_at": "2022-05-05T05:04:05Z"
- },
- {
-  "id": 1075532,
-  "title": "What tools would you choose to create a personal portfolio site if starting from scratch?",
-  "description": "No wrong answers here, what tools/stack would you choose and why?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ytqn_C5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/japfxm888qu4zbn9761l.png",
-  "slug": "what-tools-would-you-choose-to-create-a-personal-portfolio-site-if-starting-from-scratch-1d8n",
-  "url": "https://dev.to/ben/what-tools-would-you-choose-to-create-a-personal-portfolio-site-if-starting-from-scratch-1d8n",
-  "publish_date": "2022-05-04",
-  "published_at": "2022-05-04T15:27:36Z"
- },
- {
-  "id": 1075486,
-  "title": "Announcing the Appwrite OSS Fund",
-  "description": "Building and maintaining an Open Source Software(OSS), the project is hard. If your project gets...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oINEHjoC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ggftr92zlpl2lb67af5j.png",
-  "slug": "announcing-the-appwrite-oss-fund-4ilg",
-  "url": "https://dev.to/appwrite/announcing-the-appwrite-oss-fund-4ilg",
-  "publish_date": "2022-05-04",
-  "published_at": "2022-05-04T14:38:02Z"
- },
- {
-  "id": 1075218,
-  "title": "Kubernetes Ingress: Nginx Ingress Edition",
-  "description": "In Kubernetes, some applications need to be public-facing. Perhaps it’s a web app or something else...",
-  "cover_image": "",
-  "slug": "kubernetes-ingress-nginx-ingress-edition-41o8",
-  "url": "https://dev.to/thenjdevopsguy/kubernetes-ingress-nginx-ingress-edition-41o8",
-  "publish_date": "2022-05-04",
-  "published_at": "2022-05-04T10:07:41Z"
- },
- {
-  "id": 1075055,
-  "title": "May the 4th be with you",
-  "description": "Whether you remember the death (for the Dutch readers), or celebrating Star Wars day.  The 4th of May...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--35IPkubf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pojy09q67u405xxp3ven.jpg",
-  "slug": "may-the-4th-be-with-you-1kgl",
-  "url": "https://dev.to/dailydevtips1/may-the-4th-be-with-you-1kgl",
-  "publish_date": "2022-05-04",
-  "published_at": "2022-05-04T06:35:55Z"
- },
- {
-  "id": 1074932,
-  "title": "Don't use 100vh for mobile responsive",
-  "description": "Generally, we use height:100vh for fullscreen layout which is easy hack and convenient way to get...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xlYzb7DH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jdx3briho23xslsbt1bh.png",
-  "slug": "dont-use-100vh-for-mobile-responsive-3o97",
-  "url": "https://dev.to/nirazanbasnet/dont-use-100vh-for-mobile-responsive-3o97",
-  "publish_date": "2022-05-04",
-  "published_at": "2022-05-04T04:05:37Z"
  }
 ]
