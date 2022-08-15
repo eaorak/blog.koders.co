@@ -1,5 +1,55 @@
 [
  {
+  "id": 1167265,
+  "title": "React Hooks: useThrottledValue and useThrottledFunction",
+  "description": "This article explains the new React 18 hooks useDeferredValue and useTransition and compares them to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p2Y9lCqY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vulhv6ixe5ngfcbxtpe0.png",
+  "slug": "react-hooks-usethrottledvalue-and-usethrottledfunction-1j2n",
+  "url": "https://dev.to/perssondennis/react-hooks-usethrottledvalue-and-usethrottledfunction-1j2n",
+  "publish_date": "2022-08-14",
+  "published_at": "2022-08-14T14:25:06Z"
+ },
+ {
+  "id": 1167085,
+  "title": "Browser extensions - adding Tailwind CSS",
+  "description": "Yesterday we made our very first new tab browser extension. However, it was solely powered by plain...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5ptKZy7v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/43p5lkahdypckbcczlfq.jpg",
+  "slug": "browser-extensions-adding-tailwind-css-20e9",
+  "url": "https://dev.to/dailydevtips1/browser-extensions-adding-tailwind-css-20e9",
+  "publish_date": "2022-08-14",
+  "published_at": "2022-08-14T08:17:08Z"
+ },
+ {
+  "id": 1167036,
+  "title": "Lada is better than Ferrari",
+  "description": "Lada was the laughing joke of the 20th Century. It was a true communist manufactured car,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fq8yQsG4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y78s0p6h11icekypmswl.jpeg",
+  "slug": "lada-is-better-than-ferrari-h9a",
+  "url": "https://dev.to/polterguy/lada-is-better-than-ferrari-h9a",
+  "publish_date": "2022-08-14",
+  "published_at": "2022-08-14T07:04:37Z"
+ },
+ {
+  "id": 1167021,
+  "title": "Dark and Light Theme Toggler + YT Channel",
+  "description": "In this Article, I'll tell you how to create a DARK and LIGHT THEME TOGGLER with Pure HTML,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yt9BZSoa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xits1lgbl2wmo9nothc3.jpeg",
+  "slug": "dark-and-light-theme-toggler-yt-channel-4ikh",
+  "url": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
+  "publish_date": "2022-08-14",
+  "published_at": "2022-08-14T05:31:00Z"
+ },
+ {
+  "id": 1166947,
+  "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
+  "description": "I get it even though Regex is incredibly useful, it is extremely hard to master! This is a cheat...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--roCkytHq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zf9abzi2zdrs4jdrq6jq.jpg",
+  "slug": "the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
+  "url": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
+  "publish_date": "2022-08-14",
+  "published_at": "2022-08-14T04:03:12Z"
+ },
+ {
   "id": 1166625,
   "title": "How to Build Creative eCommerce Website Using HTML CSS JavaScript",
   "description": "How to Build Creative eCommerce Website Using HTML CSS JavaScript  This video will show you how...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/hussein_nm/9-best-software-architecture-patterns-44pc",
   "publish_date": "2022-05-07",
   "published_at": "2022-05-07T06:26:52Z"
- },
- {
-  "id": 1077187,
-  "title": "Cloud Pricing Comparison: AWS vs. Azure vs. Google Cloud Platform in 2022",
-  "description": "If you’re considering moving to the public cloud or optimizing the choice for your next project,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OPtfkkaN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ddgdpktdbt9uwvijwt4.jpg",
-  "slug": "cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-platform-in-2022-no2",
-  "url": "https://dev.to/castai/cloud-pricing-comparison-aws-vs-azure-vs-google-cloud-platform-in-2022-no2",
-  "publish_date": "2022-05-06",
-  "published_at": "2022-05-06T09:21:09Z"
- },
- {
-  "id": 1076628,
-  "title": "Service Worker Side Rendering (SWSR)",
-  "description": "Server Side Rendering (SSR) seems to be all the rage. Hydration strategies are the talk of the town,...",
-  "cover_image": "",
-  "slug": "service-worker-side-rendering-swsr-cb1",
-  "url": "https://dev.to/thepassle/service-worker-side-rendering-swsr-cb1",
-  "publish_date": "2022-05-06",
-  "published_at": "2022-05-06T09:12:20Z"
- },
- {
-  "id": 1074451,
-  "title": "GitLive's Tool Window Just Got a Major Upgrade in IntelliJ",
-  "description": "With the new tool window, you can now see all work in progress across your entire team in a single...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F7EOdPTt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kjquak6hvsz297upt3cj.png",
-  "slug": "gitlives-tool-window-just-got-a-major-upgrade-in-intellij-4ekh",
-  "url": "https://dev.to/gitlive/gitlives-tool-window-just-got-a-major-upgrade-in-intellij-4ekh",
-  "publish_date": "2022-05-06",
-  "published_at": "2022-05-06T04:53:26Z"
- },
- {
-  "id": 1076983,
-  "title": "What Keyboard Do You Use?",
-  "description": "I was writing a post earlier tonight about my new keyboard which I'm really enjoying.                ...",
-  "cover_image": "",
-  "slug": "what-keyboard-do-you-use-3ma2",
-  "url": "https://dev.to/nickytonline/what-keyboard-do-you-use-3ma2",
-  "publish_date": "2022-05-06",
-  "published_at": "2022-05-06T03:57:57Z"
- },
- {
-  "id": 1076951,
-  "title": "10 tips to stay healthy as a developer",
-  "description": "10 tips to stay healthy as a developer  Long hours of sitting in front of a computer, coding all day...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fOnDXEpo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgqt8uqu49hmsoravic8.jpg",
-  "slug": "du-an-vinhomes-ocean-park-the-empire-nhung-cau-hoi-thuong-gap-4pof",
-  "url": "https://dev.to/gloriapadilla/du-an-vinhomes-ocean-park-the-empire-nhung-cau-hoi-thuong-gap-4pof",
-  "publish_date": "2022-05-06",
-  "published_at": "2022-05-06T02:09:14Z"
  }
 ]
