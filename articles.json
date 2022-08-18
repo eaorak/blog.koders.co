@@ -1,5 +1,55 @@
 [
  {
+  "id": 1169671,
+  "title": "14 Killer Web Applications to Boost Your Productivity 🚀💯",
+  "description": "In this article, I've compiled some of the most useful web apps that you can use to increase your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7pNgVWoI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jhhasvo92nkd0sltyt85.png",
+  "slug": "14-killer-web-applications-to-boost-your-productivity-5ah1",
+  "url": "https://dev.to/madza/14-killer-web-applications-to-boost-your-productivity-5ah1",
+  "publish_date": "2022-08-17",
+  "published_at": "2022-08-17T15:11:19Z"
+ },
+ {
+  "id": 1169639,
+  "title": "Nextjs image optimization with examples",
+  "description": "Introduction   Images are a significant part of modern-day web application development....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--un_HciKe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d832qaiy8z2ez9hwnrix.png",
+  "slug": "nextjs-image-optimization-with-examples-1g73",
+  "url": "https://dev.to/pankod/nextjs-image-optimization-with-examples-1g73",
+  "publish_date": "2022-08-17",
+  "published_at": "2022-08-17T13:44:00Z"
+ },
+ {
+  "id": 1169597,
+  "title": "How to break into tech",
+  "description": "I landed my first dev job after about a year of self-directed study. These are the lessons I learned.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RAOH0nbt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1629640737864-d4a36ea05784%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80",
+  "slug": "how-to-break-into-tech-5d4d",
+  "url": "https://dev.to/arielbk/how-to-break-into-tech-5d4d",
+  "publish_date": "2022-08-17",
+  "published_at": "2022-08-17T12:31:40Z"
+ },
+ {
+  "id": 1168667,
+  "title": "The Benefits of Using AWS S3 for Storage",
+  "description": "Why use AWS S3 for storage?   There are many reasons to use AWS S3 for storage. First, S3 is...",
+  "cover_image": "",
+  "slug": "the-benefits-of-using-aws-s3-for-storage-ig8",
+  "url": "https://dev.to/blst-security/the-benefits-of-using-aws-s3-for-storage-ig8",
+  "publish_date": "2022-08-17",
+  "published_at": "2022-08-17T08:38:00Z"
+ },
+ {
+  "id": 1168954,
+  "title": "Windows Commands CheatSheet you needed",
+  "description": "This is the Cheat Sheet of Windows Commands. It gives you all the commands and a short description...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qiOaXWf0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pwouinnnmk8yhnxrx8kv.png",
+  "slug": "windows-commands-cheatsheet-you-needed-4191",
+  "url": "https://dev.to/j471n/windows-commands-cheatsheet-you-needed-4191",
+  "publish_date": "2022-08-17",
+  "published_at": "2022-08-17T02:35:06Z"
+ },
+ {
   "id": 1168888,
   "title": "My developer workflow using WSL, tmux and Neovim",
   "description": "Hi! Today I'm gonna talk about my daily developer workflow and all the tools I use to set up a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/virejdasani/tell-me-a-stupid-app-idea-and-ill-make-it-1a9f",
   "publish_date": "2022-05-10",
   "published_at": "2022-05-10T08:09:38Z"
- },
- {
-  "id": 1074458,
-  "title": "Introducing the Mayfield + DEV discussion series",
-  "description": "Hey DEV Community!  Over the next two weeks, we will be hosting a daily discussion series in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ycy0UwoR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/98cha1uovt9wfn7pvhbo.png",
-  "slug": "introducing-the-mayfield-dev-discussion-series-2cbo",
-  "url": "https://dev.to/devteam/introducing-the-mayfield-dev-discussion-series-2cbo",
-  "publish_date": "2022-05-09",
-  "published_at": "2022-05-09T17:24:49Z"
- },
- {
-  "id": 1079857,
-  "title": "Accessibility Cheat Sheet",
-  "description": "Do you know what a13y means? If not, it probably means that you still have some catching up to do on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wCx0ZdBl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/brbti1i98eepnx3vniwb.png",
-  "slug": "accessibility-cheat-sheet-3hj3",
-  "url": "https://dev.to/benjamincohen123/accessibility-cheat-sheet-3hj3",
-  "publish_date": "2022-05-09",
-  "published_at": "2022-05-09T12:41:52Z"
- },
- {
-  "id": 1079791,
-  "title": "App Generator - Code a simple Dashboard using AppSeed",
-  "description": "Generate a simple Flask Dashboard in no time using AppSeed - Source Code is available for download from Github (MIT License).",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ckcnapuX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfezhi1p7m0zmffngjgy.jpg",
-  "slug": "app-generator-code-a-simple-dashboard-using-appseed-3ld1",
-  "url": "https://dev.to/sm0ke/app-generator-code-a-simple-dashboard-using-appseed-3ld1",
-  "publish_date": "2022-05-09",
-  "published_at": "2022-05-09T10:07:57Z"
- },
- {
-  "id": 1078067,
-  "title": "Why you should not use pixels(px) in CSS",
-  "description": "Did someone ever tell you to code like this?    something{    width: 100px;    height: 100px; }      ...",
-  "cover_image": "",
-  "slug": "why-you-should-not-use-pixelspx-in-css-2342",
-  "url": "https://dev.to/freebeliever/why-you-should-not-use-pixelspx-in-css-2342",
-  "publish_date": "2022-05-09",
-  "published_at": "2022-05-09T07:07:08Z"
- },
- {
-  "id": 1079634,
-  "title": "Which functions/methods do you...",
-  "description": "Which functions/methods do you copy from a project to another or re-code just to have them...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l65hkGOF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qnanadsnnnagad43r25j.png",
-  "slug": "which-functionsmethods-do-you-484m",
-  "url": "https://dev.to/joelbonetr/which-functionsmethods-do-you-484m",
-  "publish_date": "2022-05-09",
-  "published_at": "2022-05-09T07:06:19Z"
  }
 ]
