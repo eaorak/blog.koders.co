@@ -1,5 +1,55 @@
 [
  {
+  "id": 1170796,
+  "title": "A Arquitetura simples",
+  "description": "Um relato dos meus últimos 8 anos construindo sistemas para grandes empresas.",
+  "cover_image": "",
+  "slug": "a-arquitetura-simples-lb",
+  "url": "https://dev.to/hugaomarques/a-arquitetura-simples-lb",
+  "publish_date": "2022-08-20",
+  "published_at": "2022-08-20T18:59:15Z"
+ },
+ {
+  "id": 1172111,
+  "title": "Neumorphism with CSS - A new design trend",
+  "description": "Introduction   Many developers are still unaware of some design trends even after practicing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vNQACE6r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vl8x8q4qdmvdtwpggs6a.jpeg",
+  "slug": "neumorphism-with-css-a-new-design-trend-2ng5",
+  "url": "https://dev.to/refine/neumorphism-with-css-a-new-design-trend-2ng5",
+  "publish_date": "2022-08-20",
+  "published_at": "2022-08-20T13:54:12Z"
+ },
+ {
+  "id": 1171900,
+  "title": "📦 Bundle Node.js into single executable binary",
+  "description": "Node.js 🐢, the asynchronous event-driven JavaScript runtime, has unparalleled support for file-system...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9RH4gRls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n0s1knp6cmtwsqf8orea.png",
+  "slug": "bundling-nodejs-into-single-executable-binary-l3g",
+  "url": "https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g",
+  "publish_date": "2022-08-20",
+  "published_at": "2022-08-20T12:13:00Z"
+ },
+ {
+  "id": 1068442,
+  "title": "How I discovered an ideal stack for mastering HTML and CSS - Vue without build",
+  "description": "Disclaimer: this is not a pure tech article, with detailed manual. It is a story about:...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--teR-yPVi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjr2qtxg507fmvkeslt0.png",
+  "slug": "how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46",
+  "url": "https://dev.to/apayrus/how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46",
+  "publish_date": "2022-08-20",
+  "published_at": "2022-08-20T08:06:00Z"
+ },
+ {
+  "id": 1171877,
+  "title": "60 Days of Data Science and Machine Learning",
+  "description": "Hello, everyone.  Following are first 2 weeks of this series. You can find them on my github...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rbogM7wu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c0cvi1dq0f7guvsai9iv.jpeg",
+  "slug": "60-days-of-data-science-and-machine-learning-57p9",
+  "url": "https://dev.to/thunderstroke/60-days-of-data-science-and-machine-learning-57p9",
+  "publish_date": "2022-08-20",
+  "published_at": "2022-08-20T05:28:00Z"
+ },
+ {
   "id": 1171385,
   "title": "Share your GitHub Profile and Let's all connect",
   "description": "Let's all connect on GitHub by sharing our Profiles!! Link your Profile down below, I am interested...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kcdchennai/understanding-etcpasswd-file-in-linux-1k2d",
   "publish_date": "2022-05-13",
   "published_at": "2022-05-13T06:08:50Z"
- },
- {
-  "id": 1083618,
-  "title": "Slibro — a story writing platform",
-  "description": "Overview   Slibro is a story writing platform that supports short and long format stories....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nhSVqRP5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvmajzpm9j3p01mygmlt.png",
-  "slug": "slibro-a-story-writing-platform-4oll",
-  "url": "https://dev.to/sbis04/slibro-a-story-writing-platform-4oll",
-  "publish_date": "2022-05-12",
-  "published_at": "2022-05-12T20:19:22Z"
- },
- {
-  "id": 1083337,
-  "title": "Call to action for all VS Code users!",
-  "description": "Earlier today, I was noodling around on VSCodeTips (— a Forem community dedicated to sharing tips...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_oXN7gHO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nb076elsgmmk4xcb3ty1.png",
-  "slug": "call-to-action-for-all-vs-code-users-5b2l",
-  "url": "https://dev.to/devteam/call-to-action-for-all-vs-code-users-5b2l",
-  "publish_date": "2022-05-12",
-  "published_at": "2022-05-12T17:40:11Z"
- },
- {
-  "id": 1083439,
-  "title": "Can You Resolve Merge Conflicts Before They Happen? 💥",
-  "description": "Solving merge conflicts is fun! - said no one ever. Nobody likes them, but it doesn’t change the fact...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IphqPcb1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nspd0080d0oomd5xta2x.png",
-  "slug": "can-you-resolve-merge-conflicts-before-they-happen-46nd",
-  "url": "https://dev.to/benjamincohen123/can-you-resolve-merge-conflicts-before-they-happen-46nd",
-  "publish_date": "2022-05-12",
-  "published_at": "2022-05-12T16:26:22Z"
- },
- {
-  "id": 1082908,
-  "title": "[BADGE.AR] Create NFTs from your Achievements",
-  "description": "Badge.ar    Create NFTs from your Achievements.            Overview   BadgeAr is a place...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1_t3M3AT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t2zzlwffletsj7lcnsvs.jpg",
-  "slug": "badgear-create-nfts-from-your-achievements-226f",
-  "url": "https://dev.to/catrielmuller/badgear-create-nfts-from-your-achievements-226f",
-  "publish_date": "2022-05-12",
-  "published_at": "2022-05-12T04:57:43Z"
- },
- {
-  "id": 1082863,
-  "title": "Flutter release 3.0.0 What's new ?",
-  "description": "Google I/O is happening now. One of the news from this conference is release a Flutter version 3.0.0...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B-oxHQDB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ewpgr7usnjs3np2wi6vl.png",
-  "slug": "flutter-release-300-whats-new--4c3a",
-  "url": "https://dev.to/frezyx/flutter-release-300-whats-new--4c3a",
-  "publish_date": "2022-05-12",
-  "published_at": "2022-05-12T04:10:59Z"
  }
 ]
