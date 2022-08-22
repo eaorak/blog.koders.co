@@ -1,5 +1,55 @@
 [
  {
+  "id": 1172651,
+  "title": "JavaScript, the worst programming language on the planet",
+  "description": "There are quite a few candidates for the worst programming language the Earth has ever seen. C++ is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XiEYLMta--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h5jbmp3inwzltchvb4ke.png",
+  "slug": "javascript-the-worst-programming-language-on-the-planet-a5n",
+  "url": "https://dev.to/polterguy/javascript-the-worst-programming-language-on-the-planet-a5n",
+  "publish_date": "2022-08-21",
+  "published_at": "2022-08-21T12:12:00Z"
+ },
+ {
+  "id": 1166725,
+  "title": "Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 1",
+  "description": "Motivation   Greatings, Let's say you finished coding your awesome NodeJS app ready to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z3o7mg0B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0oquu67x6gt6kad2fn3e.png",
+  "slug": "deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-1-4841",
+  "url": "https://dev.to/ranjan/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-1-4841",
+  "publish_date": "2022-08-21",
+  "published_at": "2022-08-21T12:04:00Z"
+ },
+ {
+  "id": 1172567,
+  "title": "On Estimates",
+  "description": "Since we began developing software, we’ve looked for ways to reliably estimate our development time....",
+  "cover_image": "",
+  "slug": "on-estimates-56g",
+  "url": "https://dev.to/stebunovd/on-estimates-56g",
+  "publish_date": "2022-08-21",
+  "published_at": "2022-08-21T10:03:01Z"
+ },
+ {
+  "id": 1164696,
+  "title": "Frontend Learning Approach (Not Roadmap)",
+  "description": "A roadmap is a strategic plan that defines a goal or desired outcome and includes the major steps or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zfXGTfcH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e98cfdh89g2vq4xi0zmg.jpg",
+  "slug": "frontend-learning-approach-not-roadmap-5c4l",
+  "url": "https://dev.to/mdarif/frontend-learning-approach-not-roadmap-5c4l",
+  "publish_date": "2022-08-21",
+  "published_at": "2022-08-21T09:52:00Z"
+ },
+ {
+  "id": 1172493,
+  "title": "Do's and Don'ts of Creating Your Portfolio Website",
+  "description": "A portfolio website is something most developers will attempt to build at some point in their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNL9dKJH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80syci6u0b56vvj0z6k7.jpg",
+  "slug": "dos-and-donts-of-creating-your-portfolio-website-2h4p",
+  "url": "https://dev.to/ioanat94/dos-and-donts-of-creating-your-portfolio-website-2h4p",
+  "publish_date": "2022-08-21",
+  "published_at": "2022-08-21T05:43:00Z"
+ },
+ {
   "id": 1170796,
   "title": "A Arquitetura simples",
   "description": "Um relato dos meus últimos 8 anos construindo sistemas para grandes empresas.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alvaromontoro/fun-with-justify-content-olk",
   "publish_date": "2022-05-14",
   "published_at": "2022-05-14T02:33:37Z"
- },
- {
-  "id": 1084530,
-  "title": "Implementing OpenTelemetry in a Rust application for performance monitoring 🚀",
-  "description": "OpenTelemetry can be used to trace Rust applications for performance issues and bugs. OpenTelemetry...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U8Q1ne0x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c63toqjdv7xiag14js4n.png",
-  "slug": "implementing-opentelemetry-in-a-rust-application-for-performance-monitoring-3b9b",
-  "url": "https://dev.to/signoz/implementing-opentelemetry-in-a-rust-application-for-performance-monitoring-3b9b",
-  "publish_date": "2022-05-13",
-  "published_at": "2022-05-13T15:16:00Z"
- },
- {
-  "id": 1077222,
-  "title": "The 10 Best C# Books to Help You Learn or Improve Your Skills📚",
-  "description": "How do you learn C#? There are tons of books out there to teach you the ins and outs of C#, but how...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RFx5JMrq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qy2inuzmb3cmt5w4bo0l.png",
-  "slug": "the-10-best-c-books-to-help-you-learn-or-improve-your-skills-30j",
-  "url": "https://dev.to/dotnetsafer/the-10-best-c-books-to-help-you-learn-or-improve-your-skills-30j",
-  "publish_date": "2022-05-13",
-  "published_at": "2022-05-13T11:10:09Z"
- },
- {
-  "id": 1082188,
-  "title": "My take on commenting code - Explain why, not how",
-  "description": "// This is the start of the article        Enter fullscreen mode            Exit fullscreen mode    ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TJE2smk9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ngyiyrv9akenrgcigde.png",
-  "slug": "my-take-on-commenting-code-explain-why-not-how-3bg2",
-  "url": "https://dev.to/nombrekeff/my-take-on-commenting-code-explain-why-not-how-3bg2",
-  "publish_date": "2022-05-13",
-  "published_at": "2022-05-13T11:09:46Z"
- },
- {
-  "id": 1084070,
-  "title": "Cloud Costs Are a Risk to Your Business: Here’s How to Protect Yourself",
-  "description": "The cloud makes a big budget item for every modern organization in the post-pandemic world. But...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T4EUT3QC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pac3630decxhlh5kx698.jpg",
-  "slug": "cloud-costs-are-a-risk-to-your-business-heres-how-to-protect-yourself-4bcm",
-  "url": "https://dev.to/castai/cloud-costs-are-a-risk-to-your-business-heres-how-to-protect-yourself-4bcm",
-  "publish_date": "2022-05-13",
-  "published_at": "2022-05-13T08:08:48Z"
- },
- {
-  "id": 1083080,
-  "title": "Understanding /etc/passwd file in Linux",
-  "description": "Introduction   Linux has evolved from being someone's hobby to a full-fledged multi-user...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZnKBqm5j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8obsgdm32mefu760w142.png",
-  "slug": "understanding-etcpasswd-file-in-linux-1k2d",
-  "url": "https://dev.to/kcdchennai/understanding-etcpasswd-file-in-linux-1k2d",
-  "publish_date": "2022-05-13",
-  "published_at": "2022-05-13T06:08:50Z"
  }
 ]
