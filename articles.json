@@ -1,5 +1,55 @@
 [
  {
+  "id": 1173206,
+  "title": "Building a chat - Browser Notifications with React, Websockets and Web-Push 🤯",
+  "description": "What is this article about?   We have all encountered chat over the web, that can be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UDfZmXHe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zitw40s2hspakrlfmy86.png",
+  "slug": "building-a-chat-browser-notifications-with-react-websockets-and-web-push-1h1j",
+  "url": "https://dev.to/novu/building-a-chat-browser-notifications-with-react-websockets-and-web-push-1h1j",
+  "publish_date": "2022-08-22",
+  "published_at": "2022-08-22T15:11:00Z"
+ },
+ {
+  "id": 1173415,
+  "title": "SEO tools I used to grow my sites to 20k+ visitors/month",
+  "description": "SEO \u0026amp; analytics help grow site traffic   Whether you're working on your own blog, a news...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--asYyDoMW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmv9r0mhafv79co0if0g.png",
+  "slug": "5-tools-i-add-to-every-new-web-project-for-seo-and-analytics-58f2",
+  "url": "https://dev.to/irreverentmike/5-tools-i-add-to-every-new-web-project-for-seo-and-analytics-58f2",
+  "publish_date": "2022-08-22",
+  "published_at": "2022-08-22T14:56:00Z"
+ },
+ {
+  "id": 1173179,
+  "title": "Speech Recognition with JavaScript",
+  "description": "Cover image credits: dribbble  Some time ago, speech recognition API was added to the specs and we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zRXLGsUy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fg7d21fl5gqpngmiwb40.gif",
+  "slug": "speech-recognition-with-javascript-59g1",
+  "url": "https://dev.to/joelbonetr/speech-recognition-with-javascript-59g1",
+  "publish_date": "2022-08-22",
+  "published_at": "2022-08-22T09:23:00Z"
+ },
+ {
+  "id": 1154516,
+  "title": "Microservices Architecture: What, Where \u0026 Why?",
+  "description": "If you are into software development, you've probably heard about microservices. They've acquired a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gH_uJve6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r09f613131dna6svua6o.png",
+  "slug": "microservices-architecture-what-where-why-106g",
+  "url": "https://dev.to/anubhavitis/microservices-architecture-what-where-why-106g",
+  "publish_date": "2022-08-22",
+  "published_at": "2022-08-22T08:04:30Z"
+ },
+ {
+  "id": 1173063,
+  "title": "A Practical Guide to Brain.js",
+  "description": "What is Brain.js?   Machine learning and neural network is the most exciting frontier for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--40vdH4so--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6zxdg4k1tx4ixy82y4th.png",
+  "slug": "a-practical-guide-to-brainjs-nfk",
+  "url": "https://dev.to/patilganesh1010/a-practical-guide-to-brainjs-nfk",
+  "publish_date": "2022-08-22",
+  "published_at": "2022-08-22T05:20:55Z"
+ },
+ {
   "id": 1172651,
   "title": "JavaScript, the worst programming language on the planet",
   "description": "There are quite a few candidates for the worst programming language the Earth has ever seen. C++ is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dhravya/i-was-tired-of-making-banners-for-my-blogs-so-i-automated-it-5hnd",
   "publish_date": "2022-05-15",
   "published_at": "2022-05-15T05:19:21Z"
- },
- {
-  "id": 1085313,
-  "title": "How to save up on AWS Parameter Store with serverless framework",
-  "description": "The Problem:   It is a bad practice and even a security risk to use hard-coded values within...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0a2ZKDJ4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eoliupscukhdue755d52.png",
-  "slug": "how-to-save-up-on-aws-parameter-store-with-serverless-framework-44mm",
-  "url": "https://dev.to/davidshaek/how-to-save-up-on-aws-parameter-store-with-serverless-framework-44mm",
-  "publish_date": "2022-05-14",
-  "published_at": "2022-05-14T14:50:28Z"
- },
- {
-  "id": 1085309,
-  "title": "What is YOUR theme?",
-  "description": "What is YOUR most favorite VSCode theme that everyone should try out? What color theme/syntax...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CE7aToU_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/05udzu3ahjvgtz3krw9r.jpeg",
-  "slug": "what-is-your-theme-40eh",
-  "url": "https://dev.to/snowciel/what-is-your-theme-40eh",
-  "publish_date": "2022-05-14",
-  "published_at": "2022-05-14T14:34:38Z"
- },
- {
-  "id": 1085192,
-  "title": "Pitch me on PHP",
-  "description": "Part of a new series! Feel welcome to dip in and weigh in on a past question.  Let's say I've never...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1iWD06Km--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/netptnw9l4bl4a0l9ccw.png",
-  "slug": "pitch-me-on-php-5bdc",
-  "url": "https://dev.to/ben/pitch-me-on-php-5bdc",
-  "publish_date": "2022-05-14",
-  "published_at": "2022-05-14T11:50:05Z"
- },
- {
-  "id": 1085003,
-  "title": "How to Transition from Web2 to Web3",
-  "description": "A guide to getting into Web3 and Blockchain Development",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tZS6VUTa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1620321023374-d1a68fbc720d%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1794%26q%3D80",
-  "slug": "how-to-transition-from-web2-to-web3-1n3g",
-  "url": "https://dev.to/danytulumidis/how-to-transition-from-web2-to-web3-1n3g",
-  "publish_date": "2022-05-14",
-  "published_at": "2022-05-14T04:28:47Z"
- },
- {
-  "id": 1084934,
-  "title": "Fun with justify-content",
-  "description": "A cartoon about FlexBox and the values of justify-content",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k2YNZak5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eppyjerwsgyf2zqdykm5.png",
-  "slug": "fun-with-justify-content-olk",
-  "url": "https://dev.to/alvaromontoro/fun-with-justify-content-olk",
-  "publish_date": "2022-05-14",
-  "published_at": "2022-05-14T02:33:37Z"
  }
 ]
