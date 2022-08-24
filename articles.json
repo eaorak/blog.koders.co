@@ -1,5 +1,55 @@
 [
  {
+  "id": 1171080,
+  "title": "Resumability, WTF?",
+  "description": "Maybe you've heard the term Resumability thrown around recently. Maybe someone gushing over Miško...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GFEEi9mu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/brs1olysihuz3kl8gdcf.png",
+  "slug": "resumability-wtf-2gcm",
+  "url": "https://dev.to/this-is-learning/resumability-wtf-2gcm",
+  "publish_date": "2022-08-23",
+  "published_at": "2022-08-23T20:22:00Z"
+ },
+ {
+  "id": 1160500,
+  "title": "Take the DEV Community Satisfaction Survey!",
+  "description": "Hey there, DEV Community members!  This is a quick note to let you know that we just published a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8kc5_gEY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xeyg0nsybxkkscfamy32.png",
+  "slug": "take-the-dev-community-satisfaction-survey-3gja",
+  "url": "https://dev.to/devteam/take-the-dev-community-satisfaction-survey-3gja",
+  "publish_date": "2022-08-23",
+  "published_at": "2022-08-23T20:18:10Z"
+ },
+ {
+  "id": 1172604,
+  "title": "OAS is the most crtitical tool for API Developers",
+  "description": "Introduction   API security is a hot topic these days, with more and more businesses...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q6h4STVq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r0431rs3b8vtmtxtphno.png",
+  "slug": "oas-is-the-most-crtitical-tool-for-api-developers-3d1k",
+  "url": "https://dev.to/chainguns/oas-is-the-most-crtitical-tool-for-api-developers-3d1k",
+  "publish_date": "2022-08-23",
+  "published_at": "2022-08-23T14:31:33Z"
+ },
+ {
+  "id": 1174217,
+  "title": "18 Useful GitHub Repositories Every Developer Should Bookmark 👍💯",
+  "description": "I often get asked what resources and tips I would recommend for web developers. I decided to curate a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KyzgxqoT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ofoahawoba7xwkazx3jh.png",
+  "slug": "18-useful-github-repositories-every-developer-should-bookmark-2n99",
+  "url": "https://dev.to/madza/18-useful-github-repositories-every-developer-should-bookmark-2n99",
+  "publish_date": "2022-08-23",
+  "published_at": "2022-08-23T12:35:14Z"
+ },
+ {
+  "id": 1174053,
+  "title": "Why I Became a Software Developer - My Journey",
+  "description": "Subscribe to my newsletter to stay up to date on all of my upcoming articles. In the future, I plan...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8CvKgvzu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1acab9jufvb0iq9isvp.jpg",
+  "slug": "why-i-became-a-software-developer-my-journey-1bh8",
+  "url": "https://dev.to/andrewbaisden/why-i-became-a-software-developer-my-journey-1bh8",
+  "publish_date": "2022-08-23",
+  "published_at": "2022-08-23T09:43:00Z"
+ },
+ {
   "id": 1173206,
   "title": "Building a chat - Browser Notifications with React, Websockets and Web-Push 🤯",
   "description": "What is this article about?   We have all encountered chat over the web, that can be...",
@@ -850,22 +900,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/olaf_ranai/building-a-simple-invoice-generator-with-node-js-lah",
   "publish_date": "2022-05-16",
   "published_at": "2022-05-16T01:05:51Z"
- },
- {
-  "id": 1085979,
-  "title": "I Made 100 CSS Buttons for Your Next Project 💪",
-  "description": "Yes. I made 100 unique styles for buttons in CSS. Use them however you like. They’re for you. Get...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y0qeQy8f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6s0l2m6uc9nhdwepbes.gif",
-  "slug": "i-made-100-css-buttons-for-your-next-project-496p",
-  "url": "https://dev.to/eludadev/i-made-100-css-buttons-for-your-next-project-496p",
-  "publish_date": "2022-05-15",
-  "published_at": "2022-05-15T14:56:35Z"
- },
- {
-  "id": 1085846,
-  "title": "How I Built a Music Player to Showcase my own Tracks 🎵😍",
-  "description": "A while ago I built my portfolio and I wrote a custom audio player to showcase my tracks. Since then...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RYVYpeU3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3vrnarfflj37bwie51z8.png",
-  "slug": "how-i-built-a-music-player-to-showcase-my-own-tracks-3268",
-  "url": "https://dev.to/madza/how-i-built-a-music-player-to-showcase-my-own-tracks-3268",
-  "publish_date": "2022-05-15",
-  "published_at": "2022-05-15T14:32:22Z"
- },
- {
-  "id": 1085925,
-  "title": "Cache API in JavaScript - with just 20 lines of code.",
-  "description": "let cache = {}; async function getData(url){     let result = \"\";     if(cache[url] !== undefined)...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OgbV68oX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x1dkob6fbfuo5o1rpaly.png",
-  "slug": "cache-api-in-javascript-with-just-20-lines-of-code-49kg",
-  "url": "https://dev.to/rajeshroyal/cache-api-in-javascript-with-just-20-lines-of-code-49kg",
-  "publish_date": "2022-05-15",
-  "published_at": "2022-05-15T10:44:46Z"
- },
- {
-  "id": 1085843,
-  "title": "How My GitHub Profile Landed Me a Job at Spotify",
-  "description": "This is the experience of how my GitHub profile got me a job at Spotify. The key was my GitHub...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--elfgqrPI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ztjp77oie2t9ob36zq0a.png",
-  "slug": "how-my-github-profile-landed-me-a-job-at-spotify-4hnn",
-  "url": "https://dev.to/simeg/how-my-github-profile-landed-me-a-job-at-spotify-4hnn",
-  "publish_date": "2022-05-15",
-  "published_at": "2022-05-15T09:50:41Z"
- },
- {
-  "id": 1085679,
-  "title": "I was tired of making banners for my blogs, so I automated it",
-  "description": "I'm a very lazy person, and always procrastinate on the smallest of things - opening the image...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UyEte7MI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6zix5r51m0ic8elxvmlp.png",
-  "slug": "i-was-tired-of-making-banners-for-my-blogs-so-i-automated-it-5hnd",
-  "url": "https://dev.to/dhravya/i-was-tired-of-making-banners-for-my-blogs-so-i-automated-it-5hnd",
-  "publish_date": "2022-05-15",
-  "published_at": "2022-05-15T05:19:21Z"
  }
 ]
