@@ -1,5 +1,55 @@
 [
  {
+  "id": 1175447,
+  "title": "How to Build a Machine Learning Recommendation Engine w/ TensorFlow \u0026 HarperDB",
+  "description": "This article explains how to create a recommendation system using HarperDB and Custom...",
+  "cover_image": "",
+  "slug": "how-to-build-a-machine-learning-recommendation-engine-w-tensorflow-harperdb-51jo",
+  "url": "https://dev.to/harperdb/how-to-build-a-machine-learning-recommendation-engine-w-tensorflow-harperdb-51jo",
+  "publish_date": "2022-08-24",
+  "published_at": "2022-08-24T18:49:00Z"
+ },
+ {
+  "id": 1175067,
+  "title": "Text Animation in CSS",
+  "description": "Hello Guys today i am going to show you some CSS animation on text.All the animation i am showing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s4-CWPoM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcg6y2bgxjf5s1xl703h.png",
+  "slug": "text-animation-in-css-16j9",
+  "url": "https://dev.to/shubhamtiwari909/text-animation-in-css-16j9",
+  "publish_date": "2022-08-24",
+  "published_at": "2022-08-24T11:53:00Z"
+ },
+ {
+  "id": 1175003,
+  "title": "The 10 Best Extensions for Developers",
+  "description": "Hey there, How are you? In this article, you’ll see the 10 best Google Chrome extensions for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pm3fyuEO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wu942ft3c2jvpoeraeyp.png",
+  "slug": "the-10-best-extensions-for-developers-2blf",
+  "url": "https://dev.to/momen_2/the-10-best-extensions-for-developers-2blf",
+  "publish_date": "2022-08-24",
+  "published_at": "2022-08-24T09:43:11Z"
+ },
+ {
+  "id": 1174973,
+  "title": "Top 10 Github Repositories to Learn JavaScript.",
+  "description": "30 Days Of JavaScript - [http://ow.ly/wk3L50IL3nK] JavaScript Questions -...",
+  "cover_image": "",
+  "slug": "top-10-github-repositories-to-learn-javascript-3mlo",
+  "url": "https://dev.to/areedev/top-10-github-repositories-to-learn-javascript-3mlo",
+  "publish_date": "2022-08-24",
+  "published_at": "2022-08-24T09:02:25Z"
+ },
+ {
+  "id": 1174940,
+  "title": "How I Built A Web Development Challenges Website With $0 (And You Can Too!)",
+  "description": "If you're looking for inspiration to build your own side project, this blog post is for you! I'll...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gBTV7XIw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpvypokaz9lgj8kan4jb.jpeg",
+  "slug": "how-i-built-a-web-development-challenges-website-with-0-1alk",
+  "url": "https://dev.to/thefierycoder/how-i-built-a-web-development-challenges-website-with-0-1alk",
+  "publish_date": "2022-08-24",
+  "published_at": "2022-08-24T07:47:00Z"
+ },
+ {
   "id": 1171080,
   "title": "Resumability, WTF?",
   "description": "Maybe you've heard the term Resumability thrown around recently. Maybe someone gushing over Miško...",
@@ -900,22 +950,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ben/pitch-me-on-go-5ejo",
   "publish_date": "2022-05-17",
   "published_at": "2022-05-17T10:34:27Z"
- },
- {
-  "id": 1087037,
-  "title": "Pitch me on TypeScript",
-  "description": "Part of a new series! Feel welcome to dip in and weigh in on a past question.  Let's say I've never...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VWqbG9KO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9diui70swcgalf1pffrs.png",
-  "slug": "pitch-me-on-typescript-1n5n",
-  "url": "https://dev.to/ben/pitch-me-on-typescript-1n5n",
-  "publish_date": "2022-05-16",
-  "published_at": "2022-05-16T14:24:59Z"
- },
- {
-  "id": 1086790,
-  "title": "I have created 139 games in one year by patterning my game making",
-  "description": "I made 111 one-button mini-games in 2021. I also made other games besides one-button games, so the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qfLNJ2b9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gs4kqt9tb7ayvid7kerv.png",
-  "slug": "i-have-created-139-games-in-one-year-by-patterning-my-game-making-gc2",
-  "url": "https://dev.to/abagames/i-have-created-139-games-in-one-year-by-patterning-my-game-making-gc2",
-  "publish_date": "2022-05-16",
-  "published_at": "2022-05-16T09:37:00Z"
- },
- {
-  "id": 1086099,
-  "title": "How to Build Dynamic Website with APIs, Without Backend Coding! 😮",
-  "description": "For those who doesn't know, Dev Community announced a hackathon for Appwrite in the past month. I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pFCxLuHj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nldtxbaf86nbnix7te1o.png",
-  "slug": "how-to-build-dynamic-website-with-apis-without-backend-coding-5g18",
-  "url": "https://dev.to/moose_said/how-to-build-dynamic-website-with-apis-without-backend-coding-5g18",
-  "publish_date": "2022-05-16",
-  "published_at": "2022-05-16T07:26:16Z"
- },
- {
-  "id": 1086631,
-  "title": "How to speed up a Web App loading time by 10x faster!",
-  "description": "Hello folks, Today I will discuss, how I speeded up the loading time of my Web App built using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iwNQn493--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f0pf8na6ahahhthpwhlq.png",
-  "slug": "how-to-speed-up-a-web-app-loading-time-by-10x-faster-1oke",
-  "url": "https://dev.to/mtwn105/how-to-speed-up-a-web-app-loading-time-by-10x-faster-1oke",
-  "publish_date": "2022-05-16",
-  "published_at": "2022-05-16T05:40:38Z"
- },
- {
-  "id": 1086495,
-  "title": "Building a simple invoice generator with Node Js",
-  "description": "Why ❓🤔   After each online coaching sessions, at the beginning, that was a pain to find a...",
-  "cover_image": "",
-  "slug": "building-a-simple-invoice-generator-with-node-js-lah",
-  "url": "https://dev.to/olaf_ranai/building-a-simple-invoice-generator-with-node-js-lah",
-  "publish_date": "2022-05-16",
-  "published_at": "2022-05-16T01:05:51Z"
  }
 ]
