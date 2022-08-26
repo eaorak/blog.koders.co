@@ -1,5 +1,55 @@
 [
  {
+  "id": 1175973,
+  "title": "How I got my first job as a developer by making simple projects seem big",
+  "description": "This article was originally published on Hashnode for the 4 Articles in 4 Weeks - Hashnode...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f2Jl00kZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rarbgb13upbv6x9lo6rm.png",
+  "slug": "how-i-got-my-first-job-as-a-developer-by-making-simple-projects-seem-big-48oi",
+  "url": "https://dev.to/yuridevat/how-i-got-my-first-job-as-a-developer-by-making-simple-projects-seem-big-48oi",
+  "publish_date": "2022-08-25",
+  "published_at": "2022-08-25T12:20:36Z"
+ },
+ {
+  "id": 1175885,
+  "title": "An API Validation Aggravation",
+  "description": "API specification validation   API specification validation is the process of verifying that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TRLo2Hnr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z0ytbmsluhf6c9f6m0ad.png",
+  "slug": "an-api-validation-aggravation-1fif",
+  "url": "https://dev.to/apimike/an-api-validation-aggravation-1fif",
+  "publish_date": "2022-08-25",
+  "published_at": "2022-08-25T09:48:00Z"
+ },
+ {
+  "id": 1008892,
+  "title": "4 Best Practices for Shopify Web Development in 2022",
+  "description": "The retail marketing ecosystem is increasingly influenced by the technological shift of streaming...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---73HqmMl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ox7mk971l91xnhtapl02.jpg",
+  "slug": "4-best-practices-for-shopify-web-development-in-2022-26h0",
+  "url": "https://dev.to/elenamia/4-best-practices-for-shopify-web-development-in-2022-26h0",
+  "publish_date": "2022-08-25",
+  "published_at": "2022-08-25T09:28:30Z"
+ },
+ {
+  "id": 1175879,
+  "title": "O/RM is like adding brain damage to your database",
+  "description": "O/RM is the art of fitting a square peg into a round hole. Your SQL database is based upon records...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7ZiAE3b4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a28l9mp0d8lvm18itmey.jpeg",
+  "slug": "orm-is-like-adding-brain-damage-to-your-database-kf4",
+  "url": "https://dev.to/polterguy/orm-is-like-adding-brain-damage-to-your-database-kf4",
+  "publish_date": "2022-08-25",
+  "published_at": "2022-08-25T09:07:00Z"
+ },
+ {
+  "id": 1175801,
+  "title": "Cherrybomb 0.7 is now GA",
+  "description": "What is Cherrybomb?   Cherrybomb is a CLI tool that helps you avoid undefined user behavior...",
+  "cover_image": "",
+  "slug": "cherrybomb-07-is-now-ga-42i7",
+  "url": "https://dev.to/omerwow/cherrybomb-07-is-now-ga-42i7",
+  "publish_date": "2022-08-25",
+  "published_at": "2022-08-25T07:57:31Z"
+ },
+ {
   "id": 1175447,
   "title": "How to Build a Machine Learning Recommendation Engine w/ TensorFlow \u0026 HarperDB",
   "description": "This article explains how to create a recommendation system using HarperDB and Custom...",
@@ -950,22 +1000,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/asheeshh/share-your-code-editoride-setup-1nlp",
   "publish_date": "2022-05-18",
   "published_at": "2022-05-18T03:22:15Z"
- },
- {
-  "id": 1075776,
-  "title": "Swiftly Awaiting Async Code Using Appwrite",
-  "description": "Modern application development with Swift involves a lot of asynchronous (or \"async\") programming...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mTCVGDU7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/54zuep8lgvjnjib5kn2g.png",
-  "slug": "swiftly-awaiting-async-code-using-appwrite-1c6c",
-  "url": "https://dev.to/appwrite/swiftly-awaiting-async-code-using-appwrite-1c6c",
-  "publish_date": "2022-05-17",
-  "published_at": "2022-05-17T16:02:55Z"
- },
- {
-  "id": 1087724,
-  "title": "Announcing Appwrite 0.14 with 11 Cloud Function Runtimes! 🥳",
-  "description": "We're back with yet another Appwrite release! Appwrite 0.14 is now LIVE with a lot more improvements!...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lsGfWOrC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8uqygnb62mgo12lgyv7m.jpg",
-  "slug": "announcing-appwrite-014-with-11-cloud-function-runtimes-36f5",
-  "url": "https://dev.to/appwrite/announcing-appwrite-014-with-11-cloud-function-runtimes-36f5",
-  "publish_date": "2022-05-17",
-  "published_at": "2022-05-17T15:04:13Z"
- },
- {
-  "id": 1084248,
-  "title": "GitLive Now Works With Any Git Repository in WebStorm!",
-  "description": "We are happy to announce GitLive now works, out-of-the-box in offline mode, with any Git repository...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8PqEgQn5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5kjxt14y7zp2p54rgxat.png",
-  "slug": "gitlive-now-works-with-any-git-repository-in-webstorm-39bh",
-  "url": "https://dev.to/gitlive/gitlive-now-works-with-any-git-repository-in-webstorm-39bh",
-  "publish_date": "2022-05-17",
-  "published_at": "2022-05-17T11:52:07Z"
- },
- {
-  "id": 1087796,
-  "title": "I made your stupid app ideas!",
-  "description": "About a week ago, I asked you guys to give me stupid app ideas to make  I made a few of them, let me...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xj_IlTAe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ze7l6135lmxehejfo9qh.png",
-  "slug": "i-made-your-stupid-app-ideas-428b",
-  "url": "https://dev.to/virejdasani/i-made-your-stupid-app-ideas-428b",
-  "publish_date": "2022-05-17",
-  "published_at": "2022-05-17T10:36:01Z"
- },
- {
-  "id": 1087795,
-  "title": "Pitch me on Go",
-  "description": "Part of a new series! Feel welcome to dip in and weigh in on a past question.  Let's say I've never...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EVx0f1n5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jtobjdvwkwsy4htgaqp8.png",
-  "slug": "pitch-me-on-go-5ejo",
-  "url": "https://dev.to/ben/pitch-me-on-go-5ejo",
-  "publish_date": "2022-05-17",
-  "published_at": "2022-05-17T10:34:27Z"
  }
 ]
