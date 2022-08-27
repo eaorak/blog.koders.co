@@ -1,5 +1,55 @@
 [
  {
+  "id": 1176778,
+  "title": "Creating a React search bar and content filtering components",
+  "description": "Introduction   Filtering systems are common for most modern web applications. They are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_Xqi0KVV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i0r6nmmxmx5y4qpfef22.png",
+  "slug": "creating-a-react-search-bar-and-content-filtering-components-2b1g",
+  "url": "https://dev.to/refine/creating-a-react-search-bar-and-content-filtering-components-2b1g",
+  "publish_date": "2022-08-26",
+  "published_at": "2022-08-26T12:38:16Z"
+ },
+ {
+  "id": 1176747,
+  "title": "Free Alternatives to Heroku",
+  "description": "Given the recent news about Heroku bringing an end to free dynos and PostgreSQL databases, what other...",
+  "cover_image": "",
+  "slug": "free-alternatives-to-heroku-3jh9",
+  "url": "https://dev.to/daveson217/free-alternatives-to-heroku-3jh9",
+  "publish_date": "2022-08-26",
+  "published_at": "2022-08-26T10:28:07Z"
+ },
+ {
+  "id": 1099796,
+  "title": "16 Top NodeJS tools to make you a better developer",
+  "description": "NodeJS is growing in popularity since its inception.    30 million websites use NodeJS Back in 2018,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c3-sjFSF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfx9f8eg7dfrohop1upl.png",
+  "slug": "16-top-nodejs-tools-to-make-you-a-better-developer-3nde",
+  "url": "https://dev.to/codemonkcm/16-top-nodejs-tools-to-make-you-a-better-developer-3nde",
+  "publish_date": "2022-08-26",
+  "published_at": "2022-08-26T08:15:48Z"
+ },
+ {
+  "id": 1176415,
+  "title": "Heroku is removing the free tier",
+  "description": "If you are anything like me, you have a few small projects that you are hosting on Heroku. Read on to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L9EJlh5q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u8idfv9e0bhu64d6bqgk.jpg",
+  "slug": "more-heroku-changes-that-will-definitely-affect-you-10o8",
+  "url": "https://dev.to/lukeecart/more-heroku-changes-that-will-definitely-affect-you-10o8",
+  "publish_date": "2022-08-26",
+  "published_at": "2022-08-26T07:28:00Z"
+ },
+ {
+  "id": 1176578,
+  "title": "Why JavaScript Promises are awesome",
+  "description": "What is a Promise?   A promise, in computer science, is basically a concept that handles a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3iMJpaD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1wa8dic6hiaa4uxg4sg.png",
+  "slug": "why-javascript-promises-are-awesome-4obk",
+  "url": "https://dev.to/methmi/why-javascript-promises-are-awesome-4obk",
+  "publish_date": "2022-08-26",
+  "published_at": "2022-08-26T04:34:00Z"
+ },
+ {
   "id": 1175973,
   "title": "How I got my first job as a developer by making simple projects seem big",
   "description": "This article was originally published on Hashnode for the 4 Articles in 4 Weeks - Hashnode...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devteam/have-you-considered-starting-a-company-4mgm",
   "publish_date": "2022-05-19",
   "published_at": "2022-05-19T01:10:35Z"
- },
- {
-  "id": 1089235,
-  "title": "How the DEV {% embed %} codes were created 🎙",
-  "description": "In this week's episode of DevDiscuss, we welcomed @aritdeveloper and @jeremyf from the Forem team to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ehsLmyOa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zrxbbyftfcqrc9x875c.png",
-  "slug": "how-the-dev-embed-codes-were-created-12aj",
-  "url": "https://dev.to/devteam/how-the-dev-embed-codes-were-created-12aj",
-  "publish_date": "2022-05-18",
-  "published_at": "2022-05-18T19:47:13Z"
- },
- {
-  "id": 1087408,
-  "title": "Show Off Your Comment Streak with Community Wellness Badges",
-  "description": "Hey DEV Community! I'm here to share an exciting announcement with you 🗣️          ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--clWsoi8R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w75oqliannbz1dh8fnja.png",
-  "slug": "show-off-your-comment-streak-with-community-wellness-badges-k7f",
-  "url": "https://dev.to/devteam/show-off-your-comment-streak-with-community-wellness-badges-k7f",
-  "publish_date": "2022-05-18",
-  "published_at": "2022-05-18T18:08:39Z"
- },
- {
-  "id": 1079618,
-  "title": "Manipulating the DOM using Javascript - how to select nodes (part 1) 👨🏼‍🔬🎯",
-  "description": "In the beginning, websites were entirely made out of HTML and they could only display text (back in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1d9PCQ7Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/da2hfeal3hhow50ra8u3.jpg",
-  "slug": "manipulating-the-dom-using-javascript-how-to-select-nodes-part-1-38j",
-  "url": "https://dev.to/arikaturika/manipulating-the-dom-using-javascript-how-to-select-nodes-part-1-38j",
-  "publish_date": "2022-05-18",
-  "published_at": "2022-05-18T06:54:17Z"
- },
- {
-  "id": 1084266,
-  "title": "Merging Pull Requests Like a Pro With Mergify",
-  "description": "If you have been using Git for sometime now, I am sure working with Pull Requests is now a second...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uwc9uSVl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k4ad4sdtpo9v0douknv4.png",
-  "slug": "merging-pull-requests-like-a-pro-with-mergify-30fa",
-  "url": "https://dev.to/aniket762/merging-pull-requests-like-a-pro-with-mergify-30fa",
-  "publish_date": "2022-05-18",
-  "published_at": "2022-05-18T04:43:29Z"
- },
- {
-  "id": 1088535,
-  "title": "What's your current code editor/IDE setup?",
-  "description": "Coding without a code editor or IDE is unimaginable unless you use notepad. So, what's you current...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EZlrIlZQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rc4igdnbnt6qn7ebs7nd.png",
-  "slug": "share-your-code-editoride-setup-1nlp",
-  "url": "https://dev.to/asheeshh/share-your-code-editoride-setup-1nlp",
-  "publish_date": "2022-05-18",
-  "published_at": "2022-05-18T03:22:15Z"
  }
 ]
