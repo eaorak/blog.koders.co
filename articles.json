@@ -1,5 +1,55 @@
 [
  {
+  "id": 1177625,
+  "title": "What the Heck Is Project Loom for Java?",
+  "description": "What the heck is Java's Project Loom and what does it mean for regular Java developers?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4cVBvijy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/7FfOmmD.jpeg",
+  "slug": "what-the-heck-is-project-loom-for-java-21hh",
+  "url": "https://dev.to/oktadev/what-the-heck-is-project-loom-for-java-21hh",
+  "publish_date": "2022-08-27",
+  "published_at": "2022-08-27T14:29:25Z"
+ },
+ {
+  "id": 1177413,
+  "title": "The Modern Refresher to React Development in 2022",
+  "description": "There’s no denying that React is the most popular web framework out there. This fact is even proven...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GWeuYjtI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8ew7nn6k75rbo4m6hg7.png",
+  "slug": "the-modern-refresher-to-react-development-in-2022-8ai",
+  "url": "https://dev.to/eludadev/the-modern-refresher-to-react-development-in-2022-8ai",
+  "publish_date": "2022-08-27",
+  "published_at": "2022-08-27T07:46:00Z"
+ },
+ {
+  "id": 1177411,
+  "title": "Add Google Authentication to your NextJs project using NextAuth.js",
+  "description": "Next-Auth is a complete open-source authentication for Next.Js applications. You can learn more about...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rI5dcx_f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lnv0r3x20jp40a5ber63.png",
+  "slug": "add-google-authentication-in-your-nextjs-project-using-nextauthjs-39m",
+  "url": "https://dev.to/shubhamku044/add-google-authentication-in-your-nextjs-project-using-nextauthjs-39m",
+  "publish_date": "2022-08-27",
+  "published_at": "2022-08-27T07:21:00Z"
+ },
+ {
+  "id": 1124483,
+  "title": "9 useful code snippets for everyday JavaScript development || Part 2",
+  "description": "Hello Everyone  Welcome to this JS code snippets series. Thanks a lot for all the love to the 1st...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--THNdmb6l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w6h5p3ilbctefq230ifw.png",
+  "slug": "9-useful-code-snippets-for-everyday-javascript-development-part-2-470",
+  "url": "https://dev.to/swastikyadav/9-useful-code-snippets-for-everyday-javascript-development-part-2-470",
+  "publish_date": "2022-08-27",
+  "published_at": "2022-08-27T07:16:47Z"
+ },
+ {
+  "id": 1177381,
+  "title": "Self Host Heroku Alternative",
+  "description": "Heroku is removing their free tier, as a free PaaS, its free tier is very friendly for #webdev. As a...",
+  "cover_image": "",
+  "slug": "self-host-heroku-alternative-40l4",
+  "url": "https://dev.to/timhub/self-host-heroku-alternative-40l4",
+  "publish_date": "2022-08-27",
+  "published_at": "2022-08-27T07:06:32Z"
+ },
+ {
   "id": 1176778,
   "title": "Creating a React search bar and content filtering components",
   "description": "Introduction   Filtering systems are common for most modern web applications. They are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/israelmitolu/learn-how-react-context-api-works-by-building-a-minimal-ecommerce-shopping-app-2479",
   "publish_date": "2022-05-20",
   "published_at": "2022-05-20T10:14:00Z"
- },
- {
-  "id": 1090093,
-  "title": "16 Useful Background Generators for Your Website Designs 🎨😍",
-  "description": "Have you ever struggled to create engaging visuals for products, branding, and interfaces? The...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KISYmeau--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nvc48pp9761p38jhjutt.png",
-  "slug": "16-useful-background-generators-for-your-website-designs-457n",
-  "url": "https://dev.to/madza/16-useful-background-generators-for-your-website-designs-457n",
-  "publish_date": "2022-05-19",
-  "published_at": "2022-05-19T17:21:50Z"
- },
- {
-  "id": 1089247,
-  "title": "Interested in getting deeper into Web Components?",
-  "description": "I want to highlight the launch of The Web Components Community!  This is a new Forem dedicated to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QG_TRZZ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h77i5l7mlirg3471p55v.png",
-  "slug": "interested-in-getting-deeper-into-web-components-1dom",
-  "url": "https://dev.to/devteam/interested-in-getting-deeper-into-web-components-1dom",
-  "publish_date": "2022-05-19",
-  "published_at": "2022-05-19T14:06:26Z"
- },
- {
-  "id": 1089388,
-  "title": "Happy Global Accessibility Awareness Day!",
-  "description": "In the spirit of raising awareness for this celebration dedicated to raising awareness of digital access and inclusion, here are some of our favorite past a11y posts on DEV.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uvKc5KAo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yxllm5v71qzvqhj8vv4c.png",
-  "slug": "happy-global-accessibility-awareness-day-18i6",
-  "url": "https://dev.to/devteam/happy-global-accessibility-awareness-day-18i6",
-  "publish_date": "2022-05-19",
-  "published_at": "2022-05-19T13:18:13Z"
- },
- {
-  "id": 1089754,
-  "title": "React Hooks Best Practices in 2022",
-  "description": "Class-based components previously had access to React capabilities like state and lifecycle...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UMlDQfP3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hotyuti3n2a303id094m.jpg",
-  "slug": "react-hooks-best-practices-in-2022-4bh0",
-  "url": "https://dev.to/kuldeeptarapara/react-hooks-best-practices-in-2022-4bh0",
-  "publish_date": "2022-05-19",
-  "published_at": "2022-05-19T11:08:16Z"
- },
- {
-  "id": 1089392,
-  "title": "Have you considered starting a company?",
-  "description": "This post is part of the Mayfield + DEV Discussion series. Please feel free to go back and answer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qfKZ38Rg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m4jn63dgidq2r1r2d9sh.png",
-  "slug": "have-you-considered-starting-a-company-4mgm",
-  "url": "https://dev.to/devteam/have-you-considered-starting-a-company-4mgm",
-  "publish_date": "2022-05-19",
-  "published_at": "2022-05-19T01:10:35Z"
  }
 ]
