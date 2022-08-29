@@ -1,5 +1,55 @@
 [
  {
+  "id": 1175932,
+  "title": "How React and NextJS can power your next web project",
+  "description": "I have decided to go with React and NextJS and see how they make the perfect combination. In the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6dT2WUsI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/92s8kpqimk30n015x8ga.png",
+  "slug": "how-react-and-nextjs-can-power-your-next-web-project-439d",
+  "url": "https://dev.to/annabaker/how-react-and-nextjs-can-power-your-next-web-project-439d",
+  "publish_date": "2022-08-28",
+  "published_at": "2022-08-28T15:38:03Z"
+ },
+ {
+  "id": 1177017,
+  "title": "I made all countries' flags using HTML \u0026 CSS",
+  "description": "This article is special, you may ask why. It is because, in my last article CSS Flag: India, I said-...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UB9n6sOG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bq099o7ud7g1xj3fa2at.png",
+  "slug": "i-made-all-countries-flags-using-html-css-4cnc",
+  "url": "https://dev.to/j471n/i-made-all-countries-flags-using-html-css-4cnc",
+  "publish_date": "2022-08-28",
+  "published_at": "2022-08-28T09:08:11Z"
+ },
+ {
+  "id": 1177986,
+  "title": "Variadic Currying in JavaScript",
+  "description": "Introduction   In this post, we first look at the confusion around currying in JavaScript,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GSC2wT55--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qrf73ait55ps4y90n51t.png",
+  "slug": "variadic-currying-in-javascript-nj9",
+  "url": "https://dev.to/refine/variadic-currying-in-javascript-nj9",
+  "publish_date": "2022-08-28",
+  "published_at": "2022-08-28T08:30:17Z"
+ },
+ {
+  "id": 1177927,
+  "title": "7 neat tricks for JS that you probably did not know",
+  "description": "Got tired of learning and want to get some cool tricks up your sleeve to earn the right to show off?...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OHDTK9BV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f263nocop0yni6w4d3ot.jpg",
+  "slug": "7-neat-tricks-for-js-that-you-probably-did-not-know-358d",
+  "url": "https://dev.to/ruppysuppy/7-neat-tricks-for-js-that-you-probably-did-not-know-358d",
+  "publish_date": "2022-08-28",
+  "published_at": "2022-08-28T05:02:31Z"
+ },
+ {
+  "id": 1177903,
+  "title": "Pass The AWS Certified Solution Architect - Associate (SAA-CO3)",
+  "description": "I passed the AWS Certified Solutions Architect — Associate exam (SAA-C02) on Nov 12, 2021....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eF-t_kPU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tfhzzm7o7glz6pwsafm.jpeg",
+  "slug": "pass-the-aws-certified-solution-architect-associate-saa-co3-523p",
+  "url": "https://dev.to/jordan_t/pass-the-aws-certified-solution-architect-associate-saa-co3-523p",
+  "publish_date": "2022-08-28",
+  "published_at": "2022-08-28T02:27:00Z"
+ },
+ {
   "id": 1177625,
   "title": "What the Heck Is Project Loom for Java?",
   "description": "What the heck is Java's Project Loom and what does it mean for regular Java developers?",
@@ -1100,22 +1150,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/asheeshh/how-i-created-a-minimal-linktree-like-page-for-me-in-just-2-hours-ncp",
   "publish_date": "2022-05-21",
   "published_at": "2022-05-21T05:20:07Z"
- },
- {
-  "id": 1091159,
-  "title": "What *new* technologies do you most want to learn?",
-  "description": "Only talking about relatively new technologies, what is most appealing to you? Why do you want to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bD-_RFVo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dt0td2wfnul7ijc42ch6.png",
-  "slug": "what-new-technologies-do-you-most-want-to-learn-34kb",
-  "url": "https://dev.to/devteam/what-new-technologies-do-you-most-want-to-learn-34kb",
-  "publish_date": "2022-05-20",
-  "published_at": "2022-05-20T15:37:52Z"
- },
- {
-  "id": 1073952,
-  "title": "Cloud Functions Using the New Java Runtime",
-  "description": "One of the highlights of Appwrite’s latest release is the addition of four new Cloud Function...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4tt9Zam1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1m3mkwmln1fe44xiz29t.png",
-  "slug": "cloud-functions-using-the-new-java-runtime-39j0",
-  "url": "https://dev.to/appwrite/cloud-functions-using-the-new-java-runtime-39j0",
-  "publish_date": "2022-05-20",
-  "published_at": "2022-05-20T12:21:02Z"
- },
- {
-  "id": 1073949,
-  "title": "Cloud Functions Using the New Kotlin Runtime",
-  "description": "One of the highlights of Appwrite’s latest release is the addition of four new Cloud Function...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YmuDvylZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0weulru08wmviow6ddl8.png",
-  "slug": "cloud-functions-using-the-new-kotlin-runtime-3ejo",
-  "url": "https://dev.to/appwrite/cloud-functions-using-the-new-kotlin-runtime-3ejo",
-  "publish_date": "2022-05-20",
-  "published_at": "2022-05-20T12:02:18Z"
- },
- {
-  "id": 1090850,
-  "title": "Tech Companies Can Endure Recession If They Fix This One Neglected Cost Item",
-  "description": "As the global economy flounders, investors rush to safer equities and VCs are no longer amused by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pftZXO1M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjmjueuyh33a0mxwfqfj.jpg",
-  "slug": "tech-companies-can-endure-recession-if-they-fix-this-one-neglected-cost-item-41l",
-  "url": "https://dev.to/castai/tech-companies-can-endure-recession-if-they-fix-this-one-neglected-cost-item-41l",
-  "publish_date": "2022-05-20",
-  "published_at": "2022-05-20T11:08:18Z"
- },
- {
-  "id": 1090732,
-  "title": "Learn how React Context API works by Building a Minimal Ecommerce Shopping App",
-  "description": "So, this is a project that has been on my mind for a while, but I didn't put much thought or effort...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CX6NYaV2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z09tf70qah4lawngdy2z.png",
-  "slug": "learn-how-react-context-api-works-by-building-a-minimal-ecommerce-shopping-app-2479",
-  "url": "https://dev.to/israelmitolu/learn-how-react-context-api-works-by-building-a-minimal-ecommerce-shopping-app-2479",
-  "publish_date": "2022-05-20",
-  "published_at": "2022-05-20T10:14:00Z"
  }
 ]
