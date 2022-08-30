@@ -1,5 +1,55 @@
 [
  {
+  "id": 1178381,
+  "title": "Building an aircraft radar system in JavaScript",
+  "description": "A few years ago, I came across an awesome talk by Thomas Watson in which he talks about how he built AirplaneJS, a web app that picks up ADS-B radio signals from airplanes and plots them in real time on a map in the browser. I had no idea this was possible in JavaScript so I started looking into it.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--66WINFhG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/devdevcharlie/image/upload/v1661734283/Group_36_i7nacq.png",
+  "slug": "building-an-aircraft-radar-system-in-javascript-4ml8",
+  "url": "https://dev.to/devdevcharlie/building-an-aircraft-radar-system-in-javascript-4ml8",
+  "publish_date": "2022-08-29",
+  "published_at": "2022-08-29T16:00:41Z"
+ },
+ {
+  "id": 1178886,
+  "title": "Meme Monday!! 🥹",
+  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AxfbC8GJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/di8k2n36tghwn05p0s5m.png",
+  "slug": "meme-monday-lee",
+  "url": "https://dev.to/ben/meme-monday-lee",
+  "publish_date": "2022-08-29",
+  "published_at": "2022-08-29T14:59:59Z"
+ },
+ {
+  "id": 1178589,
+  "title": "I implemented the DEV Community Notification Center with React, Novu and Websockets 🔥",
+  "description": "What is this article about?   No matter what application you are building, you will probably...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9mHTXI3S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ljm25xdsixhc11o2qled.png",
+  "slug": "i-implemented-the-dev-community-notification-center-with-react-novu-and-websockets-7fk",
+  "url": "https://dev.to/novu/i-implemented-the-dev-community-notification-center-with-react-novu-and-websockets-7fk",
+  "publish_date": "2022-08-29",
+  "published_at": "2022-08-29T14:57:00Z"
+ },
+ {
+  "id": 774944,
+  "title": "🔥🔥 Typescript New Version Features",
+  "description": "TypeScript is a programming language developed and maintained by Microsoft. It is a strict...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2kFiInKm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqz6z2tqrpqkwd0efvww.jpg",
+  "slug": "typescript-new-version-features-opc",
+  "url": "https://dev.to/stacksjar/typescript-new-version-features-opc",
+  "publish_date": "2022-08-29",
+  "published_at": "2022-08-29T10:17:00Z"
+ },
+ {
+  "id": 1178637,
+  "title": "5 Most Common useState Mistakes React Developers Often Make",
+  "description": "Introduction   The most challenging aspect of developing any application is often managing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bd9ncr_L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwypzqq79uayyyj6ff9.png",
+  "slug": "5-most-common-usestate-mistakes-react-developers-often-make-3aig",
+  "url": "https://dev.to/refine/5-most-common-usestate-mistakes-react-developers-often-make-3aig",
+  "publish_date": "2022-08-29",
+  "published_at": "2022-08-29T09:26:00Z"
+ },
+ {
   "id": 1175932,
   "title": "How React and NextJS can power your next web project",
   "description": "I have decided to go with React and NextJS and see how they make the perfect combination. In the...",
@@ -1150,22 +1200,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bekbrace/as-a-developer-i-hate--3g2e",
   "publish_date": "2022-05-22",
   "published_at": "2022-05-22T09:54:49Z"
- },
- {
-  "id": 1079294,
-  "title": "Creating Responsive Website Design.",
-  "description": "Making a Responsive webpage can sometime go...       The goal of a Responsive web design is about...",
-  "cover_image": "",
-  "slug": "creating-responsive-website-design-1mik",
-  "url": "https://dev.to/prudence97/creating-responsive-website-design-1mik",
-  "publish_date": "2022-05-21",
-  "published_at": "2022-05-21T13:19:46Z"
- },
- {
-  "id": 1091566,
-  "title": "TypeScript for Beginners",
-  "description": "A quick view of the everyday types.   TypeScript has been one interesting thing amongst...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---mZGFk7R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r26bsvdelujg50eox2r8.png",
-  "slug": "typescript-for-beginners-50h0",
-  "url": "https://dev.to/romeopeter/typescript-for-beginners-50h0",
-  "publish_date": "2022-05-21",
-  "published_at": "2022-05-21T13:08:46Z"
- },
- {
-  "id": 1091836,
-  "title": "Roast the code #1 | Rock Paper Scissors",
-  "description": "Hey there! 👋  I'm starting a new series called \"Roast the Code\", where I will share some code, and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UnAfrEG8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/icohm5g0axh9wjmu4oc3.png",
-  "slug": "roast-the-code-1-rock-paper-scissors-2fdl",
-  "url": "https://dev.to/nombrekeff/roast-the-code-1-rock-paper-scissors-2fdl",
-  "publish_date": "2022-05-21",
-  "published_at": "2022-05-21T09:56:45Z"
- },
- {
-  "id": 1091793,
-  "title": "A brief introduction to Dart",
-  "description": "Hey folks 👋  I am Denyse, this series is first chapter I want to write about flutter in the future...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CmPZVdAM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cbmk9vgy1w3zr7e2wd4l.jpg",
-  "slug": "a-briefly-introduction-to-dart-1p7m",
-  "url": "https://dev.to/dmutoni/a-briefly-introduction-to-dart-1p7m",
-  "publish_date": "2022-05-21",
-  "published_at": "2022-05-21T06:37:12Z"
- },
- {
-  "id": 1091680,
-  "title": "How I created a minimal linktree like page for me in just 2 hours.",
-  "description": "The Plan   I have seen a lot of people using linktree and similar sites where you can create...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A03pcc0g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ujsrlukqqvt2dm3f7ykp.png",
-  "slug": "how-i-created-a-minimal-linktree-like-page-for-me-in-just-2-hours-ncp",
-  "url": "https://dev.to/asheeshh/how-i-created-a-minimal-linktree-like-page-for-me-in-just-2-hours-ncp",
-  "publish_date": "2022-05-21",
-  "published_at": "2022-05-21T05:20:07Z"
  }
 ]
