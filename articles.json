@@ -1,5 +1,55 @@
 [
  {
+  "id": 1179510,
+  "title": "How to handle dart application exceptions ?",
+  "description": "Talker - package to handle dart application exceptions.                        🚀  The main goal of...",
+  "cover_image": "",
+  "slug": "how-to-handle-dart-application-exceptions--2pdf",
+  "url": "https://dev.to/frezyx/how-to-handle-dart-application-exceptions--2pdf",
+  "publish_date": "2022-08-30",
+  "published_at": "2022-08-30T13:59:39Z"
+ },
+ {
+  "id": 1179741,
+  "title": "Open Source Bait and Switch",
+  "description": "I was reading this article and wanted to post a comment but I felt this warrants a response article....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--octRULKs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itrkg3fo1lm4vzupsf4i.png",
+  "slug": "open-source-bait-and-switch-1g34",
+  "url": "https://dev.to/codenameone/open-source-bait-and-switch-1g34",
+  "publish_date": "2022-08-30",
+  "published_at": "2022-08-30T13:27:11Z"
+ },
+ {
+  "id": 1179625,
+  "title": "The Five Worst Things About Jupyter Notebooks",
+  "description": "I used to love Jupyter. I still think they are a wonderful tool for many tasks like exploratory data...",
+  "cover_image": "",
+  "slug": "the-five-worst-things-about-jupyter-notebooks-5d4o",
+  "url": "https://dev.to/chainguns/the-five-worst-things-about-jupyter-notebooks-5d4o",
+  "publish_date": "2022-08-30",
+  "published_at": "2022-08-30T12:57:02Z"
+ },
+ {
+  "id": 1179576,
+  "title": "Composable vs. Monolitch architecture: Uncovering recent composable hype",
+  "description": "In recent years, many businesses have switched their tech stack from a monolithic architecture to a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dm4oqlCn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cy4unkf8a50rrivtymgy.jpg",
+  "slug": "composable-vs-monolitch-architecture-uncovering-recent-composable-hype-5d06",
+  "url": "https://dev.to/medusajs/composable-vs-monolitch-architecture-uncovering-recent-composable-hype-5d06",
+  "publish_date": "2022-08-30",
+  "published_at": "2022-08-30T11:31:50Z"
+ },
+ {
+  "id": 1179497,
+  "title": "Top WebStorm Plugins To Level Up Your Productivity",
+  "description": "A while ago I migrated from VS Code to WebStorm, and it’s been great. Like all JetBrains IDEs, it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KhRtmH2S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5di1cq1tgmstabv46a57.png",
+  "slug": "top-webstorm-plugins-to-level-up-your-productivity-4439",
+  "url": "https://dev.to/jamieswift90/top-webstorm-plugins-to-level-up-your-productivity-4439",
+  "publish_date": "2022-08-30",
+  "published_at": "2022-08-30T08:51:41Z"
+ },
+ {
   "id": 1178381,
   "title": "Building an aircraft radar system in JavaScript",
   "description": "A few years ago, I came across an awesome talk by Thomas Watson in which he talks about how he built AirplaneJS, a web app that picks up ADS-B radio signals from airplanes and plots them in real time on a map in the browser. I had no idea this was possible in JavaScript so I started looking into it.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/asheeshh/do-you-remember-the-first-project-made-by-you-2ap8",
   "publish_date": "2022-05-23",
   "published_at": "2022-05-23T01:29:16Z"
- },
- {
-  "id": 1092755,
-  "title": "Top 15 Vim shortcuts to remember",
-  "description": "Introduction   If you ever installed Linux in your life, I'm sure you might have come across...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xyTL4fiZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v9ign0a2iz04q0dwwjpj.png",
-  "slug": "top-15-vim-shortcuts-to-remember-5523",
-  "url": "https://dev.to/kcdchennai/top-15-vim-shortcuts-to-remember-5523",
-  "publish_date": "2022-05-22",
-  "published_at": "2022-05-22T16:27:36Z"
- },
- {
-  "id": 1092708,
-  "title": "Pitch me on C++",
-  "description": "Continuing the series! Feel welcome to dip in and weigh in on a past question.  Let's say I've never...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nHN2c2tp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lm8wn6bwjtibldnp41wb.png",
-  "slug": "pitch-me-on-c-456j",
-  "url": "https://dev.to/ben/pitch-me-on-c-456j",
-  "publish_date": "2022-05-22",
-  "published_at": "2022-05-22T13:40:11Z"
- },
- {
-  "id": 1092706,
-  "title": "React vs. Svelte",
-  "description": "Introduction   More and more often we hear about a relatively new web framework to develop...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u_L-pOWR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e3gcukzzsn4par407hcu.jpg",
-  "slug": "react-vs-svelte-25e6",
-  "url": "https://dev.to/northwillov/react-vs-svelte-25e6",
-  "publish_date": "2022-05-22",
-  "published_at": "2022-05-22T13:25:34Z"
- },
- {
-  "id": 1092695,
-  "title": "Build a carousel postcard like Instagram with Reactjs, Material-UI, and Swiperjs",
-  "description": "Live demo   You can demo the website from here             Video Tutorial   I have already...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EAn9tsA3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bc230wnpe9vparz1chzp.png",
-  "slug": "build-a-carousel-postcard-like-instagram-with-reactjs-material-ui-and-swiperjs-39cg",
-  "url": "https://dev.to/thatanjan/build-a-carousel-postcard-like-instagram-with-reactjs-material-ui-and-swiperjs-39cg",
-  "publish_date": "2022-05-22",
-  "published_at": "2022-05-22T12:55:24Z"
- },
- {
-  "id": 1092564,
-  "title": "As a developer, I hate ... ?",
-  "description": "In your career as a developer, what are the main three things that you hate about being in the tech...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FCf6OelP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xu037gv870tiubwb1lb9.jpg",
-  "slug": "as-a-developer-i-hate--3g2e",
-  "url": "https://dev.to/bekbrace/as-a-developer-i-hate--3g2e",
-  "publish_date": "2022-05-22",
-  "published_at": "2022-05-22T09:54:49Z"
  }
 ]
