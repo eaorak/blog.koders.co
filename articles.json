@@ -1,5 +1,55 @@
 [
  {
+  "id": 1177999,
+  "title": "Open Source Redesigned",
+  "description": "I had the pleasure of talking to Alex Barashkov, CEO @ PixelPoint, a Design studio focusing mainly on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KAXW58DD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9h1cu83kdzx96tbzxn9d.jpeg",
+  "slug": "open-source-redesigned-1f8h",
+  "url": "https://dev.to/novu/open-source-redesigned-1f8h",
+  "publish_date": "2022-08-31",
+  "published_at": "2022-08-31T14:57:32Z"
+ },
+ {
+  "id": 1179784,
+  "title": "Top Heroku Alternatives for free",
+  "description": "Recently Heroku will shutdown free Heroku Dynos, free Heroku Postgres, and free Heroku Data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KPdQu5LP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6p9g6fa8h6n8w0wfx453.png",
+  "slug": "top-heroku-alternatives-for-free-46g1",
+  "url": "https://dev.to/meshvpatel18/top-heroku-alternatives-for-free-46g1",
+  "publish_date": "2022-08-31",
+  "published_at": "2022-08-31T13:49:56Z"
+ },
+ {
+  "id": 1180474,
+  "title": "Using Google Lighthouse to improve app performance",
+  "description": "Introduction   As websites and web applications become more complex, it is necessary to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2TTC31q2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vz12pmjr7o8ffvyroiux.png",
+  "slug": "using-google-lighthouse-to-improve-app-performance-2bfn",
+  "url": "https://dev.to/refine/using-google-lighthouse-to-improve-app-performance-2bfn",
+  "publish_date": "2022-08-31",
+  "published_at": "2022-08-31T12:39:52Z"
+ },
+ {
+  "id": 1168419,
+  "title": "Appwrite OSS Fund Sponsors React-Native-Permissions",
+  "description": "Hi readers 👋, welcoming you back to the \"Appwrite OSS Fund\" series, where we celebrate open-source...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rMBkh45x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i44j1mye073yrnkmvyvp.png",
+  "slug": "appwrite-oss-fund-sponsors-react-native-permissions-3pg4",
+  "url": "https://dev.to/appwrite/appwrite-oss-fund-sponsors-react-native-permissions-3pg4",
+  "publish_date": "2022-08-31",
+  "published_at": "2022-08-31T12:37:12Z"
+ },
+ {
+  "id": 1180154,
+  "title": "A Web Developers Workflow for GitHub",
+  "description": "GitHub is a code hosting platform for version control and collaboration. It’s designed around Git, a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IkNoCkQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/81ukdbhsw2aez4oqangf.jpg",
+  "slug": "a-web-developers-workflow-for-github-1b72",
+  "url": "https://dev.to/rembertdesigns/a-web-developers-workflow-for-github-1b72",
+  "publish_date": "2022-08-31",
+  "published_at": "2022-08-31T02:07:00Z"
+ },
+ {
   "id": 1179510,
   "title": "How to handle dart application exceptions ?",
   "description": "Talker - package to handle dart application exceptions.                        🚀  The main goal of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tunaxor/exploring-the-f-frontend-landscape-13aa",
   "publish_date": "2022-05-24",
   "published_at": "2022-05-24T01:04:17Z"
- },
- {
-  "id": 1093688,
-  "title": "Introducing Rediscovering Ruby",
-  "description": "This post is co-authored by @juliannatetreault and @ridhwana.            Introduction   👋 Hi there...",
-  "cover_image": "",
-  "slug": "introducing-rediscovering-ruby-53bk",
-  "url": "https://dev.to/ridhwana/introducing-rediscovering-ruby-53bk",
-  "publish_date": "2022-05-23",
-  "published_at": "2022-05-23T16:38:35Z"
- },
- {
-  "id": 1035712,
-  "title": "When Netlify asks you to full-time OSS, you say yes!",
-  "description": "Well, there it is.  I'm ecstatic to announce that, as of today, I’ve joined OSS Team at Netlify as a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6bWqWBjY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rv0t454dtao7ml73xeu9.jpeg",
-  "slug": "when-netlify-asks-you-to-full-time-oss-you-say-yes-5ccf",
-  "url": "https://dev.to/ryansolid/when-netlify-asks-you-to-full-time-oss-you-say-yes-5ccf",
-  "publish_date": "2022-05-23",
-  "published_at": "2022-05-23T15:54:01Z"
- },
- {
-  "id": 1087446,
-  "title": "A Guide to writing Industry Standard Git Commit Message",
-  "description": "I bet you already heard something about Git before starting this article whatever led you here,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DXBzIEO6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c0bnyxbi7voh1yba0ixb.jpeg",
-  "slug": "a-guide-to-writing-industry-standard-git-commit-message-2ohl",
-  "url": "https://dev.to/tuasegun/a-guide-to-writing-industry-standard-git-commit-message-2ohl",
-  "publish_date": "2022-05-23",
-  "published_at": "2022-05-23T14:14:32Z"
- },
- {
-  "id": 1093406,
-  "title": "⛔ Squash commits considered harmful ⛔",
-  "description": "A recurring conversation in developer circles is if you should use git --squash when merging or do...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vTKTjPSd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bnr8zi5a3btotaeddvon.png",
-  "slug": "squash-commits-considered-harmful-ob1",
-  "url": "https://dev.to/wesen/squash-commits-considered-harmful-ob1",
-  "publish_date": "2022-05-23",
-  "published_at": "2022-05-23T11:46:32Z"
- },
- {
-  "id": 1093019,
-  "title": "Do you remember the FIRST project made by you?",
-  "description": "Do you remember the very first project made by you when you started learning to code in a particular...",
-  "cover_image": "",
-  "slug": "do-you-remember-the-first-project-made-by-you-2ap8",
-  "url": "https://dev.to/asheeshh/do-you-remember-the-first-project-made-by-you-2ap8",
-  "publish_date": "2022-05-23",
-  "published_at": "2022-05-23T01:29:16Z"
  }
 ]
