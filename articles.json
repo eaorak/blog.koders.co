@@ -1,5 +1,55 @@
 [
  {
+  "id": 1181446,
+  "title": "12 Powerful Design Tools for Front-end Developers ✨💯",
+  "description": "An eye-catching design is an effective way to keep the visitors' attention. I've compiled some of the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8Y9oI2ys--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5u88d0211gig3lnczby.png",
+  "slug": "12-powerful-design-tools-for-front-end-developers-5acf",
+  "url": "https://dev.to/madza/12-powerful-design-tools-for-front-end-developers-5acf",
+  "publish_date": "2022-09-01",
+  "published_at": "2022-09-01T13:05:27Z"
+ },
+ {
+  "id": 1181397,
+  "title": "Animations in React with Framer Motion",
+  "description": "Introduction   When a tool like Framer Motion is available, why write many lines of CSS code...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OBnJVKdX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eldc6nd0yn1gofdr8pk5.png",
+  "slug": "animations-in-react-with-framer-motion-57gl",
+  "url": "https://dev.to/refine/animations-in-react-with-framer-motion-57gl",
+  "publish_date": "2022-09-01",
+  "published_at": "2022-09-01T12:48:55Z"
+ },
+ {
+  "id": 1181389,
+  "title": "Awesome GitHub Repositories for Web Developer - Part 2",
+  "description": "Introduction   We have learned about 5 GitHub repositories for Web Developers in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TbDLZzao--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n562actscws9k9rfsvpq.png",
+  "slug": "awesome-github-repositories-for-web-developer-part-2-1h8b",
+  "url": "https://dev.to/surajondev/awesome-github-repositories-for-web-developer-part-2-1h8b",
+  "publish_date": "2022-09-01",
+  "published_at": "2022-09-01T11:36:22Z"
+ },
+ {
+  "id": 1180436,
+  "title": "Announcing New Versions for Appwrite's Flutter and Dart SDKs",
+  "description": "We're happy to announce the release of versions 7.0 and 6.1 of the Appwrite SDKs for Flutter and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LlnKNI5Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpx1qhnolsekb1zewjyi.png",
+  "slug": "announcing-new-versions-for-appwrites-flutter-and-dart-sdks-4l5j",
+  "url": "https://dev.to/appwrite/announcing-new-versions-for-appwrites-flutter-and-dart-sdks-4l5j",
+  "publish_date": "2022-09-01",
+  "published_at": "2022-09-01T11:18:58Z"
+ },
+ {
+  "id": 1177756,
+  "title": "How to Learn Web3 (September 2022)",
+  "description": "Hi, I am Francesco, and I share daily content about Web3 (mainly on Twitter and YouTube)  In this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PvxCDKDh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ir3ojvhv20khaipk7x9l.jpg",
+  "slug": "how-to-learn-web3-september-2022-3h9h",
+  "url": "https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h",
+  "publish_date": "2022-09-01",
+  "published_at": "2022-09-01T06:03:23Z"
+ },
+ {
   "id": 1177999,
   "title": "Open Source Redesigned",
   "description": "I had the pleasure of talking to Alex Barashkov, CEO @ PixelPoint, a Design studio focusing mainly on...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/denicmarko/javascript-array-methods-explained-28fb",
   "publish_date": "2022-05-25",
   "published_at": "2022-05-25T06:29:58Z"
- },
- {
-  "id": 1094740,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-3n3k",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3n3k",
-  "publish_date": "2022-05-24",
-  "published_at": "2022-05-24T15:17:36Z"
- },
- {
-  "id": 1094563,
-  "title": "Complete guide to GraphQL in Angular [with example] 🚀",
-  "description": "This tutorial was originally posted on SigNoz Blog and is written by Sai Deepesh  GraphQL is a query...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Yo8hql1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2f1a3hzd1ju37i3qinsx.png",
-  "slug": "complete-guide-to-graphql-in-angular-with-example-2fh5",
-  "url": "https://dev.to/signoz/complete-guide-to-graphql-in-angular-with-example-2fh5",
-  "publish_date": "2022-05-24",
-  "published_at": "2022-05-24T13:45:27Z"
- },
- {
-  "id": 1094493,
-  "title": "The NodeJS 18 Fetch API",
-  "description": "NodeJS 18 introduced some new cool features and one of the most useful ones is the built in Fetch...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WHiM_9r7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vkln4ngn44ww8kd5k9ts.png",
-  "slug": "the-nodejs-18-fetch-api-72m",
-  "url": "https://dev.to/andrewbaisden/the-nodejs-18-fetch-api-72m",
-  "publish_date": "2022-05-24",
-  "published_at": "2022-05-24T11:12:22Z"
- },
- {
-  "id": 1094351,
-  "title": "How I Created a Comic Book Store with Medusa, Gatsby, PayPal, and MeiliSearch",
-  "description": "Medusa is an open source headless commerce platform targeted toward developers. It can be used to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4YCRXlD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jogp8khgje0rhmuubqi3.jpg",
-  "slug": "how-i-created-a-comic-book-store-with-medusa-gatsby-paypal-and-meilisearch-2k01",
-  "url": "https://dev.to/medusajs/how-i-created-a-comic-book-store-with-medusa-gatsby-paypal-and-meilisearch-2k01",
-  "publish_date": "2022-05-24",
-  "published_at": "2022-05-24T09:59:52Z"
- },
- {
-  "id": 1094098,
-  "title": "Exploring The F# Frontend Landscape",
-  "description": "Hello everyone it's been a while! Today we will talk about what is the current frontend landscape of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J9me6oPa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/85jykgocg5i8ux1yrx6f.png",
-  "slug": "exploring-the-f-frontend-landscape-13aa",
-  "url": "https://dev.to/tunaxor/exploring-the-f-frontend-landscape-13aa",
-  "publish_date": "2022-05-24",
-  "published_at": "2022-05-24T01:04:17Z"
  }
 ]
