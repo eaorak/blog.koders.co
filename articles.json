@@ -1,5 +1,55 @@
 [
  {
+  "id": 1183266,
+  "title": "Awesome Web Projects Ideas You Can put them on your Resume",
+  "description": "Table of Contents    Table of Contents Introduction Hosting Tools  Project...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ivCq_EjX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ibp80lhco0vonn67fprc.png",
+  "slug": "awesome-web-projects-ideas-you-can-put-them-on-your-resume-7j9",
+  "url": "https://dev.to/varshithvhegde/awesome-web-projects-ideas-you-can-put-them-on-your-resume-7j9",
+  "publish_date": "2022-09-03",
+  "published_at": "2022-09-03T15:41:34Z"
+ },
+ {
+  "id": 1183230,
+  "title": "Why did I switch from an MNC to a Startup?",
+  "description": "If a year ago someone would have come up to me and told me to quit my safe, conservative job, my...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--74OLZY9x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qcvsemymqv8faak80ccz.jpg",
+  "slug": "why-did-i-switch-from-an-mnc-to-a-startup-47m4",
+  "url": "https://dev.to/analyticsverse/why-did-i-switch-from-an-mnc-to-a-startup-47m4",
+  "publish_date": "2022-09-03",
+  "published_at": "2022-09-03T14:09:49Z"
+ },
+ {
+  "id": 1178295,
+  "title": "Git Cheatsheet",
+  "description": "Hello everyone, here is a quick reference guide of the git commands:           git config    Setup...",
+  "cover_image": "",
+  "slug": "git-cheatsheet-414e",
+  "url": "https://dev.to/sarath_pm/git-cheatsheet-414e",
+  "publish_date": "2022-09-03",
+  "published_at": "2022-09-03T13:35:05Z"
+ },
+ {
+  "id": 1182443,
+  "title": "Railway. A Free Alternative To Heroku!!!",
+  "description": "Recently, due to the news with Heroku for shutting down their Free Plan, we have all been extensively...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-TKHscW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m82trntwlhgy8schtl9b.png",
+  "slug": "railway-a-free-alternative-to-heroku-57m2",
+  "url": "https://dev.to/devarshishimpi/railway-a-free-alternative-to-heroku-57m2",
+  "publish_date": "2022-09-03",
+  "published_at": "2022-09-03T10:54:56Z"
+ },
+ {
+  "id": 1182937,
+  "title": "Simple MongoDB Database Setup for Discord.JS (Replit)",
+  "description": "Here's an easy implementation of MongoDB in a Discord.JS bot built on Replit! Be sure to follow the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2xQECxl1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pxosheed9r4bf1w6adw9.png",
+  "slug": "simple-mongodb-database-for-discordjs-replit-3i2k",
+  "url": "https://dev.to/w6/simple-mongodb-database-for-discordjs-replit-3i2k",
+  "publish_date": "2022-09-03",
+  "published_at": "2022-09-03T04:13:35Z"
+ },
+ {
   "id": 1182447,
   "title": "How to make responsive agency website using Html CSS JavaScript",
   "description": "How to make responsive agency website using Html CSS JavaScript  This video will show you how to...",
@@ -1400,22 +1450,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/murtuzaalisurti/5-vscode-extensions-you-must-use-961",
   "publish_date": "2022-05-27",
   "published_at": "2022-05-27T07:13:55Z"
- },
- {
-  "id": 1096609,
-  "title": "This is Exciting: A New Destination for All Things DevOps",
-  "description": "I am very excited to highlight a new Forem: The Ops Community. It is a new space dedicated to DevOps,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_6WmqsNs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1f4x1q1mxizqmsun42gk.png",
-  "slug": "this-is-exciting-a-new-destination-for-all-things-devops-1gpb",
-  "url": "https://dev.to/devteam/this-is-exciting-a-new-destination-for-all-things-devops-1gpb",
-  "publish_date": "2022-05-26",
-  "published_at": "2022-05-26T15:11:01Z"
- },
- {
-  "id": 1095511,
-  "title": "🧵 What are your favourite Browser Extentions ?",
-  "description": "Here are my top 3 extentions -    daily.dev - Get a feed of the hottest developer news personalized...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G0Bc7fFU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y83yjnzb9tvxj151nmoe.png",
-  "slug": "what-are-your-favourite-browser-extentions--50hi",
-  "url": "https://dev.to/envoy_/what-are-your-favourite-browser-extentions--50hi",
-  "publish_date": "2022-05-26",
-  "published_at": "2022-05-26T12:20:35Z"
- },
- {
-  "id": 1096455,
-  "title": "Learning Go Web Development From Zero",
-  "description": "Hey guys, I'm Sam Zhang.  Today I wanted to explore the field of backend development - so I chose Go....",
-  "cover_image": "",
-  "slug": "learning-go-web-development-from-zero-a1l",
-  "url": "https://dev.to/samzhangjy/learning-go-web-development-from-zero-a1l",
-  "publish_date": "2022-05-26",
-  "published_at": "2022-05-26T10:34:09Z"
- },
- {
-  "id": 1096421,
-  "title": "Nexus Repository Manager : What is it \u0026 how to configure it on a Digital Ocean Droplet?",
-  "description": "Introduction   If you are working on a big project which would take long time, repository...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SxopQGPg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rg5ng05tlrnkdcpae29w.png",
-  "slug": "nexus-repository-manager-what-is-it-how-to-configure-it-on-a-digital-ocean-droplet-20ma",
-  "url": "https://dev.to/kcdchennai/nexus-repository-manager-what-is-it-how-to-configure-it-on-a-digital-ocean-droplet-20ma",
-  "publish_date": "2022-05-26",
-  "published_at": "2022-05-26T09:12:02Z"
- },
- {
-  "id": 1095817,
-  "title": "Drawing with CSS: Anime Character",
-  "description": "How to draw a manga/anime character with CSS (with video!)",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---cZOnCEQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wnsjy5ha2hqbafgcsbu2.png",
-  "slug": "drawing-with-css-anime-character-12p5",
-  "url": "https://dev.to/alvaromontoro/drawing-with-css-anime-character-12p5",
-  "publish_date": "2022-05-26",
-  "published_at": "2022-05-26T08:22:56Z"
  }
 ]
