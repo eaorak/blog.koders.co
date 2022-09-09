@@ -1,5 +1,55 @@
 [
  {
+  "id": 1187889,
+  "title": "Material UI button in React",
+  "description": "Introduction   Material UI is a dynamic React library because it provides numerous component...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r5CXirIb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6bbpativ2rpxbn75b78f.png",
+  "slug": "material-ui-button-in-react-k79",
+  "url": "https://dev.to/refine/material-ui-button-in-react-k79",
+  "publish_date": "2022-09-08",
+  "published_at": "2022-09-08T12:20:19Z"
+ },
+ {
+  "id": 1116002,
+  "title": "JavaScript Tips And Tricks Every Developer Should know 💯 🚀️",
+  "description": "In this article we will look at some useful JavaScript tips and tricks.          ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KKWHi02e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hl22lqwcsrc92kvcap9y.png",
+  "slug": "javascript-tips-and-tricks-you-need-to-know-1g2k",
+  "url": "https://dev.to/devsyedmohsin/javascript-tips-and-tricks-you-need-to-know-1g2k",
+  "publish_date": "2022-09-08",
+  "published_at": "2022-09-08T11:16:33Z"
+ },
+ {
+  "id": 1185142,
+  "title": "How to make an advanced pointer animation (TS React and Framer Motion)",
+  "description": "Recreating an advanced Framer Motion animation in React and TypeScript ",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZY_vJtke--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oq1yvn0d9fd7jn2zz7oj.gif",
+  "slug": "how-to-make-an-advanced-pointer-animation-ts-react-and-framer-motion-2p39",
+  "url": "https://dev.to/arielbk/how-to-make-an-advanced-pointer-animation-ts-react-and-framer-motion-2p39",
+  "publish_date": "2022-09-08",
+  "published_at": "2022-09-08T08:05:44Z"
+ },
+ {
+  "id": 1182435,
+  "title": "Me \u0026 React: 5 years in 15 minutes",
+  "description": "I first heard of React when a friend showed me a project he had written. It was some sort of content...",
+  "cover_image": "",
+  "slug": "me-react-5-years-in-15-minutes-58od",
+  "url": "https://dev.to/valeriavg/me-react-5-years-in-15-minutes-58od",
+  "publish_date": "2022-09-08",
+  "published_at": "2022-09-08T07:10:08Z"
+ },
+ {
+  "id": 1187642,
+  "title": "👋How to convert ANY website into a desktop application(In 30 Seconds)",
+  "description": "I can't think of any better way to start the day than by creating a desktop app. Can you? Today, I...",
+  "cover_image": "",
+  "slug": "how-to-convert-any-website-into-a-desktop-applicationin-30-seconds-b0n",
+  "url": "https://dev.to/freebeliever/how-to-convert-any-website-into-a-desktop-applicationin-30-seconds-b0n",
+  "publish_date": "2022-09-08",
+  "published_at": "2022-09-08T05:46:39Z"
+ },
+ {
   "id": 1186817,
   "title": "Solidity Hello world",
   "description": "Hi I am Francesco, and In this short article, I will show you a short step-by-step guide to write...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nexxeln/how-i-made-a-really-fast-link-shortener-that-runs-on-the-edge-2gm",
   "publish_date": "2022-06-01",
   "published_at": "2022-06-01T04:48:32Z"
- },
- {
-  "id": 1016842,
-  "title": "CTO last day: reflections, mistakes, and some learnings",
-  "description": "Burning my hands on the steering wheel.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Iqw1I-NU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://danlebrero.com/images/blog/cto/day8/bye.jpg",
-  "slug": "cto-last-day-reflections-mistakes-and-some-learnings-mip",
-  "url": "https://dev.to/danlebrero/cto-last-day-reflections-mistakes-and-some-learnings-mip",
-  "publish_date": "2022-05-31",
-  "published_at": "2022-05-31T18:26:49Z"
- },
- {
-  "id": 1100853,
-  "title": "19 GitHub Repositories to Become a React Master ⚛️🧙",
-  "description": "React is among the most popular choices to build interactive UIs. Learning and mastering it can be...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6yb3M0-y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bfqnrt6i96wtdkpa6xgi.png",
-  "slug": "19-github-repositories-to-become-a-react-master-379n",
-  "url": "https://dev.to/madza/19-github-repositories-to-become-a-react-master-379n",
-  "publish_date": "2022-05-31",
-  "published_at": "2022-05-31T16:11:10Z"
- },
- {
-  "id": 1100422,
-  "title": "Customizing my Zsh Prompt",
-  "description": "Cassidy updated her Zsh prompt to have some fun colors, the date, and git information. Here's how!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o3nbpiJ5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1629654291663-b91ad427698f%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1674%26q%3D80",
-  "slug": "customizing-my-zsh-prompt-3417",
-  "url": "https://dev.to/cassidoo/customizing-my-zsh-prompt-3417",
-  "publish_date": "2022-05-31",
-  "published_at": "2022-05-31T15:21:04Z"
- },
- {
-  "id": 1100750,
-  "title": "Have you done anything interesting with AI/ML?",
-  "description": "Whether part of your job, school, or just spare time — have you made use of this branch of our field?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s44j0S5D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ln15jyvk49bwfuc7irsm.png",
-  "slug": "have-you-done-anything-interesting-with-aiml-1i2c",
-  "url": "https://dev.to/ben/have-you-done-anything-interesting-with-aiml-1i2c",
-  "publish_date": "2022-05-31",
-  "published_at": "2022-05-31T12:27:04Z"
- },
- {
-  "id": 1099692,
-  "title": "GitLive's Tool Window Just Got a Major Upgrade in PhpStorm",
-  "description": "With the new tool window, you can now see all work in progress across your entire team in a single...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tqk4GHwZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wefkq0hfb9xp5atjzgie.png",
-  "slug": "gitlives-tool-window-just-got-a-major-upgrade-in-phpstorm-31c5",
-  "url": "https://dev.to/gitlive/gitlives-tool-window-just-got-a-major-upgrade-in-phpstorm-31c5",
-  "publish_date": "2022-05-31",
-  "published_at": "2022-05-31T08:53:54Z"
  }
 ]
