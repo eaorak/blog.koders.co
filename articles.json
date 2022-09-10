@@ -1,5 +1,55 @@
 [
  {
+  "id": 1188280,
+  "title": "Follow Friday: Career Edition (9 September 2022)",
+  "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
+  "cover_image": "",
+  "slug": "follow-friday-career-edition-8-september-2022-3np5",
+  "url": "https://dev.to/devteam/follow-friday-career-edition-8-september-2022-3np5",
+  "publish_date": "2022-09-09",
+  "published_at": "2022-09-09T15:40:43Z"
+ },
+ {
+  "id": 1188928,
+  "title": "Being Highly Agreeable Is All You Need To Land Your First Job In Tech.",
+  "description": "In today's world, the competition is high, and the demand for qualified employees is even higher....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ezL15Aw_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.pixabay.com/photo/2016/10/10/13/42/agree-1728448_960_720.jpg",
+  "slug": "being-highly-agreeable-is-all-you-need-to-land-your-first-job-in-tech-2c2c",
+  "url": "https://dev.to/wiseai/being-highly-agreeable-is-all-you-need-to-land-your-first-job-in-tech-2c2c",
+  "publish_date": "2022-09-09",
+  "published_at": "2022-09-09T10:55:53Z"
+ },
+ {
+  "id": 1188927,
+  "title": "How to Push an empty commit?",
+  "description": "Have you ever tried to push a commit to a Git branch without changing any files in order to re-run...",
+  "cover_image": "",
+  "slug": "how-to-push-an-empty-commit-28dd",
+  "url": "https://dev.to/devsimc/how-to-push-an-empty-commit-28dd",
+  "publish_date": "2022-09-09",
+  "published_at": "2022-09-09T10:49:15Z"
+ },
+ {
+  "id": 1188795,
+  "title": "JavaScript sending data between windows",
+  "description": "I recently worked on a system that needed to open a popup window. A specific action could be done on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1H2NXlE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1r7oqn3ohw3f49qlwvo.jpg",
+  "slug": "javascript-sending-data-between-windows-1ima",
+  "url": "https://dev.to/dailydevtips1/javascript-sending-data-between-windows-1ima",
+  "publish_date": "2022-09-09",
+  "published_at": "2022-09-09T07:33:18Z"
+ },
+ {
+  "id": 1187572,
+  "title": "How blogging helped me land a part time job in tech?",
+  "description": "Introduction   Blogging is no doubt one of the major ways of sharing knowledge, experience,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8YfAR2Dn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jw7su4wm9vccymhymb30.png",
+  "slug": "how-blogging-helped-me-land-a-part-time-job-in-tech-5gi9",
+  "url": "https://dev.to/asheeshh/how-blogging-helped-me-land-a-part-time-job-in-tech-5gi9",
+  "publish_date": "2022-09-09",
+  "published_at": "2022-09-09T03:49:09Z"
+ },
+ {
   "id": 1187889,
   "title": "Material UI button in React",
   "description": "Introduction   Material UI is a dynamic React library because it provides numerous component...",
@@ -1700,22 +1750,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/babib/setting-up-a-new-machine-al8",
   "publish_date": "2022-06-02",
   "published_at": "2022-06-02T10:03:43Z"
- },
- {
-  "id": 1101897,
-  "title": "Celebrating Your LGBTQIA+ Pride Stories 💖",
-  "description": "Join us in collecting stories of LGBTQIA+ pride — we'll donate $10 for every #devpride story received. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LdJz-EYM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fzblrytf9yavlh9lzdlw.png",
-  "slug": "celebrating-lgbtqia-pride-with-donations-to-the-marsha-p-johnson-institute-33aj",
-  "url": "https://dev.to/devteam/celebrating-lgbtqia-pride-with-donations-to-the-marsha-p-johnson-institute-33aj",
-  "publish_date": "2022-06-01",
-  "published_at": "2022-06-01T16:32:35Z"
- },
- {
-  "id": 1101878,
-  "title": "Getting Along with Your Co-workers... All of Them 🎙",
-  "description": "No coder is an island.  This week's DevDiscuss episode is a good one if you want to succeed in your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t69UAGM0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6hgiegt1pcqh00ni62jg.png",
-  "slug": "getting-along-with-your-co-workers-all-of-them-hlk",
-  "url": "https://dev.to/devteam/getting-along-with-your-co-workers-all-of-them-hlk",
-  "publish_date": "2022-06-01",
-  "published_at": "2022-06-01T15:39:53Z"
- },
- {
-  "id": 1101593,
-  "title": "The Real Reason Why 93% Of JS Devs Are Underpaid While The “Elite Few” Get All The Cash",
-  "description": "If you are a JavaScript developer this should terrify you.   Because when I work with developers, the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i065NytT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/39qc2lbfq3nee56ssqfd.png",
-  "slug": "the-real-reason-why-93-of-js-devs-are-underpaid-while-the-elite-few-get-all-the-cash-134p",
-  "url": "https://dev.to/dragosnedelcu/the-real-reason-why-93-of-js-devs-are-underpaid-while-the-elite-few-get-all-the-cash-134p",
-  "publish_date": "2022-06-01",
-  "published_at": "2022-06-01T08:35:48Z"
- },
- {
-  "id": 1101128,
-  "title": "How web browsers work - the render tree (part 7, with illustrations)💻 ⏳",
-  "description": "The trees built in the parsing phase (DOM, CSSOM) are combined into something called the render tree....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O5jw5gri--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ho8e984fnlt5ju1am74g.png",
-  "slug": "how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3",
-  "url": "https://dev.to/arikaturika/how-web-browsers-work-the-render-tree-part-7-with-illustrations-24h3",
-  "publish_date": "2022-06-01",
-  "published_at": "2022-06-01T05:20:30Z"
- },
- {
-  "id": 1101087,
-  "title": "How I made a really fast Link Shortener that runs on the edge",
-  "description": "I recently made a link shortener called deoxys (named after a really fast Pokémon). It's really,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FtT8x_eV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p2ed4668gnnm95a2c3bq.png",
-  "slug": "how-i-made-a-really-fast-link-shortener-that-runs-on-the-edge-2gm",
-  "url": "https://dev.to/nexxeln/how-i-made-a-really-fast-link-shortener-that-runs-on-the-edge-2gm",
-  "publish_date": "2022-06-01",
-  "published_at": "2022-06-01T04:48:32Z"
  }
 ]
