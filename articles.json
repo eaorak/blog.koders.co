@@ -1,5 +1,55 @@
 [
  {
+  "id": 1192309,
+  "title": "23 Awesome DEV Portfolios for Your Inspiration 🎨😍",
+  "description": "A couple of years ago I compiled a list of some of my favorite developer portfolios. Since then I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IBDziqvc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/34n9q3cgcr9y3xfrt2ur.png",
+  "slug": "23-awesome-dev-portfolios-for-your-inspiration-5acb",
+  "url": "https://dev.to/madza/23-awesome-dev-portfolios-for-your-inspiration-5acb",
+  "publish_date": "2022-09-13",
+  "published_at": "2022-09-13T16:44:35Z"
+ },
+ {
+  "id": 1192282,
+  "title": "What is Kubernetes HPA and How Can It Help You Save on the Cloud?",
+  "description": "Autoscaling is a core capability of Kubernetes. The tighter you configure the scaling mechanisms -...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JQrn_h-r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dda6irhb3w1lw0ka9a72.png",
+  "slug": "once-again-thank-you-for-your-response-and-if-anything-just-go-ahead-and-ask-me-looking-forward-to-hearing-back-from-you-soon-1bc0",
+  "url": "https://dev.to/castai/once-again-thank-you-for-your-response-and-if-anything-just-go-ahead-and-ask-me-looking-forward-to-hearing-back-from-you-soon-1bc0",
+  "publish_date": "2022-09-13",
+  "published_at": "2022-09-13T15:46:39Z"
+ },
+ {
+  "id": 1190825,
+  "title": "Top 5 reasons to choose DevOps as a Career 💎",
+  "description": "Many of you may be wondering if DevOps career is for you. 🤔 If you have been following and watching...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xqaFZD0F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b15hcjp6pmjoaych9aem.png",
+  "slug": "top-5-reasons-to-choose-devops-as-a-career-5d6h",
+  "url": "https://dev.to/techworld_with_nana/top-5-reasons-to-choose-devops-as-a-career-5d6h",
+  "publish_date": "2022-09-13",
+  "published_at": "2022-09-13T14:31:29Z"
+ },
+ {
+  "id": 1191635,
+  "title": "🎨Sass: the style you want, the code you need",
+  "description": "If you are a developer or web designer, chances are you have heard about Sass at one time or another....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5C3jy8pr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/waq8p0s6lnidborp5ly7.gif",
+  "slug": "sass-the-style-you-want-the-code-you-need-5188",
+  "url": "https://dev.to/akram_ak/sass-the-style-you-want-the-code-you-need-5188",
+  "publish_date": "2022-09-13",
+  "published_at": "2022-09-13T09:23:46Z"
+ },
+ {
+  "id": 1191774,
+  "title": "Tricky CSS questions",
+  "description": "Hello Guys today i want to ask some basic but tricky questions in CSS which i found...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gTTfvPYG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jozqu24pdxbzbmq1alua.png",
+  "slug": "tricky-css-questions-4n45",
+  "url": "https://dev.to/shubhamtiwari909/tricky-css-questions-4n45",
+  "publish_date": "2022-09-13",
+  "published_at": "2022-09-13T05:56:48Z"
+ },
+ {
   "id": 1190822,
   "title": "Building an interactive screen-sharing app with Puppeteer and React 🤯",
   "description": "What is this article about?   You want to give a user the ability to browse a webpage...",
@@ -1900,22 +1950,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/robole/how-to-make-a-slick-css-animation-from-upload-tv-series-title-sequence-2h8f",
   "publish_date": "2022-06-06",
   "published_at": "2022-06-06T11:22:05Z"
- },
- {
-  "id": 1105534,
-  "title": "Side Project Sunday! Share your progress.",
-  "description": "Give a quick description of what you're up to and what some recent challenges have been.  Anyone who...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lwV2umxP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eg2927o3b6txscx0s6fw.png",
-  "slug": "side-project-sunday-share-your-progress-4a6g",
-  "url": "https://dev.to/ben/side-project-sunday-share-your-progress-4a6g",
-  "publish_date": "2022-06-05",
-  "published_at": "2022-06-05T15:25:04Z"
- },
- {
-  "id": 1084449,
-  "title": "\"Kubernetes for beginners 2022\" - Crash course",
-  "description": "In this blog/tutorial I will not tell your more theory which you you can already find on google...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WVYlbujT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bzbah8ocrcuftfm05mbs.png",
-  "slug": "kubernetes-for-beginners-2022-crash-course-33b9",
-  "url": "https://dev.to/tanmaygi/kubernetes-for-beginners-2022-crash-course-33b9",
-  "publish_date": "2022-06-05",
-  "published_at": "2022-06-05T09:17:19Z"
- },
- {
-  "id": 1104961,
-  "title": "10 Cool Rest APIs for Your Next Projects",
-  "description": "Finally, I have clicked the blue 'Write your first post now' button on the dev.to/dashboard page....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PpFwi0yJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5wkhk6upa1udyr55zt5g.png",
-  "slug": "10-cool-rest-apis-for-your-next-projects-c4f",
-  "url": "https://dev.to/devash98/10-cool-rest-apis-for-your-next-projects-c4f",
-  "publish_date": "2022-06-05",
-  "published_at": "2022-06-05T06:41:56Z"
- },
- {
-  "id": 1105242,
-  "title": "Exploring dry-rb - Intuition of Results",
-  "description": "dry-rb is a fascinating set of tools and libraries, but their usage may not be readily apparent. Why...",
-  "cover_image": "",
-  "slug": "exploring-dryrb-intuition-of-results-1lnd",
-  "url": "https://dev.to/baweaver/exploring-dryrb-intuition-of-results-1lnd",
-  "publish_date": "2022-06-05",
-  "published_at": "2022-06-05T06:06:47Z"
- },
- {
-  "id": 1105228,
-  "title": "7 Console Methods Used by Pros",
-  "description": "Often while debugging, beginners use the console.log() method to print out values. But there are a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iZQpMa7e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bnxcyjlk07km3yjx7uta.png",
-  "slug": "7-console-methods-used-by-pros-1g00",
-  "url": "https://dev.to/ruppysuppy/7-console-methods-used-by-pros-1g00",
-  "publish_date": "2022-06-05",
-  "published_at": "2022-06-05T05:43:47Z"
  }
 ]
