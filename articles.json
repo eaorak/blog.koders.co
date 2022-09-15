@@ -1,5 +1,55 @@
 [
  {
+  "id": 1192999,
+  "title": "Everything New in Appwrite 1.0",
+  "description": "We are thrilled with the announcement of Appwrite 1.0. The new Appwrite release is our first ever...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zkpf28NE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s2re5zqfv3smxed0fnhz.png",
+  "slug": "everything-new-in-appwrite-10-43o6",
+  "url": "https://dev.to/appwrite/everything-new-in-appwrite-10-43o6",
+  "publish_date": "2022-09-14",
+  "published_at": "2022-09-14T13:15:25Z"
+ },
+ {
+  "id": 1192477,
+  "title": "Introducing DateTime Support and ISO 8601 Dates",
+  "description": "In Appwrite 1.0, we’re introducing a lot of new features. Among them is one of our most frequently...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uwk6ulsZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/npiplblpn1c5y7y3v667.png",
+  "slug": "introducing-datetime-support-and-iso-8601-dates-25di",
+  "url": "https://dev.to/appwrite/introducing-datetime-support-and-iso-8601-dates-25di",
+  "publish_date": "2022-09-14",
+  "published_at": "2022-09-14T13:14:03Z"
+ },
+ {
+  "id": 1192989,
+  "title": "Designing APIs for humans: Error messages",
+  "description": "Good error message, bad error message   Error messages are like letters from the tax...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TAcNbzpS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfxrwzebqa64bcyj3bow.png",
+  "slug": "designing-apis-for-humans-error-messages-94p",
+  "url": "https://dev.to/stripe/designing-apis-for-humans-error-messages-94p",
+  "publish_date": "2022-09-14",
+  "published_at": "2022-09-14T11:36:49Z"
+ },
+ {
+  "id": 1168599,
+  "title": "What is integration testing and why is it important?",
+  "description": "What is integration testing?   Integration testing can be done in a number of ways, but the...",
+  "cover_image": "",
+  "slug": "what-is-integration-testing-and-why-is-it-important-39gl",
+  "url": "https://dev.to/roy8/what-is-integration-testing-and-why-is-it-important-39gl",
+  "publish_date": "2022-09-14",
+  "published_at": "2022-09-14T10:01:12Z"
+ },
+ {
+  "id": 1192472,
+  "title": "How to add SASS to your project ? 🤔",
+  "description": "The previous article explained what SASS is and why it's preferable to use it rather than CSS. Right...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SVxbIwaM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kwplmys2chfs07qs1159.gif",
+  "slug": "how-to-add-sass-to-your-project--32cn",
+  "url": "https://dev.to/ak_ram/how-to-add-sass-to-your-project--32cn",
+  "publish_date": "2022-09-14",
+  "published_at": "2022-09-14T00:53:52Z"
+ },
+ {
   "id": 1192309,
   "title": "23 Awesome DEV Portfolios for Your Inspiration 🎨😍",
   "description": "A couple of years ago I compiled a list of some of my favorite developer portfolios. Since then I...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/akarachen/reduce-the-use-of-if-else-nesting-you-need-a-better-selective-structure-32ce",
   "publish_date": "2022-06-07",
   "published_at": "2022-06-07T02:59:17Z"
- },
- {
-  "id": 1106601,
-  "title": "Congrats to the Appwrite Hackathon Winners!",
-  "description": "Celebrating the winners from the Appwrite Hackathon on DEV!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dXwXyq0I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9sbnvyv22dhhuq83lnvk.png",
-  "slug": "congrats-to-the-appwrite-hackathon-winners-4dk9",
-  "url": "https://dev.to/devteam/congrats-to-the-appwrite-hackathon-winners-4dk9",
-  "publish_date": "2022-06-06",
-  "published_at": "2022-06-06T20:49:39Z"
- },
- {
-  "id": 1104103,
-  "title": "Shallow Copy and Deep Copy",
-  "description": "Table of Contents    Introduction Shallow Copy Deep Copy Summary References           ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AIVKNDbd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3iwthffc5rbo1xk8lrk.png",
-  "slug": "shallow-copy-and-deep-copy-10hh",
-  "url": "https://dev.to/aditi05/shallow-copy-and-deep-copy-10hh",
-  "publish_date": "2022-06-06",
-  "published_at": "2022-06-06T13:23:11Z"
- },
- {
-  "id": 1106249,
-  "title": "Meme Monday!",
-  "description": "Welcome to the second Meme Monday post! Today's cover image comes from my favorite submission from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v1bJ1OXD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w08yacbakpzo75lb4ztm.png",
-  "slug": "meme-monday-1h1",
-  "url": "https://dev.to/ben/meme-monday-1h1",
-  "publish_date": "2022-06-06",
-  "published_at": "2022-06-06T12:48:16Z"
- },
- {
-  "id": 1106144,
-  "title": "Kubernetes monitoring with open-source tools [OpenTelemetry and SigNoz]",
-  "description": "Kubernetes monitoring is a critical process for keeping your Kubernetes clusters running in fine...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rcUrLAJF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0eagqw7thvjyefz5fs9s.png",
-  "slug": "kubernetes-monitoring-with-open-source-tools-opentelemetry-and-signoz-3obl",
-  "url": "https://dev.to/signoz/kubernetes-monitoring-with-open-source-tools-opentelemetry-and-signoz-3obl",
-  "publish_date": "2022-06-06",
-  "published_at": "2022-06-06T12:28:14Z"
- },
- {
-  "id": 1106121,
-  "title": "How to make a slick CSS animation from Upload (TV series title sequence)",
-  "description": "This time, I will tackle a title sequence from Upload.  Upload is an American science fiction...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xsz_i9Pp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://roboleary.net/assets/img/blog/2022-06-06-how-to-make-a-slick-css-animation-upload-title-sequence/cover.jpg",
-  "slug": "how-to-make-a-slick-css-animation-from-upload-tv-series-title-sequence-2h8f",
-  "url": "https://dev.to/robole/how-to-make-a-slick-css-animation-from-upload-tv-series-title-sequence-2h8f",
-  "publish_date": "2022-06-06",
-  "published_at": "2022-06-06T11:22:05Z"
  }
 ]
