@@ -1,5 +1,55 @@
 [
  {
+  "id": 1194265,
+  "title": "19 Practical ES6 Snippets to Solve Common JS Problems 🚀💯",
+  "description": "In our developer workflow, we often encounter challenging problems that might require just a few...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fkt1xnFD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tzncjvbqvq8jkw7l1v9w.png",
+  "slug": "19-practical-es6-snippets-to-solve-common-js-problems-31o9",
+  "url": "https://dev.to/madza/19-practical-es6-snippets-to-solve-common-js-problems-31o9",
+  "publish_date": "2022-09-15",
+  "published_at": "2022-09-15T15:47:21Z"
+ },
+ {
+  "id": 1194009,
+  "title": "7 Must Know JavaScript Tips \u0026 Tricks 🎈",
+  "description": "Let's have a look at 7 valuable tips and tricks found in the most popular language in the world,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JB2QE7Ej--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vgad7ph4dihcbqw45kl3.jpg",
+  "slug": "7-must-know-javascript-tips-tricks-2m8f",
+  "url": "https://dev.to/dcodeyt/7-must-know-javascript-tips-tricks-2m8f",
+  "publish_date": "2022-09-15",
+  "published_at": "2022-09-15T12:49:53Z"
+ },
+ {
+  "id": 1193968,
+  "title": "How to Write a Scalable Frontend",
+  "description": "When modularizing your codebase, you'll want to create a module for each piece of functionality. For...",
+  "cover_image": "",
+  "slug": "how-to-write-a-scalable-frontend-5c55",
+  "url": "https://dev.to/omerwow/how-to-write-a-scalable-frontend-5c55",
+  "publish_date": "2022-09-15",
+  "published_at": "2022-09-15T11:12:05Z"
+ },
+ {
+  "id": 1193777,
+  "title": "What is Authorization service and why does it matter?",
+  "description": "Introduction   Authorization services are the tools you need to protect your data, prevent...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pRFpCJPw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dgm547me8nz43xf7onoy.gif",
+  "slug": "what-is-authorization-service-and-why-does-it-matter-5d9d",
+  "url": "https://dev.to/aviyel/what-is-authorization-service-and-why-does-it-matter-5d9d",
+  "publish_date": "2022-09-15",
+  "published_at": "2022-09-15T06:42:35Z"
+ },
+ {
+  "id": 1193312,
+  "title": "Celebrating 1M installs of Edge DevTools for VS Code",
+  "description": "The Edge DevTools for Visual Studio Code extension has over 1M downloads, time to recap a bit how it came to be",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UwgXwv1W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nm6rnr9h8llav0s9n69v.png",
+  "slug": "celebrating-1m-installs-of-edge-devtools-for-vs-code-45o9",
+  "url": "https://dev.to/codepo8/celebrating-1m-installs-of-edge-devtools-for-vs-code-45o9",
+  "publish_date": "2022-09-15",
+  "published_at": "2022-09-15T05:56:52Z"
+ },
+ {
   "id": 1192999,
   "title": "Everything New in Appwrite 1.0",
   "description": "We are thrilled with the announcement of Appwrite 1.0. The new Appwrite release is our first ever...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/danwalsh/why-fontawesome-is-still-awesome-2bo",
   "publish_date": "2022-06-08",
   "published_at": "2022-06-08T01:54:42Z"
- },
- {
-  "id": 1107387,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-49d1",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-49d1",
-  "publish_date": "2022-06-07",
-  "published_at": "2022-06-07T15:27:26Z"
- },
- {
-  "id": 1107355,
-  "title": "I made an admin template for React based on the latest UI trends! Use it for free!",
-  "description": "Hey guys, I made an admin template for React \u0026amp; Chakra UI based on the latest UI trends! Use it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ffVv3inJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90r1dno420y1qpfgr5pu.png",
-  "slug": "i-made-an-admin-template-for-react-based-on-the-latest-ui-trends-use-it-for-free-55l2",
-  "url": "https://dev.to/fredy/i-made-an-admin-template-for-react-based-on-the-latest-ui-trends-use-it-for-free-55l2",
-  "publish_date": "2022-06-07",
-  "published_at": "2022-06-07T14:26:59Z"
- },
- {
-  "id": 1107157,
-  "title": "Monitoring your .NET application with open-source tools | Tutorial",
-  "description": "This tutorial was originally posted on SigNoz Blog and is written by Chenna.  C# (pronounced C-Sharp)...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--htDDfG6l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/klwsetks3lhz03koi6ff.png",
-  "slug": "monitoring-your-net-application-with-open-source-tools-tutorial-4jo2",
-  "url": "https://dev.to/signoz/monitoring-your-net-application-with-open-source-tools-tutorial-4jo2",
-  "publish_date": "2022-06-07",
-  "published_at": "2022-06-07T12:21:59Z"
- },
- {
-  "id": 1107114,
-  "title": "As a developer, how to estimate the time for a task?",
-  "description": "It's hard to calculate the time you will need to finish the task, but it is equally important. Let's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gQ-70DIW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3lorrfvaf746ijr0cagd.png",
-  "slug": "as-a-developer-how-to-estimate-the-time-for-a-task-44b",
-  "url": "https://dev.to/ms_yogii/as-a-developer-how-to-estimate-the-time-for-a-task-44b",
-  "publish_date": "2022-06-07",
-  "published_at": "2022-06-07T10:40:59Z"
- },
- {
-  "id": 1106795,
-  "title": "Optimize the use of if-else, you need a better selective structure!",
-  "description": "I don't know if you've ever encountered an if-else nesting like a pyramid placed horizontally:    if...",
-  "cover_image": "",
-  "slug": "reduce-the-use-of-if-else-nesting-you-need-a-better-selective-structure-32ce",
-  "url": "https://dev.to/akarachen/reduce-the-use-of-if-else-nesting-you-need-a-better-selective-structure-32ce",
-  "publish_date": "2022-06-07",
-  "published_at": "2022-06-07T02:59:17Z"
  }
 ]
