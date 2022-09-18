@@ -1,5 +1,55 @@
 [
  {
+  "id": 1195887,
+  "title": "Vue 3 tips/tricks I guarantee you didn't know",
+  "description": "VNode hooks Debugging hooks Expose slots from a child component Scoped styles and multi-root nodes...",
+  "cover_image": "",
+  "slug": "vue-3-tipstricks-i-guarantee-you-didnt-know-49ml",
+  "url": "https://dev.to/the_one/vue-3-tipstricks-i-guarantee-you-didnt-know-49ml",
+  "publish_date": "2022-09-17",
+  "published_at": "2022-09-17T16:08:11Z"
+ },
+ {
+  "id": 1195474,
+  "title": "💁‍♂️ Built a Dev.to replica with The MERN stack and more",
+  "description": "Dev.to-clone   A Dev.to clone created with MERN stack and more (Essentially FB without stories...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5sCXKGjr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hjqt4ea0poro5tmprvmz.png",
+  "slug": "built-a-devto-replica-with-the-mern-stack-and-more-fbd",
+  "url": "https://dev.to/marodevv/built-a-devto-replica-with-the-mern-stack-and-more-fbd",
+  "publish_date": "2022-09-17",
+  "published_at": "2022-09-17T12:43:50Z"
+ },
+ {
+  "id": 1195443,
+  "title": "The Git Commands I Use Every Day",
+  "description": "1. Get all latest changes without merging   Stop pulling code that you think will break!...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F560OK6E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qpmt6qdjaxbxw9h0labn.png",
+  "slug": "the-git-commands-i-use-every-day-5g17",
+  "url": "https://dev.to/wadecodez/the-git-commands-i-use-every-day-5g17",
+  "publish_date": "2022-09-17",
+  "published_at": "2022-09-17T12:34:13Z"
+ },
+ {
+  "id": 1195807,
+  "title": "Why our websites are slow — Importance of bundle size",
+  "description": "Not Reactjs, not a framework or the servers, or API , nor the internet is the reason behind it.      ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dnmBPPPT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y53ptgcsw8i30dipa0t8.png",
+  "slug": "why-our-websites-are-slow-importance-of-bundle-size-1le4",
+  "url": "https://dev.to/shreyvijayvargiya/why-our-websites-are-slow-importance-of-bundle-size-1le4",
+  "publish_date": "2022-09-17",
+  "published_at": "2022-09-17T11:31:19Z"
+ },
+ {
+  "id": 1195728,
+  "title": "Hiring for remote work in 2022",
+  "description": "I've written twice about remote work so far, but only from the perspective of an engineer looking for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--apOSeylP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n0dam2nanj1uxerb5h5q.jpg",
+  "slug": "hiring-for-remote-work-in-2022-37b3",
+  "url": "https://dev.to/k_ivanow/hiring-for-remote-work-in-2022-37b3",
+  "publish_date": "2022-09-17",
+  "published_at": "2022-09-17T10:36:17Z"
+ },
+ {
   "id": 1195217,
   "title": "What was your win this week?",
   "description": "Got to all your meetings on time? Started a new project? Fixed a tricky bug?",
@@ -2100,22 +2150,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/fredy/trendiest-admin-template-for-react-now-discounted-447i",
   "publish_date": "2022-06-10",
   "published_at": "2022-06-10T07:28:17Z"
- },
- {
-  "id": 1109269,
-  "title": "Redux Without React",
-  "description": "In this blog i will try to explain redux library without react. Just Redux.   Why? Because if we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_uFrah83--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/osqr3o7xq0n7niov34mb.png",
-  "slug": "redux-without-react-558e",
-  "url": "https://dev.to/vedanthb/redux-without-react-558e",
-  "publish_date": "2022-06-09",
-  "published_at": "2022-06-09T14:11:13Z"
- },
- {
-  "id": 1109042,
-  "title": "How I Created an Ecommerce App from Scratch Using React Native and Medusa",
-  "description": "React Native is a cross-platform mobile app framework that allows you to build native mobile...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ljHLMHHd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yv7v5fizsk54uv00zfv6.jpg",
-  "slug": "how-i-created-an-ecommerce-app-from-scratch-using-react-native-and-medusa-56ej",
-  "url": "https://dev.to/medusajs/how-i-created-an-ecommerce-app-from-scratch-using-react-native-and-medusa-56ej",
-  "publish_date": "2022-06-09",
-  "published_at": "2022-06-09T12:53:00Z"
- },
- {
-  "id": 1109220,
-  "title": "Convert your website into an android app using capacitor 😱.",
-  "description": "According to Atwood's Law, \"Any application that can be written in JavaScript, will eventually be...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oxyqWiYL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qugbsdse0s6tf25myrye.jpg",
-  "slug": "convert-your-website-into-an-android-app-using-capacitor--5bh2",
-  "url": "https://dev.to/narottam04/convert-your-website-into-an-android-app-using-capacitor--5bh2",
-  "publish_date": "2022-06-09",
-  "published_at": "2022-06-09T12:31:55Z"
- },
- {
-  "id": 1109183,
-  "title": "MEVN stack tutorial | Build a CRUD app using Vue 3, Node, Express \u0026 MongoDB",
-  "description": "This tutorial was originally posted on SigNoz Blog and is written by Sai Deepesh  MEVN stack is a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6BfZteXS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvwcin92a9ey8qi8zdor.png",
-  "slug": "mevn-stack-tutorial-build-a-crud-app-using-vue-3-node-express-mongodb-bmp",
-  "url": "https://dev.to/signoz/mevn-stack-tutorial-build-a-crud-app-using-vue-3-node-express-mongodb-bmp",
-  "publish_date": "2022-06-09",
-  "published_at": "2022-06-09T12:24:21Z"
- },
- {
-  "id": 1108526,
-  "title": "5 (Surgical) Tips to Program More Efficiently in C#💉",
-  "description": "Writing efficient code isn't always easy, but it can be done. Here are five ways to program more...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iRxpUQCa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/roxmeb521s04wxcpr433.png",
-  "slug": "5-surgical-tips-to-program-more-efficiently-in-c-3bh6",
-  "url": "https://dev.to/dotnetsafer/5-surgical-tips-to-program-more-efficiently-in-c-3bh6",
-  "publish_date": "2022-06-09",
-  "published_at": "2022-06-09T09:05:46Z"
  }
 ]
