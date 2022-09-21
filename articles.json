@@ -1,5 +1,55 @@
 [
  {
+  "id": 1197208,
+  "title": "Redis Hackathon Winners, Announced!",
+  "description": "Celebrating the winners from the Redis Hackathon on DEV!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iEAMJz2f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ihsn1ke8mwcgcoioi71s.png",
+  "slug": "redis-hackathon-winners-announced-524d",
+  "url": "https://dev.to/devteam/redis-hackathon-winners-announced-524d",
+  "publish_date": "2022-09-20",
+  "published_at": "2022-09-20T16:46:52Z"
+ },
+ {
+  "id": 1152557,
+  "title": "Guardian 1.0.0 available now! Your Free Open Source audit tool for AWS architectures!",
+  "description": "Announcing the first stable version of Guardian, a free open source audit tool for AWS architectures.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vHfv8sqJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/slzm4vusv17fgkvinoyo.png",
+  "slug": "guardian-100-available-now-your-free-open-source-audit-tool-for-aws-architectures-54cd",
+  "url": "https://dev.to/kumo/guardian-100-available-now-your-free-open-source-audit-tool-for-aws-architectures-54cd",
+  "publish_date": "2022-09-20",
+  "published_at": "2022-09-20T13:12:54Z"
+ },
+ {
+  "id": 1198116,
+  "title": "HackSquad 2022 - Contribute, Meet, Participate, and win SWAG 🤯",
+  "description": "With the fantastic atmosphere of Hacktoberfest, we have decided to create Hacksquad. Hacksquad is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ki3-UgKc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oet2daefkap1sgk5fhnq.png",
+  "slug": "hacksquad-2022-contribute-meet-participate-and-win-swag-3b18",
+  "url": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18",
+  "publish_date": "2022-09-20",
+  "published_at": "2022-09-20T12:30:50Z"
+ },
+ {
+  "id": 1194244,
+  "title": "SASS Syntax 👀",
+  "description": "In the previous post, we learned how to compile SCSS to CSS. Now we will learn how to write...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BqUp3Zs---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mkqrl1oq27ydytow13bq.gif",
+  "slug": "sass-syntax-34f1",
+  "url": "https://dev.to/ak_ram/sass-syntax-34f1",
+  "publish_date": "2022-09-20",
+  "published_at": "2022-09-20T09:32:24Z"
+ },
+ {
+  "id": 1197931,
+  "title": "Every Blogger Should Save These 10 Insanely Useful Websites 👇",
+  "description": "Barsee is the author behind the list of 10 such websites, here we are going to look at some of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_eKffZ4O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7591d0exk4j5y0vdjg94.gif",
+  "slug": "every-blogger-should-save-these-10-insanely-useful-websites-44ad",
+  "url": "https://dev.to/hr21don/every-blogger-should-save-these-10-insanely-useful-websites-44ad",
+  "publish_date": "2022-09-20",
+  "published_at": "2022-09-20T09:02:11Z"
+ },
+ {
   "id": 1197183,
   "title": "Appwrite Disqus OAuth Integration",
   "description": "Appwrite 1.0 is out now! 🎉We have released some amazing features, and also added a few more OAuth2...",
@@ -2250,22 +2300,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/paul_emechebe/is-virtual-dom-overhyped-96",
   "publish_date": "2022-06-13",
   "published_at": "2022-06-13T02:15:23Z"
- },
- {
-  "id": 1111981,
-  "title": "Sites where you can get free hosting",
-  "description": "🎇Netlify.com 🎇Firebase 🎇Vercel.com 🎇GitHubPages 🎇Surge.sh 🎇Render.com 🎇Amazone Web hosting 🎇Google...",
-  "cover_image": "",
-  "slug": "sites-where-you-can-get-free-hosting-37md",
-  "url": "https://dev.to/fairywsr/sites-where-you-can-get-free-hosting-37md",
-  "publish_date": "2022-06-12",
-  "published_at": "2022-06-12T14:47:36Z"
- },
- {
-  "id": 1111823,
-  "title": "GitLab CI/CD for Beginners [FREE Course]",
-  "description": "In this GitLab Crash Course, I will teach you everything you need to know to get started with GitLab...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---0UBEB_K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zc3id5vajlck99318j5b.png",
-  "slug": "gitlab-cicd-for-beginners-free-course-2mee",
-  "url": "https://dev.to/techworld_with_nana/gitlab-cicd-for-beginners-free-course-2mee",
-  "publish_date": "2022-06-12",
-  "published_at": "2022-06-12T12:00:29Z"
- },
- {
-  "id": 1111844,
-  "title": "Modern JavaScript, 10 things you should be using, starting today",
-  "description": "10 JavaScript features you should adopt today",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AJ0vcWGK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/lltq5wvcklpu3ndu9kuk.jpg",
-  "slug": "modern-javascript-10-things-you-should-be-using-starting-today-1adm",
-  "url": "https://dev.to/azure/modern-javascript-10-things-you-should-be-using-starting-today-1adm",
-  "publish_date": "2022-06-12",
-  "published_at": "2022-06-12T10:23:37Z"
- },
- {
-  "id": 1111735,
-  "title": "15 Beautiful Color Gradients using CSS",
-  "description": "👋, I am here with another list. In this post I have enlisted 15 aesthetic color gradients using CSS...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TjgDpEdL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jojcoiwwnmw37inqcnd7.png",
-  "slug": "15-beautiful-colour-gradients-using-css-4em1",
-  "url": "https://dev.to/devash98/15-beautiful-colour-gradients-using-css-4em1",
-  "publish_date": "2022-06-12",
-  "published_at": "2022-06-12T07:42:34Z"
- },
- {
-  "id": 1111734,
-  "title": "From No Programming Experience to Web Developer in 11 Small Steps",
-  "description": "Web Development can be difficult, especially for beginners. But don't fret! This article will provide...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gJzDucTC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmjtsfo09rwu4n5kbogz.png",
-  "slug": "from-no-programming-experience-to-web-developer-in-11-small-steps-4fbn",
-  "url": "https://dev.to/ruppysuppy/from-no-programming-experience-to-web-developer-in-11-small-steps-4fbn",
-  "publish_date": "2022-06-12",
-  "published_at": "2022-06-12T06:22:08Z"
  }
 ]
