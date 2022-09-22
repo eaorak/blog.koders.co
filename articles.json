@@ -1,5 +1,55 @@
 [
  {
+  "id": 1199472,
+  "title": "Generate APIs in Flask without coding - Open-Source Project",
+  "description": "A simple tool for generating secure API services using Flask - Open-source generator that can be extended with ease",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wvfalxhh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p25im0jmb7r9auv7967p.jpg",
+  "slug": "generate-apis-in-flask-without-coding-open-source-project-3nni",
+  "url": "https://dev.to/sm0ke/generate-apis-in-flask-without-coding-open-source-project-3nni",
+  "publish_date": "2022-09-21",
+  "published_at": "2022-09-21T18:10:00Z"
+ },
+ {
+  "id": 1181080,
+  "title": "The Complete Guide to a Career in Web Development",
+  "description": "Welcome!    Please take a moment to read the introduction before getting started.   Do not be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tIXaXspQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xwze4a3eok76f6tfe8bw.png",
+  "slug": "the-complete-beginners-guide-to-a-career-in-web-development-3fbl",
+  "url": "https://dev.to/alexeagleson/the-complete-beginners-guide-to-a-career-in-web-development-3fbl",
+  "publish_date": "2022-09-21",
+  "published_at": "2022-09-21T13:30:37Z"
+ },
+ {
+  "id": 1185372,
+  "title": "How to Optimize Your Code for Performance",
+  "description": "The Benefits of Optimized Code   As technology advances, the demand for faster and more...",
+  "cover_image": "",
+  "slug": "how-to-optimize-your-code-for-performance-1km5",
+  "url": "https://dev.to/roy8/how-to-optimize-your-code-for-performance-1km5",
+  "publish_date": "2022-09-21",
+  "published_at": "2022-09-21T08:38:16Z"
+ },
+ {
+  "id": 1168624,
+  "title": "System Design: WhatsApp",
+  "description": "Let's design a Whatsapp like instant messaging service, similar to services like Whatsapp, Facebook...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_TxEvRiR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/karanpratapsingh/portfolio/master/public/static/courses/system-design/chapter-V/whatsapp/banner.png",
+  "slug": "system-design-whatsapp-fld",
+  "url": "https://dev.to/karanpratapsingh/system-design-whatsapp-fld",
+  "publish_date": "2022-09-21",
+  "published_at": "2022-09-21T05:44:12Z"
+ },
+ {
+  "id": 1198763,
+  "title": "Launching an Images Website… Without Any Images",
+  "description": "In preparation for Divtober, I published a website with a collection of single-element CSS drawings.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yz5Rn80p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mbp30chvwl2i4801r35u.jpg",
+  "slug": "launching-an-images-website-without-any-images-14bd",
+  "url": "https://dev.to/alvaromontoro/launching-an-images-website-without-any-images-14bd",
+  "publish_date": "2022-09-21",
+  "published_at": "2022-09-21T01:02:49Z"
+ },
+ {
   "id": 1197208,
   "title": "Redis Hackathon Winners, Announced!",
   "description": "Celebrating the winners from the Redis Hackathon on DEV!",
@@ -2300,22 +2350,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/iamschulz/writing-a-game-in-typescript-13em",
   "publish_date": "2022-06-14",
   "published_at": "2022-06-14T06:31:49Z"
- },
- {
-  "id": 1112787,
-  "title": "7 Tools To Make Kubernetes Management Easy",
-  "description": "In the emerging Cloud-Native environment, Kubernetes is everywhere without any question. It has...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5Eir7h5e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/114rvipun5v434but0rs.jpg",
-  "slug": "7-tools-to-make-kubernetes-management-easy-15bn",
-  "url": "https://dev.to/devtron_/7-tools-to-make-kubernetes-management-easy-15bn",
-  "publish_date": "2022-06-13",
-  "published_at": "2022-06-13T13:29:47Z"
- },
- {
-  "id": 1112871,
-  "title": "Meme Monday!",
-  "description": "Welcome to the second Meme Monday post! Today's cover image comes from my favorite submission from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xdKssaod--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vz5g6c9aj5n205uzfchs.png",
-  "slug": "meme-monday-1lnl",
-  "url": "https://dev.to/ben/meme-monday-1lnl",
-  "publish_date": "2022-06-13",
-  "published_at": "2022-06-13T13:12:04Z"
- },
- {
-  "id": 1111174,
-  "title": "Monitoring PHP applications with OpenTelemetry and SigNoz",
-  "description": "PHP is a widely popular server-side language and enjoys the top spot in terms of market share. Many...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jP_M7Dp_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cbzcuhxh1jjtp67x8vxk.png",
-  "slug": "monitoring-php-applications-with-opentelemetry-and-signoz-3h51",
-  "url": "https://dev.to/signoz/monitoring-php-applications-with-opentelemetry-and-signoz-3h51",
-  "publish_date": "2022-06-13",
-  "published_at": "2022-06-13T12:20:59Z"
- },
- {
-  "id": 1112773,
-  "title": "Building a live chart with Deno, WebSockets, Chart.js and Materialize",
-  "description": "Introduction   This is a self-contained example of a real-time chart powered by Deno, Web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Trr9RbOU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rnn8sshpaggqoewtuidw.jpeg",
-  "slug": "building-a-live-chart-with-deno-websockets-chartjs-and-materialize-3cd7",
-  "url": "https://dev.to/bobbyiliev/building-a-live-chart-with-deno-websockets-chartjs-and-materialize-3cd7",
-  "publish_date": "2022-06-13",
-  "published_at": "2022-06-13T09:42:44Z"
- },
- {
-  "id": 1112290,
-  "title": "Is Virtual DOM overhyped?",
-  "description": "Brief Origin of where the hype began   On the 29th of May, 2013, the pain of building...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rWzh1dFs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bftv9qjjbbmgpkjsw0rj.png",
-  "slug": "is-virtual-dom-overhyped-96",
-  "url": "https://dev.to/paul_emechebe/is-virtual-dom-overhyped-96",
-  "publish_date": "2022-06-13",
-  "published_at": "2022-06-13T02:15:23Z"
  }
 ]
