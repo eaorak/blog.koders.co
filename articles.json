@@ -1,5 +1,55 @@
 [
  {
+  "id": 1200342,
+  "title": "Kubernetes Cost Monitoring: 3 Metrics You Need to Track ASAP",
+  "description": "Cost visibility is the first step to managing and forecasting cloud costs. But before you splurge on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GBwxP5Y---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dgzdls6fummcom1u8uca.png",
+  "slug": "kubernetes-cost-monitoring-3-metrics-you-need-to-track-asap-5c6o",
+  "url": "https://dev.to/castai/kubernetes-cost-monitoring-3-metrics-you-need-to-track-asap-5c6o",
+  "publish_date": "2022-09-22",
+  "published_at": "2022-09-22T16:01:31Z"
+ },
+ {
+  "id": 1200013,
+  "title": "Free Awesome Notion Templates for Developers",
+  "description": "Introduction   Notion is a fantastic platform for note-taking and productivity management. I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NRm6Duyf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g92u94fwpd1rqighuwvm.png",
+  "slug": "free-awesome-notion-templates-for-developers-43mh",
+  "url": "https://dev.to/surajondev/free-awesome-notion-templates-for-developers-43mh",
+  "publish_date": "2022-09-22",
+  "published_at": "2022-09-22T11:34:35Z"
+ },
+ {
+  "id": 1200055,
+  "title": "Medusa Hackathon sign-up: Win Merch and Prizes up to $1,500 During Hacktoberfest",
+  "description": "We are thrilled to soon gear up for Hacktoberfest together with you. This year, we are offering you a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lybEHn1n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ccb58j61w5cs2dscrtrp.jpg",
+  "slug": "medusa-hackathon-sign-up-win-merch-and-prizes-up-to-1500-during-hacktoberfest-4h45",
+  "url": "https://dev.to/medusajs/medusa-hackathon-sign-up-win-merch-and-prizes-up-to-1500-during-hacktoberfest-4h45",
+  "publish_date": "2022-09-22",
+  "published_at": "2022-09-22T10:24:40Z"
+ },
+ {
+  "id": 1199975,
+  "title": "Boost Your Productivity: Best Software For Dev Teams",
+  "description": "We are slowly approaching the end (!) of 2022. How would I sum it up? For me and my team, the last...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JJwralxo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vixsld9i4yrqr05l27nh.png",
+  "slug": "boost-your-productivity-best-software-for-dev-teams-476g",
+  "url": "https://dev.to/jamieswift90/boost-your-productivity-best-software-for-dev-teams-476g",
+  "publish_date": "2022-09-22",
+  "published_at": "2022-09-22T08:24:47Z"
+ },
+ {
+  "id": 1168625,
+  "title": "System Design: Twitter",
+  "description": "Let's design a Twitter like social media service, similar to services like Facebook, Instagram,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--825DKCS_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/karanpratapsingh/portfolio/master/public/static/courses/system-design/chapter-V/twitter/banner.png",
+  "slug": "system-design-twitter-865",
+  "url": "https://dev.to/karanpratapsingh/system-design-twitter-865",
+  "publish_date": "2022-09-22",
+  "published_at": "2022-09-22T02:50:33Z"
+ },
+ {
   "id": 1199472,
   "title": "Generate APIs in Flask without coding - Open-Source Project",
   "description": "A simple tool for generating secure API services using Flask - Open-source generator that can be extended with ease",
@@ -2350,22 +2400,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/n3r4zzurr0/svg-spinners-1do6",
   "publish_date": "2022-06-15",
   "published_at": "2022-06-15T07:42:19Z"
- },
- {
-  "id": 1114122,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-4ghj",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ghj",
-  "publish_date": "2022-06-14",
-  "published_at": "2022-06-14T15:24:58Z"
- },
- {
-  "id": 1113836,
-  "title": "I built the trendiest admin dashboard for React using the latest UI trends! Use it for free!",
-  "description": "Hey guys, I built the trendiest admin dashboard for React \u0026amp; Chakra UI using the latest UI trends!...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DOvbrWDJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i0swztibqie6e4hkgai7.png",
-  "slug": "i-built-the-trendiest-admin-dashboard-for-react-using-the-latest-ui-trends-use-it-for-free-21pn",
-  "url": "https://dev.to/fredy/i-built-the-trendiest-admin-dashboard-for-react-using-the-latest-ui-trends-use-it-for-free-21pn",
-  "publish_date": "2022-06-14",
-  "published_at": "2022-06-14T10:26:25Z"
- },
- {
-  "id": 1112889,
-  "title": "React + TypeScript + ESLint + Prettier Full Setup ✈",
-  "description": "Table of Content      📌 Introduction  📌 Why this configuration 🤔?  📌 Configuration 🛠   👉...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RfiJOAcb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4887u5m6xwo9atxbrdm.png",
-  "slug": "reacttypescripteslint-prettier-full-setup-p7j",
-  "url": "https://dev.to/suchintan/reacttypescripteslint-prettier-full-setup-p7j",
-  "publish_date": "2022-06-14",
-  "published_at": "2022-06-14T09:08:12Z"
- },
- {
-  "id": 1113717,
-  "title": "Wasp - language for developing full-stack Javascript web apps with no boilerplate",
-  "description": "Meet Wasp: a new programming language for developing full-stack web apps with less code.  Wasp is a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t7aYQJHU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjxms2f3zkxj0jxlai3p.png",
-  "slug": "wasp-language-for-developing-full-stack-javascript-web-apps-with-no-boilerplate-2fo4",
-  "url": "https://dev.to/wasp/wasp-language-for-developing-full-stack-javascript-web-apps-with-no-boilerplate-2fo4",
-  "publish_date": "2022-06-14",
-  "published_at": "2022-06-14T08:56:59Z"
- },
- {
-  "id": 1112648,
-  "title": "Writing a Game in Typescript",
-  "description": "I know people make all kinds of stuff with \u0026lt;canvas\u0026gt; but that's all black magic to me. Time to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZCaAVaxy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t21nnada3lwqu567vpx2.jpg",
-  "slug": "writing-a-game-in-typescript-13em",
-  "url": "https://dev.to/iamschulz/writing-a-game-in-typescript-13em",
-  "publish_date": "2022-06-14",
-  "published_at": "2022-06-14T06:31:49Z"
  }
 ]
