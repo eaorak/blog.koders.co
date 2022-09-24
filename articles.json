@@ -1,5 +1,55 @@
 [
  {
+  "id": 1200538,
+  "title": "DEV Should Remove the Authors Ability to Hide Comments",
+  "description": "Intro 📽️   Before jumping the gun, hear me out!  Recently, I wrote the post:                ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lJnJtytj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/62kanpcn37qt6ono3zr1.jpg",
+  "slug": "dev-should-remove-the-authors-ability-to-hide-comments-2o35",
+  "url": "https://dev.to/gregorygaines/dev-should-remove-the-authors-ability-to-hide-comments-2o35",
+  "publish_date": "2022-09-23",
+  "published_at": "2022-09-23T16:41:56Z"
+ },
+ {
+  "id": 1201252,
+  "title": "Follow Friday: Python Edition (23 September 2022)",
+  "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
+  "cover_image": "",
+  "slug": "follow-friday-python-edition-23-september-2022-5456",
+  "url": "https://dev.to/devteam/follow-friday-python-edition-23-september-2022-5456",
+  "publish_date": "2022-09-23",
+  "published_at": "2022-09-23T15:45:53Z"
+ },
+ {
+  "id": 1201062,
+  "title": "tsParticles 2.3.2 Released",
+  "description": "tsParticles 2.3.2 Changelog            Bug Fixes    Fixed export configuration method of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RzJWMIvY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0d9trtifex57368x02su.jpg",
+  "slug": "tsparticles-232-released-27ep",
+  "url": "https://dev.to/tsparticles/tsparticles-232-released-27ep",
+  "publish_date": "2022-09-23",
+  "published_at": "2022-09-23T12:14:27Z"
+ },
+ {
+  "id": 1200965,
+  "title": "AWS APAC Community Summit Wrap up",
+  "description": "It has been a challenging couple of years.   The transition to working from home, keeping those...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NY1uIsoe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gih290j72ddcwt3o7lmg.png",
+  "slug": "aws-apac-community-summit-wrap-up-1an4",
+  "url": "https://dev.to/aws-heroes/aws-apac-community-summit-wrap-up-1an4",
+  "publish_date": "2022-09-23",
+  "published_at": "2022-09-23T10:39:48Z"
+ },
+ {
+  "id": 1199479,
+  "title": "Understand call, apply, and bind functions in JavaScript like never before.",
+  "description": "In this post, we'll take a detailed look at how call, apply, and bind work in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MPaaldO2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5yeov0nnmgoftl5de7nw.png",
+  "slug": "understand-call-apply-and-bind-functions-in-javascript-like-never-before-575e",
+  "url": "https://dev.to/swastikyadav/understand-call-apply-and-bind-functions-in-javascript-like-never-before-575e",
+  "publish_date": "2022-09-23",
+  "published_at": "2022-09-23T10:18:37Z"
+ },
+ {
   "id": 1200342,
   "title": "Kubernetes Cost Monitoring: 3 Metrics You Need to Track ASAP",
   "description": "Cost visibility is the first step to managing and forecasting cloud costs. But before you splurge on...",
@@ -2400,22 +2450,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/asyrafhussin4/pure-css-the-queens-gambit-f0i",
   "publish_date": "2022-06-16",
   "published_at": "2022-06-16T04:55:18Z"
- },
- {
-  "id": 1115326,
-  "title": "CodeLand is special, and I'm not just saying that.",
-  "description": "I've been to every CodeLand — well before I was officially involved in it. It's been one of the best...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v0ztwH-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6bkiyz7lvdbrp2nr4plo.png",
-  "slug": "codeland-is-special-and-im-not-just-saying-that-4hka",
-  "url": "https://dev.to/codenewbieteam/codeland-is-special-and-im-not-just-saying-that-4hka",
-  "publish_date": "2022-06-15",
-  "published_at": "2022-06-15T20:30:59Z"
- },
- {
-  "id": 1114982,
-  "title": "People rarely use complicated git commands on the weekend, and I have the data to prove it.",
-  "description": "Preamble: We've been running an experimental project to catalog good evergreen guides on DEV. Some...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T1KWi6Vb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u660dzthxcjp108m9qlv.png",
-  "slug": "people-rarely-use-complicated-git-commands-on-the-weekend-and-i-have-the-data-to-prove-it-3ae2",
-  "url": "https://dev.to/devteam/people-rarely-use-complicated-git-commands-on-the-weekend-and-i-have-the-data-to-prove-it-3ae2",
-  "publish_date": "2022-06-15",
-  "published_at": "2022-06-15T13:28:52Z"
- },
- {
-  "id": 1114757,
-  "title": "Designing a Scalable and Secure REST API Gateway",
-  "description": "Design patterns in microservices: API Gateway, Backend for Frontend, Event-Driven...",
-  "cover_image": "",
-  "slug": "designing-a-scalable-and-secure-rest-api-gateway-k5f",
-  "url": "https://dev.to/roy8/designing-a-scalable-and-secure-rest-api-gateway-k5f",
-  "publish_date": "2022-06-15",
-  "published_at": "2022-06-15T10:34:51Z"
- },
- {
-  "id": 1114754,
-  "title": "How to use Docker in your Node and React Applications",
-  "description": "Docker gives developers the ability to package all of their applications inside of containers. These...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ovWWHS_z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zex89464rgfil4pkqnu8.png",
-  "slug": "how-to-use-docker-in-your-node-and-react-applications-597e",
-  "url": "https://dev.to/andrewbaisden/how-to-use-docker-in-your-node-and-react-applications-597e",
-  "publish_date": "2022-06-15",
-  "published_at": "2022-06-15T10:29:17Z"
- },
- {
-  "id": 1114691,
-  "title": "SVG Spinners!",
-  "description": "I have created a collection of 24 x 24 dp SVG spinners! Use them for free!  I'll be adding new...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ql4bnfG4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2316cvw7z66h2ufvx1pu.gif",
-  "slug": "svg-spinners-1do6",
-  "url": "https://dev.to/n3r4zzurr0/svg-spinners-1do6",
-  "publish_date": "2022-06-15",
-  "published_at": "2022-06-15T07:42:19Z"
  }
 ]
