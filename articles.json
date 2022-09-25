@@ -1,5 +1,55 @@
 [
  {
+  "id": 1201919,
+  "title": "Continue Using .env Files As Usual.",
+  "description": "Table Of Content (TOC).     Introduction. 1. Storing The .env File. 2. Updating a secret...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LpzgDtjB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ivon50sdm1h96tluxpr.jpg",
+  "slug": "continue-using-env-files-as-usual-2am5",
+  "url": "https://dev.to/wiseai/continue-using-env-files-as-usual-2am5",
+  "publish_date": "2022-09-24",
+  "published_at": "2022-09-24T13:46:35Z"
+ },
+ {
+  "id": 1189147,
+  "title": "Top 5 Sessions for AWS Developers at HashiConf Global",
+  "description": "👉 The past two years have been challenging due to the pandemic and virtually attending conferences. A...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q71gHwVq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpxvyqdlv0cth1kxu4d2.jpg",
+  "slug": "top-5-sessions-for-aws-developers-at-hashiconf-global-14i5",
+  "url": "https://dev.to/aditmodi/top-5-sessions-for-aws-developers-at-hashiconf-global-14i5",
+  "publish_date": "2022-09-24",
+  "published_at": "2022-09-24T12:58:08Z"
+ },
+ {
+  "id": 1201881,
+  "title": "JavaScript Local Storage Explained!",
+  "description": "In the early days of the internet, you needed a server to store data. But nowadays, through...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y04F_fnf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8bjw43edlrffo5jsfw4v.png",
+  "slug": "javascript-local-storage-explained-1di6",
+  "url": "https://dev.to/dboatengx/javascript-local-storage-explained-1di6",
+  "publish_date": "2022-09-24",
+  "published_at": "2022-09-24T09:50:58Z"
+ },
+ {
+  "id": 1198814,
+  "title": "Quiet Quitting is About Loyalty",
+  "description": "In the past year or so, people started writing about the phenomenon of quiet quitting. It isn’t new,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tgwr4nOf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xveosj0p7dpgiwggcj4e.png",
+  "slug": "quiet-quitting-is-about-loyalty-1d6m",
+  "url": "https://dev.to/codenameone/quiet-quitting-is-about-loyalty-1d6m",
+  "publish_date": "2022-09-24",
+  "published_at": "2022-09-24T09:23:32Z"
+ },
+ {
+  "id": 1201696,
+  "title": "Here's how I increased a website performance by 21%!",
+  "description": "So for days, I have been keen on how I could possibly increase the performance of this website, then...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RFV527tu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ocfd9190y81upos4ahxg.PNG",
+  "slug": "heres-how-i-increased-a-website-performance-by-21-7di",
+  "url": "https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di",
+  "publish_date": "2022-09-24",
+  "published_at": "2022-09-24T05:05:08Z"
+ },
+ {
   "id": 1200538,
   "title": "DEV Should Remove the Authors Ability to Hide Comments",
   "description": "Intro 📽️   Before jumping the gun, hear me out!  Recently, I wrote the post:                ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github/how-do-you-make-folks-who-sponsor-your-open-source-projects-feel-valued-3ij7",
   "publish_date": "2022-06-17",
   "published_at": "2022-06-17T01:07:07Z"
- },
- {
-  "id": 1115591,
-  "title": "Top 11 MYSQL monitoring tools in 2022 [open-source included]",
-  "description": "Database monitoring is a critical component in your application performance monitoring. Apart from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Htfvo_nW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5z53ndo7yagxb36qg2au.png",
-  "slug": "top-11-mysql-monitoring-tools-in-2022-open-source-included-247m",
-  "url": "https://dev.to/signoz/top-11-mysql-monitoring-tools-in-2022-open-source-included-247m",
-  "publish_date": "2022-06-16",
-  "published_at": "2022-06-16T11:36:15Z"
- },
- {
-  "id": 1113941,
-  "title": "Which Frontend Framework to Pick for Your E-commerce Storefront?",
-  "description": "An ecommerce storefront should provide users with the best experience to facilitate their purchases....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--601AIrhK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nz0s6nu7hh9hqz77aub0.png",
-  "slug": "which-frontend-framework-to-pick-for-your-e-commerce-storefront-12km",
-  "url": "https://dev.to/medusajs/which-frontend-framework-to-pick-for-your-e-commerce-storefront-12km",
-  "publish_date": "2022-06-16",
-  "published_at": "2022-06-16T11:17:51Z"
- },
- {
-  "id": 1115787,
-  "title": "Using Google Sheets as your CMS",
-  "description": "Spreadsheets. They are everywhere.   Managers especially seem to love them, which is why the world...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BskU2lDe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzlgt52t0deicjpbb99r.jpg",
-  "slug": "using-google-sheets-as-your-cms-1h1p",
-  "url": "https://dev.to/kaspera/using-google-sheets-as-your-cms-1h1p",
-  "publish_date": "2022-06-16",
-  "published_at": "2022-06-16T10:02:15Z"
- },
- {
-  "id": 1115766,
-  "title": "How to use ESLint and Prettier for code analysis and formatting",
-  "description": "ESLint and Prettier are pretty much the two most popular tools when it comes to doing code analysis...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5VmfTP2z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hs1qmpz43vgedbbfgib5.png",
-  "slug": "how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g",
-  "url": "https://dev.to/andrewbaisden/how-to-use-eslint-and-prettier-for-code-analysis-and-formatting-1b4g",
-  "publish_date": "2022-06-16",
-  "published_at": "2022-06-16T08:58:36Z"
- },
- {
-  "id": 1115614,
-  "title": "Pure CSS The Queen's Gambit",
-  "description": "Speed Code Video https://twitter.com/asyrafhussin4/status/1526580125113864193",
-  "cover_image": "",
-  "slug": "pure-css-the-queens-gambit-f0i",
-  "url": "https://dev.to/asyrafhussin4/pure-css-the-queens-gambit-f0i",
-  "publish_date": "2022-06-16",
-  "published_at": "2022-06-16T04:55:18Z"
  }
 ]
