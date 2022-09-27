@@ -1,5 +1,55 @@
 [
  {
+  "id": 1201257,
+  "title": "Our Dear Unicorn Friend is Going on Vacation",
+  "description": "We are making design adjustments to Forem (the open-source codebase that powers DEV and other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KjX9M3v1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfpolhlbdzpvkicgbqa0.png",
+  "slug": "our-dear-unicorn-friend-is-going-on-vacation-idm",
+  "url": "https://dev.to/devteam/our-dear-unicorn-friend-is-going-on-vacation-idm",
+  "publish_date": "2022-09-26",
+  "published_at": "2022-09-26T19:25:35Z"
+ },
+ {
+  "id": 1198816,
+  "title": "How to get ready for Hacktoberfest 2022",
+  "description": "Hacktoberfest is days away from starting. Registrations are already open and there is a flurry of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg",
+  "slug": "how-to-get-ready-for-hacktoberfest-2022-2ck2",
+  "url": "https://dev.to/github/how-to-get-ready-for-hacktoberfest-2022-2ck2",
+  "publish_date": "2022-09-26",
+  "published_at": "2022-09-26T19:07:29Z"
+ },
+ {
+  "id": 1203619,
+  "title": "Meme Monday 🚨",
+  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wKarYHK2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ntwj50yu3bposb2fgl47.png",
+  "slug": "meme-monday-3jjm",
+  "url": "https://dev.to/ben/meme-monday-3jjm",
+  "publish_date": "2022-09-26",
+  "published_at": "2022-09-26T15:52:54Z"
+ },
+ {
+  "id": 1203441,
+  "title": "Voby: Simplifications Over Solid - No Babel, No Compiler",
+  "description": "A series of in-depth articles looking at simplifications that Voby made over Solid",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QflmQA8_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/vobyjs/voby/master/resources/banner/png/banner-light.png",
+  "slug": "voby-simplifications-over-solid-no-babel-no-compiler-5epg",
+  "url": "https://dev.to/fabiospampinato/voby-simplifications-over-solid-no-babel-no-compiler-5epg",
+  "publish_date": "2022-09-26",
+  "published_at": "2022-09-26T13:34:55Z"
+ },
+ {
+  "id": 1202895,
+  "title": "5 webdev tips you may want to know 🔥 #2",
+  "description": "1. Web workers cheatsheet   A worker thread can perform tasks without interfering with the...",
+  "cover_image": "",
+  "slug": "5-webdev-tips-you-may-want-to-know-2-41e",
+  "url": "https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-2-41e",
+  "publish_date": "2022-09-26",
+  "published_at": "2022-09-26T13:30:03Z"
+ },
+ {
   "id": 1202452,
   "title": "Form to Email API - Create Working Site Forms Without Server",
   "description": "If you are looking for simple and free to use Form API that works with all framework, language,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aryaprakasa/serving-single-page-application-in-a-single-binary-file-with-go-12ij",
   "publish_date": "2022-06-19",
   "published_at": "2022-06-19T01:01:08Z"
- },
- {
-  "id": 1117830,
-  "title": "10 Algorithms Every Developer Should Learn",
-  "description": "There seems to be a large misconception from a lot of aspiring devs that memorizing standard...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8W4Q-OEX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzud4zejd2cbgdxktved.png",
-  "slug": "10-algorithms-every-developer-should-learn-3lnm",
-  "url": "https://dev.to/codesphere/10-algorithms-every-developer-should-learn-3lnm",
-  "publish_date": "2022-06-18",
-  "published_at": "2022-06-18T13:38:50Z"
- },
- {
-  "id": 1117782,
-  "title": "Hoisting in JavaScript(Variables \u0026 function)",
-  "description": "Hoisting            What is Hoisting in JavaScript?   When the JavaScript engine executes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2PxujMiZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rg157xmbs2uuuc7pv0sd.png",
-  "slug": "hoisting-in-javascriptvariables-function-1j4h",
-  "url": "https://dev.to/srishtikprasad/hoisting-in-javascriptvariables-function-1j4h",
-  "publish_date": "2022-06-18",
-  "published_at": "2022-06-18T10:04:21Z"
- },
- {
-  "id": 1117778,
-  "title": "React Horizon UI - Open-Source Full-Stack Starter",
-  "description": "Open-Source full-stack starter crafted on top of Chakra UI, react, and powered by a simple NodeJS API Server.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7M3gWq4d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rqdsssbu19yjosez2eb1.jpg",
-  "slug": "react-horizon-ui-open-source-full-stack-starter-3nbp",
-  "url": "https://dev.to/sm0ke/react-horizon-ui-open-source-full-stack-starter-3nbp",
-  "publish_date": "2022-06-18",
-  "published_at": "2022-06-18T09:53:21Z"
- },
- {
-  "id": 1117688,
-  "title": "CSS Logos: Instagram logo",
-  "description": "I'm pretty sure everyone has seen this one before, the Instagram logo.  For reference, it's the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MiBHGL5H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1eh3ikb3j8ljmttsu500.jpg",
-  "slug": "css-logos-instagram-logo-1i96",
-  "url": "https://dev.to/dailydevtips1/css-logos-instagram-logo-1i96",
-  "publish_date": "2022-06-18",
-  "published_at": "2022-06-18T08:24:33Z"
- },
- {
-  "id": 1117679,
-  "title": "Python:Functional Programming",
-  "description": "Defining functions Python can also be used for functional programming as it can for structural...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_oRWpQGY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1idu5g3ao9z9j5cx6y4l.png",
-  "slug": "pythonfunctional-programming-1cd1",
-  "url": "https://dev.to/ezeanamichael/pythonfunctional-programming-1cd1",
-  "publish_date": "2022-06-18",
-  "published_at": "2022-06-18T08:03:16Z"
  }
 ]
