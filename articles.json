@@ -1,5 +1,55 @@
 [
  {
+  "id": 1204828,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-593j",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-593j",
+  "publish_date": "2022-09-27",
+  "published_at": "2022-09-27T19:08:36Z"
+ },
+ {
+  "id": 1204235,
+  "title": "Explained in 5 Levels of Difficulty: Ecommerce by Medusa",
+  "description": "At Medusa, we often write articles where we try to explain how to do different tasks with Medusa, or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kRv6ujVY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zt2kgo1omgcfnp3kmvn2.jpg",
+  "slug": "explained-in-5-levels-of-difficulty-ecommerce-by-medusa-47co",
+  "url": "https://dev.to/medusajs/explained-in-5-levels-of-difficulty-ecommerce-by-medusa-47co",
+  "publish_date": "2022-09-27",
+  "published_at": "2022-09-27T11:00:29Z"
+ },
+ {
+  "id": 1204172,
+  "title": "Introducing Holopin: the digital badge platform for developers!",
+  "description": "Holopin — the cool way to do digital badges   We are so excited to introduce you to Holopin...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Oh2T-TCx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mh8s08h4pei1vkqgehkk.png",
+  "slug": "introducing-holopin-the-digital-badge-platform-for-developers-2hlk",
+  "url": "https://dev.to/elenalape/introducing-holopin-the-digital-badge-platform-for-developers-2hlk",
+  "publish_date": "2022-09-27",
+  "published_at": "2022-09-27T09:15:05Z"
+ },
+ {
+  "id": 1203638,
+  "title": ".NET 7 is already a reality! Microsoft releases the first Release Candidate of .NET 7",
+  "description": "Yes, you are reading correctly. The first Release Candidate of the two that are going to be released...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AuyZqbFN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9g4ryddmqtlxc13w0mw.png",
+  "slug": "net-7-is-already-a-reality-microsoft-releases-the-first-release-candidate-of-net-7-4kc4",
+  "url": "https://dev.to/bytehide/net-7-is-already-a-reality-microsoft-releases-the-first-release-candidate-of-net-7-4kc4",
+  "publish_date": "2022-09-27",
+  "published_at": "2022-09-27T08:03:56Z"
+ },
+ {
+  "id": 1204034,
+  "title": "How do you create your headers?",
+  "description": "I often get asked how I create the headers for my articles. Thus I thought, let me write down how I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6R089bwz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jsabd7wio2gsixfmz4yj.jpg",
+  "slug": "how-do-you-create-your-headers-47fn",
+  "url": "https://dev.to/dailydevtips1/how-do-you-create-your-headers-47fn",
+  "publish_date": "2022-09-27",
+  "published_at": "2022-09-27T05:52:19Z"
+ },
+ {
   "id": 1201257,
   "title": "Our Dear Unicorn Friend is Going on Vacation",
   "description": "We are making design adjustments to Forem (the open-source codebase that powers DEV and other...",
@@ -2600,22 +2650,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sachinchaurasiya/typescript-utility-types-the-6-most-useful-2bp4",
   "publish_date": "2022-06-20",
   "published_at": "2022-06-20T04:24:38Z"
- },
- {
-  "id": 1078942,
-  "title": "Cheatsheet for Web Developers",
-  "description": "If you are searching for cheatsheet, here I am sharing all the cheatsheet which will definitely going...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VBT-1qBA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsdjf2r28nhpu9jj1t6l.png",
-  "slug": "cheatsheet-for-web-developers-1opg",
-  "url": "https://dev.to/suprabhasupi/cheatsheet-for-web-developers-1opg",
-  "publish_date": "2022-06-19",
-  "published_at": "2022-06-19T12:06:04Z"
- },
- {
-  "id": 1118358,
-  "title": "Use the power of a JavaScript framework right in your HTML file!!",
-  "description": "frameworks are overrated, let's use HTML!            Intro   Jokes apart, this blog is about yet...",
-  "cover_image": "",
-  "slug": "use-the-power-of-a-javascript-framework-right-in-your-html-file-1d88",
-  "url": "https://dev.to/asheeshh/use-the-power-of-a-javascript-framework-right-in-your-html-file-1d88",
-  "publish_date": "2022-06-19",
-  "published_at": "2022-06-19T07:01:58Z"
- },
- {
-  "id": 1118342,
-  "title": "Dev Tools Unleashed: 7 things you probably didn't know Dev Tools could do",
-  "description": "The Chromium Dev Tools provides a powerful toolset for debugging and testing web apps, but most...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tJb3UW-n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a8jixnzziq95735twvot.png",
-  "slug": "dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-4b5d",
-  "url": "https://dev.to/ruppysuppy/dev-tools-unleashed-7-things-you-probably-didnt-know-dev-tools-could-do-4b5d",
-  "publish_date": "2022-06-19",
-  "published_at": "2022-06-19T06:09:19Z"
- },
- {
-  "id": 1116707,
-  "title": "JavaScript to TypeScript | Complete Guide with React ⚛️",
-  "description": "Table of Content      📌 Introduction  📌 Introduction to TypeScript   ➡ Variables  ➡...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ml8niJKJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w5z85gmbr6anvfjhoywf.png",
-  "slug": "javascript-to-typescript-complete-guide-with-react-1nd8",
-  "url": "https://dev.to/suchintan/javascript-to-typescript-complete-guide-with-react-1nd8",
-  "publish_date": "2022-06-19",
-  "published_at": "2022-06-19T04:30:26Z"
- },
- {
-  "id": 996602,
-  "title": "Serving Single-Page Application in a single binary file with Go",
-  "description": "Although there are many alternatives to deploy a single-page application (SPA), you might find a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n1miOEDR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/luii1hyk4yt3g0zc7j6m.jpg",
-  "slug": "serving-single-page-application-in-a-single-binary-file-with-go-12ij",
-  "url": "https://dev.to/aryaprakasa/serving-single-page-application-in-a-single-binary-file-with-go-12ij",
-  "publish_date": "2022-06-19",
-  "published_at": "2022-06-19T01:01:08Z"
  }
 ]
