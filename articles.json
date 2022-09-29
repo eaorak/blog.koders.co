@@ -1,5 +1,55 @@
 [
  {
+  "id": 1205514,
+  "title": "Announcing the Budibase Hackathon - Over $5K in prizes 🎉",
+  "description": "​There's a new opportunity to level up your software development skills and contribute to open-source while educating others and earning incredible prizes. ",
+  "cover_image": "",
+  "slug": "announcing-the-budibase-hackathon-over-5k-in-prizes-5agj",
+  "url": "https://dev.to/budibase/announcing-the-budibase-hackathon-over-5k-in-prizes-5agj",
+  "publish_date": "2022-09-28",
+  "published_at": "2022-09-28T12:50:50Z"
+ },
+ {
+  "id": 1205321,
+  "title": "Building a Kanban board with Node.js, React and Websockets 📝 ✨",
+  "description": "What is this article about?   In this article, you'll learn how to build a Kanban Board the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BPr8hEDJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wz41ugndktx03dlhq8h4.png",
+  "slug": "building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk",
+  "url": "https://dev.to/novu/building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk",
+  "publish_date": "2022-09-28",
+  "published_at": "2022-09-28T10:41:17Z"
+ },
+ {
+  "id": 1205319,
+  "title": "Announcing📢:Hacktoberfest With Aviyel 💜🌱",
+  "description": "Introduction   We’re excited to announce that we will be taking part in this year’s...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3dKZfZC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvwlmuj0266oytglfums.png",
+  "slug": "announcinghacktoberfest-with-aviyel-59ha",
+  "url": "https://dev.to/aviyel/announcinghacktoberfest-with-aviyel-59ha",
+  "publish_date": "2022-09-28",
+  "published_at": "2022-09-28T09:44:28Z"
+ },
+ {
+  "id": 1205265,
+  "title": "Introducing Budibase 2.0 🍱",
+  "description": "Today we’re launching Budibase 2.0 - and yes, you can build your own custom components! Budibase 2.0 brings it all together: extensibility, scalability, education, and community. We think you’ll love it!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2rhDUloe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://res.cloudinary.com/daog6scxm/image/upload/v1663675553/cms/budibase-2_xtfmcp.gif",
+  "slug": "introducing-budibase-20-1jp4",
+  "url": "https://dev.to/budibase/introducing-budibase-20-1jp4",
+  "publish_date": "2022-09-28",
+  "published_at": "2022-09-28T09:00:10Z"
+ },
+ {
+  "id": 1205152,
+  "title": "How to Become a Faster Programmer",
+  "description": "So you’ve already managed to achieve your first programming goals, maybe developed an example...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HNqJL-co--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrr20udzasokx7cgp5jg.jpg",
+  "slug": "how-to-become-a-faster-programmer-hp9",
+  "url": "https://dev.to/marcinwosinek/how-to-become-a-faster-programmer-hp9",
+  "publish_date": "2022-09-28",
+  "published_at": "2022-09-28T05:46:52Z"
+ },
+ {
   "id": 1204828,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/unitybuddy/i-love-listening-to-music-when-coding-and-you-should-too-3b1e",
   "publish_date": "2022-06-21",
   "published_at": "2022-06-21T05:31:41Z"
- },
- {
-  "id": 1118547,
-  "title": "Practical WEBPACK Basics: Pure Javascript frontend",
-  "description": "Contents    Inspiration Prerequisites Setup Webpack basics Sample App and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FEtFbjhn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gr9tkih7ea89kp7375yg.jpg",
-  "slug": "practical-webpack-basics-pure-javascript-frontend-356",
-  "url": "https://dev.to/steffanboodhoo/practical-webpack-basics-pure-javascript-frontend-356",
-  "publish_date": "2022-06-20",
-  "published_at": "2022-06-20T18:46:42Z"
- },
- {
-  "id": 1119354,
-  "title": "Meme Monday!?!",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from my favorite submission from last...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wOe0CapF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bbkypz5itk5zubv0b7rl.png",
-  "slug": "meme-monday-3ji7",
-  "url": "https://dev.to/ben/meme-monday-3ji7",
-  "publish_date": "2022-06-20",
-  "published_at": "2022-06-20T13:15:42Z"
- },
- {
-  "id": 1119341,
-  "title": "Discorver the First .NET MAUI (Release Candidate) Features!",
-  "description": ".NET MAUI is now a reality! After so many months of speculations, previews and rumors Microsoft...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7EagOXOP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/os584to57le8ny5dsdao.png",
-  "slug": "discorver-the-first-net-maui-release-candidate-features-59he",
-  "url": "https://dev.to/dotnetsafer/discorver-the-first-net-maui-release-candidate-features-59he",
-  "publish_date": "2022-06-20",
-  "published_at": "2022-06-20T12:56:11Z"
- },
- {
-  "id": 1119177,
-  "title": "Implementing Distributed Tracing in a Golang application",
-  "description": "This tutorial was originally posted on SigNoz Blog and is written by Naman Jain  In this article, we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Coa_TLDT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/stumkipjcrcdvty7eiok.png",
-  "slug": "implementing-distributed-tracing-in-a-golang-application-5cm1",
-  "url": "https://dev.to/signoz/implementing-distributed-tracing-in-a-golang-application-5cm1",
-  "publish_date": "2022-06-20",
-  "published_at": "2022-06-20T11:31:02Z"
- },
- {
-  "id": 1119004,
-  "title": "TypeScript Utility Types: The 6 Most Useful",
-  "description": "I have been working with typescript for almost a year now, and I have learned and implemented a lot...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cX8tl1MU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fhdj2h8zip7wx4mz3qyd.png",
-  "slug": "typescript-utility-types-the-6-most-useful-2bp4",
-  "url": "https://dev.to/sachinchaurasiya/typescript-utility-types-the-6-most-useful-2bp4",
-  "publish_date": "2022-06-20",
-  "published_at": "2022-06-20T04:24:38Z"
  }
 ]
