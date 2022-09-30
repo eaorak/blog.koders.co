@@ -1,5 +1,55 @@
 [
  {
+  "id": 1206721,
+  "title": "Check React Project Compilation Status in different environments - Free Tool",
+  "description": "Open-source developer tool that provides a simple way to ensure compatibility of React Projects across different Node environments using Yarn or NPM using GitHub Actions.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a-5l6_-Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rooq5ie7riewg4shzhp9.jpg",
+  "slug": "check-react-project-compilation-status-in-different-environments-free-tool-4ee1",
+  "url": "https://dev.to/sm0ke/check-react-project-compilation-status-in-different-environments-free-tool-4ee1",
+  "publish_date": "2022-09-29",
+  "published_at": "2022-09-29T14:25:57Z"
+ },
+ {
+  "id": 1203413,
+  "title": "GitHub verdinho: Ter ou não ter?",
+  "description": "GitHub é uma plataforma conhecida e usada por uma boa parte das pessoas que trabalham e estudam...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qXS0xVOw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pbc9cqmemm0nxv5dgr3e.png",
+  "slug": "github-verdinho-ter-ou-nao-ter-2a54",
+  "url": "https://dev.to/github/github-verdinho-ter-ou-nao-ter-2a54",
+  "publish_date": "2022-09-29",
+  "published_at": "2022-09-29T12:26:26Z"
+ },
+ {
+  "id": 1206497,
+  "title": "Simple way to generate PDF from HTML",
+  "description": "How you can generate a pdf from HTML/CSS in the browser.",
+  "cover_image": "",
+  "slug": "simple-way-to-generate-pdf-from-html-21mh",
+  "url": "https://dev.to/climentea/simple-way-to-generate-pdf-from-html-21mh",
+  "publish_date": "2022-09-29",
+  "published_at": "2022-09-29T11:41:25Z"
+ },
+ {
+  "id": 1205552,
+  "title": "f*ups that made me a better programmer",
+  "description": "How about not spending your weekends on fixing bugs that could have been easily predicted and not...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rWB11VLb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pd9ua6nag3cbotkmbkwz.jpg",
+  "slug": "fups-that-made-me-a-better-programmer-4kil",
+  "url": "https://dev.to/emphie/fups-that-made-me-a-better-programmer-4kil",
+  "publish_date": "2022-09-29",
+  "published_at": "2022-09-29T09:58:41Z"
+ },
+ {
+  "id": 1205569,
+  "title": "Bicep Extension Finally Arrives in Visual Studio! Here's What You Need to Know",
+  "description": "Bicep, the open source project used by Visual Studio Code to extend its capabilities, has finally...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kmPqxPOP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kitenyp5sb3bnv3xgblp.png",
+  "slug": "bicep-extension-finally-arrives-in-visual-studio-heres-what-you-need-to-know-2ach",
+  "url": "https://dev.to/bytehide/bicep-extension-finally-arrives-in-visual-studio-heres-what-you-need-to-know-2ach",
+  "publish_date": "2022-09-29",
+  "published_at": "2022-09-29T09:21:34Z"
+ },
+ {
   "id": 1205514,
   "title": "Announcing the Budibase Hackathon - Over $5K in prizes 🎉",
   "description": "​There's a new opportunity to level up your software development skills and contribute to open-source while educating others and earning incredible prizes. ",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/fairywsr/free-icons-sites-for-web-developers-j9i",
   "publish_date": "2022-06-22",
   "published_at": "2022-06-22T05:37:05Z"
- },
- {
-  "id": 1119589,
-  "title": "Prometheus vs Elasticsearch stack - Key concepts, features, and differences",
-  "description": "Prometheus and the Elasticsearch stack are both used for monitoring applications. But while...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fJ3J6zeI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtr86v1kpt5ia8loey9i.png",
-  "slug": "prometheus-vs-elasticsearch-stack-key-concepts-features-and-differences-4h1d",
-  "url": "https://dev.to/signoz/prometheus-vs-elasticsearch-stack-key-concepts-features-and-differences-4h1d",
-  "publish_date": "2022-06-21",
-  "published_at": "2022-06-21T12:13:26Z"
- },
- {
-  "id": 1119083,
-  "title": "Create a Marketplace with Medusa Part 3: Implement User Management and Permissions",
-  "description": "In the previous parts of this series, you learned how to build a marketplace using Medusa and Medusa...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9rRudWG2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y29wwwnvt2vxl69kc6el.png",
-  "slug": "create-a-marketplace-with-medusa-part-3-implement-user-management-and-permissions-d32",
-  "url": "https://dev.to/medusajs/create-a-marketplace-with-medusa-part-3-implement-user-management-and-permissions-d32",
-  "publish_date": "2022-06-21",
-  "published_at": "2022-06-21T10:35:15Z"
- },
- {
-  "id": 1116794,
-  "title": "How we built a themeable multi-brand design system with Vue.js",
-  "description": "At Monisnap our goal is to enable users to support their friends and family abroad by providing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zct9f4G8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/chtqm5lbzipn2qsxj48p.jpg",
-  "slug": "how-we-built-a-themeable-multi-brand-design-system-with-vuejs-4flk",
-  "url": "https://dev.to/monisnap/how-we-built-a-themeable-multi-brand-design-system-with-vuejs-4flk",
-  "publish_date": "2022-06-21",
-  "published_at": "2022-06-21T09:00:43Z"
- },
- {
-  "id": 1119816,
-  "title": "Get Up And Running With The useEffect Hook.",
-  "description": "Hooks are new features incorporated into React 16.8. and the newer versions. They basically help you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uzTiKHM_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p1e92vbrdsohvfx1ru2k.png",
-  "slug": "get-up-and-running-with-the-useeffect-hook-3481",
-  "url": "https://dev.to/ayo_dev/get-up-and-running-with-the-useeffect-hook-3481",
-  "publish_date": "2022-06-21",
-  "published_at": "2022-06-21T08:46:12Z"
- },
- {
-  "id": 1119970,
-  "title": "I love listening to music when coding, and you should too!",
-  "description": "Hello, buddies! Most of us (developers) love to listen to music. But why? You may have many answers....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E7w0T2Uf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jviakcoewszglsut3e0h.png",
-  "slug": "i-love-listening-to-music-when-coding-and-you-should-too-3b1e",
-  "url": "https://dev.to/unitybuddy/i-love-listening-to-music-when-coding-and-you-should-too-3b1e",
-  "publish_date": "2022-06-21",
-  "published_at": "2022-06-21T05:31:41Z"
  }
 ]
