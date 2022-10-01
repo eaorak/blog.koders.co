@@ -1,5 +1,55 @@
 [
  {
+  "id": 1207674,
+  "title": "What was your win this week?",
+  "description": "Got to all your meetings on time? Started a new project? Fixed a tricky bug?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pyDLAPme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cl.ly/188e843c2985/download/Image%25202019-02-15%2520at%25202.36.37%2520PM.png",
+  "slug": "what-was-your-win-this-week-3hb5",
+  "url": "https://dev.to/michaeltharrington/what-was-your-win-this-week-3hb5",
+  "publish_date": "2022-09-30",
+  "published_at": "2022-09-30T15:05:31Z"
+ },
+ {
+  "id": 1207420,
+  "title": "ToolJet x Hacktoberfest'22",
+  "description": "It is October again!   In open source, we feel strongly that to really do something well, you have to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9clt7z2f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ot88nlzpccz08kg6d68.png",
+  "slug": "tooljet-x-hacktoberfest22-5bf2",
+  "url": "https://dev.to/tooljet/tooljet-x-hacktoberfest22-5bf2",
+  "publish_date": "2022-09-30",
+  "published_at": "2022-09-30T10:43:09Z"
+ },
+ {
+  "id": 1207111,
+  "title": "Why RxJS compatibility matters",
+  "description": "Why RxJS compatibility matters: declarative async code",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wSu_-W8P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5sfonzxyf554re2hp2ak.png",
+  "slug": "why-rxjs-compatibility-matters-gl2",
+  "url": "https://dev.to/mfp22/why-rxjs-compatibility-matters-gl2",
+  "publish_date": "2022-09-30",
+  "published_at": "2022-09-30T08:19:16Z"
+ },
+ {
+  "id": 1207255,
+  "title": "Kubernetes Security: 10 Best Practices from the Industry and Community",
+  "description": "Kubernetes requires extensive configuration, and keeping container security at the right level is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o7mKY8g1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bcg47ert6uhvl9dkfgdj.png",
+  "slug": "kubernetes-security-10-best-practices-from-the-industry-and-community-1bp6",
+  "url": "https://dev.to/castai/kubernetes-security-10-best-practices-from-the-industry-and-community-1bp6",
+  "publish_date": "2022-09-30",
+  "published_at": "2022-09-30T06:45:29Z"
+ },
+ {
+  "id": 1204030,
+  "title": "Importance Of Landmarks",
+  "description": "Semantic structure is the foundation for accessible markup, as they properly convey information to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LV9F0MHN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qnmhaw0678hholdvb6bn.png",
+  "slug": "importance-of-landmarks-5d5k",
+  "url": "https://dev.to/yuridevat/importance-of-landmarks-5d5k",
+  "publish_date": "2022-09-30",
+  "published_at": "2022-09-30T04:08:24Z"
+ },
+ {
   "id": 1206721,
   "title": "Check React Project Compilation Status in different environments - Free Tool",
   "description": "Open-source developer tool that provides a simple way to ensure compatibility of React Projects across different Node environments using Yarn or NPM using GitHub Actions.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/janicera2880/how-do-you-overcome-imposter-syndrome-55m8",
   "publish_date": "2022-06-23",
   "published_at": "2022-06-23T01:19:11Z"
- },
- {
-  "id": 1113328,
-  "title": "I Made an entire FULL-STACK App using ONLY my Phone 🤯️",
-  "description": "Thanks to Cyclic.sh for sponsoring this article!   After a long day of programming, I came back...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tWxbLSHT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9xwhyn3lmhdn79818a21.jpg",
-  "slug": "i-made-an-entire-full-stack-app-using-only-my-phone-4apg",
-  "url": "https://dev.to/eludadev/i-made-an-entire-full-stack-app-using-only-my-phone-4apg",
-  "publish_date": "2022-06-22",
-  "published_at": "2022-06-22T14:01:04Z"
- },
- {
-  "id": 1121231,
-  "title": "Why Mocks Are Considered Harmful",
-  "description": "Automated testing during software development involves many different techniques, one that shouldn’t...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LuYkQ1pN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rynu8yrg7b7w6i7k1ynr.png",
-  "slug": "why-mocks-are-considered-harmful-231h",
-  "url": "https://dev.to/bentorvo/why-mocks-are-considered-harmful-231h",
-  "publish_date": "2022-06-22",
-  "published_at": "2022-06-22T10:57:39Z"
- },
- {
-  "id": 1121139,
-  "title": "How to Thank Sponsors for Supporting Your Open Source Project",
-  "description": "Benefits of thanking sponsors   Slowly but surely, people are starting to acknowledge the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CbN-fInV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lb4v5dz1i26nhyy3rpv1.png",
-  "slug": "how-to-thank-sponsors-for-supporting-your-open-source-project-2hc3",
-  "url": "https://dev.to/github/how-to-thank-sponsors-for-supporting-your-open-source-project-2hc3",
-  "publish_date": "2022-06-22",
-  "published_at": "2022-06-22T07:39:31Z"
- },
- {
-  "id": 1121063,
-  "title": "Control Cloud Costs and Build a FinOps Culture with Grafana",
-  "description": "Before the cloud, engineers could only dream about allocating servers without involving anyone on the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u5ToZTIq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/90mz9tjv7k13asojot1n.png",
-  "slug": "control-cloud-costs-and-build-a-finops-culture-with-grafana-4fm0",
-  "url": "https://dev.to/castai/control-cloud-costs-and-build-a-finops-culture-with-grafana-4fm0",
-  "publish_date": "2022-06-22",
-  "published_at": "2022-06-22T07:04:24Z"
- },
- {
-  "id": 1121021,
-  "title": "🎯 Free Icons sites for web Developers",
-  "description": "✨jam-icons. com ✨smashicons. com ✨streamlineicons. com ✨www.flaticon. com ✨feathericons...",
-  "cover_image": "",
-  "slug": "free-icons-sites-for-web-developers-j9i",
-  "url": "https://dev.to/fairywsr/free-icons-sites-for-web-developers-j9i",
-  "publish_date": "2022-06-22",
-  "published_at": "2022-06-22T05:37:05Z"
  }
 ]
