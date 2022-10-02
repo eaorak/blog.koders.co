@@ -1,5 +1,55 @@
 [
  {
+  "id": 1208473,
+  "title": "Can beginners make a simple but meaningful contribution? Some unconventional advice #hacktoberfest",
+  "description": "Hello Human 👋🏻  So do you want to contribute to open source? Awesome.   Does it sounds overwhelming?...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Di0eZ42w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ydk99s8p1etinqhjznh3.png",
+  "slug": "can-beginners-make-a-simple-but-meaningful-contribution-some-unconventional-advice-hacktoberfest-56oh",
+  "url": "https://dev.to/jmfayard/can-beginners-make-a-simple-but-meaningful-contribution-some-unconventional-advice-hacktoberfest-56oh",
+  "publish_date": "2022-10-01",
+  "published_at": "2022-10-01T16:46:00Z"
+ },
+ {
+  "id": 1208339,
+  "title": "Hacktoberfest is here — and this is the lowdown",
+  "description": "Hacktoberfest has become a staple in open source. It's an annual tradition loved by many (and it's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UpX83H3C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yutqst8ujn9yyen2wq6e.png",
+  "slug": "hacktoberfest-is-here-and-this-is-the-lowdown-3d76",
+  "url": "https://dev.to/devteam/hacktoberfest-is-here-and-this-is-the-lowdown-3d76",
+  "publish_date": "2022-10-01",
+  "published_at": "2022-10-01T15:15:55Z"
+ },
+ {
+  "id": 848445,
+  "title": "Creat Your first Chrome Extension",
+  "description": "If you are a Google Chrome user, you've probably used some extensions in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XpcyxV-1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tlcy30y1n9vt6z3qxu31.jpeg",
+  "slug": "creat-your-first-chrome-extension-mk",
+  "url": "https://dev.to/ankushsinghgandhi/creat-your-first-chrome-extension-mk",
+  "publish_date": "2022-10-01",
+  "published_at": "2022-10-01T14:53:33Z"
+ },
+ {
+  "id": 1208315,
+  "title": "I made an admin dashboard for React using Typescript! Use it for free!",
+  "description": "Hey guys, I made an admin template for React using Typescript! Use it for free!  Presentation:...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DGQo6Ztq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d5hm34sgxq0uq15z0hxm.png",
+  "slug": "i-made-an-admin-dashboard-for-react-using-typescript-use-it-for-free-49fh",
+  "url": "https://dev.to/fredy/i-made-an-admin-dashboard-for-react-using-typescript-use-it-for-free-49fh",
+  "publish_date": "2022-10-01",
+  "published_at": "2022-10-01T13:59:02Z"
+ },
+ {
+  "id": 1208023,
+  "title": "My AWS Solution Architect Professional study guide",
+  "description": "Important: Complete the courses and study material suggested in the AWS Solution Architect first as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e3gySJDA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15b3aacfvydj2job2oyf.png",
+  "slug": "my-aws-solution-architect-professional-study-guide-2i05",
+  "url": "https://dev.to/aws-builders/my-aws-solution-architect-professional-study-guide-2i05",
+  "publish_date": "2022-10-01",
+  "published_at": "2022-10-01T02:41:17Z"
+ },
+ {
   "id": 1207674,
   "title": "What was your win this week?",
   "description": "Got to all your meetings on time? Started a new project? Fixed a tricky bug?",
@@ -2800,22 +2850,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gulshanaggarwal/say-goodbye-to-consolelog-from-production-environment-5382",
   "publish_date": "2022-06-24",
   "published_at": "2022-06-24T04:57:42Z"
- },
- {
-  "id": 1121752,
-  "title": "Happy 110th Birthday, Alan Turing!",
-  "description": "note: We published a version of this article last year. You can read it here.     Today, June 23,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G5mKAi6J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqe8nsh73ghv7g9355gv.png",
-  "slug": "happy-110th-birthday-alan-turing-3m6o",
-  "url": "https://dev.to/devteam/happy-110th-birthday-alan-turing-3m6o",
-  "publish_date": "2022-06-23",
-  "published_at": "2022-06-23T16:00:23Z"
- },
- {
-  "id": 1119080,
-  "title": "How to be productive and deal with time management",
-  "description": "Hi, my name is Julia, and I'm a self-taught Accessibility \u0026amp; Frontend Developer in my 30s who is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LJBa7MGo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9t2h5sz4ew6gkuucn23v.png",
-  "slug": "how-to-be-productive-and-deal-with-time-management-55p1",
-  "url": "https://dev.to/yuridevat/how-to-be-productive-and-deal-with-time-management-55p1",
-  "publish_date": "2022-06-23",
-  "published_at": "2022-06-23T09:53:43Z"
- },
- {
-  "id": 1122070,
-  "title": "Why Estimates Are Waste",
-  "description": "Software development is unpredictable but people waste hours every week trying to guess how long...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0QPa1knf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dlfiqjghl01df5biu269.png",
-  "slug": "why-estimates-are-waste-1o0f",
-  "url": "https://dev.to/bentorvo/why-estimates-are-waste-1o0f",
-  "publish_date": "2022-06-23",
-  "published_at": "2022-06-23T06:58:27Z"
- },
- {
-  "id": 1122065,
-  "title": "Git Commands ( to ease your development 🤗 )",
-  "description": "Git is a prevalent version control system ( VCS ) used by most programmers. In this blog, I am going...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ylj3JMx9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a77to6mahtdja7q89faa.png",
-  "slug": "git-commands-to-ease-your-development--5a2h",
-  "url": "https://dev.to/shivam164/git-commands-to-ease-your-development--5a2h",
-  "publish_date": "2022-06-23",
-  "published_at": "2022-06-23T06:52:36Z"
- },
- {
-  "id": 1092005,
-  "title": "How Do You Overcome Imposter Syndrome?",
-  "description": "\"**There is only one thing that makes a dream impossible to achieve: the fear of failure\".-Paulo...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--65Uua1PU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mnarx29wpg2jeptsigcf.jpeg",
-  "slug": "how-do-you-overcome-imposter-syndrome-55m8",
-  "url": "https://dev.to/janicera2880/how-do-you-overcome-imposter-syndrome-55m8",
-  "publish_date": "2022-06-23",
-  "published_at": "2022-06-23T01:19:11Z"
  }
 ]
