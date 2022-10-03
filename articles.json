@@ -1,5 +1,55 @@
 [
  {
+  "id": 1209300,
+  "title": "Tremor - Free React Library for Dashboards",
+  "description": "An open-source UI component library for building insightful dashboards in a breeze - Powered by React, ReCharts and Tailwind.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R-qW9pIt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ivc0qt1mhdyxm13ngrc.jpg",
+  "slug": "tremor-free-react-library-for-dashboards-3gm9",
+  "url": "https://dev.to/sm0ke/tremor-free-react-library-for-dashboards-3gm9",
+  "publish_date": "2022-10-02",
+  "published_at": "2022-10-02T17:42:16Z"
+ },
+ {
+  "id": 1208937,
+  "title": "7 Cool HTML Elements Nobody Uses",
+  "description": "Searching for cool HTML elements, especially if you don't know what you're looking for, is often like...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oOHEnj8e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sd0gz4l7dkah9yedw1cv.png",
+  "slug": "7-cool-html-elements-nobody-uses-330c",
+  "url": "https://dev.to/ruppysuppy/7-cool-html-elements-nobody-uses-330c",
+  "publish_date": "2022-10-02",
+  "published_at": "2022-10-02T04:44:45Z"
+ },
+ {
+  "id": 1208916,
+  "title": "Stop saying \"Stop using Else\" and other nonsense! ...",
+  "description": "I keep seeing articles that demand the reader \"Stop doing\" something that is fine practice, if not...",
+  "cover_image": "",
+  "slug": "stop-writing-stop-doing-articles--6i7",
+  "url": "https://dev.to/jarrodhroberson/stop-writing-stop-doing-articles--6i7",
+  "publish_date": "2022-10-02",
+  "published_at": "2022-10-02T03:45:54Z"
+ },
+ {
+  "id": 1208277,
+  "title": "Sending an Email With React Without a Backend Server",
+  "description": "Introduction   In This  Tutorial we are going to learn how to send an email in a  React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6n74bnbi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1revcjgj0jsy879cv0ex.jpg",
+  "slug": "sending-an-email-with-react-without-a-backend-server-32gc",
+  "url": "https://dev.to/benjaminnwokolo/sending-an-email-with-react-without-a-backend-server-32gc",
+  "publish_date": "2022-10-02",
+  "published_at": "2022-10-02T01:34:52Z"
+ },
+ {
+  "id": 1208851,
+  "title": "Top 7 Sample Code Base websites for Developers",
+  "description": "From Junior developers to senior developers, most programmers lookup for sample code snippets either...",
+  "cover_image": "",
+  "slug": "top-7-sample-code-base-websites-for-developers-1bb7",
+  "url": "https://dev.to/qbentil/top-7-sample-code-base-websites-for-developers-1bb7",
+  "publish_date": "2022-10-02",
+  "published_at": "2022-10-02T00:56:33Z"
+ },
+ {
   "id": 1208473,
   "title": "Can beginners make a simple but meaningful contribution? Some unconventional advice #hacktoberfest",
   "description": "Hello Human 👋🏻  So do you want to contribute to open source? Awesome.   Does it sounds overwhelming?...",
@@ -2850,22 +2900,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/j471n/css-battle-1-pilot-battle-1fhh",
   "publish_date": "2022-06-25",
   "published_at": "2022-06-25T04:40:17Z"
- },
- {
-  "id": 1123311,
-  "title": "Monitoring a full-stack Nodejs application with open-source tools",
-  "description": "Nodejs tops the list of most widely used frameworks for server-side programming by developers....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cSieU1pD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/flfv968jzu6a9mvq3iej.png",
-  "slug": "monitoring-a-full-stack-nodejs-application-with-open-source-tools-3bjj",
-  "url": "https://dev.to/signoz/monitoring-a-full-stack-nodejs-application-with-open-source-tools-3bjj",
-  "publish_date": "2022-06-24",
-  "published_at": "2022-06-24T11:28:51Z"
- },
- {
-  "id": 1123305,
-  "title": "How to build a responsive header component with Tailwind CSS",
-  "description": "Today I would like to show you how you can build a responsive header component using Tailwind CSS and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oUil-wNS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zy3g7ewcor8je2dya9r9.png",
-  "slug": "how-to-build-a-responsive-header-component-with-tailwind-css-2mae",
-  "url": "https://dev.to/themesberg/how-to-build-a-responsive-header-component-with-tailwind-css-2mae",
-  "publish_date": "2022-06-24",
-  "published_at": "2022-06-24T11:10:03Z"
- },
- {
-  "id": 1123288,
-  "title": "JavaScript is not an untyped language",
-  "description": "JavaScript's popularity   At the time of writing this post (Jun 2022), JavaScript is #3 in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m7ZdRUcE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.pexels.com/photos/5022849/pexels-photo-5022849.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D1260%26h%3D750%26dpr%3D1",
-  "slug": "javascript-is-not-an-untyped-language-1jkg",
-  "url": "https://dev.to/miguelmj/javascript-is-not-an-untyped-language-1jkg",
-  "publish_date": "2022-06-24",
-  "published_at": "2022-06-24T10:40:22Z"
- },
- {
-  "id": 1122311,
-  "title": "Flutter state management 🔥",
-  "description": "Sup reader!! How have you been? we going to go through different state management approaches in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lYRAqH5N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tk91yy3kgs0p7bgu2s2f.jpg",
-  "slug": "flutter-state-management-32n7",
-  "url": "https://dev.to/dmutoni/flutter-state-management-32n7",
-  "publish_date": "2022-06-24",
-  "published_at": "2022-06-24T08:03:09Z"
- },
- {
-  "id": 1122312,
-  "title": "Say Goodbye to console.log from Production environment",
-  "description": "I have been working on a project with Next.js since last month and used the console.log statement in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XSidz7CF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvnb59dlmgz2jyubssar.png",
-  "slug": "say-goodbye-to-consolelog-from-production-environment-5382",
-  "url": "https://dev.to/gulshanaggarwal/say-goodbye-to-consolelog-from-production-environment-5382",
-  "publish_date": "2022-06-24",
-  "published_at": "2022-06-24T04:57:42Z"
  }
 ]
