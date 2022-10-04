@@ -1,5 +1,55 @@
 [
  {
+  "id": 1210143,
+  "title": "Meme Monday 🦊",
+  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f2p_AP2k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bra6gnesllekrg0etdsy.png",
+  "slug": "meme-monday-33ej",
+  "url": "https://dev.to/ben/meme-monday-33ej",
+  "publish_date": "2022-10-03",
+  "published_at": "2022-10-03T18:43:21Z"
+ },
+ {
+  "id": 1207407,
+  "title": "Medusa Hackathon 2022: Participation Tips and Guidelines",
+  "description": "On Saturday, we kicked off the Medusa Hackathon where developers can participate by creating...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_bUQn3Vs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/23eju36znbujvoyepc6o.jpeg",
+  "slug": "medusa-hackathon-2022-participation-tips-and-guidelines-1epm",
+  "url": "https://dev.to/medusajs/medusa-hackathon-2022-participation-tips-and-guidelines-1epm",
+  "publish_date": "2022-10-03",
+  "published_at": "2022-10-03T10:57:52Z"
+ },
+ {
+  "id": 1209346,
+  "title": "A practical approach to structuring Golang applications",
+  "description": "This article will describe the common approaches which are used for structuring Golang applications....",
+  "cover_image": "",
+  "slug": "a-practical-approach-to-structuring-golang-applications-1cc2",
+  "url": "https://dev.to/firdavs_kasymov/a-practical-approach-to-structuring-golang-applications-1cc2",
+  "publish_date": "2022-10-03",
+  "published_at": "2022-10-03T09:20:09Z"
+ },
+ {
+  "id": 1208527,
+  "title": "5 webdev tips you may want to know 🔥 #3",
+  "description": "Just a quick word before we start. I'm currently trying to grow a community over on twitter where I...",
+  "cover_image": "",
+  "slug": "5-webdev-tips-you-may-want-to-know-3-1fi7",
+  "url": "https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-3-1fi7",
+  "publish_date": "2022-10-03",
+  "published_at": "2022-10-03T07:39:07Z"
+ },
+ {
+  "id": 1209450,
+  "title": "The Pomodorito Technique",
+  "description": "You've heard about the Pomodoro technique; make way now for the Pomodorito techniqu",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uMTOeiqG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vrl1x5i6vyvrt983fuc8.png",
+  "slug": "the-pomodorito-technique-462f",
+  "url": "https://dev.to/alvaromontoro/the-pomodorito-technique-462f",
+  "publish_date": "2022-10-03",
+  "published_at": "2022-10-03T02:10:12Z"
+ },
+ {
   "id": 1209300,
   "title": "Tremor - Free React Library for Dashboards",
   "description": "An open-source UI component library for building insightful dashboards in a breeze - Powered by React, ReCharts and Tailwind.",
@@ -2900,22 +2950,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/swastikyadav/9-useful-code-snippets-for-everyday-javascript-development-part-1-478a",
   "publish_date": "2022-06-26",
   "published_at": "2022-06-26T03:57:37Z"
- },
- {
-  "id": 1124166,
-  "title": "How to disable text selection with CSS",
-  "description": "On a web page, we typically should not disable text selection, but there are a few cases where having...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--unJitTEA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sy6mooih860c4ys4urdq.png",
-  "slug": "how-to-disable-text-selection-with-css-4jan",
-  "url": "https://dev.to/smpnjn/how-to-disable-text-selection-with-css-4jan",
-  "publish_date": "2022-06-25",
-  "published_at": "2022-06-25T10:43:31Z"
- },
- {
-  "id": 1122061,
-  "title": "How to embed YouTube and Vimeo the light way",
-  "description": "You've probably embedded YouTube and Vimeo-videos dozens of times, using the standard...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G0rB8h1N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m92a9catmxrvditbjo9i.jpg",
-  "slug": "how-to-embed-youtube-and-vimeo-the-light-way-2pek",
-  "url": "https://dev.to/madsstoumann/how-to-embed-youtube-and-vimeo-the-light-way-2pek",
-  "publish_date": "2022-06-25",
-  "published_at": "2022-06-25T09:56:49Z"
- },
- {
-  "id": 1120480,
-  "title": "React Props complete guide for beginners",
-  "description": "Table of Content      📌 Introduction  📌 React Props  📌 Pro Tips   ➡ Reduce HTML...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P64v-Mnt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v2y6iiibdnco7jti68zp.png",
-  "slug": "use-react-props-like-a-pro--1gll",
-  "url": "https://dev.to/suchintan/use-react-props-like-a-pro--1gll",
-  "publish_date": "2022-06-25",
-  "published_at": "2022-06-25T07:44:55Z"
- },
- {
-  "id": 898532,
-  "title": "Preaching 'Clean Code' is Lowering the Quality of Developers",
-  "description": "Okay - first things first... I am in no way anti clean code, and I'm not saying it is necessarily a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BGOiTdMo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yeybnvspzt5dsobuilck.png",
-  "slug": "preaching-clean-code-is-lowering-the-quality-of-developers-1cmb",
-  "url": "https://dev.to/jonrandy/preaching-clean-code-is-lowering-the-quality-of-developers-1cmb",
-  "publish_date": "2022-06-25",
-  "published_at": "2022-06-25T07:23:23Z"
- },
- {
-  "id": 1123958,
-  "title": "CSS Battle: #1 - Simply Square",
-  "description": "In this article, I will solve a Simply Square CSS Challenge on CSS Battle. Let's look at the problem...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EwMZKlaD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9yl4mikdwp1n39ncliik.png",
-  "slug": "css-battle-1-pilot-battle-1fhh",
-  "url": "https://dev.to/j471n/css-battle-1-pilot-battle-1fhh",
-  "publish_date": "2022-06-25",
-  "published_at": "2022-06-25T04:40:17Z"
  }
 ]
