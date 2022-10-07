@@ -1,5 +1,55 @@
 [
  {
+  "id": 1147398,
+  "title": "👷 Serverless event-sourcing with AWS: State of the art data synchronization ⚡",
+  "description": "Serverless Event-sourcing event-ledger DynamoDB AWS",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OA107vVp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/MaximeVivier/Articles/master/blog-posts/event-sourcing-serveless/assets/serverless-event-sourcing-AWS-state-of-the-art-data-synchronization.png",
+  "slug": "serverless-event-sourcing-with-aws-state-of-the-art-data-synchronization-4mog",
+  "url": "https://dev.to/kumo/serverless-event-sourcing-with-aws-state-of-the-art-data-synchronization-4mog",
+  "publish_date": "2022-10-06",
+  "published_at": "2022-10-06T15:03:34Z"
+ },
+ {
+  "id": 1212648,
+  "title": "Have you ever seen anyone \"fake\" their way into a software development position?",
+  "description": "Are there instances of people who make it through the interview, get hired, but seriously can't do...",
+  "cover_image": "",
+  "slug": "have-you-ever-seen-anyone-fake-their-way-into-a-software-development-position-3gd0",
+  "url": "https://dev.to/sherrydays/have-you-ever-seen-anyone-fake-their-way-into-a-software-development-position-3gd0",
+  "publish_date": "2022-10-06",
+  "published_at": "2022-10-06T12:17:38Z"
+ },
+ {
+  "id": 1212133,
+  "title": "Awesome tools for Open Source Contribution",
+  "description": "Introduction   We are in October which is well known as the month of Hacktoberfest in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YJ7nrO3w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w4cx56ih2ei3k6gf7i8p.png",
+  "slug": "awesome-tools-for-open-source-contribution-36cm",
+  "url": "https://dev.to/surajondev/awesome-tools-for-open-source-contribution-36cm",
+  "publish_date": "2022-10-06",
+  "published_at": "2022-10-06T11:30:29Z"
+ },
+ {
+  "id": 1204154,
+  "title": "I am not that excited about new CSS features",
+  "description": "I have a confession: I am not that excited about all these new CSS features. Let me tell you why.    ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I3K7bzKE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5v4w9fy3tcl81i95vz11.jpg",
+  "slug": "i-am-not-that-excited-about-new-css-features-4jb5",
+  "url": "https://dev.to/starbist/i-am-not-that-excited-about-new-css-features-4jb5",
+  "publish_date": "2022-10-06",
+  "published_at": "2022-10-06T06:58:32Z"
+ },
+ {
+  "id": 1212404,
+  "title": "Flask \u0026 Stripe - Open-Source Mini eCommerce",
+  "description": "Open-source mini eCommerce project that loads the products from JSON files saved in the templates directory (no database required) - Bootstrap 5 design is used for styling.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K4YOPGwH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/98de88aj6bmsnufzv5uo.jpg",
+  "slug": "flask-stripe-open-source-mini-ecommerce-34jj",
+  "url": "https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj",
+  "publish_date": "2022-10-06",
+  "published_at": "2022-10-06T05:56:36Z"
+ },
+ {
   "id": 1204472,
   "title": "Appwrite Etsy OAuth Integration",
   "description": "Appwrite 1.0 is out now! We have released some amazing features, and also added a few more OAuth2...",
@@ -3050,22 +3100,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/antoomartini/nobody-talks-about-this-in-the-it-world-31ph",
   "publish_date": "2022-06-29",
   "published_at": "2022-06-29T00:53:33Z"
- },
- {
-  "id": 1125465,
-  "title": "Introducing $createdAt And $updatedAt On Each Resource",
-  "description": "Appwrite is an open-source backend-as-a-service that abstracts all the complexity involved in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Jzg580q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5x0w5d320sqzbux72ye.png",
-  "slug": "introducing-createdat-and-updatedat-on-each-resource-5pa",
-  "url": "https://dev.to/appwrite/introducing-createdat-and-updatedat-on-each-resource-5pa",
-  "publish_date": "2022-06-28",
-  "published_at": "2022-06-28T18:01:16Z"
- },
- {
-  "id": 1125385,
-  "title": "Appwrite Autodesk OAuth Integration",
-  "description": "Appwrite 0.15 is out now!🎉 We have released some amazing features, and also added a few more OAuth2...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wLe5Xjzh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hk7sdvitffzzdxcnelax.png",
-  "slug": "appwrite-autodesk-oauth-integration-11j0",
-  "url": "https://dev.to/appwrite/appwrite-autodesk-oauth-integration-11j0",
-  "publish_date": "2022-06-28",
-  "published_at": "2022-06-28T17:36:41Z"
- },
- {
-  "id": 1122336,
-  "title": "Building a Realtime Chat Application Using Angular and Appwrite 🤓",
-  "description": "Appwrite is an open-source backend-as-a-service that provides developers with a core set of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7aokmWMH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dh1ccineti6c56o8db3a.png",
-  "slug": "building-a-realtime-chat-application-using-angular-and-appwrite-i3o",
-  "url": "https://dev.to/appwrite/building-a-realtime-chat-application-using-angular-and-appwrite-i3o",
-  "publish_date": "2022-06-28",
-  "published_at": "2022-06-28T15:19:15Z"
- },
- {
-  "id": 1110357,
-  "title": "Custom Svelte Store with Appwrite and Caching",
-  "description": "Who wouldn’t love cache, right? Let’s see how we can cache data with Svelte \u0026amp; Appwrite!  We're...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aqoAfn3X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kdjfnpfdobofz7yhkt74.png",
-  "slug": "custom-svelte-store-with-appwrite-and-caching-1m6d",
-  "url": "https://dev.to/appwrite/custom-svelte-store-with-appwrite-and-caching-1m6d",
-  "publish_date": "2022-06-28",
-  "published_at": "2022-06-28T15:10:53Z"
- },
- {
-  "id": 1126108,
-  "title": "Gaining remote access to a computer with a reverse shell attack in Node.js",
-  "description": "I recently learnt what a reverse shell is and got excited to experiment running this kind of attack via a Node.js module. This post will go through my thought process and the different options I tried.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ryiVeXgu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/devdevcharlie/image/upload/v1655176460/Group_33_lu0wgr.png",
-  "slug": "gaining-remote-access-to-a-computer-with-a-reverse-shell-attack-in-nodejs-3a40",
-  "url": "https://dev.to/devdevcharlie/gaining-remote-access-to-a-computer-with-a-reverse-shell-attack-in-nodejs-3a40",
-  "publish_date": "2022-06-28",
-  "published_at": "2022-06-28T15:06:44Z"
  }
 ]
