@@ -1,5 +1,55 @@
 [
  {
+  "id": 1213858,
+  "title": "I Turned My Startup Into Open-Source",
+  "description": "I am posting a lot over dev.to, but I think nobody knows who I really am :)  For the last ten years,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S3h4li7i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kx67hw08zot5qtrrisun.jpg",
+  "slug": "i-turned-my-startup-into-open-source-4efh",
+  "url": "https://dev.to/nevodavid/i-turned-my-startup-into-open-source-4efh",
+  "publish_date": "2022-10-07",
+  "published_at": "2022-10-07T18:03:10Z"
+ },
+ {
+  "id": 1212322,
+  "title": "Image search engine with React JS - React Query 🔋",
+  "description": "This time we will make an image search engine with the help of Unsplash API and React Query, with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--379b7vIz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o0k6jp75thzr23i8gfqk.png",
+  "slug": "image-search-engine-with-react-js-react-query-39",
+  "url": "https://dev.to/franklin030601/image-search-engine-with-react-js-react-query-39",
+  "publish_date": "2022-10-07",
+  "published_at": "2022-10-07T12:28:13Z"
+ },
+ {
+  "id": 1213448,
+  "title": "15 GitHub Repositories to Contribute for Hacktoberfest 2022",
+  "description": "What is HACKTOBERFEST?   Hacktoberfest is a yearly festival celebrating Open Source. It's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dGlI70iq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rfplb5gfupxb6e351t3.png",
+  "slug": "15-github-repositories-to-contribute-for-hacktoberfest-2022-215d",
+  "url": "https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d",
+  "publish_date": "2022-10-07",
+  "published_at": "2022-10-07T09:31:30Z"
+ },
+ {
+  "id": 1213431,
+  "title": "Django API Generator - Free Tool (Updated)",
+  "description": "An open-source tool that generates secure APIs on top of Django and DRF - Sources published on GitHub under MIT License.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KIU73rrP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqx5kxpp613r97n5n81v.jpg",
+  "slug": "django-api-generator-free-tool-updated-5d99",
+  "url": "https://dev.to/sm0ke/django-api-generator-free-tool-updated-5d99",
+  "publish_date": "2022-10-07",
+  "published_at": "2022-10-07T08:45:42Z"
+ },
+ {
+  "id": 1213397,
+  "title": "13 ways to scrape any public data from any website",
+  "description": "📃Table of Contents   Intro Browser Dev Tools  CSS Selectors or/and XPath   CSS Selectors Type of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4p7nmDvp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/71k1vynlk6islk4zcttc.jpg",
+  "slug": "13-ways-to-scrape-any-public-data-from-any-website-1bn9",
+  "url": "https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9",
+  "publish_date": "2022-10-07",
+  "published_at": "2022-10-07T07:10:34Z"
+ },
+ {
   "id": 1147398,
   "title": "👷 Serverless event-sourcing with AWS: State of the art data synchronization ⚡",
   "description": "Serverless Event-sourcing event-ledger DynamoDB AWS",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/asheeshh/react-is-awesome-but-have-you-tried-fresh-47ho",
   "publish_date": "2022-06-30",
   "published_at": "2022-06-30T05:11:45Z"
- },
- {
-  "id": 1127521,
-  "title": "Phone Authentication with Appwrite and Twilio",
-  "description": "Appwrite 0.15 was just announced and brings with it one of the most anticipated Appwrite features!...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J4PhkP5l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ovb51rvthkx2pvccr8fn.png",
-  "slug": "phone-authentication-with-appwrite-and-twilio-26ek",
-  "url": "https://dev.to/appwrite/phone-authentication-with-appwrite-and-twilio-26ek",
-  "publish_date": "2022-06-29",
-  "published_at": "2022-06-29T14:28:58Z"
- },
- {
-  "id": 1126296,
-  "title": "Level up Your Webhook Security With Appwrite 0.15",
-  "description": "Don’t Know What Appwrite Is?   Appwrite is an Open-Source BaaS, which sounds complex but is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hjxG6E_S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l0iky7o5twb601c3n8t3.png",
-  "slug": "level-up-your-webhook-security-with-appwrite-015-50mo",
-  "url": "https://dev.to/appwrite/level-up-your-webhook-security-with-appwrite-015-50mo",
-  "publish_date": "2022-06-29",
-  "published_at": "2022-06-29T13:28:26Z"
- },
- {
-  "id": 1127494,
-  "title": "What the hell is \u003c!DOCTYPE html\u003e?",
-  "description": "\u0026lt;!DOCTYPE html\u0026gt; \u0026lt;!-- What the hell is this?? --\u0026gt;\u0026gt; \u0026lt;html...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IGeYkz-V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xrq3yzx8x5esa4um4259.jpg",
-  "slug": "what-the-hell-is-doctype-html-32om",
-  "url": "https://dev.to/aman894/what-the-hell-is-doctype-html-32om",
-  "publish_date": "2022-06-29",
-  "published_at": "2022-06-29T11:41:37Z"
- },
- {
-  "id": 1076554,
-  "title": "Early Merge Conflict Detection Across All Branches in VS Code",
-  "description": "We are happy to announce that GitLive's flagship feature, early merge conflict detection, now works...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cuPSf99h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6wxfizvc8rcdfobifw2g.png",
-  "slug": "early-merge-conflict-detection-across-all-branches-in-vs-code-43mc",
-  "url": "https://dev.to/gitlive/early-merge-conflict-detection-across-all-branches-in-vs-code-43mc",
-  "publish_date": "2022-06-29",
-  "published_at": "2022-06-29T08:51:50Z"
- },
- {
-  "id": 1127133,
-  "title": "Nobody talks about this in the IT world",
-  "description": "This is not a post where I'm going to share with you some tips on how we can manage our anxiety in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LkC0xtWj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mv1lcrtcwt009nnjd68r.png",
-  "slug": "nobody-talks-about-this-in-the-it-world-31ph",
-  "url": "https://dev.to/antoomartini/nobody-talks-about-this-in-the-it-world-31ph",
-  "publish_date": "2022-06-29",
-  "published_at": "2022-06-29T00:53:33Z"
  }
 ]
