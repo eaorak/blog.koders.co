@@ -1,5 +1,55 @@
 [
  {
+  "id": 1214443,
+  "title": "Django Dynamic DataTables - Free Tool (Updated)",
+  "description": "The tool aims to provide a powerful data table interface using the developer's minimum amount of code.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QEvNLAfO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/onu779paj75rgk1z96us.jpg",
+  "slug": "django-dynamic-datatables-free-tool-updated-38h",
+  "url": "https://dev.to/sm0ke/django-dynamic-datatables-free-tool-updated-38h",
+  "publish_date": "2022-10-08",
+  "published_at": "2022-10-08T14:25:58Z"
+ },
+ {
+  "id": 1214298,
+  "title": "Building a PDF Generator using AWS Lambda",
+  "description": "Using AWS Lambda, Amazon SQS, Amazon API Gateway, Amazon S3, AWS Lambda Layers and Pulumi to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UHizqHhg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.writergate.com/uploads/dc64a919-1200-42d3-90c6-9bc96dd9f4fa/Dhh4MTuKBA.png",
+  "slug": "building-a-pdf-generator-using-aws-lambda-4220",
+  "url": "https://dev.to/aws-builders/building-a-pdf-generator-using-aws-lambda-4220",
+  "publish_date": "2022-10-08",
+  "published_at": "2022-10-08T09:05:21Z"
+ },
+ {
+  "id": 1212398,
+  "title": "Google UX Design Certificate",
+  "description": "As I mentioned in my post about How I want to get from a11y minded to a11y expert, I've been taking...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---6BnO8ze--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6q776u7kqdtab255vrj.png",
+  "slug": "google-ux-design-certificate-1a1i",
+  "url": "https://dev.to/yuridevat/google-ux-design-certificate-1a1i",
+  "publish_date": "2022-10-08",
+  "published_at": "2022-10-08T07:12:26Z"
+ },
+ {
+  "id": 1214172,
+  "title": "Why is z-index not working?! - Explaining CSS Stacking Context",
+  "description": "Dimensions are weird. While most web apps seem to focus on the x and y axis, representing a 2D plane...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3bPfhYau--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l01gsotz4ieva3buv10f.png",
+  "slug": "why-is-z-index-not-working-explaining-css-stacking-context-34da",
+  "url": "https://dev.to/this-is-learning/why-is-z-index-not-working-explaining-css-stacking-context-34da",
+  "publish_date": "2022-10-08",
+  "published_at": "2022-10-08T05:46:37Z"
+ },
+ {
+  "id": 1214143,
+  "title": "How a Hacker Stole $566M USD Exploiting a Code Smell",
+  "description": "I am not a security expert. But I do love Clean Code and Code Smells   TL;DR: don't trust your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HhNjn8rg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wkhx00bmubco2ucbd8uo.png",
+  "slug": "how-a-hacker-stole-566m-usd-exploiting-a-code-smell-2fkn",
+  "url": "https://dev.to/mcsee/how-a-hacker-stole-566m-usd-exploiting-a-code-smell-2fkn",
+  "publish_date": "2022-10-08",
+  "published_at": "2022-10-08T03:58:21Z"
+ },
+ {
   "id": 1213858,
   "title": "I Turned My Startup Into Open-Source",
   "description": "I am posting a lot over dev.to, but I think nobody knows who I really am :)  For the last ten years,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/make-the-web-fast-again-1jip",
   "publish_date": "2022-07-01",
   "published_at": "2022-07-01T07:11:52Z"
- },
- {
-  "id": 1128506,
-  "title": "Appwrite OSS Fund Sponsors Mockoon",
-  "description": "Hi readers 👋 hope you are doing well. Today we will be talking about the OSS Fund and the first...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KdEuYIyq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/846cxh9gk21xo0nebe4n.png",
-  "slug": "appwrite-oss-fund-sponsors-mockoon-119k",
-  "url": "https://dev.to/appwrite/appwrite-oss-fund-sponsors-mockoon-119k",
-  "publish_date": "2022-06-30",
-  "published_at": "2022-06-30T13:55:01Z"
- },
- {
-  "id": 1128340,
-  "title": "How to make your website rank on google 🔍",
-  "description": "Introduction   If you run a business or a brand, you know how important it is for you to be...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TpVX2coD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqdgp8mlue0gllpy9n8o.png",
-  "slug": "how-to-make-your-website-rank-on-google-j90",
-  "url": "https://dev.to/avneesh0612/how-to-make-your-website-rank-on-google-j90",
-  "publish_date": "2022-06-30",
-  "published_at": "2022-06-30T09:37:48Z"
- },
- {
-  "id": 1128252,
-  "title": "One small step for you, one giant leap for yourself",
-  "description": "Many people are following my articles and the articles of many others because they want to become...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Eps6-nu0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z12cj1qgsau19h5dmkq2.jpg",
-  "slug": "one-small-step-for-you-one-giant-leap-for-yourself-4igl",
-  "url": "https://dev.to/dailydevtips1/one-small-step-for-you-one-giant-leap-for-yourself-4igl",
-  "publish_date": "2022-06-30",
-  "published_at": "2022-06-30T06:23:20Z"
- },
- {
-  "id": 1128118,
-  "title": "Chrome Extensions of the Month - June",
-  "description": "In this article, I am going to give you some of the best extensions that you need to install for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H99Sa39o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i9oe12o44ysf77j55may.png",
-  "slug": "chrome-extensions-of-the-month-june-b0i",
-  "url": "https://dev.to/j471n/chrome-extensions-of-the-month-june-b0i",
-  "publish_date": "2022-06-30",
-  "published_at": "2022-06-30T05:42:00Z"
- },
- {
-  "id": 1128142,
-  "title": "React is awesome but have you tried fresh?",
-  "description": "Lemme start by asking you a simple question -- \"Have you used react?\" or have you used any JS...",
-  "cover_image": "",
-  "slug": "react-is-awesome-but-have-you-tried-fresh-47ho",
-  "url": "https://dev.to/asheeshh/react-is-awesome-but-have-you-tried-fresh-47ho",
-  "publish_date": "2022-06-30",
-  "published_at": "2022-06-30T05:11:45Z"
  }
 ]
