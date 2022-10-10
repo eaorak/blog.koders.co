@@ -1,5 +1,55 @@
 [
  {
+  "id": 1215121,
+  "title": "16 games for developers",
+  "description": "16 Useful games for developers to play and learn",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k489r2EL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://barcelonacodeschool.com/files/pics/16_games_for_developers/16_gams_for_developers.gif",
+  "slug": "16-games-for-developers-53fi",
+  "url": "https://dev.to/bcncodeschool/16-games-for-developers-53fi",
+  "publish_date": "2022-10-09",
+  "published_at": "2022-10-09T17:47:12Z"
+ },
+ {
+  "id": 1214909,
+  "title": "Sass: More about Nesting📚",
+  "description": "We learnt how to nest Scss rules in the last post. Today, we'll go into more depth regarding...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WbEyGAgE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ssjactc2qsy3romu6er1.png",
+  "slug": "sass-more-about-nesting-492n",
+  "url": "https://dev.to/ak_ram/sass-more-about-nesting-492n",
+  "publish_date": "2022-10-09",
+  "published_at": "2022-10-09T14:46:30Z"
+ },
+ {
+  "id": 1214958,
+  "title": "Why You Should Not Be a Reactive Developer",
+  "description": "In This Article    What Is a Reactive Developer Case Scenario The Reactive Developer's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gBD3rNOl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3r9mn7izqnskq2xxepzf.png",
+  "slug": "why-you-should-not-be-a-reactive-developer-2i1p",
+  "url": "https://dev.to/perssondennis/why-you-should-not-be-a-reactive-developer-2i1p",
+  "publish_date": "2022-10-09",
+  "published_at": "2022-10-09T14:36:10Z"
+ },
+ {
+  "id": 1214435,
+  "title": "Turn around your Git mistakes in 17 ways",
+  "description": "Mistakes! These are not a necessity in software development. But they always find a way to taint the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WqFFXXtB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xhtx0d49iq1oqj7eq17n.png",
+  "slug": "turn-around-your-git-mistakes-in-17-ways-2mn1",
+  "url": "https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1",
+  "publish_date": "2022-10-09",
+  "published_at": "2022-10-09T12:30:23Z"
+ },
+ {
+  "id": 1214903,
+  "title": "Yoda, explaining art styles by example",
+  "description": "Contents    Abstract Art Acacemic Art African Aquarelle Art Deco Art...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BScMhzSA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z75dolhln8kbix4ayxqv.png",
+  "slug": "yoda-explaining-art-styles-by-example-405e",
+  "url": "https://dev.to/gernotstarke/yoda-explaining-art-styles-by-example-405e",
+  "publish_date": "2022-10-09",
+  "published_at": "2022-10-09T08:43:19Z"
+ },
+ {
   "id": 1214443,
   "title": "Django Dynamic DataTables - Free Tool (Updated)",
   "description": "The tool aims to provide a powerful data table interface using the developer's minimum amount of code.",
@@ -3200,22 +3250,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/burakgur/create-todo-app-with-nuxt-3-composition-api-2mfc",
   "publish_date": "2022-07-02",
   "published_at": "2022-07-02T07:05:45Z"
- },
- {
-  "id": 1129640,
-  "title": "Best YouTube Video Downloaders 2022",
-  "description": "These are the Top YouTube Downloaders for this Year In 2021, the following YouTube video graber tools...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jARtKNrg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3cfrek8cux3wnfon75m5.png",
-  "slug": "best-youtube-video-downloaders-2022-56bl",
-  "url": "https://dev.to/ayush_singh_dev/best-youtube-video-downloaders-2022-56bl",
-  "publish_date": "2022-07-01",
-  "published_at": "2022-07-01T16:24:43Z"
- },
- {
-  "id": 1129536,
-  "title": "Follow Friday: React Edition (1 July 2022)",
-  "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
-  "cover_image": "",
-  "slug": "follow-friday-react-edition-1-july-2022-2kpa",
-  "url": "https://dev.to/devteam/follow-friday-react-edition-1-july-2022-2kpa",
-  "publish_date": "2022-07-01",
-  "published_at": "2022-07-01T14:49:40Z"
- },
- {
-  "id": 1129481,
-  "title": "Appwrite Community Report #12",
-  "description": "Hello everyone! Greetings from team Appwrite 👋  We are back with our weekly community report, to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9guG04_u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uh051mgcof0g2jfcmksl.png",
-  "slug": "appwrite-community-report-12-5c69",
-  "url": "https://dev.to/appwrite/appwrite-community-report-12-5c69",
-  "publish_date": "2022-07-01",
-  "published_at": "2022-07-01T14:45:30Z"
- },
- {
-  "id": 1129377,
-  "title": "Bootstrap CSS is still the sh*t. But we can make it better.",
-  "description": "Bootstrap is an amazing CSS framework for those who struggle with design, css, or need to build...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X38T7qee--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qd9qsb2pa6h8nm95lvfu.png",
-  "slug": "bootstrap-css-is-still-the-sht-but-we-can-make-it-better-1p6d",
-  "url": "https://dev.to/wes_walke/bootstrap-css-is-still-the-sht-but-we-can-make-it-better-1p6d",
-  "publish_date": "2022-07-01",
-  "published_at": "2022-07-01T10:56:01Z"
- },
- {
-  "id": 1129244,
-  "title": "Make the web fast again",
-  "description": "As some of you loyal readers might know, I'm a big fan of optimizing the web.  As mentioned in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tQIwJJsb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v538fetfgmkrm9vc8z9l.jpg",
-  "slug": "make-the-web-fast-again-1jip",
-  "url": "https://dev.to/dailydevtips1/make-the-web-fast-again-1jip",
-  "publish_date": "2022-07-01",
-  "published_at": "2022-07-01T07:11:52Z"
  }
 ]
