@@ -1,5 +1,55 @@
 [
  {
+  "id": 1215614,
+  "title": "Console.time \u0026 4 other webdev tips you may want to know 🚀",
+  "description": "1. Console.time   You can use console.time() to starts a timer to track how long an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mojr_esH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mrjchnzrqmpzw58lcn06.png",
+  "slug": "consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d",
+  "url": "https://dev.to/mustapha/consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d",
+  "publish_date": "2022-10-10",
+  "published_at": "2022-10-10T15:47:51Z"
+ },
+ {
+  "id": 1215888,
+  "title": "Meme Monday 🐷",
+  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZlsPaW0D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/id78lduqx4iqi5jx0p30.png",
+  "slug": "meme-monday-1cbp",
+  "url": "https://dev.to/ben/meme-monday-1cbp",
+  "publish_date": "2022-10-10",
+  "published_at": "2022-10-10T14:43:43Z"
+ },
+ {
+  "id": 1214819,
+  "title": "What are the best platforms to write technical articles?",
+  "description": "Introduction   One of the most asked questions in my DMs is to where put the technical...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MJO2mU7J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gfvslfn32nyzqvc3zr65.png",
+  "slug": "what-are-the-best-platforms-to-write-technical-articles-37fn",
+  "url": "https://dev.to/surajondev/what-are-the-best-platforms-to-write-technical-articles-37fn",
+  "publish_date": "2022-10-10",
+  "published_at": "2022-10-10T11:52:14Z"
+ },
+ {
+  "id": 1215680,
+  "title": "How I Created a React Native Ecommerce App for Medusa's Hackathon",
+  "description": "Medusa is currently hosting a Hackathon where developers can create amazing projects with Medusa and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ux6cJdrM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wqbhhlh339yndsgnhba3.jpg",
+  "slug": "how-i-created-a-react-native-ecommerce-app-for-medusas-hackathon-4am7",
+  "url": "https://dev.to/medusajs/how-i-created-a-react-native-ecommerce-app-for-medusas-hackathon-4am7",
+  "publish_date": "2022-10-10",
+  "published_at": "2022-10-10T11:48:39Z"
+ },
+ {
+  "id": 1213016,
+  "title": ":where :is CSS?",
+  "description": "In this post we will talk about the not so new functional pseudo-class selectors :is() and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZaNlsNyZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xsvudyry7tbcczfudp4y.png",
+  "slug": "where-is-css-20nk",
+  "url": "https://dev.to/mustapha/where-is-css-20nk",
+  "publish_date": "2022-10-10",
+  "published_at": "2022-10-10T08:45:05Z"
+ },
+ {
   "id": 1215121,
   "title": "16 games for developers",
   "description": "16 Useful games for developers to play and learn",
@@ -3250,22 +3300,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tmchuynh/relocation-yes-or-no-31no",
   "publish_date": "2022-07-03",
   "published_at": "2022-07-03T02:07:38Z"
- },
- {
-  "id": 1130213,
-  "title": "a11y-twitter: a browser extension for making Tweets more accessible",
-  "description": "Just over a year ago, I made a post on Twitter, and I realized that I had forgotten to add alternate...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RiTF1_s0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b49xiiod8cv4ldudb2l0.png",
-  "slug": "a11y-twitter-a-browser-extension-for-making-twitter-more-accessible-17kg",
-  "url": "https://dev.to/nickytonline/a11y-twitter-a-browser-extension-for-making-twitter-more-accessible-17kg",
-  "publish_date": "2022-07-02",
-  "published_at": "2022-07-02T12:58:14Z"
- },
- {
-  "id": 1130210,
-  "title": "How to Make a Gaming Website Using Html CSS JavaScript",
-  "description": "How to Make a Gaming Website Using Html CSS JavaScript  This video will show you how to make a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WubvUG1F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/139h1rzetsbxrajq3n4r.png",
-  "slug": "how-to-make-a-gaming-website-using-html-css-javascript-2m05",
-  "url": "https://dev.to/codewithsadee/how-to-make-a-gaming-website-using-html-css-javascript-2m05",
-  "publish_date": "2022-07-02",
-  "published_at": "2022-07-02T12:53:12Z"
- },
- {
-  "id": 1130204,
-  "title": "JavaScript shorthand tips and tricks",
-  "description": "Let's checkout some shorthand tips and other tricks. Remember, some of these might not seems relevant...",
-  "cover_image": "",
-  "slug": "javascript-shorthand-tips-and-tricks-4i7h",
-  "url": "https://dev.to/amitavmishra99/javascript-shorthand-tips-and-tricks-4i7h",
-  "publish_date": "2022-07-02",
-  "published_at": "2022-07-02T12:44:23Z"
- },
- {
-  "id": 1130073,
-  "title": "Enhancing images with srcset and picture",
-  "description": "In the previous article, we moved the images to Cloudflare images to serve them in modern...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZwsOLnn0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/001gc43iqnhyqe3b156r.jpg",
-  "slug": "enhancing-images-with-srcset-and-picture-edf",
-  "url": "https://dev.to/dailydevtips1/enhancing-images-with-srcset-and-picture-edf",
-  "publish_date": "2022-07-02",
-  "published_at": "2022-07-02T07:20:44Z"
- },
- {
-  "id": 1130056,
-  "title": "Create ToDo App With Nuxt 3 Composition API",
-  "description": "Hi there again, Together we will develop the Nuxt 3 version of the Create ToDo App With Vue 3...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qFI3i1tK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8uuswicabwjpyer1c8ib.png",
-  "slug": "create-todo-app-with-nuxt-3-composition-api-2mfc",
-  "url": "https://dev.to/burakgur/create-todo-app-with-nuxt-3-composition-api-2mfc",
-  "publish_date": "2022-07-02",
-  "published_at": "2022-07-02T07:05:45Z"
  }
 ]
