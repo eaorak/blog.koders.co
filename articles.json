@@ -1,5 +1,55 @@
 [
  {
+  "id": 1216950,
+  "title": "One-click treat for Open Source maintainers",
+  "description": "It's October. For some, a month of beautiful foliage, Halloween, and pumpkin spice. Some Open Source...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WshWhDWt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aq9p8v4m5smkfpv2hvsi.png",
+  "slug": "one-click-treat-for-open-source-maintainers-49f7",
+  "url": "https://dev.to/stackblitz/one-click-treat-for-open-source-maintainers-49f7",
+  "publish_date": "2022-10-11",
+  "published_at": "2022-10-11T18:18:21Z"
+ },
+ {
+  "id": 1216712,
+  "title": "React 18 Upgrade Guide and New Features",
+  "description": "Author: Joel Adewole           Introduction   Since updates frequently include modifications that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SpnwzcDn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x42li4i4138gpqnnmoi2.png",
+  "slug": "react-18-upgrade-guide-and-new-features-28dm",
+  "url": "https://dev.to/refine/react-18-upgrade-guide-and-new-features-28dm",
+  "publish_date": "2022-10-11",
+  "published_at": "2022-10-11T13:47:54Z"
+ },
+ {
+  "id": 1214423,
+  "title": "Advice for Junior Developers",
+  "description": "Over the 15+ years of my development career, I have learned several things that significantly increase my effectiveness. In this post, I share those learnings with you.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vt_eVVRg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.entropywins.wtf/blog/wp-content/uploads/2022/09/code.jpg",
+  "slug": "advice-for-junior-developers-30am",
+  "url": "https://dev.to/jeroendedauw/advice-for-junior-developers-30am",
+  "publish_date": "2022-10-11",
+  "published_at": "2022-10-11T12:11:33Z"
+ },
+ {
+  "id": 1216618,
+  "title": "Medusa 1.5.0: PriceList Import, Medusa Hackathon, and more!",
+  "description": "Time for another exciting release of Medusa!  Version 1.5 introduces a new price list import strategy...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g2tr0N9---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/drmu760bvxurzgwevzlk.jpg",
+  "slug": "medusa-142-pricelist-import-medusa-hackathon-and-more-5076",
+  "url": "https://dev.to/medusajs/medusa-142-pricelist-import-medusa-hackathon-and-more-5076",
+  "publish_date": "2022-10-11",
+  "published_at": "2022-10-11T11:06:42Z"
+ },
+ {
+  "id": 1216420,
+  "title": "Building THE MOST practical Todolist with React and Websockets 🪄✨",
+  "description": "What is this article about?   In this article, you'll learn how to build a team to-do list...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FE4PkMgp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e7kn72q2e16xe0bra6do.jpg",
+  "slug": "building-the-most-practical-todolist-with-react-and-websockets-18hd",
+  "url": "https://dev.to/novu/building-the-most-practical-todolist-with-react-and-websockets-18hd",
+  "publish_date": "2022-10-11",
+  "published_at": "2022-10-11T10:07:02Z"
+ },
+ {
   "id": 1215614,
   "title": "Console.time \u0026 4 other webdev tips you may want to know 🚀",
   "description": "1. Console.time   You can use console.time() to starts a timer to track how long an...",
@@ -3300,22 +3350,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pascallandau/use-git-secret-to-encrypt-secrets-in-the-repository-tutorial-part-6-53p5",
   "publish_date": "2022-07-04",
   "published_at": "2022-07-04T05:00:51Z"
- },
- {
-  "id": 918458,
-  "title": "Struggling with Promises? You Are Not Alone!",
-  "description": "Do you like to cook? I’m not sure about you, but I enjoy cooking. I usually cook by myself, although...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BMv4va-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0zgd2xxhlqazkav9z0n6.png",
-  "slug": "struggling-with-promises-you-are-not-alone-530g",
-  "url": "https://dev.to/polymathsomnath/struggling-with-promises-you-are-not-alone-530g",
-  "publish_date": "2022-07-03",
-  "published_at": "2022-07-03T13:19:09Z"
- },
- {
-  "id": 1130580,
-  "title": "7 Amazing GitHub Repositories Every Developer Should Follow",
-  "description": "GitHub is the dominant player in hosting Software Projects on the web. With 200 M+ public...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6spn8ht8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36rdfiever9zbxk5jw08.png",
-  "slug": "7-amazing-github-repositories-every-developer-should-follow-4bkk",
-  "url": "https://dev.to/ruppysuppy/7-amazing-github-repositories-every-developer-should-follow-4bkk",
-  "publish_date": "2022-07-03",
-  "published_at": "2022-07-03T03:47:41Z"
- },
- {
-  "id": 1130584,
-  "title": "THE LIVING EMOJI",
-  "description": "🥳 If you haven't read How I make my GitHub Profile Interactive ❗, Then you missed a lot.  Go check...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZsKT-9UK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e5knkdfrczfftsvf3ara.gif",
-  "slug": "the-living-emoji-42d3",
-  "url": "https://dev.to/heydrdev/the-living-emoji-42d3",
-  "publish_date": "2022-07-03",
-  "published_at": "2022-07-03T03:23:05Z"
- },
- {
-  "id": 1130564,
-  "title": "How I make my GitHub Profile Interactive",
-  "description": "After commiting changes and editing for continuously four hours, I finally finished my GitHub Profile...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FdUubL6q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hi6uiq0s2s5kd8vi8x4v.gif",
-  "slug": "how-i-make-my-github-profile-interactive-1bje",
-  "url": "https://dev.to/heydrdev/how-i-make-my-github-profile-interactive-1bje",
-  "publish_date": "2022-07-03",
-  "published_at": "2022-07-03T02:25:52Z"
- },
- {
-  "id": 1130573,
-  "title": "Relocation: yes or no?",
-  "description": "As the younger generation of developers are now graduates and looking for their full-time jobs, the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oS87zjmI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxgooijzjezw2t8tpgwe.jpg",
-  "slug": "relocation-yes-or-no-31no",
-  "url": "https://dev.to/tmchuynh/relocation-yes-or-no-31no",
-  "publish_date": "2022-07-03",
-  "published_at": "2022-07-03T02:07:38Z"
  }
 ]
