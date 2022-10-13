@@ -1,5 +1,55 @@
 [
  {
+  "id": 1217745,
+  "title": "Hacktoberfest: docs updates in three steps",
+  "description": "Hacktoberfest is a celebration of Open Source contributions and new developers are eagerly encouraged...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6M-O1H79--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yz6ni8tf16f1iu6961hr.png",
+  "slug": "hacktoberfest-docs-updates-in-three-steps-17f",
+  "url": "https://dev.to/stackblitz/hacktoberfest-docs-updates-in-three-steps-17f",
+  "publish_date": "2022-10-12",
+  "published_at": "2022-10-12T14:57:36Z"
+ },
+ {
+  "id": 1217566,
+  "title": "App Recommendations for a Productive iPhone User!",
+  "description": "No two iPhone users are alike. While some people only use their phone for the occasional phone call...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VmIyItxY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttocx9e8idlgkodx4lqh.jpg",
+  "slug": "app-recommendations-for-a-productive-iphone-user-16e9",
+  "url": "https://dev.to/stephanreynolds/app-recommendations-for-a-productive-iphone-user-16e9",
+  "publish_date": "2022-10-12",
+  "published_at": "2022-10-12T11:10:44Z"
+ },
+ {
+  "id": 1217529,
+  "title": "How to send notifications in JavaScript(in less than 10 lines of code)",
+  "description": "Disclaimer: What the title means by 'in less than 10 lines of code' is referring to the number of...",
+  "cover_image": "",
+  "slug": "how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j",
+  "url": "https://dev.to/freebeliever/how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j",
+  "publish_date": "2022-10-12",
+  "published_at": "2022-10-12T09:57:13Z"
+ },
+ {
+  "id": 1217375,
+  "title": "Django \u0026 Celery - Open-Source Tasks Manager",
+  "description": "Open-Source Tasks manager powered by Django and Celery on top of a modern Boostrap 5 Design - Sources published on Github.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z4_7753N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/isoaiaor75w7u9p0n7kx.jpg",
+  "slug": "django-celery-open-source-tasks-manager-36jf",
+  "url": "https://dev.to/sm0ke/django-celery-open-source-tasks-manager-36jf",
+  "publish_date": "2022-10-12",
+  "published_at": "2022-10-12T06:19:25Z"
+ },
+ {
+  "id": 1216508,
+  "title": "Developing Full Stack Mobile App with AWS Amplify Studio",
+  "description": "Managing a full-stack mobile app development is a stressful job. A developer needs to pay attention...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--haDs9rtq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhk4ogbnhou85kfip0bs.png",
+  "slug": "developing-full-stack-mobile-app-with-aws-amplify-studio-2600",
+  "url": "https://dev.to/quokkalabs/developing-full-stack-mobile-app-with-aws-amplify-studio-2600",
+  "publish_date": "2022-10-12",
+  "published_at": "2022-10-12T05:36:09Z"
+ },
+ {
   "id": 1216950,
   "title": "One-click treat for Open Source maintainers",
   "description": "It's October. For some, a month of beautiful foliage, Halloween, and pumpkin spice. Some Open Source...",
@@ -3350,22 +3400,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/mastering-the-docker-networking-2h57",
   "publish_date": "2022-07-05",
   "published_at": "2022-07-05T03:04:42Z"
- },
- {
-  "id": 1131616,
-  "title": "10 Tips To Get More Readers on DEV",
-  "description": "Writing a good blog article is only half part of blogging, you also have to present it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xxw9Clj5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cx2vfy82gn6a80elo3dn.png",
-  "slug": "10-tips-to-get-more-readers-on-dev-4p7h",
-  "url": "https://dev.to/perssondennis/10-tips-to-get-more-readers-on-dev-4p7h",
-  "publish_date": "2022-07-04",
-  "published_at": "2022-07-04T15:27:35Z"
- },
- {
-  "id": 1131508,
-  "title": "Optimize WebStorm For Productivity - My Top 5 Extensions",
-  "description": "A while ago I migrated from VS Code to WebStorm, and it’s been great. Like all JetBrains IDEs, it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SQA51x7c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ne27snkq9v1mcz8cblz.png",
-  "slug": "optimize-webstorm-for-productivity-my-top-5-extensions-4ed6",
-  "url": "https://dev.to/jamieswift90/optimize-webstorm-for-productivity-my-top-5-extensions-4ed6",
-  "publish_date": "2022-07-04",
-  "published_at": "2022-07-04T14:11:34Z"
- },
- {
-  "id": 1130905,
-  "title": "VS Code Tip of the Week: The Thunder Client Extension",
-  "description": "This week's VS Code Tip off the Week is the Thunder Client extension.   Thunder Client is a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UuAd6xhj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xb7x118t57bx4xnr45ob.png",
-  "slug": "vs-code-tip-of-the-week-the-thunder-client-extension-1cbc",
-  "url": "https://dev.to/vscodetips/vs-code-tip-of-the-week-the-thunder-client-extension-1cbc",
-  "publish_date": "2022-07-04",
-  "published_at": "2022-07-04T12:55:57Z"
- },
- {
-  "id": 1131410,
-  "title": "Docker Container Lifecycle Tutorial | Create, Run, Pause, Stop, Kill",
-  "description": "This tutorial was originally posted on SigNoz Blog and is written by Muskan Paliwal  In this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hTSRiY2N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/la9ud6ig0t6p2w8l75u4.png",
-  "slug": "docker-container-lifecycle-tutorial-create-run-pause-stop-kill-1l1d",
-  "url": "https://dev.to/signoz/docker-container-lifecycle-tutorial-create-run-pause-stop-kill-1l1d",
-  "publish_date": "2022-07-04",
-  "published_at": "2022-07-04T11:41:52Z"
- },
- {
-  "id": 1131307,
-  "title": "Use git-secret to encrypt secrets in the repository [Tutorial Part 6]",
-  "description": "How to use git-secret to encrypt secrets and store them in a git repository  This article appeared...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qkZ3zM4P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.pascallandau.com/img/git-secret-encrypt-repository-docker/yt-preview-image.png",
-  "slug": "use-git-secret-to-encrypt-secrets-in-the-repository-tutorial-part-6-53p5",
-  "url": "https://dev.to/pascallandau/use-git-secret-to-encrypt-secrets-in-the-repository-tutorial-part-6-53p5",
-  "publish_date": "2022-07-04",
-  "published_at": "2022-07-04T05:00:51Z"
  }
 ]
