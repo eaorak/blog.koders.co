@@ -1,5 +1,55 @@
 [
  {
+  "id": 1216002,
+  "title": "What is pnpm? Is it really so fast and space-efficient?",
+  "description": "We announced at ViteConf that our WebContainers now support pnpm. It was a major achievement in our...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MQBtPOa7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/som5fal8xwhbxgfbkxlj.png",
+  "slug": "what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la",
+  "url": "https://dev.to/stackblitz/what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la",
+  "publish_date": "2022-10-13",
+  "published_at": "2022-10-13T12:57:41Z"
+ },
+ {
+  "id": 1218620,
+  "title": "Sass: Placeholder Selector 📎",
+  "description": "Our series is split into two main categories: SASS rules and SASS at-rules, if you recall the course...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--znW8rVTV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jyclnqlc9o7v10kqhnfz.png",
+  "slug": "sass-placeholder-selector-4cj8",
+  "url": "https://dev.to/ak_ram/sass-placeholder-selector-4cj8",
+  "publish_date": "2022-10-13",
+  "published_at": "2022-10-13T12:08:10Z"
+ },
+ {
+  "id": 1218586,
+  "title": "Awesome tools for Coding Practice",
+  "description": "Introduction   Watching countless YouTube videos or reading articles won't help you in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t42CmMDk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0i5g7dcxi6cyq9w7rcdb.png",
+  "slug": "awesome-tools-for-coding-practice-4l49",
+  "url": "https://dev.to/surajondev/awesome-tools-for-coding-practice-4l49",
+  "publish_date": "2022-10-13",
+  "published_at": "2022-10-13T11:30:26Z"
+ },
+ {
+  "id": 1217689,
+  "title": "How to Set up Facebook Conversion API on Shopify",
+  "description": "Having accuracy problems tracking data through Facebook Pixel? Hold on: It’s time to sing the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B2XN0Gya--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/soozdo777dlul26knmrp.png",
+  "slug": "how-to-set-up-facebook-conversion-api-on-shopify-20cd",
+  "url": "https://dev.to/gloriamaldonado/how-to-set-up-facebook-conversion-api-on-shopify-20cd",
+  "publish_date": "2022-10-13",
+  "published_at": "2022-10-13T07:22:49Z"
+ },
+ {
+  "id": 1218234,
+  "title": "Should we hire junior developer advocates?",
+  "description": "A common debate in Developer Relations is whether or not we should hire junior developer advocates....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1kikJmeC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x38ytfd3nuot7u8w4f4v.png",
+  "slug": "should-we-hire-junior-developer-advocates-13m2",
+  "url": "https://dev.to/blackgirlbytes/should-we-hire-junior-developer-advocates-13m2",
+  "publish_date": "2022-10-13",
+  "published_at": "2022-10-13T01:08:57Z"
+ },
+ {
   "id": 1217745,
   "title": "Hacktoberfest: docs updates in three steps",
   "description": "Hacktoberfest is a celebration of Open Source contributions and new developers are eagerly encouraged...",
@@ -3400,22 +3450,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alltimedevlopment/how-to-become-a-web-developer-1m2h",
   "publish_date": "2022-07-06",
   "published_at": "2022-07-06T04:48:33Z"
- },
- {
-  "id": 1132621,
-  "title": "What's your best productivity tip?",
-  "description": "A post by Ben Halpern",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M69Gd4dI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z0igx6i1hvu79ek1s6vo.png",
-  "slug": "whats-your-best-productivity-tip-34na",
-  "url": "https://dev.to/ben/whats-your-best-productivity-tip-34na",
-  "publish_date": "2022-07-05",
-  "published_at": "2022-07-05T16:10:11Z"
- },
- {
-  "id": 1132256,
-  "title": "The Best .NET Decompiler Comparison Guide ✅ (Free and Paid)",
-  "description": "Decompiling .NET assemblies is an invaluable skill for any software developer or security engineer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mAfHoX6B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncl66r565a2x47eiqd0e.png",
-  "slug": "the-best-net-decompiler-comparison-guide-free-and-paid-4ok5",
-  "url": "https://dev.to/dotnetsafer/the-best-net-decompiler-comparison-guide-free-and-paid-4ok5",
-  "publish_date": "2022-07-05",
-  "published_at": "2022-07-05T11:31:49Z"
- },
- {
-  "id": 1131971,
-  "title": "12 APIs that you as a developer will love it 💖",
-  "description": "Are you starting a new project, learning a new technology, or building a new feature and you already...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kQaHuEvE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lvnr9ayoilsffew8vdy.png",
-  "slug": "12-apis-that-you-as-a-developer-will-love-it-4ec6",
-  "url": "https://dev.to/monicafidalgo/12-apis-that-you-as-a-developer-will-love-it-4ec6",
-  "publish_date": "2022-07-05",
-  "published_at": "2022-07-05T11:12:28Z"
- },
- {
-  "id": 1132172,
-  "title": "JavaScript check if property exists in Object",
-  "description": "You might need to determine if an object holds a particular property.  Let's say we have a user...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Riqjhf5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vwvdmt790eblu4lk2n6v.jpg",
-  "slug": "javascript-check-if-property-exists-in-object-57ed",
-  "url": "https://dev.to/dailydevtips1/javascript-check-if-property-exists-in-object-57ed",
-  "publish_date": "2022-07-05",
-  "published_at": "2022-07-05T06:29:27Z"
- },
- {
-  "id": 1057626,
-  "title": "Mastering the Docker networking",
-  "description": "Few months ago I demonstrated through a practical example the reasons to understand and take...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6XBfvTMX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hoiyj31r79nj8oiwihqm.png",
-  "slug": "mastering-the-docker-networking-2h57",
-  "url": "https://dev.to/leandronsp/mastering-the-docker-networking-2h57",
-  "publish_date": "2022-07-05",
-  "published_at": "2022-07-05T03:04:42Z"
  }
 ]
