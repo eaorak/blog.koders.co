@@ -1,5 +1,55 @@
 [
  {
+  "id": 1218839,
+  "title": "Angular ESLint Rules for Keyboard Accessibility",
+  "description": "When using built-in HTML elements, the browser provides proper and expected keyboard support out of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JU_7qbID--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ap5bk9lbistx85zrc7n.png",
+  "slug": "angular-eslint-rules-for-keyboard-accessibility-236f",
+  "url": "https://dev.to/angular/angular-eslint-rules-for-keyboard-accessibility-236f",
+  "publish_date": "2022-10-14",
+  "published_at": "2022-10-14T13:20:22Z"
+ },
+ {
+  "id": 1219522,
+  "title": "Investigating Cloud Cost Anomalies for Kubernetes The Easy Way",
+  "description": "You lead an engineering team and just received a bill from the FinOps manager asking why the cloud...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EpmWq9qR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bh7sdxsjy28jxowqm3rp.png",
+  "slug": "investigating-cloud-cost-anomalies-for-kubernetes-the-easy-way-6mf",
+  "url": "https://dev.to/castai/investigating-cloud-cost-anomalies-for-kubernetes-the-easy-way-6mf",
+  "publish_date": "2022-10-14",
+  "published_at": "2022-10-14T09:00:16Z"
+ },
+ {
+  "id": 1219350,
+  "title": "Blur Background CSS Generator",
+  "description": "I just released a tool to generate the CSS for a customized blur background. Afterward, you can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tCaUDSCh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xif35qn6sibmw5lsu4jx.png",
+  "slug": "blur-background-css-generator-15d9",
+  "url": "https://dev.to/vincenius/blur-background-css-generator-15d9",
+  "publish_date": "2022-10-14",
+  "published_at": "2022-10-14T05:22:07Z"
+ },
+ {
+  "id": 1219248,
+  "title": "3 ways to display content on hovering over an element using only CSS",
+  "description": "Method 1 : Using dfn Tag with the title attribute in HTML Document           ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iTmJuMTl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ugtbk1z50i5h86e34vc.png",
+  "slug": "3-ways-to-display-content-on-hovering-over-an-element-using-only-css-3d4m",
+  "url": "https://dev.to/koustav/3-ways-to-display-content-on-hovering-over-an-element-using-only-css-3d4m",
+  "publish_date": "2022-10-14",
+  "published_at": "2022-10-14T03:44:05Z"
+ },
+ {
+  "id": 1219234,
+  "title": "Learn JSON from Scratch",
+  "description": "What is JSON?🤔    JSON (JavaScript Object Notation) is a lightweight data-interchange...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K7LlVVSI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/af1the0rcg6qgwxvyrel.png",
+  "slug": "learn-json-from-scratch-29jh",
+  "url": "https://dev.to/mahmoudessam/learn-json-from-scratch-29jh",
+  "publish_date": "2022-10-14",
+  "published_at": "2022-10-14T01:17:06Z"
+ },
+ {
   "id": 1216002,
   "title": "What is pnpm? Is it really so fast and space-efficient?",
   "description": "We announced at ViteConf that our WebContainers now support pnpm. It was a major achievement in our...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shshank/some-useful-javascript-one-liners-4eoe",
   "publish_date": "2022-07-07",
   "published_at": "2022-07-07T05:47:27Z"
- },
- {
-  "id": 1133275,
-  "title": "The Hard Parts of Developer Advocacy (for me)",
-  "description": "Pivoting from software engineering to developer advocacy is the best career decision I have ever...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4XbZ4h5y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wc46czwo1trkkg2p0z65.png",
-  "slug": "the-hard-parts-of-developer-advocacy-for-me-530h",
-  "url": "https://dev.to/blackgirlbytes/the-hard-parts-of-developer-advocacy-for-me-530h",
-  "publish_date": "2022-07-06",
-  "published_at": "2022-07-06T10:58:29Z"
- },
- {
-  "id": 1133254,
-  "title": "Pure CSS Girl With Sunglasses",
-  "description": "Speed Code Video https://twitter.com/asyrafhussin4/status/1544623076863664128",
-  "cover_image": "",
-  "slug": "pure-css-girl-with-sunglasses-g2o",
-  "url": "https://dev.to/asyrafhussin4/pure-css-girl-with-sunglasses-g2o",
-  "publish_date": "2022-07-06",
-  "published_at": "2022-07-06T10:30:34Z"
- },
- {
-  "id": 1133217,
-  "title": "Show dev: I built an open-source landing page for Tailwind CSS",
-  "description": "Hey devs 👋  Together with my friends we have designed and built a totally free and open source...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VBoj7oLh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/904dm6cy8m4wi055bo9p.png",
-  "slug": "show-dev-i-built-an-open-source-landing-page-for-tailwind-css-1g0p",
-  "url": "https://dev.to/themesberg/show-dev-i-built-an-open-source-landing-page-for-tailwind-css-1g0p",
-  "publish_date": "2022-07-06",
-  "published_at": "2022-07-06T09:19:05Z"
- },
- {
-  "id": 1133110,
-  "title": "JavaScript overwrite property in an Object",
-  "description": "In JavaScript, we work a lot with Objects, and you'll have to modify some of the object data from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p3TUC2Rl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f9slaerm6gor1cl8g13b.jpg",
-  "slug": "javascript-overwrite-property-in-an-object-3g32",
-  "url": "https://dev.to/dailydevtips1/javascript-overwrite-property-in-an-object-3g32",
-  "publish_date": "2022-07-06",
-  "published_at": "2022-07-06T07:00:00Z"
- },
- {
-  "id": 1133063,
-  "title": "How to become a web developer",
-  "description": "How to become a web developer | All-time-dev     If you are interested in learning web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---16IqqcH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jflitohpz3baqgo7t38y.jpg",
-  "slug": "how-to-become-a-web-developer-1m2h",
-  "url": "https://dev.to/alltimedevlopment/how-to-become-a-web-developer-1m2h",
-  "publish_date": "2022-07-06",
-  "published_at": "2022-07-06T04:48:33Z"
  }
 ]
