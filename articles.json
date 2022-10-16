@@ -1,5 +1,55 @@
 [
  {
+  "id": 1220625,
+  "title": "React Just Got Even More Awesome",
+  "description": "If you've worked on any react or next.js application in the past, you've probably noticed that it's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HxZ8SWxJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zr0sr1tumh9cir43nept.png",
+  "slug": "react-just-got-even-more-awesome-f15",
+  "url": "https://dev.to/dayvster/react-just-got-even-more-awesome-f15",
+  "publish_date": "2022-10-15",
+  "published_at": "2022-10-15T15:11:58Z"
+ },
+ {
+  "id": 1220467,
+  "title": "5 ultra actionable tips to improve your Web performances",
+  "description": "If you want your website to be successful and well ranking on Google, you need to make sure it loads...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zk8d3GKe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e43iwwmx8s79pm0jl1a3.png",
+  "slug": "5-ultra-actionable-tips-to-improve-your-web-performances-219p",
+  "url": "https://dev.to/kezios/5-ultra-actionable-tips-to-improve-your-web-performances-219p",
+  "publish_date": "2022-10-15",
+  "published_at": "2022-10-15T10:18:30Z"
+ },
+ {
+  "id": 1219616,
+  "title": "React Typescript Snippets",
+  "description": "If you too are tired of typing the same code when creating a new component in react than VS Code...",
+  "cover_image": "",
+  "slug": "react-typescript-snippets-2mlm",
+  "url": "https://dev.to/danielbellmas/react-typescript-snippets-2mlm",
+  "publish_date": "2022-10-15",
+  "published_at": "2022-10-15T10:09:02Z"
+ },
+ {
+  "id": 1220339,
+  "title": "How to Get Started With React – A Beginner's Guide",
+  "description": "React js is a javascript library and it is also termed as a framework because it can be directly be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XuSzif1O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ie8w0yl017nl3tc5o0k7.jpeg",
+  "slug": "get-started-with-react-js-1nkb",
+  "url": "https://dev.to/rajivchaulagain/get-started-with-react-js-1nkb",
+  "publish_date": "2022-10-15",
+  "published_at": "2022-10-15T06:14:05Z"
+ },
+ {
+  "id": 1220336,
+  "title": "How To Deploy Your React-app on Gtihub",
+  "description": "For More Info deploy-react-app  -- Go To https://github.com/  -- Create Github Account  -- Check...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wkqnH3xs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sjlu0jcyf1v818dibkc3.jpeg",
+  "slug": "how-to-deploy-your-react-app-on-gtihub-5094",
+  "url": "https://dev.to/maligaurav947/how-to-deploy-your-react-app-on-gtihub-5094",
+  "publish_date": "2022-10-15",
+  "published_at": "2022-10-15T05:57:06Z"
+ },
+ {
   "id": 1218839,
   "title": "Angular ESLint Rules for Keyboard Accessibility",
   "description": "When using built-in HTML elements, the browser provides proper and expected keyboard support out of...",
@@ -3500,22 +3550,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devsimc/4-most-common-git-mistakes-40a9",
   "publish_date": "2022-07-08",
   "published_at": "2022-07-08T04:57:28Z"
- },
- {
-  "id": 1134647,
-  "title": "If you could add one feature to DEV, what would it be?",
-  "description": "If you could add one feature to DEV, what would it be?  Feel free to take an existing feature and...",
-  "cover_image": "",
-  "slug": "if-you-could-add-one-feature-to-dev-what-would-it-be-i98",
-  "url": "https://dev.to/devteam/if-you-could-add-one-feature-to-dev-what-would-it-be-i98",
-  "publish_date": "2022-07-07",
-  "published_at": "2022-07-07T15:48:05Z"
- },
- {
-  "id": 1134619,
-  "title": "What is a wrong turn you took your career?",
-  "description": "What is a direction you took in your career that turned out to be the wrong direction, and you had to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q3OE-jlb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9em6zzctp5m034gn7jg7.png",
-  "slug": "what-is-a-wrong-turn-you-took-your-career-2omp",
-  "url": "https://dev.to/ben/what-is-a-wrong-turn-you-took-your-career-2omp",
-  "publish_date": "2022-07-07",
-  "published_at": "2022-07-07T14:29:20Z"
- },
- {
-  "id": 1134440,
-  "title": "How I began using TypeScript",
-  "description": "I hope this post will convince you to give TypeScript a try if you haven't already. It really is an...",
-  "cover_image": "",
-  "slug": "how-i-began-using-typescript-3noe",
-  "url": "https://dev.to/omerwow/how-i-began-using-typescript-3noe",
-  "publish_date": "2022-07-07",
-  "published_at": "2022-07-07T12:23:59Z"
- },
- {
-  "id": 1134209,
-  "title": "Using the native web share JavaScript API",
-  "description": "Did you know there is a native share function you can invoke with JavaScript?  You might have seen...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RpnU5HPW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y9a1n1sx9yipa4qw0dun.jpg",
-  "slug": "using-the-native-web-share-javascript-api-23ei",
-  "url": "https://dev.to/dailydevtips1/using-the-native-web-share-javascript-api-23ei",
-  "publish_date": "2022-07-07",
-  "published_at": "2022-07-07T06:24:58Z"
- },
- {
-  "id": 1134192,
-  "title": "Some useful JavaScript One-Liners",
-  "description": "JavaScript is one of the most powerful language in this modern world. In this article we will go...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C-mo0zei--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qtgigby98jjjrjaatwdu.jpg",
-  "slug": "some-useful-javascript-one-liners-4eoe",
-  "url": "https://dev.to/shshank/some-useful-javascript-one-liners-4eoe",
-  "publish_date": "2022-07-07",
-  "published_at": "2022-07-07T05:47:27Z"
  }
 ]
