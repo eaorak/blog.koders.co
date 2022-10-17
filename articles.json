@@ -1,5 +1,55 @@
 [
  {
+  "id": 1221216,
+  "title": "Preload Fonts",
+  "description": "Usually, fonts are either downloaded from a third-party source, such as Google Fonts, or from a file...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H5o8F4fj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/blmae869dpjgmsqznjwa.png",
+  "slug": "preload-fonts-2jh7",
+  "url": "https://dev.to/danielbellmas/preload-fonts-2jh7",
+  "publish_date": "2022-10-16",
+  "published_at": "2022-10-16T11:42:49Z"
+ },
+ {
+  "id": 1221113,
+  "title": "Deploy your own API and build cool projects",
+  "description": "Main concepts:   Rest API NodeJS \u0026amp; npm, ExpressJS \u0026amp; Heroku API deployment            What is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---mvRD5-V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/10fworr3k6sjusx5t1ke.png",
+  "slug": "deploy-your-own-api-and-build-cool-projects-2p6e",
+  "url": "https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e",
+  "publish_date": "2022-10-16",
+  "published_at": "2022-10-16T08:58:18Z"
+ },
+ {
+  "id": 1221084,
+  "title": "6 Cool Things Boring Old HTML Can Do 🤯",
+  "description": "Ever wondered does HTML always have to be boring? No way! Here are 6 cool things you can do with HTML...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DYd6gTU0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/td92zcqzvtmjdrogww5n.png",
+  "slug": "6-cool-things-boring-old-html-can-do-3160",
+  "url": "https://dev.to/ruppysuppy/6-cool-things-boring-old-html-can-do-3160",
+  "publish_date": "2022-10-16",
+  "published_at": "2022-10-16T07:17:55Z"
+ },
+ {
+  "id": 1220367,
+  "title": "Things I Learned Through My First Hacktoberfest Pull Requests!",
+  "description": "After searching for the perfect issues to solve as part of Hacktoberfest for about 10 days, I finally...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jb6wwQFg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrifgkmvdfpg3mltcwux.png",
+  "slug": "things-i-learned-through-my-first-hacktoberfest-pull-requests-4na1",
+  "url": "https://dev.to/saminarp/things-i-learned-through-my-first-hacktoberfest-pull-requests-4na1",
+  "publish_date": "2022-10-16",
+  "published_at": "2022-10-16T05:13:39Z"
+ },
+ {
+  "id": 1220913,
+  "title": "Some less popular git commands",
+  "description": "Introduction   Git is pretty much used by every developer nowadays. Personally, even after...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FcYA2pE1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0naausn4vvl7ofdjd6f5.png",
+  "slug": "some-less-popular-git-commands-2oem",
+  "url": "https://dev.to/akashrchandran/some-less-popular-git-commands-2oem",
+  "publish_date": "2022-10-16",
+  "published_at": "2022-10-16T02:38:48Z"
+ },
+ {
   "id": 1220625,
   "title": "React Just Got Even More Awesome",
   "description": "If you've worked on any react or next.js application in the past, you've probably noticed that it's...",
@@ -3550,22 +3600,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mohsenkamrani/open-source-contribution-a-beginners-guide-in-2-minutes-2g58",
   "publish_date": "2022-07-09",
   "published_at": "2022-07-09T03:31:08Z"
- },
- {
-  "id": 1134053,
-  "title": "Using Dark Mode in your react app! 🌙",
-  "description": "Dark mode is one of the features that would look excellent implemented in your app, as it would...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VZl4niBi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u7n6yny4pnv9zm58vbsc.gif",
-  "slug": "using-dark-mode-in-your-react-app-5364",
-  "url": "https://dev.to/franklin030601/using-dark-mode-in-your-react-app-5364",
-  "publish_date": "2022-07-08",
-  "published_at": "2022-07-08T12:35:12Z"
- },
- {
-  "id": 1135390,
-  "title": "Keep Cloud Operations In Top Shape This Summer With Automation",
-  "description": "A Gartner survey of infrastructure and operations leaders revealed that 58% of them deal with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4lUSj954--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqkf7064mte7g0rahsax.png",
-  "slug": "keep-cloud-operations-in-top-shape-this-summer-with-automation-2cgp",
-  "url": "https://dev.to/castai/keep-cloud-operations-in-top-shape-this-summer-with-automation-2cgp",
-  "publish_date": "2022-07-08",
-  "published_at": "2022-07-08T11:47:10Z"
- },
- {
-  "id": 1135347,
-  "title": "CQRS is Software Development Schizophrenia",
-  "description": "CQRS is an acronym, and it implies \"Command Query Responsibility Segregation\" - Which again just...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lf1v3ccV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hjn8q27ci055xlr80w1i.jpg",
-  "slug": "cqrs-is-software-development-schizophrenia-301o",
-  "url": "https://dev.to/polterguy/cqrs-is-software-development-schizophrenia-301o",
-  "publish_date": "2022-07-08",
-  "published_at": "2022-07-08T10:22:18Z"
- },
- {
-  "id": 1135151,
-  "title": "How to insert an element at a specific array index with JavaScript",
-  "description": "In this article, I'll teach you how to add an element to a JavaScript array but set it to a specific...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4aFHlSB6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lf5g71xw4vq8iv3z9pb6.jpg",
-  "slug": "how-to-insert-an-element-at-a-specific-array-index-with-javascript-5f5m",
-  "url": "https://dev.to/dailydevtips1/how-to-insert-an-element-at-a-specific-array-index-with-javascript-5f5m",
-  "publish_date": "2022-07-08",
-  "published_at": "2022-07-08T07:06:06Z"
- },
- {
-  "id": 1135105,
-  "title": "4 Most Common Git Mistakes",
-  "description": "1. Discard changes to local files in git   As a programmer, it happens every day that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ugoAh6Zc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfhzayrwrs02h5g6kos9.png",
-  "slug": "4-most-common-git-mistakes-40a9",
-  "url": "https://dev.to/devsimc/4-most-common-git-mistakes-40a9",
-  "publish_date": "2022-07-08",
-  "published_at": "2022-07-08T04:57:28Z"
  }
 ]
