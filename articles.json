@@ -1,5 +1,55 @@
 [
  {
+  "id": 1223463,
+  "title": "I made a full-stack and type-safe personal site using the t3-stack (Next.js)!",
+  "description": "Intro   First of all, thanks a lot for 1000+ followers on Dev.to, I really can’t believe...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LVmlUJV8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7huq4m0zmfvbsbxo7y1s.png",
+  "slug": "i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d",
+  "url": "https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d",
+  "publish_date": "2022-10-18",
+  "published_at": "2022-10-18T18:22:28Z"
+ },
+ {
+  "id": 1222982,
+  "title": "How to Build a Video Game Store with Medusa and Next.js",
+  "description": "Medusa is a Node.js-based, open-source, ecommerce platform. Medusa allows developers to create...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--59Wt1d4f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mf67rge2ceeg36hn9m5y.jpg",
+  "slug": "how-to-build-a-video-game-store-with-medusa-and-nextjs-kem",
+  "url": "https://dev.to/medusajs/how-to-build-a-video-game-store-with-medusa-and-nextjs-kem",
+  "publish_date": "2022-10-18",
+  "published_at": "2022-10-18T11:30:46Z"
+ },
+ {
+  "id": 1222933,
+  "title": "What is CORS?",
+  "description": "Article explains what is CORS, popular among web developers CORS, what are the common problems and how to fix them.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vmwx7kmE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://simplelocalize.io/blog/what-is-cors.jpg",
+  "slug": "what-is-cors-11kf",
+  "url": "https://dev.to/jpomykala/what-is-cors-11kf",
+  "publish_date": "2022-10-18",
+  "published_at": "2022-10-18T09:36:06Z"
+ },
+ {
+  "id": 1222087,
+  "title": "10 Visual Studio 2022 Themes you Should Try (Free Themes!)✔️",
+  "description": "You’re probably looking for visual studio 2022 themes because you want to spruce up your development...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zLW3QFwA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kg5trldc1kbesx6kd4je.png",
+  "slug": "10-visual-studio-2022-themes-you-should-try-free-themes-1f4n",
+  "url": "https://dev.to/bytehide/10-visual-studio-2022-themes-you-should-try-free-themes-1f4n",
+  "publish_date": "2022-10-18",
+  "published_at": "2022-10-18T06:20:12Z"
+ },
+ {
+  "id": 1222759,
+  "title": "Making the site responsive - part 11",
+  "description": "Now that we have our basic structure styled and working let's take some time to look at the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LM8Fhobo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7z41wdp89fc0ymdnev52.jpg",
+  "slug": "making-the-site-responsive-part-11-46a9",
+  "url": "https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9",
+  "publish_date": "2022-10-18",
+  "published_at": "2022-10-18T05:17:15Z"
+ },
+ {
   "id": 1222098,
   "title": "Meme Monday 🦑",
   "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
@@ -3650,22 +3700,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jmfayard/github-actions-a-new-hope-in-yaml-wasteland-1i9c",
   "publish_date": "2022-07-11",
   "published_at": "2022-07-11T08:46:51Z"
- },
- {
-  "id": 1136742,
-  "title": "Top 10 Celebrities Who Code",
-  "description": "Trust me if you want, but here are the ten most famous celebrities who also has a career as...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XrysWvcK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m6ig7xjdx0wh5d7zqtqi.png",
-  "slug": "top-10-celebrities-who-code-7g7",
-  "url": "https://dev.to/perssondennis/top-10-celebrities-who-code-7g7",
-  "publish_date": "2022-07-10",
-  "published_at": "2022-07-10T14:40:54Z"
- },
- {
-  "id": 1136613,
-  "title": "7 Reasons Why React is King of JavaScript UI Frameworks",
-  "description": "React is still the best JavaScript framework to use for frontend web development in 2022, the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aJp9OPuN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kug2si57wssiyyezvrir.png",
-  "slug": "7-reasons-why-react-is-king-of-javascript-ui-frameworks-1j76",
-  "url": "https://dev.to/kalashin1/7-reasons-why-react-is-king-of-javascript-ui-frameworks-1j76",
-  "publish_date": "2022-07-10",
-  "published_at": "2022-07-10T14:30:05Z"
- },
- {
-  "id": 1136553,
-  "title": "Detect object changes with JavaScript Proxy",
-  "description": "Let's say we have an object for our users. How can we detect when a property changes?    const user =...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--laY2NiDH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w1whtt7qqswaicdk331y.jpg",
-  "slug": "detect-object-changes-with-javascript-proxy-1o5g",
-  "url": "https://dev.to/dailydevtips1/detect-object-changes-with-javascript-proxy-1o5g",
-  "publish_date": "2022-07-10",
-  "published_at": "2022-07-10T06:49:20Z"
- },
- {
-  "id": 1136511,
-  "title": "11 Advanced React Interview Questions you should absolutely know (with detailed answers)",
-  "description": "1. What is the React Virtual DOM?   Virtual DOM is a concept where a virtual representation...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7t_EsSBE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2d1zyy1lh9z55lliic8u.png",
-  "slug": "11-advanced-react-interview-questions-you-should-absolutely-know-with-detailed-answers-1n05",
-  "url": "https://dev.to/ruppysuppy/11-advanced-react-interview-questions-you-should-absolutely-know-with-detailed-answers-1n05",
-  "publish_date": "2022-07-10",
-  "published_at": "2022-07-10T06:22:06Z"
- },
- {
-  "id": 1136490,
-  "title": "Learning Resources for TypeScript",
-  "description": "I've had folks ask me for Typescript resources a few times over the past couple of months, so I might...",
-  "cover_image": "",
-  "slug": "learning-resources-for-typescript-4g1n",
-  "url": "https://dev.to/nickytonline/learning-resources-for-typescript-4g1n",
-  "publish_date": "2022-07-10",
-  "published_at": "2022-07-10T04:16:34Z"
  }
 ]
