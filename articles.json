@@ -1,5 +1,55 @@
 [
  {
+  "id": 1225415,
+  "title": "Why Google Build Zanzibar ?",
+  "description": "In this article we’ll examine  Zanzibar, which is the global authorization system used at Google for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wRT9Rzbx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6hbt9svj0hs2i19niq4p.png",
+  "slug": "why-google-build-zanzibar--3kp5",
+  "url": "https://dev.to/egeaytin/why-google-build-zanzibar--3kp5",
+  "publish_date": "2022-10-20",
+  "published_at": "2022-10-20T15:36:43Z"
+ },
+ {
+  "id": 1203412,
+  "title": "Appwrite OSS Fund Sponsors Presentator",
+  "description": "Hi readers 👋, welcoming you back to the \"Appwrite OSS Fund\" series, where we celebrate open-source...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qxFnS0Vt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0vfm4agd11a51rl5xzsy.png",
+  "slug": "appwrite-oss-fund-sponsors-presentator-4ndm",
+  "url": "https://dev.to/appwrite/appwrite-oss-fund-sponsors-presentator-4ndm",
+  "publish_date": "2022-10-20",
+  "published_at": "2022-10-20T12:34:32Z"
+ },
+ {
+  "id": 1225119,
+  "title": "I made a premium admin dashboard for NextJS \u0026 Typescript!",
+  "description": "Hey guys, I made a premium admin dashboard for NextJS \u0026amp; Typescript!  Presentation:...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--71AzSz-D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j07l1smve1alqk1on0j0.png",
+  "slug": "i-made-a-premium-admin-dashboard-for-nextjs-typescript-1h94",
+  "url": "https://dev.to/fredy/i-made-a-premium-admin-dashboard-for-nextjs-typescript-1h94",
+  "publish_date": "2022-10-20",
+  "published_at": "2022-10-20T11:47:44Z"
+ },
+ {
+  "id": 1224887,
+  "title": "I Re-Wrote These 10+ Single Lines of JavaScript Code, the Team Lead Praised the Code for Being Elegant",
+  "description": "I am the Team Lead, I praised the code. /s  This post is in response to, but by no means a dig on the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wOwa1WE6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2gg3rbx6ndgctb9cibwm.gif",
+  "slug": "i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec",
+  "url": "https://dev.to/rida/i-re-wrote-these-10-single-lines-of-javascript-code-the-team-lead-praised-the-code-for-being-elegant-ec",
+  "publish_date": "2022-10-20",
+  "published_at": "2022-10-20T04:58:25Z"
+ },
+ {
+  "id": 1224579,
+  "title": "Run your README.md like a notebook in VS Code",
+  "description": "In our ongoing efforts to make documentation more reliable and less susceptible to bit-rot, we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7_btRumb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27dadz3ruvpgdt3ocb4s.png",
+  "slug": "run-your-readmemd-in-vs-code-50l7",
+  "url": "https://dev.to/sourishkrout/run-your-readmemd-in-vs-code-50l7",
+  "publish_date": "2022-10-20",
+  "published_at": "2022-10-20T01:21:00Z"
+ },
+ {
   "id": 1224300,
   "title": "This Post is Scheduled for 11:30am US Eastern Time ⏰",
   "description": "Announcing a new Forem feature we have just turned on with DEV:  Schedule your post!    The...",
@@ -3750,22 +3800,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devsimc/how-you-can-easily-code-for-8-hours-without-feeling-tired-35k",
   "publish_date": "2022-07-13",
   "published_at": "2022-07-13T04:24:17Z"
- },
- {
-  "id": 1134920,
-  "title": "The Cost of Consistency in UI Frameworks",
-  "description": "Sometimes there are problems that have no universally good solutions. There is some tradeoff to be...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ThTMCvXz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z4i80q5jmdylml8dej7e.png",
-  "slug": "the-cost-of-consistency-in-ui-frameworks-4agi",
-  "url": "https://dev.to/this-is-learning/the-cost-of-consistency-in-ui-frameworks-4agi",
-  "publish_date": "2022-07-12",
-  "published_at": "2022-07-12T16:58:20Z"
- },
- {
-  "id": 1137515,
-  "title": "Early Merge Conflict Detection Across All Branches In IntelliJ",
-  "description": "We are happy to announce that GitLive's flagship feature, early merge conflict detection, now works...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ncN4sV33--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u32yyd64uvlcwy3adgj9.png",
-  "slug": "early-merge-conflict-detection-across-all-branches-in-intellij-1gp6",
-  "url": "https://dev.to/gitlive/early-merge-conflict-detection-across-all-branches-in-intellij-1gp6",
-  "publish_date": "2022-07-12",
-  "published_at": "2022-07-12T14:44:10Z"
- },
- {
-  "id": 1120656,
-  "title": "The Serverless API Versioning System you wish you had ⚡",
-  "description": "Learn how to implement a blazing fast Serverless API Versioning system",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7naWkCYh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2xz7phpr8nznweg1jlew.png",
-  "slug": "the-serverless-api-versioning-system-you-wish-you-had-55m7",
-  "url": "https://dev.to/kumo/the-serverless-api-versioning-system-you-wish-you-had-55m7",
-  "publish_date": "2022-07-12",
-  "published_at": "2022-07-12T11:33:36Z"
- },
- {
-  "id": 1138187,
-  "title": "Git basics: remove all local branches",
-  "description": "There will come a time when you optimize your workflow to ensure PR requests are as small as...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CpUHz1IV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tofw5ly9r48hcz0x15z.jpg",
-  "slug": "git-basics-remove-all-local-branches-13lm",
-  "url": "https://dev.to/dailydevtips1/git-basics-remove-all-local-branches-13lm",
-  "publish_date": "2022-07-12",
-  "published_at": "2022-07-12T06:34:27Z"
- },
- {
-  "id": 1138079,
-  "title": "What It's Like To Code For Amazon",
-  "description": "I haven't blogged in four months.  I've been really busy because... I started working for Amazon. ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--duc6BKnZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dpbnh0kcpnjj25j6kwig.jpg",
-  "slug": "what-its-like-to-code-for-amazon-4nke",
-  "url": "https://dev.to/bytebodger/what-its-like-to-code-for-amazon-4nke",
-  "publish_date": "2022-07-12",
-  "published_at": "2022-07-12T05:47:38Z"
  }
 ]
