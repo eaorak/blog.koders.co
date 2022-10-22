@@ -1,5 +1,55 @@
 [
  {
+  "id": 1225640,
+  "title": "How to make a Curved Cutout to any element",
+  "description": "In many applications, we need to have a cutout from an element for stylistic reasons. Making a cutout...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UNlgobhM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5fvac66jmqr5b0psxgpm.png",
+  "slug": "how-to-make-a-curved-cutout-to-any-element-a2j",
+  "url": "https://dev.to/karimshalapy/how-to-make-a-curved-cutout-to-any-element-a2j",
+  "publish_date": "2022-10-21",
+  "published_at": "2022-10-21T13:58:21Z"
+ },
+ {
+  "id": 1226180,
+  "title": "Tailwind CSS Grid System",
+  "description": "Author: Abdullah Numan           Introduction   In this article we look at how to implement...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K3O4mvQn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bmin6msj26q3qnwaplf4.png",
+  "slug": "tailwind-css-grid-system-56h9",
+  "url": "https://dev.to/refine/tailwind-css-grid-system-56h9",
+  "publish_date": "2022-10-21",
+  "published_at": "2022-10-21T13:46:38Z"
+ },
+ {
+  "id": 1224013,
+  "title": "Nested Dynamic Routes in React Router v6",
+  "description": "When I first started to develop my portfolio, I fetched GitHub Repos and ran into the issue of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KORyLuDo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r5h3dmvqpw0icfljwunk.png",
+  "slug": "nested-dynamic-routes-in-react-router-v6-4pgj",
+  "url": "https://dev.to/ak_ram/nested-dynamic-routes-in-react-router-v6-4pgj",
+  "publish_date": "2022-10-21",
+  "published_at": "2022-10-21T12:37:31Z"
+ },
+ {
+  "id": 1226126,
+  "title": "EKS Security Checklist: 10 Best Practices for a Secure Cluster",
+  "description": "Kubernetes is riddled with security challenges. Inevitably, the same goes for managed Kubernetes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AtH69l1n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/phk8yupm5poybp4z6vlz.png",
+  "slug": "eks-security-checklist-10-best-practices-for-a-secure-cluster-5e85",
+  "url": "https://dev.to/castai/eks-security-checklist-10-best-practices-for-a-secure-cluster-5e85",
+  "publish_date": "2022-10-21",
+  "published_at": "2022-10-21T10:54:03Z"
+ },
+ {
+  "id": 1225952,
+  "title": "How to Set up Facebook Pixel on Shopify",
+  "description": "What is Facebook Pixel?   Facebook Pixel can be instrumental for you to better understand...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d0Pus1eW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7bosd24lxemi1lju3htv.png",
+  "slug": "how-to-set-up-facebook-pixel-on-shopify-5aaf",
+  "url": "https://dev.to/gloriamaldonado/how-to-set-up-facebook-pixel-on-shopify-5aaf",
+  "publish_date": "2022-10-21",
+  "published_at": "2022-10-21T07:39:39Z"
+ },
+ {
   "id": 1225415,
   "title": "Why Google Build Zanzibar ?",
   "description": "In this article we’ll examine  Zanzibar, which is the global authorization system used at Google for...",
@@ -3800,22 +3850,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/donbfry/stepping-outside-my-comfort-zone-m75",
   "publish_date": "2022-07-14",
   "published_at": "2022-07-14T00:59:01Z"
- },
- {
-  "id": 1139774,
-  "title": "Moose facts",
-  "description": "Cassidy learned a lot about moose and needs to tell people, namely you, about them",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8B5eS_pQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1514511885945-e7faec0e3eaf%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1770%26q%3D80",
-  "slug": "moose-facts-1l9j",
-  "url": "https://dev.to/cassidoo/moose-facts-1l9j",
-  "publish_date": "2022-07-13",
-  "published_at": "2022-07-13T19:22:49Z"
- },
- {
-  "id": 1139400,
-  "title": "Add vector emojis to your websites",
-  "description": "Using Emoji cloud you can to add 300+ custom vector emojis to your projects in seconds           🌐...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7OZ4CZBB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/slee5a7khxn7dn0y4n49.jpg",
-  "slug": "add-vector-emojis-to-your-websites-3i6f",
-  "url": "https://dev.to/alohe/add-vector-emojis-to-your-websites-3i6f",
-  "publish_date": "2022-07-13",
-  "published_at": "2022-07-13T12:20:44Z"
- },
- {
-  "id": 1139172,
-  "title": "How Open Source Can Help You Level Up as a Developer",
-  "description": "Why Should I write Open Source Code?   In the world of software development, there is always...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nsIyVaal--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/km0zwy9hyah475tlf9d1.png",
-  "slug": "how-open-source-can-help-you-level-up-as-a-developer-4o",
-  "url": "https://dev.to/chainguns/how-open-source-can-help-you-level-up-as-a-developer-4o",
-  "publish_date": "2022-07-13",
-  "published_at": "2022-07-13T08:12:58Z"
- },
- {
-  "id": 1137760,
-  "title": "5 C# Tips from a Senior Developer to Help You Program Better",
-  "description": "Senior developers tend to pick up many tricks and workarounds over the years, but most of them never...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t-ysJ-iH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcgwo94ldgy6ts717m3r.png",
-  "slug": "5-c-tips-from-a-senior-developer-to-help-you-program-better-2212",
-  "url": "https://dev.to/dotnetsafer/5-c-tips-from-a-senior-developer-to-help-you-program-better-2212",
-  "publish_date": "2022-07-13",
-  "published_at": "2022-07-13T07:36:21Z"
- },
- {
-  "id": 1139057,
-  "title": "😍🔥 😍🔥 😍🔥 😍🔥 How you can easily Code For 8+ Hours Without Feeling Tired 🔥😍🔥😍🔥😍🔥😍",
-  "description": "I’ve been coding wrong my whole life.  I was thinking that its okay to sit down at my desk, Open...",
-  "cover_image": "",
-  "slug": "how-you-can-easily-code-for-8-hours-without-feeling-tired-35k",
-  "url": "https://dev.to/devsimc/how-you-can-easily-code-for-8-hours-without-feeling-tired-35k",
-  "publish_date": "2022-07-13",
-  "published_at": "2022-07-13T04:24:17Z"
  }
 ]
