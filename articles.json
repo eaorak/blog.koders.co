@@ -1,5 +1,55 @@
 [
  {
+  "id": 1226974,
+  "title": "Javascript Proxy: Using Javascript Proxies like a Pro",
+  "description": "Proxies are objects in Javascript which allows you to make a proxy of an object, while also defining...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vkJltBXr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xi7034jf130tb8jzjzjx.png",
+  "slug": "using-javascript-proxies-like-a-pro-590",
+  "url": "https://dev.to/smpnjn/using-javascript-proxies-like-a-pro-590",
+  "publish_date": "2022-10-22",
+  "published_at": "2022-10-22T13:56:00Z"
+ },
+ {
+  "id": 1223834,
+  "title": "10 UI and UX Principles while styling with CSS",
+  "description": "a) Use appropriate icon set for all buttons. If you do not have proper icons, you can download it or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fsdg1lX9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9eqsjtjmst2thm1phecl.png",
+  "slug": "10-ui-and-ux-principles-while-styling-with-css-7ib",
+  "url": "https://dev.to/koustav/10-ui-and-ux-principles-while-styling-with-css-7ib",
+  "publish_date": "2022-10-22",
+  "published_at": "2022-10-22T10:27:51Z"
+ },
+ {
+  "id": 1226837,
+  "title": "Django API Generator - Free PyPI Library",
+  "description": "Simple tool that Generates Secure APIs on top of DRF with minimum effort - Released under the MIT License on Github.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--687ChRQQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8512umci4ilxnxrtt2sa.jpg",
+  "slug": "django-api-generator-free-pypi-library-1oe4",
+  "url": "https://dev.to/sm0ke/django-api-generator-free-pypi-library-1oe4",
+  "publish_date": "2022-10-22",
+  "published_at": "2022-10-22T09:50:14Z"
+ },
+ {
+  "id": 1226797,
+  "title": "New git guidelines: We have switched to Conventional Commits",
+  "description": "Giving teams as much autonomy as possible is a good idea, but having some company-wide guidelines can...",
+  "cover_image": "",
+  "slug": "new-git-guidelines-we-have-switched-to-conventional-commits-1p0c",
+  "url": "https://dev.to/visuellverstehen/new-git-guidelines-we-have-switched-to-conventional-commits-1p0c",
+  "publish_date": "2022-10-22",
+  "published_at": "2022-10-22T08:28:39Z"
+ },
+ {
+  "id": 1226796,
+  "title": "These 10 free APIs will take your programming projects to the next level 👇",
+  "description": "DummyAPI   From fake users to fake comments and posts.   Dummy API has everything you need to make...",
+  "cover_image": "",
+  "slug": "these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24",
+  "url": "https://dev.to/elliot_brenyasarfo_18749/these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24",
+  "publish_date": "2022-10-22",
+  "published_at": "2022-10-22T08:00:02Z"
+ },
+ {
   "id": 1225640,
   "title": "How to make a Curved Cutout to any element",
   "description": "In many applications, we need to have a cutout from an element for stylistic reasons. Making a cutout...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devteam/feature-update-markdown-toolbar-coming-to-comment-editor-544o",
   "publish_date": "2022-07-15",
   "published_at": "2022-07-15T01:58:09Z"
- },
- {
-  "id": 1140090,
-  "title": "Javascript best practices🔥",
-  "description": "Declare and Initialize Arrays in javascript Find out the sum, minimum and maximum value in...",
-  "cover_image": "",
-  "slug": "javascript-best-practices-44ll",
-  "url": "https://dev.to/devsimc/javascript-best-practices-44ll",
-  "publish_date": "2022-07-14",
-  "published_at": "2022-07-14T08:22:21Z"
- },
- {
-  "id": 1138543,
-  "title": "PhpStorm Plugins You Should Know",
-  "description": "If you are a PhpStorm user you know that it comes with many great features that make programming in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S32MgphE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9duujfoql8eys834400j.png",
-  "slug": "phpstorm-plugins-you-should-know-o0b",
-  "url": "https://dev.to/hugomartinezzz/phpstorm-plugins-you-should-know-o0b",
-  "publish_date": "2022-07-14",
-  "published_at": "2022-07-14T07:33:58Z"
- },
- {
-  "id": 1139921,
-  "title": "Front End Interview Question",
-  "description": "We as programmers lead a hard life. Especially when it comes to the interview process. There are many...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fpLA1ZHF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0pwvzfp1za30ymzwt0t.jpeg",
-  "slug": "front-end-interview-question-5392",
-  "url": "https://dev.to/lucvankerkvoort/front-end-interview-question-5392",
-  "publish_date": "2022-07-14",
-  "published_at": "2022-07-14T04:12:30Z"
- },
- {
-  "id": 1139940,
-  "title": "What is Deno?",
-  "description": "I got to hang with Deno core team member Luca Casonato a couple of weeks ago to discuss a framework...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vO_muh2a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s4rykg32xnqkbo8155be.png",
-  "slug": "what-is-deno-13he",
-  "url": "https://dev.to/nickytonline/what-is-deno-13he",
-  "publish_date": "2022-07-14",
-  "published_at": "2022-07-14T03:41:52Z"
- },
- {
-  "id": 965109,
-  "title": "Stepping Outside My Comfort Zone",
-  "description": "Hi, everyone! Thanks for taking a moment to read my first ever blog post, ever. Shout-out to Fireship...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nrP2HCWY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vh7t3jyyijr4xs821edp.jpg",
-  "slug": "stepping-outside-my-comfort-zone-m75",
-  "url": "https://dev.to/donbfry/stepping-outside-my-comfort-zone-m75",
-  "publish_date": "2022-07-14",
-  "published_at": "2022-07-14T00:59:01Z"
  }
 ]
