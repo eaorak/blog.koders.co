@@ -1,5 +1,55 @@
 [
  {
+  "id": 1227488,
+  "title": "I Created a Programming Puzzle Game",
+  "description": "Halloumi! I made a new puzzle game. It's a four-question pyramid quiz game. It's for all those...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xF2fG1pp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ieqvh6n69h2uzk3y5tm.png",
+  "slug": "i-created-a-programming-puzzle-game-250h",
+  "url": "https://dev.to/perssondennis/i-created-a-programming-puzzle-game-250h",
+  "publish_date": "2022-10-23",
+  "published_at": "2022-10-23T14:25:00Z"
+ },
+ {
+  "id": 1227621,
+  "title": "Golang GUI Calculator",
+  "description": "In this article you will learn, how you can build a calculator from scratch. We’ll focus on the Go...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q3LPpBYI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9nd5wdor6w02k8t3l5ah.jpg",
+  "slug": "golang-gui-calculator-2e49",
+  "url": "https://dev.to/mavensingh/golang-gui-calculator-2e49",
+  "publish_date": "2022-10-23",
+  "published_at": "2022-10-23T13:49:58Z"
+ },
+ {
+  "id": 1227527,
+  "title": "Holy Grail Flexbox Layout 🎃",
+  "description": "The Holy Grail Layout is a well-known CSS issue that has had a number of remedies throughout time. If...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HeCPRaK6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8zj1yittnn16t9tljmxl.png",
+  "slug": "holy-grail-flexbox-layout-3og7",
+  "url": "https://dev.to/ak_ram/holy-grail-flexbox-layout-3og7",
+  "publish_date": "2022-10-23",
+  "published_at": "2022-10-23T12:07:19Z"
+ },
+ {
+  "id": 1227291,
+  "title": "\"Googling it\" is okay! - Hear Me Out 😅",
+  "description": "Yes, I am aware that some individuals find it offensive that their years of meticulous memorization...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6sAZ2vAS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k96invefv27l8olvytsu.jpeg",
+  "slug": "googling-it-is-okay-hear-me-out-5fj3",
+  "url": "https://dev.to/elliot_brenyasarfo_18749/googling-it-is-okay-hear-me-out-5fj3",
+  "publish_date": "2022-10-23",
+  "published_at": "2022-10-23T02:13:38Z"
+ },
+ {
+  "id": 1227285,
+  "title": "Differences between .NET Collection Interfaces",
+  "description": "If you’re anything like most new .NET developers you’ve probably seen IEnumerable\u0026lt;T\u0026gt;,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dHserWNv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://newdevsguide.com/wp-content/uploads/2022/10/A_DotNetCollections.png",
+  "slug": "differences-between-net-collection-interfaces-g3i",
+  "url": "https://dev.to/integerman/differences-between-net-collection-interfaces-g3i",
+  "publish_date": "2022-10-23",
+  "published_at": "2022-10-23T01:38:56Z"
+ },
+ {
   "id": 1226974,
   "title": "Javascript Proxy: Using Javascript Proxies like a Pro",
   "description": "Proxies are objects in Javascript which allows you to make a proxy of an object, while also defining...",
@@ -3900,22 +3950,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o",
   "publish_date": "2022-07-16",
   "published_at": "2022-07-16T02:11:25Z"
- },
- {
-  "id": 1141386,
-  "title": "Follow Friday: Git Edition (15 July 2022)",
-  "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PHBxskSI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kcl1rmfkygrovlnyakaz.png",
-  "slug": "follow-friday-git-edition-15-july-2022-10i1",
-  "url": "https://dev.to/devteam/follow-friday-git-edition-15-july-2022-10i1",
-  "publish_date": "2022-07-15",
-  "published_at": "2022-07-15T13:50:06Z"
- },
- {
-  "id": 1141315,
-  "title": "How to Make a Real Estate Website Using Html CSS JavaScript",
-  "description": "How to Make a Real Estate Website Using Html CSS JavaScript  This video will show you how to make...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BRWEh9VQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xly7fp5gbosdujk8m180.png",
-  "slug": "how-to-make-a-real-estate-website-using-html-css-javascript-1hjc",
-  "url": "https://dev.to/codewithsadee/how-to-make-a-real-estate-website-using-html-css-javascript-1hjc",
-  "publish_date": "2022-07-15",
-  "published_at": "2022-07-15T12:56:52Z"
- },
- {
-  "id": 1140826,
-  "title": "The most important ESLint rule: max-params",
-  "description": "Let me ask you: What do you think this code does?    resizeImage(imagePath, 300, 200, true, true,...",
-  "cover_image": "",
-  "slug": "the-most-important-eslint-rule-max-params-349l",
-  "url": "https://dev.to/gajus/the-most-important-eslint-rule-max-params-349l",
-  "publish_date": "2022-07-15",
-  "published_at": "2022-07-15T08:14:18Z"
- },
- {
-  "id": 1140968,
-  "title": "How to Build Uber Clone with React (Ep. 1) [FREE \u0026 DETAIL COURSE]",
-  "description": "Course Content      No. Topics     1 How to Build Uber Clone with React (Ep. 1) (You are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qGObGZzb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s88l3o3fvykriycmm78y.png",
-  "slug": "how-to-build-uber-clone-with-react-ep-1-gop",
-  "url": "https://dev.to/hieptl/how-to-build-uber-clone-with-react-ep-1-gop",
-  "publish_date": "2022-07-15",
-  "published_at": "2022-07-15T03:47:43Z"
- },
- {
-  "id": 1140087,
-  "title": "Feature update: Markdown Toolbar coming to Comment Editor!",
-  "description": "Hello, dear DEV community!  I have a quick and exciting update for you today: we have brought the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oESMYaZz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/69skadfedyvngielunop.png",
-  "slug": "feature-update-markdown-toolbar-coming-to-comment-editor-544o",
-  "url": "https://dev.to/devteam/feature-update-markdown-toolbar-coming-to-comment-editor-544o",
-  "publish_date": "2022-07-15",
-  "published_at": "2022-07-15T01:58:09Z"
  }
 ]
