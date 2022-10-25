@@ -1,5 +1,55 @@
 [
  {
+  "id": 1224565,
+  "title": "DEV Community Satisfaction Survey Results!",
+  "description": "A couple months back, we launched the DEV Community Satisfaction Survey with an announcement...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zOldFcSW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lugoavz21l8589sq4p0x.png",
+  "slug": "dev-community-satisfaction-survey-results-485f",
+  "url": "https://dev.to/devteam/dev-community-satisfaction-survey-results-485f",
+  "publish_date": "2022-10-24",
+  "published_at": "2022-10-24T13:30:00Z"
+ },
+ {
+  "id": 1228080,
+  "title": "Building a Notion-like system with Socket.io And React 😍",
+  "description": "What is this article about?   We are going to build a knowledge system like Click-Up and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uRDVAQtP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ehrdsol4sfv1gnut06ik.png",
+  "slug": "building-a-notion-like-system-with-socketio-and-react-1hjg",
+  "url": "https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg",
+  "publish_date": "2022-10-24",
+  "published_at": "2022-10-24T12:30:48Z"
+ },
+ {
+  "id": 1228207,
+  "title": "Awesome Websites For UI/UX Inspiration",
+  "description": "Introduction   UI/UX is what the user actually sees. When a user visits your site, they...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lQm2dB3B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6mvxw28s8gezxddxmke5.png",
+  "slug": "awesome-websites-for-uiux-inspiration-5h75",
+  "url": "https://dev.to/surajondev/awesome-websites-for-uiux-inspiration-5h75",
+  "publish_date": "2022-10-24",
+  "published_at": "2022-10-24T11:30:00Z"
+ },
+ {
+  "id": 1228078,
+  "title": "Inversion of Control: Service Locator in Typescript",
+  "description": "I've been working with Angular for a while now (over 2 years), and since I moved to another...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vIJk4ESF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/exvpcmzoc2uyrgwb80if.jpg",
+  "slug": "inversion-of-control-dependency-injection-in-typescript-1dj9",
+  "url": "https://dev.to/this-is-angular/inversion-of-control-dependency-injection-in-typescript-1dj9",
+  "publish_date": "2022-10-24",
+  "published_at": "2022-10-24T06:06:03Z"
+ },
+ {
+  "id": 1228042,
+  "title": "React: How does useMemo and useCallback work ?",
+  "description": "How does useMemo and useCallback work ?   When render a component, React will process the...",
+  "cover_image": "",
+  "slug": "react-how-does-usememo-and-usecallback-work--4e0d",
+  "url": "https://dev.to/linhbui167/react-how-does-usememo-and-usecallback-work--4e0d",
+  "publish_date": "2022-10-24",
+  "published_at": "2022-10-24T03:24:07Z"
+ },
+ {
   "id": 1227488,
   "title": "I Created a Programming Puzzle Game",
   "description": "Halloumi! I made a new puzzle game. It's a four-question pyramid quiz game. It's for all those...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/abh1navv/an-approach-to-continuous-learning-30pk",
   "publish_date": "2022-07-17",
   "published_at": "2022-07-17T05:27:18Z"
- },
- {
-  "id": 970007,
-  "title": "How the CSS Box Model Works",
-  "description": "The CSS box model is a term thrown around in CSS with very little context, but is probably the most...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QBvmRYSo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l68fcmugmvsaoz8ug14c.png",
-  "slug": "css-box-model-37bl",
-  "url": "https://dev.to/smpnjn/css-box-model-37bl",
-  "publish_date": "2022-07-16",
-  "published_at": "2022-07-16T10:44:57Z"
- },
- {
-  "id": 1142041,
-  "title": "Soft UI Dashboard - Free Django Template",
-  "description": "Open-Source template built with authentication, Docker, and dark-mode support in Django.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZvLTU2nk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6y2ue056zyuzzdeetqp.jpg",
-  "slug": "soft-ui-dashboard-free-django-template-gkf",
-  "url": "https://dev.to/sm0ke/soft-ui-dashboard-free-django-template-gkf",
-  "publish_date": "2022-07-16",
-  "published_at": "2022-07-16T07:00:07Z"
- },
- {
-  "id": 1142030,
-  "title": "JavaScript find min/max from array of arrays",
-  "description": "Let's say we have an array of users, but each user is also an array.  For the example, we'll use the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I1FZeB0f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dkxb2naac55yaljtyb6k.jpg",
-  "slug": "javascript-find-minmax-from-array-of-arrays-1bkg",
-  "url": "https://dev.to/dailydevtips1/javascript-find-minmax-from-array-of-arrays-1bkg",
-  "publish_date": "2022-07-16",
-  "published_at": "2022-07-16T06:24:16Z"
- },
- {
-  "id": 1141036,
-  "title": "Why ORMs Aren't Always a Great Idea",
-  "description": "Recently, I talked with a bunch of people across several Discord and Slack communities about their...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lDFV7gTG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ciawr8qy80n2he4zr51z.jpg",
-  "slug": "why-orms-arent-always-a-great-idea-41kg",
-  "url": "https://dev.to/harshhhdev/why-orms-arent-always-a-great-idea-41kg",
-  "publish_date": "2022-07-16",
-  "published_at": "2022-07-16T04:12:18Z"
- },
- {
-  "id": 1138957,
-  "title": "Create a react app with bun",
-  "description": "Want to use bun for your next react projects?               Install bun   First run the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3Yh_uvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cs7ms80f544icyyzqjzf.png",
-  "slug": "create-a-react-app-with-bun-125o",
-  "url": "https://dev.to/ashirbadgudu/create-a-react-app-with-bun-125o",
-  "publish_date": "2022-07-16",
-  "published_at": "2022-07-16T02:11:25Z"
  }
 ]
