@@ -1,5 +1,55 @@
 [
  {
+  "id": 1229301,
+  "title": "How to learn your second programming language efficiently",
+  "description": "introduction   When you're starting to learn your second programming language, it's...",
+  "cover_image": "",
+  "slug": "how-to-learn-your-second-programming-language-efficiently-86g",
+  "url": "https://dev.to/chainguns/how-to-learn-your-second-programming-language-efficiently-86g",
+  "publish_date": "2022-10-25",
+  "published_at": "2022-10-25T12:08:35Z"
+ },
+ {
+  "id": 1229297,
+  "title": "I made 10x faster JSON.stringify() functions, even type safe",
+  "description": "Series of TypeScript Compiler based Libraries    I made 1,000x faster TypeScript validator...",
+  "cover_image": "",
+  "slug": "i-made-10x-faster-jsonstringify-functions-even-type-safe-2eme",
+  "url": "https://dev.to/samchon/i-made-10x-faster-jsonstringify-functions-even-type-safe-2eme",
+  "publish_date": "2022-10-25",
+  "published_at": "2022-10-25T12:04:32Z"
+ },
+ {
+  "id": 1229170,
+  "title": "How to Use JavaScript some method",
+  "description": "Author: Abdullah Numan           Introduction   This post is about the some() method in JavaScript....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wF4J1UTn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nref60pxrocl2jhftmb8.png",
+  "slug": "how-to-use-javascript-some-method-1jk4",
+  "url": "https://dev.to/refine/how-to-use-javascript-some-method-1jk4",
+  "publish_date": "2022-10-25",
+  "published_at": "2022-10-25T11:41:36Z"
+ },
+ {
+  "id": 1222356,
+  "title": "State Management Is Easy Now!? An Introduction to Observable Store",
+  "description": "Oh application state. The source of so many bugs. React has Redux, Vue has Pinia, and Angular has...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QNHg0iNG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pmt8893tgs2jmpq0n3bm.jpg",
+  "slug": "state-management-is-easy-now-an-introduction-to-observable-store-15ij",
+  "url": "https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij",
+  "publish_date": "2022-10-25",
+  "published_at": "2022-10-25T04:20:30Z"
+ },
+ {
+  "id": 1228046,
+  "title": "How to set up a basic HTTP server in Node + Express",
+  "description": "In this post we will have a look at how to set up a basic HTTP server with Node and Express. This...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lgjQwbGv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1rjre3vhce61b5nnyisb.jpeg",
+  "slug": "how-to-set-up-a-basic-http-server-in-node-express-10i",
+  "url": "https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i",
+  "publish_date": "2022-10-25",
+  "published_at": "2022-10-25T03:42:22Z"
+ },
+ {
   "id": 1224565,
   "title": "DEV Community Satisfaction Survey Results!",
   "description": "A couple months back, we launched the DEV Community Satisfaction Survey with an announcement...",
@@ -4000,22 +4050,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja",
   "publish_date": "2022-07-18",
   "published_at": "2022-07-18T07:12:04Z"
- },
- {
-  "id": 1142968,
-  "title": "Side Project Sunday! What do you have going on?",
-  "description": "Let's hear about what you have going on! If you've shared your project before, what's new?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5AtY3vhS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f1os7kbahw52o0c7bs64.png",
-  "slug": "side-project-sunday-what-do-you-have-going-on-185l",
-  "url": "https://dev.to/ben/side-project-sunday-what-do-you-have-going-on-185l",
-  "publish_date": "2022-07-17",
-  "published_at": "2022-07-17T15:34:49Z"
- },
- {
-  "id": 1142900,
-  "title": "React Hook: useRunOnce",
-  "description": "Sometimes we need to run code only once. useRunOnce is a hook that runs a function one time when a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MIfRgMl8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k305heu45xuooqonszz9.png",
-  "slug": "react-hook-userunonce-48a8",
-  "url": "https://dev.to/perssondennis/react-hook-userunonce-48a8",
-  "publish_date": "2022-07-17",
-  "published_at": "2022-07-17T14:23:40Z"
- },
- {
-  "id": 1142626,
-  "title": "7 Tips for Clean React TypeScript Code you Must Know 🧹✨",
-  "description": "Clean code isn't code that just works. It refers to neatly organized code which is easy to read,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YdmVca7---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04hjfkugtirw1xcovx5t.png",
-  "slug": "7-tips-for-clean-react-typescript-code-you-must-know-2da2",
-  "url": "https://dev.to/ruppysuppy/7-tips-for-clean-react-typescript-code-you-must-know-2da2",
-  "publish_date": "2022-07-17",
-  "published_at": "2022-07-17T06:22:49Z"
- },
- {
-  "id": 1142599,
-  "title": "Appwrite Community Report #14",
-  "description": "Hello World!👋Greetings from team Appwrite!    We are back with our weekly updates!  TLDR; This week...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wNy7eQC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5qea8rniwsbowy8xhifp.png",
-  "slug": "appwrite-community-report-14-4cp9",
-  "url": "https://dev.to/appwrite/appwrite-community-report-14-4cp9",
-  "publish_date": "2022-07-17",
-  "published_at": "2022-07-17T05:53:04Z"
- },
- {
-  "id": 1142382,
-  "title": "An Approach to Continuous Learning",
-  "description": "Being a successful developer requires continuous learning and skill improvement. But there are simply...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M4yygSmH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fe1k0hl9wodl4txkw5mg.jpg",
-  "slug": "an-approach-to-continuous-learning-30pk",
-  "url": "https://dev.to/abh1navv/an-approach-to-continuous-learning-30pk",
-  "publish_date": "2022-07-17",
-  "published_at": "2022-07-17T05:27:18Z"
  }
 ]
