@@ -1,5 +1,55 @@
 [
  {
+  "id": 1230537,
+  "title": "Building a Login System using Redux",
+  "description": "A login is a set of credentials used to authenticate a user. Most often, these consist of a username...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6nrMHtln--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8rn93ivl2ih8dzdwa03.png",
+  "slug": "building-a-login-system-using-redux-5ce3",
+  "url": "https://dev.to/danielonugha0/building-a-login-system-using-redux-5ce3",
+  "publish_date": "2022-10-26",
+  "published_at": "2022-10-26T08:38:33Z"
+ },
+ {
+  "id": 1230523,
+  "title": "Dark mode pictures \u0026 4 other webdev tips you may want to know 🚀",
+  "description": "1. Dark mode pictures   This is how you can display different pictures in dark mode:    More...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1gXV-qYO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ikon8u1h0gf3yrb9npm.png",
+  "slug": "dark-mode-pictures-4-other-webdev-tips-you-may-want-to-know-2od",
+  "url": "https://dev.to/mustapha/dark-mode-pictures-4-other-webdev-tips-you-may-want-to-know-2od",
+  "publish_date": "2022-10-26",
+  "published_at": "2022-10-26T08:12:28Z"
+ },
+ {
+  "id": 1230520,
+  "title": "Have you tried React classnames?",
+  "description": "Regarding classes in React, we get a lot of power out of the box. However, we can enhance this power...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qTqUoynH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yesty550seahuee8gpv5.jpg",
+  "slug": "have-you-tried-react-classnames-2845",
+  "url": "https://dev.to/dailydevtips1/have-you-tried-react-classnames-2845",
+  "publish_date": "2022-10-26",
+  "published_at": "2022-10-26T07:57:36Z"
+ },
+ {
+  "id": 1230514,
+  "title": "Free Django eCommerce - Use Products from Stripe",
+  "description": "Mini eCommerce for Django with products download from Stripe - Open-source project (MIT License).",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IzejrZc5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmgibre8nh5u5lzhaj79.jpg",
+  "slug": "free-django-ecommerce-dw-products-from-stripe-3792",
+  "url": "https://dev.to/sm0ke/free-django-ecommerce-dw-products-from-stripe-3792",
+  "publish_date": "2022-10-26",
+  "published_at": "2022-10-26T07:43:49Z"
+ },
+ {
+  "id": 1230218,
+  "title": "What is The Collab Lab?",
+  "description": "Curious about what The Collab Lab is?  Here's the TL;DR   The Collab Lab increases access to web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V_p9UoQH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkrykaml6ubzcuocre47.jpg",
+  "slug": "what-is-the-collab-lab-427f",
+  "url": "https://dev.to/the-collab-lab/what-is-the-collab-lab-427f",
+  "publish_date": "2022-10-26",
+  "published_at": "2022-10-26T01:17:00Z"
+ },
+ {
   "id": 1229301,
   "title": "How to learn your second programming language efficiently",
   "description": "introduction   When you're starting to learn your second programming language, it's...",
@@ -4050,22 +4100,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e",
   "publish_date": "2022-07-19",
   "published_at": "2022-07-19T03:34:57Z"
- },
- {
-  "id": 1143751,
-  "title": "Meme Monday? 🤔",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vl5J4wi1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fqx0svxt62g342h90ieb.png",
-  "slug": "meme-monday-5d7f",
-  "url": "https://dev.to/ben/meme-monday-5d7f",
-  "publish_date": "2022-07-18",
-  "published_at": "2022-07-18T13:50:06Z"
- },
- {
-  "id": 1143584,
-  "title": "How To Make Personal Portfolio Using HTML CSS JavaScript",
-  "description": "How To Make Personal Portfolio Using HTML CSS JavaScript  In this video, I will show you how to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HBYwOYwo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r0uvjwpsji8oldb916zi.png",
-  "slug": "how-to-make-personal-portfolio-using-html-css-javascript-2760",
-  "url": "https://dev.to/codewithsadee/how-to-make-personal-portfolio-using-html-css-javascript-2760",
-  "publish_date": "2022-07-18",
-  "published_at": "2022-07-18T11:18:23Z"
- },
- {
-  "id": 1143505,
-  "title": "Sending real-time notifications with Socket.io in Node.js",
-  "description": "How do websites work?    A user provides a URL to the web browser. The browser sends a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JJY-oS5C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7bif3krr40zkofxkw07l.png",
-  "slug": "sending-real-time-notifications-with-socketio-in-nodejs-1l5j",
-  "url": "https://dev.to/novu/sending-real-time-notifications-with-socketio-in-nodejs-1l5j",
-  "publish_date": "2022-07-18",
-  "published_at": "2022-07-18T10:14:13Z"
- },
- {
-  "id": 1143541,
-  "title": "We're open-source! The data-centric sibling of VS Code",
-  "description": "Hello, open-source world!   We have been working tirelessly towards this day for a long...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xmtljTue--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1l6wmbzlulg2sujqrirz.png",
-  "slug": "were-open-source-the-data-centric-sibling-of-vs-code-3f8p",
-  "url": "https://dev.to/meetkern/were-open-source-the-data-centric-sibling-of-vs-code-3f8p",
-  "publish_date": "2022-07-18",
-  "published_at": "2022-07-18T09:53:23Z"
- },
- {
-  "id": 1143415,
-  "title": "Amazing Pure CSS Scrolling Indicator Effect",
-  "description": "Using Linear-Gradient Implement Scrolling Indicator Effect",
-  "cover_image": "",
-  "slug": "amazing-pure-css-scrolling-indicator-effect-5eja",
-  "url": "https://dev.to/chokcoco/amazing-pure-css-scrolling-indicator-effect-5eja",
-  "publish_date": "2022-07-18",
-  "published_at": "2022-07-18T07:12:04Z"
  }
 ]
