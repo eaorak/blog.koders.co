@@ -1,5 +1,55 @@
 [
  {
+  "id": 1232447,
+  "title": "8 must-know tips for writing clean code with Javascript",
+  "description": "Javascript is an awesome programming language, however, writing clean javascript code can be a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i6K4hJEt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gr6rvhda40l0b3h5v7v0.png",
+  "slug": "8-must-know-tips-for-writing-clean-code-with-javascript-i4",
+  "url": "https://dev.to/alexomeyer/8-must-know-tips-for-writing-clean-code-with-javascript-i4",
+  "publish_date": "2022-10-27",
+  "published_at": "2022-10-27T13:11:39Z"
+ },
+ {
+  "id": 1232237,
+  "title": "Optimization techniques for Rive animations in React apps",
+  "description": "What is Rive?   Rive is a modern tool for creating well-performing interactive animations...",
+  "cover_image": "",
+  "slug": "optimization-techniques-for-rive-animations-in-react-apps-1a8p",
+  "url": "https://dev.to/alex_barashkov/optimization-techniques-for-rive-animations-in-react-apps-1a8p",
+  "publish_date": "2022-10-27",
+  "published_at": "2022-10-27T13:01:22Z"
+ },
+ {
+  "id": 1232153,
+  "title": "React ref and useRef Hook",
+  "description": "Author: Joel Adewole           Introduction   Among the various JavaScript libraries and frameworks,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FuEux36R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a960fiulian5vg28jj62.png",
+  "slug": "react-ref-and-useref-hook-1ggb",
+  "url": "https://dev.to/refine/react-ref-and-useref-hook-1ggb",
+  "publish_date": "2022-10-27",
+  "published_at": "2022-10-27T08:52:16Z"
+ },
+ {
+  "id": 1231894,
+  "title": "How a VS Code Extension \"Todo Tree\" can make your coding easier | Todo Tree Configuration | Highlighting Comments",
+  "description": "Highlighting Comments with Todo Tree VS Code Extension   The Todo Tree extension quickly...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d1T6i0ev--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wx8w4nv75u504ge9i0ie.png",
+  "slug": "how-a-vs-code-extension-todo-tree-can-make-your-coding-easier-todo-tree-configuration-and-use-cases-11kc",
+  "url": "https://dev.to/koustav/how-a-vs-code-extension-todo-tree-can-make-your-coding-easier-todo-tree-configuration-and-use-cases-11kc",
+  "publish_date": "2022-10-27",
+  "published_at": "2022-10-27T05:27:21Z"
+ },
+ {
+  "id": 1174805,
+  "title": "Construindo um currículo para DevRel",
+  "description": "Antes de começarmos   As pessoas que hostearam e organizaram esse Twitter Space conversaram...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8n1WK_F9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ckboswg2uczqy8bc0w0r.png",
+  "slug": "construindo-um-curriculo-para-devrel-1fka",
+  "url": "https://dev.to/feministech/construindo-um-curriculo-para-devrel-1fka",
+  "publish_date": "2022-10-27",
+  "published_at": "2022-10-27T03:16:15Z"
+ },
+ {
   "id": 1230537,
   "title": "Building a Login System using Redux",
   "description": "A login is a set of credentials used to authenticate a user. Most often, these consist of a username...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/yhwang95/engineers-dont-have-to-be-bad-at-communication-how-i-successfully-learned-communication-skills-3bnl",
   "publish_date": "2022-07-20",
   "published_at": "2022-07-20T08:20:45Z"
- },
- {
-  "id": 1145106,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-55p3",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-55p3",
-  "publish_date": "2022-07-19",
-  "published_at": "2022-07-19T18:42:12Z"
- },
- {
-  "id": 1144923,
-  "title": "Appwrite Community Discord 3.0",
-  "description": "Howdy everybody! 👋 For Appwrite, our community is the biggest strength and we want everyone to feel...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SCqs7be3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncxtd4tpw7zw825qhumk.png",
-  "slug": "appwrite-community-discord-30-26l",
-  "url": "https://dev.to/appwrite/appwrite-community-discord-30-26l",
-  "publish_date": "2022-07-19",
-  "published_at": "2022-07-19T16:57:37Z"
- },
- {
-  "id": 1144730,
-  "title": "The Best Github Repos for Self-Taught",
-  "description": "Project-Based Learnings     Free Programming Books    Developer Roadmap     Public API’s     Coding...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6lxMpknZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hkb7hvavd45nb59mxutq.png",
-  "slug": "the-best-github-repos-for-self-taught-114j",
-  "url": "https://dev.to/krishnaagarwal/the-best-github-repos-for-self-taught-114j",
-  "publish_date": "2022-07-19",
-  "published_at": "2022-07-19T13:06:15Z"
- },
- {
-  "id": 1133190,
-  "title": "How I Integrated Live Chat into Gatsby with Tidio and Medusa",
-  "description": "Live Chats on your ecommerce storefront allow you to communicate with your customers and provide them...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3KP70PtT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9cmeforjwfjjk9ib589m.png",
-  "slug": "how-i-integrated-live-chat-into-gatsby-with-tidio-and-medusa-5a3i",
-  "url": "https://dev.to/medusajs/how-i-integrated-live-chat-into-gatsby-with-tidio-and-medusa-5a3i",
-  "publish_date": "2022-07-19",
-  "published_at": "2022-07-19T11:07:24Z"
- },
- {
-  "id": 1144355,
-  "title": "JSX for beginners (and how it differs from HTML)",
-  "description": "What is JSX   JSX or JavaScript XML is an extension of JavaScript used to write React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i4DSNzLJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mooe0y4lju8ba7yjwco.png",
-  "slug": "jsx-for-beginners-and-how-it-differs-from-html-2l9e",
-  "url": "https://dev.to/babib/jsx-for-beginners-and-how-it-differs-from-html-2l9e",
-  "publish_date": "2022-07-19",
-  "published_at": "2022-07-19T03:34:57Z"
  }
 ]
