@@ -1,5 +1,55 @@
 [
  {
+  "id": 1236975,
+  "title": "My Divtober 2022 Drawings",
+  "description": "A collection of single-element CSS Art part of the divtober'22 coding challenge",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L2JVDsc_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g96jgavjp7ard7q4y5yg.png",
+  "slug": "my-divtober-2022-drawings-18dj",
+  "url": "https://dev.to/alvaromontoro/my-divtober-2022-drawings-18dj",
+  "publish_date": "2022-10-31",
+  "published_at": "2022-10-31T13:44:19Z"
+ },
+ {
+  "id": 1236755,
+  "title": "Next.js getInitialProps and getServerSideProps",
+  "description": "Author: Michael Hungbo           Introduction   Next.js is an open-source React framework for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ANrcs-WY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oakavi0efv3p9h3pzpgg.png",
+  "slug": "nextjs-getinitialprops-and-getserversideprops-e7j",
+  "url": "https://dev.to/refine/nextjs-getinitialprops-and-getserversideprops-e7j",
+  "publish_date": "2022-10-31",
+  "published_at": "2022-10-31T13:06:50Z"
+ },
+ {
+  "id": 1236917,
+  "title": "I create LinkedIn account 😄",
+  "description": "For the past 5 years I have been ignoring the existence of Linkedin. And so I realized that it was...",
+  "cover_image": "",
+  "slug": "i-create-linkedin-account-44ii",
+  "url": "https://dev.to/frezyx/i-create-linkedin-account-44ii",
+  "publish_date": "2022-10-31",
+  "published_at": "2022-10-31T11:35:53Z"
+ },
+ {
+  "id": 1236705,
+  "title": "Django Dynamic DataTables - Free Library",
+  "description": "Open-source library for Django that provides a powerful data table interface (paginated information) with minimum effort",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qwb2KICw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/btxdn8c04zspwufecvlc.jpg",
+  "slug": "django-dynamic-datatables-free-library-3i9i",
+  "url": "https://dev.to/sm0ke/django-dynamic-datatables-free-library-3i9i",
+  "publish_date": "2022-10-31",
+  "published_at": "2022-10-31T08:44:55Z"
+ },
+ {
+  "id": 1236628,
+  "title": "CSS Grid and Flexbox: A Brief Juxtaposition",
+  "description": "CSS Grid and flexbox are two CSS layout modules with different implementation techniques and usages....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xhINQ3di--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fkfaxqlwk7nud8ztkxd7.png",
+  "slug": "css-grid-and-flexbox-a-brief-juxtaposition-2fa",
+  "url": "https://dev.to/themewagon/css-grid-and-flexbox-a-brief-juxtaposition-2fa",
+  "publish_date": "2022-10-31",
+  "published_at": "2022-10-31T05:46:23Z"
+ },
+ {
   "id": 1236098,
   "title": "How to Make Responsive Landing Page Using Html CSS JavaScript",
   "description": "How to Make Responsive Landing Page Using Html CSS JavaScript  This video will show you how to...",
@@ -4300,22 +4350,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aahil13/big-o-notation-56lg",
   "publish_date": "2022-07-24",
   "published_at": "2022-07-24T00:46:00Z"
- },
- {
-  "id": 1149534,
-  "title": "How to Build a Digital Marketing Agency Website Using Html CSS JavaScript",
-  "description": "How to Build a Digital Marketing Agency Website Using Html CSS JavaScript  This video will show...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q7JICjuQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ynarbmg4pcn7rqt5ur5f.png",
-  "slug": "how-to-build-a-digital-marketing-agency-website-using-html-css-javascript-262l",
-  "url": "https://dev.to/codewithsadee/how-to-build-a-digital-marketing-agency-website-using-html-css-javascript-262l",
-  "publish_date": "2022-07-23",
-  "published_at": "2022-07-23T13:29:25Z"
- },
- {
-  "id": 1149183,
-  "title": "12 Rarely Used JavaScript Web APIs that Will Drive Your Website to THE MOON 🚀",
-  "description": "There are over 97 Web APIs, and you’re only using 5% of them. Let’s unlock that other 95...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d8tAARtv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vewaoyru7krkymyn7lwx.png",
-  "slug": "12-rarely-used-javascript-web-apis-that-will-take-your-website-to-the-next-level-4lf1",
-  "url": "https://dev.to/eludadev/12-rarely-used-javascript-web-apis-that-will-take-your-website-to-the-next-level-4lf1",
-  "publish_date": "2022-07-23",
-  "published_at": "2022-07-23T07:43:00Z"
- },
- {
-  "id": 1149324,
-  "title": "What was your win this week?",
-  "description": "Got to all your meetings on time? Started a new project? Fixed a tricky bug?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pyDLAPme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cl.ly/188e843c2985/download/Image%25202019-02-15%2520at%25202.36.37%2520PM.png",
-  "slug": "what-was-your-win-this-week-296m",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-296m",
-  "publish_date": "2022-07-23",
-  "published_at": "2022-07-23T07:19:42Z"
- },
- {
-  "id": 1148542,
-  "title": "The History of JavaScript",
-  "description": "On Christmas Day 1990, Sir Tim Berners-Lee introduced the world to the first web browser he had...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SQAUgeOj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmpymll98ngu9hiyi5n5.png",
-  "slug": "the-history-of-javascript-5e98",
-  "url": "https://dev.to/iarchitsharma/the-history-of-javascript-5e98",
-  "publish_date": "2022-07-23",
-  "published_at": "2022-07-23T05:50:06Z"
- },
- {
-  "id": 1149264,
-  "title": "System Color Theme Check In JavaScript",
-  "description": "A few days back, I was wondering how to know if the system theme is dark or light in web using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v5TvF2NK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/syekkr7llse4m9avf53q.png",
-  "slug": "system-color-theme-check-in-javascript-1la9",
-  "url": "https://dev.to/bibekkakati/system-color-theme-check-in-javascript-1la9",
-  "publish_date": "2022-07-23",
-  "published_at": "2022-07-23T05:23:27Z"
  }
 ]
