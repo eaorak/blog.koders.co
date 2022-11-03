@@ -1,5 +1,55 @@
 [
  {
+  "id": 1240380,
+  "title": "How to make the most of DEV if you’re over Twitter",
+  "description": "Twitter has played an important role for software developers over the last decade or so. It’s been...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tPJj7hwh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jhwskryhqo8yu6w7ag2x.png",
+  "slug": "how-to-make-the-most-of-dev-if-youre-over-twitter-4567",
+  "url": "https://dev.to/devteam/how-to-make-the-most-of-dev-if-youre-over-twitter-4567",
+  "publish_date": "2022-11-02",
+  "published_at": "2022-11-02T13:24:27Z"
+ },
+ {
+  "id": 1219779,
+  "title": "Don’t be a CRUD boomer 👨‍🦳, check out this new Event Sourcing library!",
+  "description": "Check out the new best Typescript Event Sourcing library ⚡",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hN6U_9fB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0zl2xozdnt7p5wkkbx1v.png",
+  "slug": "dont-be-a-crud-boomer-check-out-this-new-event-sourcing-library-235a",
+  "url": "https://dev.to/kumo/dont-be-a-crud-boomer-check-out-this-new-event-sourcing-library-235a",
+  "publish_date": "2022-11-02",
+  "published_at": "2022-11-02T13:08:17Z"
+ },
+ {
+  "id": 1240086,
+  "title": "Tips to become a great software engineer",
+  "description": "Becoming a great software engineer should be a goal that all professionals strive for, but what is...",
+  "cover_image": "",
+  "slug": "tips-to-become-a-great-software-engineer-10gf",
+  "url": "https://dev.to/jamielivingstone/tips-to-become-a-great-software-engineer-10gf",
+  "publish_date": "2022-11-02",
+  "published_at": "2022-11-02T10:35:20Z"
+ },
+ {
+  "id": 1240007,
+  "title": "Creating a registration and a login with two-factor authentication on React 🤩",
+  "description": "What is this article about?   If you have thought about building any dashboard, you probably...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GTITCCbh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpdi0jqby58k8h3txrfx.png",
+  "slug": "creating-a-registration-and-a-login-with-two-factor-authentication-on-react-2p2i",
+  "url": "https://dev.to/novu/creating-a-registration-and-a-login-with-two-factor-authentication-on-react-2p2i",
+  "publish_date": "2022-11-02",
+  "published_at": "2022-11-02T10:17:46Z"
+ },
+ {
+  "id": 1239791,
+  "title": "HTML \u0026 CSS Features, Tips For a 10x fast Page Loading Speed",
+  "description": "We all hate it when our page loads this slow right! 😔     Infact website conversion rates drop by an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5Hy5YY0k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bmh7a2flxv2ts2fxho04.png",
+  "slug": "html-css-features-tips-for-a-10x-fast-page-loading-speed-4jop",
+  "url": "https://dev.to/koustav/html-css-features-tips-for-a-10x-fast-page-loading-speed-4jop",
+  "publish_date": "2022-11-02",
+  "published_at": "2022-11-02T05:19:02Z"
+ },
+ {
   "id": 1238680,
   "title": "Top 6 Free Online Code Editors and IDEs with Pros and Cons",
   "description": "Author: Joseph  Mawa           Introduction   Programmers and software engineers spend a significant...",
@@ -4400,22 +4450,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/deadlock/golang-writing-memory-efficient-and-cpu-optimized-go-structs-2ick",
   "publish_date": "2022-07-26",
   "published_at": "2022-07-26T03:26:04Z"
- },
- {
-  "id": 1150891,
-  "title": "Meme Monday 😍",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RhBhZmLn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ka0igy95206lf6grp04m.png",
-  "slug": "meme-monday-3m4",
-  "url": "https://dev.to/ben/meme-monday-3m4",
-  "publish_date": "2022-07-25",
-  "published_at": "2022-07-25T12:31:46Z"
- },
- {
-  "id": 1150639,
-  "title": "Create a notifications system using in-app (bell icon) and emails",
-  "description": "In this article, I will guide you through sending notifications in-app and via email using Novu in a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zy7ANGaC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qh6ssz9fheec1jgc2za6.png",
-  "slug": "create-a-notifications-system-using-in-app-bell-icon-and-emails-5c15",
-  "url": "https://dev.to/novu/create-a-notifications-system-using-in-app-bell-icon-and-emails-5c15",
-  "publish_date": "2022-07-25",
-  "published_at": "2022-07-25T10:34:36Z"
- },
- {
-  "id": 1099651,
-  "title": "Appwrite Loves Open Source: Why I Chose to Support Flow-Launcher",
-  "description": "Open source is at the ❤️ of everything we do at Appwrite, and we want to enable and foster the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1bgYbZLW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ih8hagzh6qawif1sz1fz.png",
-  "slug": "appwrite-loves-open-source-why-i-chose-to-support-flow-launcher-54pj",
-  "url": "https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-support-flow-launcher-54pj",
-  "publish_date": "2022-07-25",
-  "published_at": "2022-07-25T08:37:25Z"
- },
- {
-  "id": 1150404,
-  "title": "Top 25 Tips for Building an EXTREMELY FAST Website!!!",
-  "description": "I recently did a live stream explaining what I considered the \"Top 25\" things I'd done to my website...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8DgeePSI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tbzbro86lu4y2ff750vr.png",
-  "slug": "top-25-tips-for-building-an-extremely-fast-website-iaf",
-  "url": "https://dev.to/dustinbrett/top-25-tips-for-building-an-extremely-fast-website-iaf",
-  "publish_date": "2022-07-25",
-  "published_at": "2022-07-25T05:39:25Z"
- },
- {
-  "id": 1150626,
-  "title": "Features of JavaScript - That You Should Know",
-  "description": "JavaScript is a front-end language, the most utilized language nowadays by developers to design web...",
-  "cover_image": "",
-  "slug": "features-of-javascript-that-you-should-know-43hm",
-  "url": "https://dev.to/devsimc/features-of-javascript-that-you-should-know-43hm",
-  "publish_date": "2022-07-25",
-  "published_at": "2022-07-25T04:39:57Z"
  }
 ]
