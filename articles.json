@@ -1,5 +1,55 @@
 [
  {
+  "id": 1241870,
+  "title": "What were some of the toughest technologies and concepts for you to grasp along the way?",
+  "description": "What were they, did you every fully overcome your confusion?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xj9VZeuQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ush5qdthcbo9p5b7ughe.png",
+  "slug": "what-were-some-of-the-toughest-technologies-and-concepts-for-you-to-grasp-along-the-way-47ga",
+  "url": "https://dev.to/ben/what-were-some-of-the-toughest-technologies-and-concepts-for-you-to-grasp-along-the-way-47ga",
+  "publish_date": "2022-11-03",
+  "published_at": "2022-11-03T14:26:32Z"
+ },
+ {
+  "id": 1241672,
+  "title": "Web development is just like embedded development",
+  "description": "I often see people discuss embedded development and web development as being two opposite sides of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CObCywfw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8nctcoldz7cicblwbn1.jpeg",
+  "slug": "web-development-is-just-like-embedded-development-j1k",
+  "url": "https://dev.to/wesen/web-development-is-just-like-embedded-development-j1k",
+  "publish_date": "2022-11-03",
+  "published_at": "2022-11-03T13:21:10Z"
+ },
+ {
+  "id": 1241652,
+  "title": "What are your tips for working remotely?",
+  "description": "I've been working remotely since before the pandemic and love it. For those of you that work...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fQTxfJBj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h16y9nb1u6on7fcu2rv1.jpg",
+  "slug": "what-are-your-tips-for-working-remotely-57n0",
+  "url": "https://dev.to/nickytonline/what-are-your-tips-for-working-remotely-57n0",
+  "publish_date": "2022-11-03",
+  "published_at": "2022-11-03T12:33:41Z"
+ },
+ {
+  "id": 1241594,
+  "title": "9 Tips to Improve your Ecommerce User Experience",
+  "description": "Ecommerce is rapidly becoming the way you do business today. And one of the most important outcomes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dlrrd-Vt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m1v4gy96evv1o3z2eh02.jpg",
+  "slug": "9-tips-to-improve-your-ecommerce-user-experience-3me8",
+  "url": "https://dev.to/medusajs/9-tips-to-improve-your-ecommerce-user-experience-3me8",
+  "publish_date": "2022-11-03",
+  "published_at": "2022-11-03T12:17:58Z"
+ },
+ {
+  "id": 1241280,
+  "title": "Django \u0026 Stripe eCommerce - Free Starter",
+  "description": "Open-source starter powered by Django \u0026 Stripe that allows a quick build of a simple eCommerce using products from Stripe.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dtKMB_9a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/604k3jbwa1g42dsswp87.gif",
+  "slug": "django-stripe-ecommerce-free-starter-14g0",
+  "url": "https://dev.to/sm0ke/django-stripe-ecommerce-free-starter-14g0",
+  "publish_date": "2022-11-03",
+  "published_at": "2022-11-03T04:59:27Z"
+ },
+ {
   "id": 1240380,
   "title": "How to make the most of DEV if you’re over Twitter",
   "description": "Twitter has played an important role for software developers over the last decade or so. It’s been...",
@@ -4450,22 +4500,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/castai/cloud-cost-management-software-top-6-solutions-for-2022-3pab",
   "publish_date": "2022-07-27",
   "published_at": "2022-07-27T10:35:00Z"
- },
- {
-  "id": 1151955,
-  "title": "Help fight spam in our community! 🙌",
-  "description": "Hey folks! 👋  I wanted to write up a quick post about spam fighting in this community as it's a never...",
-  "cover_image": "",
-  "slug": "help-fight-spam-in-our-community-1ngb",
-  "url": "https://dev.to/devteam/help-fight-spam-in-our-community-1ngb",
-  "publish_date": "2022-07-26",
-  "published_at": "2022-07-26T21:11:00Z"
- },
- {
-  "id": 1152019,
-  "title": "How to Send a Tweet with GitHub Copilot",
-  "description": "This month, I learned how to send a tweet with GitHub Copilot. It was so cool! I'm anticipating that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HI7W8lLq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0c3qnqr2t8slgkmcbio2.png",
-  "slug": "how-to-send-a-tweet-with-github-copilot-4ih7",
-  "url": "https://dev.to/github/how-to-send-a-tweet-with-github-copilot-4ih7",
-  "publish_date": "2022-07-26",
-  "published_at": "2022-07-26T15:50:00Z"
- },
- {
-  "id": 1149059,
-  "title": "15+ Must have VS Code Extensions for Web Developers",
-  "description": "Extensions provide add-on features \u0026amp; tools that let us customize \u0026amp; enhance the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZiiV1syn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vca25ge8vdc5jqno4mqo.jpg",
-  "slug": "15-must-have-vs-code-extensions-for-web-developers-3gln",
-  "url": "https://dev.to/eshankvaish/15-must-have-vs-code-extensions-for-web-developers-3gln",
-  "publish_date": "2022-07-26",
-  "published_at": "2022-07-26T12:38:00Z"
- },
- {
-  "id": 1151491,
-  "title": "15 Best Terminal Commands That You Should Know",
-  "description": "As a developer, they are working with SSSL(Server Site Scripting Language), Programming languages,...",
-  "cover_image": "",
-  "slug": "15-best-terminal-commands-that-you-should-know-47m7",
-  "url": "https://dev.to/devsimc/15-best-terminal-commands-that-you-should-know-47m7",
-  "publish_date": "2022-07-26",
-  "published_at": "2022-07-26T04:32:00Z"
- },
- {
-  "id": 1151456,
-  "title": "Golang Writing memory efficient and CPU optimized Go Structs",
-  "description": "null",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X4MEsbks--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://github.com/kodelint/blog-images/raw/main/common/01-golang-struct.png",
-  "slug": "golang-writing-memory-efficient-and-cpu-optimized-go-structs-2ick",
-  "url": "https://dev.to/deadlock/golang-writing-memory-efficient-and-cpu-optimized-go-structs-2ick",
-  "publish_date": "2022-07-26",
-  "published_at": "2022-07-26T03:26:04Z"
  }
 ]
