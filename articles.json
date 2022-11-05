@@ -1,5 +1,55 @@
 [
  {
+  "id": 1243723,
+  "title": "Deploy LIVE a simple eCommerce powered by Flask \u0026 Stripe in 5 minutes",
+  "description": "This material explains how to build a simple eCommerce powered by Stripe \u0026 Flask and publish LIVE the product on Render.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k9bxWeOb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/atjmcd03ybj0rq8nepzq.jpg",
+  "slug": "deploy-live-a-simple-ecommerce-powered-by-flask-stripe-in-5-minutes-53m1",
+  "url": "https://dev.to/sm0ke/deploy-live-a-simple-ecommerce-powered-by-flask-stripe-in-5-minutes-53m1",
+  "publish_date": "2022-11-04",
+  "published_at": "2022-11-04T19:21:08Z"
+ },
+ {
+  "id": 1242230,
+  "title": "#DEVCommunity: Now available via Toot 🦣",
+  "description": "We're live on Mastodon! 🦣                                                                            ...",
+  "cover_image": "",
+  "slug": "devcommunity-now-available-via-toot-3ah3",
+  "url": "https://dev.to/devteam/devcommunity-now-available-via-toot-3ah3",
+  "publish_date": "2022-11-04",
+  "published_at": "2022-11-04T17:16:20Z"
+ },
+ {
+  "id": 1243208,
+  "title": "Twitter is expected to lay off about half of its workforce",
+  "description": "Per this story by The Verge   Musk is expected to cut roughly half of Twitter’s roughly 7,500-person...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WQf3RIzY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h0sifkb2tm2yqos3d6z6.png",
+  "slug": "twitter-is-expected-to-lay-off-about-half-of-its-workforce-50e5",
+  "url": "https://dev.to/ben/twitter-is-expected-to-lay-off-about-half-of-its-workforce-50e5",
+  "publish_date": "2022-11-04",
+  "published_at": "2022-11-04T14:06:31Z"
+ },
+ {
+  "id": 1222463,
+  "title": "Ways to Improve Developer Onboarding on an existing codebase",
+  "description": "Hiring a developer in the middle of a project might be challenging. That is the last thing a project...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wmUgSG-r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mty7fo5vjdga8dk02ve8.gif",
+  "slug": "ways-to-improve-developer-onboarding-on-an-existing-codebase-5b23",
+  "url": "https://dev.to/qbentil/ways-to-improve-developer-onboarding-on-an-existing-codebase-5b23",
+  "publish_date": "2022-11-04",
+  "published_at": "2022-11-04T13:39:49Z"
+ },
+ {
+  "id": 1243098,
+  "title": "esbuild - Next-generation JavaScript bundler",
+  "description": "Author: Muhammad Khabbab           Introduction   Bundlers are an essential component of the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V0T3sNSv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xuf6tn040mdemlh7dyzx.png",
+  "slug": "esbuild-next-generation-javascript-bundler-45ke",
+  "url": "https://dev.to/refine/esbuild-next-generation-javascript-bundler-45ke",
+  "publish_date": "2022-11-04",
+  "published_at": "2022-11-04T11:38:26Z"
+ },
+ {
   "id": 1241870,
   "title": "What were some of the toughest technologies and concepts for you to grasp along the way?",
   "description": "What were they, did you every fully overcome your confusion?",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devsimc/7-daily-hacks-for-programmers-to-make-coding-skills-faster-a68",
   "publish_date": "2022-07-28",
   "published_at": "2022-07-28T04:42:18Z"
- },
- {
-  "id": 1152626,
-  "title": "Building a CRUD app with Material UI and Strapi",
-  "description": "Introduction   We will build an admin panel that supports CRUD operations, has built-in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TCvEzbMl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gnfsoxa3i0dvonvyhcet.gif",
-  "slug": "building-a-crud-app-with-material-ui-and-strapi-5gcn",
-  "url": "https://dev.to/pankod/building-a-crud-app-with-material-ui-and-strapi-5gcn",
-  "publish_date": "2022-07-27",
-  "published_at": "2022-07-27T14:43:58Z"
- },
- {
-  "id": 1152742,
-  "title": "Improve your product notifications with Digest, Separate Feeds, and Notification Action Buttons",
-  "description": "Product Notification - What are those?   Product Notifications are everywhere - Emails,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mZD9rYMx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/87sx1lvpzol5lxn4e94o.png",
-  "slug": "improve-your-product-notifications-with-digest-separate-feeds-and-feeds-action-buttons-1l6k",
-  "url": "https://dev.to/novu/improve-your-product-notifications-with-digest-separate-feeds-and-feeds-action-buttons-1l6k",
-  "publish_date": "2022-07-27",
-  "published_at": "2022-07-27T14:03:00Z"
- },
- {
-  "id": 1152593,
-  "title": "Everyone Can Do DevRel (But Should They?)",
-  "description": "One thing that I can say, having spent three years in communities and over ten months as a DevRel...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YG6tK0g0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ar5a7ebvdd1tgc4kvoke.png",
-  "slug": "everyone-can-do-devrel-but-should-they-2jdl",
-  "url": "https://dev.to/appwrite/everyone-can-do-devrel-but-should-they-2jdl",
-  "publish_date": "2022-07-27",
-  "published_at": "2022-07-27T12:54:00Z"
- },
- {
-  "id": 1152671,
-  "title": "Useful tools, libraries and resources for developer to speed up the development",
-  "description": "Javascript libraries   Particles.js — A library for creating beautiful floating particles on...",
-  "cover_image": "",
-  "slug": "useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development-3eb1",
-  "url": "https://dev.to/devsimc/useful-tools-libraries-and-resources-for-developer-to-speed-up-the-development-3eb1",
-  "publish_date": "2022-07-27",
-  "published_at": "2022-07-27T10:43:55Z"
- },
- {
-  "id": 1152665,
-  "title": "Cloud Cost Management Software: Top 6 Solutions for 2022",
-  "description": "Tracking the cost and usage of cloud-based services can be a tough nut to crack even if you’re using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Cr4V4GVC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mp68sl6paqco1i9f9ceg.png",
-  "slug": "cloud-cost-management-software-top-6-solutions-for-2022-3pab",
-  "url": "https://dev.to/castai/cloud-cost-management-software-top-6-solutions-for-2022-3pab",
-  "publish_date": "2022-07-27",
-  "published_at": "2022-07-27T10:35:00Z"
  }
 ]
