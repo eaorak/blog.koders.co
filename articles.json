@@ -1,5 +1,55 @@
 [
  {
+  "id": 1244353,
+  "title": "How To Create A Resizing Header With Plain CSS",
+  "description": "For my projects I want to use as much CSS and as little JavaScript as possible (for accessibility...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T22iw3i2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epzsbocx306dzfbw8mx9.png",
+  "slug": "how-to-create-a-resizing-header-with-plain-css-35gk",
+  "url": "https://dev.to/yuridevat/how-to-create-a-resizing-header-with-plain-css-35gk",
+  "publish_date": "2022-11-06",
+  "published_at": "2022-11-06T09:28:47Z"
+ },
+ {
+  "id": 1245367,
+  "title": "A Complete Guide to NFTs",
+  "description": "What are NFTs?   Non-fungible tokens (NFTs) are cryptographic assets on a blockchain that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KnWtw02d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quz8reir2mxbwnq9pgnc.jpg",
+  "slug": "a-complete-guide-to-nfts-28lj",
+  "url": "https://dev.to/iadityasingh/a-complete-guide-to-nfts-28lj",
+  "publish_date": "2022-11-06",
+  "published_at": "2022-11-06T06:55:54Z"
+ },
+ {
+  "id": 1245260,
+  "title": "Change the DB as you wish | Repository Pattern📦",
+  "description": "📦 Repository Pattern   This is a practical and real-life example of how to use the...",
+  "cover_image": "",
+  "slug": "change-the-db-as-you-wish-repository-pattern-2h2h",
+  "url": "https://dev.to/ivanzm123/change-the-db-as-you-wish-repository-pattern-2h2h",
+  "publish_date": "2022-11-06",
+  "published_at": "2022-11-06T04:54:58Z"
+ },
+ {
+  "id": 1245259,
+  "title": "How to Make Weather App in React",
+  "description": "In this article, we are going to make a weather app in react. In this project, we will use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G3l_0U5A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/esk1ev26c7galyksgkmp.jpg",
+  "slug": "how-to-make-weather-app-in-react-d3f",
+  "url": "https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f",
+  "publish_date": "2022-11-06",
+  "published_at": "2022-11-06T04:46:16Z"
+ },
+ {
+  "id": 1245107,
+  "title": "Automate and Auto-Merge Pull Requests using GitHub Actions and the GitHub CLI",
+  "description": "So I've written about how I automated content updates for my blog before. I even gave a talk on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MPFZD2M0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n5zbeeuatd9c42b1etvc.jpg",
+  "slug": "automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6",
+  "url": "https://dev.to/nickytonline/automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6",
+  "publish_date": "2022-11-06",
+  "published_at": "2022-11-06T01:32:09Z"
+ },
+ {
   "id": 1229973,
   "title": "Top 5 Icon websites for devs and designers!!!",
   "description": "Introduction:   Everyone needs a website to get icons from it, Choosing the right icons is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/babib/javascript-slice-and-splice-cheat-sheet-3hoi",
   "publish_date": "2022-07-30",
   "published_at": "2022-07-30T05:45:00Z"
- },
- {
-  "id": 1154673,
-  "title": "Follow Friday: UX/UI Edition (29 July 2022)",
-  "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
-  "cover_image": "",
-  "slug": "follow-friday-uxui-edition-29-july-2022-2g1m",
-  "url": "https://dev.to/devteam/follow-friday-uxui-edition-29-july-2022-2g1m",
-  "publish_date": "2022-07-29",
-  "published_at": "2022-07-29T13:29:30Z"
- },
- {
-  "id": 1154527,
-  "title": "Appwrite Community Report #16",
-  "description": "Hello everyone! Greetings from team Appwrite 👋  Welcome back to yet another weekly community report...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IzBR2WWa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0uqey3paq4s0y02tky77.png",
-  "slug": "appwrite-community-report-16-48lb",
-  "url": "https://dev.to/appwrite/appwrite-community-report-16-48lb",
-  "publish_date": "2022-07-29",
-  "published_at": "2022-07-29T13:22:19Z"
- },
- {
-  "id": 1118697,
-  "title": "From Cairo To FINN",
-  "description": "Hello, lovely fellows! My name is Monica, and I have lived my whole life in Cairo until I relocated...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cux1kAJH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5vyd627ikn1fkyniecy.jpg",
-  "slug": "from-cairo-to-finn-4f8d",
-  "url": "https://dev.to/finnauto/from-cairo-to-finn-4f8d",
-  "publish_date": "2022-07-29",
-  "published_at": "2022-07-29T07:43:01Z"
- },
- {
-  "id": 1154283,
-  "title": "12 Must Have Browser Extensions for Developers",
-  "description": "One of the cool things about using Chrome as your default browser is all the extensions you can use....",
-  "cover_image": "",
-  "slug": "12-must-have-browser-extensions-for-developers-163d",
-  "url": "https://dev.to/devsimc/12-must-have-browser-extensions-for-developers-163d",
-  "publish_date": "2022-07-29",
-  "published_at": "2022-07-29T04:32:01Z"
- },
- {
-  "id": 1154193,
-  "title": "10+ things I always setup in git when I prepare a new environment",
-  "description": "When you buy a car or a bicycle, you first adjust the seat position and saddle height to suit your body size.　It is the same with git configuration.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cm_AxQIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6j29uyhu1j891iaprlx4.jpg",
-  "slug": "10-things-i-always-setup-in-git-when-i-prepare-a-new-environment-d99",
-  "url": "https://dev.to/snaka/10-things-i-always-setup-in-git-when-i-prepare-a-new-environment-d99",
-  "publish_date": "2022-07-29",
-  "published_at": "2022-07-29T02:02:48Z"
  }
 ]
