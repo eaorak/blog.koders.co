@@ -1,5 +1,55 @@
 [
  {
+  "id": 1224078,
+  "title": "Announcing the MongoDB Atlas Hackathon 2022 on DEV!",
+  "description": "Join us for this opportunity to build an awesome application with MongoDB Atlas while earning some great prizes.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oWaFydyT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/giuu4goz501d3kyiltxn.png",
+  "slug": "announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107",
+  "url": "https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107",
+  "publish_date": "2022-11-08",
+  "published_at": "2022-11-08T18:11:10Z"
+ },
+ {
+  "id": 1248293,
+  "title": "React \u0026 NodeJS - Go LIVE with Full-Stack projects fast",
+  "description": "This material explains how to use free tools and Go LIVE with full-stack products using the Render Deployment Platform \u0026 AppSeed. ",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h0Ldps0y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iuugi9p1eij8uog9fz95.jpg",
+  "slug": "react-nodejs-go-live-with-full-stack-projects-fast-j0h",
+  "url": "https://dev.to/sm0ke/react-nodejs-go-live-with-full-stack-projects-fast-j0h",
+  "publish_date": "2022-11-08",
+  "published_at": "2022-11-08T18:09:06Z"
+ },
+ {
+  "id": 1245395,
+  "title": "How to work with API on your mobile phone?",
+  "description": "There are numerous tools available for testing your API. However, I will demonstrate how to test your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LLxrZd7K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7l2vh79mq4016vd5ext8.png",
+  "slug": "how-to-work-with-api-on-your-mobile-phone-34eh",
+  "url": "https://dev.to/varshithvhegde/how-to-work-with-api-on-your-mobile-phone-34eh",
+  "publish_date": "2022-11-08",
+  "published_at": "2022-11-08T13:00:11Z"
+ },
+ {
+  "id": 1247762,
+  "title": "Working with GitHub Actions from your best editor",
+  "description": "Hi folks, today I'm going to speak about another cool VsCode Extension.  In many projects, I love...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZwxMztwQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lpjcp6r9djyniucieldt.gif",
+  "slug": "working-with-github-from-your-best-editor-2dhh",
+  "url": "https://dev.to/this-is-learning/working-with-github-from-your-best-editor-2dhh",
+  "publish_date": "2022-11-08",
+  "published_at": "2022-11-08T09:00:42Z"
+ },
+ {
+  "id": 1244624,
+  "title": "Event-Driven APIs with Webhook and API Gateway",
+  "description": "There are many ways and technology options to consider when implementing an event-driven API. For...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XsxWNg51--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nd27e0akbh9oce1csu9o.png",
+  "slug": "event-driven-apis-with-webhook-and-api-gateway-2mdb",
+  "url": "https://dev.to/apisix/event-driven-apis-with-webhook-and-api-gateway-2mdb",
+  "publish_date": "2022-11-08",
+  "published_at": "2022-11-08T08:45:55Z"
+ },
+ {
   "id": 1228820,
   "title": "Client-side Routing without the JavaScript",
   "description": "It's been a while since I wrote a piece about a SolidJS technology innovation. It's been two years...",
@@ -4700,22 +4750,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/this-is-learning/roadmap-to-becoming-a-flutter-developer-5c63",
   "publish_date": "2022-08-01",
   "published_at": "2022-08-01T04:38:00Z"
- },
- {
-  "id": 1155908,
-  "title": "The Importance of Clean Code in Your Startup's Success",
-  "description": "Clean Code has become a bit of a buzzword recently, but it is important, both as a developer and as...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vdg6DF2x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yyjfmuk2r6eh4zgwxuux.jpeg",
-  "slug": "the-importance-of-clean-code-in-your-startups-success-ooc",
-  "url": "https://dev.to/chainguns/the-importance-of-clean-code-in-your-startups-success-ooc",
-  "publish_date": "2022-07-31",
-  "published_at": "2022-07-31T14:17:12Z"
- },
- {
-  "id": 1155905,
-  "title": "List of Free Image Tools Every Frontend Developer Needs",
-  "description": "This is a list of free tools every frontend developer probably will google for one day. These...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eGgK4Onq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dh3c8ulf5b6ohai4c9uj.png",
-  "slug": "list-of-free-image-tools-every-frontend-developer-needs-489a",
-  "url": "https://dev.to/perssondennis/list-of-free-image-tools-every-frontend-developer-needs-489a",
-  "publish_date": "2022-07-31",
-  "published_at": "2022-07-31T14:04:19Z"
- },
- {
-  "id": 1155867,
-  "title": "Side Project Sunday! What's the latest?",
-  "description": "Let's hear about what you have going on! If you've shared your project before, what's new?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7l5VkVof--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/107e7c549n2wcxmk8cxy.png",
-  "slug": "side-project-sunday-whats-the-latest-4nl5",
-  "url": "https://dev.to/ben/side-project-sunday-whats-the-latest-4nl5",
-  "publish_date": "2022-07-31",
-  "published_at": "2022-07-31T12:14:04Z"
- },
- {
-  "id": 1155748,
-  "title": "I Created A Simple 1 To 1 Meeting Tool",
-  "description": "Introduction   Hello! I recently heard about the PlanetScale X Hashnode hackathon, so I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uEtxdAR1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nljhs6rm8xmddw1x6s37.jpeg",
-  "slug": "i-created-a-simple-1-to-1-meeting-tool-ib2",
-  "url": "https://dev.to/ethand91/i-created-a-simple-1-to-1-meeting-tool-ib2",
-  "publish_date": "2022-07-31",
-  "published_at": "2022-07-31T07:21:12Z"
- },
- {
-  "id": 1155728,
-  "title": "Unit testing frontend code is (probably) useless",
-  "description": "I love unit tests. Magic and its satellite projects has 1,000+ unit tests, and some of the satellite...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d6ma9VMF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1vgpfkeyfb55xy5sdwpd.jpg",
-  "slug": "unit-testing-frontend-code-is-probably-useless-27n9",
-  "url": "https://dev.to/polterguy/unit-testing-frontend-code-is-probably-useless-27n9",
-  "publish_date": "2022-07-31",
-  "published_at": "2022-07-31T06:11:00Z"
  }
 ]
