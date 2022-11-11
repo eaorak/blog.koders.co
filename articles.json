@@ -1,5 +1,55 @@
 [
  {
+  "id": 1249408,
+  "title": "5 websites to learn Frontend-web development faster",
+  "description": "I have been a web developer for a few years now. I have come to a complete understanding that being a...",
+  "cover_image": "",
+  "slug": "5-websites-to-learn-frontend-web-development-faster-3cid",
+  "url": "https://dev.to/qbentil/5-websites-to-learn-frontend-web-development-faster-3cid",
+  "publish_date": "2022-11-10",
+  "published_at": "2022-11-10T11:31:36Z"
+ },
+ {
+  "id": 1250952,
+  "title": "How I build a Documentation site using Docz",
+  "description": "Introduction   I use any dev tools or library on the basis of its documentation. I use their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d9yLFJxc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xicpt3b93irnp8nevuxo.png",
+  "slug": "how-i-build-a-documentation-site-using-docz-57kk",
+  "url": "https://dev.to/documatic/how-i-build-a-documentation-site-using-docz-57kk",
+  "publish_date": "2022-11-10",
+  "published_at": "2022-11-10T11:30:00Z"
+ },
+ {
+  "id": 1250982,
+  "title": "Generate a Flask APP and Go LIVE - Material Kit Design",
+  "description": "This video explains how to use tools to generate full-stack apps in no time on top of Flask and Material Design. Generated code is saved on GitHub (MIT License).",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Cjgix8I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbpb9noxs3xk1rndbhru.png",
+  "slug": "generate-a-flask-app-and-go-live-material-kit-design-be3",
+  "url": "https://dev.to/sm0ke/generate-a-flask-app-and-go-live-material-kit-design-be3",
+  "publish_date": "2022-11-10",
+  "published_at": "2022-11-10T10:15:46Z"
+ },
+ {
+  "id": 1249829,
+  "title": "How to Build a Production-Ready Todo App in One Next.js Project With ZenStack",
+  "description": "Next.js did a great job in \"bringing the power of full-stack to the front end\"as their slogan on the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WC1Un8mO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o7fkqs791ff66vfebsuj.png",
+  "slug": "how-to-build-a-production-ready-todo-app-in-one-nextjs-project-with-zenstack-2acc",
+  "url": "https://dev.to/zenstack/how-to-build-a-production-ready-todo-app-in-one-nextjs-project-with-zenstack-2acc",
+  "publish_date": "2022-11-10",
+  "published_at": "2022-11-10T09:06:24Z"
+ },
+ {
+  "id": 1250869,
+  "title": "Socket.io | Show Number of visitor",
+  "description": "Hey 👋, I hope you're doing well,  It's been a long time since we've seen each other!       Today I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uiy4TaUL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ez14mm6n1ubphfyga0o4.gif",
+  "slug": "socketio-show-number-of-visitor-337",
+  "url": "https://dev.to/noprod/socketio-show-number-of-visitor-337",
+  "publish_date": "2022-11-10",
+  "published_at": "2022-11-10T06:00:56Z"
+ },
+ {
   "id": 1249846,
   "title": "dev.to codes! Collaborative coding experiment: The most liked comment picks the next line of code, day 2",
   "description": "Day 2! The response on the first post was amazing, thanks to everyone that contributed! @ben's...",
@@ -4800,22 +4850,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 829595,
   "title": "📚Angular Interview Questions Part 2",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
   "slug": "angular-interview-questions-part-2-10bn",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 846480,
+  "title": "📚Angular Interview Questions Part 3",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
+  "slug": "angular-interview-questions-part-3-4m2h",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devsimc/5-rules-for-every-code-review-4o7a",
   "publish_date": "2022-08-03",
   "published_at": "2022-08-03T06:31:00Z"
- },
- {
-  "id": 1157586,
-  "title": "This new GIT push config will save you lot of frustration!",
-  "description": "If you have 59 seconds and in particular you're also on mobile, you might enjoy watching the YouTube...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZUWEmjzq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0z2fs7v7wt86yws8y5kk.png",
-  "slug": "this-new-git-push-config-will-save-you-lot-of-frustration-27a9",
-  "url": "https://dev.to/this-is-learning/this-new-git-push-config-will-save-you-lot-of-frustration-27a9",
-  "publish_date": "2022-08-02",
-  "published_at": "2022-08-02T17:09:00Z"
- },
- {
-  "id": 1143524,
-  "title": "Appwrite OSS Fund Sponsors InvenTree",
-  "description": "Hi readers 👋, welcoming you back to the \"Appwrite OSS Fund\" series, where we celebrate open-source...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H1LA0ucY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idlgygx04jnyjubqgips.png",
-  "slug": "appwrite-oss-fund-sponsors-inventree-36go",
-  "url": "https://dev.to/appwrite/appwrite-oss-fund-sponsors-inventree-36go",
-  "publish_date": "2022-08-02",
-  "published_at": "2022-08-02T13:27:32Z"
- },
- {
-  "id": 1157435,
-  "title": "We Released a New Next.js Ecommerce Storefront with Ready Integrations to PayPal, MeiliSearch, Stripe, and more!",
-  "description": "Last month, our team at Medusa built a new advanced Next.js storefront that can be used with a Medusa...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8C4XuJ1G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rz4b8ygqaps7l18xptzo.png",
-  "slug": "we-released-a-new-nextjs-ecommerce-storefront-with-ready-integrations-to-paypal-meilisearch-stripe-and-more-34jl",
-  "url": "https://dev.to/medusajs/we-released-a-new-nextjs-ecommerce-storefront-with-ready-integrations-to-paypal-meilisearch-stripe-and-more-34jl",
-  "publish_date": "2022-08-02",
-  "published_at": "2022-08-02T11:40:20Z"
- },
- {
-  "id": 1157312,
-  "title": "The Hidden Power of Programming: How it can make you more successful in life?",
-  "description": "Programming as a tool   Learning to code is about more than just getting a job. It's about...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W6E65JAn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kump2tv50pqiodlvw4oe.png",
-  "slug": "the-hidden-power-of-programming-how-it-can-make-you-more-successful-in-life-4fjp",
-  "url": "https://dev.to/nathan20/the-hidden-power-of-programming-how-it-can-make-you-more-successful-in-life-4fjp",
-  "publish_date": "2022-08-02",
-  "published_at": "2022-08-02T09:16:57Z"
- },
- {
-  "id": 1157131,
-  "title": "7 Free APIs That Nobody Is Talking About",
-  "description": "1. Evil Insult Generator   How many times have you tried to insult your best friend? Now you...",
-  "cover_image": "",
-  "slug": "7-free-apis-that-nobody-is-talking-about-o4g",
-  "url": "https://dev.to/devsimc/7-free-apis-that-nobody-is-talking-about-o4g",
-  "publish_date": "2022-08-02",
-  "published_at": "2022-08-02T04:19:52Z"
  }
 ]
