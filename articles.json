@@ -1,5 +1,55 @@
 [
  {
+  "id": 1251609,
+  "title": "Share DEV articles to Mastodon",
+  "description": "You asked, we listened! 🦣  You can now share DEV articles to Mastodon in addition to other social...",
+  "cover_image": "",
+  "slug": "share-dev-articles-to-mastodon-5cjn",
+  "url": "https://dev.to/devteam/share-dev-articles-to-mastodon-5cjn",
+  "publish_date": "2022-11-11",
+  "published_at": "2022-11-11T16:03:17Z"
+ },
+ {
+  "id": 1252816,
+  "title": "How to Make a Responsive Education Website Using HTML CSS JavaScript",
+  "description": "How to Make a Responsive Education Website Using HTML CSS JavaScript  This video will show you...",
+  "cover_image": "",
+  "slug": "how-to-make-a-responsive-education-website-using-html-css-javascript-j15",
+  "url": "https://dev.to/codewithsadee/how-to-make-a-responsive-education-website-using-html-css-javascript-j15",
+  "publish_date": "2022-11-11",
+  "published_at": "2022-11-11T15:01:16Z"
+ },
+ {
+  "id": 1252529,
+  "title": "Black Friday is coming 🔥 Vote your Discount: 50, 60, 70%",
+  "description": "In 2022 Black Friday discounts are voted on by the users - Once the voting is over, the campaign starts on 15-NOV.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XpQt7l7t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/46f7oie91suzf4nxkya6.jpg",
+  "slug": "black-friday-is-coming-vote-your-discount-50-60-70-11aa",
+  "url": "https://dev.to/sm0ke/black-friday-is-coming-vote-your-discount-50-60-70-11aa",
+  "publish_date": "2022-11-11",
+  "published_at": "2022-11-11T10:51:44Z"
+ },
+ {
+  "id": 1252428,
+  "title": "AKS Security: 10 Proven Tactics for Securing Your Kubernetes Clusters",
+  "description": "Kubernetes comes with many challenges, and one of them is security. Managed Kubernetes solutions like...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QUrtL2tp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sdenr2khxil4sidf1aoo.png",
+  "slug": "aks-security-10-proven-tactics-for-securing-your-kubernetes-clusters-44fo",
+  "url": "https://dev.to/castai/aks-security-10-proven-tactics-for-securing-your-kubernetes-clusters-44fo",
+  "publish_date": "2022-11-11",
+  "published_at": "2022-11-11T07:42:12Z"
+ },
+ {
+  "id": 1252175,
+  "title": "What if DEV became the new Twitter-like platform for developers?",
+  "description": "Just playing a \"what-if\" game.   Do you think if Dev tweaked its content publishing model it might...",
+  "cover_image": "",
+  "slug": "what-if-dev-became-the-new-twitter-like-platform-for-developers-16kc",
+  "url": "https://dev.to/andrewbrown/what-if-dev-became-the-new-twitter-like-platform-for-developers-16kc",
+  "publish_date": "2022-11-11",
+  "published_at": "2022-11-11T04:14:40Z"
+ },
+ {
   "id": 1249408,
   "title": "5 websites to learn Frontend-web development faster",
   "description": "I have been a web developer for a few years now. I have come to a complete understanding that being a...",
@@ -4850,22 +4900,22 @@
   "published_at": "2022-08-06T01:30:00Z"
  },
  {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
   "id": 846480,
   "title": "📚Angular Interview Questions Part 3",
   "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
   "slug": "angular-interview-questions-part-3-4m2h",
   "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
+  "publish_date": "2022-08-05",
+  "published_at": "2022-08-05T21:27:00Z"
+ },
+ {
+  "id": 829595,
+  "title": "📚Angular Interview Questions Part 2",
+  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
+  "slug": "angular-interview-questions-part-2-10bn",
+  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T21:27:00Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github/create-a-no-touch-qr-code-menu-with-github-pages-288b",
   "publish_date": "2022-08-04",
   "published_at": "2022-08-04T03:26:00Z"
- },
- {
-  "id": 1158415,
-  "title": "Explain the difference between shell, console, terminal, command line, etc. like I'm five",
-  "description": "This is an anonymous post sent in by a member who does not want their name disclosed. Please be...",
-  "cover_image": "",
-  "slug": "explain-the-difference-between-shell-console-terminal-command-line-etc-like-im-five-565a",
-  "url": "https://dev.to/sloan/explain-the-difference-between-shell-console-terminal-command-line-etc-like-im-five-565a",
-  "publish_date": "2022-08-03",
-  "published_at": "2022-08-03T14:02:32Z"
- },
- {
-  "id": 1158406,
-  "title": "Better Programming Productivity- Techniques and Attitude",
-  "description": "Techniques to improve productivity   As a programmer, there are many things you can do to...",
-  "cover_image": "",
-  "slug": "better-programming-productivity-techniques-and-attitude-19n",
-  "url": "https://dev.to/chainguns/better-programming-productivity-techniques-and-attitude-19n",
-  "publish_date": "2022-08-03",
-  "published_at": "2022-08-03T13:38:00Z"
- },
- {
-  "id": 1156434,
-  "title": "DynamoDB Pros \u0026 Cons",
-  "description": "What is AWS DynamoDB?   AWS DynamoDB is a fast, scalable, and fully managed NoSQL database...",
-  "cover_image": "",
-  "slug": "dynamodb-pros-cons-k2a",
-  "url": "https://dev.to/roy8/dynamodb-pros-cons-k2a",
-  "publish_date": "2022-08-03",
-  "published_at": "2022-08-03T09:21:00Z"
- },
- {
-  "id": 1158202,
-  "title": "TypeScript - The Best Way to Use It with React",
-  "description": "Why TypeScript?   I have another article that explains a lot about TypeScript, what it is...",
-  "cover_image": "",
-  "slug": "how-to-use-typescript-with-react-mn9",
-  "url": "https://dev.to/omerwow/how-to-use-typescript-with-react-mn9",
-  "publish_date": "2022-08-03",
-  "published_at": "2022-08-03T09:10:00Z"
- },
- {
-  "id": 1158084,
-  "title": "5 Rules for Every Code Review",
-  "description": "Code reviews are the glue of any effective software engineering team. A code review is the stage at...",
-  "cover_image": "",
-  "slug": "5-rules-for-every-code-review-4o7a",
-  "url": "https://dev.to/devsimc/5-rules-for-every-code-review-4o7a",
-  "publish_date": "2022-08-03",
-  "published_at": "2022-08-03T06:31:00Z"
  }
 ]
