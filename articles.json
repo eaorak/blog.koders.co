@@ -1,5 +1,55 @@
 [
  {
+  "id": 1187324,
+  "title": "Interface for router",
+  "description": "Hi! Not so long ago, Alexander B.K., a reader and author of dev.to, asked me to describe the design...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zIyQWk9b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/931uxmn528zg4w88mqd8.jpg",
+  "slug": "interface-for-router-19i1",
+  "url": "https://dev.to/zhukmax/interface-for-router-19i1",
+  "publish_date": "2022-11-12",
+  "published_at": "2022-11-12T20:23:20Z"
+ },
+ {
+  "id": 1254018,
+  "title": "Where To Host Your Applications/Websites For Free🤑",
+  "description": "In this post, we will see some of the top places to host your application or website for free and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--khYXmeUq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bqlkwe8xnc9yw3ehkobk.jpg",
+  "slug": "where-to-host-your-applicationswebsites-for-free-kd5",
+  "url": "https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5",
+  "publish_date": "2022-11-12",
+  "published_at": "2022-11-12T15:27:25Z"
+ },
+ {
+  "id": 1253978,
+  "title": "8 Best Logging Practices to Keep Sensitive Data Out",
+  "description": "Logging is an essential part of the software development process. Debugging application and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OApleabT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l90lnt377ypoanlqdfbm.png",
+  "slug": "8-best-logging-practices-to-keep-sensitive-data-out-39p9",
+  "url": "https://dev.to/pragativerma18/8-best-logging-practices-to-keep-sensitive-data-out-39p9",
+  "publish_date": "2022-11-12",
+  "published_at": "2022-11-12T12:06:47Z"
+ },
+ {
+  "id": 1253965,
+  "title": "Next.js 13 - What are the new features?",
+  "description": "Author: Michael Hungbo           Introduction   Next.js is a popular React.js framework for building...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ke3bKG35--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zui6hofz7wwnjjpzeqww.png",
+  "slug": "nextjs-13-what-are-the-new-features-ole",
+  "url": "https://dev.to/refine/nextjs-13-what-are-the-new-features-ole",
+  "publish_date": "2022-11-12",
+  "published_at": "2022-11-12T11:44:31Z"
+ },
+ {
+  "id": 1253745,
+  "title": "THIS tool will SAVE you 70% of your TIME as a developer",
+  "description": "Every developer gets FRUSTRETED creating user-guides for their audience. But this tool will create...",
+  "cover_image": "",
+  "slug": "this-tool-will-save-you-70-of-your-time-as-a-developer-1899",
+  "url": "https://dev.to/anasdew/this-tool-will-save-you-70-of-your-time-as-a-developer-1899",
+  "publish_date": "2022-11-12",
+  "published_at": "2022-11-12T06:34:52Z"
+ },
+ {
   "id": 1251609,
   "title": "Share DEV articles to Mastodon",
   "description": "You asked, we listened! 🦣  You can now share DEV articles to Mastodon in addition to other social...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devsimc/6-ways-to-make-money-with-your-code-3j48",
   "publish_date": "2022-08-05",
   "published_at": "2022-08-05T04:47:00Z"
- },
- {
-  "id": 1158996,
-  "title": "Pure CSS Woman with Long Hair",
-  "description": "Speed Code Video https://twitter.com/asyrafhussin4/status/1555103135869218816",
-  "cover_image": "",
-  "slug": "pure-css-woman-with-long-hair-15b1",
-  "url": "https://dev.to/asyrafhussin4/pure-css-woman-with-long-hair-15b1",
-  "publish_date": "2022-08-04",
-  "published_at": "2022-08-04T08:15:28Z"
- },
- {
-  "id": 1158959,
-  "title": "The need for social interaction",
-  "description": "This is an opinionated article on the need for social interaction.  The other day I got a message...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Tszi4cv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fz7zqfznkt2babxb0lgd.jpg",
-  "slug": "the-need-for-social-interaction-23gk",
-  "url": "https://dev.to/dailydevtips1/the-need-for-social-interaction-23gk",
-  "publish_date": "2022-08-04",
-  "published_at": "2022-08-04T07:30:08Z"
- },
- {
-  "id": 1158593,
-  "title": "How I obtained all AWS associate level certificates in two weeks.",
-  "description": "Introduction   Hi, my name is Nicolas, and I was able to pass all the AWS associate level...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W7UY5CMj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3jr9351s3mp1sg6upr2z.png",
-  "slug": "how-i-obtained-all-aws-associate-level-certificates-in-two-weeks-3cip",
-  "url": "https://dev.to/aws-builders/how-i-obtained-all-aws-associate-level-certificates-in-two-weeks-3cip",
-  "publish_date": "2022-08-04",
-  "published_at": "2022-08-04T05:11:58Z"
- },
- {
-  "id": 1158896,
-  "title": "Change your old methods for writing a JavaScript Code - Shorthand's for JavaScript Code",
-  "description": "1. Shorthand for if with multiple OR(||) conditions      if (car === 'audi' || car === 'BMW'...",
-  "cover_image": "",
-  "slug": "change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-3poa",
-  "url": "https://dev.to/devsimc/change-your-old-methods-for-writing-a-javascript-code-shorthands-for-javascript-code-3poa",
-  "publish_date": "2022-08-04",
-  "published_at": "2022-08-04T04:44:00Z"
- },
- {
-  "id": 1158431,
-  "title": "Create a No-Touch QR Code Menu with GitHub Pages",
-  "description": "I created a no-touch QR Code menu using GitHub Pages, and I built different versions of the menu with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hrfLw_G7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9q8lesva579cszozwxfk.png",
-  "slug": "create-a-no-touch-qr-code-menu-with-github-pages-288b",
-  "url": "https://dev.to/github/create-a-no-touch-qr-code-menu-with-github-pages-288b",
-  "publish_date": "2022-08-04",
-  "published_at": "2022-08-04T03:26:00Z"
  }
 ]
