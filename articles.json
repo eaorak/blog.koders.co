@@ -1,5 +1,55 @@
 [
  {
+  "id": 1255320,
+  "title": "Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources",
+  "description": "This is a collection of top rated web development resources every developer needs. Roadmaps, guides,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PMzj2K-R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qcqlbuarx09dkjaoswfm.png",
+  "slug": "extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l",
+  "url": "https://dev.to/perssondennis/extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l",
+  "publish_date": "2022-11-13",
+  "published_at": "2022-11-13T15:47:00Z"
+ },
+ {
+  "id": 1255076,
+  "title": "What is Turborepo and Why Should You Care?",
+  "description": "Author: Muhammad Khabbab           Introduction   Monorepos are very popular in modern application...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QG520Icq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d7c5qvso7jyzrk37zob0.png",
+  "slug": "what-is-turborepo-and-why-should-you-care-1885",
+  "url": "https://dev.to/refine/what-is-turborepo-and-why-should-you-care-1885",
+  "publish_date": "2022-11-13",
+  "published_at": "2022-11-13T08:55:03Z"
+ },
+ {
+  "id": 1254916,
+  "title": "Stand out in a React interview by rendering a list like a pro",
+  "description": "We often get asked to render a list in a React interview. In this article we are going to look at a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UPYeGEuM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iwrgbg7b8qk41ow13sl7.jpg",
+  "slug": "stand-out-in-a-react-interview-by-rendering-a-list-like-a-pro-1cn5",
+  "url": "https://dev.to/andyrewlee/stand-out-in-a-react-interview-by-rendering-a-list-like-a-pro-1cn5",
+  "publish_date": "2022-11-13",
+  "published_at": "2022-11-13T08:18:46Z"
+ },
+ {
+  "id": 1254855,
+  "title": "Git Cheat Sheet with 40+ commands \u0026 concepts",
+  "description": "Tired of memorizing git commands? Here is a cheat sheet with 40+ commands to simplify your life.    ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4wsWub8_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/57x1yorinzasq1xpi5sk.png",
+  "slug": "git-cheat-sheet-with-40-commands-concepts-1m26",
+  "url": "https://dev.to/ruppysuppy/git-cheat-sheet-with-40-commands-concepts-1m26",
+  "publish_date": "2022-11-13",
+  "published_at": "2022-11-13T05:51:40Z"
+ },
+ {
+  "id": 1254832,
+  "title": "7 common mistakes new contributors make in Open Source Software",
+  "description": "Contributing to open source software is a great way to make a difference in the community and learn...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iRgV40fz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sa5be1yq1jt29tduxdcm.jpg",
+  "slug": "7-common-mistakes-new-contributors-make-in-open-source-software-2noo",
+  "url": "https://dev.to/codergirl1991/7-common-mistakes-new-contributors-make-in-open-source-software-2noo",
+  "publish_date": "2022-11-13",
+  "published_at": "2022-11-13T03:50:17Z"
+ },
+ {
   "id": 1187324,
   "title": "Interface for router",
   "description": "Hi! Not so long ago, Alexander B.K., a reader and author of dev.to, asked me to describe the design...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/simulating-oop-in-bash-3mop",
   "publish_date": "2022-08-06",
   "published_at": "2022-08-06T01:30:00Z"
- },
- {
-  "id": 846480,
-  "title": "📚Angular Interview Questions Part 3",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ctVZgqWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aagdcemx7bp37nsrehbs.jpg",
-  "slug": "angular-interview-questions-part-3-4m2h",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-3-4m2h",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
-  "id": 829595,
-  "title": "📚Angular Interview Questions Part 2",
-  "description": "In this article we are going to see a well curated list of angular interview questions 2021 and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNH6x-wk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5p2mrkfsfav992t0sshm.jpg",
-  "slug": "angular-interview-questions-part-2-10bn",
-  "url": "https://dev.to/stacksjar/angular-interview-questions-part-2-10bn",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T21:27:00Z"
- },
- {
-  "id": 1159845,
-  "title": "I stopped using Visual Studio Code",
-  "description": "Not because it's bad, not at all, and to be fully honest, I use it for my blog still 🤫.  But because...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ypWkkaVX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ne8qj11sqm0w45wl0qfo.jpg",
-  "slug": "i-stopped-using-visual-studio-code-1b81",
-  "url": "https://dev.to/dailydevtips1/i-stopped-using-visual-studio-code-1b81",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T07:53:55Z"
- },
- {
-  "id": 1159574,
-  "title": "Delete unused node_modules in a second and enjoy some free space! ♻️",
-  "description": "Intro   In this article I'll tell you about a cool tool I just found on npm, called npkill,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m4VlqW1i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/44vwxitfoa9d1xy6wpl5.png",
-  "slug": "delete-unused-nodemodules-in-a-second-and-enjoy-some-free-space-f3p",
-  "url": "https://dev.to/this-is-learning/delete-unused-nodemodules-in-a-second-and-enjoy-some-free-space-f3p",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T07:07:00Z"
- },
- {
-  "id": 1159772,
-  "title": "6 Ways To Make Money With Your Code",
-  "description": "Many of us know what “Coding” is and maybe some of you’ve built really cool projects and have many...",
-  "cover_image": "",
-  "slug": "6-ways-to-make-money-with-your-code-3j48",
-  "url": "https://dev.to/devsimc/6-ways-to-make-money-with-your-code-3j48",
-  "publish_date": "2022-08-05",
-  "published_at": "2022-08-05T04:47:00Z"
  }
 ]
