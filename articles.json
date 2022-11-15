@@ -1,5 +1,55 @@
 [
  {
+  "id": 1256016,
+  "title": "Awesome Productivity Tools for Developers",
+  "description": "Introduction   Working 8 hours a day will not help you in the long run but utilizing those...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ooKorJNY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ljk8ccy4wjaef4uda4j.png",
+  "slug": "awesome-productivity-tools-for-developers-40lj",
+  "url": "https://dev.to/surajondev/awesome-productivity-tools-for-developers-40lj",
+  "publish_date": "2022-11-14",
+  "published_at": "2022-11-14T11:30:00Z"
+ },
+ {
+  "id": 1256325,
+  "title": "8 Top MacBook Apps for College Students",
+  "description": "Technological advancements have eased human life to a great extent. The digital trend has also ruled...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SW-gtczt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nq6r5221j2vvu8f6564r.jpg",
+  "slug": "8-top-macbook-apps-for-college-students-591a",
+  "url": "https://dev.to/stephanreynolds/8-top-macbook-apps-for-college-students-591a",
+  "publish_date": "2022-11-14",
+  "published_at": "2022-11-14T07:59:50Z"
+ },
+ {
+  "id": 1256327,
+  "title": "500+ Tailwind UI Components, Templates, and UI Kit (Free and Premium)",
+  "description": "If you are looking for a complete Tailwind CSS UI Library with all essential UI Components, Sections...",
+  "cover_image": "",
+  "slug": "tailwind-components-templates-ui-kit-20lp",
+  "url": "https://dev.to/tailwindcss/tailwind-components-templates-ui-kit-20lp",
+  "publish_date": "2022-11-14",
+  "published_at": "2022-11-14T07:58:47Z"
+ },
+ {
+  "id": 1256312,
+  "title": "Top 5 Google Ads Extensions for Shopify Stores",
+  "description": "If you utilize Google Ads for your Shopify store, you should unlock its full potential as an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w8DT4XJo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2zgfodwdyq54kc9eukh4.png",
+  "slug": "top-5-google-ads-extensions-for-shopify-stores-534h",
+  "url": "https://dev.to/gloriamaldonado/top-5-google-ads-extensions-for-shopify-stores-534h",
+  "publish_date": "2022-11-14",
+  "published_at": "2022-11-14T07:49:56Z"
+ },
+ {
+  "id": 1255692,
+  "title": "🧪🐍✨Unit Testing Python Code With The unittest Framework",
+  "description": "Unit testing is an important part of software development as it isolates different components of a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EF_xndgc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e65ubn5mqaiaz4lrzhun.png",
+  "slug": "unit-testing-python-code-with-the-unittest-framework-21d8",
+  "url": "https://dev.to/saminarp/unit-testing-python-code-with-the-unittest-framework-21d8",
+  "publish_date": "2022-11-14",
+  "published_at": "2022-11-14T01:26:59Z"
+ },
+ {
   "id": 1255320,
   "title": "Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources",
   "description": "This is a collection of top rated web development resources every developer needs. Roadmaps, guides,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/bringing-perspective-to-css-1ffd",
   "publish_date": "2022-08-07",
   "published_at": "2022-08-07T05:00:46Z"
- },
- {
-  "id": 829600,
-  "title": "✨Useful Css Shorthand Properties",
-  "description": "In this post we are going to check the most useful and commonly used Css Shorthand Properties which...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IZFi8-LK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9478gaf4c9cju5vdnrzp.jpg",
-  "slug": "useful-css-shorthand-properties-2ek",
-  "url": "https://dev.to/stacksjar/useful-css-shorthand-properties-2ek",
-  "publish_date": "2022-08-06",
-  "published_at": "2022-08-06T16:05:39Z"
- },
- {
-  "id": 1160883,
-  "title": "How to Make a Responsive Admin Dashboard Using Html CSS JavaScript",
-  "description": "How to Make a Responsive Admin Dashboard Using Html CSS JavaScript  This video will show you how...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YikclNWS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eluoxa7riujoz9n3714o.png",
-  "slug": "how-to-make-a-responsive-admin-dashboard-using-html-css-javascript-47ah",
-  "url": "https://dev.to/codewithsadee/how-to-make-a-responsive-admin-dashboard-using-html-css-javascript-47ah",
-  "publish_date": "2022-08-06",
-  "published_at": "2022-08-06T13:20:43Z"
- },
- {
-  "id": 1160719,
-  "title": "HTML fallback images on error",
-  "description": "The other day I encountered some issues with images for external sources not loading.  I saved a link...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XPgduwMK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5bn4kaqoq6uks7rb5r36.jpg",
-  "slug": "html-fallback-images-on-error-1aka",
-  "url": "https://dev.to/dailydevtips1/html-fallback-images-on-error-1aka",
-  "publish_date": "2022-08-06",
-  "published_at": "2022-08-06T05:52:00Z"
- },
- {
-  "id": 1160647,
-  "title": "How to Use the Best Job Boards to Find a Software Engineering Job",
-  "description": "With so many job boards out there, it can be terribly confusing to know where to start when you're...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hoI7YSXB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7m16gtfpafym2l6h9opa.jpg",
-  "slug": "how-to-use-the-best-job-boards-to-find-a-software-engineering-job-37bd",
-  "url": "https://dev.to/bootdotdev/how-to-use-the-best-job-boards-to-find-a-software-engineering-job-37bd",
-  "publish_date": "2022-08-06",
-  "published_at": "2022-08-06T02:16:00Z"
- },
- {
-  "id": 1160432,
-  "title": "Simulating OOP in Bash",
-  "description": "Everyone knows that OOP stands for \"Object-oriented programming\". But what is in fact OOP? Is it a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--saEl4BkO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gf7gnmvocc6jz88l7x07.png",
-  "slug": "simulating-oop-in-bash-3mop",
-  "url": "https://dev.to/leandronsp/simulating-oop-in-bash-3mop",
-  "publish_date": "2022-08-06",
-  "published_at": "2022-08-06T01:30:00Z"
  }
 ]
