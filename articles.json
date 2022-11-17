@@ -1,5 +1,55 @@
 [
  {
+  "id": 1259556,
+  "title": "Django \u0026 Docker - SQLite, MySql, and PostgreSQL samples",
+  "description": "Free samples that use different combinations between Django, Docker, and DB layer: SQLite, MySql, PostgreSQL.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O9MjU5FL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a0qm7rldz9znwct186q3.jpg",
+  "slug": "django-docker-sqlite-mysql-and-postgresql-samples-2ahn",
+  "url": "https://dev.to/sm0ke/django-docker-sqlite-mysql-and-postgresql-samples-2ahn",
+  "publish_date": "2022-11-16",
+  "published_at": "2022-11-16T16:32:37Z"
+ },
+ {
+  "id": 1259283,
+  "title": ".NET Conf 2022 in a Nutshell🥜 (Key Highlights to Know)",
+  "description": "If you’re like me and didn’t have the time to follow the .NET Conf 2022 , fear not!  Microsoft has...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2BCegQ-C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gzgp86i2poedhkmmb46p.png",
+  "slug": "net-conf-2022-in-a-nutshell-key-highlights-to-know-313f",
+  "url": "https://dev.to/bytehide/net-conf-2022-in-a-nutshell-key-highlights-to-know-313f",
+  "publish_date": "2022-11-16",
+  "published_at": "2022-11-16T14:47:41Z"
+ },
+ {
+  "id": 1259261,
+  "title": "React - Best Practices",
+  "description": "While working on a React App, following these coding conventions will give you a better development...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qi8Ex7BI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0u3qwtrai8ic4x8sqiol.png",
+  "slug": "react-best-practices-ege",
+  "url": "https://dev.to/iambilalriaz/react-best-practices-ege",
+  "publish_date": "2022-11-16",
+  "published_at": "2022-11-16T13:14:05Z"
+ },
+ {
+  "id": 1258888,
+  "title": "Weekly web development resources #124",
+  "description": "Sponsored           Indie Worldwide    The friendliest online community of bootstrapped startup...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qveVZoV6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/if0w9fs7g4hk8sftjyo9.jpg",
+  "slug": "weekly-web-development-resources-124-3a9c",
+  "url": "https://dev.to/vincenius/weekly-web-development-resources-124-3a9c",
+  "publish_date": "2022-11-16",
+  "published_at": "2022-11-16T06:56:33Z"
+ },
+ {
+  "id": 1258884,
+  "title": "Find out the quality of your CSS code",
+  "description": "Last year I wrote an article about tools for auditing CSS. If you are a CSS lover, I bet you have...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MbS87AtX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdm4nxw27ligcq3j1ygq.jpg",
+  "slug": "find-out-the-quality-of-your-css-code-3f87",
+  "url": "https://dev.to/starbist/find-out-the-quality-of-your-css-code-3f87",
+  "publish_date": "2022-11-16",
+  "published_at": "2022-11-16T06:50:33Z"
+ },
+ {
   "id": 1257440,
   "title": "From PHP to JS ecommerce: Migrate from Magento and stay open source 🤩",
   "description": "If you are a fan of open source and ever been wanting to build ecommerce, you've probably been...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/khusyasy/simple-auth-system-using-jwt-59e5",
   "publish_date": "2022-08-09",
   "published_at": "2022-08-09T04:23:00Z"
- },
- {
-  "id": 1153363,
-  "title": "The JavaScript Paradox",
-  "description": "I'm not sure if there's ever been a language more loathed, yet so widely used, as JavaScript.  I'm...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MTHUOdxL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/15ynnl6l8c1s2pau96m0.jpeg",
-  "slug": "the-javascript-paradox-2njj",
-  "url": "https://dev.to/this-is-learning/the-javascript-paradox-2njj",
-  "publish_date": "2022-08-08",
-  "published_at": "2022-08-08T15:27:32Z"
- },
- {
-  "id": 1162164,
-  "title": "Meme Monday!! 🐘",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4wKH4aVl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8t48m3f1c2kcrqdr8dv3.png",
-  "slug": "meme-monday-23m",
-  "url": "https://dev.to/ben/meme-monday-23m",
-  "publish_date": "2022-08-08",
-  "published_at": "2022-08-08T15:02:29Z"
- },
- {
-  "id": 1159598,
-  "title": "Tabbing Tactfully",
-  "description": "Try your hand at HOCUS :FOCUS or spend today tabbing instead of your typical mouse navigation....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MlRjYUsv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pwnehce08112rw1dlhlo.jpg",
-  "slug": "tabbing-tactfully-2dpc",
-  "url": "https://dev.to/abbeyperini/tabbing-tactfully-2dpc",
-  "publish_date": "2022-08-08",
-  "published_at": "2022-08-08T12:34:22Z"
- },
- {
-  "id": 1162081,
-  "title": "Non-standard Flutter custom bottom navigation bar",
-  "description": "Are you tired of the usual navigation solutions in Flutter apps? I have something to show you 😎      ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5uXfiKtG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dlqk4119e9acrm6njrhf.jpeg",
-  "slug": "non-standard-flutter-custom-bottom-navigation-bar-e0c",
-  "url": "https://dev.to/frezyx/non-standard-flutter-custom-bottom-navigation-bar-e0c",
-  "publish_date": "2022-08-08",
-  "published_at": "2022-08-08T12:09:11Z"
- },
- {
-  "id": 1160985,
-  "title": "How to Google Like a Pro",
-  "description": "Search for a specific site    Put \"site:\" in front of a site or domain.  Example:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fYDSwOni--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpcvdc74jgzduk0t3ohb.png",
-  "slug": "how-to-google-like-a-pro-3m31",
-  "url": "https://dev.to/anasnmu/how-to-google-like-a-pro-3m31",
-  "publish_date": "2022-08-08",
-  "published_at": "2022-08-08T10:39:00Z"
  }
 ]
