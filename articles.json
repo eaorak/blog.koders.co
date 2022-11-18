@@ -1,5 +1,55 @@
 [
  {
+  "id": 1259595,
+  "title": "See How Others' Changes Compare To Your Own In IntelliJ",
+  "description": "Get the ultimate perspective on all the work in progress in your repository and how it compares or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gSfaxx_D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yrku2o5pkfo3jx024ip5.png",
+  "slug": "see-how-others-changes-compare-to-your-own-in-intellij-48ig",
+  "url": "https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-intellij-48ig",
+  "publish_date": "2022-11-17",
+  "published_at": "2022-11-17T16:14:25Z"
+ },
+ {
+  "id": 1260870,
+  "title": "How to set up Google Tag Manager on Shopify (+data layers)",
+  "description": "This will be your go-to guide for understanding and setting up Google Tag Manager on on Shopify. We...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AYjTbNQl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t1oddlqvu7rek61gtxbu.jpg",
+  "slug": "how-to-set-up-google-tag-manager-on-shopify-data-layers-16j5",
+  "url": "https://dev.to/ekuplu/how-to-set-up-google-tag-manager-on-shopify-data-layers-16j5",
+  "publish_date": "2022-11-17",
+  "published_at": "2022-11-17T12:47:07Z"
+ },
+ {
+  "id": 1260566,
+  "title": "Meet a new technology to display your big data volumes instantly without any waiting time!",
+  "description": "Hi, guys!  Happy to see you here and even happier to announce something new we’ve been working on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9DjKNiwl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kicp7mxu6c8e74707tmn.png",
+  "slug": "meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k",
+  "url": "https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k",
+  "publish_date": "2022-11-17",
+  "published_at": "2022-11-17T11:18:21Z"
+ },
+ {
+  "id": 1257417,
+  "title": "Build a ChatBot Using Python, Django",
+  "description": "A ChatBot has become one of the must-have features of modern-day web applications. It plays a huge...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kelwk4-8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f5itjbrap88g1rmfon7c.png",
+  "slug": "build-a-chatbot-using-python-django-46hb",
+  "url": "https://dev.to/documatic/build-a-chatbot-using-python-django-46hb",
+  "publish_date": "2022-11-17",
+  "published_at": "2022-11-17T09:00:00Z"
+ },
+ {
+  "id": 1260513,
+  "title": "Web Development JWT Practices",
+  "description": "Foreword   The previous post briefly introduced a high-performance Go HTTP framework -...",
+  "cover_image": "",
+  "slug": "web-development-jwt-practices-59cn",
+  "url": "https://dev.to/baize1998/web-development-jwt-practices-59cn",
+  "publish_date": "2022-11-17",
+  "published_at": "2022-11-17T08:42:15Z"
+ },
+ {
   "id": 1259556,
   "title": "Django \u0026 Docker - SQLite, MySql, and PostgreSQL samples",
   "description": "Free samples that use different combinations between Django, Docker, and DB layer: SQLite, MySql, PostgreSQL.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nathan20/how-to-develop-strong-problem-solving-skills-as-a-software-developer-25nb",
   "publish_date": "2022-08-10",
   "published_at": "2022-08-10T09:41:15Z"
- },
- {
-  "id": 1162775,
-  "title": "My Neovim setup for React, TypeScript, Tailwind CSS, etc",
-  "description": "Hi, it's Takuya here. As you may know, I mainly use Neovim to code my app called Inkdrop, a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4pVyS5Hv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ajh2cbj9sbq3g2sdqmli.png",
-  "slug": "my-neovim-setup-for-react-typescript-tailwind-css-etc-58fb",
-  "url": "https://dev.to/craftzdog/my-neovim-setup-for-react-typescript-tailwind-css-etc-58fb",
-  "publish_date": "2022-08-09",
-  "published_at": "2022-08-09T10:35:56Z"
- },
- {
-  "id": 1162299,
-  "title": "Getting ready for my first website: Choosing the right platform",
-  "description": "After my last article about Typescript, I've decided to move forward and start building a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6agMCMog--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/649bfpen4s3cuul5c7u9.jpg",
-  "slug": "getting-ready-for-my-first-website-choosing-the-right-platform-779",
-  "url": "https://dev.to/annabaker/getting-ready-for-my-first-website-choosing-the-right-platform-779",
-  "publish_date": "2022-08-09",
-  "published_at": "2022-08-09T10:06:00Z"
- },
- {
-  "id": 1162731,
-  "title": "How to build a real-time Auction system - Connecting Socket.io With React 🔥 (Part 2)",
-  "description": "Hi everybody and welcome back!           A small recap   Like an actual auction, if you bid for a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---YWaKvGI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vcvntqk6goh2aygwhqfs.png",
-  "slug": "how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
-  "url": "https://dev.to/novu/how-to-build-a-real-time-auction-system-connecting-socketio-with-react-20kh",
-  "publish_date": "2022-08-09",
-  "published_at": "2022-08-09T09:24:00Z"
- },
- {
-  "id": 1162329,
-  "title": "Discover the New ASP.NET Core Features in .NET 7!",
-  "description": "It is no news that Microsoft is working very hard on improving and bringing new features to the .NET...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L1f0Jb7N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j6428qnt9qfl7iq0wi4o.png",
-  "slug": "discover-the-new-aspnet-core-features-in-net-7-nkj",
-  "url": "https://dev.to/dotnetsafer/discover-the-new-aspnet-core-features-in-net-7-nkj",
-  "publish_date": "2022-08-09",
-  "published_at": "2022-08-09T06:54:46Z"
- },
- {
-  "id": 1162648,
-  "title": "Simple auth system using JWT",
-  "description": "Continuation of the last post, I will try to implement auth system by using JWT (Json Web Token) for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dYsKVZab--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbh3444ktv3ndyu16l46.png",
-  "slug": "simple-auth-system-using-jwt-59e5",
-  "url": "https://dev.to/khusyasy/simple-auth-system-using-jwt-59e5",
-  "publish_date": "2022-08-09",
-  "published_at": "2022-08-09T04:23:00Z"
  }
 ]
