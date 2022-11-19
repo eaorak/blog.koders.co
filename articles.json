@@ -1,5 +1,55 @@
 [
  {
+  "id": 1262568,
+  "title": "My experience of Modern Frontends Conference",
+  "description": "I was reached out to by Modern Frontends conference back in June this year. November is the most busy...",
+  "cover_image": "",
+  "slug": "my-experience-of-modern-frontends-conference-1cgg",
+  "url": "https://dev.to/thisisjofrank/my-experience-of-modern-frontends-conference-1cgg",
+  "publish_date": "2022-11-18",
+  "published_at": "2022-11-18T13:59:46Z"
+ },
+ {
+  "id": 1262195,
+  "title": "Data Structures In Frontend JavaScript In The Real World (With React Code Examples)",
+  "description": "Never seen a linked list in frontend JavaScript code? Me neither. But here are real-world examples of data structures Map, Set, Stack, Queue, and Tree.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sx6F0UfM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i3imlv5jz5xxokby3xtr.png",
+  "slug": "data-structures-in-frontend-javascript-in-the-real-world-with-react-code-examples-3506",
+  "url": "https://dev.to/jkettmann/data-structures-in-frontend-javascript-in-the-real-world-with-react-code-examples-3506",
+  "publish_date": "2022-11-18",
+  "published_at": "2022-11-18T12:42:15Z"
+ },
+ {
+  "id": 1262241,
+  "title": "Kubernetes Cordon: How It Works And When To Use It ",
+  "description": "Kubernetes gives you the option to administer and maintain nodes manually. Using kubectl, you can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H9JQK_Mv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryap3p5jtn36fy60dqiw.png",
+  "slug": "kubernetes-cordon-how-it-works-and-when-to-use-it-pp5",
+  "url": "https://dev.to/castai/kubernetes-cordon-how-it-works-and-when-to-use-it-pp5",
+  "publish_date": "2022-11-18",
+  "published_at": "2022-11-18T11:23:15Z"
+ },
+ {
+  "id": 1261887,
+  "title": "How to Mock an API in ONE minute",
+  "description": "Front-end developers usually meet this problem. The API is designed, but it's not been implemented...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oxrGKq-Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b0vi4n1svotnffoiw484.png",
+  "slug": "how-to-mock-an-api-in-one-minute-eip",
+  "url": "https://dev.to/ismailkamil/how-to-mock-an-api-in-one-minute-eip",
+  "publish_date": "2022-11-18",
+  "published_at": "2022-11-18T06:45:23Z"
+ },
+ {
+  "id": 1261649,
+  "title": "Making Progress: How I've learned to move towards my goals",
+  "description": "Introduction   Sometimes you have plans that you want to move towards, long term career...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9H3Wb3V_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eybatmumfrsg5oipp0m4.png",
+  "slug": "making-progress-how-ive-learned-to-move-towards-my-goals-2jnl",
+  "url": "https://dev.to/chad_r_stewart/making-progress-how-ive-learned-to-move-towards-my-goals-2jnl",
+  "publish_date": "2022-11-18",
+  "published_at": "2022-11-18T01:11:56Z"
+ },
+ {
   "id": 1259595,
   "title": "See How Others' Changes Compare To Your Own In IntelliJ",
   "description": "Get the ultimate perspective on all the work in progress in your repository and how it compares or...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sourishkrout/run-readmemd-in-your-terminal-19i",
   "publish_date": "2022-08-11",
   "published_at": "2022-08-11T02:21:00Z"
- },
- {
-  "id": 1071669,
-  "title": "The MongoDB CRUD Database Operations🍃",
-  "description": "This article explains MongoDB CRUD operations to you, the four primary database operations in any...",
-  "cover_image": "",
-  "slug": "the-mongodb-crud-database-operations-999",
-  "url": "https://dev.to/kithminiii/the-mongodb-crud-database-operations-999",
-  "publish_date": "2022-08-10",
-  "published_at": "2022-08-10T20:28:10Z"
- },
- {
-  "id": 1163724,
-  "title": "How to raise funds for an open-source company 💵",
-  "description": "I had a pleasure talking to Igor Kotua VC @ RunaCapital, a VC company that invests mainly in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cs1Ck8I3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72ztz651y1zii8qp0djz.png",
-  "slug": "how-to-get-funds-for-an-open-source-company-1996",
-  "url": "https://dev.to/novu/how-to-get-funds-for-an-open-source-company-1996",
-  "publish_date": "2022-08-10",
-  "published_at": "2022-08-10T13:22:00Z"
- },
- {
-  "id": 1141665,
-  "title": "Learn AWS (Amazon web services) for FREE😎😎 in 2022 (Updated)",
-  "description": "Hello everyone, and thank you for taking out your precious time to read this blog and investing in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wV9xzChc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/69mcm55msfsulqsubi30.png",
-  "slug": "learn-aws-amazon-web-services-for-free-in-2022-updated-4m0a",
-  "url": "https://dev.to/tanmaygi/learn-aws-amazon-web-services-for-free-in-2022-updated-4m0a",
-  "publish_date": "2022-08-10",
-  "published_at": "2022-08-10T13:10:00Z"
- },
- {
-  "id": 1163902,
-  "title": "Flutter multiplatform navigation sidebar / drawer widget",
-  "description": "SidebarX - package to create beautiful and convenient sidebar navigation widgets easy...",
-  "cover_image": "",
-  "slug": "flutter-multiplatform-navigation-sidebar-drawer-widget-4ecj",
-  "url": "https://dev.to/frezyx/flutter-multiplatform-navigation-sidebar-drawer-widget-4ecj",
-  "publish_date": "2022-08-10",
-  "published_at": "2022-08-10T11:37:00Z"
- },
- {
-  "id": 1162110,
-  "title": "How to develop strong problem solving skills as a software developer",
-  "description": "Introduction   It is generally known that problem solving is an essential skill for software...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4TmJwPkE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otql3f3y7cs13uw3dk21.png",
-  "slug": "how-to-develop-strong-problem-solving-skills-as-a-software-developer-25nb",
-  "url": "https://dev.to/nathan20/how-to-develop-strong-problem-solving-skills-as-a-software-developer-25nb",
-  "publish_date": "2022-08-10",
-  "published_at": "2022-08-10T09:41:15Z"
  }
 ]
