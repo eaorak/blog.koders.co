@@ -1,5 +1,55 @@
 [
  {
+  "id": 1264792,
+  "title": "Django Argon Theme - Now supports all Django.contrib.AUTH links",
+  "description": "Modern template for Django Admin Interface coded on top of Argon Dashboard, an open-source Boostrap 5 design from Creative-Tim - Django.contrib.AUTH links supported.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Odkwr23--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pxsc4kfup5kdttjxeql6.jpg",
+  "slug": "django-argon-theme-now-supports-all-djangocontribauth-links-1p69",
+  "url": "https://dev.to/sm0ke/django-argon-theme-now-supports-all-djangocontribauth-links-1p69",
+  "publish_date": "2022-11-20",
+  "published_at": "2022-11-20T18:47:39Z"
+ },
+ {
+  "id": 1261272,
+  "title": "Setting up a \"confidential\" GitLab🦊🔒",
+  "description": "Hey there. If you ever programmed something \"sensitive\" or, like me, are managing private meeting...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wReuNE1g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vu5sgpbwg2abfj1tylg1.png",
+  "slug": "setting-up-a-confidential-gitlab-333h",
+  "url": "https://dev.to/flxflx/setting-up-a-confidential-gitlab-333h",
+  "publish_date": "2022-11-20",
+  "published_at": "2022-11-20T11:50:06Z"
+ },
+ {
+  "id": 1264552,
+  "title": "Adapter pattern in TypeScript",
+  "description": "Introduction   The adapter pattern (also known as the Wrapper pattern) is a structural...",
+  "cover_image": "",
+  "slug": "adapter-pattern-in-typescript-2ffl",
+  "url": "https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl",
+  "publish_date": "2022-11-20",
+  "published_at": "2022-11-20T11:26:18Z"
+ },
+ {
+  "id": 1264413,
+  "title": "✨Today I Learned: The Subtle Art of Code Reviews 💡✨",
+  "description": "Code reviewing is hard. The pull requests I reviewed were for the My Photohub project.   Code...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--shDkjlcR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o7mgxrw4dvpu5zd474qu.png",
+  "slug": "today-i-learned-the-subtle-art-of-code-reviews-3pef",
+  "url": "https://dev.to/saminarp/today-i-learned-the-subtle-art-of-code-reviews-3pef",
+  "publish_date": "2022-11-20",
+  "published_at": "2022-11-20T08:14:07Z"
+ },
+ {
+  "id": 1264391,
+  "title": "Have you moved from Twitter to Mastodon for social media?",
+  "description": "I created a Mastodon account on toot.cafe back in 2017, but I only did a little with it.             ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UVOLc_dh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5i81ao7g5t81jr8i99lq.jpeg",
+  "slug": "have-you-moved-from-twitter-to-mastodon-for-social-media-4a37",
+  "url": "https://dev.to/nickytonline/have-you-moved-from-twitter-to-mastodon-for-social-media-4a37",
+  "publish_date": "2022-11-20",
+  "published_at": "2022-11-20T06:20:37Z"
+ },
+ {
   "id": 1262531,
   "title": "How to Create Dynamic Forms in React CRUD app with Ant Design",
   "description": "Author: David Omotayo           Introduction   Forms are one of the most adaptable elements in web...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l",
   "publish_date": "2022-08-13",
   "published_at": "2022-08-13T00:46:00Z"
- },
- {
-  "id": 1165851,
-  "title": "Appwrite Community Report #18",
-  "description": "Howdy people! 👋  We are back with our weekly community report, to share with you all what Appwrite...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xdwThzMH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/83gznuor9hme3f3oivz3.png",
-  "slug": "appwrite-community-report-17-1309",
-  "url": "https://dev.to/appwrite/appwrite-community-report-17-1309",
-  "publish_date": "2022-08-12",
-  "published_at": "2022-08-12T13:35:00Z"
- },
- {
-  "id": 1166027,
-  "title": "Forging GraphQL Bombs, the 2022 version of Zip Bombs",
-  "description": "GraphQL Bombs are a new and widespread vulnerability exploiting file uploads on GraphQL endpoints",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--41QYdRlH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://blog.escape.tech/content/images/size/w2000/2022/08/--Landscape---GraphQL.Security--3-.png",
-  "slug": "forging-graphql-bombs-the-2022-version-of-zip-bombs-5ak1",
-  "url": "https://dev.to/gauben/forging-graphql-bombs-the-2022-version-of-zip-bombs-5ak1",
-  "publish_date": "2022-08-12",
-  "published_at": "2022-08-12T13:16:24Z"
- },
- {
-  "id": 1165916,
-  "title": "We are trending on Github, This is how we did it 🤯",
-  "description": "We are trending on Github!   To be honest, Github has an extraordinary algorithm, and it's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wtqNKkD8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/70s2isk7z7x4hzwbgzra.png",
-  "slug": "we-are-trending-on-github-this-is-how-we-did-it-kab",
-  "url": "https://dev.to/novu/we-are-trending-on-github-this-is-how-we-did-it-kab",
-  "publish_date": "2022-08-12",
-  "published_at": "2022-08-12T12:44:00Z"
- },
- {
-  "id": 1165673,
-  "title": "Build a full stack app with create-t3-app",
-  "description": "Hey there! Today we'll be building an application with the T3 stack. We're going to building a...",
-  "cover_image": "",
-  "slug": "build-a-full-stack-app-with-create-t3-app-5e1e",
-  "url": "https://dev.to/nexxeln/build-a-full-stack-app-with-create-t3-app-5e1e",
-  "publish_date": "2022-08-12",
-  "published_at": "2022-08-12T04:27:39Z"
- },
- {
-  "id": 1165646,
-  "title": "The Console API.",
-  "description": "Know the functions of the console object that makes debugging a lot faster.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cmmDnixh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fxmuall737iok5vukwuf.jpg",
-  "slug": "the-console-api-ce8",
-  "url": "https://dev.to/chucks1093/the-console-api-ce8",
-  "publish_date": "2022-08-12",
-  "published_at": "2022-08-12T02:37:39Z"
  }
 ]
