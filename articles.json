@@ -1,5 +1,55 @@
 [
  {
+  "id": 1265664,
+  "title": "Why it’s Time to Shift Left Technical Debt",
+  "description": "Shifting left has brought massive benefits for testing, security and DevOps, but not for tech debt...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sbHnH-_8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2wfqkbuwm1z2g8aqs0mt.png",
+  "slug": "why-its-time-to-shift-left-technical-debt-1mkl",
+  "url": "https://dev.to/alexomeyer/why-its-time-to-shift-left-technical-debt-1mkl",
+  "publish_date": "2022-11-21",
+  "published_at": "2022-11-21T13:51:32Z"
+ },
+ {
+  "id": 1265295,
+  "title": "Winston Logger - Full tutorial with a sample Nodejs application",
+  "description": "Winston Logger is one of the most popular logging libraries for Node.js. It is designed to be a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7Xy3waH6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/df0a7buwf8hqnayo2qvm.png",
+  "slug": "winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9",
+  "url": "https://dev.to/signoz/winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9",
+  "publish_date": "2022-11-21",
+  "published_at": "2022-11-21T12:00:00Z"
+ },
+ {
+  "id": 1265574,
+  "title": "All About Shopify Analytics",
+  "description": "You always have a ton of questions as a Shopify merchant, don’t you? It’s no surprise that most of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XPIr8qI8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sq4n9dzg22hp09hpwxy8.png",
+  "slug": "all-about-shopify-analytics-3oe4",
+  "url": "https://dev.to/gloriamaldonado/all-about-shopify-analytics-3oe4",
+  "publish_date": "2022-11-21",
+  "published_at": "2022-11-21T11:00:21Z"
+ },
+ {
+  "id": 1265296,
+  "title": "10 FREE SVG Icon Libraries For Front-End Developers",
+  "description": "Ionicons: The premium icon pack for Ionic Framework. Ionicons is an open-sourced and MIT-licensed...",
+  "cover_image": "",
+  "slug": "10-free-svg-icon-libraries-for-front-end-developers-3lgf",
+  "url": "https://dev.to/tarunmankar/10-free-svg-icon-libraries-for-front-end-developers-3lgf",
+  "publish_date": "2022-11-21",
+  "published_at": "2022-11-21T07:57:57Z"
+ },
+ {
+  "id": 1265108,
+  "title": "Writing Your First Conference Proposal",
+  "description": "Maybe you’ve been thinking about speaking at a conference, but you’re nervous. Hopefully, this blog post will help you discover an idea and/or overcome the fear of submitting. ",
+  "cover_image": "",
+  "slug": "writing-your-first-conference-proposal-4jei",
+  "url": "https://dev.to/bekahhw/writing-your-first-conference-proposal-4jei",
+  "publish_date": "2022-11-21",
+  "published_at": "2022-11-21T01:07:00Z"
+ },
+ {
   "id": 1264792,
   "title": "Django Argon Theme - Now supports all Django.contrib.AUTH links",
   "description": "Modern template for Django Admin Interface coded on top of Argon Dashboard, an open-source Boostrap 5 design from Creative-Tim - Django.contrib.AUTH links supported.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
   "publish_date": "2022-08-14",
   "published_at": "2022-08-14T04:03:12Z"
- },
- {
-  "id": 1166625,
-  "title": "How to Build Creative eCommerce Website Using HTML CSS JavaScript",
-  "description": "How to Build Creative eCommerce Website Using HTML CSS JavaScript  This video will show you how...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xA2WxPQm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfffjfkdccqwn9lh5c77.png",
-  "slug": "how-to-build-creative-ecommerce-website-using-html-css-javascript-1mn3",
-  "url": "https://dev.to/codewithsadee/how-to-build-creative-ecommerce-website-using-html-css-javascript-1mn3",
-  "publish_date": "2022-08-13",
-  "published_at": "2022-08-13T12:49:32Z"
- },
- {
-  "id": 1156416,
-  "title": "Care about your code, like an artist about their painting",
-  "description": "Hey there 👋 I'm back with another little rant!  The other day I was thinking about what makes good...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KTV2nDbN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4klr9il42y9enggtzk8f.png",
-  "slug": "caring-is-one-key-point-to-good-code-3g1o",
-  "url": "https://dev.to/nombrekeff/caring-is-one-key-point-to-good-code-3g1o",
-  "publish_date": "2022-08-13",
-  "published_at": "2022-08-13T09:35:00Z"
- },
- {
-  "id": 1166479,
-  "title": "CSS Icon: Google Pay",
-  "description": "I will create the Google Pay icon in this article using CSS only. Let's look at how we do that.      ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SHZljtcP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9lx5tc8xdn0hdbxeohm.png",
-  "slug": "css-icon-google-pay-ni5",
-  "url": "https://dev.to/j471n/css-icon-google-pay-ni5",
-  "publish_date": "2022-08-13",
-  "published_at": "2022-08-13T07:19:00Z"
- },
- {
-  "id": 1166018,
-  "title": "Drag and Drop Kanban Board with React TypeScript",
-  "description": "Demo (TLDR)   This is the source code and the Kanban board that we will be building.        ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rJsVksXS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfxw2waeua0yhmmjfxme.png",
-  "slug": "drag-and-drop-kanban-board-with-react-typescript-2b34",
-  "url": "https://dev.to/luazhizhan/drag-and-drop-kanban-board-with-react-typescript-2b34",
-  "publish_date": "2022-08-13",
-  "published_at": "2022-08-13T02:30:19Z"
- },
- {
-  "id": 1166389,
-  "title": "Full ES2022 Cheatsheet!",
-  "description": "PDF version here(High Quality):...",
-  "cover_image": "",
-  "slug": "full-es2022-cheatsheet-4m9l",
-  "url": "https://dev.to/omardulaimi/full-es2022-cheatsheet-4m9l",
-  "publish_date": "2022-08-13",
-  "published_at": "2022-08-13T00:46:00Z"
  }
 ]
