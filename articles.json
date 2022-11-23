@@ -1,5 +1,55 @@
 [
  {
+  "id": 1267289,
+  "title": "Meme... Tuesday? 🤔",
+  "description": "This week's post is coming in a day late, sorry to everyone who showed up yesterday expecting the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c8VJauZi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/au6yj5h0jsvdzoj4dzv9.png",
+  "slug": "meme-tuesday-359j",
+  "url": "https://dev.to/ben/meme-tuesday-359j",
+  "publish_date": "2022-11-22",
+  "published_at": "2022-11-22T13:30:01Z"
+ },
+ {
+  "id": 1262190,
+  "title": "How to choose the right API Gateway",
+  "description": "Nowadays an API Gateway is an essential component in designing a distributed system’s architecture...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1iXu2fTn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n145sc253dzlvgedbaer.png",
+  "slug": "how-to-choose-the-right-api-gateway-3f9i",
+  "url": "https://dev.to/apisix/how-to-choose-the-right-api-gateway-3f9i",
+  "publish_date": "2022-11-22",
+  "published_at": "2022-11-22T12:59:03Z"
+ },
+ {
+  "id": 1252533,
+  "title": "Multithreading in the DOM in JavaScript",
+  "description": "JavaScript is a single-threaded language, which means only one script can be run at a time. Working...",
+  "cover_image": "",
+  "slug": "multithreading-in-the-dom-in-javascript-48mg",
+  "url": "https://dev.to/one-beyond/multithreading-in-the-dom-in-javascript-48mg",
+  "publish_date": "2022-11-22",
+  "published_at": "2022-11-22T12:29:17Z"
+ },
+ {
+  "id": 1266000,
+  "title": "Senior C# Developer Shows 5 Tips To Master Your C# Level",
+  "description": "What if I told you that 5 easy tips from a senior C# developer can make you an better coder? Would...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mrna4kGK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpijo97p3o6qy2dx0m4z.png",
+  "slug": "senior-c-developer-shows-how-to-master-your-c-level-1a0p",
+  "url": "https://dev.to/bytehide/senior-c-developer-shows-how-to-master-your-c-level-1a0p",
+  "publish_date": "2022-11-22",
+  "published_at": "2022-11-22T08:44:00Z"
+ },
+ {
+  "id": 1266577,
+  "title": "What I would like to do after reading The Pragmatic Programmer",
+  "description": "I joined a book club and finished reading The Pragmatic Programmer which is a famous book that I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l18FLTWv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5bday5q9ohm9q3lmmi8h.jpg",
+  "slug": "what-i-would-like-to-do-after-reading-the-pragmatic-programmer-3k21",
+  "url": "https://dev.to/junyaishibuchi/what-i-would-like-to-do-after-reading-the-pragmatic-programmer-3k21",
+  "publish_date": "2022-11-22",
+  "published_at": "2022-11-22T02:36:33Z"
+ },
+ {
   "id": 1265664,
   "title": "Why it’s Time to Shift Left Technical Debt",
   "description": "Shifting left has brought massive benefits for testing, security and DevOps, but not for tech debt...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pramit_marattha/top-9-ways-to-become-a-successful-self-taught-developer-48cm",
   "publish_date": "2022-08-15",
   "published_at": "2022-08-15T06:57:29Z"
- },
- {
-  "id": 1167265,
-  "title": "React Hooks: useThrottledValue and useThrottledFunction",
-  "description": "This article explains the new React 18 hooks useDeferredValue and useTransition and compares them to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p2Y9lCqY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vulhv6ixe5ngfcbxtpe0.png",
-  "slug": "react-hooks-usethrottledvalue-and-usethrottledfunction-1j2n",
-  "url": "https://dev.to/perssondennis/react-hooks-usethrottledvalue-and-usethrottledfunction-1j2n",
-  "publish_date": "2022-08-14",
-  "published_at": "2022-08-14T14:25:06Z"
- },
- {
-  "id": 1167085,
-  "title": "Browser extensions - adding Tailwind CSS",
-  "description": "Yesterday we made our very first new tab browser extension. However, it was solely powered by plain...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5ptKZy7v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/43p5lkahdypckbcczlfq.jpg",
-  "slug": "browser-extensions-adding-tailwind-css-20e9",
-  "url": "https://dev.to/dailydevtips1/browser-extensions-adding-tailwind-css-20e9",
-  "publish_date": "2022-08-14",
-  "published_at": "2022-08-14T08:17:08Z"
- },
- {
-  "id": 1167036,
-  "title": "Lada is better than Ferrari",
-  "description": "Lada was the laughing joke of the 20th Century. It was a true communist manufactured car,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fq8yQsG4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y78s0p6h11icekypmswl.jpeg",
-  "slug": "lada-is-better-than-ferrari-h9a",
-  "url": "https://dev.to/polterguy/lada-is-better-than-ferrari-h9a",
-  "publish_date": "2022-08-14",
-  "published_at": "2022-08-14T07:04:37Z"
- },
- {
-  "id": 1167021,
-  "title": "Dark and Light Theme Toggler + YT Channel",
-  "description": "In this Article, I'll tell you how to create a DARK and LIGHT THEME TOGGLER with Pure HTML,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yt9BZSoa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xits1lgbl2wmo9nothc3.jpeg",
-  "slug": "dark-and-light-theme-toggler-yt-channel-4ikh",
-  "url": "https://dev.to/arjuncodess/dark-and-light-theme-toggler-yt-channel-4ikh",
-  "publish_date": "2022-08-14",
-  "published_at": "2022-08-14T05:31:00Z"
- },
- {
-  "id": 1166947,
-  "title": "The Regular Expression (RegEx) Cheat Sheet you always wanted",
-  "description": "I get it even though Regex is incredibly useful, it is extremely hard to master! This is a cheat...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--roCkytHq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zf9abzi2zdrs4jdrq6jq.jpg",
-  "slug": "the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
-  "url": "https://dev.to/ruppysuppy/the-regular-expression-regex-cheat-sheet-you-always-wanted-1c8h",
-  "publish_date": "2022-08-14",
-  "published_at": "2022-08-14T04:03:12Z"
  }
 ]
