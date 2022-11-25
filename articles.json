@@ -1,5 +1,55 @@
 [
  {
+  "id": 1270886,
+  "title": "Big Thanks to All Our Mods! 🙌",
+  "description": "Heyo folks!  It's US Thanksgiving today and a company holiday here at Forem (the folks behind DEV...",
+  "cover_image": "",
+  "slug": "big-thanks-to-all-our-mods-4jl",
+  "url": "https://dev.to/devteam/big-thanks-to-all-our-mods-4jl",
+  "publish_date": "2022-11-24",
+  "published_at": "2022-11-24T16:02:04Z"
+ },
+ {
+  "id": 1270817,
+  "title": "36 Questions to Ask Your Future Software Employer",
+  "description": "Congrats on nailing that interview! You’ve prepared hard and aced all the questions. You can relax...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4eP2uLC---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2es5bcx6p08c6zj6smd.jpg",
+  "slug": "36-questions-to-ask-your-future-software-employer-552g",
+  "url": "https://dev.to/semaphore/36-questions-to-ask-your-future-software-employer-552g",
+  "publish_date": "2022-11-24",
+  "published_at": "2022-11-24T14:18:51Z"
+ },
+ {
+  "id": 1269737,
+  "title": "15,000 GH stars in a year: how we did it 🤩",
+  "description": "It has only been a bit more than a year since we decided to raise funding in the quest of building...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3o6RfPwk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0nzp3j5eyzh8blwro3td.jpg",
+  "slug": "15000-gh-stars-in-a-year-how-we-did-it-4b0h",
+  "url": "https://dev.to/medusajs/15000-gh-stars-in-a-year-how-we-did-it-4b0h",
+  "publish_date": "2022-11-24",
+  "published_at": "2022-11-24T08:35:06Z"
+ },
+ {
+  "id": 1269499,
+  "title": "Supercharge Rust APIs with Serverless Functions",
+  "description": "Learn how to use Serverless Functions to build a user management API in Rust using Netlify, Xata, and Cloudinary.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PvI1RK3O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9g4iwkd7oi3axz8usz3c.png",
+  "slug": "supercharge-rust-apis-with-serverless-functions-bb2",
+  "url": "https://dev.to/hackmamba/supercharge-rust-apis-with-serverless-functions-bb2",
+  "publish_date": "2022-11-24",
+  "published_at": "2022-11-24T07:32:17Z"
+ },
+ {
+  "id": 1270072,
+  "title": "5 GitHub Repositories every Developer should know",
+  "description": "GitHub is one of the most popular resources for developers to share code and work on projects...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TILcvEc4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88ktej74lwkx9s428xtf.jpg",
+  "slug": "5-github-repositories-every-developer-should-know-1p93",
+  "url": "https://dev.to/wizdomtek/5-github-repositories-every-developer-should-know-1p93",
+  "publish_date": "2022-11-24",
+  "published_at": "2022-11-24T06:33:10Z"
+ },
+ {
   "id": 1269442,
   "title": "a first look at solidstart",
   "description": "SolidStart is a project starter and metaframework for SolidJS that provides a first-class way to build and deploy SolidJS applications.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/j471n/windows-commands-cheatsheet-you-needed-4191",
   "publish_date": "2022-08-17",
   "published_at": "2022-08-17T02:35:06Z"
- },
- {
-  "id": 1168888,
-  "title": "My developer workflow using WSL, tmux and Neovim",
-  "description": "Hi! Today I'm gonna talk about my daily developer workflow and all the tools I use to set up a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mcK3eBfB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ue2ce6py0dpz3m4pdd5k.png",
-  "slug": "my-developer-workflow-using-wsl-tmux-and-neovim-55f5",
-  "url": "https://dev.to/nexxeln/my-developer-workflow-using-wsl-tmux-and-neovim-55f5",
-  "publish_date": "2022-08-16",
-  "published_at": "2022-08-16T15:53:54Z"
- },
- {
-  "id": 1168697,
-  "title": "Digital Agency Website Using HTML CSS JavaScript",
-  "description": "How to Build Digital Agency Website Using HTML CSS JavaScript  This video will show you how to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mkXdCkef--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0vw9fekwu8rf26x5ryml.png",
-  "slug": "digital-agency-website-using-html-css-javascript-1b2a",
-  "url": "https://dev.to/codewithsadee/digital-agency-website-using-html-css-javascript-1b2a",
-  "publish_date": "2022-08-16",
-  "published_at": "2022-08-16T13:06:41Z"
- },
- {
-  "id": 1168084,
-  "title": "System Design: The complete course",
-  "description": "Hey, welcome to the course. I hope this course provides a great learning experience!  This course is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FVVs4IN4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qzeqc0h179rx49rn7hqm.png",
-  "slug": "system-design-the-complete-course-10fo",
-  "url": "https://dev.to/karanpratapsingh/system-design-the-complete-course-10fo",
-  "publish_date": "2022-08-16",
-  "published_at": "2022-08-16T10:44:24Z"
- },
- {
-  "id": 1168435,
-  "title": "20+Crazy Useful Google Chrome Extensions You Should Be Using",
-  "description": "1. StayFocusd   StayFocusd increases your productivity by limiting the amount of time that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pNV3_F-Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mor5udn5ufg5u5tbuni.gif",
-  "slug": "20-crazy-useful-google-extensions-you-should-be-using-5bpe",
-  "url": "https://dev.to/hr21don/20-crazy-useful-google-extensions-you-should-be-using-5bpe",
-  "publish_date": "2022-08-16",
-  "published_at": "2022-08-16T09:07:00Z"
- },
- {
-  "id": 1165889,
-  "title": "Appwrite Announces Loot V2",
-  "description": "Do you love swags as much as we do? The Loot V2 is the perfect opportunity for you to get your hands...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jjie05t9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ah3o96m0nyaf9b6d3jcs.png",
-  "slug": "appwrite-announces-loot-v2-3ee1",
-  "url": "https://dev.to/appwrite/appwrite-announces-loot-v2-3ee1",
-  "publish_date": "2022-08-16",
-  "published_at": "2022-08-16T06:47:18Z"
  }
 ]
