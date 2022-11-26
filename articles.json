@@ -1,5 +1,55 @@
 [
  {
+  "id": 1272474,
+  "title": "What was your win this week?",
+  "description": "Heyo! 👋  Hope y'all all are having a fantastic Friday and that you enjoy your weekends!  Looking back...",
+  "cover_image": "",
+  "slug": "what-was-your-win-this-week-2b5e",
+  "url": "https://dev.to/michaeltharrington/what-was-your-win-this-week-2b5e",
+  "publish_date": "2022-11-25",
+  "published_at": "2022-11-25T14:35:30Z"
+ },
+ {
+  "id": 1265924,
+  "title": "My React Native Journey",
+  "description": "Hi there, My name is Darshan. I work as a Full Stack Engineer and today I want to share my journey...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mwaa1YEg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/amjf1k1gsdl070xdjp1x.png",
+  "slug": "my-react-native-experience-2pcm",
+  "url": "https://dev.to/ponikar/my-react-native-experience-2pcm",
+  "publish_date": "2022-11-25",
+  "published_at": "2022-11-25T11:10:33Z"
+ },
+ {
+  "id": 1271783,
+  "title": "Redis Distributed Caching",
+  "description": "Cache nima?   Dastur ma'lumotni bir necha usulda saqlaydi. Hajmi katta va kamdan-kam...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--id0dsYNs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8jeafq9nb61qipaxz8a.png",
+  "slug": "redis-distributed-caching-1m71",
+  "url": "https://dev.to/wahidd/redis-distributed-caching-1m71",
+  "publish_date": "2022-11-25",
+  "published_at": "2022-11-25T05:55:55Z"
+ },
+ {
+  "id": 1271543,
+  "title": "Create an Observable Object using Proxy",
+  "description": "Have you ever needed to \"observe\" an object for changes? If you have ever used Vuejs or React, this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vKl6fa2T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pa9stzltpvimmx8bsmm3.png",
+  "slug": "create-an-observable-object-using-proxy-3h62",
+  "url": "https://dev.to/dperrymorrow/create-an-observable-object-using-proxy-3h62",
+  "publish_date": "2022-11-25",
+  "published_at": "2022-11-25T02:53:46Z"
+ },
+ {
+  "id": 1271540,
+  "title": "How to Become a Perfect Automation Tester || (Do This)",
+  "description": "What Is Required to Become a Perfect Automation Tester? Do you believe that Perfect Automation Tester...",
+  "cover_image": "",
+  "slug": "how-to-become-a-perfect-automation-tester-do-this-30p8",
+  "url": "https://dev.to/promode/how-to-become-a-perfect-automation-tester-do-this-30p8",
+  "publish_date": "2022-11-25",
+  "published_at": "2022-11-25T02:46:05Z"
+ },
+ {
   "id": 1270886,
   "title": "Big Thanks to All Our Mods! 🙌",
   "description": "Heyo folks!  It's US Thanksgiving today and a company holiday here at Forem (the folks behind DEV...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/timhub/how-to-give-feedback-and-receive-feedback-3g27",
   "publish_date": "2022-08-18",
   "published_at": "2022-08-18T06:37:16Z"
- },
- {
-  "id": 1169671,
-  "title": "14 Killer Web Applications to Boost Your Productivity 🚀💯",
-  "description": "In this article, I've compiled some of the most useful web apps that you can use to increase your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7pNgVWoI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jhhasvo92nkd0sltyt85.png",
-  "slug": "14-killer-web-applications-to-boost-your-productivity-5ah1",
-  "url": "https://dev.to/madza/14-killer-web-applications-to-boost-your-productivity-5ah1",
-  "publish_date": "2022-08-17",
-  "published_at": "2022-08-17T15:11:19Z"
- },
- {
-  "id": 1169639,
-  "title": "Nextjs image optimization with examples",
-  "description": "Introduction   Images are a significant part of modern-day web application development....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--un_HciKe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d832qaiy8z2ez9hwnrix.png",
-  "slug": "nextjs-image-optimization-with-examples-1g73",
-  "url": "https://dev.to/pankod/nextjs-image-optimization-with-examples-1g73",
-  "publish_date": "2022-08-17",
-  "published_at": "2022-08-17T13:44:00Z"
- },
- {
-  "id": 1169597,
-  "title": "How to break into tech",
-  "description": "I landed my first dev job after about a year of self-directed study. These are the lessons I learned.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RAOH0nbt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1629640737864-d4a36ea05784%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D3540%26q%3D80",
-  "slug": "how-to-break-into-tech-5d4d",
-  "url": "https://dev.to/arielbk/how-to-break-into-tech-5d4d",
-  "publish_date": "2022-08-17",
-  "published_at": "2022-08-17T12:31:40Z"
- },
- {
-  "id": 1168667,
-  "title": "The Benefits of Using AWS S3 for Storage",
-  "description": "Why use AWS S3 for storage?   There are many reasons to use AWS S3 for storage. First, S3 is...",
-  "cover_image": "",
-  "slug": "the-benefits-of-using-aws-s3-for-storage-ig8",
-  "url": "https://dev.to/blst-security/the-benefits-of-using-aws-s3-for-storage-ig8",
-  "publish_date": "2022-08-17",
-  "published_at": "2022-08-17T08:38:00Z"
- },
- {
-  "id": 1168954,
-  "title": "Windows Commands CheatSheet you needed",
-  "description": "This is the Cheat Sheet of Windows Commands. It gives you all the commands and a short description...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qiOaXWf0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pwouinnnmk8yhnxrx8kv.png",
-  "slug": "windows-commands-cheatsheet-you-needed-4191",
-  "url": "https://dev.to/j471n/windows-commands-cheatsheet-you-needed-4191",
-  "publish_date": "2022-08-17",
-  "published_at": "2022-08-17T02:35:06Z"
  }
 ]
