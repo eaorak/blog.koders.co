@@ -1,5 +1,55 @@
 [
  {
+  "id": 1274686,
+  "title": "Create a package-based Monorepo with Nx",
+  "description": "What is a Monorepo?   A Monorepo or Monorepository is a code management and architectural...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g4ygvfp4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5v8xgqbosm8wcnrt5s17.png",
+  "slug": "create-a-package-based-monorepo-with-nx-3990",
+  "url": "https://dev.to/leduc1901/create-a-package-based-monorepo-with-nx-3990",
+  "publish_date": "2022-11-27",
+  "published_at": "2022-11-27T16:33:46Z"
+ },
+ {
+  "id": 1274517,
+  "title": "6 Use Cases for Regex in Your Daily Work",
+  "description": "In This Article    What Is Regex? Regexes in a Nutshell  When Is Regex Used?   Searching...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FEZ2C9hh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e7kpi8ni3ze3amcipyae.png",
+  "slug": "6-use-cases-for-regex-in-your-daily-work-508b",
+  "url": "https://dev.to/perssondennis/6-use-cases-for-regex-in-your-daily-work-508b",
+  "publish_date": "2022-11-27",
+  "published_at": "2022-11-27T15:32:00Z"
+ },
+ {
+  "id": 1274535,
+  "title": "Why I love Mastodon",
+  "description": "I quit Twitter at the end of 2020, and haven't really used social media at all since then. So when I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ekTbVfAT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/glv9szvfncajun5msp56.png",
+  "slug": "why-i-love-mastodon-4fom",
+  "url": "https://dev.to/jesseskinner/why-i-love-mastodon-4fom",
+  "publish_date": "2022-11-27",
+  "published_at": "2022-11-27T14:52:00Z"
+ },
+ {
+  "id": 1274290,
+  "title": "How to Delete Local and Remote Git Branches",
+  "description": "Author: Muhammad Khabbab           Introduction   Branches are kind of blocks in a repository where...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--svwBLIWk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsyp271zmtb5wv6p383s.png",
+  "slug": "how-to-delete-local-and-remote-git-branches-311f",
+  "url": "https://dev.to/refine/how-to-delete-local-and-remote-git-branches-311f",
+  "publish_date": "2022-11-27",
+  "published_at": "2022-11-27T08:14:10Z"
+ },
+ {
+  "id": 1274284,
+  "title": "7 Developer Portfolio for inspiration",
+  "description": "Coming up with original ideas for your portfolio can be a challenge. Here are some ideas to draw...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lXAGg4N6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x94d29a9glhgpupakzn2.png",
+  "slug": "7-developer-portfolio-for-inspiration-4no7",
+  "url": "https://dev.to/ruppysuppy/7-developer-portfolio-for-inspiration-4no7",
+  "publish_date": "2022-11-27",
+  "published_at": "2022-11-27T06:44:00Z"
+ },
+ {
   "id": 1274001,
   "title": "Planning And Tracking Projects With GitHub's Projects Tool",
   "description": "Hello Fellow Codenewbies 👋,  A while ago, I wrote an article called How To Use GitHub For Project...",
@@ -20,22 +70,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/thunderstroke/60-days-of-data-science-and-machine-learning-57p9",
   "publish_date": "2022-08-20",
   "published_at": "2022-08-20T05:28:00Z"
- },
- {
-  "id": 1171385,
-  "title": "Share your GitHub Profile and Let's all connect",
-  "description": "Let's all connect on GitHub by sharing our Profiles!! Link your Profile down below, I am interested...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ULF3pZIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u068vok7pm5t5qd12st8.png",
-  "slug": "share-your-github-profile-and-lets-all-connect-1753",
-  "url": "https://dev.to/sadeedpv/share-your-github-profile-and-lets-all-connect-1753",
-  "publish_date": "2022-08-19",
-  "published_at": "2022-08-19T13:09:50Z"
- },
- {
-  "id": 1162044,
-  "title": "How to use Axios with React",
-  "description": "Introduction   Axios is a promise-based HTTP Client for node.js and the browser. Thus, it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lWPusSSz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hswb76igo12awq1bz5u.png",
-  "slug": "how-to-use-axios-with-react-5fom",
-  "url": "https://dev.to/femi_dev/how-to-use-axios-with-react-5fom",
-  "publish_date": "2022-08-19",
-  "published_at": "2022-08-19T09:36:07Z"
- },
- {
-  "id": 1171176,
-  "title": "Temporal API - A new approach to managing Date and Time in JS",
-  "description": "Introduction   Date object is the least-fun thing and a long-standing pain point in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iA4_QG5s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncsv3k5g4w0aooexi8uj.jpeg",
-  "slug": "temporal-api-a-new-approach-to-managing-date-and-time-in-js-1fn1",
-  "url": "https://dev.to/refine/temporal-api-a-new-approach-to-managing-date-and-time-in-js-1fn1",
-  "publish_date": "2022-08-19",
-  "published_at": "2022-08-19T09:23:43Z"
- },
- {
-  "id": 1170146,
-  "title": "Create a new React app with Vite",
-  "description": "Although every React app is unique, they all start from the same place:   You need an index.js,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R6atjjJg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r7oo9vomncp2qkysstf.png",
-  "slug": "create-a-new-react-app-with-vite-2eja",
-  "url": "https://dev.to/asheeshh/create-a-new-react-app-with-vite-2eja",
-  "publish_date": "2022-08-19",
-  "published_at": "2022-08-19T02:50:10Z"
- },
- {
-  "id": 1170962,
-  "title": "Como eu faço para perceber a minha evolução?",
-  "description": "A questão da insegurança   Por muito tempo na minha vida, a insegurança foi um grande...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JvnGNt2t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ywl2fhc8fneyezhv6grf.png",
-  "slug": "como-eu-faco-para-perceber-a-minha-evolucao-cob",
-  "url": "https://dev.to/feministech/como-eu-faco-para-perceber-a-minha-evolucao-cob",
-  "publish_date": "2022-08-19",
-  "published_at": "2022-08-19T01:37:00Z"
  }
 ]
