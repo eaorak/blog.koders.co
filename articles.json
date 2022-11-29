@@ -1,5 +1,55 @@
 [
  {
+  "id": 1266918,
+  "title": "Why your GitHub profile should stand out?",
+  "description": "Last week I hosted a Twitter Space 🎙️ where I got to interact with amazing speakers on GitHub...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qG6qpCAu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6gzxkbcpzh1c1aj0l88p.png",
+  "slug": "why-your-github-profile-should-stand-out-20p3",
+  "url": "https://dev.to/shubhicodes/why-your-github-profile-should-stand-out-20p3",
+  "publish_date": "2022-11-28",
+  "published_at": "2022-11-28T15:23:26Z"
+ },
+ {
+  "id": 1275740,
+  "title": "Advanced web font optimization techniques",
+  "description": "Website developers have been using custom fonts for ages. Since custom fonts are not present in the...",
+  "cover_image": "",
+  "slug": "advanced-web-font-optimization-techniques-2n1f",
+  "url": "https://dev.to/alex_barashkov/advanced-web-font-optimization-techniques-2n1f",
+  "publish_date": "2022-11-28",
+  "published_at": "2022-11-28T15:21:29Z"
+ },
+ {
+  "id": 1272238,
+  "title": "The illusion of speed – why perceived performance matters",
+  "description": "Time is relative.  We have all heard this expression a million times before. Many years ago, some...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XaY2Kx4m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/56co33z7wztpttol09rm.jpg",
+  "slug": "the-illusion-of-speed-why-perceived-performance-matters-f38",
+  "url": "https://dev.to/enterspeed/the-illusion-of-speed-why-perceived-performance-matters-f38",
+  "publish_date": "2022-11-28",
+  "published_at": "2022-11-28T07:50:59Z"
+ },
+ {
+  "id": 1265577,
+  "title": "Using Terraform To Manage Infrastructure Resources",
+  "description": "DevOps has come a long way, and every organization wants to embrace it. With DevOps becoming...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LpsdOsTr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n76vk467e4h58km7l9eq.png",
+  "slug": "using-terraform-to-manage-infrastructure-resources-32da",
+  "url": "https://dev.to/pavanbelagatti/using-terraform-to-manage-infrastructure-resources-32da",
+  "publish_date": "2022-11-28",
+  "published_at": "2022-11-28T04:35:18Z"
+ },
+ {
+  "id": 1274994,
+  "title": "The 38 Books Recommended to Me in the Past Few Months",
+  "description": "These are the 38 books I was recommended to me in the past few months. These are books I have not read yet. This is not a ranking list. Just the title \u0026 description. If it's not listed, I may have read it already. ",
+  "cover_image": "",
+  "slug": "the-38-books-recommended-to-me-in-the-past-few-months-1d35",
+  "url": "https://dev.to/rockykev/the-38-books-recommended-to-me-in-the-past-few-months-1d35",
+  "publish_date": "2022-11-28",
+  "published_at": "2022-11-28T02:39:14Z"
+ },
+ {
   "id": 1274686,
   "title": "Create a package-based Monorepo with Nx",
   "description": "What is a Monorepo?   A Monorepo or Monorepository is a code management and architectural...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ioanat94/dos-and-donts-of-creating-your-portfolio-website-2h4p",
   "publish_date": "2022-08-21",
   "published_at": "2022-08-21T05:43:00Z"
- },
- {
-  "id": 1170796,
-  "title": "A Arquitetura simples",
-  "description": "Um relato dos meus últimos 8 anos construindo sistemas para grandes empresas.",
-  "cover_image": "",
-  "slug": "a-arquitetura-simples-lb",
-  "url": "https://dev.to/hugaomarques/a-arquitetura-simples-lb",
-  "publish_date": "2022-08-20",
-  "published_at": "2022-08-20T18:59:15Z"
- },
- {
-  "id": 1172111,
-  "title": "Neumorphism with CSS - A new design trend",
-  "description": "Introduction   Many developers are still unaware of some design trends even after practicing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vNQACE6r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vl8x8q4qdmvdtwpggs6a.jpeg",
-  "slug": "neumorphism-with-css-a-new-design-trend-2ng5",
-  "url": "https://dev.to/refine/neumorphism-with-css-a-new-design-trend-2ng5",
-  "publish_date": "2022-08-20",
-  "published_at": "2022-08-20T13:54:12Z"
- },
- {
-  "id": 1171900,
-  "title": "📦 Bundle Node.js into single executable binary",
-  "description": "Node.js 🐢, the asynchronous event-driven JavaScript runtime, has unparalleled support for file-system...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9RH4gRls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n0s1knp6cmtwsqf8orea.png",
-  "slug": "bundling-nodejs-into-single-executable-binary-l3g",
-  "url": "https://dev.to/midnqp/bundling-nodejs-into-single-executable-binary-l3g",
-  "publish_date": "2022-08-20",
-  "published_at": "2022-08-20T12:13:00Z"
- },
- {
-  "id": 1068442,
-  "title": "How I discovered an ideal stack for mastering HTML and CSS - Vue without build",
-  "description": "Disclaimer: this is not a pure tech article, with detailed manual. It is a story about:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--teR-yPVi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjr2qtxg507fmvkeslt0.png",
-  "slug": "how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46",
-  "url": "https://dev.to/apayrus/how-i-discovered-an-ideal-stack-for-small-funny-web-projects-vue-without-build-3i46",
-  "publish_date": "2022-08-20",
-  "published_at": "2022-08-20T08:06:00Z"
- },
- {
-  "id": 1171877,
-  "title": "60 Days of Data Science and Machine Learning",
-  "description": "Hello, everyone.  Following are first 2 weeks of this series. You can find them on my github...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rbogM7wu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c0cvi1dq0f7guvsai9iv.jpeg",
-  "slug": "60-days-of-data-science-and-machine-learning-57p9",
-  "url": "https://dev.to/thunderstroke/60-days-of-data-science-and-machine-learning-57p9",
-  "publish_date": "2022-08-20",
-  "published_at": "2022-08-20T05:28:00Z"
  }
 ]
