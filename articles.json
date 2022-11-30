@@ -1,5 +1,55 @@
 [
  {
+  "id": 1277365,
+  "title": "Kubernetes Labels: Expert Guide with 10 Best Practices",
+  "description": "With Kubernetes labels, DevOps teams can troubleshoot issues faster, apply configuration changes en...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9C3PGvA1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9cxrbkcrq4ls5a0mqfkb.png",
+  "slug": "kubernetes-labels-expert-guide-with-10-best-practices-3l03",
+  "url": "https://dev.to/castai/kubernetes-labels-expert-guide-with-10-best-practices-3l03",
+  "publish_date": "2022-11-29",
+  "published_at": "2022-11-29T17:21:14Z"
+ },
+ {
+  "id": 1276309,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-23oi",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-23oi",
+  "publish_date": "2022-11-29",
+  "published_at": "2022-11-29T14:48:50Z"
+ },
+ {
+  "id": 1276920,
+  "title": "7 Supportive Tech Communities You Want To Be Part Of",
+  "description": "Hello Friends 👋,  If you just found this blog, let me introduce myself. I'm Ayu, a self-taught...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kxX87Mmc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rplmlyxi7kx8ri2ca08q.png",
+  "slug": "7-supportive-tech-communities-you-want-to-be-part-of-37ik",
+  "url": "https://dev.to/adiatiayu/7-supportive-tech-communities-you-want-to-be-part-of-37ik",
+  "publish_date": "2022-11-29",
+  "published_at": "2022-11-29T10:54:32Z"
+ },
+ {
+  "id": 1276861,
+  "title": "React Soft Dashboard - FullStack \u0026 Live Deploy",
+  "description": "This open-source React Starter has been updated to the latest UI Version from Creative-Tim. Starting with this version, the product can be deployed using Drag \u0026 Drop.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9_LJ0tlp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2te4ebdyrgeel7vzo6k.jpg",
+  "slug": "react-soft-dashboard-fullstack-live-deploy-53fd",
+  "url": "https://dev.to/sm0ke/react-soft-dashboard-fullstack-live-deploy-53fd",
+  "publish_date": "2022-11-29",
+  "published_at": "2022-11-29T09:13:29Z"
+ },
+ {
+  "id": 1276529,
+  "title": "7 JavaScript Concepts You Should Be Familiar With As a Developer",
+  "description": "As of 2022, JavaScript currently stands as the most commonly-used language in the world. It is used...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bQcATNYZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x8qlc5xc1iphnpf6zohu.jpg",
+  "slug": "7-javascript-concepts-you-should-be-familiar-with-as-a-developer-3oc0",
+  "url": "https://dev.to/vivaluv/7-javascript-concepts-you-should-be-familiar-with-as-a-developer-3oc0",
+  "publish_date": "2022-11-29",
+  "published_at": "2022-11-29T03:31:36Z"
+ },
+ {
   "id": 1266918,
   "title": "Why your GitHub profile should stand out?",
   "description": "Last week I hosted a Twitter Space 🎙️ where I got to interact with amazing speakers on GitHub...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/patilganesh1010/a-practical-guide-to-brainjs-nfk",
   "publish_date": "2022-08-22",
   "published_at": "2022-08-22T05:20:55Z"
- },
- {
-  "id": 1172651,
-  "title": "JavaScript, the worst programming language on the planet",
-  "description": "There are quite a few candidates for the worst programming language the Earth has ever seen. C++ is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XiEYLMta--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h5jbmp3inwzltchvb4ke.png",
-  "slug": "javascript-the-worst-programming-language-on-the-planet-a5n",
-  "url": "https://dev.to/polterguy/javascript-the-worst-programming-language-on-the-planet-a5n",
-  "publish_date": "2022-08-21",
-  "published_at": "2022-08-21T12:12:00Z"
- },
- {
-  "id": 1166725,
-  "title": "Deploy Multiple NodeJS Apps on single Server with SSL, Nginx, PM2 - Part 1",
-  "description": "Motivation   Greatings, Let's say you finished coding your awesome NodeJS app ready to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z3o7mg0B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0oquu67x6gt6kad2fn3e.png",
-  "slug": "deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-1-4841",
-  "url": "https://dev.to/ranjan/deploy-multiple-nodejs-apps-on-single-server-with-ssl-nginx-pm2-part-1-4841",
-  "publish_date": "2022-08-21",
-  "published_at": "2022-08-21T12:04:00Z"
- },
- {
-  "id": 1172567,
-  "title": "On Estimates",
-  "description": "Since we began developing software, we’ve looked for ways to reliably estimate our development time....",
-  "cover_image": "",
-  "slug": "on-estimates-56g",
-  "url": "https://dev.to/stebunovd/on-estimates-56g",
-  "publish_date": "2022-08-21",
-  "published_at": "2022-08-21T10:03:01Z"
- },
- {
-  "id": 1164696,
-  "title": "Frontend Learning Approach (Not Roadmap)",
-  "description": "A roadmap is a strategic plan that defines a goal or desired outcome and includes the major steps or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zfXGTfcH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e98cfdh89g2vq4xi0zmg.jpg",
-  "slug": "frontend-learning-approach-not-roadmap-5c4l",
-  "url": "https://dev.to/mdarif/frontend-learning-approach-not-roadmap-5c4l",
-  "publish_date": "2022-08-21",
-  "published_at": "2022-08-21T09:52:00Z"
- },
- {
-  "id": 1172493,
-  "title": "Do's and Don'ts of Creating Your Portfolio Website",
-  "description": "A portfolio website is something most developers will attempt to build at some point in their...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hNL9dKJH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80syci6u0b56vvj0z6k7.jpg",
-  "slug": "dos-and-donts-of-creating-your-portfolio-website-2h4p",
-  "url": "https://dev.to/ioanat94/dos-and-donts-of-creating-your-portfolio-website-2h4p",
-  "publish_date": "2022-08-21",
-  "published_at": "2022-08-21T05:43:00Z"
  }
 ]
