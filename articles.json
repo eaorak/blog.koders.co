@@ -1,5 +1,55 @@
 [
  {
+  "id": 1281864,
+  "title": "Single Event Listener for all elements in JS",
+  "description": "Hello guys today i will be discussing an important topic called Event Delegation in Javascript.      ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NHF5OuIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/of679bkirwa3zpebhwol.png",
+  "slug": "single-event-listener-for-all-elements-in-js-32o6",
+  "url": "https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6",
+  "publish_date": "2022-12-02",
+  "published_at": "2022-12-02T13:15:13Z"
+ },
+ {
+  "id": 1281817,
+  "title": "Git stash command",
+  "description": "Author: Muhammad Khabbab           What is Git stash   Stash is a Git command to locally store your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zf8RBuU---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5yo7pvskcenej0ze626d.png",
+  "slug": "git-stash-command-5fj6",
+  "url": "https://dev.to/refine/git-stash-command-5fj6",
+  "publish_date": "2022-12-02",
+  "published_at": "2022-12-02T12:57:45Z"
+ },
+ {
+  "id": 1281305,
+  "title": "How to Confidently Write Unit Tests using React Testing Library",
+  "description": "In this tutorial, we will learn how to confidently write unit tests using Testing Library which is a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8qVRWVDU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9mfz4i4f5vfpt084jiwk.jpg",
+  "slug": "how-to-confidently-write-unit-tests-using-react-testing-library-42de",
+  "url": "https://dev.to/myogeshchavan97/how-to-confidently-write-unit-tests-using-react-testing-library-42de",
+  "publish_date": "2022-12-02",
+  "published_at": "2022-12-02T06:11:26Z"
+ },
+ {
+  "id": 1281303,
+  "title": "10 games to learn JavaScript",
+  "description": "We looked at 10 amazing games to learn CSS. And in this article, we'll do the same for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4ymKrPlS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u2zo7h3xnwp7xdwbqr9k.jpg",
+  "slug": "10-games-to-learn-javascript-155j",
+  "url": "https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j",
+  "publish_date": "2022-12-02",
+  "published_at": "2022-12-02T06:06:18Z"
+ },
+ {
+  "id": 1281283,
+  "title": "Anything C can do Rust can do Better",
+  "description": "C++ and Rust are both system programming languages that can be used to produce software and software...",
+  "cover_image": "",
+  "slug": "anything-c-can-do-rust-can-do-better-2a9a",
+  "url": "https://dev.to/scottbeeker/anything-c-can-do-rust-can-do-better-2a9a",
+  "publish_date": "2022-12-02",
+  "published_at": "2022-12-02T05:32:51Z"
+ },
+ {
   "id": 1272886,
   "title": "Super Charging Fine-Grained Reactive Performance",
   "description": "What's a Reactive Library?   Reactivity is the future of JS frameworks! Reactivity allows...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/omerwow/cherrybomb-07-is-now-ga-42i7",
   "publish_date": "2022-08-25",
   "published_at": "2022-08-25T07:57:31Z"
- },
- {
-  "id": 1175447,
-  "title": "How to Build a Machine Learning Recommendation Engine w/ TensorFlow \u0026 HarperDB",
-  "description": "This article explains how to create a recommendation system using HarperDB and Custom...",
-  "cover_image": "",
-  "slug": "how-to-build-a-machine-learning-recommendation-engine-w-tensorflow-harperdb-51jo",
-  "url": "https://dev.to/harperdb/how-to-build-a-machine-learning-recommendation-engine-w-tensorflow-harperdb-51jo",
-  "publish_date": "2022-08-24",
-  "published_at": "2022-08-24T18:49:00Z"
- },
- {
-  "id": 1175067,
-  "title": "Text Animation in CSS",
-  "description": "Hello Guys today i am going to show you some CSS animation on text.All the animation i am showing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s4-CWPoM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcg6y2bgxjf5s1xl703h.png",
-  "slug": "text-animation-in-css-16j9",
-  "url": "https://dev.to/shubhamtiwari909/text-animation-in-css-16j9",
-  "publish_date": "2022-08-24",
-  "published_at": "2022-08-24T11:53:00Z"
- },
- {
-  "id": 1175003,
-  "title": "The 10 Best Extensions for Developers",
-  "description": "Hey there, How are you? In this article, you’ll see the 10 best Google Chrome extensions for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pm3fyuEO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wu942ft3c2jvpoeraeyp.png",
-  "slug": "the-10-best-extensions-for-developers-2blf",
-  "url": "https://dev.to/momen_2/the-10-best-extensions-for-developers-2blf",
-  "publish_date": "2022-08-24",
-  "published_at": "2022-08-24T09:43:11Z"
- },
- {
-  "id": 1174973,
-  "title": "Top 10 Github Repositories to Learn JavaScript.",
-  "description": "30 Days Of JavaScript - [http://ow.ly/wk3L50IL3nK] JavaScript Questions -...",
-  "cover_image": "",
-  "slug": "top-10-github-repositories-to-learn-javascript-3mlo",
-  "url": "https://dev.to/areedev/top-10-github-repositories-to-learn-javascript-3mlo",
-  "publish_date": "2022-08-24",
-  "published_at": "2022-08-24T09:02:25Z"
- },
- {
-  "id": 1174940,
-  "title": "How I Built A Web Development Challenges Website With $0 (And You Can Too!)",
-  "description": "If you're looking for inspiration to build your own side project, this blog post is for you! I'll...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gBTV7XIw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gpvypokaz9lgj8kan4jb.jpeg",
-  "slug": "how-i-built-a-web-development-challenges-website-with-0-1alk",
-  "url": "https://dev.to/thefierycoder/how-i-built-a-web-development-challenges-website-with-0-1alk",
-  "publish_date": "2022-08-24",
-  "published_at": "2022-08-24T07:47:00Z"
  }
 ]
