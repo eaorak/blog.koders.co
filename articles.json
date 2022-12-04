@@ -1,5 +1,55 @@
 [
  {
+  "id": 1283461,
+  "title": "Super Useful CSS Resources 🌈",
+  "description": "The ultimate list of 70+ web-based CSS tools that every frontend developer should have bookmarked!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--68UqpBjk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.ibb.co/CMxy3tz/css-resources-2.png",
+  "slug": "super-useful-css-resources-1ba3",
+  "url": "https://dev.to/lissy93/super-useful-css-resources-1ba3",
+  "publish_date": "2022-12-03",
+  "published_at": "2022-12-03T18:00:23Z"
+ },
+ {
+  "id": 1219573,
+  "title": "Kubernetes: What It Is, How It Works, and Why It's A Game changer",
+  "description": "Introduction   Kubernetes, which was first released on June 7th, 2014, has quickly...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---8c5HSNj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ssl9q1xrrvnl4tnqbca3.png",
+  "slug": "kubernetes-what-it-is-how-it-works-and-why-its-a-game-changer-15pg",
+  "url": "https://dev.to/pramit_marattha/kubernetes-what-it-is-how-it-works-and-why-its-a-game-changer-15pg",
+  "publish_date": "2022-12-03",
+  "published_at": "2022-12-03T15:21:31Z"
+ },
+ {
+  "id": 1283295,
+  "title": "Responsive Business Agency Website Using Html CSS JavaScript",
+  "description": "How to Build Responsive Business Agency Website Using Html CSS JavaScript  This video will show...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kMwvDWhh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxgl8k2dz3bs0rbh2j40.png",
+  "slug": "responsive-business-agency-website-using-html-css-javascript-54kj",
+  "url": "https://dev.to/codewithsadee/responsive-business-agency-website-using-html-css-javascript-54kj",
+  "publish_date": "2022-12-03",
+  "published_at": "2022-12-03T13:09:50Z"
+ },
+ {
+  "id": 1276856,
+  "title": "Learn Web Development by Building Projects",
+  "description": "In the first episode of AskDevs twitter spaces, I spoke with self-taught developers on the relevance...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PWahe2gg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcak719zo30oadye25se.png",
+  "slug": "learn-web-development-by-building-projects-1kc1",
+  "url": "https://dev.to/askdevs/learn-web-development-by-building-projects-1kc1",
+  "publish_date": "2022-12-03",
+  "published_at": "2022-12-03T05:10:40Z"
+ },
+ {
+  "id": 1249468,
+  "title": "Hey Tech Recruiter, Here Are Some Tips from a Developer",
+  "description": "I wrote a rant to LinkedIn in the summer, summarizing a couple of tips on how (not) to contact me and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PInPW-Sv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rh0q6vy684hc48qf6jj4.png",
+  "slug": "hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8",
+  "url": "https://dev.to/eevajonnapanula/hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8",
+  "publish_date": "2022-12-03",
+  "published_at": "2022-12-03T04:25:13Z"
+ },
+ {
   "id": 1281864,
   "title": "Single Event Listener for all elements in JS",
   "description": "Hello guys today i will be discussing an important topic called Event Delegation in Javascript.      ...",
@@ -320,22 +370,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/methmi/why-javascript-promises-are-awesome-4obk",
   "publish_date": "2022-08-26",
   "published_at": "2022-08-26T04:34:00Z"
- },
- {
-  "id": 1175973,
-  "title": "How I got my first job as a developer by making simple projects seem big",
-  "description": "This article was originally published on Hashnode for the 4 Articles in 4 Weeks - Hashnode...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f2Jl00kZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rarbgb13upbv6x9lo6rm.png",
-  "slug": "how-i-got-my-first-job-as-a-developer-by-making-simple-projects-seem-big-48oi",
-  "url": "https://dev.to/yuridevat/how-i-got-my-first-job-as-a-developer-by-making-simple-projects-seem-big-48oi",
-  "publish_date": "2022-08-25",
-  "published_at": "2022-08-25T12:20:36Z"
- },
- {
-  "id": 1175885,
-  "title": "An API Validation Aggravation",
-  "description": "API specification validation   API specification validation is the process of verifying that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TRLo2Hnr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z0ytbmsluhf6c9f6m0ad.png",
-  "slug": "an-api-validation-aggravation-1fif",
-  "url": "https://dev.to/apimike/an-api-validation-aggravation-1fif",
-  "publish_date": "2022-08-25",
-  "published_at": "2022-08-25T09:48:00Z"
- },
- {
-  "id": 1008892,
-  "title": "4 Best Practices for Shopify Web Development in 2022",
-  "description": "The retail marketing ecosystem is increasingly influenced by the technological shift of streaming...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---73HqmMl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ox7mk971l91xnhtapl02.jpg",
-  "slug": "4-best-practices-for-shopify-web-development-in-2022-26h0",
-  "url": "https://dev.to/elenamia/4-best-practices-for-shopify-web-development-in-2022-26h0",
-  "publish_date": "2022-08-25",
-  "published_at": "2022-08-25T09:28:30Z"
- },
- {
-  "id": 1175879,
-  "title": "O/RM is like adding brain damage to your database",
-  "description": "O/RM is the art of fitting a square peg into a round hole. Your SQL database is based upon records...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7ZiAE3b4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a28l9mp0d8lvm18itmey.jpeg",
-  "slug": "orm-is-like-adding-brain-damage-to-your-database-kf4",
-  "url": "https://dev.to/polterguy/orm-is-like-adding-brain-damage-to-your-database-kf4",
-  "publish_date": "2022-08-25",
-  "published_at": "2022-08-25T09:07:00Z"
- },
- {
-  "id": 1175801,
-  "title": "Cherrybomb 0.7 is now GA",
-  "description": "What is Cherrybomb?   Cherrybomb is a CLI tool that helps you avoid undefined user behavior...",
-  "cover_image": "",
-  "slug": "cherrybomb-07-is-now-ga-42i7",
-  "url": "https://dev.to/omerwow/cherrybomb-07-is-now-ga-42i7",
-  "publish_date": "2022-08-25",
-  "published_at": "2022-08-25T07:57:31Z"
  }
 ]
