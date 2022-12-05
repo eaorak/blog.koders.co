@@ -1,5 +1,55 @@
 [
  {
+  "id": 1284225,
+  "title": "The #openai and #gpt3 tags are now officially \"supported\" on DEV",
+  "description": "You may have seen ChatGPT floating around recently. It is an incredible demonstration of AI...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lIVTj2T6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzg75caevke2ka3vbynp.png",
+  "slug": "the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd",
+  "url": "https://dev.to/devteam/the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd",
+  "publish_date": "2022-12-04",
+  "published_at": "2022-12-04T15:59:20Z"
+ },
+ {
+  "id": 1283961,
+  "title": "How JWTs Could Be Dangerous and Its Alternatives",
+  "description": "Introduction   JSON Web Tokens (JWTs) are the most popularly used tokens for web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jUHKoZNX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ljagz1ea8w3zpa4uxu3y.png",
+  "slug": "how-jwts-could-be-dangerous-and-its-alternatives-3k3j",
+  "url": "https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j",
+  "publish_date": "2022-12-04",
+  "published_at": "2022-12-04T09:04:18Z"
+ },
+ {
+  "id": 1283850,
+  "title": "Submit button outside the form",
+  "description": "The other day I had quite a weird scenario where we had a form inside a specific section, but the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FzJH_mEB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hbd9216c18vyu6wg54gd.jpg",
+  "slug": "submit-button-outside-the-form-2m6f",
+  "url": "https://dev.to/dailydevtips1/submit-button-outside-the-form-2m6f",
+  "publish_date": "2022-12-04",
+  "published_at": "2022-12-04T06:13:01Z"
+ },
+ {
+  "id": 1283758,
+  "title": "Creating a Telegram chatbot with ChatGPT: A Step-by-Step Guide",
+  "description": "Introduction   In this tutorial, we will be building a telegram bot that can interact with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OmBlJGJo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j4e65hdi085akmkf88e8.jpg",
+  "slug": "creating-a-telegram-chatbot-with-chatgpt-a-step-by-step-guide-42gg",
+  "url": "https://dev.to/leighola/creating-a-telegram-chatbot-with-chatgpt-a-step-by-step-guide-42gg",
+  "publish_date": "2022-12-04",
+  "published_at": "2022-12-04T03:09:50Z"
+ },
+ {
+  "id": 1283735,
+  "title": "5 Small and Hidden React libraries You Should Already Be Using",
+  "description": "If you, like me, love finding small gems in the NPM directory to improve your development process,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mSQ10v1p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cgjwxez1bll0xqqg0dqk.png",
+  "slug": "5-small-and-hidden-react-libraries-you-should-already-be-using-nb5",
+  "url": "https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5",
+  "publish_date": "2022-12-04",
+  "published_at": "2022-12-04T00:40:37Z"
+ },
+ {
   "id": 1283461,
   "title": "Super Useful CSS Resources 🌈",
   "description": "The ultimate list of 70+ web-based CSS tools that every frontend developer should have bookmarked!",
@@ -370,22 +420,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/timhub/self-host-heroku-alternative-40l4",
   "publish_date": "2022-08-27",
   "published_at": "2022-08-27T07:06:32Z"
- },
- {
-  "id": 1176778,
-  "title": "Creating a React search bar and content filtering components",
-  "description": "Introduction   Filtering systems are common for most modern web applications. They are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_Xqi0KVV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i0r6nmmxmx5y4qpfef22.png",
-  "slug": "creating-a-react-search-bar-and-content-filtering-components-2b1g",
-  "url": "https://dev.to/refine/creating-a-react-search-bar-and-content-filtering-components-2b1g",
-  "publish_date": "2022-08-26",
-  "published_at": "2022-08-26T12:38:16Z"
- },
- {
-  "id": 1176747,
-  "title": "Free Alternatives to Heroku",
-  "description": "Given the recent news about Heroku bringing an end to free dynos and PostgreSQL databases, what other...",
-  "cover_image": "",
-  "slug": "free-alternatives-to-heroku-3jh9",
-  "url": "https://dev.to/daveson217/free-alternatives-to-heroku-3jh9",
-  "publish_date": "2022-08-26",
-  "published_at": "2022-08-26T10:28:07Z"
- },
- {
-  "id": 1099796,
-  "title": "16 Top NodeJS tools to make you a better developer",
-  "description": "NodeJS is growing in popularity since its inception.    30 million websites use NodeJS Back in 2018,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c3-sjFSF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfx9f8eg7dfrohop1upl.png",
-  "slug": "16-top-nodejs-tools-to-make-you-a-better-developer-3nde",
-  "url": "https://dev.to/codemonkcm/16-top-nodejs-tools-to-make-you-a-better-developer-3nde",
-  "publish_date": "2022-08-26",
-  "published_at": "2022-08-26T08:15:48Z"
- },
- {
-  "id": 1176415,
-  "title": "Heroku is removing the free tier",
-  "description": "If you are anything like me, you have a few small projects that you are hosting on Heroku. Read on to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L9EJlh5q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u8idfv9e0bhu64d6bqgk.jpg",
-  "slug": "more-heroku-changes-that-will-definitely-affect-you-10o8",
-  "url": "https://dev.to/lukeecart/more-heroku-changes-that-will-definitely-affect-you-10o8",
-  "publish_date": "2022-08-26",
-  "published_at": "2022-08-26T07:28:00Z"
- },
- {
-  "id": 1176578,
-  "title": "Why JavaScript Promises are awesome",
-  "description": "What is a Promise?   A promise, in computer science, is basically a concept that handles a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3iMJpaD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1wa8dic6hiaa4uxg4sg.png",
-  "slug": "why-javascript-promises-are-awesome-4obk",
-  "url": "https://dev.to/methmi/why-javascript-promises-are-awesome-4obk",
-  "publish_date": "2022-08-26",
-  "published_at": "2022-08-26T04:34:00Z"
  }
 ]
