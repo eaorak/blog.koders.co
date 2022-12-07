@@ -1,5 +1,55 @@
 [
  {
+  "id": 1286084,
+  "title": "I asked ChatGPT to refactor the Forem StoriesController",
+  "description": "The Forem codebase, which powers DEV and other networks, is open source, and is therefore great for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N-sz0exr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d682d7b27fyxwyp8mmqt.png",
+  "slug": "i-asked-chatgpt-to-refactor-the-forem-storiescontroller-2hgo",
+  "url": "https://dev.to/ben/i-asked-chatgpt-to-refactor-the-forem-storiescontroller-2hgo",
+  "publish_date": "2022-12-06",
+  "published_at": "2022-12-06T15:01:54Z"
+ },
+ {
+  "id": 1286053,
+  "title": "Meme Tuesday! 🤨",
+  "description": "For the second time in three weeks, we are celebrating Meme Monday on a Tuesday. If the topic were...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--id7OdvOw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ujz6uem6s5nyfeecv923.png",
+  "slug": "meme-tuesday-5fdn",
+  "url": "https://dev.to/ben/meme-tuesday-5fdn",
+  "publish_date": "2022-12-06",
+  "published_at": "2022-12-06T14:23:34Z"
+ },
+ {
+  "id": 1285769,
+  "title": "How I build Register and Login page using Supabase",
+  "description": "Introduction   One of the challenging things to build in an application is Authentication....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d7pMjy2R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4bnqv40656fh0kl4d1g0.png",
+  "slug": "how-i-build-register-and-login-page-using-supabase-5h43",
+  "url": "https://dev.to/surajondev/how-i-build-register-and-login-page-using-supabase-5h43",
+  "publish_date": "2022-12-06",
+  "published_at": "2022-12-06T11:30:00Z"
+ },
+ {
+  "id": 1285718,
+  "title": "Using CSS counters",
+  "description": "A while ago, we looked at custom numbered list styling, but we can use the concept of CSS counters to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--58I5VW3p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hmh0qecsz59i3fom2i2f.jpg",
+  "slug": "using-css-counters-3op3",
+  "url": "https://dev.to/dailydevtips1/using-css-counters-3op3",
+  "publish_date": "2022-12-06",
+  "published_at": "2022-12-06T06:04:19Z"
+ },
+ {
+  "id": 1285616,
+  "title": "Simple State Management with RxJS — a To-do List example",
+  "description": "What is RxJS ?   RxJS is a Reactive Extensions Library for JavaScript which is getting very...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g0c_J6e5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w8g4t27kh3upz1fndogb.png",
+  "slug": "simple-state-management-with-rxjs-a-to-do-list-example-2k6m",
+  "url": "https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m",
+  "publish_date": "2022-12-06",
+  "published_at": "2022-12-06T04:34:27Z"
+ },
+ {
   "id": 1284878,
   "title": "Creating an upvote system with React and Socket.io 🥳 🔝",
   "description": "What is this article about?   Upvotes became a great way to understand what your visitors...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/refine/5-most-common-usestate-mistakes-react-developers-often-make-3aig",
   "publish_date": "2022-08-29",
   "published_at": "2022-08-29T09:26:00Z"
- },
- {
-  "id": 1175932,
-  "title": "How React and NextJS can power your next web project",
-  "description": "I have decided to go with React and NextJS and see how they make the perfect combination. In the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6dT2WUsI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/92s8kpqimk30n015x8ga.png",
-  "slug": "how-react-and-nextjs-can-power-your-next-web-project-439d",
-  "url": "https://dev.to/annabaker/how-react-and-nextjs-can-power-your-next-web-project-439d",
-  "publish_date": "2022-08-28",
-  "published_at": "2022-08-28T15:38:03Z"
- },
- {
-  "id": 1177017,
-  "title": "I made all countries' flags using HTML \u0026 CSS",
-  "description": "This article is special, you may ask why. It is because, in my last article CSS Flag: India, I said-...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UB9n6sOG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bq099o7ud7g1xj3fa2at.png",
-  "slug": "i-made-all-countries-flags-using-html-css-4cnc",
-  "url": "https://dev.to/j471n/i-made-all-countries-flags-using-html-css-4cnc",
-  "publish_date": "2022-08-28",
-  "published_at": "2022-08-28T09:08:11Z"
- },
- {
-  "id": 1177986,
-  "title": "Variadic Currying in JavaScript",
-  "description": "Introduction   In this post, we first look at the confusion around currying in JavaScript,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GSC2wT55--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qrf73ait55ps4y90n51t.png",
-  "slug": "variadic-currying-in-javascript-nj9",
-  "url": "https://dev.to/refine/variadic-currying-in-javascript-nj9",
-  "publish_date": "2022-08-28",
-  "published_at": "2022-08-28T08:30:17Z"
- },
- {
-  "id": 1177927,
-  "title": "7 neat tricks for JS that you probably did not know",
-  "description": "Got tired of learning and want to get some cool tricks up your sleeve to earn the right to show off?...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OHDTK9BV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f263nocop0yni6w4d3ot.jpg",
-  "slug": "7-neat-tricks-for-js-that-you-probably-did-not-know-358d",
-  "url": "https://dev.to/ruppysuppy/7-neat-tricks-for-js-that-you-probably-did-not-know-358d",
-  "publish_date": "2022-08-28",
-  "published_at": "2022-08-28T05:02:31Z"
- },
- {
-  "id": 1177903,
-  "title": "Pass The AWS Certified Solution Architect - Associate (SAA-CO3)",
-  "description": "I passed the AWS Certified Solutions Architect — Associate exam (SAA-C02) on Nov 12, 2021....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eF-t_kPU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1tfhzzm7o7glz6pwsafm.jpeg",
-  "slug": "pass-the-aws-certified-solution-architect-associate-saa-co3-523p",
-  "url": "https://dev.to/jordan_t/pass-the-aws-certified-solution-architect-associate-saa-co3-523p",
-  "publish_date": "2022-08-28",
-  "published_at": "2022-08-28T02:27:00Z"
  }
 ]
