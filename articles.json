@@ -1,5 +1,55 @@
 [
  {
+  "id": 1287705,
+  "title": "How to Test GraphQL API",
+  "description": "You've just created a GraphQL API and are ready to test it. But where do you start? How do you know...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_E0jBL-_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hm6r3fdgab5r9gar393.png",
+  "slug": "how-to-test-graphql-api-161i",
+  "url": "https://dev.to/j471n/how-to-test-graphql-api-161i",
+  "publish_date": "2022-12-08",
+  "published_at": "2022-12-08T16:01:38Z"
+ },
+ {
+  "id": 1288631,
+  "title": "I Automated Daily Standups for Developers",
+  "description": "It's time for a standup!  These are the words that always put me in total panic mode.  I don't even...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uldMtxV9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k80x8hpzgh2chn01fceg.jpg",
+  "slug": "i-automated-daily-standups-for-developers-1oc8",
+  "url": "https://dev.to/codewithbernard/i-automated-daily-standups-for-developers-1oc8",
+  "publish_date": "2022-12-08",
+  "published_at": "2022-12-08T12:20:24Z"
+ },
+ {
+  "id": 1288304,
+  "title": "7 popular Icon libraries you can use in your websites",
+  "description": "Icons are an essential part of modern web design, as they provide a visual representation of an idea...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xlO3L6mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/efemcb5avgb6kstszewe.png",
+  "slug": "7-popular-icon-libraries-you-can-use-in-your-websites-53a1",
+  "url": "https://dev.to/mohsenkamrani/7-popular-icon-libraries-you-can-use-in-your-websites-53a1",
+  "publish_date": "2022-12-08",
+  "published_at": "2022-12-08T07:03:03Z"
+ },
+ {
+  "id": 1288242,
+  "title": "Working with data attributes in CSS",
+  "description": "We previously looked at using data attributes in JavaScript. These data attributes are a fantastic...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XDIuCS8b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jeodulea5lbewhgr2wz9.jpg",
+  "slug": "working-with-data-attributes-in-css-280l",
+  "url": "https://dev.to/dailydevtips1/working-with-data-attributes-in-css-280l",
+  "publish_date": "2022-12-08",
+  "published_at": "2022-12-08T05:38:44Z"
+ },
+ {
+  "id": 1288022,
+  "title": "To Be Known for our Kindness",
+  "description": "Content Warning: Death of a Ruby community member  We have lost a great man in the Ruby community in...",
+  "cover_image": "",
+  "slug": "to-be-known-for-our-kindness-2p4a",
+  "url": "https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a",
+  "publish_date": "2022-12-08",
+  "published_at": "2022-12-08T01:39:37Z"
+ },
+ {
   "id": 1287397,
   "title": "How I Built a Vue.js Ecommerce Store with a Node.js Backend",
   "description": "Ecommerce is no small undertaking. Aside from building a great customer experience on the frontend,...",
@@ -570,22 +620,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rembertdesigns/a-web-developers-workflow-for-github-1b72",
   "publish_date": "2022-08-31",
   "published_at": "2022-08-31T02:07:00Z"
- },
- {
-  "id": 1179510,
-  "title": "How to handle dart application exceptions ?",
-  "description": "Talker - package to handle dart application exceptions.                        🚀  The main goal of...",
-  "cover_image": "",
-  "slug": "how-to-handle-dart-application-exceptions--2pdf",
-  "url": "https://dev.to/frezyx/how-to-handle-dart-application-exceptions--2pdf",
-  "publish_date": "2022-08-30",
-  "published_at": "2022-08-30T13:59:39Z"
- },
- {
-  "id": 1179741,
-  "title": "Open Source Bait and Switch",
-  "description": "I was reading this article and wanted to post a comment but I felt this warrants a response article....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--octRULKs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itrkg3fo1lm4vzupsf4i.png",
-  "slug": "open-source-bait-and-switch-1g34",
-  "url": "https://dev.to/codenameone/open-source-bait-and-switch-1g34",
-  "publish_date": "2022-08-30",
-  "published_at": "2022-08-30T13:27:11Z"
- },
- {
-  "id": 1179625,
-  "title": "The Five Worst Things About Jupyter Notebooks",
-  "description": "I used to love Jupyter. I still think they are a wonderful tool for many tasks like exploratory data...",
-  "cover_image": "",
-  "slug": "the-five-worst-things-about-jupyter-notebooks-5d4o",
-  "url": "https://dev.to/chainguns/the-five-worst-things-about-jupyter-notebooks-5d4o",
-  "publish_date": "2022-08-30",
-  "published_at": "2022-08-30T12:57:02Z"
- },
- {
-  "id": 1179576,
-  "title": "Composable vs. Monolitch architecture: Uncovering recent composable hype",
-  "description": "In recent years, many businesses have switched their tech stack from a monolithic architecture to a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dm4oqlCn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cy4unkf8a50rrivtymgy.jpg",
-  "slug": "composable-vs-monolitch-architecture-uncovering-recent-composable-hype-5d06",
-  "url": "https://dev.to/medusajs/composable-vs-monolitch-architecture-uncovering-recent-composable-hype-5d06",
-  "publish_date": "2022-08-30",
-  "published_at": "2022-08-30T11:31:50Z"
- },
- {
-  "id": 1179497,
-  "title": "Top WebStorm Plugins To Level Up Your Productivity",
-  "description": "A while ago I migrated from VS Code to WebStorm, and it’s been great. Like all JetBrains IDEs, it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KhRtmH2S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5di1cq1tgmstabv46a57.png",
-  "slug": "top-webstorm-plugins-to-level-up-your-productivity-4439",
-  "url": "https://dev.to/jamieswift90/top-webstorm-plugins-to-level-up-your-productivity-4439",
-  "publish_date": "2022-08-30",
-  "published_at": "2022-08-30T08:51:41Z"
  }
 ]
