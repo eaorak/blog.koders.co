@@ -1,5 +1,55 @@
 [
  {
+  "id": 1290673,
+  "title": "Data visualization using React and Tremor - With Sample",
+  "description": "Learn how to code a data visualization sample on top of React and Tremor using GitHub API as a source of information.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AXo964A2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b3yys6nco6zzh49j7dyr.jpg",
+  "slug": "data-visualization-using-react-and-tremor-with-sample-546a",
+  "url": "https://dev.to/sm0ke/data-visualization-using-react-and-tremor-with-sample-546a",
+  "publish_date": "2022-12-09",
+  "published_at": "2022-12-09T17:28:12Z"
+ },
+ {
+  "id": 1289935,
+  "title": "Getting Started With GitOps For Developers!",
+  "description": "GitOps is a methodology for deploying and managing software applications using Git. It is also...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HMNZxFys--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48c6s81zywhx0q39upki.png",
+  "slug": "getting-started-with-gitops-for-developers-4aej",
+  "url": "https://dev.to/pavanbelagatti/getting-started-with-gitops-for-developers-4aej",
+  "publish_date": "2022-12-09",
+  "published_at": "2022-12-09T06:35:49Z"
+ },
+ {
+  "id": 1289915,
+  "title": "Animate an SVG path with CSS",
+  "description": "A while ago, I found this super cool effect that animated an SVG path as it was drawn on the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y75J-lTO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7528o24pj6pe2c74ne9u.jpg",
+  "slug": "animate-an-svg-path-with-css-4ihj",
+  "url": "https://dev.to/dailydevtips1/animate-an-svg-path-with-css-4ihj",
+  "publish_date": "2022-12-09",
+  "published_at": "2022-12-09T05:31:53Z"
+ },
+ {
+  "id": 1289705,
+  "title": "Developer productivity hacks 11",
+  "description": "1. Establish a sensible development environment.   It will be simpler to kill the opposition...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QwqlrR09--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/64zphx4xsloffwx6ieoj.png",
+  "slug": "developer-productivity-hacks-11-58p3",
+  "url": "https://dev.to/function12_io/developer-productivity-hacks-11-58p3",
+  "publish_date": "2022-12-09",
+  "published_at": "2022-12-09T03:04:14Z"
+ },
+ {
+  "id": 1289682,
+  "title": "7 websites to get inspiration for next level web design",
+  "description": "As a developer or designer, it's always important to stay up-to-date on the latest trends and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LlRqGdKI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jr1ipe8y2pb0fypunk3i.png",
+  "slug": "7-websites-to-get-inspiration-for-next-level-web-design-1leg",
+  "url": "https://dev.to/mohsenkamrani/7-websites-to-get-inspiration-for-next-level-web-design-1leg",
+  "publish_date": "2022-12-09",
+  "published_at": "2022-12-09T01:11:35Z"
+ },
+ {
   "id": 1287705,
   "title": "How to Test GraphQL API",
   "description": "You've just created a GraphQL API and are ready to test it. But where do you start? How do you know...",
@@ -620,22 +670,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/francescoxx/how-to-learn-web3-september-2022-3h9h",
   "publish_date": "2022-09-01",
   "published_at": "2022-09-01T06:03:23Z"
- },
- {
-  "id": 1177999,
-  "title": "Open Source Redesigned",
-  "description": "I had the pleasure of talking to Alex Barashkov, CEO @ PixelPoint, a Design studio focusing mainly on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KAXW58DD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9h1cu83kdzx96tbzxn9d.jpeg",
-  "slug": "open-source-redesigned-1f8h",
-  "url": "https://dev.to/novu/open-source-redesigned-1f8h",
-  "publish_date": "2022-08-31",
-  "published_at": "2022-08-31T14:57:32Z"
- },
- {
-  "id": 1179784,
-  "title": "Top Heroku Alternatives for free",
-  "description": "Recently Heroku will shutdown free Heroku Dynos, free Heroku Postgres, and free Heroku Data...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KPdQu5LP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6p9g6fa8h6n8w0wfx453.png",
-  "slug": "top-heroku-alternatives-for-free-46g1",
-  "url": "https://dev.to/meshvpatel18/top-heroku-alternatives-for-free-46g1",
-  "publish_date": "2022-08-31",
-  "published_at": "2022-08-31T13:49:56Z"
- },
- {
-  "id": 1180474,
-  "title": "Using Google Lighthouse to improve app performance",
-  "description": "Introduction   As websites and web applications become more complex, it is necessary to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2TTC31q2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vz12pmjr7o8ffvyroiux.png",
-  "slug": "using-google-lighthouse-to-improve-app-performance-2bfn",
-  "url": "https://dev.to/refine/using-google-lighthouse-to-improve-app-performance-2bfn",
-  "publish_date": "2022-08-31",
-  "published_at": "2022-08-31T12:39:52Z"
- },
- {
-  "id": 1168419,
-  "title": "Appwrite OSS Fund Sponsors React-Native-Permissions",
-  "description": "Hi readers 👋, welcoming you back to the \"Appwrite OSS Fund\" series, where we celebrate open-source...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rMBkh45x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i44j1mye073yrnkmvyvp.png",
-  "slug": "appwrite-oss-fund-sponsors-react-native-permissions-3pg4",
-  "url": "https://dev.to/appwrite/appwrite-oss-fund-sponsors-react-native-permissions-3pg4",
-  "publish_date": "2022-08-31",
-  "published_at": "2022-08-31T12:37:12Z"
- },
- {
-  "id": 1180154,
-  "title": "A Web Developers Workflow for GitHub",
-  "description": "GitHub is a code hosting platform for version control and collaboration. It’s designed around Git, a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IkNoCkQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/81ukdbhsw2aez4oqangf.jpg",
-  "slug": "a-web-developers-workflow-for-github-1b72",
-  "url": "https://dev.to/rembertdesigns/a-web-developers-workflow-for-github-1b72",
-  "publish_date": "2022-08-31",
-  "published_at": "2022-08-31T02:07:00Z"
  }
 ]
