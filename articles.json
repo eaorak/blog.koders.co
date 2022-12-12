@@ -1,5 +1,55 @@
 [
  {
+  "id": 1292407,
+  "title": "5 Simple Things Highly Productive Developers Do",
+  "description": "I have spent fair share of hours trying to improve my productivity, rather than actually doing the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0K_517OF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5bd6nsok6vp89qtqiqt8.png",
+  "slug": "5-simple-things-highly-productive-developers-do-15o1",
+  "url": "https://dev.to/codewithvoid/5-simple-things-highly-productive-developers-do-15o1",
+  "publish_date": "2022-12-11",
+  "published_at": "2022-12-11T12:37:56Z"
+ },
+ {
+  "id": 1291439,
+  "title": "NGINX: Advanced Load Balancer, Web Server, \u0026 Reverse Proxy",
+  "description": "📍 Concurrency   👉 When it comes to making a request to the server, it usually happens that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9XTghEwa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ldgbc7webja9ndho24gr.png",
+  "slug": "nginx-advanced-load-balancer-web-server-reverse-proxy-4i23",
+  "url": "https://dev.to/lovepreetsingh/nginx-advanced-load-balancer-web-server-reverse-proxy-4i23",
+  "publish_date": "2022-12-11",
+  "published_at": "2022-12-11T06:17:49Z"
+ },
+ {
+  "id": 1292219,
+  "title": "Battle of the Giants: GitHub Copilot vs ChatGPT ⚔️⚔️",
+  "description": "The release of ChatGPT sent ripples through the programming community as it could come up with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OKQqF4qm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9fiz8hdruc5f7rto8uxx.png",
+  "slug": "battle-of-the-giants-github-copilot-vs-chatgpt-4oac",
+  "url": "https://dev.to/ruppysuppy/battle-of-the-giants-github-copilot-vs-chatgpt-4oac",
+  "publish_date": "2022-12-11",
+  "published_at": "2022-12-11T06:14:00Z"
+ },
+ {
+  "id": 1291714,
+  "title": "Vs Code Zero to Hero setup",
+  "description": "1. first of all     get Rickroll'd    The vscode is a nice editor for web dev. And the broad...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4dWZdYxm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ffw2vo35l66nn8irtloy.jpg",
+  "slug": "vs-code-zero-to-hero-setup-gon",
+  "url": "https://dev.to/atharvashankar/vs-code-zero-to-hero-setup-gon",
+  "publish_date": "2022-12-11",
+  "published_at": "2022-12-11T06:00:06Z"
+ },
+ {
+  "id": 1292277,
+  "title": "Conditional wrapping in React",
+  "description": "This is something you do not always need, but I wrote this article for those looking for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7nhnQgDO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2qlvnroca92f6c19nijn.jpg",
+  "slug": "conditional-wrapping-in-react-46o5",
+  "url": "https://dev.to/dailydevtips1/conditional-wrapping-in-react-46o5",
+  "publish_date": "2022-12-11",
+  "published_at": "2022-12-11T05:54:45Z"
+ },
+ {
   "id": 1291749,
   "title": "Django AdminLTE - PyPi Library",
   "description": "Modern template for Django Admin Interface coded on top of AdminLTE, the iconic dashboard template - Design provided as a PyPi Library.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/w6/simple-mongodb-database-for-discordjs-replit-3i2k",
   "publish_date": "2022-09-03",
   "published_at": "2022-09-03T04:13:35Z"
- },
- {
-  "id": 1182447,
-  "title": "How to make responsive agency website using Html CSS JavaScript",
-  "description": "How to make responsive agency website using Html CSS JavaScript  This video will show you how to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UuOCkIZ6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8u9spby72ngto11v9zax.png",
-  "slug": "how-to-make-responsive-agency-website-using-html-css-javascript-1ioh",
-  "url": "https://dev.to/codewithsadee/how-to-make-responsive-agency-website-using-html-css-javascript-1ioh",
-  "publish_date": "2022-09-02",
-  "published_at": "2022-09-02T17:40:39Z"
- },
- {
-  "id": 1181718,
-  "title": "Follow Friday: CSS Edition (2 September 2022)",
-  "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
-  "cover_image": "",
-  "slug": "follow-friday-css-edition-2-september-2022-4p01",
-  "url": "https://dev.to/devteam/follow-friday-css-edition-2-september-2022-4p01",
-  "publish_date": "2022-09-02",
-  "published_at": "2022-09-02T13:42:33Z"
- },
- {
-  "id": 1182145,
-  "title": "How to create a CRUD app with SvelteKit",
-  "description": "Introduction   Because of Svelte’s popularity over the years, many companies are beginning...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nw6xmgtv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ipz6oeh4gkz573lrgq5h.png",
-  "slug": "how-to-create-a-crud-app-with-sveltekit-49cb",
-  "url": "https://dev.to/refine/how-to-create-a-crud-app-with-sveltekit-49cb",
-  "publish_date": "2022-09-02",
-  "published_at": "2022-09-02T11:45:15Z"
- },
- {
-  "id": 1182210,
-  "title": "Are Node Pools Sabotaging Your Cost Optimization Efforts?",
-  "description": "AWS recommends running highly available EKS clusters with worker nodes in node pools (Auto Scaling...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y6V2VJT4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cozg1fj5cy9wk2vg799t.png",
-  "slug": "are-node-pools-sabotaging-your-cost-optimization-efforts-ijj",
-  "url": "https://dev.to/castai/are-node-pools-sabotaging-your-cost-optimization-efforts-ijj",
-  "publish_date": "2022-09-02",
-  "published_at": "2022-09-02T11:41:00Z"
- },
- {
-  "id": 1182068,
-  "title": "Building a MinIO file explorer app in 30 minutes",
-  "description": "In this tutorial, we will build an internal tool for reading, downloading and uploading objects to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W6miawac--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/355qvahweoxokhjllf52.png",
-  "slug": "building-a-minio-file-explorer-app-in-30-minutes-4obf",
-  "url": "https://dev.to/tooljet/building-a-minio-file-explorer-app-in-30-minutes-4obf",
-  "publish_date": "2022-09-02",
-  "published_at": "2022-09-02T08:31:14Z"
  }
 ]
