@@ -1,5 +1,55 @@
 [
  {
+  "id": 1293701,
+  "title": "Meme Monday 🎉",
+  "description": "We are back to Monday, after doing Tuesday last week. It's the little things in life.  Today's cover...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BXb-mirH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1v41wj1k8rneqg3j67ct.png",
+  "slug": "meme-monday-1e1i",
+  "url": "https://dev.to/ben/meme-monday-1e1i",
+  "publish_date": "2022-12-12",
+  "published_at": "2022-12-12T16:44:36Z"
+ },
+ {
+  "id": 1293458,
+  "title": "How to Set up Google Analytics on Shopify [4 Methods Explained]",
+  "description": "Ever since I started to work with Shopify clients, I realized they all have problems with their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yAL0r6Cx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y1dwm2rv2p3nspf7u9xy.png",
+  "slug": "how-to-set-up-google-analytics-on-shopify-4-methods-explained-433b",
+  "url": "https://dev.to/gloriamaldonado/how-to-set-up-google-analytics-on-shopify-4-methods-explained-433b",
+  "publish_date": "2022-12-12",
+  "published_at": "2022-12-12T14:40:13Z"
+ },
+ {
+  "id": 1293432,
+  "title": "B2B Commerce w. Medusa: Set up a Next.js storefront (2/2)",
+  "description": "In part 1 of the B2B series, you learned how to set up your Medusa server for a B2B ecommerce use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f2csyEaO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmtzz7ktu5mnpdxj4cay.jpg",
+  "slug": "b2b-commerce-w-medusa-set-up-a-nextjs-storefront-22-2jbi",
+  "url": "https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-nextjs-storefront-22-2jbi",
+  "publish_date": "2022-12-12",
+  "published_at": "2022-12-12T13:27:41Z"
+ },
+ {
+  "id": 1293422,
+  "title": "B2B Commerce w. Medusa: Set up a headless Node.js backend (1/2)",
+  "description": "This tutorial series covers how you can use Medusa and its different components and features to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VedmKbc2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rsdeuxsse3118l3dwjo2.jpg",
+  "slug": "b2b-commerce-w-medusa-set-up-a-headless-nodejs-backend-12-2n7m",
+  "url": "https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-headless-nodejs-backend-12-2n7m",
+  "publish_date": "2022-12-12",
+  "published_at": "2022-12-12T13:17:34Z"
+ },
+ {
+  "id": 1292573,
+  "title": "Automatically Transcribe YouTube Videos with OpenAI Whisper",
+  "description": "OpenAI is on everyone's lips, but this is not about their recent Chatbot but about a language model...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--svvEP-aR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2df3yfuxhsm2fmdegn5.jpg",
+  "slug": "automatically-transcribe-youtube-videos-with-openai-whisper-1856",
+  "url": "https://dev.to/zirkelc/automatically-transcribe-youtube-videos-with-openai-whisper-1856",
+  "publish_date": "2022-12-12",
+  "published_at": "2022-12-12T11:00:00Z"
+ },
+ {
   "id": 1292407,
   "title": "5 Simple Things Highly Productive Developers Do",
   "description": "I have spent fair share of hours trying to improve my productivity, rather than actually doing the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/myogeshchavan97/how-to-deploy-your-nodejs-application-for-free-with-render-alternative-to-heroku-52o7",
   "publish_date": "2022-09-04",
   "published_at": "2022-09-04T06:09:03Z"
- },
- {
-  "id": 1183266,
-  "title": "Awesome Web Projects Ideas You Can put them on your Resume",
-  "description": "Table of Contents    Table of Contents Introduction Hosting Tools  Project...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ivCq_EjX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ibp80lhco0vonn67fprc.png",
-  "slug": "awesome-web-projects-ideas-you-can-put-them-on-your-resume-7j9",
-  "url": "https://dev.to/varshithvhegde/awesome-web-projects-ideas-you-can-put-them-on-your-resume-7j9",
-  "publish_date": "2022-09-03",
-  "published_at": "2022-09-03T15:41:34Z"
- },
- {
-  "id": 1183230,
-  "title": "Why did I switch from an MNC to a Startup?",
-  "description": "If a year ago someone would have come up to me and told me to quit my safe, conservative job, my...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--74OLZY9x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qcvsemymqv8faak80ccz.jpg",
-  "slug": "why-did-i-switch-from-an-mnc-to-a-startup-47m4",
-  "url": "https://dev.to/analyticsverse/why-did-i-switch-from-an-mnc-to-a-startup-47m4",
-  "publish_date": "2022-09-03",
-  "published_at": "2022-09-03T14:09:49Z"
- },
- {
-  "id": 1178295,
-  "title": "Git Cheatsheet",
-  "description": "Hello everyone, here is a quick reference guide of the git commands:           git config    Setup...",
-  "cover_image": "",
-  "slug": "git-cheatsheet-414e",
-  "url": "https://dev.to/sarath_pm/git-cheatsheet-414e",
-  "publish_date": "2022-09-03",
-  "published_at": "2022-09-03T13:35:05Z"
- },
- {
-  "id": 1182443,
-  "title": "Railway. A Free Alternative To Heroku!!!",
-  "description": "Recently, due to the news with Heroku for shutting down their Free Plan, we have all been extensively...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-TKHscW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m82trntwlhgy8schtl9b.png",
-  "slug": "railway-a-free-alternative-to-heroku-57m2",
-  "url": "https://dev.to/devarshishimpi/railway-a-free-alternative-to-heroku-57m2",
-  "publish_date": "2022-09-03",
-  "published_at": "2022-09-03T10:54:56Z"
- },
- {
-  "id": 1182937,
-  "title": "Simple MongoDB Database Setup for Discord.JS (Replit)",
-  "description": "Here's an easy implementation of MongoDB in a Discord.JS bot built on Replit! Be sure to follow the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2xQECxl1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pxosheed9r4bf1w6adw9.png",
-  "slug": "simple-mongodb-database-for-discordjs-replit-3i2k",
-  "url": "https://dev.to/w6/simple-mongodb-database-for-discordjs-replit-3i2k",
-  "publish_date": "2022-09-03",
-  "published_at": "2022-09-03T04:13:35Z"
  }
 ]
