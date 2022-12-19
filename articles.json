@@ -1,5 +1,55 @@
 [
  {
+  "id": 1301453,
+  "title": "How to learn in public",
+  "description": "Think back to your first encounter with the concept of learning in public. Is it tech-related?       ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h4JiF9pM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vyjgz02oadxt7p0nsfye.png",
+  "slug": "how-to-learn-in-public-1coh",
+  "url": "https://dev.to/blackgirlbytes/how-to-learn-in-public-1coh",
+  "publish_date": "2022-12-18",
+  "published_at": "2022-12-18T14:36:27Z"
+ },
+ {
+  "id": 1301441,
+  "title": "AI and Frontend Development: A Match Made in Tech Heaven?",
+  "description": "AI and Frontend Development: A Match Made in Tech Heaven?   Frontend developers, your days...",
+  "cover_image": "",
+  "slug": "ai-and-frontend-development-a-match-made-in-tech-heaven-5c55",
+  "url": "https://dev.to/chainguns/ai-and-frontend-development-a-match-made-in-tech-heaven-5c55",
+  "publish_date": "2022-12-18",
+  "published_at": "2022-12-18T13:52:05Z"
+ },
+ {
+  "id": 1301425,
+  "title": "20 Git Commands you (probably) didn't know about 🧙‍♂️",
+  "description": "A collection of 20 under-used git features to upgrade your development experience",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q5y19ULR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.ibb.co/yqtrTTS/git-commands-banner.png",
+  "slug": "20-git-commands-you-probably-didnt-know-about-4j4o",
+  "url": "https://dev.to/lissy93/20-git-commands-you-probably-didnt-know-about-4j4o",
+  "publish_date": "2022-12-18",
+  "published_at": "2022-12-18T13:32:40Z"
+ },
+ {
+  "id": 1301326,
+  "title": "How to Make Responsive eSports Website Using HTML CSS JavaScript",
+  "description": "In this video, we'll show you how to make a basic gaming website using HTML, CSS, and JavaScript....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X0hBXrHL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dyx5vz2qtetfr5fohl67.png",
+  "slug": "how-to-make-responsive-esports-website-using-html-css-javascript-23fm",
+  "url": "https://dev.to/codewithsadee/how-to-make-responsive-esports-website-using-html-css-javascript-23fm",
+  "publish_date": "2022-12-18",
+  "published_at": "2022-12-18T12:20:08Z"
+ },
+ {
+  "id": 1300782,
+  "title": "Dockerizing NodeJS, Express, and MongoDB App with NGINX as a Reverse Proxy",
+  "description": "🙂 As a beginner developer or while learning Backend development, The most common start point of most...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_OmGy-J8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2rcvicrheahex4idkgo.jpeg",
+  "slug": "dockerizing-nodejs-express-and-mongodb-app-with-nginx-as-a-reverse-proxy-27a4",
+  "url": "https://dev.to/lovepreetsingh/dockerizing-nodejs-express-and-mongodb-app-with-nginx-as-a-reverse-proxy-27a4",
+  "publish_date": "2022-12-18",
+  "published_at": "2022-12-18T04:55:13Z"
+ },
+ {
   "id": 1300944,
   "title": "React Native cheatsheet for beginners",
   "description": "React native is one of the most demanding cross platform frameworks developed by Meta (Facebook) for...",
@@ -1070,22 +1120,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/smeetsmeister/30-day-update-on-fixing-my-attention-deficit-2fe0",
   "publish_date": "2022-09-10",
   "published_at": "2022-09-10T09:08:36Z"
- },
- {
-  "id": 1188280,
-  "title": "Follow Friday: Career Edition (9 September 2022)",
-  "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
-  "cover_image": "",
-  "slug": "follow-friday-career-edition-8-september-2022-3np5",
-  "url": "https://dev.to/devteam/follow-friday-career-edition-8-september-2022-3np5",
-  "publish_date": "2022-09-09",
-  "published_at": "2022-09-09T15:40:43Z"
- },
- {
-  "id": 1188928,
-  "title": "Being Highly Agreeable Is All You Need To Land Your First Job In Tech.",
-  "description": "In today's world, the competition is high, and the demand for qualified employees is even higher....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ezL15Aw_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.pixabay.com/photo/2016/10/10/13/42/agree-1728448_960_720.jpg",
-  "slug": "being-highly-agreeable-is-all-you-need-to-land-your-first-job-in-tech-2c2c",
-  "url": "https://dev.to/wiseai/being-highly-agreeable-is-all-you-need-to-land-your-first-job-in-tech-2c2c",
-  "publish_date": "2022-09-09",
-  "published_at": "2022-09-09T10:55:53Z"
- },
- {
-  "id": 1188927,
-  "title": "How to Push an empty commit?",
-  "description": "Have you ever tried to push a commit to a Git branch without changing any files in order to re-run...",
-  "cover_image": "",
-  "slug": "how-to-push-an-empty-commit-28dd",
-  "url": "https://dev.to/devsimc/how-to-push-an-empty-commit-28dd",
-  "publish_date": "2022-09-09",
-  "published_at": "2022-09-09T10:49:15Z"
- },
- {
-  "id": 1188795,
-  "title": "JavaScript sending data between windows",
-  "description": "I recently worked on a system that needed to open a popup window. A specific action could be done on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1H2NXlE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c1r7oqn3ohw3f49qlwvo.jpg",
-  "slug": "javascript-sending-data-between-windows-1ima",
-  "url": "https://dev.to/dailydevtips1/javascript-sending-data-between-windows-1ima",
-  "publish_date": "2022-09-09",
-  "published_at": "2022-09-09T07:33:18Z"
- },
- {
-  "id": 1187572,
-  "title": "How blogging helped me land a part time job in tech?",
-  "description": "Introduction   Blogging is no doubt one of the major ways of sharing knowledge, experience,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8YfAR2Dn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jw7su4wm9vccymhymb30.png",
-  "slug": "how-blogging-helped-me-land-a-part-time-job-in-tech-5gi9",
-  "url": "https://dev.to/asheeshh/how-blogging-helped-me-land-a-part-time-job-in-tech-5gi9",
-  "publish_date": "2022-09-09",
-  "published_at": "2022-09-09T03:49:09Z"
  }
 ]
