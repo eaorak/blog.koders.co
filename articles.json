@@ -1,5 +1,55 @@
 [
  {
+  "id": 1307725,
+  "title": "The Ultimate guide of all 24 CSS Viewport Units",
+  "description": "You've probably heard of the different units used in CSS, but you may not have understood them all —...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9J4E4yDT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nv6fe7im3xls295x3s48.png",
+  "slug": "the-ultimate-guide-of-all-24-css-viewport-units-3dhk",
+  "url": "https://dev.to/arafat4693/the-ultimate-guide-of-all-24-css-viewport-units-3dhk",
+  "publish_date": "2022-12-24",
+  "published_at": "2022-12-24T14:33:47Z"
+ },
+ {
+  "id": 1307539,
+  "title": "What's wrong with code in 2022? 🤷🏻‍♀️",
+  "description": "I use one service from time to time: I need to upload some files there (the name of the service does...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jYqPzEnS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8oaufgp39uhljq24mxl9.jpg",
+  "slug": "whats-wrong-with-code-in-2022-3nbd",
+  "url": "https://dev.to/mariamarsh/whats-wrong-with-code-in-2022-3nbd",
+  "publish_date": "2022-12-24",
+  "published_at": "2022-12-24T10:05:51Z"
+ },
+ {
+  "id": 1307672,
+  "title": "Responsive Web Designs with CSS",
+  "description": "Hello everyone, today I'll talk about some often asked questions about responsive web design....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--adUnZjts--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qnl5dypnh7x97x0s6sd1.png",
+  "slug": "responsive-web-designs-with-css-241k",
+  "url": "https://dev.to/shubhamtiwari909/responsive-web-designs-with-css-241k",
+  "publish_date": "2022-12-24",
+  "published_at": "2022-12-24T08:47:21Z"
+ },
+ {
+  "id": 1307578,
+  "title": "Hello React, Goodbye useEffect (I Hope)",
+  "description": "In this article, I will show you how to use React to replace useEffect in most cases.  I've been...",
+  "cover_image": "",
+  "slug": "hello-react-goodbye-useeffect-i-hope-4mf1",
+  "url": "https://dev.to/imbios/hello-react-goodbye-useeffect-i-hope-4mf1",
+  "publish_date": "2022-12-24",
+  "published_at": "2022-12-24T07:00:49Z"
+ },
+ {
+  "id": 1307548,
+  "title": "Reactivity in Javascript",
+  "description": "👀 What is Reactivity?   It's the ability of a piece of code to automatically update or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Ao4pOsA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo7qegw7cmwrkvo02yl7.png",
+  "slug": "reactivity-in-javascript-2833",
+  "url": "https://dev.to/tanmoysarkar/reactivity-in-javascript-2833",
+  "publish_date": "2022-12-24",
+  "published_at": "2022-12-24T05:20:17Z"
+ },
+ {
   "id": 1307039,
   "title": "Optimize your data fetching with React Query ⚛️",
   "description": "I’ve been introduced to React Query at work last year and I wouldn’t be the first to say that it was...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ashishdonga/its-2022-please-dont-just-use-consolelog-anymore-2oel",
   "publish_date": "2022-09-16",
   "published_at": "2022-09-16T05:48:45Z"
- },
- {
-  "id": 1194265,
-  "title": "19 Practical ES6 Snippets to Solve Common JS Problems 🚀💯",
-  "description": "In our developer workflow, we often encounter challenging problems that might require just a few...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fkt1xnFD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tzncjvbqvq8jkw7l1v9w.png",
-  "slug": "19-practical-es6-snippets-to-solve-common-js-problems-31o9",
-  "url": "https://dev.to/madza/19-practical-es6-snippets-to-solve-common-js-problems-31o9",
-  "publish_date": "2022-09-15",
-  "published_at": "2022-09-15T15:47:21Z"
- },
- {
-  "id": 1194009,
-  "title": "7 Must Know JavaScript Tips \u0026 Tricks 🎈",
-  "description": "Let's have a look at 7 valuable tips and tricks found in the most popular language in the world,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JB2QE7Ej--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vgad7ph4dihcbqw45kl3.jpg",
-  "slug": "7-must-know-javascript-tips-tricks-2m8f",
-  "url": "https://dev.to/dcodeyt/7-must-know-javascript-tips-tricks-2m8f",
-  "publish_date": "2022-09-15",
-  "published_at": "2022-09-15T12:49:53Z"
- },
- {
-  "id": 1193968,
-  "title": "How to Write a Scalable Frontend",
-  "description": "When modularizing your codebase, you'll want to create a module for each piece of functionality. For...",
-  "cover_image": "",
-  "slug": "how-to-write-a-scalable-frontend-5c55",
-  "url": "https://dev.to/omerwow/how-to-write-a-scalable-frontend-5c55",
-  "publish_date": "2022-09-15",
-  "published_at": "2022-09-15T11:12:05Z"
- },
- {
-  "id": 1193777,
-  "title": "What is Authorization service and why does it matter?",
-  "description": "Introduction   Authorization services are the tools you need to protect your data, prevent...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pRFpCJPw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dgm547me8nz43xf7onoy.gif",
-  "slug": "what-is-authorization-service-and-why-does-it-matter-5d9d",
-  "url": "https://dev.to/aviyel/what-is-authorization-service-and-why-does-it-matter-5d9d",
-  "publish_date": "2022-09-15",
-  "published_at": "2022-09-15T06:42:35Z"
- },
- {
-  "id": 1193312,
-  "title": "Celebrating 1M installs of Edge DevTools for VS Code",
-  "description": "The Edge DevTools for Visual Studio Code extension has over 1M downloads, time to recap a bit how it came to be",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UwgXwv1W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nm6rnr9h8llav0s9n69v.png",
-  "slug": "celebrating-1m-installs-of-edge-devtools-for-vs-code-45o9",
-  "url": "https://dev.to/codepo8/celebrating-1m-installs-of-edge-devtools-for-vs-code-45o9",
-  "publish_date": "2022-09-15",
-  "published_at": "2022-09-15T05:56:52Z"
  }
 ]
