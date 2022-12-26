@@ -1,5 +1,55 @@
 [
  {
+  "id": 1308306,
+  "title": "Top 10 software architecture pattern",
+  "description": "Software architecture patterns are commonly used design approaches that help developers create...",
+  "cover_image": "",
+  "slug": "top-10-software-architecture-pattern-4ngd",
+  "url": "https://dev.to/giasuddin90/top-10-software-architecture-pattern-4ngd",
+  "publish_date": "2022-12-25",
+  "published_at": "2022-12-25T10:01:29Z"
+ },
+ {
+  "id": 1308300,
+  "title": "Chrome Extensions of the Month - December 2022",
+  "description": "In this article, I will suggest to you some of the best extensions you need to install for better...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DQJz5p7I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1732qtxsgmyhm98d7ao.png",
+  "slug": "chrome-extensions-of-the-month-december-2022-29hp",
+  "url": "https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp",
+  "publish_date": "2022-12-25",
+  "published_at": "2022-12-25T09:49:09Z"
+ },
+ {
+  "id": 1308223,
+  "title": "Kubernetes: Whats, Whys, and Hows of Kubernetes with Demonstration",
+  "description": "📍 Why we need Kubernetes?   🙂 When It comes to heavy traffic on our website then we need to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KiyvA6Yb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqpvkuafo1iffcyp3ais.jpg",
+  "slug": "kubernetes-whats-whys-and-hows-of-kubernetes-with-demonstration-28dn",
+  "url": "https://dev.to/lovepreetsingh/kubernetes-whats-whys-and-hows-of-kubernetes-with-demonstration-28dn",
+  "publish_date": "2022-12-25",
+  "published_at": "2022-12-25T07:37:45Z"
+ },
+ {
+  "id": 1308191,
+  "title": "7 free Tools for the Modern Web Developers of 2023",
+  "description": "Want smooth sailing on your Web Development journey in 2023? Check out these free tools that the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AuQl_vz---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whms85xj936c018gbyw3.png",
+  "slug": "7-free-tools-for-the-modern-web-developers-of-2023-4lhh",
+  "url": "https://dev.to/ruppysuppy/7-free-tools-for-the-modern-web-developers-of-2023-4lhh",
+  "publish_date": "2022-12-25",
+  "published_at": "2022-12-25T06:17:00Z"
+ },
+ {
+  "id": 1308127,
+  "title": "Finally, a Free (and Open Source) Resume Builder Without Watermarks or Limitations",
+  "description": "I have wasted more time than I'd like to admit looking for a resume builder. All of the \"free\" ones...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oS9NEXQ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.shaneduffy.io/shaneduffy/reactive-resume-banner.png",
+  "slug": "finally-a-free-and-open-source-resume-builder-without-watermarks-or-limitations-2gbm",
+  "url": "https://dev.to/cppshane/finally-a-free-and-open-source-resume-builder-without-watermarks-or-limitations-2gbm",
+  "publish_date": "2022-12-25",
+  "published_at": "2022-12-25T03:54:00Z"
+ },
+ {
   "id": 1307725,
   "title": "The Ultimate guide of all 24 CSS Viewport Units",
   "description": "You've probably heard of the different units used in CSS, but you may not have understood them all —...",
@@ -1420,22 +1470,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/k_ivanow/hiring-for-remote-work-in-2022-37b3",
   "publish_date": "2022-09-17",
   "published_at": "2022-09-17T10:36:17Z"
- },
- {
-  "id": 1195217,
-  "title": "What was your win this week?",
-  "description": "Got to all your meetings on time? Started a new project? Fixed a tricky bug?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pyDLAPme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cl.ly/188e843c2985/download/Image%25202019-02-15%2520at%25202.36.37%2520PM.png",
-  "slug": "what-was-your-win-this-week-4jb2",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-4jb2",
-  "publish_date": "2022-09-16",
-  "published_at": "2022-09-16T15:26:49Z"
- },
- {
-  "id": 1194713,
-  "title": "How To Debug React Apps With VS Code - Boost Your Debugging Productivity",
-  "description": "Debugging a React app can be a painful process. Speed up your workflow with the VS Code debugger and decrease friction. Good news: It's super simple.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--faY15JWh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b4bjg33oiq261p11ask1.png",
-  "slug": "how-to-debug-react-apps-with-vs-code-boost-your-debugging-productivity-1k05",
-  "url": "https://dev.to/profydev/how-to-debug-react-apps-with-vs-code-boost-your-debugging-productivity-1k05",
-  "publish_date": "2022-09-16",
-  "published_at": "2022-09-16T12:09:50Z"
- },
- {
-  "id": 1194994,
-  "title": "Lightweight Go-based Spa-to-http \"beats\" Nginx in SPA serving performance",
-  "description": "Performance benchmark, how it was measured      Spa-to-http Nginx     Average time from container...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n4SeOxFU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ddtk6m50puiher0gyrdy.jpeg",
-  "slug": "lightweight-go-based-spa-to-http-beats-nginx-in-spa-serving-performance-459c",
-  "url": "https://dev.to/ivictbor/lightweight-go-based-spa-to-http-beats-nginx-in-spa-serving-performance-459c",
-  "publish_date": "2022-09-16",
-  "published_at": "2022-09-16T11:59:13Z"
- },
- {
-  "id": 1194775,
-  "title": "A beginner's guide to VueJS",
-  "description": "Intro   Hey there, everybody. In this article, I'll be showing you how you can start your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rVBxMq_l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9aetblxkrym4iu8f77ww.jpg",
-  "slug": "a-beginners-guide-to-vuejs-3oa1",
-  "url": "https://dev.to/dustyworld666/a-beginners-guide-to-vuejs-3oa1",
-  "publish_date": "2022-09-16",
-  "published_at": "2022-09-16T08:36:56Z"
- },
- {
-  "id": 1194785,
-  "title": "It’s 2022, Please Don’t Just Use “console.log” Anymore 😎",
-  "description": "It is 2022 and still you use console.log then this guide for you  5 JavaScript console object methods...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8Es8Gf9m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkurlhm161ew6xkje3ay.jpg",
-  "slug": "its-2022-please-dont-just-use-consolelog-anymore-2oel",
-  "url": "https://dev.to/ashishdonga/its-2022-please-dont-just-use-consolelog-anymore-2oel",
-  "publish_date": "2022-09-16",
-  "published_at": "2022-09-16T05:48:45Z"
  }
 ]
