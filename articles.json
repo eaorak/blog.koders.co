@@ -1,5 +1,55 @@
 [
  {
+  "id": 1307976,
+  "title": "What's involved with NativeScript open source?",
+  "description": "As someone who has been lucky to enjoy NativeScript open source for several years and an active...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--38DU4JPZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idkj3ai8rhv465uxih2o.jpg",
+  "slug": "whats-involved-with-nativescript-open-source-55jc",
+  "url": "https://dev.to/nathanwalker/whats-involved-with-nativescript-open-source-55jc",
+  "publish_date": "2022-12-28",
+  "published_at": "2022-12-28T14:32:26Z"
+ },
+ {
+  "id": 1310782,
+  "title": "5 Years of Coding Interview Lessons — in 2 Minutes",
+  "description": "In the last 5 years I have given 20+ coding interviews.  As a result my approach to prepare and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pcldjpOH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o3ob2gnb9f5ospjokwx5.png",
+  "slug": "5-years-of-coding-interview-lessons-in-2-minutes-2gk7",
+  "url": "https://dev.to/codewithvoid/5-years-of-coding-interview-lessons-in-2-minutes-2gk7",
+  "publish_date": "2022-12-28",
+  "published_at": "2022-12-28T12:15:08Z"
+ },
+ {
+  "id": 1310558,
+  "title": "How to Write an Awesome Readme",
+  "description": "Introduction   After the code, the readme is the most important thing to add to your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--s-W3zFvV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0dxwj6eehorc4n6n7a0t.png",
+  "slug": "how-to-write-an-awesome-readme-cfl",
+  "url": "https://dev.to/documatic/how-to-write-an-awesome-readme-cfl",
+  "publish_date": "2022-12-28",
+  "published_at": "2022-12-28T11:30:00Z"
+ },
+ {
+  "id": 1295634,
+  "title": "Querying All Appwrite Developers - GraphQL Has Arrived",
+  "description": "Hot on the heels of two huge releases comes Appwrite 1.2, bringing with it a brand new, highly...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S7eEuRM5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vjazrkhbg7ymabc8zsfo.png",
+  "slug": "querying-all-appwrite-developers-graphql-has-arrived-3o3c",
+  "url": "https://dev.to/appwrite/querying-all-appwrite-developers-graphql-has-arrived-3o3c",
+  "publish_date": "2022-12-28",
+  "published_at": "2022-12-28T08:46:35Z"
+ },
+ {
+  "id": 1310607,
+  "title": "Review: 10 Top API Mock Tools",
+  "description": "What is API mock   API mock, or mock API, is a simulated version of an API that is used for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Cek6U2_0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qb5mi0662m6xc24va42h.png",
+  "slug": "review-10-top-api-mock-tools-57f7",
+  "url": "https://dev.to/ismailkamil/review-10-top-api-mock-tools-57f7",
+  "publish_date": "2022-12-28",
+  "published_at": "2022-12-28T06:37:44Z"
+ },
+ {
   "id": 1310021,
   "title": "Skills you should mention in your resume for an SDE Role",
   "description": "First let’s understand what is SDE ?  A Software Development Engineer (SDE) is responsible for...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/hr21don/every-blogger-should-save-these-10-insanely-useful-websites-44ad",
   "publish_date": "2022-09-20",
   "published_at": "2022-09-20T09:02:11Z"
- },
- {
-  "id": 1197183,
-  "title": "Appwrite Disqus OAuth Integration",
-  "description": "Appwrite 1.0 is out now! 🎉We have released some amazing features, and also added a few more OAuth2...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--efrS0zBX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8h0wa00p8fi0nr366a3i.png",
-  "slug": "appwrite-disqus-oauth-integration-33pf",
-  "url": "https://dev.to/appwrite/appwrite-disqus-oauth-integration-33pf",
-  "publish_date": "2022-09-19",
-  "published_at": "2022-09-19T15:38:37Z"
- },
- {
-  "id": 1197415,
-  "title": "Meme Monday 😁",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2STZniN5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/080cnhp2slvlkpaeuwyb.png",
-  "slug": "meme-monday-4428",
-  "url": "https://dev.to/ben/meme-monday-4428",
-  "publish_date": "2022-09-19",
-  "published_at": "2022-09-19T15:13:38Z"
- },
- {
-  "id": 1129507,
-  "title": "Appwrite Loves Open Source: Why I Chose To Support Homebrew",
-  "description": "Open-source is at the ❤️ of everything we do at Appwrite and CodingCat.dev wants to provide the same environment for content creators.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cwseTjsv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ygiuvjiqpm95n9z2ual1.png",
-  "slug": "appwrite-loves-open-source-why-i-chose-to-support-homebrew-h6i",
-  "url": "https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-support-homebrew-h6i",
-  "publish_date": "2022-09-19",
-  "published_at": "2022-09-19T13:20:45Z"
- },
- {
-  "id": 1195231,
-  "title": "Web 2.0 to Web 3.0 - 9,999 Utility NFTs Sold Out in 60 minutes for our UI/UX Tools",
-  "description": "Our first Web 3.0/NFTs project was launched last Friday after 11+ months of hard work and support...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a_tWXaIj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/28ozw892439illvhebxq.jpg",
-  "slug": "web-20-to-web-30-9999-utility-nfts-sold-out-in-60-minutes-for-our-uiux-tools-58j7",
-  "url": "https://dev.to/creativetim_official/web-20-to-web-30-9999-utility-nfts-sold-out-in-60-minutes-for-our-uiux-tools-58j7",
-  "publish_date": "2022-09-19",
-  "published_at": "2022-09-19T12:19:46Z"
- },
- {
-  "id": 1196978,
-  "title": "Making a fast website is SUPER EASY 😏",
-  "description": "That's right, I said it. Making a fast website is super easy, barely an inconvenience.  I've built a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x_Sv5h30--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rkzv3rk0qwdgoer7ipg9.jpg",
-  "slug": "making-a-fast-website-is-super-easy-9lb",
-  "url": "https://dev.to/enterspeed/making-a-fast-website-is-super-easy-9lb",
-  "publish_date": "2022-09-19",
-  "published_at": "2022-09-19T07:26:18Z"
  }
 ]
