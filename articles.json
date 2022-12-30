@@ -1,5 +1,55 @@
 [
  {
+  "id": 1311541,
+  "title": "JavaScript Frameworks - Heading into 2023",
+  "description": "The wonderful thing about glimpsing into the future is that the path is never completely clear. We...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y5E1X-e_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g9ca1yzh1ujvw0blr5ys.jpg",
+  "slug": "javascript-frameworks-heading-into-2023-nln",
+  "url": "https://dev.to/this-is-learning/javascript-frameworks-heading-into-2023-nln",
+  "publish_date": "2022-12-29",
+  "published_at": "2022-12-29T20:09:40Z"
+ },
+ {
+  "id": 1310375,
+  "title": "My Hackerrank Internship Experience",
+  "description": "This article is about my internship at Hackerrank.  HackerRank is a technology hiring platform that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NvUYTQgp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3ce1ek297eknia15sd7.jpg",
+  "slug": "my-hackerrank-internship-experience-2d3i",
+  "url": "https://dev.to/kitarp29/my-hackerrank-internship-experience-2d3i",
+  "publish_date": "2022-12-29",
+  "published_at": "2022-12-29T11:50:15Z"
+ },
+ {
+  "id": 1308485,
+  "title": "React Hooks vs. Redux",
+  "description": "In developing and application, Data management is an important concept used by developers to minimize...",
+  "cover_image": "",
+  "slug": "react-hooks-vs-redux-51p7",
+  "url": "https://dev.to/qbentil/react-hooks-vs-redux-51p7",
+  "publish_date": "2022-12-29",
+  "published_at": "2022-12-29T10:29:15Z"
+ },
+ {
+  "id": 1311660,
+  "title": "Git in 10 mins",
+  "description": "Ah, back after a veryyyy long time.Well, guess I could be more regular now. Okay then back to the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c8VTJzIL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pki75vs0e3fuwsscurxd.png",
+  "slug": "git-in-10-mins-519g",
+  "url": "https://dev.to/dumboprogrammer/git-in-10-mins-519g",
+  "publish_date": "2022-12-29",
+  "published_at": "2022-12-29T08:47:33Z"
+ },
+ {
+  "id": 1311483,
+  "title": "How to fix the most common mistakes in Git - save this for when you need it",
+  "description": "We all know how awesome Git is in tracking changes, simplifying collaboration between multiple...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mn6Rg7q---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o9dufved1aqijm0e3htb.jpeg",
+  "slug": "how-to-fix-the-most-common-mistakes-in-git-learn-it-by-breaking-it-286m",
+  "url": "https://dev.to/mohsenkamrani/how-to-fix-the-most-common-mistakes-in-git-learn-it-by-breaking-it-286m",
+  "publish_date": "2022-12-29",
+  "published_at": "2022-12-29T04:33:12Z"
+ },
+ {
   "id": 1307976,
   "title": "What's involved with NativeScript open source?",
   "description": "As someone who has been lucky to enjoy NativeScript open source for several years and an active...",
@@ -1620,22 +1670,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alvaromontoro/launching-an-images-website-without-any-images-14bd",
   "publish_date": "2022-09-21",
   "published_at": "2022-09-21T01:02:49Z"
- },
- {
-  "id": 1197208,
-  "title": "Redis Hackathon Winners, Announced!",
-  "description": "Celebrating the winners from the Redis Hackathon on DEV!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iEAMJz2f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ihsn1ke8mwcgcoioi71s.png",
-  "slug": "redis-hackathon-winners-announced-524d",
-  "url": "https://dev.to/devteam/redis-hackathon-winners-announced-524d",
-  "publish_date": "2022-09-20",
-  "published_at": "2022-09-20T16:46:52Z"
- },
- {
-  "id": 1152557,
-  "title": "Guardian 1.0.0 available now! Your Free Open Source audit tool for AWS architectures!",
-  "description": "Announcing the first stable version of Guardian, a free open source audit tool for AWS architectures.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vHfv8sqJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/slzm4vusv17fgkvinoyo.png",
-  "slug": "guardian-100-available-now-your-free-open-source-audit-tool-for-aws-architectures-54cd",
-  "url": "https://dev.to/kumo/guardian-100-available-now-your-free-open-source-audit-tool-for-aws-architectures-54cd",
-  "publish_date": "2022-09-20",
-  "published_at": "2022-09-20T13:12:54Z"
- },
- {
-  "id": 1198116,
-  "title": "HackSquad 2022 - Contribute, Meet, Participate, and win SWAG 🤯",
-  "description": "With the fantastic atmosphere of Hacktoberfest, we have decided to create Hacksquad. Hacksquad is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ki3-UgKc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oet2daefkap1sgk5fhnq.png",
-  "slug": "hacksquad-2022-contribute-meet-participate-and-win-swag-3b18",
-  "url": "https://dev.to/novu/hacksquad-2022-contribute-meet-participate-and-win-swag-3b18",
-  "publish_date": "2022-09-20",
-  "published_at": "2022-09-20T12:30:50Z"
- },
- {
-  "id": 1194244,
-  "title": "SASS Syntax 👀",
-  "description": "In the previous post, we learned how to compile SCSS to CSS. Now we will learn how to write...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BqUp3Zs---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mkqrl1oq27ydytow13bq.gif",
-  "slug": "sass-syntax-34f1",
-  "url": "https://dev.to/ak_ram/sass-syntax-34f1",
-  "publish_date": "2022-09-20",
-  "published_at": "2022-09-20T09:32:24Z"
- },
- {
-  "id": 1197931,
-  "title": "Every Blogger Should Save These 10 Insanely Useful Websites 👇",
-  "description": "Barsee is the author behind the list of 10 such websites, here we are going to look at some of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_eKffZ4O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7591d0exk4j5y0vdjg94.gif",
-  "slug": "every-blogger-should-save-these-10-insanely-useful-websites-44ad",
-  "url": "https://dev.to/hr21don/every-blogger-should-save-these-10-insanely-useful-websites-44ad",
-  "publish_date": "2022-09-20",
-  "published_at": "2022-09-20T09:02:11Z"
  }
 ]
