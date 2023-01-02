@@ -1,5 +1,55 @@
 [
  {
+  "id": 1314312,
+  "title": "💅🏻If you're beautiful, follow this JS Code Style",
+  "description": "Summary 📑    Soft tabs with two spaces Never use semicolons Always use single quotes Keep...",
+  "cover_image": "",
+  "slug": "if-youre-beautiful-follow-this-js-code-style-3m99",
+  "url": "https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99",
+  "publish_date": "2023-01-01",
+  "published_at": "2023-01-01T17:07:39Z"
+ },
+ {
+  "id": 1314216,
+  "title": "How Python can help web developers",
+  "description": "As a web developer, you're no stranger to the never-ending quest for tools and technologies that can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xBZUGBTo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/argnl8dmij50uff3k0iw.png",
+  "slug": "how-python-can-help-web-developers-d87",
+  "url": "https://dev.to/chainguns/how-python-can-help-web-developers-d87",
+  "publish_date": "2023-01-01",
+  "published_at": "2023-01-01T13:54:59Z"
+ },
+ {
+  "id": 1314083,
+  "title": "Complete guide to ESLint, Prettier, husky and lint-staged",
+  "description": "Detailed guide on how to install ESLint, Prettier, husky and lint-staged ✍🏻           Why do you need...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KyQMteKc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0mnmjambdxfic9tjygkk.png",
+  "slug": "complete-guide-to-eslint-prettier-husky-and-lint-staged-fh9",
+  "url": "https://dev.to/shashwatnautiyal/complete-guide-to-eslint-prettier-husky-and-lint-staged-fh9",
+  "publish_date": "2023-01-01",
+  "published_at": "2023-01-01T10:05:38Z"
+ },
+ {
+  "id": 1314051,
+  "title": "How to Optimize Your Website for Mobile Devices",
+  "description": "Best practices for mobile optimization   When optimizing your website for mobile devices,...",
+  "cover_image": "",
+  "slug": "how-to-optimize-your-website-for-mobile-devices-1a2e",
+  "url": "https://dev.to/ariellun/how-to-optimize-your-website-for-mobile-devices-1a2e",
+  "publish_date": "2023-01-01",
+  "published_at": "2023-01-01T07:33:10Z"
+ },
+ {
+  "id": 1313954,
+  "title": "Become an Animation Master with Anime.js - Setting up the Environment and Basic Animations",
+  "description": "Animations, if used wisely, can take the user experience of your websites to a whole different level,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KeiNitdm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uonlixldu1v8sumxq7tg.png",
+  "slug": "become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad",
+  "url": "https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad",
+  "publish_date": "2023-01-01",
+  "published_at": "2023-01-01T02:05:03Z"
+ },
+ {
   "id": 1313638,
   "title": "How to create navigation menu with HTML CSS step by step | web design tutorial | HTML CSS tutorial",
   "description": "Hello!! Creative People,  Today I want to share with you HTML CSS Design (Navigation Menu).  I...",
@@ -1770,22 +1820,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di",
   "publish_date": "2022-09-24",
   "published_at": "2022-09-24T05:05:08Z"
- },
- {
-  "id": 1200538,
-  "title": "DEV Should Remove the Authors Ability to Hide Comments",
-  "description": "Intro 📽️   Before jumping the gun, hear me out!  Recently, I wrote the post:                ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lJnJtytj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/62kanpcn37qt6ono3zr1.jpg",
-  "slug": "dev-should-remove-the-authors-ability-to-hide-comments-2o35",
-  "url": "https://dev.to/gregorygaines/dev-should-remove-the-authors-ability-to-hide-comments-2o35",
-  "publish_date": "2022-09-23",
-  "published_at": "2022-09-23T16:41:56Z"
- },
- {
-  "id": 1201252,
-  "title": "Follow Friday: Python Edition (23 September 2022)",
-  "description": "Happy Friday, friends! 🎉 Follow Friday is your weekly opportunity to shout out fellow DEV Community...",
-  "cover_image": "",
-  "slug": "follow-friday-python-edition-23-september-2022-5456",
-  "url": "https://dev.to/devteam/follow-friday-python-edition-23-september-2022-5456",
-  "publish_date": "2022-09-23",
-  "published_at": "2022-09-23T15:45:53Z"
- },
- {
-  "id": 1201062,
-  "title": "tsParticles 2.3.2 Released",
-  "description": "tsParticles 2.3.2 Changelog            Bug Fixes    Fixed export configuration method of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RzJWMIvY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0d9trtifex57368x02su.jpg",
-  "slug": "tsparticles-232-released-27ep",
-  "url": "https://dev.to/tsparticles/tsparticles-232-released-27ep",
-  "publish_date": "2022-09-23",
-  "published_at": "2022-09-23T12:14:27Z"
- },
- {
-  "id": 1200965,
-  "title": "AWS APAC Community Summit Wrap up",
-  "description": "It has been a challenging couple of years.   The transition to working from home, keeping those...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NY1uIsoe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gih290j72ddcwt3o7lmg.png",
-  "slug": "aws-apac-community-summit-wrap-up-1an4",
-  "url": "https://dev.to/aws-heroes/aws-apac-community-summit-wrap-up-1an4",
-  "publish_date": "2022-09-23",
-  "published_at": "2022-09-23T10:39:48Z"
- },
- {
-  "id": 1199479,
-  "title": "Understand call, apply, and bind functions in JavaScript like never before.",
-  "description": "In this post, we'll take a detailed look at how call, apply, and bind work in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MPaaldO2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5yeov0nnmgoftl5de7nw.png",
-  "slug": "understand-call-apply-and-bind-functions-in-javascript-like-never-before-575e",
-  "url": "https://dev.to/swastikyadav/understand-call-apply-and-bind-functions-in-javascript-like-never-before-575e",
-  "publish_date": "2022-09-23",
-  "published_at": "2022-09-23T10:18:37Z"
  }
 ]
