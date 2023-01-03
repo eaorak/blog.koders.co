@@ -1,5 +1,55 @@
 [
  {
+  "id": 1315054,
+  "title": "17 Compelling Reasons To Start Ditching TypeScript Now.",
+  "description": "If you're anything like me, you're probably using Typescript because you were forced to. Your company...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kMVcTaYL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rdyo2ubjrh5fnd03t3qy.png",
+  "slug": "17-compelling-reasons-to-start-ditching-typescript-now-249b",
+  "url": "https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b",
+  "publish_date": "2023-01-02",
+  "published_at": "2023-01-02T16:19:06Z"
+ },
+ {
+  "id": 1312653,
+  "title": "Finally a clean and easy way to add Table of Contents to dev.to articles 🤩",
+  "description": "Contrary to other platforms, dev.to doesn't have built-in support for Table of Contents (TOCs). Many...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CFwNfPUz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i4m0qxb4qhnejuikl7ts.png",
+  "slug": "finally-a-clean-and-easy-way-to-add-table-of-contents-to-devto-articles-5g6n",
+  "url": "https://dev.to/derlin/finally-a-clean-and-easy-way-to-add-table-of-contents-to-devto-articles-5g6n",
+  "publish_date": "2023-01-02",
+  "published_at": "2023-01-02T13:45:43Z"
+ },
+ {
+  "id": 1296337,
+  "title": "Help, my Angular bundle is growing!",
+  "description": "When building an Angular application, things are usually pretty smooth. However, as time goes by and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kg-Kgcbf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ibe1smm8r7mjoy22rk1.jpg",
+  "slug": "help-my-angular-bundle-is-growing-1jkj",
+  "url": "https://dev.to/this-is-angular/help-my-angular-bundle-is-growing-1jkj",
+  "publish_date": "2023-01-02",
+  "published_at": "2023-01-02T11:00:00Z"
+ },
+ {
+  "id": 1185146,
+  "title": "JS Functional Concepts: Pipe and Compose",
+  "description": "Function piping and composition are concepts from functional programming that of course are possible...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rJpmWDss--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0zygkonmbnl46mrtktu.jpg",
+  "slug": "js-functional-concepts-pipe-and-compose-1mho",
+  "url": "https://dev.to/joelbonetr/js-functional-concepts-pipe-and-compose-1mho",
+  "publish_date": "2023-01-02",
+  "published_at": "2023-01-02T10:23:34Z"
+ },
+ {
+  "id": 1314663,
+  "title": "Microservices vs Monolithic Architecture: A Practical Approach",
+  "description": "📍 Monolithic and Its issues   🙂 When we start learning backend development and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H4IKqhOy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cxmsxgc0zoghkvebczc1.png",
+  "slug": "microservices-vs-monolithic-architecture-a-practical-approach-4m06",
+  "url": "https://dev.to/lovepreetsingh/microservices-vs-monolithic-architecture-a-practical-approach-4m06",
+  "publish_date": "2023-01-02",
+  "published_at": "2023-01-02T06:02:46Z"
+ },
+ {
   "id": 1314312,
   "title": "💅🏻If you're beautiful, follow this JS Code Style",
   "description": "Summary 📑    Soft tabs with two spaces Never use semicolons Always use single quotes Keep...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/renhiyama/introduction-to-ai-ml-1jdb",
   "publish_date": "2022-09-25",
   "published_at": "2022-09-25T02:07:17Z"
- },
- {
-  "id": 1201919,
-  "title": "Continue Using .env Files As Usual.",
-  "description": "Table Of Content (TOC).     Introduction. 1. Storing The .env File. 2. Updating a secret...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LpzgDtjB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ivon50sdm1h96tluxpr.jpg",
-  "slug": "continue-using-env-files-as-usual-2am5",
-  "url": "https://dev.to/wiseai/continue-using-env-files-as-usual-2am5",
-  "publish_date": "2022-09-24",
-  "published_at": "2022-09-24T13:46:35Z"
- },
- {
-  "id": 1189147,
-  "title": "Top 5 Sessions for AWS Developers at HashiConf Global",
-  "description": "👉 The past two years have been challenging due to the pandemic and virtually attending conferences. A...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q71gHwVq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpxvyqdlv0cth1kxu4d2.jpg",
-  "slug": "top-5-sessions-for-aws-developers-at-hashiconf-global-14i5",
-  "url": "https://dev.to/aditmodi/top-5-sessions-for-aws-developers-at-hashiconf-global-14i5",
-  "publish_date": "2022-09-24",
-  "published_at": "2022-09-24T12:58:08Z"
- },
- {
-  "id": 1201881,
-  "title": "JavaScript Local Storage Explained!",
-  "description": "In the early days of the internet, you needed a server to store data. But nowadays, through...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y04F_fnf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8bjw43edlrffo5jsfw4v.png",
-  "slug": "javascript-local-storage-explained-1di6",
-  "url": "https://dev.to/dboatengx/javascript-local-storage-explained-1di6",
-  "publish_date": "2022-09-24",
-  "published_at": "2022-09-24T09:50:58Z"
- },
- {
-  "id": 1198814,
-  "title": "Quiet Quitting is About Loyalty",
-  "description": "In the past year or so, people started writing about the phenomenon of quiet quitting. It isn’t new,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tgwr4nOf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xveosj0p7dpgiwggcj4e.png",
-  "slug": "quiet-quitting-is-about-loyalty-1d6m",
-  "url": "https://dev.to/codenameone/quiet-quitting-is-about-loyalty-1d6m",
-  "publish_date": "2022-09-24",
-  "published_at": "2022-09-24T09:23:32Z"
- },
- {
-  "id": 1201696,
-  "title": "Here's how I increased a website performance by 21%!",
-  "description": "So for days, I have been keen on how I could possibly increase the performance of this website, then...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RFV527tu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ocfd9190y81upos4ahxg.PNG",
-  "slug": "heres-how-i-increased-a-website-performance-by-21-7di",
-  "url": "https://dev.to/mrpaulishaili/heres-how-i-increased-a-website-performance-by-21-7di",
-  "publish_date": "2022-09-24",
-  "published_at": "2022-09-24T05:05:08Z"
  }
 ]
