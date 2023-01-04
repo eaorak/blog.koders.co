@@ -1,5 +1,55 @@
 [
  {
+  "id": 1316209,
+  "title": "What new badges would you like to see on DEV?",
+  "description": "It's a new year and for many of us that means new goals, resolutions, and general self...",
+  "cover_image": "",
+  "slug": "what-new-badges-would-you-like-to-see-on-dev-35m5",
+  "url": "https://dev.to/devteam/what-new-badges-would-you-like-to-see-on-dev-35m5",
+  "publish_date": "2023-01-03",
+  "published_at": "2023-01-03T15:16:21Z"
+ },
+ {
+  "id": 1316003,
+  "title": "Incremental compilation for Crystal - Part 1",
+  "description": "Thoughts about how to introduce modular compilation for Crystal",
+  "cover_image": "",
+  "slug": "incremental-compilation-for-crystal-part-1-414k",
+  "url": "https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k",
+  "publish_date": "2023-01-03",
+  "published_at": "2023-01-03T14:26:35Z"
+ },
+ {
+  "id": 1293228,
+  "title": "My Experience as a Dev Chat speaker at AWS re:Invent 2022",
+  "description": "At the last AWS reInvent 2022, I was able to speak in Dev Chat under the Community track for the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j_pGWylK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t10laz0llnc9yi8f8nqv.jpg",
+  "slug": "my-experience-as-a-dev-chat-speaker-at-aws-reinvent-2022-380e",
+  "url": "https://dev.to/aws-builders/my-experience-as-a-dev-chat-speaker-at-aws-reinvent-2022-380e",
+  "publish_date": "2023-01-03",
+  "published_at": "2023-01-03T12:13:55Z"
+ },
+ {
+  "id": 1315982,
+  "title": "6 ways we improved our documentation in 2022",
+  "description": "At Medusa, we strive to provide developers with the best experience. Documentation plays a huge role...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y8omFwa8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mci24iknua7zjexacvj.jpg",
+  "slug": "6-ways-we-improved-our-documentation-in-2022-1hnp",
+  "url": "https://dev.to/medusajs/6-ways-we-improved-our-documentation-in-2022-1hnp",
+  "publish_date": "2023-01-03",
+  "published_at": "2023-01-03T12:00:06Z"
+ },
+ {
+  "id": 1315949,
+  "title": "How to speak at conferences when you’re scared of public speaking",
+  "description": "In 2022, I did something I never thought I would do – stand on a stage and speak to a large audience....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FDq8X-r7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vn1mx8u2nmrcw0f6l25v.png",
+  "slug": "how-to-speak-at-a-conference-when-youre-scared-of-public-speaking-562f",
+  "url": "https://dev.to/blackgirlbytes/how-to-speak-at-a-conference-when-youre-scared-of-public-speaking-562f",
+  "publish_date": "2023-01-03",
+  "published_at": "2023-01-03T10:01:10Z"
+ },
+ {
   "id": 1315054,
   "title": "17 Compelling Reasons To Start Ditching TypeScript Now.",
   "description": "If you're anything like me, you're probably using Typescript because you were forced to. Your company...",
@@ -1870,22 +1920,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-2-41e",
   "publish_date": "2022-09-26",
   "published_at": "2022-09-26T13:30:03Z"
- },
- {
-  "id": 1202452,
-  "title": "Form to Email API - Create Working Site Forms Without Server",
-  "description": "If you are looking for simple and free to use Form API that works with all framework, language,...",
-  "cover_image": "",
-  "slug": "form-to-email-3og2",
-  "url": "https://dev.to/form/form-to-email-3og2",
-  "publish_date": "2022-09-25",
-  "published_at": "2022-09-25T08:41:16Z"
- },
- {
-  "id": 1197871,
-  "title": "10 HTML Tags for SEO🔍",
-  "description": "1.Use Title Tags   \u0026lt;title\u0026gt;Title of the webpage ...... \u0026lt;/title\u0026gt;  Your content is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MOr9BFXa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5cimsvp160shur4jafvz.jpg",
-  "slug": "10-html-tags-for-seo-9ib",
-  "url": "https://dev.to/sampadsarker/10-html-tags-for-seo-9ib",
-  "publish_date": "2022-09-25",
-  "published_at": "2022-09-25T06:46:13Z"
- },
- {
-  "id": 1202426,
-  "title": "26 best practices to secure your cloud environment☁️🔥",
-  "description": "Introduction   Cloud computing has revolutionized the way organizations store, manage and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HvW3oIEg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ehtgy4uuk6xat3m29cqz.gif",
-  "slug": "26-best-practices-to-secure-your-cloud-environment-22ii",
-  "url": "https://dev.to/aviyel/26-best-practices-to-secure-your-cloud-environment-22ii",
-  "publish_date": "2022-09-25",
-  "published_at": "2022-09-25T05:49:41Z"
- },
- {
-  "id": 1202354,
-  "title": "Hacktoberfest 2022: Preptember!",
-  "description": "Hacktoberfest 2022 is almost upon us!    Whether you are new to Hacktoberfest or a seasoned veteran,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7VU3ZzoD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5m021y0uwlib2yokrn6.jpg",
-  "slug": "hacktoberfest-preptember-3p7",
-  "url": "https://dev.to/nickytonline/hacktoberfest-preptember-3p7",
-  "publish_date": "2022-09-25",
-  "published_at": "2022-09-25T04:17:09Z"
- },
- {
-  "id": 1202334,
-  "title": "Introduction to AI \u0026 ML",
-  "description": "So you want to learn about AI and Machine Learning? You've come to the right place! This is a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5R-rBPF4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ygfco4j1cgdwecv8wj0.jpg",
-  "slug": "introduction-to-ai-ml-1jdb",
-  "url": "https://dev.to/renhiyama/introduction-to-ai-ml-1jdb",
-  "publish_date": "2022-09-25",
-  "published_at": "2022-09-25T02:07:17Z"
  }
 ]
