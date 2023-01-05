@@ -1,5 +1,55 @@
 [
  {
+  "id": 1317341,
+  "title": "What is cURL and why is it important in API testing?🤖",
+  "description": "Today’s post is devoted to one of the inevitable parts of API testing – cURL.   cURL (client URL) –...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RL86btyO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7o5qpw5s8ovoytxew1cz.jpg",
+  "slug": "what-is-curl-and-why-is-it-important-in-api-testing-416m",
+  "url": "https://dev.to/mariamarsh/what-is-curl-and-why-is-it-important-in-api-testing-416m",
+  "publish_date": "2023-01-04",
+  "published_at": "2023-01-04T16:40:35Z"
+ },
+ {
+  "id": 1315110,
+  "title": "Building a Video Player in React",
+  "description": "Introduction   React has been the most popular JavaScript framework for building frontend....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SlYW5lof--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aedigt25isywmi8jqqo8.png",
+  "slug": "building-a-video-player-in-react-1mlf",
+  "url": "https://dev.to/documatic/building-a-video-player-in-react-1mlf",
+  "publish_date": "2023-01-04",
+  "published_at": "2023-01-04T11:30:00Z"
+ },
+ {
+  "id": 1316126,
+  "title": "How to Fetch Data in React with useSWR",
+  "description": "Author: Michael Hungbo           Introduction   Data is unquestionably an important component of any...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wdpe_dX0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s9gh7pfpmo0qxq6ccpj2.png",
+  "slug": "how-to-fetch-data-in-react-with-useswr-3dbe",
+  "url": "https://dev.to/refine/how-to-fetch-data-in-react-with-useswr-3dbe",
+  "publish_date": "2023-01-04",
+  "published_at": "2023-01-04T11:14:52Z"
+ },
+ {
+  "id": 1315931,
+  "title": "Database 101: Data Consistency for Beginners",
+  "description": "Table Of Contents    1. Prologue 2. There's much more possibilities than MySQL  3. SQL vs...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--biG5hRf1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8659ysbyk339lqnh6c1q.png",
+  "slug": "database-101-why-so-interesting-1344",
+  "url": "https://dev.to/danielhe4rt/database-101-why-so-interesting-1344",
+  "publish_date": "2023-01-04",
+  "published_at": "2023-01-04T03:43:12Z"
+ },
+ {
+  "id": 1312535,
+  "title": "Typescript: Functions",
+  "description": "In this article, we are going learn about How you can use typescript in functions. And How to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GII6xLp6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/feqt2i67hwxq8ewhnsol.png",
+  "slug": "typescript-functions-4nkp",
+  "url": "https://dev.to/j471n/typescript-functions-4nkp",
+  "publish_date": "2023-01-04",
+  "published_at": "2023-01-04T02:38:29Z"
+ },
+ {
   "id": 1316209,
   "title": "What new badges would you like to see on DEV?",
   "description": "It's a new year and for many of us that means new goals, resolutions, and general self...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/how-do-you-create-your-headers-47fn",
   "publish_date": "2022-09-27",
   "published_at": "2022-09-27T05:52:19Z"
- },
- {
-  "id": 1201257,
-  "title": "Our Dear Unicorn Friend is Going on Vacation",
-  "description": "We are making design adjustments to Forem (the open-source codebase that powers DEV and other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KjX9M3v1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfpolhlbdzpvkicgbqa0.png",
-  "slug": "our-dear-unicorn-friend-is-going-on-vacation-idm",
-  "url": "https://dev.to/devteam/our-dear-unicorn-friend-is-going-on-vacation-idm",
-  "publish_date": "2022-09-26",
-  "published_at": "2022-09-26T19:25:35Z"
- },
- {
-  "id": 1198816,
-  "title": "How to get ready for Hacktoberfest 2022",
-  "description": "Hacktoberfest is days away from starting. Registrations are already open and there is a flurry of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ds97LCK---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymlmr15l83rrjq8natft.jpg",
-  "slug": "how-to-get-ready-for-hacktoberfest-2022-2ck2",
-  "url": "https://dev.to/github/how-to-get-ready-for-hacktoberfest-2022-2ck2",
-  "publish_date": "2022-09-26",
-  "published_at": "2022-09-26T19:07:29Z"
- },
- {
-  "id": 1203619,
-  "title": "Meme Monday 🚨",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wKarYHK2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ntwj50yu3bposb2fgl47.png",
-  "slug": "meme-monday-3jjm",
-  "url": "https://dev.to/ben/meme-monday-3jjm",
-  "publish_date": "2022-09-26",
-  "published_at": "2022-09-26T15:52:54Z"
- },
- {
-  "id": 1203441,
-  "title": "Voby: Simplifications Over Solid - No Babel, No Compiler",
-  "description": "A series of in-depth articles looking at simplifications that Voby made over Solid",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QflmQA8_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/vobyjs/voby/master/resources/banner/png/banner-light.png",
-  "slug": "voby-simplifications-over-solid-no-babel-no-compiler-5epg",
-  "url": "https://dev.to/fabiospampinato/voby-simplifications-over-solid-no-babel-no-compiler-5epg",
-  "publish_date": "2022-09-26",
-  "published_at": "2022-09-26T13:34:55Z"
- },
- {
-  "id": 1202895,
-  "title": "5 webdev tips you may want to know 🔥 #2",
-  "description": "1. Web workers cheatsheet   A worker thread can perform tasks without interfering with the...",
-  "cover_image": "",
-  "slug": "5-webdev-tips-you-may-want-to-know-2-41e",
-  "url": "https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-2-41e",
-  "publish_date": "2022-09-26",
-  "published_at": "2022-09-26T13:30:03Z"
  }
 ]
