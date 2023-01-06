@@ -1,5 +1,55 @@
 [
  {
+  "id": 1318368,
+  "title": "How I Built a Food Ecommerce Restaurant with Next.js, Paystack and Medusa",
+  "description": "Food restaurants remain one of the best lucrative businesses around the world. They get patronage on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z9W5-meA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3sil1mnmq3fouxe3jq60.jpg",
+  "slug": "how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0",
+  "url": "https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0",
+  "publish_date": "2023-01-05",
+  "published_at": "2023-01-05T14:21:41Z"
+ },
+ {
+  "id": 1318243,
+  "title": "Kubernetes Control Plane: 10 Tips for Airtight K8s Security",
+  "description": "In a recent report, 94% of respondents said they experienced a Kubernetes-related security incident....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dv1oU4QD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i0eta4zi64sjezplu93r.png",
+  "slug": "kubernetes-control-plane-10-tips-for-airtight-k8s-security-77d",
+  "url": "https://dev.to/castai/kubernetes-control-plane-10-tips-for-airtight-k8s-security-77d",
+  "publish_date": "2023-01-05",
+  "published_at": "2023-01-05T10:27:23Z"
+ },
+ {
+  "id": 1316435,
+  "title": "Become a Frontend web developer in 2023 - A step by step guide",
+  "description": "This is the roadmap that I wish I had when I was starting out to become a frontend developer I came...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bp69PeDg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wdmj4neyy079rsu4sl03.png",
+  "slug": "become-a-frontend-web-developer-in-2023-a-step-by-step-guide-m24",
+  "url": "https://dev.to/shubhicodes/become-a-frontend-web-developer-in-2023-a-step-by-step-guide-m24",
+  "publish_date": "2023-01-05",
+  "published_at": "2023-01-05T08:52:58Z"
+ },
+ {
+  "id": 1318008,
+  "title": "How to use Material UI Card Component",
+  "description": "Author: Doro Onome           Introduction   Material UI cards are an important part of modern web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r9u53S6K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ubhocflp5owz1gt8ry2u.png",
+  "slug": "how-to-use-material-ui-card-component-2l2k",
+  "url": "https://dev.to/refine/how-to-use-material-ui-card-component-2l2k",
+  "publish_date": "2023-01-05",
+  "published_at": "2023-01-05T06:35:06Z"
+ },
+ {
+  "id": 1317843,
+  "title": "Every Software Developer should write a blog",
+  "description": "As a software engineer it’s been a couple of years that I’m saying to myself that I’m going to start...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V4zsX44d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1a5yyvhcgvhpw84eokpy.PNG",
+  "slug": "every-software-developer-should-write-a-blog-4622",
+  "url": "https://dev.to/nasirovelchin/every-software-developer-should-write-a-blog-4622",
+  "publish_date": "2023-01-05",
+  "published_at": "2023-01-05T03:12:27Z"
+ },
+ {
   "id": 1317341,
   "title": "What is cURL and why is it important in API testing?🤖",
   "description": "Today’s post is devoted to one of the inevitable parts of API testing – cURL.   cURL (client URL) –...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/marcinwosinek/how-to-become-a-faster-programmer-hp9",
   "publish_date": "2022-09-28",
   "published_at": "2022-09-28T05:46:52Z"
- },
- {
-  "id": 1204828,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNcdxw77--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/sfwcvweirpf2qka2lg2b.png",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-593j",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-593j",
-  "publish_date": "2022-09-27",
-  "published_at": "2022-09-27T19:08:36Z"
- },
- {
-  "id": 1204235,
-  "title": "Explained in 5 Levels of Difficulty: Ecommerce by Medusa",
-  "description": "At Medusa, we often write articles where we try to explain how to do different tasks with Medusa, or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kRv6ujVY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zt2kgo1omgcfnp3kmvn2.jpg",
-  "slug": "explained-in-5-levels-of-difficulty-ecommerce-by-medusa-47co",
-  "url": "https://dev.to/medusajs/explained-in-5-levels-of-difficulty-ecommerce-by-medusa-47co",
-  "publish_date": "2022-09-27",
-  "published_at": "2022-09-27T11:00:29Z"
- },
- {
-  "id": 1204172,
-  "title": "Introducing Holopin: the digital badge platform for developers!",
-  "description": "Holopin — the cool way to do digital badges   We are so excited to introduce you to Holopin...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Oh2T-TCx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mh8s08h4pei1vkqgehkk.png",
-  "slug": "introducing-holopin-the-digital-badge-platform-for-developers-2hlk",
-  "url": "https://dev.to/elenalape/introducing-holopin-the-digital-badge-platform-for-developers-2hlk",
-  "publish_date": "2022-09-27",
-  "published_at": "2022-09-27T09:15:05Z"
- },
- {
-  "id": 1203638,
-  "title": ".NET 7 is already a reality! Microsoft releases the first Release Candidate of .NET 7",
-  "description": "Yes, you are reading correctly. The first Release Candidate of the two that are going to be released...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AuyZqbFN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9g4ryddmqtlxc13w0mw.png",
-  "slug": "net-7-is-already-a-reality-microsoft-releases-the-first-release-candidate-of-net-7-4kc4",
-  "url": "https://dev.to/bytehide/net-7-is-already-a-reality-microsoft-releases-the-first-release-candidate-of-net-7-4kc4",
-  "publish_date": "2022-09-27",
-  "published_at": "2022-09-27T08:03:56Z"
- },
- {
-  "id": 1204034,
-  "title": "How do you create your headers?",
-  "description": "I often get asked how I create the headers for my articles. Thus I thought, let me write down how I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6R089bwz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jsabd7wio2gsixfmz4yj.jpg",
-  "slug": "how-do-you-create-your-headers-47fn",
-  "url": "https://dev.to/dailydevtips1/how-do-you-create-your-headers-47fn",
-  "publish_date": "2022-09-27",
-  "published_at": "2022-09-27T05:52:19Z"
  }
 ]
