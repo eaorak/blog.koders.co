@@ -1,5 +1,55 @@
 [
  {
+  "id": 1320041,
+  "title": "C elements that are not supported in C++🚫",
+  "description": "C is a classic language for developing system software and any software for microprocessors. Linux,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hfQzBixF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fv0w1bgke78vu5yy9uc3.jpg",
+  "slug": "c-elements-that-are-not-supported-in-c-4i6n",
+  "url": "https://dev.to/mariamarsh/c-elements-that-are-not-supported-in-c-4i6n",
+  "publish_date": "2023-01-06",
+  "published_at": "2023-01-06T17:00:56Z"
+ },
+ {
+  "id": 1319847,
+  "title": "Responsive Personal Portfolio Website Using HTML CSS JavaScript",
+  "description": "How to Make Responsive Portfolio Website Using HTML CSS JavaScript This video will show you how...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--goXpI1gm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/85vl85r2ze2def4q118d.png",
+  "slug": "responsive-personal-portfolio-website-using-html-css-javascript-15e2",
+  "url": "https://dev.to/codewithsadee/responsive-personal-portfolio-website-using-html-css-javascript-15e2",
+  "publish_date": "2023-01-06",
+  "published_at": "2023-01-06T13:30:43Z"
+ },
+ {
+  "id": 1319392,
+  "title": "Awesome Readme Examples for Writing better Readmes",
+  "description": "Awesome Readme Examples for Writing better Readmes            Introduction   Writing the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1WN5oGmU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ewnpn9aujwpvit43wi7k.png",
+  "slug": "awesome-readme-examples-for-writing-better-readmes-3eh3",
+  "url": "https://dev.to/documatic/awesome-readme-examples-for-writing-better-readmes-3eh3",
+  "publish_date": "2023-01-06",
+  "published_at": "2023-01-06T11:30:00Z"
+ },
+ {
+  "id": 1319728,
+  "title": "All you (probably) need to know about caching on the web 🗃",
+  "description": "Every developer has most likely bumped into the concept of caching at some point in their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I6-kwKLP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b3xddqlcs4xxzprn9su5.jpg",
+  "slug": "all-you-probably-need-to-know-about-caching-on-the-web-4loa",
+  "url": "https://dev.to/enterspeed/all-you-probably-need-to-know-about-caching-on-the-web-4loa",
+  "publish_date": "2023-01-06",
+  "published_at": "2023-01-06T10:39:59Z"
+ },
+ {
+  "id": 1319315,
+  "title": "What Are People Building With WebAssembly?",
+  "description": "WebAssembly (WASM) has been a buzzword in the past few years. It's a technology that raises a lot of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--urJSr8m_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sa89ta6ksfwtaoutdvwh.jpg",
+  "slug": "what-are-people-building-with-webassembly-2eh4",
+  "url": "https://dev.to/zenstack/what-are-people-building-with-webassembly-2eh4",
+  "publish_date": "2023-01-06",
+  "published_at": "2023-01-06T02:51:32Z"
+ },
+ {
   "id": 1318368,
   "title": "How I Built a Food Ecommerce Restaurant with Next.js, Paystack and Medusa",
   "description": "Food restaurants remain one of the best lucrative businesses around the world. They get patronage on...",
@@ -2020,22 +2070,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bytehide/bicep-extension-finally-arrives-in-visual-studio-heres-what-you-need-to-know-2ach",
   "publish_date": "2022-09-29",
   "published_at": "2022-09-29T09:21:34Z"
- },
- {
-  "id": 1205514,
-  "title": "Announcing the Budibase Hackathon - Over $5K in prizes 🎉",
-  "description": "​There's a new opportunity to level up your software development skills and contribute to open-source while educating others and earning incredible prizes. ",
-  "cover_image": "",
-  "slug": "announcing-the-budibase-hackathon-over-5k-in-prizes-5agj",
-  "url": "https://dev.to/budibase/announcing-the-budibase-hackathon-over-5k-in-prizes-5agj",
-  "publish_date": "2022-09-28",
-  "published_at": "2022-09-28T12:50:50Z"
- },
- {
-  "id": 1205321,
-  "title": "Building a Kanban board with Node.js, React and Websockets 📝 ✨",
-  "description": "What is this article about?   In this article, you'll learn how to build a Kanban Board the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BPr8hEDJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wz41ugndktx03dlhq8h4.png",
-  "slug": "building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk",
-  "url": "https://dev.to/novu/building-a-beautiful-kanban-board-with-nodejs-react-and-websockets-39dk",
-  "publish_date": "2022-09-28",
-  "published_at": "2022-09-28T10:41:17Z"
- },
- {
-  "id": 1205319,
-  "title": "Announcing📢:Hacktoberfest With Aviyel 💜🌱",
-  "description": "Introduction   We’re excited to announce that we will be taking part in this year’s...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3dKZfZC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvwlmuj0266oytglfums.png",
-  "slug": "announcinghacktoberfest-with-aviyel-59ha",
-  "url": "https://dev.to/aviyel/announcinghacktoberfest-with-aviyel-59ha",
-  "publish_date": "2022-09-28",
-  "published_at": "2022-09-28T09:44:28Z"
- },
- {
-  "id": 1205265,
-  "title": "Introducing Budibase 2.0 🍱",
-  "description": "Today we’re launching Budibase 2.0 - and yes, you can build your own custom components! Budibase 2.0 brings it all together: extensibility, scalability, education, and community. We think you’ll love it!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2rhDUloe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://res.cloudinary.com/daog6scxm/image/upload/v1663675553/cms/budibase-2_xtfmcp.gif",
-  "slug": "introducing-budibase-20-1jp4",
-  "url": "https://dev.to/budibase/introducing-budibase-20-1jp4",
-  "publish_date": "2022-09-28",
-  "published_at": "2022-09-28T09:00:10Z"
- },
- {
-  "id": 1205152,
-  "title": "How to Become a Faster Programmer",
-  "description": "So you’ve already managed to achieve your first programming goals, maybe developed an example...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HNqJL-co--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wrr20udzasokx7cgp5jg.jpg",
-  "slug": "how-to-become-a-faster-programmer-hp9",
-  "url": "https://dev.to/marcinwosinek/how-to-become-a-faster-programmer-hp9",
-  "publish_date": "2022-09-28",
-  "published_at": "2022-09-28T05:46:52Z"
  }
 ]
