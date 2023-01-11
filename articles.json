@@ -1,5 +1,55 @@
 [
  {
+  "id": 1323860,
+  "title": "7 React Hooks for Every Project",
+  "description": "Hooks are one of the most powerful features of React.  They enable us to easily reuse functionality...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tz_JPbXw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/98n75m0k6jfnzgq3xkse.png",
+  "slug": "7-react-hooks-for-every-project-1jdo",
+  "url": "https://dev.to/webdevhero-com/7-react-hooks-for-every-project-1jdo",
+  "publish_date": "2023-01-10",
+  "published_at": "2023-01-10T15:51:23Z"
+ },
+ {
+  "id": 1323772,
+  "title": "7 Must-Have Tools for Developers to Boost Productivity that nobody told you about !!",
+  "description": "As a developer, remaining productive and efficient is critical to completing your job on time....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9c93h8iU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9nyowywdnrsei9kqg051.png",
+  "slug": "7-must-have-tools-for-developers-to-boost-productivity-that-nobody-told-you-about--3ea2",
+  "url": "https://dev.to/thenomadevel/7-must-have-tools-for-developers-to-boost-productivity-that-nobody-told-you-about--3ea2",
+  "publish_date": "2023-01-10",
+  "published_at": "2023-01-10T14:24:21Z"
+ },
+ {
+  "id": 1323299,
+  "title": "Debugging Like a Boss: A Decade's Worth of Tips",
+  "description": "If you're a developer, chances are you've spent countless hours debugging code. Debugging can be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fOFLeRhX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yyuz1rzkiqmo0ljfzvh4.png",
+  "slug": "debugging-like-a-boss-a-decades-worth-of-tips-1439",
+  "url": "https://dev.to/codewithvoid/debugging-like-a-boss-a-decades-worth-of-tips-1439",
+  "publish_date": "2023-01-10",
+  "published_at": "2023-01-10T12:32:40Z"
+ },
+ {
+  "id": 1323497,
+  "title": "My Visual JavaScript Array Cheatsheet That Went Viral on Linkedin 🤯🔥",
+  "description": "I Created this JavaScript Array Methods Cheatsheet 🤯    Took me almost 2 hrs to create this animated...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iBDSUcrE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3coatu4xua4gw0wxr7n1.png",
+  "slug": "my-visual-javascript-array-cheatsheet-that-went-viral-on-linkedin-44bb",
+  "url": "https://dev.to/rammcodes/my-visual-javascript-array-cheatsheet-that-went-viral-on-linkedin-44bb",
+  "publish_date": "2023-01-10",
+  "published_at": "2023-01-10T09:54:46Z"
+ },
+ {
+  "id": 1293736,
+  "title": "Setting up a Documentation Website for your Software Project with Hugo and Netlify",
+  "description": "In the second part of our series, we'll see how to set up a dedicated documentation website for your software project using the Hugo static site generator, and having it hosted for free on Netlify.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GY2FDH0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/owk9mvujk1icgief2ugb.png",
+  "slug": "setting-up-a-documentation-website-for-your-software-project-with-hugo-and-netlify-4bpj",
+  "url": "https://dev.to/erikaheidi/setting-up-a-documentation-website-for-your-software-project-with-hugo-and-netlify-4bpj",
+  "publish_date": "2023-01-10",
+  "published_at": "2023-01-10T09:38:50Z"
+ },
+ {
   "id": 1316574,
   "title": "Your GitHub year in review - 10 fun ways to visualize your contributions",
   "description": "Love 'em or loathe 'em, GitHub contribution graphs are often a great way to help share a story....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alvaromontoro/the-pomodorito-technique-462f",
   "publish_date": "2022-10-03",
   "published_at": "2022-10-03T02:10:12Z"
- },
- {
-  "id": 1209300,
-  "title": "Tremor - Free React Library for Dashboards",
-  "description": "An open-source UI component library for building insightful dashboards in a breeze - Powered by React, ReCharts and Tailwind.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R-qW9pIt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ivc0qt1mhdyxm13ngrc.jpg",
-  "slug": "tremor-free-react-library-for-dashboards-3gm9",
-  "url": "https://dev.to/sm0ke/tremor-free-react-library-for-dashboards-3gm9",
-  "publish_date": "2022-10-02",
-  "published_at": "2022-10-02T17:42:16Z"
- },
- {
-  "id": 1208937,
-  "title": "7 Cool HTML Elements Nobody Uses",
-  "description": "Searching for cool HTML elements, especially if you don't know what you're looking for, is often like...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oOHEnj8e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sd0gz4l7dkah9yedw1cv.png",
-  "slug": "7-cool-html-elements-nobody-uses-330c",
-  "url": "https://dev.to/ruppysuppy/7-cool-html-elements-nobody-uses-330c",
-  "publish_date": "2022-10-02",
-  "published_at": "2022-10-02T04:44:45Z"
- },
- {
-  "id": 1208916,
-  "title": "Stop saying \"Stop using Else\" and other nonsense! ...",
-  "description": "I keep seeing articles that demand the reader \"Stop doing\" something that is fine practice, if not...",
-  "cover_image": "",
-  "slug": "stop-writing-stop-doing-articles--6i7",
-  "url": "https://dev.to/jarrodhroberson/stop-writing-stop-doing-articles--6i7",
-  "publish_date": "2022-10-02",
-  "published_at": "2022-10-02T03:45:54Z"
- },
- {
-  "id": 1208277,
-  "title": "Sending an Email With React Without a Backend Server",
-  "description": "Introduction   In This  Tutorial we are going to learn how to send an email in a  React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6n74bnbi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1revcjgj0jsy879cv0ex.jpg",
-  "slug": "sending-an-email-with-react-without-a-backend-server-32gc",
-  "url": "https://dev.to/benjaminnwokolo/sending-an-email-with-react-without-a-backend-server-32gc",
-  "publish_date": "2022-10-02",
-  "published_at": "2022-10-02T01:34:52Z"
- },
- {
-  "id": 1208851,
-  "title": "Top 7 Sample Code Base websites for Developers",
-  "description": "From Junior developers to senior developers, most programmers lookup for sample code snippets either...",
-  "cover_image": "",
-  "slug": "top-7-sample-code-base-websites-for-developers-1bb7",
-  "url": "https://dev.to/qbentil/top-7-sample-code-base-websites-for-developers-1bb7",
-  "publish_date": "2022-10-02",
-  "published_at": "2022-10-02T00:56:33Z"
  }
 ]
