@@ -1,5 +1,55 @@
 [
  {
+  "id": 1325484,
+  "title": "7 React Projects for Beginners in 2023 (+ Code)",
+  "description": "You're ready to start making simple projects with React, but you don't know what to make. Where...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MbAhlHGn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhhewwxtbr3qlm1ew147.png",
+  "slug": "7-react-projects-for-beginners-in-2023-code-dp7",
+  "url": "https://dev.to/webdevhero-com/7-react-projects-for-beginners-in-2023-code-dp7",
+  "publish_date": "2023-01-11",
+  "published_at": "2023-01-11T18:14:29Z"
+ },
+ {
+  "id": 1322382,
+  "title": "Creating a website aggregator with ChatGPT, React, and Node.js 🚀",
+  "description": "A website aggregator is a website that collects data from other websites across the internet and puts...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZFQnkL2j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vnzlm4u8n67thwmb6c22.jpeg",
+  "slug": "creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij",
+  "url": "https://dev.to/novu/creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij",
+  "publish_date": "2023-01-11",
+  "published_at": "2023-01-11T13:07:35Z"
+ },
+ {
+  "id": 1324956,
+  "title": "A Brief History of API: RPC, REST, GraphQL, tRPC",
+  "description": "Background   Last week I joined an event about GraphQL or TRPC discussion hosted by Guild in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v43q1xq0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mra75slk5zc2topon0vx.png",
+  "slug": "a-brief-history-of-api-rpc-rest-graphql-trpc-fme",
+  "url": "https://dev.to/zenstack/a-brief-history-of-api-rpc-rest-graphql-trpc-fme",
+  "publish_date": "2023-01-11",
+  "published_at": "2023-01-11T11:48:10Z"
+ },
+ {
+  "id": 1313006,
+  "title": "Angular 15: interceptor as a function",
+  "description": "Introduction   The release of Angular 14 made it possible to use the inject function outside...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0-yy5Wvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/je7ltxrtc0x8ahwbv9tq.jpg",
+  "slug": "angular-15-interceptor-as-a-function-2g44",
+  "url": "https://dev.to/this-is-angular/angular-15-interceptor-as-a-function-2g44",
+  "publish_date": "2023-01-11",
+  "published_at": "2023-01-11T08:57:11Z"
+ },
+ {
+  "id": 1324658,
+  "title": "Welcoming new authors 💖 and fighting spam 🗑️ on DEV",
+  "description": "With one reporting tool we can both welcome new authors and fight spam.",
+  "cover_image": "",
+  "slug": "welcoming-new-authors-and-fighting-spam-on-dev-373d",
+  "url": "https://dev.to/szabgab/welcoming-new-authors-and-fighting-spam-on-dev-373d",
+  "publish_date": "2023-01-11",
+  "published_at": "2023-01-11T08:34:51Z"
+ },
+ {
   "id": 1323860,
   "title": "7 React Hooks for Every Project",
   "description": "Hooks are one of the most powerful features of React.  They enable us to easily reuse functionality...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vaultree/designing-a-secure-api-4059",
   "publish_date": "2022-10-04",
   "published_at": "2022-10-04T04:09:09Z"
- },
- {
-  "id": 1210143,
-  "title": "Meme Monday 🦊",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f2p_AP2k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bra6gnesllekrg0etdsy.png",
-  "slug": "meme-monday-33ej",
-  "url": "https://dev.to/ben/meme-monday-33ej",
-  "publish_date": "2022-10-03",
-  "published_at": "2022-10-03T18:43:21Z"
- },
- {
-  "id": 1207407,
-  "title": "Medusa Hackathon 2022: Participation Tips and Guidelines",
-  "description": "On Saturday, we kicked off the Medusa Hackathon where developers can participate by creating...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_bUQn3Vs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/23eju36znbujvoyepc6o.jpeg",
-  "slug": "medusa-hackathon-2022-participation-tips-and-guidelines-1epm",
-  "url": "https://dev.to/medusajs/medusa-hackathon-2022-participation-tips-and-guidelines-1epm",
-  "publish_date": "2022-10-03",
-  "published_at": "2022-10-03T10:57:52Z"
- },
- {
-  "id": 1209346,
-  "title": "A practical approach to structuring Golang applications",
-  "description": "This article will describe the common approaches which are used for structuring Golang applications....",
-  "cover_image": "",
-  "slug": "a-practical-approach-to-structuring-golang-applications-1cc2",
-  "url": "https://dev.to/firdavs_kasymov/a-practical-approach-to-structuring-golang-applications-1cc2",
-  "publish_date": "2022-10-03",
-  "published_at": "2022-10-03T09:20:09Z"
- },
- {
-  "id": 1208527,
-  "title": "5 webdev tips you may want to know 🔥 #3",
-  "description": "Just a quick word before we start. I'm currently trying to grow a community over on twitter where I...",
-  "cover_image": "",
-  "slug": "5-webdev-tips-you-may-want-to-know-3-1fi7",
-  "url": "https://dev.to/mustapha/5-webdev-tips-you-may-want-to-know-3-1fi7",
-  "publish_date": "2022-10-03",
-  "published_at": "2022-10-03T07:39:07Z"
- },
- {
-  "id": 1209450,
-  "title": "The Pomodorito Technique",
-  "description": "You've heard about the Pomodoro technique; make way now for the Pomodorito techniqu",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uMTOeiqG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vrl1x5i6vyvrt983fuc8.png",
-  "slug": "the-pomodorito-technique-462f",
-  "url": "https://dev.to/alvaromontoro/the-pomodorito-technique-462f",
-  "publish_date": "2022-10-03",
-  "published_at": "2022-10-03T02:10:12Z"
  }
 ]
