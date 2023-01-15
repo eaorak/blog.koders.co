@@ -1,5 +1,55 @@
 [
  {
+  "id": 1329277,
+  "title": "51 AI tools you should be using for life, programming, content creation and everything else",
+  "description": "If you enjoy this topic, you will probably like my articles, tweets, and stuff. If you're wondering,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BcFIYjal--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8kndjbthp4z4ud4r1gva.png",
+  "slug": "51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k",
+  "url": "https://dev.to/andrewbaisden/51-ai-tools-you-should-be-using-for-life-programming-content-creation-and-everything-else-3n8k",
+  "publish_date": "2023-01-14",
+  "published_at": "2023-01-14T16:29:02Z"
+ },
+ {
+  "id": 1320946,
+  "title": "5 principles of readable code: KISS | YAGNI | DRY | BDU | Occam's razor",
+  "description": "This post will help you understand the fundamental principles of writing readable code. React and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OqG9EcNg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n66s23rcnqpeyhhnnnvt.jpeg",
+  "slug": "5-principles-of-readable-code-kiss-yagni-dry-bdu-occams-razor-2kcp",
+  "url": "https://dev.to/mariamarsh/5-principles-of-readable-code-kiss-yagni-dry-bdu-occams-razor-2kcp",
+  "publish_date": "2023-01-14",
+  "published_at": "2023-01-14T14:42:31Z"
+ },
+ {
+  "id": 1329064,
+  "title": "How to use ChatGPT to boost your developer productivity",
+  "description": "Table of contents    Introduction What is ChatGPT  How to use it to increase your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CMJ9BRSl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/atypdr0aoxb7tedvr51r.png",
+  "slug": "how-to-use-chatgpt-to-boost-your-developer-productivity-3e5a",
+  "url": "https://dev.to/developeratul/how-to-use-chatgpt-to-boost-your-developer-productivity-3e5a",
+  "publish_date": "2023-01-14",
+  "published_at": "2023-01-14T11:35:19Z"
+ },
+ {
+  "id": 1328503,
+  "title": "9 Common JavaScript Interview Questions You Might Not Know The Answer For.",
+  "description": "Whether you like them or not, tricky questions are still asked by interviewers in the wild.  The...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JBvjETXD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/434ps1gxc8xo5das4cws.jpg",
+  "slug": "9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g",
+  "url": "https://dev.to/gustavupp/9-common-javascript-interview-questions-you-might-not-know-the-answer-for-3a8g",
+  "publish_date": "2023-01-14",
+  "published_at": "2023-01-14T03:32:41Z"
+ },
+ {
+  "id": 1328714,
+  "title": "How to build a portfolio website with React \u0026 Tailwind CSS",
+  "description": "Every developer must have a portfolio website to showoff their skills and projects.  If you prefer...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4U6Ze6HH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5m61dotp8kq7ltylx04y.png",
+  "slug": "how-to-build-a-portfolio-website-with-react-tailwind-css-fni",
+  "url": "https://dev.to/coderamrin/how-to-build-a-portfolio-website-with-react-tailwind-css-fni",
+  "publish_date": "2023-01-14",
+  "published_at": "2023-01-14T03:23:16Z"
+ },
+ {
   "id": 1327827,
   "title": "8 Must-Use VS Code Extensions For Web Developers😈",
   "description": "Certainly, VS code is one of the most popular and widely used code editors among developers. VS...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9",
   "publish_date": "2022-10-07",
   "published_at": "2022-10-07T07:10:34Z"
- },
- {
-  "id": 1147398,
-  "title": "👷 Serverless event-sourcing with AWS: State of the art data synchronization ⚡",
-  "description": "Serverless Event-sourcing event-ledger DynamoDB AWS",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OA107vVp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/MaximeVivier/Articles/master/blog-posts/event-sourcing-serveless/assets/serverless-event-sourcing-AWS-state-of-the-art-data-synchronization.png",
-  "slug": "serverless-event-sourcing-with-aws-state-of-the-art-data-synchronization-4mog",
-  "url": "https://dev.to/kumo/serverless-event-sourcing-with-aws-state-of-the-art-data-synchronization-4mog",
-  "publish_date": "2022-10-06",
-  "published_at": "2022-10-06T15:03:34Z"
- },
- {
-  "id": 1212648,
-  "title": "Have you ever seen anyone \"fake\" their way into a software development position?",
-  "description": "Are there instances of people who make it through the interview, get hired, but seriously can't do...",
-  "cover_image": "",
-  "slug": "have-you-ever-seen-anyone-fake-their-way-into-a-software-development-position-3gd0",
-  "url": "https://dev.to/sherrydays/have-you-ever-seen-anyone-fake-their-way-into-a-software-development-position-3gd0",
-  "publish_date": "2022-10-06",
-  "published_at": "2022-10-06T12:17:38Z"
- },
- {
-  "id": 1212133,
-  "title": "Awesome tools for Open Source Contribution",
-  "description": "Introduction   We are in October which is well known as the month of Hacktoberfest in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YJ7nrO3w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w4cx56ih2ei3k6gf7i8p.png",
-  "slug": "awesome-tools-for-open-source-contribution-36cm",
-  "url": "https://dev.to/surajondev/awesome-tools-for-open-source-contribution-36cm",
-  "publish_date": "2022-10-06",
-  "published_at": "2022-10-06T11:30:29Z"
- },
- {
-  "id": 1204154,
-  "title": "I am not that excited about new CSS features",
-  "description": "I have a confession: I am not that excited about all these new CSS features. Let me tell you why.    ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I3K7bzKE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5v4w9fy3tcl81i95vz11.jpg",
-  "slug": "i-am-not-that-excited-about-new-css-features-4jb5",
-  "url": "https://dev.to/starbist/i-am-not-that-excited-about-new-css-features-4jb5",
-  "publish_date": "2022-10-06",
-  "published_at": "2022-10-06T06:58:32Z"
- },
- {
-  "id": 1212404,
-  "title": "Flask \u0026 Stripe - Open-Source Mini eCommerce",
-  "description": "Open-source mini eCommerce project that loads the products from JSON files saved in the templates directory (no database required) - Bootstrap 5 design is used for styling.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K4YOPGwH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/98de88aj6bmsnufzv5uo.jpg",
-  "slug": "flask-stripe-open-source-mini-ecommerce-34jj",
-  "url": "https://dev.to/sm0ke/flask-stripe-open-source-mini-ecommerce-34jj",
-  "publish_date": "2022-10-06",
-  "published_at": "2022-10-06T05:56:36Z"
  }
 ]
