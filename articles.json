@@ -1,5 +1,55 @@
 [
  {
+  "id": 1329944,
+  "title": "Complete Guide To Make You a Regex Guru",
+  "description": "This is the second article in a series of regex articles. In the first article, you can read about...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5__xw5p1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a9irxnxic44a7lu8wk6a.png",
+  "slug": "complete-guide-to-make-you-a-regex-guru-3i1k",
+  "url": "https://dev.to/perssondennis/complete-guide-to-make-you-a-regex-guru-3i1k",
+  "publish_date": "2023-01-15",
+  "published_at": "2023-01-15T15:33:00Z"
+ },
+ {
+  "id": 1329427,
+  "title": "15 Useful React Custom Hooks That You Can Use In Any Project",
+  "description": "React custom hooks allow for reusable logic in functional components, making it possible to separate...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--It08Rf6h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/anmi8d6zn1f5fucgc20y.png",
+  "slug": "15-useful-react-custom-hooks-that-you-can-use-in-any-project-2ll8",
+  "url": "https://dev.to/arafat4693/15-useful-react-custom-hooks-that-you-can-use-in-any-project-2ll8",
+  "publish_date": "2023-01-15",
+  "published_at": "2023-01-15T13:47:27Z"
+ },
+ {
+  "id": 1329707,
+  "title": "9 Fantastic websites every developer must know",
+  "description": "I’ve been such a fan of websites that helps to reduce our work so much easier. Even for developers,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yK3zeOaf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vs6cf9ti13n4ncv702d0.jpg",
+  "slug": "9-fantastic-websites-every-developer-must-know-580a",
+  "url": "https://dev.to/hy_piyush/9-fantastic-websites-every-developer-must-know-580a",
+  "publish_date": "2023-01-15",
+  "published_at": "2023-01-15T07:12:18Z"
+ },
+ {
+  "id": 1320980,
+  "title": "How to use Google Analytics Data API",
+  "description": "In this article, I am going to walk you through that how you Google Analytics Data API to fetch data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RcvvB-jI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dmjutazxb9ygswt7vqtf.png",
+  "slug": "how-to-use-google-analytics-data-api-2133",
+  "url": "https://dev.to/j471n/how-to-use-google-analytics-data-api-2133",
+  "publish_date": "2023-01-15",
+  "published_at": "2023-01-15T05:08:36Z"
+ },
+ {
+  "id": 1329626,
+  "title": "Making Your First Open Source Contribution: A Beginner-Friendly Guide",
+  "description": "First time Practice Contributions!         Visit This Link to get Started for this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UaNw0QNY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/okmjjhz2a26yxk67fha7.gif",
+  "slug": "making-your-first-open-source-contribution-a-beginner-friendly-guide-4cp5",
+  "url": "https://dev.to/hyuncafe/making-your-first-open-source-contribution-a-beginner-friendly-guide-4cp5",
+  "publish_date": "2023-01-15",
+  "published_at": "2023-01-15T03:59:35Z"
+ },
+ {
   "id": 1329277,
   "title": "51 AI tools you should be using for life, programming, content creation and everything else",
   "description": "If you enjoy this topic, you will probably like my articles, tweets, and stuff. If you're wondering,...",
@@ -2470,22 +2520,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mcsee/how-a-hacker-stole-566m-usd-exploiting-a-code-smell-2fkn",
   "publish_date": "2022-10-08",
   "published_at": "2022-10-08T03:58:21Z"
- },
- {
-  "id": 1213858,
-  "title": "I Turned My Startup Into Open-Source",
-  "description": "I am posting a lot over dev.to, but I think nobody knows who I really am :)  For the last ten years,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S3h4li7i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kx67hw08zot5qtrrisun.jpg",
-  "slug": "i-turned-my-startup-into-open-source-4efh",
-  "url": "https://dev.to/nevodavid/i-turned-my-startup-into-open-source-4efh",
-  "publish_date": "2022-10-07",
-  "published_at": "2022-10-07T18:03:10Z"
- },
- {
-  "id": 1212322,
-  "title": "Image search engine with React JS - React Query 🔋",
-  "description": "This time we will make an image search engine with the help of Unsplash API and React Query, with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--379b7vIz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o0k6jp75thzr23i8gfqk.png",
-  "slug": "image-search-engine-with-react-js-react-query-39",
-  "url": "https://dev.to/franklin030601/image-search-engine-with-react-js-react-query-39",
-  "publish_date": "2022-10-07",
-  "published_at": "2022-10-07T12:28:13Z"
- },
- {
-  "id": 1213448,
-  "title": "15 GitHub Repositories to Contribute for Hacktoberfest 2022",
-  "description": "What is HACKTOBERFEST?   Hacktoberfest is a yearly festival celebrating Open Source. It's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dGlI70iq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2rfplb5gfupxb6e351t3.png",
-  "slug": "15-github-repositories-to-contribute-for-hacktoberfest-2022-215d",
-  "url": "https://dev.to/atapas/15-github-repositories-to-contribute-for-hacktoberfest-2022-215d",
-  "publish_date": "2022-10-07",
-  "published_at": "2022-10-07T09:31:30Z"
- },
- {
-  "id": 1213431,
-  "title": "Django API Generator - Free Tool (Updated)",
-  "description": "An open-source tool that generates secure APIs on top of Django and DRF - Sources published on GitHub under MIT License.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KIU73rrP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqx5kxpp613r97n5n81v.jpg",
-  "slug": "django-api-generator-free-tool-updated-5d99",
-  "url": "https://dev.to/sm0ke/django-api-generator-free-tool-updated-5d99",
-  "publish_date": "2022-10-07",
-  "published_at": "2022-10-07T08:45:42Z"
- },
- {
-  "id": 1213397,
-  "title": "13 ways to scrape any public data from any website",
-  "description": "📃Table of Contents   Intro Browser Dev Tools  CSS Selectors or/and XPath   CSS Selectors Type of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4p7nmDvp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/71k1vynlk6islk4zcttc.jpg",
-  "slug": "13-ways-to-scrape-any-public-data-from-any-website-1bn9",
-  "url": "https://dev.to/serpapi/13-ways-to-scrape-any-public-data-from-any-website-1bn9",
-  "publish_date": "2022-10-07",
-  "published_at": "2022-10-07T07:10:34Z"
  }
 ]
