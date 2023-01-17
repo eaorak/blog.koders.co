@@ -1,5 +1,55 @@
 [
  {
+  "id": 1330998,
+  "title": "Safe Data Fetching in Modern JavaScript",
+  "description": "Fetch - the wrong way   fetch in JavaScript is awesome.   But, you may have something like...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k2BAB9s0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/togsvu6iqea5x1cws1fg.png",
+  "slug": "safe-data-fetching-in-modern-javascript-dp4",
+  "url": "https://dev.to/builderio/safe-data-fetching-in-modern-javascript-dp4",
+  "publish_date": "2023-01-16",
+  "published_at": "2023-01-16T17:50:55Z"
+ },
+ {
+  "id": 1329135,
+  "title": "Top 5+ Best Free ReactJS Admin Dashboard Templates for 2023",
+  "description": "Building an admin dashboard for your application can be a complex and time-consuming task, especially...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I8_20eZj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5r5ykuprr948es4600yv.png",
+  "slug": "top-5-best-free-reactjs-admin-dashboard-templates-for-2023-1eh7",
+  "url": "https://dev.to/fredy/top-5-best-free-reactjs-admin-dashboard-templates-for-2023-1eh7",
+  "publish_date": "2023-01-16",
+  "published_at": "2023-01-16T16:00:00Z"
+ },
+ {
+  "id": 1330786,
+  "title": "Beginners guide on how not to abandon that one project",
+  "description": "I know, you are putting the project off because you're \"busy\"   But now let's be honest with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TBo7g0P5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9uebl3jc70yazvpk9t92.png",
+  "slug": "beginners-guide-on-how-not-to-abandon-that-one-project-53bb",
+  "url": "https://dev.to/aneshodza/beginners-guide-on-how-not-to-abandon-that-one-project-53bb",
+  "publish_date": "2023-01-16",
+  "published_at": "2023-01-16T14:04:16Z"
+ },
+ {
+  "id": 1330400,
+  "title": "24 Things I wish I knew when I started learning how to code",
+  "description": "As a beginner in the world of coding, it can be overwhelming to navigate through all the different...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TJlhJm-M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tw7ybppow4c2qwpl6nik.jpg",
+  "slug": "24-things-i-wish-i-knew-when-i-started-learning-how-to-code-2pfo",
+  "url": "https://dev.to/hy_piyush/24-things-i-wish-i-knew-when-i-started-learning-how-to-code-2pfo",
+  "publish_date": "2023-01-16",
+  "published_at": "2023-01-16T05:57:57Z"
+ },
+ {
+  "id": 1330391,
+  "title": "Mastering the Art of Writing Effective GitHub Commit Messages",
+  "description": "There are no strict rules for writing commit messages but When working on a project on GitHub, it's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wxNz8NpK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fbhva0e296su2banxuuo.jpeg",
+  "slug": "mastering-the-art-of-writing-effective-github-commit-messages-5d2p",
+  "url": "https://dev.to/ashishxcode/mastering-the-art-of-writing-effective-github-commit-messages-5d2p",
+  "publish_date": "2023-01-16",
+  "published_at": "2023-01-16T05:37:16Z"
+ },
+ {
   "id": 1329944,
   "title": "Complete Guide To Make You a Regex Guru",
   "description": "This is the second article in a series of regex articles. In the first article, you can read about...",
@@ -2520,22 +2570,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gernotstarke/yoda-explaining-art-styles-by-example-405e",
   "publish_date": "2022-10-09",
   "published_at": "2022-10-09T08:43:19Z"
- },
- {
-  "id": 1214443,
-  "title": "Django Dynamic DataTables - Free Tool (Updated)",
-  "description": "The tool aims to provide a powerful data table interface using the developer's minimum amount of code.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QEvNLAfO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/onu779paj75rgk1z96us.jpg",
-  "slug": "django-dynamic-datatables-free-tool-updated-38h",
-  "url": "https://dev.to/sm0ke/django-dynamic-datatables-free-tool-updated-38h",
-  "publish_date": "2022-10-08",
-  "published_at": "2022-10-08T14:25:58Z"
- },
- {
-  "id": 1214298,
-  "title": "Building a PDF Generator using AWS Lambda",
-  "description": "Using AWS Lambda, Amazon SQS, Amazon API Gateway, Amazon S3, AWS Lambda Layers and Pulumi to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UHizqHhg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.writergate.com/uploads/dc64a919-1200-42d3-90c6-9bc96dd9f4fa/Dhh4MTuKBA.png",
-  "slug": "building-a-pdf-generator-using-aws-lambda-4220",
-  "url": "https://dev.to/aws-builders/building-a-pdf-generator-using-aws-lambda-4220",
-  "publish_date": "2022-10-08",
-  "published_at": "2022-10-08T09:05:21Z"
- },
- {
-  "id": 1212398,
-  "title": "Google UX Design Certificate",
-  "description": "As I mentioned in my post about How I want to get from a11y minded to a11y expert, I've been taking...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---6BnO8ze--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6q776u7kqdtab255vrj.png",
-  "slug": "google-ux-design-certificate-1a1i",
-  "url": "https://dev.to/yuridevat/google-ux-design-certificate-1a1i",
-  "publish_date": "2022-10-08",
-  "published_at": "2022-10-08T07:12:26Z"
- },
- {
-  "id": 1214172,
-  "title": "Why is z-index not working?! - Explaining CSS Stacking Context",
-  "description": "Dimensions are weird. While most web apps seem to focus on the x and y axis, representing a 2D plane...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3bPfhYau--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l01gsotz4ieva3buv10f.png",
-  "slug": "why-is-z-index-not-working-explaining-css-stacking-context-34da",
-  "url": "https://dev.to/this-is-learning/why-is-z-index-not-working-explaining-css-stacking-context-34da",
-  "publish_date": "2022-10-08",
-  "published_at": "2022-10-08T05:46:37Z"
- },
- {
-  "id": 1214143,
-  "title": "How a Hacker Stole $566M USD Exploiting a Code Smell",
-  "description": "I am not a security expert. But I do love Clean Code and Code Smells   TL;DR: don't trust your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HhNjn8rg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wkhx00bmubco2ucbd8uo.png",
-  "slug": "how-a-hacker-stole-566m-usd-exploiting-a-code-smell-2fkn",
-  "url": "https://dev.to/mcsee/how-a-hacker-stole-566m-usd-exploiting-a-code-smell-2fkn",
-  "publish_date": "2022-10-08",
-  "published_at": "2022-10-08T03:58:21Z"
  }
 ]
