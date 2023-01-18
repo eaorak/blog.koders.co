@@ -1,5 +1,55 @@
 [
  {
+  "id": 1329231,
+  "title": "Introduction to Google APIs: pt. 1",
+  "description": "Google APIs are a set of programming interfaces developed by Google that allow external developers to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zpaK34dp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04urc2dbrnzvp44zmgd6.JPG",
+  "slug": "introduction-to-google-apis-pt-1-1l5o",
+  "url": "https://dev.to/mariamarsh/introduction-to-google-apis-pt-1-1l5o",
+  "publish_date": "2023-01-17",
+  "published_at": "2023-01-17T16:21:01Z"
+ },
+ {
+  "id": 1331657,
+  "title": "refine Hackathon with $1500 prize!",
+  "description": "refine is a React-based framework for the rapid ✨ development of CRUD web applications. It...",
+  "cover_image": "",
+  "slug": "the-refine-open-source-hackathon-g1j",
+  "url": "https://dev.to/necatiozmen/the-refine-open-source-hackathon-g1j",
+  "publish_date": "2023-01-17",
+  "published_at": "2023-01-17T09:40:33Z"
+ },
+ {
+  "id": 1331401,
+  "title": "Scale Node JS App using Cluster Module",
+  "description": "📍 NodeJS Concurrency   🙂 When It comes to writing Backend (or API for say) we can code them...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PBi3q4fb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jzfjksrtvyty1h3if9u.png",
+  "slug": "scale-node-js-app-using-cluster-module-3bg8",
+  "url": "https://dev.to/lovepreetsingh/scale-node-js-app-using-cluster-module-3bg8",
+  "publish_date": "2023-01-17",
+  "published_at": "2023-01-17T03:49:24Z"
+ },
+ {
+  "id": 1331394,
+  "title": "AI Tools for Developers",
+  "description": "DeepCode:    A platform that uses AI to analyze code and identify potential issues and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7r-i_4f7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gcpejkcaun3bxo4eyn6c.jpeg",
+  "slug": "ai-tools-for-developers-g79",
+  "url": "https://dev.to/rahul3002/ai-tools-for-developers-g79",
+  "publish_date": "2023-01-17",
+  "published_at": "2023-01-17T03:40:14Z"
+ },
+ {
+  "id": 1325033,
+  "title": "Get notified when there are commits to pull in VS Code",
+  "description": "With the help of GitLive’s new pull reminders, you can now pull sooner, reduce the chances of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGltL6Nx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iy8hgtt7c4tvwct5401e.png",
+  "slug": "get-notified-when-there-are-commits-to-pull-in-vs-code-61k",
+  "url": "https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-vs-code-61k",
+  "publish_date": "2023-01-17",
+  "published_at": "2023-01-17T00:39:59Z"
+ },
+ {
   "id": 1330998,
   "title": "Safe Data Fetching in Modern JavaScript",
   "description": "Fetch - the wrong way   fetch in JavaScript is awesome.   But, you may have something like...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mustapha/where-is-css-20nk",
   "publish_date": "2022-10-10",
   "published_at": "2022-10-10T08:45:05Z"
- },
- {
-  "id": 1215121,
-  "title": "16 games for developers",
-  "description": "16 Useful games for developers to play and learn",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k489r2EL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://barcelonacodeschool.com/files/pics/16_games_for_developers/16_gams_for_developers.gif",
-  "slug": "16-games-for-developers-53fi",
-  "url": "https://dev.to/bcncodeschool/16-games-for-developers-53fi",
-  "publish_date": "2022-10-09",
-  "published_at": "2022-10-09T17:47:12Z"
- },
- {
-  "id": 1214909,
-  "title": "Sass: More about Nesting📚",
-  "description": "We learnt how to nest Scss rules in the last post. Today, we'll go into more depth regarding...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WbEyGAgE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ssjactc2qsy3romu6er1.png",
-  "slug": "sass-more-about-nesting-492n",
-  "url": "https://dev.to/ak_ram/sass-more-about-nesting-492n",
-  "publish_date": "2022-10-09",
-  "published_at": "2022-10-09T14:46:30Z"
- },
- {
-  "id": 1214958,
-  "title": "Why You Should Not Be a Reactive Developer",
-  "description": "In This Article    What Is a Reactive Developer Case Scenario The Reactive Developer's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gBD3rNOl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3r9mn7izqnskq2xxepzf.png",
-  "slug": "why-you-should-not-be-a-reactive-developer-2i1p",
-  "url": "https://dev.to/perssondennis/why-you-should-not-be-a-reactive-developer-2i1p",
-  "publish_date": "2022-10-09",
-  "published_at": "2022-10-09T14:36:10Z"
- },
- {
-  "id": 1214435,
-  "title": "Turn around your Git mistakes in 17 ways",
-  "description": "Mistakes! These are not a necessity in software development. But they always find a way to taint the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WqFFXXtB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xhtx0d49iq1oqj7eq17n.png",
-  "slug": "turn-around-your-git-mistakes-in-17-ways-2mn1",
-  "url": "https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1",
-  "publish_date": "2022-10-09",
-  "published_at": "2022-10-09T12:30:23Z"
- },
- {
-  "id": 1214903,
-  "title": "Yoda, explaining art styles by example",
-  "description": "Contents    Abstract Art Acacemic Art African Aquarelle Art Deco Art...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BScMhzSA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z75dolhln8kbix4ayxqv.png",
-  "slug": "yoda-explaining-art-styles-by-example-405e",
-  "url": "https://dev.to/gernotstarke/yoda-explaining-art-styles-by-example-405e",
-  "publish_date": "2022-10-09",
-  "published_at": "2022-10-09T08:43:19Z"
  }
 ]
