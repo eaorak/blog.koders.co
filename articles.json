@@ -1,5 +1,55 @@
 [
  {
+  "id": 1333241,
+  "title": "Deep Cloning Objects in JavaScript, the Modern Way",
+  "description": "Did you know, there's now a native way in JavaScript to do deep copies of objects?  That's right,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Iqvui92m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9r2cqh638tpzx5hi0hp4.png",
+  "slug": "deep-cloning-objects-in-javascript-the-modern-way-17kf",
+  "url": "https://dev.to/builderio/deep-cloning-objects-in-javascript-the-modern-way-17kf",
+  "publish_date": "2023-01-18",
+  "published_at": "2023-01-18T15:03:53Z"
+ },
+ {
+  "id": 1333184,
+  "title": "How to Build a Real world Website Using HTML CSS JavaScript",
+  "description": "In this course, you will create a completely responsive real-world website with modern UI in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EMkibXya--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pe4ia6cibgflrb5vekds.png",
+  "slug": "how-to-build-a-real-world-website-using-html-css-javascript-3gap",
+  "url": "https://dev.to/codewithsadee/how-to-build-a-real-world-website-using-html-css-javascript-3gap",
+  "publish_date": "2023-01-18",
+  "published_at": "2023-01-18T13:53:35Z"
+ },
+ {
+  "id": 1331704,
+  "title": "33+ Exclusive In-house Free Templates for 2023",
+  "description": "Worldwide digitization has brought about the crucial trend of establishing one’s online presence as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mAK5JjTk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vf99i20ryuk74dh8tjn.png",
+  "slug": "33-exclusive-in-house-free-templates-for-2023-2abf",
+  "url": "https://dev.to/themewagon/33-exclusive-in-house-free-templates-for-2023-2abf",
+  "publish_date": "2023-01-18",
+  "published_at": "2023-01-18T08:46:59Z"
+ },
+ {
+  "id": 1332779,
+  "title": "What are E-Commerce Kpis",
+  "description": "E-commerce Key Performance Indicators (KPIs) are metrics used to measure the performance and success...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tRNVeBls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fqk88jpconwi0mrxxp52.png",
+  "slug": "what-are-e-commerce-kpis-1ng7",
+  "url": "https://dev.to/alyciakyla/what-are-e-commerce-kpis-1ng7",
+  "publish_date": "2023-01-18",
+  "published_at": "2023-01-18T06:51:37Z"
+ },
+ {
+  "id": 1332769,
+  "title": "Weekly web development resources #133",
+  "description": "Radix    Unstyled, accessible components for building high‑quality design systems and web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9fN9tWKB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/valk3bw79xlcpyhn303s.jpg",
+  "slug": "weekly-web-development-resources-133-690",
+  "url": "https://dev.to/vincenius/weekly-web-development-resources-133-690",
+  "publish_date": "2023-01-18",
+  "published_at": "2023-01-18T06:26:32Z"
+ },
+ {
   "id": 1329231,
   "title": "Introduction to Google APIs: pt. 1",
   "description": "Google APIs are a set of programming interfaces developed by Google that allow external developers to...",
@@ -2620,22 +2670,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/novu/building-the-most-practical-todolist-with-react-and-websockets-18hd",
   "publish_date": "2022-10-11",
   "published_at": "2022-10-11T10:07:02Z"
- },
- {
-  "id": 1215614,
-  "title": "Console.time \u0026 4 other webdev tips you may want to know 🚀",
-  "description": "1. Console.time   You can use console.time() to starts a timer to track how long an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mojr_esH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mrjchnzrqmpzw58lcn06.png",
-  "slug": "consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d",
-  "url": "https://dev.to/mustapha/consoletime-4-other-webdev-tips-you-may-want-to-know-2i5d",
-  "publish_date": "2022-10-10",
-  "published_at": "2022-10-10T15:47:51Z"
- },
- {
-  "id": 1215888,
-  "title": "Meme Monday 🐷",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZlsPaW0D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/id78lduqx4iqi5jx0p30.png",
-  "slug": "meme-monday-1cbp",
-  "url": "https://dev.to/ben/meme-monday-1cbp",
-  "publish_date": "2022-10-10",
-  "published_at": "2022-10-10T14:43:43Z"
- },
- {
-  "id": 1214819,
-  "title": "What are the best platforms to write technical articles?",
-  "description": "Introduction   One of the most asked questions in my DMs is to where put the technical...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MJO2mU7J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gfvslfn32nyzqvc3zr65.png",
-  "slug": "what-are-the-best-platforms-to-write-technical-articles-37fn",
-  "url": "https://dev.to/surajondev/what-are-the-best-platforms-to-write-technical-articles-37fn",
-  "publish_date": "2022-10-10",
-  "published_at": "2022-10-10T11:52:14Z"
- },
- {
-  "id": 1215680,
-  "title": "How I Created a React Native Ecommerce App for Medusa's Hackathon",
-  "description": "Medusa is currently hosting a Hackathon where developers can create amazing projects with Medusa and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ux6cJdrM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wqbhhlh339yndsgnhba3.jpg",
-  "slug": "how-i-created-a-react-native-ecommerce-app-for-medusas-hackathon-4am7",
-  "url": "https://dev.to/medusajs/how-i-created-a-react-native-ecommerce-app-for-medusas-hackathon-4am7",
-  "publish_date": "2022-10-10",
-  "published_at": "2022-10-10T11:48:39Z"
- },
- {
-  "id": 1213016,
-  "title": ":where :is CSS?",
-  "description": "In this post we will talk about the not so new functional pseudo-class selectors :is() and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZaNlsNyZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xsvudyry7tbcczfudp4y.png",
-  "slug": "where-is-css-20nk",
-  "url": "https://dev.to/mustapha/where-is-css-20nk",
-  "publish_date": "2022-10-10",
-  "published_at": "2022-10-10T08:45:05Z"
  }
 ]
