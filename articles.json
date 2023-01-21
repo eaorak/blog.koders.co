@@ -1,5 +1,55 @@
 [
  {
+  "id": 1335670,
+  "title": "Text To Speech Converter with JavaScript",
+  "description": "Converting text to speech using HTML, CSS, and JavaScript can be done using the SpeechSynthesis API....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rD61qRbN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4b6r2wnsj36g03yyy0y.jpg",
+  "slug": "text-to-speech-converter-with-javascript-30oo",
+  "url": "https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo",
+  "publish_date": "2023-01-20",
+  "published_at": "2023-01-20T11:36:54Z"
+ },
+ {
+  "id": 1335637,
+  "title": "Become a JavaScript Testing Pro: 14 Resources for Developers",
+  "description": "You know I have a strong passion for testing. Testing helps me to maintain good code design, stay...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6bk9C6HB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xk23mkaymwlifdht7jue.jpg",
+  "slug": "become-a-javascript-testing-pro-14-resources-for-developers-4pkm",
+  "url": "https://dev.to/mbarzeev/become-a-javascript-testing-pro-14-resources-for-developers-4pkm",
+  "publish_date": "2023-01-20",
+  "published_at": "2023-01-20T11:02:02Z"
+ },
+ {
+  "id": 1335497,
+  "title": "AKS Cost Optimization: Top 7 Strategies to Cut Your AKS Cluster Costs",
+  "description": "Azure Kubernetes Service (AKS) is one of the most popular managed container services. While offering...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--srryM3W3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bsnjpc7fp4ypkmvco1qf.png",
+  "slug": "aks-cost-optimization-top-7-strategies-to-cut-your-aks-cluster-costs-51nd",
+  "url": "https://dev.to/castai/aks-cost-optimization-top-7-strategies-to-cut-your-aks-cluster-costs-51nd",
+  "publish_date": "2023-01-20",
+  "published_at": "2023-01-20T08:40:50Z"
+ },
+ {
+  "id": 1335407,
+  "title": "Data Engineering and DataOps: A Beginner's Guide to Building Data Solutions and Solving Real-World Challenges",
+  "description": "Introduction   Data engineering is the process of designing, building, maintaining, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bwlwYfkb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ur4rk16u6kxcbf16q8p7.png",
+  "slug": "data-engineering-and-dataops-a-beginners-guide-to-building-data-solutions-and-solving-real-world-challenges-4p5j",
+  "url": "https://dev.to/chaos-genius/data-engineering-and-dataops-a-beginners-guide-to-building-data-solutions-and-solving-real-world-challenges-4p5j",
+  "publish_date": "2023-01-20",
+  "published_at": "2023-01-20T05:33:25Z"
+ },
+ {
+  "id": 1334006,
+  "title": "2023's Top Development Projects for Programmers: A Complete List of Tutorials and Tools for Mastering the Latest Technologies",
+  "description": "Welcome to our blog post on \"2023's Top Development Projects for Programmers\"! As a developer,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ePS4BDGG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6xqchwe4thwwmglu30n.png",
+  "slug": "2023s-top-development-projects-for-programmers-a-complete-list-of-tutorials-and-tools-for-mastering-the-latest-technologies-37o3",
+  "url": "https://dev.to/rahul3002/2023s-top-development-projects-for-programmers-a-complete-list-of-tutorials-and-tools-for-mastering-the-latest-technologies-37o3",
+  "publish_date": "2023-01-20",
+  "published_at": "2023-01-20T03:49:00Z"
+ },
+ {
   "id": 1334387,
   "title": "Documenting Forem's v1 API",
   "description": "Forem has set a milestone to update our (v1) API documentation and we need YOUR help!  There are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/blackgirlbytes/should-we-hire-junior-developer-advocates-13m2",
   "publish_date": "2022-10-13",
   "published_at": "2022-10-13T01:08:57Z"
- },
- {
-  "id": 1217745,
-  "title": "Hacktoberfest: docs updates in three steps",
-  "description": "Hacktoberfest is a celebration of Open Source contributions and new developers are eagerly encouraged...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6M-O1H79--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yz6ni8tf16f1iu6961hr.png",
-  "slug": "hacktoberfest-docs-updates-in-three-steps-17f",
-  "url": "https://dev.to/stackblitz/hacktoberfest-docs-updates-in-three-steps-17f",
-  "publish_date": "2022-10-12",
-  "published_at": "2022-10-12T14:57:36Z"
- },
- {
-  "id": 1217566,
-  "title": "App Recommendations for a Productive iPhone User!",
-  "description": "No two iPhone users are alike. While some people only use their phone for the occasional phone call...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VmIyItxY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttocx9e8idlgkodx4lqh.jpg",
-  "slug": "app-recommendations-for-a-productive-iphone-user-16e9",
-  "url": "https://dev.to/stephanreynolds/app-recommendations-for-a-productive-iphone-user-16e9",
-  "publish_date": "2022-10-12",
-  "published_at": "2022-10-12T11:10:44Z"
- },
- {
-  "id": 1217529,
-  "title": "How to send notifications in JavaScript(in less than 10 lines of code)",
-  "description": "Disclaimer: What the title means by 'in less than 10 lines of code' is referring to the number of...",
-  "cover_image": "",
-  "slug": "how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j",
-  "url": "https://dev.to/freebeliever/how-to-send-notifications-in-javascriptin-less-than-10-lines-of-code-3g9j",
-  "publish_date": "2022-10-12",
-  "published_at": "2022-10-12T09:57:13Z"
- },
- {
-  "id": 1217375,
-  "title": "Django \u0026 Celery - Open-Source Tasks Manager",
-  "description": "Open-Source Tasks manager powered by Django and Celery on top of a modern Boostrap 5 Design - Sources published on Github.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z4_7753N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/isoaiaor75w7u9p0n7kx.jpg",
-  "slug": "django-celery-open-source-tasks-manager-36jf",
-  "url": "https://dev.to/sm0ke/django-celery-open-source-tasks-manager-36jf",
-  "publish_date": "2022-10-12",
-  "published_at": "2022-10-12T06:19:25Z"
- },
- {
-  "id": 1216508,
-  "title": "Developing Full Stack Mobile App with AWS Amplify Studio",
-  "description": "Managing a full-stack mobile app development is a stressful job. A developer needs to pay attention...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--haDs9rtq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhk4ogbnhou85kfip0bs.png",
-  "slug": "developing-full-stack-mobile-app-with-aws-amplify-studio-2600",
-  "url": "https://dev.to/quokkalabs/developing-full-stack-mobile-app-with-aws-amplify-studio-2600",
-  "publish_date": "2022-10-12",
-  "published_at": "2022-10-12T05:36:09Z"
  }
 ]
