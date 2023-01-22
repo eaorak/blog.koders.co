@@ -1,5 +1,55 @@
 [
  {
+  "id": 1333577,
+  "title": "5 Reasons To Choose JavaScript Maps Over Objects For Storing Key-Value Pairs(With Examples)",
+  "description": "At 18 I started my \"career\" as an IT support guy. At 20 I was flying 80 hours per month as a flight...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wzf6bw-F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jlbrgz5vuyiz7pslqbts.png",
+  "slug": "5-reasons-to-choose-javascript-maps-over-objects-for-storing-key-value-pairswith-examples-39dd",
+  "url": "https://dev.to/gustavupp/5-reasons-to-choose-javascript-maps-over-objects-for-storing-key-value-pairswith-examples-39dd",
+  "publish_date": "2023-01-21",
+  "published_at": "2023-01-21T09:51:29Z"
+ },
+ {
+  "id": 1335263,
+  "title": "Web apps - my mental cheat-sheet",
+  "description": "Intro   This article is part of the “Continuous Delivery: HTML to Kubernetes”.  While I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UWKDHVZg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbax2bnvba4yzcxd37ki.png",
+  "slug": "web-apps-my-mental-cheat-sheet-41ah",
+  "url": "https://dev.to/costica/web-apps-my-mental-cheat-sheet-41ah",
+  "publish_date": "2023-01-21",
+  "published_at": "2023-01-21T07:30:00Z"
+ },
+ {
+  "id": 1336472,
+  "title": "The Top 5 Websites for Effective Coding",
+  "description": "Welcome to our latest blog post where we will be discussing the top 5 websites for effective coding....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A1V4mclA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8kqqbx2sb6y0uo3ighzq.png",
+  "slug": "the-top-5-websites-for-effective-coding-20o9",
+  "url": "https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9",
+  "publish_date": "2023-01-21",
+  "published_at": "2023-01-21T03:21:13Z"
+ },
+ {
+  "id": 1336465,
+  "title": "The last form library for React you will ever need",
+  "description": "Hello everyone, in this tutorial I'm going to show how to create forms easily using use-form package,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bGkze617--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vdammo23dwt79ppeygut.png",
+  "slug": "the-last-form-library-for-react-you-will-ever-need-3d42",
+  "url": "https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42",
+  "publish_date": "2023-01-21",
+  "published_at": "2023-01-21T02:19:22Z"
+ },
+ {
+  "id": 1336443,
+  "title": "Difference Between Responsive Design and Adaptive Design",
+  "description": "As a frontend developer or UI designer, this is definitely one of the most asked questions according...",
+  "cover_image": "",
+  "slug": "difference-between-responsive-design-and-adaptive-design-906",
+  "url": "https://dev.to/frontend_jedi/difference-between-responsive-design-and-adaptive-design-906",
+  "publish_date": "2023-01-21",
+  "published_at": "2023-01-21T00:58:25Z"
+ },
+ {
   "id": 1335670,
   "title": "Text To Speech Converter with JavaScript",
   "description": "Converting text to speech using HTML, CSS, and JavaScript can be done using the SpeechSynthesis API....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mahmoudessam/learn-json-from-scratch-29jh",
   "publish_date": "2022-10-14",
   "published_at": "2022-10-14T01:17:06Z"
- },
- {
-  "id": 1216002,
-  "title": "What is pnpm? Is it really so fast and space-efficient?",
-  "description": "We announced at ViteConf that our WebContainers now support pnpm. It was a major achievement in our...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MQBtPOa7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/som5fal8xwhbxgfbkxlj.png",
-  "slug": "what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la",
-  "url": "https://dev.to/stackblitz/what-is-pnpm-and-is-it-really-so-fast-and-space-efficient-29la",
-  "publish_date": "2022-10-13",
-  "published_at": "2022-10-13T12:57:41Z"
- },
- {
-  "id": 1218620,
-  "title": "Sass: Placeholder Selector 📎",
-  "description": "Our series is split into two main categories: SASS rules and SASS at-rules, if you recall the course...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--znW8rVTV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jyclnqlc9o7v10kqhnfz.png",
-  "slug": "sass-placeholder-selector-4cj8",
-  "url": "https://dev.to/ak_ram/sass-placeholder-selector-4cj8",
-  "publish_date": "2022-10-13",
-  "published_at": "2022-10-13T12:08:10Z"
- },
- {
-  "id": 1218586,
-  "title": "Awesome tools for Coding Practice",
-  "description": "Introduction   Watching countless YouTube videos or reading articles won't help you in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t42CmMDk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0i5g7dcxi6cyq9w7rcdb.png",
-  "slug": "awesome-tools-for-coding-practice-4l49",
-  "url": "https://dev.to/surajondev/awesome-tools-for-coding-practice-4l49",
-  "publish_date": "2022-10-13",
-  "published_at": "2022-10-13T11:30:26Z"
- },
- {
-  "id": 1217689,
-  "title": "How to Set up Facebook Conversion API on Shopify",
-  "description": "Having accuracy problems tracking data through Facebook Pixel? Hold on: It’s time to sing the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B2XN0Gya--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/soozdo777dlul26knmrp.png",
-  "slug": "how-to-set-up-facebook-conversion-api-on-shopify-20cd",
-  "url": "https://dev.to/gloriamaldonado/how-to-set-up-facebook-conversion-api-on-shopify-20cd",
-  "publish_date": "2022-10-13",
-  "published_at": "2022-10-13T07:22:49Z"
- },
- {
-  "id": 1218234,
-  "title": "Should we hire junior developer advocates?",
-  "description": "A common debate in Developer Relations is whether or not we should hire junior developer advocates....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1kikJmeC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x38ytfd3nuot7u8w4f4v.png",
-  "slug": "should-we-hire-junior-developer-advocates-13m2",
-  "url": "https://dev.to/blackgirlbytes/should-we-hire-junior-developer-advocates-13m2",
-  "publish_date": "2022-10-13",
-  "published_at": "2022-10-13T01:08:57Z"
  }
 ]
