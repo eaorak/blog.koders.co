@@ -1,5 +1,55 @@
 [
  {
+  "id": 1335979,
+  "title": "Announcing the Linode + DEV Hackathon!",
+  "description": "Join us for this opportunity to build an awesome application with Linode while earning some great prizes",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oj6lVp0W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7brex760nh4niita1b8j.jpg",
+  "slug": "announcing-the-linode-dev-hackathon-377p",
+  "url": "https://dev.to/devteam/announcing-the-linode-dev-hackathon-377p",
+  "publish_date": "2023-01-24",
+  "published_at": "2023-01-24T20:28:07Z"
+ },
+ {
+  "id": 1339953,
+  "title": "Fast and reliable end-to-end tests with Playwright on GitHub Actions",
+  "description": "Playwright is a powerful web testing tool supporting Chromium, Firefox and WebKit engines. The...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g661VxvB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xqtf8v6oxs4lowzz2d5n.jpg",
+  "slug": "fast-and-reliable-end-to-end-tests-with-playwright-on-github-actions-2mkh",
+  "url": "https://dev.to/drakulavich/fast-and-reliable-end-to-end-tests-with-playwright-on-github-actions-2mkh",
+  "publish_date": "2023-01-24",
+  "published_at": "2023-01-24T17:48:30Z"
+ },
+ {
+  "id": 1328107,
+  "title": "8 Best C++ IDEs to use in 2023",
+  "description": "Today’s post is devoted to 8 popular C++ programming environments. Many of them also support other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a7CtYg3d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/adi8pxyxl0alucuw9jjj.JPG",
+  "slug": "8-best-c-ides-to-use-in-2023-4kf5",
+  "url": "https://dev.to/mariamarsh/8-best-c-ides-to-use-in-2023-4kf5",
+  "publish_date": "2023-01-24",
+  "published_at": "2023-01-24T16:17:00Z"
+ },
+ {
+  "id": 1339699,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-4ffi",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ffi",
+  "publish_date": "2023-01-24",
+  "published_at": "2023-01-24T14:46:47Z"
+ },
+ {
+  "id": 1339613,
+  "title": "Things to do and not to do during a wave of tech layoffs",
+  "description": "Tech layoffs suck, and I lived through five of them. Here are some tips to deal with them.",
+  "cover_image": "",
+  "slug": "things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs-26bd",
+  "url": "https://dev.to/codepo8/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs-26bd",
+  "publish_date": "2023-01-24",
+  "published_at": "2023-01-24T12:57:52Z"
+ },
+ {
   "id": 1338677,
   "title": "Meme Monday 🫵",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rahulbanerjee99/do-you-know-these-software-engineering-terms-156l",
   "publish_date": "2022-10-17",
   "published_at": "2022-10-17T04:12:21Z"
- },
- {
-  "id": 1221216,
-  "title": "Preload Fonts",
-  "description": "Usually, fonts are either downloaded from a third-party source, such as Google Fonts, or from a file...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H5o8F4fj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/blmae869dpjgmsqznjwa.png",
-  "slug": "preload-fonts-2jh7",
-  "url": "https://dev.to/danielbellmas/preload-fonts-2jh7",
-  "publish_date": "2022-10-16",
-  "published_at": "2022-10-16T11:42:49Z"
- },
- {
-  "id": 1221113,
-  "title": "Deploy your own API and build cool projects",
-  "description": "Main concepts:   Rest API NodeJS \u0026amp; npm, ExpressJS \u0026amp; Heroku API deployment            What is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---mvRD5-V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/10fworr3k6sjusx5t1ke.png",
-  "slug": "deploy-your-own-api-and-build-cool-projects-2p6e",
-  "url": "https://dev.to/crispitipina/deploy-your-own-api-and-build-cool-projects-2p6e",
-  "publish_date": "2022-10-16",
-  "published_at": "2022-10-16T08:58:18Z"
- },
- {
-  "id": 1221084,
-  "title": "6 Cool Things Boring Old HTML Can Do 🤯",
-  "description": "Ever wondered does HTML always have to be boring? No way! Here are 6 cool things you can do with HTML...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DYd6gTU0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/td92zcqzvtmjdrogww5n.png",
-  "slug": "6-cool-things-boring-old-html-can-do-3160",
-  "url": "https://dev.to/ruppysuppy/6-cool-things-boring-old-html-can-do-3160",
-  "publish_date": "2022-10-16",
-  "published_at": "2022-10-16T07:17:55Z"
- },
- {
-  "id": 1220367,
-  "title": "Things I Learned Through My First Hacktoberfest Pull Requests!",
-  "description": "After searching for the perfect issues to solve as part of Hacktoberfest for about 10 days, I finally...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jb6wwQFg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrifgkmvdfpg3mltcwux.png",
-  "slug": "things-i-learned-through-my-first-hacktoberfest-pull-requests-4na1",
-  "url": "https://dev.to/saminarp/things-i-learned-through-my-first-hacktoberfest-pull-requests-4na1",
-  "publish_date": "2022-10-16",
-  "published_at": "2022-10-16T05:13:39Z"
- },
- {
-  "id": 1220913,
-  "title": "Some less popular git commands",
-  "description": "Introduction   Git is pretty much used by every developer nowadays. Personally, even after...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FcYA2pE1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0naausn4vvl7ofdjd6f5.png",
-  "slug": "some-less-popular-git-commands-2oem",
-  "url": "https://dev.to/akashrchandran/some-less-popular-git-commands-2oem",
-  "publish_date": "2022-10-16",
-  "published_at": "2022-10-16T02:38:48Z"
  }
 ]
