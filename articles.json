@@ -1,5 +1,55 @@
 [
  {
+  "id": 1340893,
+  "title": "Deliver perfect HTTP security headers with AWS CloudFront",
+  "description": "HTTP security headers protects your users from common attacks. AWS CloudFront makes it easy to add HTTP security headers to your application.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qEVeT9Ug--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q5f8qmpiczu9jzvx6mb2.png",
+  "slug": "deliver-perfect-http-security-headers-with-aws-cloudfront-4din",
+  "url": "https://dev.to/kumo/deliver-perfect-http-security-headers-with-aws-cloudfront-4din",
+  "publish_date": "2023-01-25",
+  "published_at": "2023-01-25T15:30:01Z"
+ },
+ {
+  "id": 1340680,
+  "title": "Creating a website brand with ChatGPT, Stable Diffusion, React and NodeJS 🤯",
+  "description": "TLDR;   In this article, you'll learn how to build a web application that uses ChatGPT and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XqRqBGhb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wkqxtofdbfxm8odzj7as.png",
+  "slug": "creating-a-website-brand-with-chatgpt-stable-diffusion-react-and-nodejs-e79",
+  "url": "https://dev.to/novu/creating-a-website-brand-with-chatgpt-stable-diffusion-react-and-nodejs-e79",
+  "publish_date": "2023-01-25",
+  "published_at": "2023-01-25T15:26:02Z"
+ },
+ {
+  "id": 1336761,
+  "title": "Top 10 VS Code Extensions to boost your Productivity in 2023",
+  "description": "Table of contents    Introduction 1. Bito AI 2. Bookmarks 3. Code Spell Checker 4. Better...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9X2xVv4W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jhfzf42uedagrn5yzav7.jpg",
+  "slug": "top-10-vs-code-extensions-to-boost-your-productivity-in-2023-47ml",
+  "url": "https://dev.to/developeratul/top-10-vs-code-extensions-to-boost-your-productivity-in-2023-47ml",
+  "publish_date": "2023-01-25",
+  "published_at": "2023-01-25T11:02:11Z"
+ },
+ {
+  "id": 1340508,
+  "title": "NodeJS with Kafka: Build Async Programs with ease",
+  "description": "📍 Sync and Async Programming   😶‍🌫️ In modern world with so many complexities in Software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oGa_uzQ---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mqhdwm24pof45suxt9kb.png",
+  "slug": "nodejs-with-kafka-build-async-programs-with-ease-11n3",
+  "url": "https://dev.to/lovepreetsingh/nodejs-with-kafka-build-async-programs-with-ease-11n3",
+  "publish_date": "2023-01-25",
+  "published_at": "2023-01-25T07:27:17Z"
+ },
+ {
+  "id": 1340423,
+  "title": "4 simple ways for developers to earn an extra $500 per month",
+  "description": "As a developer, you're likely always looking for ways to improve your skills and advance your career....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eNWJKoLE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jrvu3jt10z7w8jl62fbi.jpeg",
+  "slug": "4-simple-ways-for-developers-to-earn-an-extra-500-per-month-53b7",
+  "url": "https://dev.to/rahul3002/4-simple-ways-for-developers-to-earn-an-extra-500-per-month-53b7",
+  "publish_date": "2023-01-25",
+  "published_at": "2023-01-25T04:20:50Z"
+ },
+ {
   "id": 1335979,
   "title": "Announcing the Linode + DEV Hackathon!",
   "description": "Join us for this opportunity to build an awesome application with Linode while earning some great prizes",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9",
   "publish_date": "2022-10-18",
   "published_at": "2022-10-18T05:17:15Z"
- },
- {
-  "id": 1222098,
-  "title": "Meme Monday 🦑",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WW86okyu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kww6wtyyqggoyxxreys3.png",
-  "slug": "meme-monday-1299",
-  "url": "https://dev.to/ben/meme-monday-1299",
-  "publish_date": "2022-10-17",
-  "published_at": "2022-10-17T12:50:36Z"
- },
- {
-  "id": 1221881,
-  "title": "Building a chat app with Socket.io and React Native 🤯",
-  "description": "I wrote before on how to build a chat app with React, it got 1660 likes and 52955 views 🤩  So I have...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2YfFiQf9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qgnznlnobk4wl6luwubj.png",
-  "slug": "building-a-chat-app-with-socketio-and-react-native-k1b",
-  "url": "https://dev.to/novu/building-a-chat-app-with-socketio-and-react-native-k1b",
-  "publish_date": "2022-10-17",
-  "published_at": "2022-10-17T11:00:37Z"
- },
- {
-  "id": 1221598,
-  "title": "Restful API with Golang practical approach",
-  "description": "In this tutorial, we would be creating a Restful API with a practical approach of clean architecture...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bFXFcB3y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/js24i61mr7wxyzzh5xyz.png",
-  "slug": "restful-api-with-golang-practical-approach-420a",
-  "url": "https://dev.to/firdavs_kasymov/restful-api-with-golang-practical-approach-420a",
-  "publish_date": "2022-10-17",
-  "published_at": "2022-10-17T08:42:07Z"
- },
- {
-  "id": 1207298,
-  "title": "How to write a good README",
-  "description": "The README file is the one-stop documentation file. Usually, it is not only the first file any person...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C-pIPjMI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g52zia7v62gur6drtauc.png",
-  "slug": "how-to-write-a-good-readme-bog",
-  "url": "https://dev.to/merlos/how-to-write-a-good-readme-bog",
-  "publish_date": "2022-10-17",
-  "published_at": "2022-10-17T04:33:59Z"
- },
- {
-  "id": 1221736,
-  "title": "Do you know these Software Engineering Terms?",
-  "description": "I recently saw this reel by tiffintech and I went on a ‘Google Ride’ searching for some more funny...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D1Rr0jSO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2j9ekisegt115qqaibg4.jpeg",
-  "slug": "do-you-know-these-software-engineering-terms-156l",
-  "url": "https://dev.to/rahulbanerjee99/do-you-know-these-software-engineering-terms-156l",
-  "publish_date": "2022-10-17",
-  "published_at": "2022-10-17T04:12:21Z"
  }
 ]
