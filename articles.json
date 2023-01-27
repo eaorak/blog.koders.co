@@ -1,5 +1,55 @@
 [
  {
+  "id": 1340621,
+  "title": "Deploying ML models straight from Jupyter Notebooks",
+  "description": "Winter is a time of magic 🧙‍♂️. Everyone is waiting for something special at this time, and Data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B6JWwvVE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yvgkj1azb2p53socyxya.jpg",
+  "slug": "deploying-ml-models-straight-from-jupyter-notebooks-12bh",
+  "url": "https://dev.to/aguschin/deploying-ml-models-straight-from-jupyter-notebooks-12bh",
+  "publish_date": "2023-01-26",
+  "published_at": "2023-01-26T16:10:10Z"
+ },
+ {
+  "id": 1342132,
+  "title": "Flaky Tests, and How to Deal with Them",
+  "description": "Intro   Hey! My name is Yarden Porat, and in this article, I will explain what flaky tests...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4g-DBaSW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fd9x00h9c30emh22t4h2.jpg",
+  "slug": "flaky-tests-and-how-to-deal-with-them-2id2",
+  "url": "https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2",
+  "publish_date": "2023-01-26",
+  "published_at": "2023-01-26T15:45:35Z"
+ },
+ {
+  "id": 1342115,
+  "title": "Essential Design Patterns in Java",
+  "description": "Design patterns are reusable solutions to common software design problems. They provide a way to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rNlK_cUb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16i8xz7qsda9hmv5k9rr.jpg",
+  "slug": "essential-design-patterns-in-java-2pgd",
+  "url": "https://dev.to/cliffsilla/essential-design-patterns-in-java-2pgd",
+  "publish_date": "2023-01-26",
+  "published_at": "2023-01-26T09:53:30Z"
+ },
+ {
+  "id": 1341971,
+  "title": "Why I Decided to Invest in My Portfolio as a Junior Developer",
+  "description": "As a junior developer, it can be easy to overlook the importance of investing in your portfolio....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QBBQrRI_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5agaphzjics2c6mvxwqn.jpeg",
+  "slug": "why-i-decided-to-invest-in-my-portfolio-as-a-junior-developer-428p",
+  "url": "https://dev.to/viktoriabors/why-i-decided-to-invest-in-my-portfolio-as-a-junior-developer-428p",
+  "publish_date": "2023-01-26",
+  "published_at": "2023-01-26T07:18:15Z"
+ },
+ {
+  "id": 1341907,
+  "title": "My Favorite System Design and Software Architecture Books for Experienced Developers",
+  "description": "These are the best System Design and Software Architecture Books for Programmers, Developer, and experienced developers who want to become software architect",
+  "cover_image": "",
+  "slug": "my-favorite-system-design-and-software-architecture-books-for-experienced-developers-2ced",
+  "url": "https://dev.to/javinpaul/my-favorite-system-design-and-software-architecture-books-for-experienced-developers-2ced",
+  "publish_date": "2023-01-26",
+  "published_at": "2023-01-26T07:01:06Z"
+ },
+ {
   "id": 1340893,
   "title": "Deliver perfect HTTP security headers with AWS CloudFront",
   "description": "HTTP security headers protects your users from common attacks. AWS CloudFront makes it easy to add HTTP security headers to your application.",
@@ -3020,22 +3070,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/blackgirlbytes/contribute-to-open-source-without-knowing-how-to-code-2li9",
   "publish_date": "2022-10-19",
   "published_at": "2022-10-19T05:14:38Z"
- },
- {
-  "id": 1223463,
-  "title": "I made a full-stack and type-safe personal site using the t3-stack (Next.js)!",
-  "description": "Intro   First of all, thanks a lot for 1000+ followers on Dev.to, I really can’t believe...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LVmlUJV8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7huq4m0zmfvbsbxo7y1s.png",
-  "slug": "i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d",
-  "url": "https://dev.to/asheeshh/i-made-a-full-stack-portfolio-site-using-nextjs-and-tailwind-366d",
-  "publish_date": "2022-10-18",
-  "published_at": "2022-10-18T18:22:28Z"
- },
- {
-  "id": 1222982,
-  "title": "How to Build a Video Game Store with Medusa and Next.js",
-  "description": "Medusa is a Node.js-based, open-source, ecommerce platform. Medusa allows developers to create...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--59Wt1d4f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mf67rge2ceeg36hn9m5y.jpg",
-  "slug": "how-to-build-a-video-game-store-with-medusa-and-nextjs-kem",
-  "url": "https://dev.to/medusajs/how-to-build-a-video-game-store-with-medusa-and-nextjs-kem",
-  "publish_date": "2022-10-18",
-  "published_at": "2022-10-18T11:30:46Z"
- },
- {
-  "id": 1222933,
-  "title": "What is CORS?",
-  "description": "Article explains what is CORS, popular among web developers CORS, what are the common problems and how to fix them.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vmwx7kmE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://simplelocalize.io/blog/what-is-cors.jpg",
-  "slug": "what-is-cors-11kf",
-  "url": "https://dev.to/jpomykala/what-is-cors-11kf",
-  "publish_date": "2022-10-18",
-  "published_at": "2022-10-18T09:36:06Z"
- },
- {
-  "id": 1222087,
-  "title": "10 Visual Studio 2022 Themes you Should Try (Free Themes!)✔️",
-  "description": "You’re probably looking for visual studio 2022 themes because you want to spruce up your development...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zLW3QFwA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kg5trldc1kbesx6kd4je.png",
-  "slug": "10-visual-studio-2022-themes-you-should-try-free-themes-1f4n",
-  "url": "https://dev.to/bytehide/10-visual-studio-2022-themes-you-should-try-free-themes-1f4n",
-  "publish_date": "2022-10-18",
-  "published_at": "2022-10-18T06:20:12Z"
- },
- {
-  "id": 1222759,
-  "title": "Making the site responsive - part 11",
-  "description": "Now that we have our basic structure styled and working let's take some time to look at the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LM8Fhobo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7z41wdp89fc0ymdnev52.jpg",
-  "slug": "making-the-site-responsive-part-11-46a9",
-  "url": "https://dev.to/dailydevtips1/making-the-site-responsive-part-11-46a9",
-  "publish_date": "2022-10-18",
-  "published_at": "2022-10-18T05:17:15Z"
  }
 ]
