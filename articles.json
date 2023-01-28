@@ -1,5 +1,55 @@
 [
  {
+  "id": 1344193,
+  "title": "What was your win this week?",
+  "description": "Hey y'all! 👋  Hope everybody has an awesome weekend!  Looking back on this past week, what was...",
+  "cover_image": "",
+  "slug": "what-was-your-win-this-week-f70",
+  "url": "https://dev.to/michaeltharrington/what-was-your-win-this-week-f70",
+  "publish_date": "2023-01-27",
+  "published_at": "2023-01-27T20:53:56Z"
+ },
+ {
+  "id": 1343355,
+  "title": "GKE Security: Top 10 Strategies for Securing Your Cluster",
+  "description": "Security is one of key challenges in Kubernetes because of its configuration complexity and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fgcBHEDK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5r8rixqol717iwg3ld1.png",
+  "slug": "gke-security-top-10-strategies-for-securing-your-cluster-1p66",
+  "url": "https://dev.to/castai/gke-security-top-10-strategies-for-securing-your-cluster-1p66",
+  "publish_date": "2023-01-27",
+  "published_at": "2023-01-27T10:24:54Z"
+ },
+ {
+  "id": 1343265,
+  "title": "The 10 Signs That You Need To Hire A Web Developer",
+  "description": "Having a web-based identity in the form website is critical today. Regardless of your industry or the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TWi8QwGB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a9te2jgw2waix7evm391.png",
+  "slug": "the-10-signs-that-you-need-to-hire-a-web-developer-54cc",
+  "url": "https://dev.to/quokkalabs/the-10-signs-that-you-need-to-hire-a-web-developer-54cc",
+  "publish_date": "2023-01-27",
+  "published_at": "2023-01-27T10:05:02Z"
+ },
+ {
+  "id": 1343249,
+  "title": "20 Killer JavaScript One-Liners That’ll Save You Hours of Coding 🤯🔥",
+  "description": "Take your JavaScript skills to the next level with these essential one-liners that will also save you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x5TIXS6B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jxc9uzhsads1z932whnz.jpg",
+  "slug": "20-killer-javascript-one-liners-thatll-save-you-hours-of-coding-o14",
+  "url": "https://dev.to/rammcodes/20-killer-javascript-one-liners-thatll-save-you-hours-of-coding-o14",
+  "publish_date": "2023-01-27",
+  "published_at": "2023-01-27T09:32:15Z"
+ },
+ {
+  "id": 1341232,
+  "title": "Git Commit Patterns",
+  "description": "The use of Git for us Devs is something essential, whether in personal projects, open source with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yEg6wphx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tjpuzy352lt8udzoex4i.png",
+  "slug": "git-commit-patterns-5dm7",
+  "url": "https://dev.to/jasonh33/git-commit-patterns-5dm7",
+  "publish_date": "2023-01-27",
+  "published_at": "2023-01-27T03:00:00Z"
+ },
+ {
   "id": 1340621,
   "title": "Deploying ML models straight from Jupyter Notebooks",
   "description": "Winter is a time of magic 🧙‍♂️. Everyone is waiting for something special at this time, and Data...",
@@ -3070,22 +3120,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sourishkrout/run-your-readmemd-in-vs-code-50l7",
   "publish_date": "2022-10-20",
   "published_at": "2022-10-20T01:21:00Z"
- },
- {
-  "id": 1224300,
-  "title": "This Post is Scheduled for 11:30am US Eastern Time ⏰",
-  "description": "Announcing a new Forem feature we have just turned on with DEV:  Schedule your post!    The...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fjY-R6J---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pwfa866cs9oehk0dv84h.png",
-  "slug": "this-post-is-scheduled-for-1130am-299k",
-  "url": "https://dev.to/devteam/this-post-is-scheduled-for-1130am-299k",
-  "publish_date": "2022-10-19",
-  "published_at": "2022-10-19T15:30:00Z"
- },
- {
-  "id": 1224247,
-  "title": "Django \u0026 Stripe - Open-Source Mini eCommerce",
-  "description": "Open-source Django eCommerce project that loads the products from JSON files saved in the templates directory (no database required) - Bootstrap 5 design is used for styling.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NKh1h02z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a18gixmhgq6wewo7ch2k.jpg",
-  "slug": "django-stripe-open-source-mini-ecommerce-3o5j",
-  "url": "https://dev.to/sm0ke/django-stripe-open-source-mini-ecommerce-3o5j",
-  "publish_date": "2022-10-19",
-  "published_at": "2022-10-19T13:48:11Z"
- },
- {
-  "id": 1224062,
-  "title": "Material UI AutoComplete in React",
-  "description": "Author: Doro Onome           Introduction   Material UI provides a unique set of components and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u19zxGaV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g6txw7nrjg4wx2khv1x4.png",
-  "slug": "material-ui-autocomplete-in-react-1ip6",
-  "url": "https://dev.to/refine/material-ui-autocomplete-in-react-1ip6",
-  "publish_date": "2022-10-19",
-  "published_at": "2022-10-19T12:08:51Z"
- },
- {
-  "id": 1224048,
-  "title": "Monitoring AWS EKS with Grafana and Prometheus",
-  "description": "In last weeks blog, Monitoring AKS With Prometheus and Grafana, you learned how to monitor Azure...",
-  "cover_image": "",
-  "slug": "monitoring-aws-eks-with-grafana-and-prometheus-jj",
-  "url": "https://dev.to/thenjdevopsguy/monitoring-aws-eks-with-grafana-and-prometheus-jj",
-  "publish_date": "2022-10-19",
-  "published_at": "2022-10-19T11:45:48Z"
- },
- {
-  "id": 1223791,
-  "title": "Contribute to open source without knowing how to code",
-  "description": "When you think of open source contributions, do you immediately think of code?   It’s a common...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NcI7J-pN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yrnx3vj6mbzg2zvbhujt.png",
-  "slug": "contribute-to-open-source-without-knowing-how-to-code-2li9",
-  "url": "https://dev.to/blackgirlbytes/contribute-to-open-source-without-knowing-how-to-code-2li9",
-  "publish_date": "2022-10-19",
-  "published_at": "2022-10-19T05:14:38Z"
  }
 ]
