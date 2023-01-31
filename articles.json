@@ -1,5 +1,55 @@
 [
  {
+  "id": 1346933,
+  "title": "Meme Monday 👁",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hD8_vgz2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f1zo4spxh0zuxp9ogfo5.png",
+  "slug": "meme-monday-5h2e",
+  "url": "https://dev.to/ben/meme-monday-5h2e",
+  "publish_date": "2023-01-30",
+  "published_at": "2023-01-30T16:12:38Z"
+ },
+ {
+  "id": 1346402,
+  "title": "Just Launched Dyte on Product Hunt",
+  "description": "What is Dyte?   Dyte is a live video calling SDK that lets you embed completely customizable...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1mkvJ3jy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bj44624m6izo2exnufy7.png",
+  "slug": "just-launched-dyte-on-product-hunt-4h3f",
+  "url": "https://dev.to/dyte/just-launched-dyte-on-product-hunt-4h3f",
+  "publish_date": "2023-01-30",
+  "published_at": "2023-01-30T09:28:42Z"
+ },
+ {
+  "id": 1346356,
+  "title": "7 Awesome Free APIs for Your Next Node.js Project",
+  "description": "This article was originally published at...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--miYZakj0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7d3o2kvwqyhe1xxtftmt.png",
+  "slug": "7-awesome-free-apis-for-your-next-nodejs-project-41m1",
+  "url": "https://dev.to/maximization/7-awesome-free-apis-for-your-next-nodejs-project-41m1",
+  "publish_date": "2023-01-30",
+  "published_at": "2023-01-30T05:48:09Z"
+ },
+ {
+  "id": 1346354,
+  "title": "Must have websites for every Frontend Web developer",
+  "description": "Frontend Web development can be tough sometimes when you don’t have some essential tools to make your...",
+  "cover_image": "",
+  "slug": "must-have-websites-for-every-frontend-web-developer-3ajm",
+  "url": "https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm",
+  "publish_date": "2023-01-30",
+  "published_at": "2023-01-30T05:37:36Z"
+ },
+ {
+  "id": 1346302,
+  "title": "Top 20 React.JS interview questions.",
+  "description": "As a React developer, it is important to have a solid understanding of the framework's key concepts...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oZIXSLEi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hzpzbmsxkn9gwh2tv0xa.png",
+  "slug": "top-20-reactjs-interview-questions-3a0m",
+  "url": "https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m",
+  "publish_date": "2023-01-30",
+  "published_at": "2023-01-30T05:03:33Z"
+ },
+ {
   "id": 1345670,
   "title": "Creating the effect of traveling through space",
   "description": "Hello everyone! Today we're going to create the effect of traveling through space using javascript...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/integerman/differences-between-net-collection-interfaces-g3i",
   "publish_date": "2022-10-23",
   "published_at": "2022-10-23T01:38:56Z"
- },
- {
-  "id": 1226974,
-  "title": "Javascript Proxy: Using Javascript Proxies like a Pro",
-  "description": "Proxies are objects in Javascript which allows you to make a proxy of an object, while also defining...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vkJltBXr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xi7034jf130tb8jzjzjx.png",
-  "slug": "using-javascript-proxies-like-a-pro-590",
-  "url": "https://dev.to/smpnjn/using-javascript-proxies-like-a-pro-590",
-  "publish_date": "2022-10-22",
-  "published_at": "2022-10-22T13:56:00Z"
- },
- {
-  "id": 1223834,
-  "title": "10 UI and UX Principles while styling with CSS",
-  "description": "a) Use appropriate icon set for all buttons. If you do not have proper icons, you can download it or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fsdg1lX9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9eqsjtjmst2thm1phecl.png",
-  "slug": "10-ui-and-ux-principles-while-styling-with-css-7ib",
-  "url": "https://dev.to/koustav/10-ui-and-ux-principles-while-styling-with-css-7ib",
-  "publish_date": "2022-10-22",
-  "published_at": "2022-10-22T10:27:51Z"
- },
- {
-  "id": 1226837,
-  "title": "Django API Generator - Free PyPI Library",
-  "description": "Simple tool that Generates Secure APIs on top of DRF with minimum effort - Released under the MIT License on Github.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--687ChRQQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8512umci4ilxnxrtt2sa.jpg",
-  "slug": "django-api-generator-free-pypi-library-1oe4",
-  "url": "https://dev.to/sm0ke/django-api-generator-free-pypi-library-1oe4",
-  "publish_date": "2022-10-22",
-  "published_at": "2022-10-22T09:50:14Z"
- },
- {
-  "id": 1226797,
-  "title": "New git guidelines: We have switched to Conventional Commits",
-  "description": "Giving teams as much autonomy as possible is a good idea, but having some company-wide guidelines can...",
-  "cover_image": "",
-  "slug": "new-git-guidelines-we-have-switched-to-conventional-commits-1p0c",
-  "url": "https://dev.to/visuellverstehen/new-git-guidelines-we-have-switched-to-conventional-commits-1p0c",
-  "publish_date": "2022-10-22",
-  "published_at": "2022-10-22T08:28:39Z"
- },
- {
-  "id": 1226796,
-  "title": "These 10 free APIs will take your programming projects to the next level 👇",
-  "description": "DummyAPI   From fake users to fake comments and posts.   Dummy API has everything you need to make...",
-  "cover_image": "",
-  "slug": "these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24",
-  "url": "https://dev.to/elliot_brenyasarfo_18749/these-10-free-apis-will-take-your-programming-projects-to-the-next-level-5g24",
-  "publish_date": "2022-10-22",
-  "published_at": "2022-10-22T08:00:02Z"
  }
 ]
