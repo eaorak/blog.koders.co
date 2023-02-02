@@ -1,5 +1,55 @@
 [
  {
+  "id": 1336246,
+  "title": "Easily deploy your portfolio website with AWS CDK 🚀",
+  "description": "Why follow this tutorial?   Coding your own portfolio website is a cool introduction to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a-b5hf0V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/cdk/portfolio/assets/cover-image.png",
+  "slug": "easily-deploy-your-portfolio-website-with-aws-cdk-4l9b",
+  "url": "https://dev.to/kumo/easily-deploy-your-portfolio-website-with-aws-cdk-4l9b",
+  "publish_date": "2023-02-01",
+  "published_at": "2023-02-01T13:49:25Z"
+ },
+ {
+  "id": 1349198,
+  "title": "Unleash the Power of JavaScript String Methods - Your Ultimate Cheat Sheet 🤯🔥",
+  "description": "JavaScript strings are a powerful tool for manipulating text and working with data. To get the most...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I9Tdo7gA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t00la05kx6urly0llzeg.jpg",
+  "slug": "unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734",
+  "url": "https://dev.to/rammcodes/unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734",
+  "publish_date": "2023-02-01",
+  "published_at": "2023-02-01T09:55:41Z"
+ },
+ {
+  "id": 1349065,
+  "title": "Weekly web development resources #135",
+  "description": "shadcn/ui    Accessible and customizable open-source Next.js components that you can copy...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aIYnaBuZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/691ab9mbjb218sqy4wqk.jpg",
+  "slug": "weekly-web-development-resources-135-5d6k",
+  "url": "https://dev.to/vincenius/weekly-web-development-resources-135-5d6k",
+  "publish_date": "2023-02-01",
+  "published_at": "2023-02-01T06:40:33Z"
+ },
+ {
+  "id": 1348946,
+  "title": "10 GitHub repositories you must know as a JavaScript developer",
+  "description": "If you want to improve your programming skills, then learning continuously could be the safest and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G7bIoeuo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ai1yxo8brehqxkgbh7jg.jpg",
+  "slug": "10-github-repositories-you-must-know-as-a-javascript-developer-f5d",
+  "url": "https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d",
+  "publish_date": "2023-02-01",
+  "published_at": "2023-02-01T04:51:53Z"
+ },
+ {
+  "id": 1347611,
+  "title": "Comparing Kubernetes Gateway and Ingress APIs",
+  "description": "A couple of months ago, the new Kubernetes Gateway API graduated to beta.  Why do you need another...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nyd30Sni--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ghmpflbavxh23c408v9a.jpeg",
+  "slug": "comparing-kubernetes-gateway-and-ingress-apis-22oj",
+  "url": "https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj",
+  "publish_date": "2023-02-01",
+  "published_at": "2023-02-01T04:44:24Z"
+ },
+ {
   "id": 1348247,
   "title": "Welcome @devintelbyte, the 1 millionth registered DEV!",
   "description": "DEV just passed 1 million registered members, and the 1 millionth is @devintelbyte 😆.  Thank you to...",
@@ -3320,22 +3370,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i",
   "publish_date": "2022-10-25",
   "published_at": "2022-10-25T03:42:22Z"
- },
- {
-  "id": 1224565,
-  "title": "DEV Community Satisfaction Survey Results!",
-  "description": "A couple months back, we launched the DEV Community Satisfaction Survey with an announcement...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zOldFcSW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lugoavz21l8589sq4p0x.png",
-  "slug": "dev-community-satisfaction-survey-results-485f",
-  "url": "https://dev.to/devteam/dev-community-satisfaction-survey-results-485f",
-  "publish_date": "2022-10-24",
-  "published_at": "2022-10-24T13:30:00Z"
- },
- {
-  "id": 1228080,
-  "title": "Building a Notion-like system with Socket.io And React 😍",
-  "description": "What is this article about?   We are going to build a knowledge system like Click-Up and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uRDVAQtP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ehrdsol4sfv1gnut06ik.png",
-  "slug": "building-a-notion-like-system-with-socketio-and-react-1hjg",
-  "url": "https://dev.to/novu/building-a-notion-like-system-with-socketio-and-react-1hjg",
-  "publish_date": "2022-10-24",
-  "published_at": "2022-10-24T12:30:48Z"
- },
- {
-  "id": 1228207,
-  "title": "Awesome Websites For UI/UX Inspiration",
-  "description": "Introduction   UI/UX is what the user actually sees. When a user visits your site, they...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lQm2dB3B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6mvxw28s8gezxddxmke5.png",
-  "slug": "awesome-websites-for-uiux-inspiration-5h75",
-  "url": "https://dev.to/surajondev/awesome-websites-for-uiux-inspiration-5h75",
-  "publish_date": "2022-10-24",
-  "published_at": "2022-10-24T11:30:00Z"
- },
- {
-  "id": 1228078,
-  "title": "Inversion of Control: Service Locator in Typescript",
-  "description": "I've been working with Angular for a while now (over 2 years), and since I moved to another...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vIJk4ESF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/exvpcmzoc2uyrgwb80if.jpg",
-  "slug": "inversion-of-control-dependency-injection-in-typescript-1dj9",
-  "url": "https://dev.to/this-is-angular/inversion-of-control-dependency-injection-in-typescript-1dj9",
-  "publish_date": "2022-10-24",
-  "published_at": "2022-10-24T06:06:03Z"
- },
- {
-  "id": 1228042,
-  "title": "React: How does useMemo and useCallback work ?",
-  "description": "How does useMemo and useCallback work ?   When render a component, React will process the...",
-  "cover_image": "",
-  "slug": "react-how-does-usememo-and-usecallback-work--4e0d",
-  "url": "https://dev.to/linhbui167/react-how-does-usememo-and-usecallback-work--4e0d",
-  "publish_date": "2022-10-24",
-  "published_at": "2022-10-24T03:24:07Z"
  }
 ]
