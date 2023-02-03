@@ -1,5 +1,55 @@
 [
  {
+  "id": 1348856,
+  "title": "Celebrate Black History Month by Donating to These 10 Organizations!",
+  "description": "For the entire month of February, we at DEV observe Black History Month as per celebrations in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zOLCt3aG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2gi4bdp3hehsl0oyzuy.jpg",
+  "slug": "celebrate-black-history-month-by-donating-to-these-10-organizations-104i",
+  "url": "https://dev.to/devteam/celebrate-black-history-month-by-donating-to-these-10-organizations-104i",
+  "publish_date": "2023-02-02",
+  "published_at": "2023-02-02T20:36:47Z"
+ },
+ {
+  "id": 1335443,
+  "title": "10 best GitHub repos for developers ✅",
+  "description": "With the help of GitHub, developers can easily access and share their code with others. It has become...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sFEVFn4P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52h209tmik0976jf5oyk.png",
+  "slug": "10-best-github-repos-for-developers-5gmp",
+  "url": "https://dev.to/mariamarsh/10-best-github-repos-for-developers-5gmp",
+  "publish_date": "2023-02-02",
+  "published_at": "2023-02-02T15:43:48Z"
+ },
+ {
+  "id": 1351043,
+  "title": "Twitter charging for API usage starting Feb. 9th",
+  "description": "Twitter as of February 9th will start charging developers to use their API.                         ...",
+  "cover_image": "",
+  "slug": "twitter-charging-for-api-usage-starting-feb-9th-713",
+  "url": "https://dev.to/nickytonline/twitter-charging-for-api-usage-starting-feb-9th-713",
+  "publish_date": "2023-02-02",
+  "published_at": "2023-02-02T13:59:09Z"
+ },
+ {
+  "id": 1350712,
+  "title": "Understanding the Spread Operator(...) in JavaScript",
+  "description": "In today's episode of talking about awesome JavaScript features, we are going to turn our attention...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PFKawdbW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rklchf5bv3k4lkkn4ugr.png",
+  "slug": "understanding-the-spread-operator-in-javascript-4pg6",
+  "url": "https://dev.to/brandonbawe/understanding-the-spread-operator-in-javascript-4pg6",
+  "publish_date": "2023-02-02",
+  "published_at": "2023-02-02T10:23:17Z"
+ },
+ {
+  "id": 1350429,
+  "title": "Portfolio website for the developer",
+  "description": "As a software developer, I know the importance of having a strong portfolio website to showcase our...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cju5evsV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otmx8h0hqa7drnhkhkqx.gif",
+  "slug": "portfolio-website-for-the-developer-3i05",
+  "url": "https://dev.to/said7388/portfolio-website-for-the-developer-3i05",
+  "publish_date": "2023-02-02",
+  "published_at": "2023-02-02T06:32:17Z"
+ },
+ {
   "id": 1336246,
   "title": "Easily deploy your portfolio website with AWS CDK 🚀",
   "description": "Why follow this tutorial?   Coding your own portfolio website is a cool introduction to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/the-collab-lab/what-is-the-collab-lab-427f",
   "publish_date": "2022-10-26",
   "published_at": "2022-10-26T01:17:00Z"
- },
- {
-  "id": 1229301,
-  "title": "How to learn your second programming language efficiently",
-  "description": "introduction   When you're starting to learn your second programming language, it's...",
-  "cover_image": "",
-  "slug": "how-to-learn-your-second-programming-language-efficiently-86g",
-  "url": "https://dev.to/chainguns/how-to-learn-your-second-programming-language-efficiently-86g",
-  "publish_date": "2022-10-25",
-  "published_at": "2022-10-25T12:08:35Z"
- },
- {
-  "id": 1229297,
-  "title": "I made 10x faster JSON.stringify() functions, even type safe",
-  "description": "Series of TypeScript Compiler based Libraries    I made 1,000x faster TypeScript validator...",
-  "cover_image": "",
-  "slug": "i-made-10x-faster-jsonstringify-functions-even-type-safe-2eme",
-  "url": "https://dev.to/samchon/i-made-10x-faster-jsonstringify-functions-even-type-safe-2eme",
-  "publish_date": "2022-10-25",
-  "published_at": "2022-10-25T12:04:32Z"
- },
- {
-  "id": 1229170,
-  "title": "How to Use JavaScript some method",
-  "description": "Author: Abdullah Numan           Introduction   This post is about the some() method in JavaScript....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wF4J1UTn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nref60pxrocl2jhftmb8.png",
-  "slug": "how-to-use-javascript-some-method-1jk4",
-  "url": "https://dev.to/refine/how-to-use-javascript-some-method-1jk4",
-  "publish_date": "2022-10-25",
-  "published_at": "2022-10-25T11:41:36Z"
- },
- {
-  "id": 1222356,
-  "title": "State Management Is Easy Now!? An Introduction to Observable Store",
-  "description": "Oh application state. The source of so many bugs. React has Redux, Vue has Pinia, and Angular has...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QNHg0iNG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pmt8893tgs2jmpq0n3bm.jpg",
-  "slug": "state-management-is-easy-now-an-introduction-to-observable-store-15ij",
-  "url": "https://dev.to/stevewhitmore/state-management-is-easy-now-an-introduction-to-observable-store-15ij",
-  "publish_date": "2022-10-25",
-  "published_at": "2022-10-25T04:20:30Z"
- },
- {
-  "id": 1228046,
-  "title": "How to set up a basic HTTP server in Node + Express",
-  "description": "In this post we will have a look at how to set up a basic HTTP server with Node and Express. This...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lgjQwbGv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1rjre3vhce61b5nnyisb.jpeg",
-  "slug": "how-to-set-up-a-basic-http-server-in-node-express-10i",
-  "url": "https://dev.to/danielstai/how-to-set-up-a-basic-http-server-in-node-express-10i",
-  "publish_date": "2022-10-25",
-  "published_at": "2022-10-25T03:42:22Z"
  }
 ]
