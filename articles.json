@@ -1,5 +1,55 @@
 [
  {
+  "id": 1352457,
+  "title": "What was your win this week?",
+  "description": "Hey folks! 👋  Hope y'all all enjoy your weekends.  Looking back on this past week, what was something...",
+  "cover_image": "",
+  "slug": "what-was-your-win-this-week-19pe",
+  "url": "https://dev.to/michaeltharrington/what-was-your-win-this-week-19pe",
+  "publish_date": "2023-02-03",
+  "published_at": "2023-02-03T16:24:29Z"
+ },
+ {
+  "id": 1352047,
+  "title": "Top 5+ Free Chakra UI Admin Dashboards \u0026 Templates for 2023",
+  "description": "The world of web development is constantly evolving, and the use of admin dashboards \u0026amp; templates...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rem-0yEZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qdxt55j52gx814vloaqv.png",
+  "slug": "top-5-free-chakra-ui-admin-dashboards-templates-for-2023-kgp",
+  "url": "https://dev.to/fredy/top-5-free-chakra-ui-admin-dashboards-templates-for-2023-kgp",
+  "publish_date": "2023-02-03",
+  "published_at": "2023-02-03T16:00:00Z"
+ },
+ {
+  "id": 1352323,
+  "title": "20 Git Commands That Will Make You a Version Control Pro.",
+  "description": "Version control is essential for programmers who want to collaborate effectively and track changes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--quzB6qES--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vddt3s9c111l89wor2n3.png",
+  "slug": "20-git-commands-that-will-make-you-a-version-control-pro-149p",
+  "url": "https://dev.to/devland/20-git-commands-that-will-make-you-a-version-control-pro-149p",
+  "publish_date": "2023-02-03",
+  "published_at": "2023-02-03T13:33:38Z"
+ },
+ {
+  "id": 1352303,
+  "title": "TypeScript Utility Types You Need to Know",
+  "description": "Are you ever building something in TypeScript and realize...    AGH! This package is not exporting a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8vXlXJX8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/im4y1g33hzlme4lz0n6d.png",
+  "slug": "typescript-utility-types-you-need-to-know-14b7",
+  "url": "https://dev.to/builderio/typescript-utility-types-you-need-to-know-14b7",
+  "publish_date": "2023-02-03",
+  "published_at": "2023-02-03T12:41:06Z"
+ },
+ {
+  "id": 1347479,
+  "title": "HarperDB Helm chart on Artifact Hub",
+  "description": "Introduction   Hey 👋, in this post, we shall see how to create a helm chart for HarperDB...",
+  "cover_image": "",
+  "slug": "harperdb-helm-chart-on-artifact-hub-3066",
+  "url": "https://dev.to/networkandcode/harperdb-helm-chart-on-artifact-hub-3066",
+  "publish_date": "2023-02-03",
+  "published_at": "2023-02-03T01:25:37Z"
+ },
+ {
   "id": 1348856,
   "title": "Celebrate Black History Month by Donating to These 10 Organizations!",
   "description": "For the entire month of February, we at DEV observe Black History Month as per celebrations in the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/feministech/construindo-um-curriculo-para-devrel-1fka",
   "publish_date": "2022-10-27",
   "published_at": "2022-10-27T03:16:15Z"
- },
- {
-  "id": 1230537,
-  "title": "Building a Login System using Redux",
-  "description": "A login is a set of credentials used to authenticate a user. Most often, these consist of a username...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6nrMHtln--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q8rn93ivl2ih8dzdwa03.png",
-  "slug": "building-a-login-system-using-redux-5ce3",
-  "url": "https://dev.to/danielonugha0/building-a-login-system-using-redux-5ce3",
-  "publish_date": "2022-10-26",
-  "published_at": "2022-10-26T08:38:33Z"
- },
- {
-  "id": 1230523,
-  "title": "Dark mode pictures \u0026 4 other webdev tips you may want to know 🚀",
-  "description": "1. Dark mode pictures   This is how you can display different pictures in dark mode:    More...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1gXV-qYO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ikon8u1h0gf3yrb9npm.png",
-  "slug": "dark-mode-pictures-4-other-webdev-tips-you-may-want-to-know-2od",
-  "url": "https://dev.to/mustapha/dark-mode-pictures-4-other-webdev-tips-you-may-want-to-know-2od",
-  "publish_date": "2022-10-26",
-  "published_at": "2022-10-26T08:12:28Z"
- },
- {
-  "id": 1230520,
-  "title": "Have you tried React classnames?",
-  "description": "Regarding classes in React, we get a lot of power out of the box. However, we can enhance this power...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qTqUoynH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yesty550seahuee8gpv5.jpg",
-  "slug": "have-you-tried-react-classnames-2845",
-  "url": "https://dev.to/dailydevtips1/have-you-tried-react-classnames-2845",
-  "publish_date": "2022-10-26",
-  "published_at": "2022-10-26T07:57:36Z"
- },
- {
-  "id": 1230514,
-  "title": "Free Django eCommerce - Use Products from Stripe",
-  "description": "Mini eCommerce for Django with products download from Stripe - Open-source project (MIT License).",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IzejrZc5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmgibre8nh5u5lzhaj79.jpg",
-  "slug": "free-django-ecommerce-dw-products-from-stripe-3792",
-  "url": "https://dev.to/sm0ke/free-django-ecommerce-dw-products-from-stripe-3792",
-  "publish_date": "2022-10-26",
-  "published_at": "2022-10-26T07:43:49Z"
- },
- {
-  "id": 1230218,
-  "title": "What is The Collab Lab?",
-  "description": "Curious about what The Collab Lab is?  Here's the TL;DR   The Collab Lab increases access to web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V_p9UoQH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkrykaml6ubzcuocre47.jpg",
-  "slug": "what-is-the-collab-lab-427f",
-  "url": "https://dev.to/the-collab-lab/what-is-the-collab-lab-427f",
-  "publish_date": "2022-10-26",
-  "published_at": "2022-10-26T01:17:00Z"
  }
 ]
