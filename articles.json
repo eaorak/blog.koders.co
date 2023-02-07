@@ -1,5 +1,55 @@
 [
  {
+  "id": 1355928,
+  "title": "Why I joined Dagger",
+  "description": "For the past 8 years I’ve been trying to solve CI/CD, “once and for all.”    once: the core design of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XD6OxB4b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sufyop07g9kcqf2dy3cm.png",
+  "slug": "why-i-joined-dagger-43gb",
+  "url": "https://dev.to/vito/why-i-joined-dagger-43gb",
+  "publish_date": "2023-02-06",
+  "published_at": "2023-02-06T18:12:03Z"
+ },
+ {
+  "id": 1355664,
+  "title": "Meme Monday 🧢",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H0SJ6eg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1qw2u9dr6huozmq93hda.png",
+  "slug": "meme-monday-7b3",
+  "url": "https://dev.to/ben/meme-monday-7b3",
+  "publish_date": "2023-02-06",
+  "published_at": "2023-02-06T15:16:36Z"
+ },
+ {
+  "id": 1355458,
+  "title": "MacOS can remove backgrounds from images",
+  "description": "A new option in the finder context menu allows you to remove backgrounds from images.",
+  "cover_image": "",
+  "slug": "macos-can-remove-backgrounds-from-images-9co",
+  "url": "https://dev.to/codepo8/macos-can-remove-backgrounds-from-images-9co",
+  "publish_date": "2023-02-06",
+  "published_at": "2023-02-06T12:59:14Z"
+ },
+ {
+  "id": 1342278,
+  "title": "Introduction to Google APIs: pt. 2 🌎",
+  "description": "In this post, we will continue working with Google APIs, focusing specifically on the Google Maps...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xw4PYGSS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7c64y2n57x5macxsp57.png",
+  "slug": "introduction-to-google-apis-pt-2-5hk5",
+  "url": "https://dev.to/mariamarsh/introduction-to-google-apis-pt-2-5hk5",
+  "publish_date": "2023-02-06",
+  "published_at": "2023-02-06T12:47:59Z"
+ },
+ {
+  "id": 1354930,
+  "title": "7 great libraries for React",
+  "description": "1: usehooks-ts   usehooks-ts is a great React Hook library that has saved me countless...",
+  "cover_image": "",
+  "slug": "7-great-libraries-for-react-2g0o",
+  "url": "https://dev.to/gravy59/7-great-libraries-for-react-2g0o",
+  "publish_date": "2023-02-06",
+  "published_at": "2023-02-06T01:51:50Z"
+ },
+ {
   "id": 1354529,
   "title": "React Anti-Patterns and Best Practices - Do's and Don'ts",
   "description": "React may seem to be one of the least opinionated frameworks in the Wild West Web. Despite that,...",
@@ -3570,22 +3620,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5",
   "publish_date": "2022-10-30",
   "published_at": "2022-10-30T06:04:28Z"
- },
- {
-  "id": 1235244,
-  "title": "How To Make a Food Delivery Website Using HTML CSS JavaScript",
-  "description": "How To Make a Food Delivery Website Using HTML CSS JavaScript  This video will show you how to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1A8W6eme--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ji7poesq8c8rqelwqsxi.png",
-  "slug": "how-to-make-a-food-delivery-website-using-html-css-javascript-4ne3",
-  "url": "https://dev.to/codewithsadee/how-to-make-a-food-delivery-website-using-html-css-javascript-4ne3",
-  "publish_date": "2022-10-29",
-  "published_at": "2022-10-29T13:01:51Z"
- },
- {
-  "id": 1235257,
-  "title": "7 Best VS Code Shortcuts You Should Use",
-  "description": "1.Select text word by word.  Mac : cmd+shift+Left/Right Arrow  Windows : Ctrl + Shift + Left/Right...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AJF0Wo1r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ev0v62p2dc22dz3urekx.png",
-  "slug": "10-best-vs-code-shortcuts-you-should-use-19b0",
-  "url": "https://dev.to/rizmyabdulla/10-best-vs-code-shortcuts-you-should-use-19b0",
-  "publish_date": "2022-10-29",
-  "published_at": "2022-10-29T11:53:38Z"
- },
- {
-  "id": 940517,
-  "title": "I built my own Tweet scheduler which costs less than 1$ per month",
-  "description": "I wanted a simple scheduler that will post tweets from my Notion database to Twitter.   I wanted an...",
-  "cover_image": "",
-  "slug": "i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd",
-  "url": "https://dev.to/dineshs91/i-built-my-own-tweet-scheduler-which-costs-less-than-1-per-month-5gbd",
-  "publish_date": "2022-10-29",
-  "published_at": "2022-10-29T06:20:11Z"
- },
- {
-  "id": 1234974,
-  "title": "5 quick ways to center a div with CSS",
-  "description": "Hello DEV community 👋 Centering div is one of the common problems encountered in front-end layout....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4bZly4nM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0y2zec3j2moztz2aa9fd.png",
-  "slug": "5-quick-ways-to-center-a-div-with-css-3nno",
-  "url": "https://dev.to/junlow/5-quick-ways-to-center-a-div-with-css-3nno",
-  "publish_date": "2022-10-29",
-  "published_at": "2022-10-29T04:35:41Z"
- },
- {
-  "id": 1234798,
-  "title": "Copying a Feature from Docusaurus 🦖 For My Static Site Generator - rwar 🦁",
-  "description": "Source of inspiration 🌟   There is so much to learn from Docusaurus. It is a powerful static...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U-rkcsRI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sfr9nsygenz4z78wkmct.png",
-  "slug": "copying-a-feature-from-docusaurus-for-my-static-site-generator-rwar-49j6",
-  "url": "https://dev.to/saminarp/copying-a-feature-from-docusaurus-for-my-static-site-generator-rwar-49j6",
-  "publish_date": "2022-10-29",
-  "published_at": "2022-10-29T02:57:44Z"
  }
 ]
