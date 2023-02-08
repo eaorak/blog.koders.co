@@ -1,5 +1,55 @@
 [
  {
+  "id": 1357004,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-1ni2",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ni2",
+  "publish_date": "2023-02-07",
+  "published_at": "2023-02-07T15:55:37Z"
+ },
+ {
+  "id": 1356840,
+  "title": "Moving From Electron to Tauri",
+  "description": "Part 1: Interprocess Communication — porting a Typescript-based message system of an Electron App to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--STd92CQk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4828yllxctncuf9aiz6u.jpg",
+  "slug": "moving-from-electron-to-tauri-3791",
+  "url": "https://dev.to/pgenfer/moving-from-electron-to-tauri-3791",
+  "publish_date": "2023-02-07",
+  "published_at": "2023-02-07T13:50:29Z"
+ },
+ {
+  "id": 1356839,
+  "title": "5 React Tools to Use in an Ecommerce Stack",
+  "description": "Ecommerce has become more popular as businesses turn to online sales to increase their reach....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QtIoOjCE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o94tfxtkclhucinswulq.jpg",
+  "slug": "5-react-tools-to-use-in-an-ecommerce-stack-1ojo",
+  "url": "https://dev.to/medusajs/5-react-tools-to-use-in-an-ecommerce-stack-1ojo",
+  "publish_date": "2023-02-07",
+  "published_at": "2023-02-07T13:22:40Z"
+ },
+ {
+  "id": 1356515,
+  "title": "Top Free Productivity Apps for 2023",
+  "description": "Productivity apps have become increasingly popular in recent years as people seek ways to streamline...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yY9-JQ-m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs9rnj64kyjrjstkocq0.jpg",
+  "slug": "top-free-productivity-apps-for-2023-jlb",
+  "url": "https://dev.to/stephanreynolds/top-free-productivity-apps-for-2023-jlb",
+  "publish_date": "2023-02-07",
+  "published_at": "2023-02-07T07:11:32Z"
+ },
+ {
+  "id": 1353071,
+  "title": "Sometimes I Feel Like I'm Invisible - Experiences of a Woman in Tech",
+  "description": "This blog post is very personal and sharing it makes me very vulnerable. So please, respect that. And...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3wCdJBhl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4teqv286epviniskpif6.png",
+  "slug": "sometimes-i-feel-like-im-invisible-experiences-of-a-woman-in-tech-3glb",
+  "url": "https://dev.to/eevajonnapanula/sometimes-i-feel-like-im-invisible-experiences-of-a-woman-in-tech-3glb",
+  "publish_date": "2023-02-07",
+  "published_at": "2023-02-07T04:14:06Z"
+ },
+ {
   "id": 1355928,
   "title": "Why I joined Dagger",
   "description": "For the past 8 years I’ve been trying to solve CI/CD, “once and for all.”    once: the core design of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/themewagon/css-grid-and-flexbox-a-brief-juxtaposition-2fa",
   "publish_date": "2022-10-31",
   "published_at": "2022-10-31T05:46:23Z"
- },
- {
-  "id": 1236098,
-  "title": "How to Make Responsive Landing Page Using Html CSS JavaScript",
-  "description": "How to Make Responsive Landing Page Using Html CSS JavaScript  This video will show you how to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---x2Z54CK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0vbyxbmmaro31wk9ftkx.png",
-  "slug": "how-to-make-responsive-landing-page-using-html-css-javascript-13jj",
-  "url": "https://dev.to/codewithsadee/how-to-make-responsive-landing-page-using-html-css-javascript-13jj",
-  "publish_date": "2022-10-30",
-  "published_at": "2022-10-30T13:24:45Z"
- },
- {
-  "id": 1235889,
-  "title": "Awesome VS Code Extensions for Navigating Large Codebases",
-  "description": "Introduction   VS Code is one of the best and most popular code editors among developers....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xkrFlmLZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0wl6bipzas0urnvue79n.png",
-  "slug": "awesome-vs-code-extensions-for-navigating-large-codebases-256n",
-  "url": "https://dev.to/surajondev/awesome-vs-code-extensions-for-navigating-large-codebases-256n",
-  "publish_date": "2022-10-30",
-  "published_at": "2022-10-30T11:30:00Z"
- },
- {
-  "id": 1236028,
-  "title": "AWS Parameters and Secrets Lambda Extension Demo Using AWS CDK",
-  "description": "AWS Parameters and Secrets Lambda Extension Demo Using AWS CDK",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rw1hay-U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/vumdao/aws-parameters-secrets-lambda-extension-cdk/master/images/cover.png",
-  "slug": "aws-parameters-and-secrets-lambda-extension-demo-using-aws-cdk-5e83",
-  "url": "https://dev.to/aws-builders/aws-parameters-and-secrets-lambda-extension-demo-using-aws-cdk-5e83",
-  "publish_date": "2022-10-30",
-  "published_at": "2022-10-30T09:42:11Z"
- },
- {
-  "id": 1235930,
-  "title": "How can ignore a files that have already been committed to the repo?",
-  "description": "If a file already committed and pushed into your github repo. And you forgot to add in .gitignore and...",
-  "cover_image": "",
-  "slug": "how-can-ignore-a-files-that-have-already-been-committed-to-the-repo-5c6p",
-  "url": "https://dev.to/siumhossain/how-can-ignore-a-files-that-have-already-been-committed-to-the-repo-5c6p",
-  "publish_date": "2022-10-30",
-  "published_at": "2022-10-30T08:03:55Z"
- },
- {
-  "id": 1235892,
-  "title": "7 Shorthand Optimization Tricks every JavaScript Developer Should Know 😎",
-  "description": "Every language has its own quirks and JavaScript, the most used programming language, is no...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q8aee-Lv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wuyoqss09sc67qczwuuk.png",
-  "slug": "7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5",
-  "url": "https://dev.to/ruppysuppy/7-shorthand-optimization-tricks-every-javascript-developer-should-know-4fj5",
-  "publish_date": "2022-10-30",
-  "published_at": "2022-10-30T06:04:28Z"
  }
 ]
