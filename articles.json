@@ -1,5 +1,55 @@
 [
  {
+  "id": 1361594,
+  "title": "Eu sou um falso Developer Advocate",
+  "description": "Sumário    1. Prólogo 2. Criador de Conteúdo por ACIDENTE 3. Apenas um Grupo de Amigos...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u1fN6gXc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o0oz17ur03t2ppk9ztlz.png",
+  "slug": "eu-sou-um-falso-developer-advocate-5fd7",
+  "url": "https://dev.to/devrelbr/eu-sou-um-falso-developer-advocate-5fd7",
+  "publish_date": "2023-02-11",
+  "published_at": "2023-02-11T18:52:16Z"
+ },
+ {
+  "id": 1361855,
+  "title": "Complete CSS Selector Cheat Sheet: A Hands-On Guide with images😍",
+  "description": "CSS selectors can seem challenging because they provide a wide range of options for selecting HTML...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ob-w0JcZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yyayfb43p9qxlac1jg6o.png",
+  "slug": "complete-css-selector-cheat-sheet-a-hands-on-guide-with-images-5ff1",
+  "url": "https://dev.to/arafat4693/complete-css-selector-cheat-sheet-a-hands-on-guide-with-images-5ff1",
+  "publish_date": "2023-02-11",
+  "published_at": "2023-02-11T12:27:30Z"
+ },
+ {
+  "id": 1361793,
+  "title": "What are portals in React?",
+  "description": "In this article, we'll dive into the concept of portals in React and see how they can be used to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EPcYzJaq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eozqi33ilgxlt0pedcqa.png",
+  "slug": "what-are-portals-in-react-eb",
+  "url": "https://dev.to/codeofrelevancy/what-are-portals-in-react-eb",
+  "publish_date": "2023-02-11",
+  "published_at": "2023-02-11T11:17:43Z"
+ },
+ {
+  "id": 1361691,
+  "title": "Why Developers Should Learn Docker and Kubernetes in 2023",
+  "description": "Docker and Kubernetes are two essential tool for creating and managing container and must know in this age of Cloud Computing and Microservices. ",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vaWSpIlR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rke0vhl6d6zlomjba455.png",
+  "slug": "why-developers-should-learn-docker-and-kubernetes-in-2023-4hof",
+  "url": "https://dev.to/javinpaul/why-developers-should-learn-docker-and-kubernetes-in-2023-4hof",
+  "publish_date": "2023-02-11",
+  "published_at": "2023-02-11T09:03:52Z"
+ },
+ {
+  "id": 1361423,
+  "title": "NPM Commands and Shortcuts You Should Know as a JavaScript Dev",
+  "description": "Whether you are a newbie or a proficient in JavaScript world, you probably already use or will use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q231nRqz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjwxd127u3odalnvx8f0.png",
+  "slug": "npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15",
+  "url": "https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15",
+  "publish_date": "2023-02-11",
+  "published_at": "2023-02-11T00:48:25Z"
+ },
+ {
   "id": 1360759,
   "title": "Quick guide for YAML",
   "description": "YAML (short for \"YAML Ain't Markup Language\") is a data serialization format that is used to store...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/refine/esbuild-next-generation-javascript-bundler-45ke",
   "publish_date": "2022-11-04",
   "published_at": "2022-11-04T11:38:26Z"
- },
- {
-  "id": 1241870,
-  "title": "What were some of the toughest technologies and concepts for you to grasp along the way?",
-  "description": "What were they, did you every fully overcome your confusion?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xj9VZeuQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ush5qdthcbo9p5b7ughe.png",
-  "slug": "what-were-some-of-the-toughest-technologies-and-concepts-for-you-to-grasp-along-the-way-47ga",
-  "url": "https://dev.to/ben/what-were-some-of-the-toughest-technologies-and-concepts-for-you-to-grasp-along-the-way-47ga",
-  "publish_date": "2022-11-03",
-  "published_at": "2022-11-03T14:26:32Z"
- },
- {
-  "id": 1241672,
-  "title": "Web development is just like embedded development",
-  "description": "I often see people discuss embedded development and web development as being two opposite sides of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CObCywfw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8nctcoldz7cicblwbn1.jpeg",
-  "slug": "web-development-is-just-like-embedded-development-j1k",
-  "url": "https://dev.to/wesen/web-development-is-just-like-embedded-development-j1k",
-  "publish_date": "2022-11-03",
-  "published_at": "2022-11-03T13:21:10Z"
- },
- {
-  "id": 1241652,
-  "title": "What are your tips for working remotely?",
-  "description": "I've been working remotely since before the pandemic and love it. For those of you that work...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fQTxfJBj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h16y9nb1u6on7fcu2rv1.jpg",
-  "slug": "what-are-your-tips-for-working-remotely-57n0",
-  "url": "https://dev.to/nickytonline/what-are-your-tips-for-working-remotely-57n0",
-  "publish_date": "2022-11-03",
-  "published_at": "2022-11-03T12:33:41Z"
- },
- {
-  "id": 1241594,
-  "title": "9 Tips to Improve your Ecommerce User Experience",
-  "description": "Ecommerce is rapidly becoming the way you do business today. And one of the most important outcomes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dlrrd-Vt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m1v4gy96evv1o3z2eh02.jpg",
-  "slug": "9-tips-to-improve-your-ecommerce-user-experience-3me8",
-  "url": "https://dev.to/medusajs/9-tips-to-improve-your-ecommerce-user-experience-3me8",
-  "publish_date": "2022-11-03",
-  "published_at": "2022-11-03T12:17:58Z"
- },
- {
-  "id": 1241280,
-  "title": "Django \u0026 Stripe eCommerce - Free Starter",
-  "description": "Open-source starter powered by Django \u0026 Stripe that allows a quick build of a simple eCommerce using products from Stripe.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dtKMB_9a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/604k3jbwa1g42dsswp87.gif",
-  "slug": "django-stripe-ecommerce-free-starter-14g0",
-  "url": "https://dev.to/sm0ke/django-stripe-ecommerce-free-starter-14g0",
-  "publish_date": "2022-11-03",
-  "published_at": "2022-11-03T04:59:27Z"
  }
 ]
