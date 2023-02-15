@@ -1,5 +1,55 @@
 [
  {
+  "id": 1365687,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-40",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40",
+  "publish_date": "2023-02-14",
+  "published_at": "2023-02-14T19:00:27Z"
+ },
+ {
+  "id": 1363084,
+  "title": "O passo a passo de como criei meu portfólio e como você pode fazer o mesmo",
+  "description": "Olá pessoal,  Sou desenvolvedora web e sei que ter um portfólio legal é super importante para mostrar...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wxr46PYx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lopyfd2tkue0z1upkfi7.png",
+  "slug": "o-passo-a-passo-de-como-criei-meu-portfolio-e-como-voce-pode-fazer-o-mesmo-23kf",
+  "url": "https://dev.to/dellamora/o-passo-a-passo-de-como-criei-meu-portfolio-e-como-voce-pode-fazer-o-mesmo-23kf",
+  "publish_date": "2023-02-14",
+  "published_at": "2023-02-14T17:04:11Z"
+ },
+ {
+  "id": 1365394,
+  "title": "7 AI Free Website Tools For Everyone and Anyone",
+  "description": "AI tools are on the rise and they are becoming increasingly popular for everyone, especially web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6lcUQhgC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/enoasto82skj7s1qrz9k.png",
+  "slug": "7-ai-free-website-tools-for-everyone-and-anyone-54nb",
+  "url": "https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb",
+  "publish_date": "2023-02-14",
+  "published_at": "2023-02-14T15:33:24Z"
+ },
+ {
+  "id": 1362774,
+  "title": "How to make your own ChatGPT site",
+  "description": "Many developers are likely familiar with the OpenAI API. By utilizing this API, it is possible to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GUk6UPNc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3yfzhcz078ev1g3ltb62.png",
+  "slug": "how-to-make-your-own-chatgpt-site-3f4k",
+  "url": "https://dev.to/notdev007/how-to-make-your-own-chatgpt-site-3f4k",
+  "publish_date": "2023-02-14",
+  "published_at": "2023-02-14T13:29:25Z"
+ },
+ {
+  "id": 1364651,
+  "title": "What is the purpose of using super constructor with props argument in React?",
+  "description": "👷‍♂️ super constructor   A super constructor is a special constructor in the class hierarchy...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kz7jHfZ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ft0kr0xf0weg27zb643y.png",
+  "slug": "what-is-the-purpose-of-using-super-constructor-with-props-argument-in-react-2ea3",
+  "url": "https://dev.to/codeofrelevancy/what-is-the-purpose-of-using-super-constructor-with-props-argument-in-react-2ea3",
+  "publish_date": "2023-02-14",
+  "published_at": "2023-02-14T02:44:48Z"
+ },
+ {
   "id": 1363885,
   "title": "Building the largest Notifications Library in the world using ChatGPT, React, and NodeJS 🤯",
   "description": "TLDR;   I am going to show you how to create a notification library like on this...",
@@ -3970,22 +4020,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gloriamaldonado/a-complete-guide-to-importing-shopify-customer-data-to-google-ads-5e57",
   "publish_date": "2022-11-07",
   "published_at": "2022-11-07T08:16:37Z"
- },
- {
-  "id": 1244353,
-  "title": "How To Create A Resizing Header With Plain CSS",
-  "description": "For my projects I want to use as much CSS and as little JavaScript as possible (for accessibility...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T22iw3i2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epzsbocx306dzfbw8mx9.png",
-  "slug": "how-to-create-a-resizing-header-with-plain-css-35gk",
-  "url": "https://dev.to/yuridevat/how-to-create-a-resizing-header-with-plain-css-35gk",
-  "publish_date": "2022-11-06",
-  "published_at": "2022-11-06T09:28:47Z"
- },
- {
-  "id": 1245367,
-  "title": "A Complete Guide to NFTs",
-  "description": "What are NFTs?   Non-fungible tokens (NFTs) are cryptographic assets on a blockchain that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KnWtw02d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quz8reir2mxbwnq9pgnc.jpg",
-  "slug": "a-complete-guide-to-nfts-28lj",
-  "url": "https://dev.to/iadityasingh/a-complete-guide-to-nfts-28lj",
-  "publish_date": "2022-11-06",
-  "published_at": "2022-11-06T06:55:54Z"
- },
- {
-  "id": 1245260,
-  "title": "Change the DB as you wish | Repository Pattern📦",
-  "description": "📦 Repository Pattern   This is a practical and real-life example of how to use the...",
-  "cover_image": "",
-  "slug": "change-the-db-as-you-wish-repository-pattern-2h2h",
-  "url": "https://dev.to/ivanzm123/change-the-db-as-you-wish-repository-pattern-2h2h",
-  "publish_date": "2022-11-06",
-  "published_at": "2022-11-06T04:54:58Z"
- },
- {
-  "id": 1245259,
-  "title": "How to Make Weather App in React",
-  "description": "In this article, we are going to make a weather app in react. In this project, we will use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G3l_0U5A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/esk1ev26c7galyksgkmp.jpg",
-  "slug": "how-to-make-weather-app-in-react-d3f",
-  "url": "https://dev.to/reactjsguru/how-to-make-weather-app-in-react-d3f",
-  "publish_date": "2022-11-06",
-  "published_at": "2022-11-06T04:46:16Z"
- },
- {
-  "id": 1245107,
-  "title": "Automate and Auto-Merge Pull Requests using GitHub Actions and the GitHub CLI",
-  "description": "So I've written about how I automated content updates for my blog before. I even gave a talk on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MPFZD2M0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n5zbeeuatd9c42b1etvc.jpg",
-  "slug": "automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6",
-  "url": "https://dev.to/nickytonline/automate-and-merge-pull-requests-using-github-actions-and-the-github-cli-4lo6",
-  "publish_date": "2022-11-06",
-  "published_at": "2022-11-06T01:32:09Z"
  }
 ]
