@@ -1,5 +1,55 @@
 [
  {
+  "id": 1365260,
+  "title": "Building a minimal Linux OS from source code 🏗",
+  "description": "In the modern world, we are surrounded by a huge number of electronic devices of varying degrees of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k27n6GsN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bu1mwacs8dpher1yvryz.jpg",
+  "slug": "building-a-minimal-linux-os-from-source-code-i1",
+  "url": "https://dev.to/mariamarsh/building-a-minimal-linux-os-from-source-code-i1",
+  "publish_date": "2023-02-15",
+  "published_at": "2023-02-15T16:05:18Z"
+ },
+ {
+  "id": 1354636,
+  "title": "Don't miss on the cloud revolution, learn serverless on AWS the right way",
+  "description": "In this article, we will learn how to get started with serverless on AWS. It will require to create...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2C61uluo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/introduction/assets/cover.png",
+  "slug": "dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac",
+  "url": "https://dev.to/kumo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac",
+  "publish_date": "2023-02-15",
+  "published_at": "2023-02-15T14:03:26Z"
+ },
+ {
+  "id": 1366705,
+  "title": "Asking AI what it thinks programming languages look like!",
+  "description": "Hey all, long time no see!  Just a random fun post for you today, am I back, am I not? Who knows, but...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--inl9v_3p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f1j8rr71urtotw8qqii4.jpg",
+  "slug": "asking-ai-what-it-thinks-programming-languages-look-like-37j4",
+  "url": "https://dev.to/grahamthedev/asking-ai-what-it-thinks-programming-languages-look-like-37j4",
+  "publish_date": "2023-02-15",
+  "published_at": "2023-02-15T14:01:52Z"
+ },
+ {
+  "id": 1366419,
+  "title": "Build Your Own Currency Calculator App with Next.js 13, Node.js, Firebase, TypeScript and Tailwind CSS",
+  "description": "In this tutorial, you will learn how to build a Currency Calculator App using modern web development...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JHnWMUkc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/97xyvlkd5uahtn5byz0u.png",
+  "slug": "build-your-own-currency-calculator-app-with-nextjs-13-nodejs-firebase-typescript-and-tailwind-css-3ibp",
+  "url": "https://dev.to/codeofrelevancy/build-your-own-currency-calculator-app-with-nextjs-13-nodejs-firebase-typescript-and-tailwind-css-3ibp",
+  "publish_date": "2023-02-15",
+  "published_at": "2023-02-15T09:33:15Z"
+ },
+ {
+  "id": 1362830,
+  "title": "Get notified when there are commits to pull in IntelliJ",
+  "description": "With the help of GitLive’s new pull reminders, you can now pull sooner, reduce the chances of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aImg277g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w34xsbkc59qnu0kor9ro.png",
+  "slug": "get-notified-when-there-are-commits-to-pull-in-intellij-3en9",
+  "url": "https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-intellij-3en9",
+  "publish_date": "2023-02-15",
+  "published_at": "2023-02-15T06:17:35Z"
+ },
+ {
   "id": 1365687,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4020,22 +4070,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/event-driven-apis-with-webhook-and-api-gateway-2mdb",
   "publish_date": "2022-11-08",
   "published_at": "2022-11-08T08:45:55Z"
- },
- {
-  "id": 1228820,
-  "title": "Client-side Routing without the JavaScript",
-  "description": "It's been a while since I wrote a piece about a SolidJS technology innovation. It's been two years...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TaGVrRTZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6tsoaj9wss1h9ahpll3n.png",
-  "slug": "client-side-routing-without-the-javascript-3k1i",
-  "url": "https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i",
-  "publish_date": "2022-11-07",
-  "published_at": "2022-11-07T16:17:37Z"
- },
- {
-  "id": 1246580,
-  "title": "Meme Monday 🤌",
-  "description": "Welcome to another Meme Monday post! Today's cover image comes from last week's thread.  DEV is an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3te9x4Fa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9by8jeuzd9v5qyvpcv3g.png",
-  "slug": "meme-monday-4l2b",
-  "url": "https://dev.to/ben/meme-monday-4l2b",
-  "publish_date": "2022-11-07",
-  "published_at": "2022-11-07T13:24:14Z"
- },
- {
-  "id": 1221225,
-  "title": "Hexagonal architecture as a solution to the obsolescence of UI frameworks",
-  "description": "Since the arrival of frontend frameworks and the advent of SPA (Single Page Application) type...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ANlBd-wv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/shnluovzh7oahy2x56n4.jpg",
-  "slug": "hexagonal-architecture-as-a-solution-to-the-obsolescence-of-ui-frameworks-ej2",
-  "url": "https://dev.to/drouianm/hexagonal-architecture-as-a-solution-to-the-obsolescence-of-ui-frameworks-ej2",
-  "publish_date": "2022-11-07",
-  "published_at": "2022-11-07T13:18:41Z"
- },
- {
-  "id": 1246290,
-  "title": "Rust Easy! Modern Cross-platform Command Line Tools to Supercharge Your Terminal",
-  "description": "Rust tooling is taking over the terminal. Use these awesome tools to supercharge your Linux/macOS/Windows terminal.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M0vZL6bn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.imgur.com/KsMv5xG.png",
-  "slug": "rust-easy-modern-cross-platform-command-line-tools-to-supercharge-your-terminal-4dd3",
-  "url": "https://dev.to/deepu105/rust-easy-modern-cross-platform-command-line-tools-to-supercharge-your-terminal-4dd3",
-  "publish_date": "2022-11-07",
-  "published_at": "2022-11-07T09:36:44Z"
- },
- {
-  "id": 1246250,
-  "title": "A Complete Guide to Importing Shopify Customer Data to Google Ads",
-  "description": "Did you know that you could import Shopify customer data to Google Ads with a few steps? If no, I’ve...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hreAl9Kk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/euroyxo77mgwyjc3pqz5.png",
-  "slug": "a-complete-guide-to-importing-shopify-customer-data-to-google-ads-5e57",
-  "url": "https://dev.to/gloriamaldonado/a-complete-guide-to-importing-shopify-customer-data-to-google-ads-5e57",
-  "publish_date": "2022-11-07",
-  "published_at": "2022-11-07T08:16:37Z"
  }
 ]
