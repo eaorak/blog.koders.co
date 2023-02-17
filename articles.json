@@ -1,5 +1,55 @@
 [
  {
+  "id": 1368425,
+  "title": "Aplicando o Learn In Public na Vida Real",
+  "description": "A maneira mais rápida de aprender   TL:DR Nesse texto compartilho como foi a minha trajetória...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gTY5mDSB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lsg1il2l9pdxbwg8cw84.png",
+  "slug": "aplicando-o-learn-in-public-na-vida-real-3027",
+  "url": "https://dev.to/devrelbr/aplicando-o-learn-in-public-na-vida-real-3027",
+  "publish_date": "2023-02-16",
+  "published_at": "2023-02-16T17:52:30Z"
+ },
+ {
+  "id": 1368249,
+  "title": "A Anatomia de um repositório",
+  "description": "Por muito tempo eu tive o costume de subir meu código no Github, escrever um arquivo README.md bem...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zzRYCwwa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fd2976vh9yz7r2085vqm.png",
+  "slug": "a-anatomia-de-um-repositorio-5cda",
+  "url": "https://dev.to/github/a-anatomia-de-um-repositorio-5cda",
+  "publish_date": "2023-02-16",
+  "published_at": "2023-02-16T15:12:52Z"
+ },
+ {
+  "id": 1366777,
+  "title": "15 Killer 🗡 JS techniques you've probably never heard of 🔈🔥",
+  "description": "We can all agree that searching for a Javascript bug fix or answer on Google or StackOverflow is not...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SOQJVuXb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twjmbhbspdi7zwu1k6r1.png",
+  "slug": "15-killer-js-techniques-youve-probably-never-heard-of-1lgp",
+  "url": "https://dev.to/ironcladdev/15-killer-js-techniques-youve-probably-never-heard-of-1lgp",
+  "publish_date": "2023-02-16",
+  "published_at": "2023-02-16T13:19:24Z"
+ },
+ {
+  "id": 1360764,
+  "title": "Deploying a Lambda with a static IP has never been so simple 🍰",
+  "description": "Learn how to deploy a Lambda with a static IP (for whitelisting concerns) and perform NodeJS SFTP operations using this Lambda.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B3036_WP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88uovzvmgxnl2j8r3scw.png",
+  "slug": "deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-5dke",
+  "url": "https://dev.to/kumo/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-5dke",
+  "publish_date": "2023-02-16",
+  "published_at": "2023-02-16T13:17:50Z"
+ },
+ {
+  "id": 1367989,
+  "title": "Tricky JavaScript Interview Question Using Array And Object Destructuring Combined",
+  "description": "The question goes like this:  Explain to me what the below line of JavaScript code does:    const [{...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kkP_XokA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/riql2oli8l7m6q4rjxc2.jpg",
+  "slug": "tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399",
+  "url": "https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399",
+  "publish_date": "2023-02-16",
+  "published_at": "2023-02-16T11:15:11Z"
+ },
+ {
   "id": 1365260,
   "title": "Building a minimal Linux OS from source code 🏗",
   "description": "In the modern world, we are surrounded by a huge number of electronic devices of varying degrees of...",
@@ -4070,22 +4120,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vincenius/weekly-web-development-resources-123-4agl",
   "publish_date": "2022-11-09",
   "published_at": "2022-11-09T07:32:34Z"
- },
- {
-  "id": 1224078,
-  "title": "Announcing the MongoDB Atlas Hackathon 2022 on DEV!",
-  "description": "Join us for this opportunity to build an awesome application with MongoDB Atlas while earning some great prizes.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oWaFydyT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/giuu4goz501d3kyiltxn.png",
-  "slug": "announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107",
-  "url": "https://dev.to/devteam/announcing-the-mongodb-atlas-hackathon-2022-on-dev-2107",
-  "publish_date": "2022-11-08",
-  "published_at": "2022-11-08T18:11:10Z"
- },
- {
-  "id": 1248293,
-  "title": "React \u0026 NodeJS - Go LIVE with Full-Stack projects fast",
-  "description": "This material explains how to use free tools and Go LIVE with full-stack products using the Render Deployment Platform \u0026 AppSeed. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h0Ldps0y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iuugi9p1eij8uog9fz95.jpg",
-  "slug": "react-nodejs-go-live-with-full-stack-projects-fast-j0h",
-  "url": "https://dev.to/sm0ke/react-nodejs-go-live-with-full-stack-projects-fast-j0h",
-  "publish_date": "2022-11-08",
-  "published_at": "2022-11-08T18:09:06Z"
- },
- {
-  "id": 1245395,
-  "title": "How to work with API on your mobile phone?",
-  "description": "There are numerous tools available for testing your API. However, I will demonstrate how to test your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LLxrZd7K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7l2vh79mq4016vd5ext8.png",
-  "slug": "how-to-work-with-api-on-your-mobile-phone-34eh",
-  "url": "https://dev.to/varshithvhegde/how-to-work-with-api-on-your-mobile-phone-34eh",
-  "publish_date": "2022-11-08",
-  "published_at": "2022-11-08T13:00:11Z"
- },
- {
-  "id": 1247762,
-  "title": "Working with GitHub Actions from your best editor",
-  "description": "Hi folks, today I'm going to speak about another cool VsCode Extension.  In many projects, I love...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZwxMztwQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lpjcp6r9djyniucieldt.gif",
-  "slug": "working-with-github-from-your-best-editor-2dhh",
-  "url": "https://dev.to/this-is-learning/working-with-github-from-your-best-editor-2dhh",
-  "publish_date": "2022-11-08",
-  "published_at": "2022-11-08T09:00:42Z"
- },
- {
-  "id": 1244624,
-  "title": "Event-Driven APIs with Webhook and API Gateway",
-  "description": "There are many ways and technology options to consider when implementing an event-driven API. For...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XsxWNg51--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nd27e0akbh9oce1csu9o.png",
-  "slug": "event-driven-apis-with-webhook-and-api-gateway-2mdb",
-  "url": "https://dev.to/apisix/event-driven-apis-with-webhook-and-api-gateway-2mdb",
-  "publish_date": "2022-11-08",
-  "published_at": "2022-11-08T08:45:55Z"
  }
 ]
