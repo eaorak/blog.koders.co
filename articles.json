@@ -1,5 +1,55 @@
 [
  {
+  "id": 1373226,
+  "title": "Challenge Accepted: #100DaysOfCode",
+  "description": "We have to start learning somehow, so why not in a challenge?           Table Of Contents    1....",
+  "cover_image": "",
+  "slug": "challenge-accepted-100daysofcode-4i00",
+  "url": "https://dev.to/danielhe4rt/challenge-accepted-100daysofcode-4i00",
+  "publish_date": "2023-02-20",
+  "published_at": "2023-02-20T23:20:47Z"
+ },
+ {
+  "id": 1372713,
+  "title": "Meme Monday 🤓",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VkE-AG12--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8y3qzt9uno0t5ozs2slm.png",
+  "slug": "meme-monday-g66",
+  "url": "https://dev.to/ben/meme-monday-g66",
+  "publish_date": "2023-02-20",
+  "published_at": "2023-02-20T14:08:42Z"
+ },
+ {
+  "id": 1371267,
+  "title": "Creating a resume builder with React, NodeJS and AI 🚀",
+  "description": "TL;DR   In this article, you'll learn how to create a resume builder using React, Node.js,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iQRcLTP_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/engzk6qfziulzvp9kjqc.png",
+  "slug": "creating-a-resume-builder-with-react-nodejs-and-ai-4k6l",
+  "url": "https://dev.to/novu/creating-a-resume-builder-with-react-nodejs-and-ai-4k6l",
+  "publish_date": "2023-02-20",
+  "published_at": "2023-02-20T13:02:53Z"
+ },
+ {
+  "id": 1372420,
+  "title": "How to create a Drag and Drop interface using Vanilla JS",
+  "description": "Hi! I'm back after a long break with a new post on how to create a Drag and Drop interface using...",
+  "cover_image": "",
+  "slug": "how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi",
+  "url": "https://dev.to/devrohit0/how-to-create-a-drag-and-drop-interface-using-vanilla-js-9bi",
+  "publish_date": "2023-02-20",
+  "published_at": "2023-02-20T09:10:56Z"
+ },
+ {
+  "id": 1372083,
+  "title": "2023 Development Tool Map",
+  "description": "When it comes to software development, it's important for developers to be aware of the latest...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NqE8zmL8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m9yjuc4foue5fhrl1ztq.png",
+  "slug": "2023-development-tool-map-3k16",
+  "url": "https://dev.to/function12_io/2023-development-tool-map-3k16",
+  "publish_date": "2023-02-20",
+  "published_at": "2023-02-20T01:21:53Z"
+ },
+ {
   "id": 1371460,
   "title": "What is it like to be a developer? (in gifs) 🗿",
   "description": "Some of the situations may be familiar to you. Enjoy!  When I show my boss that I finally fixed a...",
@@ -4270,22 +4320,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/codergirl1991/7-common-mistakes-new-contributors-make-in-open-source-software-2noo",
   "publish_date": "2022-11-13",
   "published_at": "2022-11-13T03:50:17Z"
- },
- {
-  "id": 1187324,
-  "title": "Interface for router",
-  "description": "Hi! Not so long ago, Alexander B.K., a reader and author of dev.to, asked me to describe the design...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zIyQWk9b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/931uxmn528zg4w88mqd8.jpg",
-  "slug": "interface-for-router-19i1",
-  "url": "https://dev.to/zhukmax/interface-for-router-19i1",
-  "publish_date": "2022-11-12",
-  "published_at": "2022-11-12T20:23:20Z"
- },
- {
-  "id": 1254018,
-  "title": "Where To Host Your Applications/Websites For Free🤑",
-  "description": "In this post, we will see some of the top places to host your application or website for free and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--khYXmeUq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bqlkwe8xnc9yw3ehkobk.jpg",
-  "slug": "where-to-host-your-applicationswebsites-for-free-kd5",
-  "url": "https://dev.to/raghavmri/where-to-host-your-applicationswebsites-for-free-kd5",
-  "publish_date": "2022-11-12",
-  "published_at": "2022-11-12T15:27:25Z"
- },
- {
-  "id": 1253978,
-  "title": "8 Best Logging Practices to Keep Sensitive Data Out",
-  "description": "Logging is an essential part of the software development process. Debugging application and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OApleabT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l90lnt377ypoanlqdfbm.png",
-  "slug": "8-best-logging-practices-to-keep-sensitive-data-out-39p9",
-  "url": "https://dev.to/pragativerma18/8-best-logging-practices-to-keep-sensitive-data-out-39p9",
-  "publish_date": "2022-11-12",
-  "published_at": "2022-11-12T12:06:47Z"
- },
- {
-  "id": 1253965,
-  "title": "Next.js 13 - What are the new features?",
-  "description": "Author: Michael Hungbo           Introduction   Next.js is a popular React.js framework for building...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ke3bKG35--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zui6hofz7wwnjjpzeqww.png",
-  "slug": "nextjs-13-what-are-the-new-features-ole",
-  "url": "https://dev.to/refine/nextjs-13-what-are-the-new-features-ole",
-  "publish_date": "2022-11-12",
-  "published_at": "2022-11-12T11:44:31Z"
- },
- {
-  "id": 1253745,
-  "title": "THIS tool will SAVE you 70% of your TIME as a developer",
-  "description": "Every developer gets FRUSTRETED creating user-guides for their audience. But this tool will create...",
-  "cover_image": "",
-  "slug": "this-tool-will-save-you-70-of-your-time-as-a-developer-1899",
-  "url": "https://dev.to/anasdew/this-tool-will-save-you-70-of-your-time-as-a-developer-1899",
-  "publish_date": "2022-11-12",
-  "published_at": "2022-11-12T06:34:52Z"
  }
 ]
