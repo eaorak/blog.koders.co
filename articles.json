@@ -1,5 +1,55 @@
 [
  {
+  "id": 1373984,
+  "title": "Avoid These 10 Blunders In Your Next Coding Interview",
+  "description": "In my software engineering career I have taken 200+ coding interviews.   In this article, sharing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--piXraJf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o6ba1ggs6x0x0dvz6nr6.png",
+  "slug": "avoid-these-10-blunders-in-your-next-coding-interview-1f7i",
+  "url": "https://dev.to/codewithvoid/avoid-these-10-blunders-in-your-next-coding-interview-1f7i",
+  "publish_date": "2023-02-21",
+  "published_at": "2023-02-21T18:26:07Z"
+ },
+ {
+  "id": 1372034,
+  "title": "Como Consegui uma Carreira em DevRel Ainda na Faculdade",
+  "description": "Sumário    Intro Fazendo Umas Piadinhas O PODER do Networking Levando um Hobby a Sério MUITA...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E7_dHtJd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mqhgocsvpugk6yrlgjbp.jpg",
+  "slug": "como-consegui-uma-carreira-em-devrel-ainda-na-faculdade-anc",
+  "url": "https://dev.to/devrelbr/como-consegui-uma-carreira-em-devrel-ainda-na-faculdade-anc",
+  "publish_date": "2023-02-21",
+  "published_at": "2023-02-21T17:43:43Z"
+ },
+ {
+  "id": 1373197,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-4gh4",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4gh4",
+  "publish_date": "2023-02-21",
+  "published_at": "2023-02-21T14:11:22Z"
+ },
+ {
+  "id": 1373412,
+  "title": "Documenting a Crystal open source project",
+  "description": "This post is a quick overview of how Crystal lang built-in documentation features work and an easy...",
+  "cover_image": "",
+  "slug": "documenting-a-crystal-open-source-project-3ike",
+  "url": "https://dev.to/fdocr/documenting-a-crystal-open-source-project-3ike",
+  "publish_date": "2023-02-21",
+  "published_at": "2023-02-21T12:00:00Z"
+ },
+ {
+  "id": 1373681,
+  "title": "Build a Profit Margin Calculator with Vite.js + React.js, TypeScript and Tailwind CSS",
+  "description": "In this tutorial, you will learn how to build a profit margin calculator using Vite.js + React.js,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---H14MptT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/weastu4l1jn3y8pab00u.png",
+  "slug": "build-a-profit-margin-calculator-with-vitejs-reactjs-typescript-and-tailwind-css-1khk",
+  "url": "https://dev.to/codeofrelevancy/build-a-profit-margin-calculator-with-vitejs-reactjs-typescript-and-tailwind-css-1khk",
+  "publish_date": "2023-02-21",
+  "published_at": "2023-02-21T08:48:21Z"
+ },
+ {
   "id": 1373226,
   "title": "Challenge Accepted: #100DaysOfCode",
   "description": "We have to start learning somehow, so why not in a challenge?           Table Of Contents    1....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/saminarp/unit-testing-python-code-with-the-unittest-framework-21d8",
   "publish_date": "2022-11-14",
   "published_at": "2022-11-14T01:26:59Z"
- },
- {
-  "id": 1255320,
-  "title": "Extensive List of Best Development Resources - 121 Links to Guides, Cheat Sheets and More List of Resources",
-  "description": "This is a collection of top rated web development resources every developer needs. Roadmaps, guides,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PMzj2K-R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qcqlbuarx09dkjaoswfm.png",
-  "slug": "extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l",
-  "url": "https://dev.to/perssondennis/extensive-list-of-best-development-resourses-121-links-to-guides-cheat-sheets-and-more-list-of-resources-366l",
-  "publish_date": "2022-11-13",
-  "published_at": "2022-11-13T15:47:00Z"
- },
- {
-  "id": 1255076,
-  "title": "What is Turborepo and Why Should You Care?",
-  "description": "Author: Muhammad Khabbab           Introduction   Monorepos are very popular in modern application...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QG520Icq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d7c5qvso7jyzrk37zob0.png",
-  "slug": "what-is-turborepo-and-why-should-you-care-1885",
-  "url": "https://dev.to/refine/what-is-turborepo-and-why-should-you-care-1885",
-  "publish_date": "2022-11-13",
-  "published_at": "2022-11-13T08:55:03Z"
- },
- {
-  "id": 1254916,
-  "title": "Stand out in a React interview by rendering a list like a pro",
-  "description": "We often get asked to render a list in a React interview. In this article we are going to look at a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UPYeGEuM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iwrgbg7b8qk41ow13sl7.jpg",
-  "slug": "stand-out-in-a-react-interview-by-rendering-a-list-like-a-pro-1cn5",
-  "url": "https://dev.to/andyrewlee/stand-out-in-a-react-interview-by-rendering-a-list-like-a-pro-1cn5",
-  "publish_date": "2022-11-13",
-  "published_at": "2022-11-13T08:18:46Z"
- },
- {
-  "id": 1254855,
-  "title": "Git Cheat Sheet with 40+ commands \u0026 concepts",
-  "description": "Tired of memorizing git commands? Here is a cheat sheet with 40+ commands to simplify your life.    ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4wsWub8_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/57x1yorinzasq1xpi5sk.png",
-  "slug": "git-cheat-sheet-with-40-commands-concepts-1m26",
-  "url": "https://dev.to/ruppysuppy/git-cheat-sheet-with-40-commands-concepts-1m26",
-  "publish_date": "2022-11-13",
-  "published_at": "2022-11-13T05:51:40Z"
- },
- {
-  "id": 1254832,
-  "title": "7 common mistakes new contributors make in Open Source Software",
-  "description": "Contributing to open source software is a great way to make a difference in the community and learn...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iRgV40fz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sa5be1yq1jt29tduxdcm.jpg",
-  "slug": "7-common-mistakes-new-contributors-make-in-open-source-software-2noo",
-  "url": "https://dev.to/codergirl1991/7-common-mistakes-new-contributors-make-in-open-source-software-2noo",
-  "publish_date": "2022-11-13",
-  "published_at": "2022-11-13T03:50:17Z"
  }
 ]
