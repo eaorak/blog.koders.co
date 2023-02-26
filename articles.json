@@ -1,5 +1,55 @@
 [
  {
+  "id": 1379347,
+  "title": "Turning 14...",
+  "description": "I'm turning 14 tomorrow, so in celebration of that, I finished creating my portfolio in...",
+  "cover_image": "",
+  "slug": "turning-14-1ifm",
+  "url": "https://dev.to/vulcanwm/turning-14-1ifm",
+  "publish_date": "2023-02-25",
+  "published_at": "2023-02-25T17:41:02Z"
+ },
+ {
+  "id": 1367478,
+  "title": "Ditching useState and useReducer: Why useImmer is the better option",
+  "description": "In React, useState and useReducer are commonly used for managing state. While useImmer is a popular...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dCQbIl2_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eqhmynmjk105swsow14i.png",
+  "slug": "ditching-usestate-and-usereducer-why-useimmer-is-the-better-option-11hk",
+  "url": "https://dev.to/rasaf_ibrahim/ditching-usestate-and-usereducer-why-useimmer-is-the-better-option-11hk",
+  "publish_date": "2023-02-25",
+  "published_at": "2023-02-25T16:41:29Z"
+ },
+ {
+  "id": 1379140,
+  "title": "Rust: Not Just Zoom Zoom Fast",
+  "description": "When it comes to Rust, the first thing that usually comes to mind is its impressive performance. And...",
+  "cover_image": "",
+  "slug": "rust-not-just-zoom-zoom-fast-bmb",
+  "url": "https://dev.to/nexxeln/rust-not-just-zoom-zoom-fast-bmb",
+  "publish_date": "2023-02-25",
+  "published_at": "2023-02-25T14:28:06Z"
+ },
+ {
+  "id": 1372765,
+  "title": "5 Rules of ARIA",
+  "description": "Have you ever heard about ARIA? It might sound weird and maybe even intimidating at first.   In this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ONlpey-c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4kdsmc9siu7vperhu0a1.jpg",
+  "slug": "5-rules-of-aria-40i",
+  "url": "https://dev.to/konrud/5-rules-of-aria-40i",
+  "publish_date": "2023-02-25",
+  "published_at": "2023-02-25T13:08:53Z"
+ },
+ {
+  "id": 1377738,
+  "title": "Roadmap to Learning Cloud Computing",
+  "description": "Have you been considering a career in Cloud Computing but don’t know where to start? A friend of mine...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--abGFbekU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d0jikj1s9hjpbce64tv6.jpg",
+  "slug": "roadmap-to-learning-cloud-computing-3nal",
+  "url": "https://dev.to/envitab/roadmap-to-learning-cloud-computing-3nal",
+  "publish_date": "2023-02-25",
+  "published_at": "2023-02-25T09:03:05Z"
+ },
+ {
   "id": 1377949,
   "title": "Arquitetura da Informação e Planejamento de Conteúdo para Sites de Documentação",
   "description": "Nesse artigo vamos aprender um pouco sobre arquitetura de informação no contexto de sites de documentação, e também como planejar o seu conteúdo.",
@@ -4520,22 +4570,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/chad_r_stewart/making-progress-how-ive-learned-to-move-towards-my-goals-2jnl",
   "publish_date": "2022-11-18",
   "published_at": "2022-11-18T01:11:56Z"
- },
- {
-  "id": 1259595,
-  "title": "See How Others' Changes Compare To Your Own In IntelliJ",
-  "description": "Get the ultimate perspective on all the work in progress in your repository and how it compares or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gSfaxx_D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yrku2o5pkfo3jx024ip5.png",
-  "slug": "see-how-others-changes-compare-to-your-own-in-intellij-48ig",
-  "url": "https://dev.to/gitlive/see-how-others-changes-compare-to-your-own-in-intellij-48ig",
-  "publish_date": "2022-11-17",
-  "published_at": "2022-11-17T16:14:25Z"
- },
- {
-  "id": 1260870,
-  "title": "How to set up Google Tag Manager on Shopify (+data layers)",
-  "description": "This will be your go-to guide for understanding and setting up Google Tag Manager on on Shopify. We...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AYjTbNQl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t1oddlqvu7rek61gtxbu.jpg",
-  "slug": "how-to-set-up-google-tag-manager-on-shopify-data-layers-16j5",
-  "url": "https://dev.to/ekuplu/how-to-set-up-google-tag-manager-on-shopify-data-layers-16j5",
-  "publish_date": "2022-11-17",
-  "published_at": "2022-11-17T12:47:07Z"
- },
- {
-  "id": 1260566,
-  "title": "Meet a new technology to display your big data volumes instantly without any waiting time!",
-  "description": "Hi, guys!  Happy to see you here and even happier to announce something new we’ve been working on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9DjKNiwl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kicp7mxu6c8e74707tmn.png",
-  "slug": "meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k",
-  "url": "https://dev.to/juliianikitina/meet-a-new-technology-to-display-your-big-data-volumes-instantly-without-any-waiting-time-242k",
-  "publish_date": "2022-11-17",
-  "published_at": "2022-11-17T11:18:21Z"
- },
- {
-  "id": 1257417,
-  "title": "Build a ChatBot Using Python, Django",
-  "description": "A ChatBot has become one of the must-have features of modern-day web applications. It plays a huge...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kelwk4-8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f5itjbrap88g1rmfon7c.png",
-  "slug": "build-a-chatbot-using-python-django-46hb",
-  "url": "https://dev.to/documatic/build-a-chatbot-using-python-django-46hb",
-  "publish_date": "2022-11-17",
-  "published_at": "2022-11-17T09:00:00Z"
- },
- {
-  "id": 1260513,
-  "title": "Web Development JWT Practices",
-  "description": "Foreword   The previous post briefly introduced a high-performance Go HTTP framework -...",
-  "cover_image": "",
-  "slug": "web-development-jwt-practices-59cn",
-  "url": "https://dev.to/baize1998/web-development-jwt-practices-59cn",
-  "publish_date": "2022-11-17",
-  "published_at": "2022-11-17T08:42:15Z"
  }
 ]
