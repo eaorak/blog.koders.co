@@ -1,5 +1,55 @@
 [
  {
+  "id": 1378132,
+  "title": "Free Tailwind Components Collections(sample)",
+  "description": "Table of Contents   Accordion  Alert/Notification  Avatar  Badge  Breadcrumb  Button  Call...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KDHroFrf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nk7ykaglpi3haz78uzu0.png",
+  "slug": "free-tailwind-components-collectionssample-564e",
+  "url": "https://dev.to/fpaghar/free-tailwind-components-collectionssample-564e",
+  "publish_date": "2023-02-28",
+  "published_at": "2023-02-28T19:55:09Z"
+ },
+ {
+  "id": 1382880,
+  "title": "22 Valuable Lessons From Decade of Software Engineering",
+  "description": "Career of a software developer is a journey of life long learning. So, I took sometime off to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UWk7JwW7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/79u0pofs4cumd5gfq0ka.jpg",
+  "slug": "22-valuable-lessons-from-decade-of-software-engineering-7g2",
+  "url": "https://dev.to/codewithvoid/22-valuable-lessons-from-decade-of-software-engineering-7g2",
+  "publish_date": "2023-02-28",
+  "published_at": "2023-02-28T18:16:46Z"
+ },
+ {
+  "id": 1382819,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-4e99",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4e99",
+  "publish_date": "2023-02-28",
+  "published_at": "2023-02-28T17:08:28Z"
+ },
+ {
+  "id": 1382680,
+  "title": "Goodbye DEV 😢",
+  "description": "It's a sad day. I'm unpublishing all my articles on DEV.to 😢   I love DEV. I got in the Top 7 one...",
+  "cover_image": "",
+  "slug": "goodbye-dev-5119",
+  "url": "https://dev.to/jesseskinner/goodbye-dev-5119",
+  "publish_date": "2023-02-28",
+  "published_at": "2023-02-28T15:59:53Z"
+ },
+ {
+  "id": 1382232,
+  "title": "We're launching SEO-Go for an enhanced SEO collaboration, and this is why we did so",
+  "description": "Our marketing team had a recurring problem: whenever they wanted to optimize our website with new...",
+  "cover_image": "",
+  "slug": "were-launching-seo-go-for-an-enhanced-seo-collaboration-and-this-is-why-we-did-so-1aii",
+  "url": "https://dev.to/gewzk/were-launching-seo-go-for-an-enhanced-seo-collaboration-and-this-is-why-we-did-so-1aii",
+  "publish_date": "2023-02-28",
+  "published_at": "2023-02-28T07:38:45Z"
+ },
+ {
   "id": 1379646,
   "title": "The Evolution of Signals in JavaScript",
   "description": "There has been some buzz recently in the frontend world around the term \"Signals\". In seemingly short...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bekahhw/writing-your-first-conference-proposal-4jei",
   "publish_date": "2022-11-21",
   "published_at": "2022-11-21T01:07:00Z"
- },
- {
-  "id": 1264792,
-  "title": "Django Argon Theme - Now supports all Django.contrib.AUTH links",
-  "description": "Modern template for Django Admin Interface coded on top of Argon Dashboard, an open-source Boostrap 5 design from Creative-Tim - Django.contrib.AUTH links supported.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6Odkwr23--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pxsc4kfup5kdttjxeql6.jpg",
-  "slug": "django-argon-theme-now-supports-all-djangocontribauth-links-1p69",
-  "url": "https://dev.to/sm0ke/django-argon-theme-now-supports-all-djangocontribauth-links-1p69",
-  "publish_date": "2022-11-20",
-  "published_at": "2022-11-20T18:47:39Z"
- },
- {
-  "id": 1261272,
-  "title": "Setting up a \"confidential\" GitLab🦊🔒",
-  "description": "Hey there. If you ever programmed something \"sensitive\" or, like me, are managing private meeting...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wReuNE1g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vu5sgpbwg2abfj1tylg1.png",
-  "slug": "setting-up-a-confidential-gitlab-333h",
-  "url": "https://dev.to/flxflx/setting-up-a-confidential-gitlab-333h",
-  "publish_date": "2022-11-20",
-  "published_at": "2022-11-20T11:50:06Z"
- },
- {
-  "id": 1264552,
-  "title": "Adapter pattern in TypeScript",
-  "description": "Introduction   The adapter pattern (also known as the Wrapper pattern) is a structural...",
-  "cover_image": "",
-  "slug": "adapter-pattern-in-typescript-2ffl",
-  "url": "https://dev.to/jmalvarez/adapter-pattern-in-typescript-2ffl",
-  "publish_date": "2022-11-20",
-  "published_at": "2022-11-20T11:26:18Z"
- },
- {
-  "id": 1264413,
-  "title": "✨Today I Learned: The Subtle Art of Code Reviews 💡✨",
-  "description": "Code reviewing is hard. The pull requests I reviewed were for the My Photohub project.   Code...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--shDkjlcR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o7mgxrw4dvpu5zd474qu.png",
-  "slug": "today-i-learned-the-subtle-art-of-code-reviews-3pef",
-  "url": "https://dev.to/saminarp/today-i-learned-the-subtle-art-of-code-reviews-3pef",
-  "publish_date": "2022-11-20",
-  "published_at": "2022-11-20T08:14:07Z"
- },
- {
-  "id": 1264391,
-  "title": "Have you moved from Twitter to Mastodon for social media?",
-  "description": "I created a Mastodon account on toot.cafe back in 2017, but I only did a little with it.             ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UVOLc_dh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5i81ao7g5t81jr8i99lq.jpeg",
-  "slug": "have-you-moved-from-twitter-to-mastodon-for-social-media-4a37",
-  "url": "https://dev.to/nickytonline/have-you-moved-from-twitter-to-mastodon-for-social-media-4a37",
-  "publish_date": "2022-11-20",
-  "published_at": "2022-11-20T06:20:37Z"
  }
 ]
