@@ -1,5 +1,55 @@
 [
  {
+  "id": 1384192,
+  "title": "OpenAI announces ChatGPT and Whisper APIs",
+  "description": "Openai just made a big announcement regarding its API.  From the post:   ChatGPT and Whisper models...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ms9fQxoM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6kr9737hrtispfvjzrqc.png",
+  "slug": "openai-announces-chatgpt-and-whisper-apis-304i",
+  "url": "https://dev.to/ben/openai-announces-chatgpt-and-whisper-apis-304i",
+  "publish_date": "2023-03-01",
+  "published_at": "2023-03-01T18:18:04Z"
+ },
+ {
+  "id": 1380954,
+  "title": "React vs Signals: 10 Years Later",
+  "description": "How does the old Winston Churchill quote go?   Those who fail to learn from history are doomed to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qgcEl9sA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2o9vibd5h0v5xq1et26v.png",
+  "slug": "react-vs-signals-10-years-later-3k71",
+  "url": "https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71",
+  "publish_date": "2023-03-01",
+  "published_at": "2023-03-01T17:27:05Z"
+ },
+ {
+  "id": 1380302,
+  "title": "Learn serverless on AWS step-by-step - Databases",
+  "description": "In the last article, I covered the basics of creating Lambda functions on AWS, using the CDK. In this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qr7pMBQb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/databases/assets/cover.png",
+  "slug": "learn-serverless-on-aws-step-by-step-databases-kkg",
+  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-databases-kkg",
+  "publish_date": "2023-03-01",
+  "published_at": "2023-03-01T13:19:40Z"
+ },
+ {
+  "id": 1381729,
+  "title": "Making GraphQL Codegen Work For You: GraphQL Integration with React and TypeScript",
+  "description": "TL;DR   In this guide, we’ll be showing you how to use GraphQL alongside React and GraphQL...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bj3DW3Nz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/191ar0vbu76nbwljfyv3.jpg",
+  "slug": "making-graphql-codegen-work-for-you-graphql-integration-with-react-and-typescript-3bbm",
+  "url": "https://dev.to/novu/making-graphql-codegen-work-for-you-graphql-integration-with-react-and-typescript-3bbm",
+  "publish_date": "2023-03-01",
+  "published_at": "2023-03-01T11:09:45Z"
+ },
+ {
+  "id": 1383695,
+  "title": "IQ Testlerinde Başarılı Olmak İçin İpuçları ve Stratejiler",
+  "description": "IQ testleri, zeka seviyesini ölçmek için kullanılan standartlaştırılmış testlerdir. IQ testleri, okul...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E1nDi0zE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6vqys7fmh2k9mofczzz3.png",
+  "slug": "iq-testlerinde-basarili-olmak-icin-ipuclari-ve-stratejiler-27hi",
+  "url": "https://dev.to/iqsertifikasi/iq-testlerinde-basarili-olmak-icin-ipuclari-ve-stratejiler-27hi",
+  "publish_date": "2023-03-01",
+  "published_at": "2023-03-01T10:35:31Z"
+ },
+ {
   "id": 1378132,
   "title": "Free Tailwind Components Collections(sample)",
   "description": "Table of Contents   Accordion  Alert/Notification  Avatar  Badge  Breadcrumb  Button  Call...",
@@ -4720,22 +4770,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/junyaishibuchi/what-i-would-like-to-do-after-reading-the-pragmatic-programmer-3k21",
   "publish_date": "2022-11-22",
   "published_at": "2022-11-22T02:36:33Z"
- },
- {
-  "id": 1265664,
-  "title": "Why it’s Time to Shift Left Technical Debt",
-  "description": "Shifting left has brought massive benefits for testing, security and DevOps, but not for tech debt...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sbHnH-_8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2wfqkbuwm1z2g8aqs0mt.png",
-  "slug": "why-its-time-to-shift-left-technical-debt-1mkl",
-  "url": "https://dev.to/alexomeyer/why-its-time-to-shift-left-technical-debt-1mkl",
-  "publish_date": "2022-11-21",
-  "published_at": "2022-11-21T13:51:32Z"
- },
- {
-  "id": 1265295,
-  "title": "Winston Logger - Full tutorial with a sample Nodejs application",
-  "description": "Winston Logger is one of the most popular logging libraries for Node.js. It is designed to be a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7Xy3waH6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/df0a7buwf8hqnayo2qvm.png",
-  "slug": "winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9",
-  "url": "https://dev.to/signoz/winston-logger-full-tutorial-with-a-sample-nodejs-application-2fm9",
-  "publish_date": "2022-11-21",
-  "published_at": "2022-11-21T12:00:00Z"
- },
- {
-  "id": 1265574,
-  "title": "All About Shopify Analytics",
-  "description": "You always have a ton of questions as a Shopify merchant, don’t you? It’s no surprise that most of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XPIr8qI8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sq4n9dzg22hp09hpwxy8.png",
-  "slug": "all-about-shopify-analytics-3oe4",
-  "url": "https://dev.to/gloriamaldonado/all-about-shopify-analytics-3oe4",
-  "publish_date": "2022-11-21",
-  "published_at": "2022-11-21T11:00:21Z"
- },
- {
-  "id": 1265296,
-  "title": "10 FREE SVG Icon Libraries For Front-End Developers",
-  "description": "Ionicons: The premium icon pack for Ionic Framework. Ionicons is an open-sourced and MIT-licensed...",
-  "cover_image": "",
-  "slug": "10-free-svg-icon-libraries-for-front-end-developers-3lgf",
-  "url": "https://dev.to/tarunmankar/10-free-svg-icon-libraries-for-front-end-developers-3lgf",
-  "publish_date": "2022-11-21",
-  "published_at": "2022-11-21T07:57:57Z"
- },
- {
-  "id": 1265108,
-  "title": "Writing Your First Conference Proposal",
-  "description": "Maybe you’ve been thinking about speaking at a conference, but you’re nervous. Hopefully, this blog post will help you discover an idea and/or overcome the fear of submitting. ",
-  "cover_image": "",
-  "slug": "writing-your-first-conference-proposal-4jei",
-  "url": "https://dev.to/bekahhw/writing-your-first-conference-proposal-4jei",
-  "publish_date": "2022-11-21",
-  "published_at": "2022-11-21T01:07:00Z"
  }
 ]
