@@ -1,5 +1,55 @@
 [
  {
+  "id": 1388318,
+  "title": "Beginner",
+  "description": "I’m new here can I get to know some people",
+  "cover_image": "",
+  "slug": "beginner-2fl1",
+  "url": "https://dev.to/emmanuel_onyeike/beginner-2fl1",
+  "publish_date": "2023-03-04",
+  "published_at": "2023-03-04T20:17:00Z"
+ },
+ {
+  "id": 1388227,
+  "title": "I made a drag \u0026 drop dashboard builder for React and Chakra UI",
+  "description": "Hi,  I recently launched the Beta version of the new React \u0026amp; Chakra UI Dashboard Builder for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fEAdIguX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhb9vfyrp8pcir8zj6sc.png",
+  "slug": "i-made-a-drag-drop-dashboard-builder-for-react-and-chakra-ui-n7j",
+  "url": "https://dev.to/rarestoma/i-made-a-drag-drop-dashboard-builder-for-react-and-chakra-ui-n7j",
+  "publish_date": "2023-03-04",
+  "published_at": "2023-03-04T17:37:46Z"
+ },
+ {
+  "id": 1388126,
+  "title": "System Design",
+  "description": "“Here’s the simple truth: you can’t innovate on products without first innovating the way you build...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--goj-9q1U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y9xpjbhtcy81qokyywso.jpeg",
+  "slug": "system-design-1h4m",
+  "url": "https://dev.to/adahanu074/system-design-1h4m",
+  "publish_date": "2023-03-04",
+  "published_at": "2023-03-04T17:15:44Z"
+ },
+ {
+  "id": 1388092,
+  "title": "AI powered search with OpenAI embeddings",
+  "description": "Some of the best implementations of AI use existing knowledge basis and make them searchable through...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NUf7OrL5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4lpukard6qe10c7vkbfj.png",
+  "slug": "ai-powered-search-with-openai-embeddings-2990",
+  "url": "https://dev.to/bdougieyo/ai-powered-search-with-openai-embeddings-2990",
+  "publish_date": "2023-03-04",
+  "published_at": "2023-03-04T14:57:11Z"
+ },
+ {
+  "id": 1387638,
+  "title": "10 Cool CodePen Demos (February 23)",
+  "description": "A collection of 10 cool and exciting front-end demos shared on CodePen during February 2023",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mF7wN9de--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tfw3mg1mfnyng0ca29pp.png",
+  "slug": "10-cool-codepen-demos-february-23-3l2o",
+  "url": "https://dev.to/alvaromontoro/10-cool-codepen-demos-february-23-3l2o",
+  "publish_date": "2023-03-04",
+  "published_at": "2023-03-04T02:24:55Z"
+ },
+ {
   "id": 1387273,
   "title": "The Downsides of New Technology Come Fast and Furious (Let's talk about AI)",
   "description": "This post is about the dangers of AI, and while there is plenty of \"fear mongering\" and celebration...",
@@ -4870,22 +4920,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273348,
-  "title": "How to Access Local Sever on Other Devices",
-  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
-  "slug": "how-to-access-local-sever-on-other-devices-57f1",
-  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273366,
   "title": "Form Validation with JS and Tailwind",
   "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
   "slug": "form-validation-with-js-and-tailwind-38ab",
   "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273348,
+  "title": "How to Access Local Sever on Other Devices",
+  "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
+  "slug": "how-to-access-local-sever-on-other-devices-57f1",
+  "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/promode/how-to-become-a-perfect-automation-tester-do-this-30p8",
   "publish_date": "2022-11-25",
   "published_at": "2022-11-25T02:46:05Z"
- },
- {
-  "id": 1270886,
-  "title": "Big Thanks to All Our Mods! 🙌",
-  "description": "Heyo folks!  It's US Thanksgiving today and a company holiday here at Forem (the folks behind DEV...",
-  "cover_image": "",
-  "slug": "big-thanks-to-all-our-mods-4jl",
-  "url": "https://dev.to/devteam/big-thanks-to-all-our-mods-4jl",
-  "publish_date": "2022-11-24",
-  "published_at": "2022-11-24T16:02:04Z"
- },
- {
-  "id": 1270817,
-  "title": "36 Questions to Ask Your Future Software Employer",
-  "description": "Congrats on nailing that interview! You’ve prepared hard and aced all the questions. You can relax...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4eP2uLC---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2es5bcx6p08c6zj6smd.jpg",
-  "slug": "36-questions-to-ask-your-future-software-employer-552g",
-  "url": "https://dev.to/semaphore/36-questions-to-ask-your-future-software-employer-552g",
-  "publish_date": "2022-11-24",
-  "published_at": "2022-11-24T14:18:51Z"
- },
- {
-  "id": 1269737,
-  "title": "15,000 GH stars in a year: how we did it 🤩",
-  "description": "It has only been a bit more than a year since we decided to raise funding in the quest of building...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3o6RfPwk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0nzp3j5eyzh8blwro3td.jpg",
-  "slug": "15000-gh-stars-in-a-year-how-we-did-it-4b0h",
-  "url": "https://dev.to/medusajs/15000-gh-stars-in-a-year-how-we-did-it-4b0h",
-  "publish_date": "2022-11-24",
-  "published_at": "2022-11-24T08:35:06Z"
- },
- {
-  "id": 1269499,
-  "title": "Supercharge Rust APIs with Serverless Functions",
-  "description": "Learn how to use Serverless Functions to build a user management API in Rust using Netlify, Xata, and Cloudinary.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PvI1RK3O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9g4iwkd7oi3axz8usz3c.png",
-  "slug": "supercharge-rust-apis-with-serverless-functions-bb2",
-  "url": "https://dev.to/hackmamba/supercharge-rust-apis-with-serverless-functions-bb2",
-  "publish_date": "2022-11-24",
-  "published_at": "2022-11-24T07:32:17Z"
- },
- {
-  "id": 1270072,
-  "title": "5 GitHub Repositories every Developer should know",
-  "description": "GitHub is one of the most popular resources for developers to share code and work on projects...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TILcvEc4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88ktej74lwkx9s428xtf.jpg",
-  "slug": "5-github-repositories-every-developer-should-know-1p93",
-  "url": "https://dev.to/wizdomtek/5-github-repositories-every-developer-should-know-1p93",
-  "publish_date": "2022-11-24",
-  "published_at": "2022-11-24T06:33:10Z"
  }
 ]
