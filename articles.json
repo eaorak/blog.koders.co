@@ -1,5 +1,55 @@
 [
  {
+  "id": 1380309,
+  "title": "O mínimo que você precisa saber para iniciar um projeto em TypeScript",
+  "description": "Motivação   Ao publicar o meu último artigo \"Criei um hook personalizado para buscar dados...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xi50lRCL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2b8k7626qqrfl3j1f6p.png",
+  "slug": "o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript-l13",
+  "url": "https://dev.to/dellamora/o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript-l13",
+  "publish_date": "2023-03-05",
+  "published_at": "2023-03-05T20:07:02Z"
+ },
+ {
+  "id": 1388790,
+  "title": "How to find users for open source project with no resources and connections",
+  "description": "If you are starting your first Open Source Project with no resources and connections, this post aims...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jerX-cSL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ge17rzovv2bnce67r15l.jpg",
+  "slug": "how-to-find-users-for-open-source-project-with-no-resources-and-connections-1lni",
+  "url": "https://dev.to/zenstack/how-to-find-users-for-open-source-project-with-no-resources-and-connections-1lni",
+  "publish_date": "2023-03-05",
+  "published_at": "2023-03-05T09:24:28Z"
+ },
+ {
+  "id": 1378704,
+  "title": "Art or Science: How Do You Balance Precision and Creativity in Coding?",
+  "description": "As a programmer, it's important to balance the need for precision and accuracy with the need for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sQOgCDNn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ecc5qwc103t498o32yw.png",
+  "slug": "art-or-science-how-do-you-balance-precision-and-creativity-in-coding-4hpg",
+  "url": "https://dev.to/codenewbieteam/art-or-science-how-do-you-balance-precision-and-creativity-in-coding-4hpg",
+  "publish_date": "2023-03-05",
+  "published_at": "2023-03-05T08:00:00Z"
+ },
+ {
+  "id": 1388641,
+  "title": "7 Libraries You Should Know as a React Developer 💯🔥",
+  "description": "On your journey to becoming a well-rounded React developer, you would come across innumerable...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6A3D0NoH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jla80j49u1mw80feacwq.png",
+  "slug": "7-libraries-you-should-know-as-a-react-developer-2ib5",
+  "url": "https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5",
+  "publish_date": "2023-03-05",
+  "published_at": "2023-03-05T05:48:47Z"
+ },
+ {
+  "id": 1388637,
+  "title": "From a Dumb Student to a PyTorch Contributor: The Impact of Teachers on My Life⚡",
+  "description": "`I cannot teach anybody anything; I can only make them think. - Socrates           ...",
+  "cover_image": "",
+  "slug": "from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4",
+  "url": "https://dev.to/vivekcodes/from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4",
+  "publish_date": "2023-03-05",
+  "published_at": "2023-03-05T04:21:37Z"
+ },
+ {
   "id": 1388318,
   "title": "Beginner",
   "description": "I’m new here can I get to know some people",
@@ -4920,22 +4970,22 @@
   "published_at": "2022-11-26T15:07:56Z"
  },
  {
-  "id": 1273366,
-  "title": "Form Validation with JS and Tailwind",
-  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
-  "slug": "form-validation-with-js-and-tailwind-38ab",
-  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
-  "publish_date": "2022-11-26",
-  "published_at": "2022-11-26T06:50:05Z"
- },
- {
   "id": 1273348,
   "title": "How to Access Local Sever on Other Devices",
   "description": "In this article, I am going to show you how you can access your local/localhost server on any other...",
   "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q-92nN8U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bz88ftdxwaz724zf6t66.png",
   "slug": "how-to-access-local-sever-on-other-devices-57f1",
   "url": "https://dev.to/j471n/how-to-access-local-sever-on-other-devices-57f1",
+  "publish_date": "2022-11-26",
+  "published_at": "2022-11-26T06:50:05Z"
+ },
+ {
+  "id": 1273366,
+  "title": "Form Validation with JS and Tailwind",
+  "description": "Hello today i will share with you the form validation i created using HTML,Javascript and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZRol4JJc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opnvpfuqb3hoh2ch5ixk.png",
+  "slug": "form-validation-with-js-and-tailwind-38ab",
+  "url": "https://dev.to/shubhamtiwari909/form-validation-with-js-and-tailwind-38ab",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T06:50:05Z"
  },
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/maldexander/5-web-extension-for-web-developers-4j17",
   "publish_date": "2022-11-26",
   "published_at": "2022-11-26T02:58:08Z"
- },
- {
-  "id": 1272474,
-  "title": "What was your win this week?",
-  "description": "Heyo! 👋  Hope y'all all are having a fantastic Friday and that you enjoy your weekends!  Looking back...",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-2b5e",
-  "url": "https://dev.to/michaeltharrington/what-was-your-win-this-week-2b5e",
-  "publish_date": "2022-11-25",
-  "published_at": "2022-11-25T14:35:30Z"
- },
- {
-  "id": 1265924,
-  "title": "My React Native Journey",
-  "description": "Hi there, My name is Darshan. I work as a Full Stack Engineer and today I want to share my journey...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mwaa1YEg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/amjf1k1gsdl070xdjp1x.png",
-  "slug": "my-react-native-experience-2pcm",
-  "url": "https://dev.to/ponikar/my-react-native-experience-2pcm",
-  "publish_date": "2022-11-25",
-  "published_at": "2022-11-25T11:10:33Z"
- },
- {
-  "id": 1271783,
-  "title": "Redis Distributed Caching",
-  "description": "Cache nima?   Dastur ma'lumotni bir necha usulda saqlaydi. Hajmi katta va kamdan-kam...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--id0dsYNs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h8jeafq9nb61qipaxz8a.png",
-  "slug": "redis-distributed-caching-1m71",
-  "url": "https://dev.to/wahidd/redis-distributed-caching-1m71",
-  "publish_date": "2022-11-25",
-  "published_at": "2022-11-25T05:55:55Z"
- },
- {
-  "id": 1271543,
-  "title": "Create an Observable Object using Proxy",
-  "description": "Have you ever needed to \"observe\" an object for changes? If you have ever used Vuejs or React, this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vKl6fa2T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pa9stzltpvimmx8bsmm3.png",
-  "slug": "create-an-observable-object-using-proxy-3h62",
-  "url": "https://dev.to/dperrymorrow/create-an-observable-object-using-proxy-3h62",
-  "publish_date": "2022-11-25",
-  "published_at": "2022-11-25T02:53:46Z"
- },
- {
-  "id": 1271540,
-  "title": "How to Become a Perfect Automation Tester || (Do This)",
-  "description": "What Is Required to Become a Perfect Automation Tester? Do you believe that Perfect Automation Tester...",
-  "cover_image": "",
-  "slug": "how-to-become-a-perfect-automation-tester-do-this-30p8",
-  "url": "https://dev.to/promode/how-to-become-a-perfect-automation-tester-do-this-30p8",
-  "publish_date": "2022-11-25",
-  "published_at": "2022-11-25T02:46:05Z"
  }
 ]
