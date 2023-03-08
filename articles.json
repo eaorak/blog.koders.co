@@ -1,5 +1,55 @@
 [
  {
+  "id": 1390701,
+  "title": "Six Years on DEV, Already?",
+  "description": "I just got my six year badge. While I've been a member of DEV for six years, I lurked for the first...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Agt1FH10--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a15oqybypdqgziug02qc.jpg",
+  "slug": "six-years-on-dev-3j4c",
+  "url": "https://dev.to/jarvisscript/six-years-on-dev-3j4c",
+  "publish_date": "2023-03-07",
+  "published_at": "2023-03-07T16:06:42Z"
+ },
+ {
+  "id": 1391987,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-4964",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4964",
+  "publish_date": "2023-03-07",
+  "published_at": "2023-03-07T15:43:15Z"
+ },
+ {
+  "id": 1391829,
+  "title": "11 Essential Considerations When Implementing an Ecommerce Cart",
+  "description": "Ecommerce cart functionality is essential for the success of an online store, as it is a way for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SB3vRv_P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eh3f2rha459k1wayzbwo.jpg",
+  "slug": "11-essential-considerations-when-implementing-an-ecommerce-cart-2n43",
+  "url": "https://dev.to/medusajs/11-essential-considerations-when-implementing-an-ecommerce-cart-2n43",
+  "publish_date": "2023-03-07",
+  "published_at": "2023-03-07T13:10:49Z"
+ },
+ {
+  "id": 1391607,
+  "title": "The Awesome Side of GitHub - Awesome Lists",
+  "description": "Free resources for developers, board games and chess... what do they have in common? You can find...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--abqt5eQ---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4wkem2ohb8ecxb0o476x.png",
+  "slug": "the-awesome-side-of-github-awesome-lists-2a5h",
+  "url": "https://dev.to/this-is-learning/the-awesome-side-of-github-awesome-lists-2a5h",
+  "publish_date": "2023-03-07",
+  "published_at": "2023-03-07T09:03:43Z"
+ },
+ {
+  "id": 1391596,
+  "title": "Top 5 JavaScript tools for Ecommerce Platforms",
+  "description": "Ecommerce platforms are online systems that allow businesses to sell products and services to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9u89j6rP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hhwhq68jn4m8ty7iheyd.png",
+  "slug": "top-5-javascript-tools-for-ecommerce-platforms-59nb",
+  "url": "https://dev.to/shosenwales/top-5-javascript-tools-for-ecommerce-platforms-59nb",
+  "publish_date": "2023-03-07",
+  "published_at": "2023-03-07T08:25:13Z"
+ },
+ {
   "id": 1390683,
   "title": "Meme Monday 😝",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rockykev/the-38-books-recommended-to-me-in-the-past-few-months-1d35",
   "publish_date": "2022-11-28",
   "published_at": "2022-11-28T02:39:14Z"
- },
- {
-  "id": 1274686,
-  "title": "Create a package-based Monorepo with Nx",
-  "description": "What is a Monorepo?   A Monorepo or Monorepository is a code management and architectural...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g4ygvfp4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5v8xgqbosm8wcnrt5s17.png",
-  "slug": "create-a-package-based-monorepo-with-nx-3990",
-  "url": "https://dev.to/leduc1901/create-a-package-based-monorepo-with-nx-3990",
-  "publish_date": "2022-11-27",
-  "published_at": "2022-11-27T16:33:46Z"
- },
- {
-  "id": 1274517,
-  "title": "6 Use Cases for Regex in Your Daily Work",
-  "description": "In This Article    What Is Regex? Regexes in a Nutshell  When Is Regex Used?   Searching...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FEZ2C9hh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e7kpi8ni3ze3amcipyae.png",
-  "slug": "6-use-cases-for-regex-in-your-daily-work-508b",
-  "url": "https://dev.to/perssondennis/6-use-cases-for-regex-in-your-daily-work-508b",
-  "publish_date": "2022-11-27",
-  "published_at": "2022-11-27T15:32:00Z"
- },
- {
-  "id": 1274535,
-  "title": "Why I love Mastodon",
-  "description": "I quit Twitter at the end of 2020, and haven't really used social media at all since then. So when I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ekTbVfAT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/glv9szvfncajun5msp56.png",
-  "slug": "why-i-love-mastodon-4fom",
-  "url": "https://dev.to/jesseskinner/why-i-love-mastodon-4fom",
-  "publish_date": "2022-11-27",
-  "published_at": "2022-11-27T14:52:00Z"
- },
- {
-  "id": 1274290,
-  "title": "How to Delete Local and Remote Git Branches",
-  "description": "Author: Muhammad Khabbab           Introduction   Branches are kind of blocks in a repository where...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--svwBLIWk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsyp271zmtb5wv6p383s.png",
-  "slug": "how-to-delete-local-and-remote-git-branches-311f",
-  "url": "https://dev.to/refine/how-to-delete-local-and-remote-git-branches-311f",
-  "publish_date": "2022-11-27",
-  "published_at": "2022-11-27T08:14:10Z"
- },
- {
-  "id": 1274284,
-  "title": "7 Developer Portfolio for inspiration",
-  "description": "Coming up with original ideas for your portfolio can be a challenge. Here are some ideas to draw...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lXAGg4N6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x94d29a9glhgpupakzn2.png",
-  "slug": "7-developer-portfolio-for-inspiration-4no7",
-  "url": "https://dev.to/ruppysuppy/7-developer-portfolio-for-inspiration-4no7",
-  "publish_date": "2022-11-27",
-  "published_at": "2022-11-27T06:44:00Z"
  }
 ]
