@@ -1,5 +1,55 @@
 [
  {
+  "id": 1397896,
+  "title": "Transform Your Portfolio Website with These Expert Tips",
+  "description": "Yes that title sounds a bit clickbaity, but I assure you this post is not all fluff. Buckle up!  I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mgPMEmM4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/55c1umcrwwox207gat3i.png",
+  "slug": "transform-your-portfolio-website-with-these-expert-tips-334e",
+  "url": "https://dev.to/nickytonline/transform-your-portfolio-website-with-these-expert-tips-334e",
+  "publish_date": "2023-03-12",
+  "published_at": "2023-03-12T14:12:11Z"
+ },
+ {
+  "id": 1395989,
+  "title": "3 Ways to Automate Accessibility Testing (a11y)",
+  "description": "Before we get going, let's go over some quick definitions/questions:  What does web accessibility...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XnDdjk5r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cx75xaupnw8kgbmuwzqk.png",
+  "slug": "3-ways-to-automate-accessibility-testing-a11y-19kc",
+  "url": "https://dev.to/willkre/3-ways-to-automate-accessibility-testing-a11y-19kc",
+  "publish_date": "2023-03-12",
+  "published_at": "2023-03-12T12:21:59Z"
+ },
+ {
+  "id": 1397648,
+  "title": "Greet your visitor",
+  "description": "Greet your Visitors with Good Morning, Good Afternoon or Good Evening Message using JavaScript       ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDJ-dFxu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dzebg9kd5j0juntozmy3.png",
+  "slug": "greet-your-visitor-nmp",
+  "url": "https://dev.to/mayank30/greet-your-visitor-nmp",
+  "publish_date": "2023-03-12",
+  "published_at": "2023-03-12T06:57:29Z"
+ },
+ {
+  "id": 1397642,
+  "title": "Use AI to commit like a PRO in 1 second",
+  "description": "I struggled making commit messages since 2017. When you think of a commit message — you switch...",
+  "cover_image": "",
+  "slug": "how-to-git-commit-like-god-1g1b",
+  "url": "https://dev.to/disukharev/how-to-git-commit-like-god-1g1b",
+  "publish_date": "2023-03-12",
+  "published_at": "2023-03-12T06:41:09Z"
+ },
+ {
+  "id": 1397566,
+  "title": "Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose",
+  "description": "Let's create a CRUD Rest API in Java, using:   Spring Boot (Framework to build web servers in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0_9Vs8Dt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t3up91pi475gsrn27q4x.png",
+  "slug": "java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln",
+  "url": "https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln",
+  "publish_date": "2023-03-12",
+  "published_at": "2023-03-12T04:16:14Z"
+ },
+ {
   "id": 1397040,
   "title": "Stahhp Screening for TLDs in Your Email Fields",
   "description": "I've had it.  I've been quiet on this subject for far too long.  And now I feel compelled to finally...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/eevajonnapanula/hey-tech-recruiter-here-are-some-tips-from-a-developer-4hl8",
   "publish_date": "2022-12-03",
   "published_at": "2022-12-03T04:25:13Z"
- },
- {
-  "id": 1281864,
-  "title": "Single Event Listener for all elements in JS",
-  "description": "Hello guys today i will be discussing an important topic called Event Delegation in Javascript.      ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NHF5OuIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/of679bkirwa3zpebhwol.png",
-  "slug": "single-event-listener-for-all-elements-in-js-32o6",
-  "url": "https://dev.to/shubhamtiwari909/single-event-listener-for-all-elements-in-js-32o6",
-  "publish_date": "2022-12-02",
-  "published_at": "2022-12-02T13:15:13Z"
- },
- {
-  "id": 1281817,
-  "title": "Git stash command",
-  "description": "Author: Muhammad Khabbab           What is Git stash   Stash is a Git command to locally store your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zf8RBuU---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5yo7pvskcenej0ze626d.png",
-  "slug": "git-stash-command-5fj6",
-  "url": "https://dev.to/refine/git-stash-command-5fj6",
-  "publish_date": "2022-12-02",
-  "published_at": "2022-12-02T12:57:45Z"
- },
- {
-  "id": 1281305,
-  "title": "How to Confidently Write Unit Tests using React Testing Library",
-  "description": "In this tutorial, we will learn how to confidently write unit tests using Testing Library which is a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8qVRWVDU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9mfz4i4f5vfpt084jiwk.jpg",
-  "slug": "how-to-confidently-write-unit-tests-using-react-testing-library-42de",
-  "url": "https://dev.to/myogeshchavan97/how-to-confidently-write-unit-tests-using-react-testing-library-42de",
-  "publish_date": "2022-12-02",
-  "published_at": "2022-12-02T06:11:26Z"
- },
- {
-  "id": 1281303,
-  "title": "10 games to learn JavaScript",
-  "description": "We looked at 10 amazing games to learn CSS. And in this article, we'll do the same for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4ymKrPlS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u2zo7h3xnwp7xdwbqr9k.jpg",
-  "slug": "10-games-to-learn-javascript-155j",
-  "url": "https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j",
-  "publish_date": "2022-12-02",
-  "published_at": "2022-12-02T06:06:18Z"
- },
- {
-  "id": 1281283,
-  "title": "Anything C can do Rust can do Better",
-  "description": "C++ and Rust are both system programming languages that can be used to produce software and software...",
-  "cover_image": "",
-  "slug": "anything-c-can-do-rust-can-do-better-2a9a",
-  "url": "https://dev.to/scottbeeker/anything-c-can-do-rust-can-do-better-2a9a",
-  "publish_date": "2022-12-02",
-  "published_at": "2022-12-02T05:32:51Z"
  }
 ]
