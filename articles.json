@@ -1,5 +1,55 @@
 [
  {
+  "id": 1400425,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-15mk",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-15mk",
+  "publish_date": "2023-03-14",
+  "published_at": "2023-03-14T14:17:40Z"
+ },
+ {
+  "id": 1399664,
+  "title": "Block public access on all your S3 Buckets easily",
+  "description": "I publish articles at least twice a month, so if you are interested in serverless, AWS, or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uOcWoFlE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/sls-mentor/block-public-access/assets/cover.png",
+  "slug": "block-public-access-on-all-your-s3-buckets-easily-o7b",
+  "url": "https://dev.to/kumo/block-public-access-on-all-your-s3-buckets-easily-o7b",
+  "publish_date": "2023-03-14",
+  "published_at": "2023-03-14T14:04:07Z"
+ },
+ {
+  "id": 1400239,
+  "title": "Share your work in progress in real time from VS Code or JetBrains",
+  "description": "Need to ask a teammate for some help with your code, but don’t want to push broken changes to GitHub?...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oKqh6Jc0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h80oo9s5kyk7w6wvvnga.png",
+  "slug": "share-your-work-in-progress-in-real-time-from-vs-code-or-jetbrains-1i5a",
+  "url": "https://dev.to/gitlive/share-your-work-in-progress-in-real-time-from-vs-code-or-jetbrains-1i5a",
+  "publish_date": "2023-03-14",
+  "published_at": "2023-03-14T11:20:28Z"
+ },
+ {
+  "id": 1399994,
+  "title": "I've made a Free drag and drop React Template Builder",
+  "description": "Hi,  I just launched reactbuilder.dev, a Free drag and drop react template builder. It currently...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tFX-fGQg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tgtbp7ia6e28ocyoidyp.png",
+  "slug": "ive-made-a-free-drag-and-drop-react-template-builder-4535",
+  "url": "https://dev.to/rarestoma/ive-made-a-free-drag-and-drop-react-template-builder-4535",
+  "publish_date": "2023-03-14",
+  "published_at": "2023-03-14T06:51:16Z"
+ },
+ {
+  "id": 1399985,
+  "title": "Get respects at job for doing Conventional Commits",
+  "description": "Conventional Commits is a specification for adding human and machine readable meaning to commit...",
+  "cover_image": "",
+  "slug": "how-to-make-semantic-commits-with-conventional-commits-41of",
+  "url": "https://dev.to/disukharev/how-to-make-semantic-commits-with-conventional-commits-41of",
+  "publish_date": "2023-03-14",
+  "published_at": "2023-03-14T06:32:21Z"
+ },
+ {
   "id": 1398236,
   "title": "How Woovi uses Relay?",
   "description": "What is Relay?   If you look at relay.dev, Relay is the GraphQL client that scales with you....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/webjose/how-to-invalidate-jwt-tokens-without-collecting-tokens-47pk",
   "publish_date": "2022-12-05",
   "published_at": "2022-12-05T01:43:24Z"
- },
- {
-  "id": 1284225,
-  "title": "The #openai and #gpt3 tags are now officially \"supported\" on DEV",
-  "description": "You may have seen ChatGPT floating around recently. It is an incredible demonstration of AI...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lIVTj2T6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wzg75caevke2ka3vbynp.png",
-  "slug": "the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd",
-  "url": "https://dev.to/devteam/the-openai-and-gpt3-tags-are-now-officially-supported-on-dev-1bd",
-  "publish_date": "2022-12-04",
-  "published_at": "2022-12-04T15:59:20Z"
- },
- {
-  "id": 1283961,
-  "title": "How JWTs Could Be Dangerous and Its Alternatives",
-  "description": "Introduction   JSON Web Tokens (JWTs) are the most popularly used tokens for web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jUHKoZNX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ljagz1ea8w3zpa4uxu3y.png",
-  "slug": "how-jwts-could-be-dangerous-and-its-alternatives-3k3j",
-  "url": "https://dev.to/pragativerma18/how-jwts-could-be-dangerous-and-its-alternatives-3k3j",
-  "publish_date": "2022-12-04",
-  "published_at": "2022-12-04T09:04:18Z"
- },
- {
-  "id": 1283850,
-  "title": "Submit button outside the form",
-  "description": "The other day I had quite a weird scenario where we had a form inside a specific section, but the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FzJH_mEB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hbd9216c18vyu6wg54gd.jpg",
-  "slug": "submit-button-outside-the-form-2m6f",
-  "url": "https://dev.to/dailydevtips1/submit-button-outside-the-form-2m6f",
-  "publish_date": "2022-12-04",
-  "published_at": "2022-12-04T06:13:01Z"
- },
- {
-  "id": 1283758,
-  "title": "Creating a Telegram chatbot with ChatGPT: A Step-by-Step Guide",
-  "description": "Introduction   In this tutorial, we will be building a telegram bot that can interact with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OmBlJGJo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j4e65hdi085akmkf88e8.jpg",
-  "slug": "creating-a-telegram-chatbot-with-chatgpt-a-step-by-step-guide-42gg",
-  "url": "https://dev.to/leighola/creating-a-telegram-chatbot-with-chatgpt-a-step-by-step-guide-42gg",
-  "publish_date": "2022-12-04",
-  "published_at": "2022-12-04T03:09:50Z"
- },
- {
-  "id": 1283735,
-  "title": "5 Small and Hidden React libraries You Should Already Be Using",
-  "description": "If you, like me, love finding small gems in the NPM directory to improve your development process,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mSQ10v1p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cgjwxez1bll0xqqg0dqk.png",
-  "slug": "5-small-and-hidden-react-libraries-you-should-already-be-using-nb5",
-  "url": "https://dev.to/naubit/5-small-and-hidden-react-libraries-you-should-already-be-using-nb5",
-  "publish_date": "2022-12-04",
-  "published_at": "2022-12-04T00:40:37Z"
  }
 ]
