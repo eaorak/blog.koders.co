@@ -1,5 +1,55 @@
 [
  {
+  "id": 1402027,
+  "title": "How We Reduced Our API Latency by 50% Using Cloudflare",
+  "description": "At Xata we always look for ways to improve our performance and user experience. One way to achieve...",
+  "cover_image": "",
+  "slug": "how-we-reduced-our-api-latency-by-50-using-cloudflare-1e70",
+  "url": "https://dev.to/paulaguijarro/how-we-reduced-our-api-latency-by-50-using-cloudflare-1e70",
+  "publish_date": "2023-03-15",
+  "published_at": "2023-03-15T16:19:19Z"
+ },
+ {
+  "id": 1401166,
+  "title": "Learn serverless on AWS step-by-step - File storage",
+  "description": "In the last article, I covered the basics of interacting with DynamoDB databases, using the CDK. In...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CZweOiNy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/storage/asset/cover.png",
+  "slug": "learn-serverless-on-aws-step-by-step-file-storage-10f7",
+  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-file-storage-10f7",
+  "publish_date": "2023-03-15",
+  "published_at": "2023-03-15T14:19:23Z"
+ },
+ {
+  "id": 1401909,
+  "title": "Getting Started with Amazon S3",
+  "description": "Amazon Simple Storage Service (S3) is a highly scalable, durable, and low-latency object storage...",
+  "cover_image": "",
+  "slug": "getting-started-with-amazon-s3-2jli",
+  "url": "https://dev.to/roy8/getting-started-with-amazon-s3-2jli",
+  "publish_date": "2023-03-15",
+  "published_at": "2023-03-15T14:12:18Z"
+ },
+ {
+  "id": 1392261,
+  "title": "Notification system for a grocery app with React and NodeJS",
+  "description": "TL;DR   In this guide, we’ll make a simple shoping list webapp with Node and Express. Then,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--48bOLg0A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1fh82naggwcge6dbepw8.jpg",
+  "slug": "notification-system-for-a-grocery-app-with-react-and-nodejs-234g",
+  "url": "https://dev.to/novu/notification-system-for-a-grocery-app-with-react-and-nodejs-234g",
+  "publish_date": "2023-03-15",
+  "published_at": "2023-03-15T12:23:10Z"
+ },
+ {
+  "id": 1401296,
+  "title": "Git fundamentals, a complete guide",
+  "description": "If you already work with Git daily but want to have a good comprehension of Git fundamentals, then...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pa-0lTcP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oe0fdkxtp58bueeb79pb.png",
+  "slug": "git-fundamentals-a-complete-guide-do7",
+  "url": "https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7",
+  "publish_date": "2023-03-15",
+  "published_at": "2023-03-15T03:02:32Z"
+ },
+ {
   "id": 1400425,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leduc1901/simple-state-management-with-rxjs-a-to-do-list-example-2k6m",
   "publish_date": "2022-12-06",
   "published_at": "2022-12-06T04:34:27Z"
- },
- {
-  "id": 1284878,
-  "title": "Creating an upvote system with React and Socket.io 🥳 🔝",
-  "description": "What is this article about?   Upvotes became a great way to understand what your visitors...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nV-x_2_Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vmc79powj0vi3jdrok16.jpeg",
-  "slug": "creating-an-upvote-system-with-react-and-socketio-5aoj",
-  "url": "https://dev.to/novu/creating-an-upvote-system-with-react-and-socketio-5aoj",
-  "publish_date": "2022-12-05",
-  "published_at": "2022-12-05T15:24:04Z"
- },
- {
-  "id": 1284067,
-  "title": "Introducing Codux",
-  "description": "TL;DR - Introducing Codux, a new visual IDE for easing and accelerating the development of React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dLFdY54l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eved6pnflv1egbuvqe0r.jpeg",
-  "slug": "introducing-codux-15j5",
-  "url": "https://dev.to/codux/introducing-codux-15j5",
-  "publish_date": "2022-12-05",
-  "published_at": "2022-12-05T09:07:29Z"
- },
- {
-  "id": 1283882,
-  "title": "Top Google Analytics Apps for Your Shopify Store",
-  "description": "Google Analytics is a go-to solution for thousands of Shopify merchants around the world as it offers...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ks7yhqA3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6px5rnzn3zfnv4ux2twa.png",
-  "slug": "top-google-analytics-apps-for-your-shopify-store-45fn",
-  "url": "https://dev.to/gloriamaldonado/top-google-analytics-apps-for-your-shopify-store-45fn",
-  "publish_date": "2022-12-05",
-  "published_at": "2022-12-05T07:59:58Z"
- },
- {
-  "id": 1284388,
-  "title": "Consistency Tips for Developers That Actually Work",
-  "description": "Inconsistency is the most common error made by developers.  Follow these simple tips to stay...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N7rPamv2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z8zcpyivmy6e1c11z2z7.png",
-  "slug": "consistency-tips-for-developers-that-actually-work-3m5a",
-  "url": "https://dev.to/codewithvoid/consistency-tips-for-developers-that-actually-work-3m5a",
-  "publish_date": "2022-12-05",
-  "published_at": "2022-12-05T03:44:43Z"
- },
- {
-  "id": 1284534,
-  "title": "How to Invalidate JWT Tokens Without Collecting Tokens",
-  "description": "Today I read this article here at dev.to because it is, in my opinion, a topic everyone should care...",
-  "cover_image": "",
-  "slug": "how-to-invalidate-jwt-tokens-without-collecting-tokens-47pk",
-  "url": "https://dev.to/webjose/how-to-invalidate-jwt-tokens-without-collecting-tokens-47pk",
-  "publish_date": "2022-12-05",
-  "published_at": "2022-12-05T01:43:24Z"
  }
 ]
