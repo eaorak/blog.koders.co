@@ -1,5 +1,55 @@
 [
  {
+  "id": 1362119,
+  "title": "Managing state with React Query. 〽️",
+  "description": "React Query is a large and complete library that facilitates the work when making client-side...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wkJn0uea--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ni8zuq59744hmq7tjack.png",
+  "slug": "managing-state-with-react-query-1842",
+  "url": "https://dev.to/franklin030601/managing-state-with-react-query-1842",
+  "publish_date": "2023-03-17",
+  "published_at": "2023-03-17T15:17:00Z"
+ },
+ {
+  "id": 1404608,
+  "title": "What is the future of AI?",
+  "description": "Recently, when I saw another article about ChatGPT, I thought, \"What's the big deal of it? Why is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wf5Rn113--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rgfo96hu6hqfu92u76vl.png",
+  "slug": "what-is-the-future-of-ai-n4o",
+  "url": "https://dev.to/brownrita460/what-is-the-future-of-ai-n4o",
+  "publish_date": "2023-03-17",
+  "published_at": "2023-03-17T14:41:12Z"
+ },
+ {
+  "id": 1395411,
+  "title": "A Guide to DevSecOps with API Gateway",
+  "description": "With the rise of microservices and cloud-based applications, APIs have become a critical component of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QCloawcF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fp8gxazhdbrsbut9dux6.png",
+  "slug": "a-guide-to-devsecops-with-api-gateway-4fn5",
+  "url": "https://dev.to/apisix/a-guide-to-devsecops-with-api-gateway-4fn5",
+  "publish_date": "2023-03-17",
+  "published_at": "2023-03-17T07:43:44Z"
+ },
+ {
+  "id": 1404074,
+  "title": "How to Get Your First Job as a Self-Taught Programmer",
+  "description": "A few years ago, I wrote an article right here on Dev.to called One Crazy Trick to Become a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4h5cqyij--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/28o2ydh4e231reilwkyb.jpg",
+  "slug": "how-to-get-your-first-job-as-a-self-taught-programmer-1m1c",
+  "url": "https://dev.to/bytebodger/how-to-get-your-first-job-as-a-self-taught-programmer-1m1c",
+  "publish_date": "2023-03-17",
+  "published_at": "2023-03-17T07:00:54Z"
+ },
+ {
+  "id": 1402603,
+  "title": "SQL JOIN explained",
+  "description": "In this post we're going to see how the SQL JOIN works, guided by a practical example while covering...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fir8DcuX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ijlu4docg232ilirpxms.png",
+  "slug": "sql-join-explained-53lc",
+  "url": "https://dev.to/leandronsp/sql-join-explained-53lc",
+  "publish_date": "2023-03-17",
+  "published_at": "2023-03-17T00:39:12Z"
+ },
+ {
   "id": 1401872,
   "title": "Introducing the Appwrite Heroes",
   "description": "One of the biggest reasons Appwrite is growing rapidly as a product while crossing several milestones...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a",
   "publish_date": "2022-12-08",
   "published_at": "2022-12-08T01:39:37Z"
- },
- {
-  "id": 1287397,
-  "title": "How I Built a Vue.js Ecommerce Store with a Node.js Backend",
-  "description": "Ecommerce is no small undertaking. Aside from building a great customer experience on the frontend,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z0xiVtaQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q1gwl5e58u119l9ed1qv.jpg",
-  "slug": "how-i-created-a-vuejs-ecommerce-store-with-medusa-plf",
-  "url": "https://dev.to/medusajs/how-i-created-a-vuejs-ecommerce-store-with-medusa-plf",
-  "publish_date": "2022-12-07",
-  "published_at": "2022-12-07T15:19:44Z"
- },
- {
-  "id": 1283195,
-  "title": "I changed my mind. Angular needs a reactive primitive",
-  "description": "Angular developers have waited 7 years for better integration with RxJS, but this doesn't seem to be happening. This made me angry at first, but after a lot of thinking and talking with other developers, I now believe that a reactive primitive could provide an overall better developer experience than just better RxJS support, even for the most diehard RxJS fans.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O0f5v5OT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r0sp4s3rfdpt5jop4nx0.png",
-  "slug": "i-changed-my-mind-angular-needs-a-reactive-primitive-n2g",
-  "url": "https://dev.to/this-is-angular/i-changed-my-mind-angular-needs-a-reactive-primitive-n2g",
-  "publish_date": "2022-12-07",
-  "published_at": "2022-12-07T08:18:55Z"
- },
- {
-  "id": 1285079,
-  "title": "How to choose the right API Style and Technology",
-  "description": "APIs are an essential design element in any software architecture that interconnects components...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OL60s9H5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/euy6aixvgdpnry9569xt.png",
-  "slug": "how-to-choose-the-right-api-style-and-technology-5fb7",
-  "url": "https://dev.to/apisix/how-to-choose-the-right-api-style-and-technology-5fb7",
-  "publish_date": "2022-12-07",
-  "published_at": "2022-12-07T07:35:53Z"
- },
- {
-  "id": 1286910,
-  "title": "Why using just console.log in 2023 is a big no-no 🚀",
-  "description": "Here are 5 must-know console object methods and tricks!  Are you still using console.log for all your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2jV2VCNA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lu2hoajzttjs6oire4p0.png",
-  "slug": "why-using-just-consolelog-in-2023-is-a-big-no-no-2429",
-  "url": "https://dev.to/naubit/why-using-just-consolelog-in-2023-is-a-big-no-no-2429",
-  "publish_date": "2022-12-07",
-  "published_at": "2022-12-07T06:30:52Z"
- },
- {
-  "id": 1286731,
-  "title": "Too much, and yet not enough",
-  "description": "If you have been an avid reader of this blog, you might have noticed I like exploring different...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tRzcoxuk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9bm6tj508nqey7gk7mdv.jpg",
-  "slug": "too-much-and-yet-not-enough-421e",
-  "url": "https://dev.to/dailydevtips1/too-much-and-yet-not-enough-421e",
-  "publish_date": "2022-12-07",
-  "published_at": "2022-12-07T05:15:21Z"
  }
 ]
