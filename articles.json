@@ -1,5 +1,55 @@
 [
  {
+  "id": 1405633,
+  "title": "10 Common Mistakes to Avoid While Writing JavaScript Code",
+  "description": "JavaScript is one of the most popular programming languages in use today, thanks to its versatility...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tl53cbgt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nxhf1fc1ok7ulo53dq2f.png",
+  "slug": "10-common-mistakes-to-avoid-while-writing-javascript-code-39cg",
+  "url": "https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg",
+  "publish_date": "2023-03-18",
+  "published_at": "2023-03-18T10:32:08Z"
+ },
+ {
+  "id": 1405523,
+  "title": "Unexpected Moments of JavaScript That Will Challenge Your Understanding of the Language",
+  "description": "As one of the most popular programming languages in the world, JavaScript is widely used for building...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l6EiSK9J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d7lxa9a3xkz77gdozfe7.png",
+  "slug": "unexpected-moments-of-javascript-that-will-challenge-your-understanding-of-the-language-4834",
+  "url": "https://dev.to/codeofrelevancy/unexpected-moments-of-javascript-that-will-challenge-your-understanding-of-the-language-4834",
+  "publish_date": "2023-03-18",
+  "published_at": "2023-03-18T09:32:37Z"
+ },
+ {
+  "id": 1398779,
+  "title": "Learn How to Build and Push a Docker Image to a Container Registry",
+  "description": "Docker has become a popular tool in DevOps for the containerisation and deployment of applications....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X7Gjq0zE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dyzwicbhbr3mq76prwwm.png",
+  "slug": "learn-how-to-build-and-push-a-docker-image-to-a-container-registry-282",
+  "url": "https://dev.to/pavanbelagatti/learn-how-to-build-and-push-a-docker-image-to-a-container-registry-282",
+  "publish_date": "2023-03-18",
+  "published_at": "2023-03-18T07:59:37Z"
+ },
+ {
+  "id": 1404107,
+  "title": "My Favorite Free Courses to Learn Golang in 2023",
+  "description": "My favorite free online courses to learn Golang or Go programming language in 2023 from Udemy, Coursera, YouTube, and freeCodeCamp.",
+  "cover_image": "",
+  "slug": "my-favorite-free-courses-to-learn-golang-in-2023-3mh6",
+  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-golang-in-2023-3mh6",
+  "publish_date": "2023-03-18",
+  "published_at": "2023-03-18T07:22:06Z"
+ },
+ {
+  "id": 1405270,
+  "title": "What I'd like to see AI used for - women's month edition",
+  "description": "(this blog post is a part of a DEV celebration of the annual #wecoded campaign - earlier known as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BhFWJyrO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5tmao7t4j2aickoxxv79.png",
+  "slug": "what-id-like-to-see-ai-used-for-womens-month-edition-5768",
+  "url": "https://dev.to/sylwiavargas/what-id-like-to-see-ai-used-for-womens-month-edition-5768",
+  "publish_date": "2023-03-18",
+  "published_at": "2023-03-18T01:24:55Z"
+ },
+ {
   "id": 1362119,
   "title": "Managing state with React Query. 〽️",
   "description": "React Query is a large and complete library that facilitates the work when making client-side...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mohsenkamrani/7-websites-to-get-inspiration-for-next-level-web-design-1leg",
   "publish_date": "2022-12-09",
   "published_at": "2022-12-09T01:11:35Z"
- },
- {
-  "id": 1287705,
-  "title": "How to Test GraphQL API",
-  "description": "You've just created a GraphQL API and are ready to test it. But where do you start? How do you know...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_E0jBL-_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hm6r3fdgab5r9gar393.png",
-  "slug": "how-to-test-graphql-api-161i",
-  "url": "https://dev.to/j471n/how-to-test-graphql-api-161i",
-  "publish_date": "2022-12-08",
-  "published_at": "2022-12-08T16:01:38Z"
- },
- {
-  "id": 1288631,
-  "title": "I Automated Daily Standups for Developers",
-  "description": "It's time for a standup!  These are the words that always put me in total panic mode.  I don't even...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uldMtxV9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k80x8hpzgh2chn01fceg.jpg",
-  "slug": "i-automated-daily-standups-for-developers-1oc8",
-  "url": "https://dev.to/codewithbernard/i-automated-daily-standups-for-developers-1oc8",
-  "publish_date": "2022-12-08",
-  "published_at": "2022-12-08T12:20:24Z"
- },
- {
-  "id": 1288304,
-  "title": "7 popular Icon libraries you can use in your websites",
-  "description": "Icons are an essential part of modern web design, as they provide a visual representation of an idea...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xlO3L6mL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/efemcb5avgb6kstszewe.png",
-  "slug": "7-popular-icon-libraries-you-can-use-in-your-websites-53a1",
-  "url": "https://dev.to/mohsenkamrani/7-popular-icon-libraries-you-can-use-in-your-websites-53a1",
-  "publish_date": "2022-12-08",
-  "published_at": "2022-12-08T07:03:03Z"
- },
- {
-  "id": 1288242,
-  "title": "Working with data attributes in CSS",
-  "description": "We previously looked at using data attributes in JavaScript. These data attributes are a fantastic...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XDIuCS8b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jeodulea5lbewhgr2wz9.jpg",
-  "slug": "working-with-data-attributes-in-css-280l",
-  "url": "https://dev.to/dailydevtips1/working-with-data-attributes-in-css-280l",
-  "publish_date": "2022-12-08",
-  "published_at": "2022-12-08T05:38:44Z"
- },
- {
-  "id": 1288022,
-  "title": "To Be Known for our Kindness",
-  "description": "Content Warning: Death of a Ruby community member  We have lost a great man in the Ruby community in...",
-  "cover_image": "",
-  "slug": "to-be-known-for-our-kindness-2p4a",
-  "url": "https://dev.to/baweaver/to-be-known-for-our-kindness-2p4a",
-  "publish_date": "2022-12-08",
-  "published_at": "2022-12-08T01:39:37Z"
  }
 ]
