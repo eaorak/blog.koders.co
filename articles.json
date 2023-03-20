@@ -1,5 +1,55 @@
 [
  {
+  "id": 1406946,
+  "title": "How to Add Estimated Review Time and Context Labels to Pull Requests",
+  "description": "The pull request (PR) review process, if not set up well in your team, can create a lot of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LVf-tYmK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yum0r2byhioo3m7gd5f0.png",
+  "slug": "how-to-add-estimated-review-time-and-context-labels-to-pull-requests-327n",
+  "url": "https://dev.to/linearb/how-to-add-estimated-review-time-and-context-labels-to-pull-requests-327n",
+  "publish_date": "2023-03-19",
+  "published_at": "2023-03-19T21:09:48Z"
+ },
+ {
+  "id": 1406859,
+  "title": "Como descrever imagens nos slides feitos no Canva",
+  "description": "Muitas pessoas usam o Canva como alternativa para construir slides para suas apresentações. Mas...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lzIlPnkD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/le38da2k0r0coikk7iow.png",
+  "slug": "como-descrever-imagens-nos-slides-feitos-no-canva-2800",
+  "url": "https://dev.to/feministech/como-descrever-imagens-nos-slides-feitos-no-canva-2800",
+  "publish_date": "2023-03-19",
+  "published_at": "2023-03-19T18:18:34Z"
+ },
+ {
+  "id": 1406505,
+  "title": "TypeScript for Beginners: What You Should Know",
+  "description": "TypeScript is a great programming language that was introduced to the public in 2012. This language...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1avdwDAl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ntul56cyb6sr9urze3jd.png",
+  "slug": "typescript-for-beginners-what-you-should-know-n0a",
+  "url": "https://dev.to/swordheath/typescript-for-beginners-what-you-should-know-n0a",
+  "publish_date": "2023-03-19",
+  "published_at": "2023-03-19T10:31:23Z"
+ },
+ {
+  "id": 1406261,
+  "title": "Creating your first Discord bot using TypeScript",
+  "description": "Discord is a popular platform for communication among gamers and communities. One of the key features...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dv94bvRb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yflph1cy8qtm6ebzgsbl.png",
+  "slug": "creating-your-first-discord-bot-using-typescript-1eh6",
+  "url": "https://dev.to/fellipeutaka/creating-your-first-discord-bot-using-typescript-1eh6",
+  "publish_date": "2023-03-19",
+  "published_at": "2023-03-19T08:03:18Z"
+ },
+ {
+  "id": 1406339,
+  "title": "Deep dive into How Web Browsers work (with illustrations) ⚙️🚀",
+  "description": "Browsers are now a part of everyday life, but have you ever wondered how they work under the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HilUemuy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jkngbh6ynkp39ukcbhn0.png",
+  "slug": "deep-dive-into-how-web-browsers-work-with-illustrations-249b",
+  "url": "https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b",
+  "publish_date": "2023-03-19",
+  "published_at": "2023-03-19T06:08:57Z"
+ },
+ {
   "id": 1405633,
   "title": "10 Common Mistakes to Avoid While Writing JavaScript Code",
   "description": "JavaScript is one of the most popular programming languages in use today, thanks to its versatility...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gulyapulya/2022-wrapped-open-source-2g3a",
   "publish_date": "2022-12-10",
   "published_at": "2022-12-10T07:38:33Z"
- },
- {
-  "id": 1290673,
-  "title": "Data visualization using React and Tremor - With Sample",
-  "description": "Learn how to code a data visualization sample on top of React and Tremor using GitHub API as a source of information.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AXo964A2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b3yys6nco6zzh49j7dyr.jpg",
-  "slug": "data-visualization-using-react-and-tremor-with-sample-546a",
-  "url": "https://dev.to/sm0ke/data-visualization-using-react-and-tremor-with-sample-546a",
-  "publish_date": "2022-12-09",
-  "published_at": "2022-12-09T17:28:12Z"
- },
- {
-  "id": 1289935,
-  "title": "Getting Started With GitOps For Developers!",
-  "description": "GitOps is a methodology for deploying and managing software applications using Git. It is also...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HMNZxFys--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48c6s81zywhx0q39upki.png",
-  "slug": "getting-started-with-gitops-for-developers-4aej",
-  "url": "https://dev.to/pavanbelagatti/getting-started-with-gitops-for-developers-4aej",
-  "publish_date": "2022-12-09",
-  "published_at": "2022-12-09T06:35:49Z"
- },
- {
-  "id": 1289915,
-  "title": "Animate an SVG path with CSS",
-  "description": "A while ago, I found this super cool effect that animated an SVG path as it was drawn on the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y75J-lTO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7528o24pj6pe2c74ne9u.jpg",
-  "slug": "animate-an-svg-path-with-css-4ihj",
-  "url": "https://dev.to/dailydevtips1/animate-an-svg-path-with-css-4ihj",
-  "publish_date": "2022-12-09",
-  "published_at": "2022-12-09T05:31:53Z"
- },
- {
-  "id": 1289705,
-  "title": "Developer productivity hacks 11",
-  "description": "1. Establish a sensible development environment.   It will be simpler to kill the opposition...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QwqlrR09--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/64zphx4xsloffwx6ieoj.png",
-  "slug": "developer-productivity-hacks-11-58p3",
-  "url": "https://dev.to/function12_io/developer-productivity-hacks-11-58p3",
-  "publish_date": "2022-12-09",
-  "published_at": "2022-12-09T03:04:14Z"
- },
- {
-  "id": 1289682,
-  "title": "7 websites to get inspiration for next level web design",
-  "description": "As a developer or designer, it's always important to stay up-to-date on the latest trends and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LlRqGdKI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jr1ipe8y2pb0fypunk3i.png",
-  "slug": "7-websites-to-get-inspiration-for-next-level-web-design-1leg",
-  "url": "https://dev.to/mohsenkamrani/7-websites-to-get-inspiration-for-next-level-web-design-1leg",
-  "publish_date": "2022-12-09",
-  "published_at": "2022-12-09T01:11:35Z"
  }
 ]
