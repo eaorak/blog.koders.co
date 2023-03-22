@@ -1,5 +1,55 @@
 [
  {
+  "id": 1409471,
+  "title": "APIRank.dev - we crawled and ranked all public APIs on the internet 🔭",
+  "description": "tl;dr we (Escape) scanned 3000+ public APIs on the internet with our in-house feedback driven...",
+  "cover_image": "",
+  "slug": "apirankdev-we-crawled-and-ranked-all-public-apis-on-the-internet-1iho",
+  "url": "https://dev.to/tristankalos/apirankdev-we-crawled-and-ranked-all-public-apis-on-the-internet-1iho",
+  "publish_date": "2023-03-21",
+  "published_at": "2023-03-21T17:07:57Z"
+ },
+ {
+  "id": 1409230,
+  "title": "10 Best Practices for Ecommerce Checkout Design",
+  "description": "Optimizing your ecommerce checkout process is crucial to reduce cart abandonment rates, as it affects...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_ATUNy5Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u0fh61t8bku2k2514ybe.jpg",
+  "slug": "10-best-practices-for-ecommerce-checkout-design-81e",
+  "url": "https://dev.to/medusajs/10-best-practices-for-ecommerce-checkout-design-81e",
+  "publish_date": "2023-03-21",
+  "published_at": "2023-03-21T14:14:04Z"
+ },
+ {
+  "id": 1387220,
+  "title": "An in-depth comparison of the most popular DynamoDB wrappers",
+  "description": "An in-depth comparison of the 4 most popular wrappers for the AWS DynamoDB Client in Typescript. Which one should you chose?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WbBCcySV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ThomasAribart/dev-to-articles/master/blog-posts/an-in-depth-comparison-of-the-most-popular-dynamodb-wrappers/an-in-depth-comparison-of-the-most-popular-dynamodb-wrappers-2.png",
+  "slug": "an-in-depth-comparison-of-the-most-popular-dynamodb-wrappers-5b73",
+  "url": "https://dev.to/thomasaribart/an-in-depth-comparison-of-the-most-popular-dynamodb-wrappers-5b73",
+  "publish_date": "2023-03-21",
+  "published_at": "2023-03-21T12:09:39Z"
+ },
+ {
+  "id": 1409015,
+  "title": "Mastering Git with ChatGPT — best auto-commits you've ever seen",
+  "description": "Ever faced the challenge of crafting the commit message after 5+ files are changed?  Switching from...",
+  "cover_image": "",
+  "slug": "mastering-git-with-chatgpt-best-autocommits-youve-ever-seen-1l1m",
+  "url": "https://dev.to/disukharev/mastering-git-with-chatgpt-best-autocommits-youve-ever-seen-1l1m",
+  "publish_date": "2023-03-21",
+  "published_at": "2023-03-21T10:43:36Z"
+ },
+ {
+  "id": 1408657,
+  "title": "AI Hallucinations are still around",
+  "description": "GPT-4 is super exciting, but it has its flaws",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--18pGghML--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1630679044548-cc87845f7b1b%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1524%26q%3D80",
+  "slug": "ai-hallucinations-are-still-around-1330",
+  "url": "https://dev.to/contenda/ai-hallucinations-are-still-around-1330",
+  "publish_date": "2023-03-21",
+  "published_at": "2023-03-21T02:26:00Z"
+ },
+ {
   "id": 1407812,
   "title": "Meme Monday 🧵",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zirkelc/automatically-transcribe-youtube-videos-with-openai-whisper-1856",
   "publish_date": "2022-12-12",
   "published_at": "2022-12-12T11:00:00Z"
- },
- {
-  "id": 1292407,
-  "title": "5 Simple Things Highly Productive Developers Do",
-  "description": "I have spent fair share of hours trying to improve my productivity, rather than actually doing the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0K_517OF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5bd6nsok6vp89qtqiqt8.png",
-  "slug": "5-simple-things-highly-productive-developers-do-15o1",
-  "url": "https://dev.to/codewithvoid/5-simple-things-highly-productive-developers-do-15o1",
-  "publish_date": "2022-12-11",
-  "published_at": "2022-12-11T12:37:56Z"
- },
- {
-  "id": 1291439,
-  "title": "NGINX: Advanced Load Balancer, Web Server, \u0026 Reverse Proxy",
-  "description": "📍 Concurrency   👉 When it comes to making a request to the server, it usually happens that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9XTghEwa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ldgbc7webja9ndho24gr.png",
-  "slug": "nginx-advanced-load-balancer-web-server-reverse-proxy-4i23",
-  "url": "https://dev.to/lovepreetsingh/nginx-advanced-load-balancer-web-server-reverse-proxy-4i23",
-  "publish_date": "2022-12-11",
-  "published_at": "2022-12-11T06:17:49Z"
- },
- {
-  "id": 1292219,
-  "title": "Battle of the Giants: GitHub Copilot vs ChatGPT ⚔️⚔️",
-  "description": "The release of ChatGPT sent ripples through the programming community as it could come up with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OKQqF4qm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9fiz8hdruc5f7rto8uxx.png",
-  "slug": "battle-of-the-giants-github-copilot-vs-chatgpt-4oac",
-  "url": "https://dev.to/ruppysuppy/battle-of-the-giants-github-copilot-vs-chatgpt-4oac",
-  "publish_date": "2022-12-11",
-  "published_at": "2022-12-11T06:14:00Z"
- },
- {
-  "id": 1291714,
-  "title": "Vs Code Zero to Hero setup",
-  "description": "1. first of all     get Rickroll'd    The vscode is a nice editor for web dev. And the broad...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4dWZdYxm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ffw2vo35l66nn8irtloy.jpg",
-  "slug": "vs-code-zero-to-hero-setup-gon",
-  "url": "https://dev.to/atharvashankar/vs-code-zero-to-hero-setup-gon",
-  "publish_date": "2022-12-11",
-  "published_at": "2022-12-11T06:00:06Z"
- },
- {
-  "id": 1292277,
-  "title": "Conditional wrapping in React",
-  "description": "This is something you do not always need, but I wrote this article for those looking for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7nhnQgDO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2qlvnroca92f6c19nijn.jpg",
-  "slug": "conditional-wrapping-in-react-46o5",
-  "url": "https://dev.to/dailydevtips1/conditional-wrapping-in-react-46o5",
-  "publish_date": "2022-12-11",
-  "published_at": "2022-12-11T05:54:45Z"
  }
 ]
