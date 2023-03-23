@@ -1,5 +1,55 @@
 [
  {
+  "id": 1399642,
+  "title": "Creating a Notification System with Novu and SendGrid",
+  "description": "TL;DR   In this tutorial, we’ll be creating a tool that can send email notifications. To do...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NdNTbWPg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cejmmftzlzv8ygt5mysy.jpg",
+  "slug": "creating-a-notification-system-with-novu-and-sendgrid-1311",
+  "url": "https://dev.to/novu/creating-a-notification-system-with-novu-and-sendgrid-1311",
+  "publish_date": "2023-03-22",
+  "published_at": "2023-03-22T15:18:29Z"
+ },
+ {
+  "id": 1410920,
+  "title": "Top 5 React Admin Templates",
+  "description": "Author: Chidume Nnamdi           Introduction   Templates are blueprints or models or guides used...",
+  "cover_image": "",
+  "slug": "top-5-react-admin-templates-j0b",
+  "url": "https://dev.to/necatiozmen/top-5-react-admin-templates-j0b",
+  "publish_date": "2023-03-22",
+  "published_at": "2023-03-22T12:02:18Z"
+ },
+ {
+  "id": 1410980,
+  "title": "Create a Pull Request from Visual Studio Code",
+  "description": "Did anyone say the word Productivity? We're all used to the GitHub User Interface so we usually...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sLk0fDrS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uwqt3wdhqj01yedtvtkl.png",
+  "slug": "create-a-pull-request-from-visual-studio-code-18nh",
+  "url": "https://dev.to/this-is-learning/create-a-pull-request-from-visual-studio-code-18nh",
+  "publish_date": "2023-03-22",
+  "published_at": "2023-03-22T10:46:18Z"
+ },
+ {
+  "id": 1410084,
+  "title": "What's the best stack for building web based AI applications?",
+  "description": "OpenAI, chatGPT, DALL-E have excellent APIs but what are the best tools for building SaaS products...",
+  "cover_image": "",
+  "slug": "whats-the-best-stack-for-building-web-based-ai-applications-506i",
+  "url": "https://dev.to/amyliumaiyi/whats-the-best-stack-for-building-web-based-ai-applications-506i",
+  "publish_date": "2023-03-22",
+  "published_at": "2023-03-22T07:40:45Z"
+ },
+ {
+  "id": 1400235,
+  "title": "Efficiently Manage Your GraphQL API with API Gateway",
+  "description": "GraphQL is a powerful query language for APIs that allows developers to define the structure of the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ztgs1VQ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vjyzs7euy8cugihyhzbo.png",
+  "slug": "efficiently-manage-your-graphql-api-with-api-gateway-20p1",
+  "url": "https://dev.to/apisix/efficiently-manage-your-graphql-api-with-api-gateway-20p1",
+  "publish_date": "2023-03-22",
+  "published_at": "2023-03-22T07:32:24Z"
+ },
+ {
   "id": 1409471,
   "title": "APIRank.dev - we crawled and ranked all public APIs on the internet 🔭",
   "description": "tl;dr we (Escape) scanned 3000+ public APIs on the internet with our in-house feedback driven...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mohsenkamrani/how-to-choose-between-flexbox-float-and-grid-like-a-pro-3d0h",
   "publish_date": "2022-12-13",
   "published_at": "2022-12-13T00:46:31Z"
- },
- {
-  "id": 1293701,
-  "title": "Meme Monday 🎉",
-  "description": "We are back to Monday, after doing Tuesday last week. It's the little things in life.  Today's cover...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BXb-mirH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1v41wj1k8rneqg3j67ct.png",
-  "slug": "meme-monday-1e1i",
-  "url": "https://dev.to/ben/meme-monday-1e1i",
-  "publish_date": "2022-12-12",
-  "published_at": "2022-12-12T16:44:36Z"
- },
- {
-  "id": 1293458,
-  "title": "How to Set up Google Analytics on Shopify [4 Methods Explained]",
-  "description": "Ever since I started to work with Shopify clients, I realized they all have problems with their...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yAL0r6Cx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y1dwm2rv2p3nspf7u9xy.png",
-  "slug": "how-to-set-up-google-analytics-on-shopify-4-methods-explained-433b",
-  "url": "https://dev.to/gloriamaldonado/how-to-set-up-google-analytics-on-shopify-4-methods-explained-433b",
-  "publish_date": "2022-12-12",
-  "published_at": "2022-12-12T14:40:13Z"
- },
- {
-  "id": 1293432,
-  "title": "B2B Commerce w. Medusa: Set up a Next.js storefront (2/2)",
-  "description": "In part 1 of the B2B series, you learned how to set up your Medusa server for a B2B ecommerce use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f2csyEaO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rmtzz7ktu5mnpdxj4cay.jpg",
-  "slug": "b2b-commerce-w-medusa-set-up-a-nextjs-storefront-22-2jbi",
-  "url": "https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-nextjs-storefront-22-2jbi",
-  "publish_date": "2022-12-12",
-  "published_at": "2022-12-12T13:27:41Z"
- },
- {
-  "id": 1293422,
-  "title": "B2B Commerce w. Medusa: Set up a headless Node.js backend (1/2)",
-  "description": "This tutorial series covers how you can use Medusa and its different components and features to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VedmKbc2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rsdeuxsse3118l3dwjo2.jpg",
-  "slug": "b2b-commerce-w-medusa-set-up-a-headless-nodejs-backend-12-2n7m",
-  "url": "https://dev.to/medusajs/b2b-commerce-w-medusa-set-up-a-headless-nodejs-backend-12-2n7m",
-  "publish_date": "2022-12-12",
-  "published_at": "2022-12-12T13:17:34Z"
- },
- {
-  "id": 1292573,
-  "title": "Automatically Transcribe YouTube Videos with OpenAI Whisper",
-  "description": "OpenAI is on everyone's lips, but this is not about their recent Chatbot but about a language model...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--svvEP-aR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o2df3yfuxhsm2fmdegn5.jpg",
-  "slug": "automatically-transcribe-youtube-videos-with-openai-whisper-1856",
-  "url": "https://dev.to/zirkelc/automatically-transcribe-youtube-videos-with-openai-whisper-1856",
-  "publish_date": "2022-12-12",
-  "published_at": "2022-12-12T11:00:00Z"
  }
 ]
