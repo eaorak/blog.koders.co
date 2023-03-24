@@ -1,5 +1,55 @@
 [
  {
+  "id": 1412582,
+  "title": "The State of Public APIs 2023",
+  "description": "tl;dr we (Escape) scanned 6056+ public APIs on the internet with our in-house feedback driven...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K2qir777--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nh861uuldw9gbdaeozt9.png",
+  "slug": "the-state-of-public-apis-2023-1m1f",
+  "url": "https://dev.to/tristankalos/the-state-of-public-apis-2023-1m1f",
+  "publish_date": "2023-03-23",
+  "published_at": "2023-03-23T17:02:16Z"
+ },
+ {
+  "id": 1412017,
+  "title": "mTLS everywhere!",
+  "description": "Security in one's information system has always been among the most critical Non-Functional...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JtdcE-F2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7qapc9ca41dw19992o4z.png",
+  "slug": "mtls-everywhere-1k94",
+  "url": "https://dev.to/apisix/mtls-everywhere-1k94",
+  "publish_date": "2023-03-23",
+  "published_at": "2023-03-23T08:24:03Z"
+ },
+ {
+  "id": 1411272,
+  "title": "Top 3 OpenAI powered open-source tools to improve dev-experience 🧠 🤖",
+  "description": "OpenCommit — ChatGPT CLI to auto-generate impressive commits in 1 second 🤯🔫     Simply...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---jDcDzyB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xlae2zmeyym1pfu1ko9v.png",
+  "slug": "top-3-open-source-ai-tools-for-programmers-4oed",
+  "url": "https://dev.to/disukharev/top-3-open-source-ai-tools-for-programmers-4oed",
+  "publish_date": "2023-03-23",
+  "published_at": "2023-03-23T06:35:40Z"
+ },
+ {
+  "id": 1411922,
+  "title": "Google’s policy on target API level and LIAPP’s compatibility.",
+  "description": "Hello readers! A news flash here!  Do you remember that Google announced that they are expanding the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8DFaOzTF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ywdl0bkf3oy0tay9zoy.png",
+  "slug": "googles-policy-on-target-api-level-and-liapps-compatibility-5h6h",
+  "url": "https://dev.to/teamliapp/googles-policy-on-target-api-level-and-liapps-compatibility-5h6h",
+  "publish_date": "2023-03-23",
+  "published_at": "2023-03-23T05:54:36Z"
+ },
+ {
+  "id": 1390911,
+  "title": "An ETL Job using AWS Glue Studio to inner join DynamoDB tables, Apply Queries and Store the result in S3",
+  "description": "ETL Jobs   ETL stands for extract, transform, and load. And this is the most common...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AMGmJgaC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yg8jbw5h8lwho92qwzr9.png",
+  "slug": "an-etl-job-using-aws-glue-studio-to-inner-join-dynamodb-tables-apply-queries-and-store-the-result-in-s3-5gb6",
+  "url": "https://dev.to/aws-builders/an-etl-job-using-aws-glue-studio-to-inner-join-dynamodb-tables-apply-queries-and-store-the-result-in-s3-5gb6",
+  "publish_date": "2023-03-23",
+  "published_at": "2023-03-23T01:27:26Z"
+ },
+ {
   "id": 1399642,
   "title": "Creating a Notification System with Novu and SendGrid",
   "description": "TL;DR   In this tutorial, we’ll be creating a tool that can send email notifications. To do...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd",
   "publish_date": "2022-12-14",
   "published_at": "2022-12-14T00:47:29Z"
- },
- {
-  "id": 1294489,
-  "title": "Free Python Converter Tool - DataFrames, OpenAPI, CSV to Models, DataTables",
-  "description": "Converter library for CSV, OpenAPI, Pandas DF, URLs using a simple Drag \u0026 Drop UI - EULA license.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FAZCMoUn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k2hph5rkvbjzkh8jky7j.jpg",
-  "slug": "free-python-converter-tool-dataframes-openapi-csv-to-models-datatables-26jn",
-  "url": "https://dev.to/sm0ke/free-python-converter-tool-dataframes-openapi-csv-to-models-datatables-26jn",
-  "publish_date": "2022-12-13",
-  "published_at": "2022-12-13T10:28:57Z"
- },
- {
-  "id": 1294413,
-  "title": "Open-source React code generator component for CRUD apps based on your API on the fly",
-  "description": "We are running an open source React-based framework for building CRUD apps rapidly.  🚀Source code:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P7uCx2KV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wd1iqsd3qsfrohcw8q34.png",
-  "slug": "open-source-react-code-generator-component-for-crud-apps-based-on-your-api-on-the-fly-4hng",
-  "url": "https://dev.to/refine/open-source-react-code-generator-component-for-crud-apps-based-on-your-api-on-the-fly-4hng",
-  "publish_date": "2022-12-13",
-  "published_at": "2022-12-13T08:27:02Z"
- },
- {
-  "id": 1294209,
-  "title": "Reflections on My 15 Year Journey from Novice to Intermediate Developer",
-  "description": "My self-taught development journey started around 15 years ago when I was a little kid. It went from...",
-  "cover_image": "",
-  "slug": "reflections-on-my-15-year-journey-from-novice-to-intermediate-developer-pje",
-  "url": "https://dev.to/entrptaher/reflections-on-my-15-year-journey-from-novice-to-intermediate-developer-pje",
-  "publish_date": "2022-12-13",
-  "published_at": "2022-12-13T06:02:50Z"
- },
- {
-  "id": 1294042,
-  "title": "Svelte vs React: Which framework to learn in 2023?",
-  "description": "In the web development world, sometimes it can feel like a new frontend framework comes out every...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LGpl8dE0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yihuooou7higrtvvh6f.png",
-  "slug": "svelte-vs-react-which-framework-to-learn-in-2023-50gf",
-  "url": "https://dev.to/mikhailkaran/svelte-vs-react-which-framework-to-learn-in-2023-50gf",
-  "publish_date": "2022-12-13",
-  "published_at": "2022-12-13T01:58:24Z"
- },
- {
-  "id": 1294020,
-  "title": "How to choose between Flexbox, Float and Grid like a pro",
-  "description": "CSS layouts are a way of positioning elements on a web page. They allow you to control the position,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cyQ9Mqon--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nc1xbnblr52yg8y7z1jp.png",
-  "slug": "how-to-choose-between-flexbox-float-and-grid-like-a-pro-3d0h",
-  "url": "https://dev.to/mohsenkamrani/how-to-choose-between-flexbox-float-and-grid-like-a-pro-3d0h",
-  "publish_date": "2022-12-13",
-  "published_at": "2022-12-13T00:46:31Z"
  }
 ]
