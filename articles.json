@@ -1,5 +1,55 @@
 [
  {
+  "id": 1413826,
+  "title": "What is Strict Mode in React?",
+  "description": "Hello React developers, you've probably heard of strict mode. But what the hell is it, exactly? In...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2VXLrW0d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yvfvtktdohwnw1p8y23x.png",
+  "slug": "what-is-strict-mode-in-react-3p5b",
+  "url": "https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b",
+  "publish_date": "2023-03-24",
+  "published_at": "2023-03-24T16:05:31Z"
+ },
+ {
+  "id": 1413820,
+  "title": "GitHub repositories for TypeScript enthusiasts",
+  "description": "GitHub is a great source for the developer community. It offers an ability to share, learn, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cf5vPvVK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fpo5brb46lzy9whgwrhh.png",
+  "slug": "github-repositories-for-typescript-enthusiasts-2pmg",
+  "url": "https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg",
+  "publish_date": "2023-03-24",
+  "published_at": "2023-03-24T16:03:29Z"
+ },
+ {
+  "id": 1413682,
+  "title": "What to choose: C vs C++?",
+  "description": "C vs. C++ is a popular developer blog topic. C and C++ are programming languages that can be used to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KCt3Lghx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4bsm3u3pvmn6pbi2z0qv.png",
+  "slug": "what-to-choose-c-vs-c-1j8e",
+  "url": "https://dev.to/swordheath/what-to-choose-c-vs-c-1j8e",
+  "publish_date": "2023-03-24",
+  "published_at": "2023-03-24T15:48:21Z"
+ },
+ {
+  "id": 1409993,
+  "title": "Boost Your Productivity with These Top Free Notion Templates",
+  "description": "Introduction   As a developer, you know how important it is to stay organized and keep track...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sDU-eJdB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5kt7ey67ee87tobraimt.png",
+  "slug": "boost-your-productivity-with-these-top-free-notion-templates-8e0",
+  "url": "https://dev.to/surajondev/boost-your-productivity-with-these-top-free-notion-templates-8e0",
+  "publish_date": "2023-03-24",
+  "published_at": "2023-03-24T11:30:00Z"
+ },
+ {
+  "id": 1413389,
+  "title": "Docker Hub Alternatives: On the Lookout for a Container Image Repository for OSS",
+  "description": "As a leading containerization service, Docker has been particularly popular across the open-source...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZkSeK89---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zyxtlzyym2opcni5e03b.png",
+  "slug": "docker-alternatives-on-the-lookout-for-a-container-image-repository-for-oss-33ib",
+  "url": "https://dev.to/cast_ai/docker-alternatives-on-the-lookout-for-a-container-image-repository-for-oss-33ib",
+  "publish_date": "2023-03-24",
+  "published_at": "2023-03-24T09:21:54Z"
+ },
+ {
   "id": 1412582,
   "title": "The State of Public APIs 2023",
   "description": "tl;dr we (Escape) scanned 6056+ public APIs on the internet with our in-house feedback driven...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pavanbelagatti/cicd-tutorial-for-developers-3l0",
   "publish_date": "2022-12-15",
   "published_at": "2022-12-15T05:53:40Z"
- },
- {
-  "id": 1295968,
-  "title": "Creating a scheduling app: I wish somebody showed me this technique when I first started coding 🤔",
-  "description": "What is this article about?   In this article, you'll learn how to build a scheduling...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BEyvfpMd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hgwjfdk0majfie5ihwb5.jpeg",
-  "slug": "creating-a-scheduling-app-i-wish-somebody-showed-me-this-technique-when-i-first-started-coding-2icd",
-  "url": "https://dev.to/novu/creating-a-scheduling-app-i-wish-somebody-showed-me-this-technique-when-i-first-started-coding-2icd",
-  "publish_date": "2022-12-14",
-  "published_at": "2022-12-14T16:22:22Z"
- },
- {
-  "id": 1295944,
-  "title": "The 4 best resources to learn Rust !",
-  "description": "Rust is a popular programming language known for its performance and reliability. It is a systems...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3K3nIS8t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xcjsnp7ze18dvueah3gn.png",
-  "slug": "the-4-best-resources-to-learn-rust--3238",
-  "url": "https://dev.to/nathan20/the-4-best-resources-to-learn-rust--3238",
-  "publish_date": "2022-12-14",
-  "published_at": "2022-12-14T10:22:17Z"
- },
- {
-  "id": 1288482,
-  "title": "Top 5 API testing tools 2022",
-  "description": "Introduction   Implementing an API is a useful method for adding unique functionality to a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--knPpfESN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1444fpz7ziafwsrkp5oi.jpeg",
-  "slug": "top-5-api-testing-tools-2022-297j",
-  "url": "https://dev.to/qbentil/top-5-api-testing-tools-2022-297j",
-  "publish_date": "2022-12-14",
-  "published_at": "2022-12-14T08:42:47Z"
- },
- {
-  "id": 1295755,
-  "title": "Applying Design Patterns in React: Strategy Pattern",
-  "description": "This article is about a problem many of us encounter in React \u0026amp; Frontend development (sometimes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WKZ7CXsi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gppuqo72eon1q2a7fkrl.png",
-  "slug": "applying-design-patterns-in-react-strategy-pattern-enn",
-  "url": "https://dev.to/itshugo/applying-design-patterns-in-react-strategy-pattern-enn",
-  "publish_date": "2022-12-14",
-  "published_at": "2022-12-14T07:56:23Z"
- },
- {
-  "id": 1285572,
-  "title": "A little about Typescript Utility Types",
-  "description": "Nowadays, TypeScript type system is very powerful, it provides for us type safety, productivity,...",
-  "cover_image": "",
-  "slug": "a-little-about-typescript-utility-types-1epd",
-  "url": "https://dev.to/murillonahvs/a-little-about-typescript-utility-types-1epd",
-  "publish_date": "2022-12-14",
-  "published_at": "2022-12-14T00:47:29Z"
  }
 ]
