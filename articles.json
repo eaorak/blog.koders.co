@@ -1,5 +1,55 @@
 [
  {
+  "id": 1415495,
+  "title": "Give Your DRY Tests a WET Touch",
+  "description": "For quite some time, the commonly accepted practice has been to write DRY code, but there are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--slKcvFUi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kk5jwekmh8khp1fhiqgc.png",
+  "slug": "give-your-dry-tests-a-wet-touch-4mmb",
+  "url": "https://dev.to/perssondennis/give-your-dry-tests-a-wet-touch-4mmb",
+  "publish_date": "2023-03-26",
+  "published_at": "2023-03-26T14:49:00Z"
+ },
+ {
+  "id": 1415317,
+  "title": "Trying out the app directory in Next.js",
+  "description": "A beginner's guide to exploring the new Next.js app directory and server components  I've been...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wfv-15KL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3zttrxkfvnmltydc41ka.jpg",
+  "slug": "trying-out-the-app-folder-in-nextjs-1nep",
+  "url": "https://dev.to/ivanms1/trying-out-the-app-folder-in-nextjs-1nep",
+  "publish_date": "2023-03-26",
+  "published_at": "2023-03-26T14:39:45Z"
+ },
+ {
+  "id": 1415383,
+  "title": "Using Typescript without compilation",
+  "description": "Over the past couple of days, an article about the next major version of Svelte blew up on twitter,...",
+  "cover_image": "",
+  "slug": "using-typescript-without-compilation-3ko4",
+  "url": "https://dev.to/thepassle/using-typescript-without-compilation-3ko4",
+  "publish_date": "2023-03-26",
+  "published_at": "2023-03-26T10:41:28Z"
+ },
+ {
+  "id": 1415223,
+  "title": "TypeScript CRUD Rest API, using: Nest.js, TypeORM, Postgres, Docker and Docker Compose",
+  "description": "Let's create a CRUD Rest API in Typescript, using:   NestJS (NodeJS framework) TypeORM (ORM: Object...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wsHHQs8q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d0v3gchfmg7o831cybmr.png",
+  "slug": "typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al",
+  "url": "https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al",
+  "publish_date": "2023-03-26",
+  "published_at": "2023-03-26T06:16:52Z"
+ },
+ {
+  "id": 1353582,
+  "title": "From Problems to Solutions: Understanding Design Patterns",
+  "description": "An interesting fact in software development is that you are almost always not the first person to...",
+  "cover_image": "",
+  "slug": "from-problems-to-solutions-understanding-design-patterns-3b7i",
+  "url": "https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i",
+  "publish_date": "2023-03-26",
+  "published_at": "2023-03-26T03:00:00Z"
+ },
+ {
   "id": 1414917,
   "title": "💲 Build your resume and get paid",
   "description": "Money 💰 is a great motivator, but let's be honest, earning big bucks is not easy. However, what if we...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i",
   "publish_date": "2022-12-17",
   "published_at": "2022-12-17T02:12:24Z"
- },
- {
-  "id": 1299921,
-  "title": "Amazing Rating Card Using HTML CSS JavaScript | Fronend mentor",
-  "description": "How to Make a Rating Card Using HTML CSS JavaScript  This video will show you how to build a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BEN-ZqoI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u014ld7832bd36fi1teq.png",
-  "slug": "amazing-rating-card-using-html-css-javascript-fronend-mentor-13bn",
-  "url": "https://dev.to/codewithsadee/amazing-rating-card-using-html-css-javascript-fronend-mentor-13bn",
-  "publish_date": "2022-12-16",
-  "published_at": "2022-12-16T15:45:55Z"
- },
- {
-  "id": 1299718,
-  "title": "What are the differences between translation and localization?",
-  "description": "While both terms are similar, localization goes beyond just translating and ensures your product...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cZ32M350--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4t2fwjvvhdz4mopg9y9r.png",
-  "slug": "what-are-the-differences-between-translation-and-localization-2npn",
-  "url": "https://dev.to/aexol-studio/what-are-the-differences-between-translation-and-localization-2npn",
-  "publish_date": "2022-12-16",
-  "published_at": "2022-12-16T15:10:13Z"
- },
- {
-  "id": 1297107,
-  "title": "Building a Music Player in React",
-  "description": "Introduction   Whoever is learning React and wants to build a project with React. There are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UjO_3jhV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r4c1db8wdww31n6aukj0.png",
-  "slug": "building-a-music-player-in-react-2aa4",
-  "url": "https://dev.to/documatic/building-a-music-player-in-react-2aa4",
-  "publish_date": "2022-12-16",
-  "published_at": "2022-12-16T14:29:20Z"
- },
- {
-  "id": 1298557,
-  "title": "Use your third-party scripts without the performance hit with Partytown",
-  "description": "Introduction   Partytown is a lazy-loaded library to help relocate resource intensive...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HrTh1Iu7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x2ez4ok21nsm3qqozdbs.png",
-  "slug": "use-your-third-party-scripts-without-the-performance-hit-with-partytown-2bdf",
-  "url": "https://dev.to/leduc1901/use-your-third-party-scripts-without-the-performance-hit-with-partytown-2bdf",
-  "publish_date": "2022-12-16",
-  "published_at": "2022-12-16T03:27:46Z"
- },
- {
-  "id": 1298507,
-  "title": "Learn git in less than 5 minutes and use it for 5 years",
-  "description": "Git is a version control system that is widely used by developers to track changes to their codebase....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lLS4MQ4j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h2gf67vvmbzi65uvib1p.png",
-  "slug": "learn-git-in-less-than-5-minutes-and-use-it-for-5-years-1jcl",
-  "url": "https://dev.to/mohsenkamrani/learn-git-in-less-than-5-minutes-and-use-it-for-5-years-1jcl",
-  "publish_date": "2022-12-16",
-  "published_at": "2022-12-16T01:31:55Z"
  }
 ]
