@@ -1,5 +1,55 @@
 [
  {
+  "id": 1416664,
+  "title": "Meme Monday 🥸",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QTcoUMsu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1wt21stgfea8rokfm60a.png",
+  "slug": "meme-monday-cbo",
+  "url": "https://dev.to/ben/meme-monday-cbo",
+  "publish_date": "2023-03-27",
+  "published_at": "2023-03-27T15:49:36Z"
+ },
+ {
+  "id": 1416613,
+  "title": "8+ Free Resources \u0026 Tools for Web Developers and Designers ⚡️",
+  "description": "Web development and design can be a challenging task, but with the right resources, the process can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QMlIg2Tb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0mcp93p2w9tjk01fb487.png",
+  "slug": "8-free-resources-tools-for-web-developers-and-designers-1k3p",
+  "url": "https://dev.to/fredy/8-free-resources-tools-for-web-developers-and-designers-1k3p",
+  "publish_date": "2023-03-27",
+  "published_at": "2023-03-27T14:24:33Z"
+ },
+ {
+  "id": 1415298,
+  "title": "AI-TDD: you write the test, GPT writes the code to pass it ✅",
+  "description": "first — let's grow my twitter, so i can tell about my inventions quicker and make the world even...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FavRcJyF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zruk6m0s5wcfqqjoicbp.png",
+  "slug": "aitdd-ai-cli-for-tdd-you-write-the-test-ai-makes-it-green-32bn",
+  "url": "https://dev.to/disukharev/aitdd-ai-cli-for-tdd-you-write-the-test-ai-makes-it-green-32bn",
+  "publish_date": "2023-03-27",
+  "published_at": "2023-03-27T07:31:17Z"
+ },
+ {
+  "id": 1413645,
+  "title": "OpenCommit: GPT generates impressive commits in 1 second 🤯🔫 (CLI, open-source)",
+  "description": "first — let's grow my twitter, so i can tell about my inventions quicker and make the world even...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_3FfN6-g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/efh02ys7mt4l2v5yvqex.png",
+  "slug": "opencommit-gpt-cli-to-auto-generate-impressive-commits-in-1-second-46dh",
+  "url": "https://dev.to/disukharev/opencommit-gpt-cli-to-auto-generate-impressive-commits-in-1-second-46dh",
+  "publish_date": "2023-03-27",
+  "published_at": "2023-03-27T07:27:09Z"
+ },
+ {
+  "id": 1416068,
+  "title": "What It Was Like To Code For Amazon (Conclusion)",
+  "description": "(You can read Part 1 of this article here:...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z1FMVdyx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kesnjooneuw7q1ozgwvy.jpg",
+  "slug": "what-it-was-like-to-code-for-amazon-conclusion-3468",
+  "url": "https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-conclusion-3468",
+  "publish_date": "2023-03-27",
+  "published_at": "2023-03-27T06:01:46Z"
+ },
+ {
   "id": 1415495,
   "title": "Give Your DRY Tests a WET Touch",
   "description": "For quite some time, the commonly accepted practice has been to write DRY code, but there are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lovepreetsingh/dockerizing-nodejs-express-and-mongodb-app-with-nginx-as-a-reverse-proxy-27a4",
   "publish_date": "2022-12-18",
   "published_at": "2022-12-18T04:55:13Z"
- },
- {
-  "id": 1300944,
-  "title": "React Native cheatsheet for beginners",
-  "description": "React native is one of the most demanding cross platform frameworks developed by Meta (Facebook) for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M08XfZUV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2n8c70hper97jri1l1y1.png",
-  "slug": "react-native-cheatsheet-for-beginners-28oa",
-  "url": "https://dev.to/codemaker2015/react-native-cheatsheet-for-beginners-28oa",
-  "publish_date": "2022-12-17",
-  "published_at": "2022-12-17T17:34:18Z"
- },
- {
-  "id": 1300598,
-  "title": "How to contribute to open-source with any skill level",
-  "description": "Open-source contributors stand out among their peers for various reasons and there is nothing that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UcUuJ2Y7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qwbezjdftht6zdpnan0e.png",
-  "slug": "how-to-contribute-to-open-source-with-any-skill-level-4k1a",
-  "url": "https://dev.to/mohsenkamrani/how-to-contribute-to-open-source-with-any-skill-level-4k1a",
-  "publish_date": "2022-12-17",
-  "published_at": "2022-12-17T09:24:41Z"
- },
- {
-  "id": 1300585,
-  "title": "ES6 Concepts for React JS",
-  "description": "Hello Everyone today i will discuss few concepts which you should know before moving onto React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DpN9tgu0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9dya3xy27xysswts7igr.jpg",
-  "slug": "es6-concepts-for-react-js-51ok",
-  "url": "https://dev.to/shubhamtiwari909/es6-concepts-for-react-js-51ok",
-  "publish_date": "2022-12-17",
-  "published_at": "2022-12-17T08:55:53Z"
- },
- {
-  "id": 1300439,
-  "title": "How to create a Google Maps clone using OpenStreetMap API",
-  "description": "Recently, I have been interested in making some projects such as a MERN stack Zillow clone, or a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BmRe1smV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nt6d9awizok7yy505yrq.png",
-  "slug": "how-to-create-a-google-maps-clone-using-openstreetmap-api-1gfg",
-  "url": "https://dev.to/brandonbyr4/how-to-create-a-google-maps-clone-using-openstreetmap-api-1gfg",
-  "publish_date": "2022-12-17",
-  "published_at": "2022-12-17T05:40:41Z"
- },
- {
-  "id": 1300388,
-  "title": "VS Code Extensions You Should Use As a React Developer",
-  "description": "With the rise of new tools and technologies, developers can now build websites, apps, and other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xEsQiO-e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fim9yf94jf4wyb9rjv03.png",
-  "slug": "vs-code-extensions-you-should-use-as-a-react-developer-2f6i",
-  "url": "https://dev.to/devland/vs-code-extensions-you-should-use-as-a-react-developer-2f6i",
-  "publish_date": "2022-12-17",
-  "published_at": "2022-12-17T02:12:24Z"
  }
 ]
