@@ -1,5 +1,55 @@
 [
  {
+  "id": 1419207,
+  "title": "Should AI development beyond GPT-4 be paused?",
+  "description": "Leading AI academics and industry experts - including Steve Wozniak and Elon Musk, published an open...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KvPTpFIt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aya9xzcxqjcuui6u6szm.png",
+  "slug": "should-ai-development-beyond-gpt-4-should-be-paused-5fmb",
+  "url": "https://dev.to/theaccordance/should-ai-development-beyond-gpt-4-should-be-paused-5fmb",
+  "publish_date": "2023-03-29",
+  "published_at": "2023-03-29T14:35:39Z"
+ },
+ {
+  "id": 1418149,
+  "title": "📚 34 JavaScript String Methods Cheatsheet",
+  "description": "This post assumes that you already know what strings are in JavaScript.  When we work with different...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--epddfpI7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rcsly4inqfn6bjhv0u7h.png",
+  "slug": "34-javascript-string-methods-cheatsheet-43e7",
+  "url": "https://dev.to/catherineisonline/34-javascript-string-methods-cheatsheet-43e7",
+  "publish_date": "2023-03-29",
+  "published_at": "2023-03-29T13:02:58Z"
+ },
+ {
+  "id": 1410950,
+  "title": "5 innovative dev tools to improve your workflow",
+  "description": "Are you a developer trying to improve your productivity? Are you curious about the novelties in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HTMKaKGe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ihxvvymbjid2ogoxcyq5.png",
+  "slug": "5-innovative-dev-tools-to-improve-your-workflow-1m70",
+  "url": "https://dev.to/francisthefrench/5-innovative-dev-tools-to-improve-your-workflow-1m70",
+  "publish_date": "2023-03-29",
+  "published_at": "2023-03-29T09:46:10Z"
+ },
+ {
+  "id": 1411564,
+  "title": "Build a .NET API in 3 minutes with Chat GPT 🤯",
+  "description": "Do you know that you can create a REST API in C# in less than 3 minutes? Look no further! Read on to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AZI8g0JT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80dd738u0whtnw7n94vn.png",
+  "slug": "build-a-net-api-in-3-minutes-with-chat-gpt-3oa8",
+  "url": "https://dev.to/bytehide/build-a-net-api-in-3-minutes-with-chat-gpt-3oa8",
+  "publish_date": "2023-03-29",
+  "published_at": "2023-03-29T09:00:00Z"
+ },
+ {
+  "id": 1417998,
+  "title": "10 open-source alternatives to run your businesses",
+  "description": "By choosing open-source alternatives to commercial proprietary software, it not only save money but...",
+  "cover_image": "",
+  "slug": "10-open-source-alternatives-to-run-your-businesses-193c",
+  "url": "https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c",
+  "publish_date": "2023-03-29",
+  "published_at": "2023-03-29T06:30:32Z"
+ },
+ {
   "id": 1413579,
   "title": "Use these Notion Templates to Create Your Portfolio in Seconds",
   "description": "Hey there, fellow developers! 👋  Are you looking to showcase your skills and experience to potential...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mohsenkamrani/7-best-websites-to-get-tons-of-fonts-for-free-1nce",
   "publish_date": "2022-12-20",
   "published_at": "2022-12-20T01:40:55Z"
- },
- {
-  "id": 1301807,
-  "title": "Old Photo Effect with CSS",
-  "description": "This article will review how to create an old photo effect on any picture using only CSS",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qg2JYq9z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ljopi0w9usxsrvdghnj4.png",
-  "slug": "old-photo-effect-with-css-2699",
-  "url": "https://dev.to/alvaromontoro/old-photo-effect-with-css-2699",
-  "publish_date": "2022-12-19",
-  "published_at": "2022-12-19T14:48:24Z"
- },
- {
-  "id": 1300421,
-  "title": "Understanding JavaScript Promises👩‍💻👨‍💻",
-  "description": "Promises are one of the most important features of JavaScript, they allow us to write cleaner code by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JMIHxp9w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ls3offmh5rro3l9bq66.png",
-  "slug": "understanding-javascript-promises-1hp1",
-  "url": "https://dev.to/klc/understanding-javascript-promises-1hp1",
-  "publish_date": "2022-12-19",
-  "published_at": "2022-12-19T13:00:00Z"
- },
- {
-  "id": 1296390,
-  "title": "Concepts behind modern frameworks",
-  "description": "Many beginners ask \"which framework should I learn?\" and \"How much JS or TS do I need to learn before...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e2gkls-r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/befxxkxeclwhmvhq31gn.jpg",
-  "slug": "concepts-behind-modern-frameworks-4m1g",
-  "url": "https://dev.to/lexlohr/concepts-behind-modern-frameworks-4m1g",
-  "publish_date": "2022-12-19",
-  "published_at": "2022-12-19T11:26:42Z"
- },
- {
-  "id": 1301960,
-  "title": "Improve Your Next.js App’s Performance in 10 Minutes",
-  "description": "Introduction   We all know Next.js is quite heavyweight, especially compared to Svelte Kit...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ViD7331K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/stymyy0xdpqdnuylh43q.png",
-  "slug": "improve-your-nextjs-apps-performance-in-10-minutes-1gn2",
-  "url": "https://dev.to/leduc1901/improve-your-nextjs-apps-performance-in-10-minutes-1gn2",
-  "publish_date": "2022-12-19",
-  "published_at": "2022-12-19T08:00:33Z"
- },
- {
-  "id": 1294760,
-  "title": "Make Your Video Player Float Using PiP API",
-  "description": "In this article, I am going to make your video player float by using Picture-in-Picture (PiP)...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oObkIyGI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/79tc9m377mj1aeveuur9.png",
-  "slug": "make-your-video-player-float-using-pip-api-3l72",
-  "url": "https://dev.to/j471n/make-your-video-player-float-using-pip-api-3l72",
-  "publish_date": "2022-12-19",
-  "published_at": "2022-12-19T06:49:57Z"
  }
 ]
