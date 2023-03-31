@@ -1,5 +1,55 @@
 [
  {
+  "id": 1420730,
+  "title": "Demystifying GraphQL Security: A Comprehensive Guide to Introspection",
+  "description": "This post by Antoine is easier to read on our blog  Whether or not to disable introspection has been...",
+  "cover_image": "",
+  "slug": "demystifying-graphql-security-a-comprehensive-guide-to-introspection-34fm",
+  "url": "https://dev.to/tristankalos/demystifying-graphql-security-a-comprehensive-guide-to-introspection-34fm",
+  "publish_date": "2023-03-30",
+  "published_at": "2023-03-30T18:00:33Z"
+ },
+ {
+  "id": 1419970,
+  "title": "Building a new type of testing framework",
+  "description": "Hi Community! Looking forward to hearing your thoughts on this.  Jest-opentelemetry was created out...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uJ_UDNhq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h2q16fucjwb4cla0ho05.png",
+  "slug": "building-a-new-type-of-testing-framework-553h",
+  "url": "https://dev.to/nirga/building-a-new-type-of-testing-framework-553h",
+  "publish_date": "2023-03-30",
+  "published_at": "2023-03-30T12:34:00Z"
+ },
+ {
+  "id": 1420185,
+  "title": "The Web3 Security Guide: Protecting Your Digital Assets in a Decentralized World",
+  "description": "So you've decided to go into web3, dApps, and the fascinating world of degenerate gamblers and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ogf7ETi1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s191a6cfrjtr886wpm1g.jpg",
+  "slug": "the-web3-security-guide-protecting-your-digital-assets-in-a-decentralized-world-4lgf",
+  "url": "https://dev.to/cocoandrew/the-web3-security-guide-protecting-your-digital-assets-in-a-decentralized-world-4lgf",
+  "publish_date": "2023-03-30",
+  "published_at": "2023-03-30T10:10:36Z"
+ },
+ {
+  "id": 1415501,
+  "title": "Make API product lifecycle management easy",
+  "description": "Modern APIs are often designed, built, and run as products that are consumed by both internal systems...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aCy2b5cL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b93oazho7jv4dcnj33bd.png",
+  "slug": "make-api-product-lifecycle-management-easy-3nm9",
+  "url": "https://dev.to/apisix/make-api-product-lifecycle-management-easy-3nm9",
+  "publish_date": "2023-03-30",
+  "published_at": "2023-03-30T06:18:58Z"
+ },
+ {
+  "id": 1420000,
+  "title": "Thank You For Your (Worthless) Comment!",
+  "description": "I think one of the things that defines a \"programming mindset\" is the desire to improve processes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pa-KxVAZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxogr7qacm1xscgvelus.jpg",
+  "slug": "thank-you-for-your-worthless-comment-4o67",
+  "url": "https://dev.to/bytebodger/thank-you-for-your-worthless-comment-4o67",
+  "publish_date": "2023-03-30",
+  "published_at": "2023-03-30T06:13:35Z"
+ },
+ {
   "id": 1419207,
   "title": "Should AI development beyond GPT-4 be paused?",
   "description": "Leading AI academics and industry experts - including Steve Wozniak and Elon Musk, published an open...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/diogorodrigues/reacts-new-killer-documentation-focused-only-on-functional-components-jnk",
   "publish_date": "2022-12-21",
   "published_at": "2022-12-21T01:23:03Z"
- },
- {
-  "id": 1303472,
-  "title": "Dev.to and Other Options for Sharing Your Blogs",
-  "description": "Hey there fellow developers!  If you're a regular reader of dev.to, you might be wondering if there...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vs_bEKAs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5r39nqjdagi312m618r9.png",
-  "slug": "devto-and-other-options-for-sharing-your-blogs-20ik",
-  "url": "https://dev.to/chainguns/devto-and-other-options-for-sharing-your-blogs-20ik",
-  "publish_date": "2022-12-20",
-  "published_at": "2022-12-20T09:37:08Z"
- },
- {
-  "id": 1303328,
-  "title": "Everything About Medusa - An Open-Source Alternative to Shopify",
-  "description": "Introduction   Medusa is an open-source Shopify alternative that enables users to quickly...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G8V-7kD7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c36ullfr5cbbheu0zu09.png",
-  "slug": "everything-about-medusa-an-open-source-alternative-to-shopify-4ald",
-  "url": "https://dev.to/tyaga001/everything-about-medusa-an-open-source-alternative-to-shopify-4ald",
-  "publish_date": "2022-12-20",
-  "published_at": "2022-12-20T09:00:50Z"
- },
- {
-  "id": 1298837,
-  "title": "AWS Community Builders Holidays posts 2022",
-  "description": "A very warm welcome from the AWS Community Builders to the 2022 Holiday Season!  As you might have...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qqZa_aa0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aswtm41e9dp1psrtnvze.png",
-  "slug": "aws-community-builders-holidays-posts-2022-397h",
-  "url": "https://dev.to/aws-builders/aws-community-builders-holidays-posts-2022-397h",
-  "publish_date": "2022-12-20",
-  "published_at": "2022-12-20T09:00:00Z"
- },
- {
-  "id": 1303337,
-  "title": "9 stunning web design trends to watch in 2023",
-  "description": "As we approach the end of 2022, it's time to start looking ahead to the next year in web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IvdUxVW_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/phdy20w5da5wr7y28v80.png",
-  "slug": "9-stunning-web-design-trends-to-watch-in-2023-3pbc",
-  "url": "https://dev.to/mohsenkamrani/9-stunning-web-design-trends-to-watch-in-2023-3pbc",
-  "publish_date": "2022-12-20",
-  "published_at": "2022-12-20T08:39:10Z"
- },
- {
-  "id": 1303008,
-  "title": "7 best websites to get tons of fonts for free",
-  "description": "If you're a web designer, you know that finding the right font can be crucial to the success of a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OghM7ycD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/la629m1uu1gaxxlshjae.png",
-  "slug": "7-best-websites-to-get-tons-of-fonts-for-free-1nce",
-  "url": "https://dev.to/mohsenkamrani/7-best-websites-to-get-tons-of-fonts-for-free-1nce",
-  "publish_date": "2022-12-20",
-  "published_at": "2022-12-20T01:40:55Z"
  }
 ]
