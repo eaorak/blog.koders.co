@@ -1,5 +1,55 @@
 [
  {
+  "id": 1421954,
+  "title": "Git: the basic commands every developer should know",
+  "description": "Git is useful for anyone who writes code or tracks changes to files, from web developers to app...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XMfKzh8X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iydjnux9rjv15jjqsjdm.png",
+  "slug": "git-the-basic-commands-every-developer-should-know-2m1e",
+  "url": "https://dev.to/swordheath/git-the-basic-commands-every-developer-should-know-2m1e",
+  "publish_date": "2023-04-01",
+  "published_at": "2023-04-01T13:08:02Z"
+ },
+ {
+  "id": 1422563,
+  "title": "How to Choose Your Type: TypeScript Interfaces vs Types",
+  "description": "While working with Typescript we have ever thought that if type and interface works the same then why...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jpaDlhr2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/javqoym1zvtlycerofr1.png",
+  "slug": "how-to-choose-your-type-typescript-interfaces-vs-types-51hc",
+  "url": "https://dev.to/jagroop2000/how-to-choose-your-type-typescript-interfaces-vs-types-51hc",
+  "publish_date": "2023-04-01",
+  "published_at": "2023-04-01T11:31:30Z"
+ },
+ {
+  "id": 1422059,
+  "title": "Programming is the art of trade-off",
+  "description": "No matter what programming language you are using, one common suggestion you all probably hear is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IAnupuLg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xpaaimkh4qx87diz149g.jpg",
+  "slug": "programming-is-the-art-of-trade-off-1751",
+  "url": "https://dev.to/zenstack/programming-is-the-art-of-trade-off-1751",
+  "publish_date": "2023-04-01",
+  "published_at": "2023-04-01T09:24:29Z"
+ },
+ {
+  "id": 1421757,
+  "title": "Important Announcement: All Code Must Now Be Written in Pig Latin",
+  "description": "It’s a somewhat of a tradition in the tech industry to use April Fools’ Day as an opportunity to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QKy6_xRB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f79x5kpy35bu035e5235.png",
+  "slug": "important-announcement-all-code-must-now-be-written-in-pig-latin-5b7h",
+  "url": "https://dev.to/codenewbieteam/important-announcement-all-code-must-now-be-written-in-pig-latin-5b7h",
+  "publish_date": "2023-04-01",
+  "published_at": "2023-04-01T07:00:00Z"
+ },
+ {
+  "id": 1422401,
+  "title": "Top React Data Fetching Libraries",
+  "description": "Fetching data in React using XMLHttpRequest and Fetch API is fine but require a lot of boilerplate...",
+  "cover_image": "",
+  "slug": "top-react-data-fetching-libraries-4e9e",
+  "url": "https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e",
+  "publish_date": "2023-04-01",
+  "published_at": "2023-04-01T05:35:26Z"
+ },
+ {
   "id": 1421967,
   "title": "The best AI tools for running your own blog",
   "description": "The latest trend in AI tools of different kinds (GPT especially) is all over the internet. I believe...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1",
   "publish_date": "2022-12-23",
   "published_at": "2022-12-23T02:34:43Z"
- },
- {
-  "id": 1306203,
-  "title": "Kubernetes Namespace: How To Use It To Organize And Optimize Costs",
-  "description": "When you’re running a relatively small cluster, you might get away with having no structure in place...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dmwKPw-5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kow7b6fnvn5mnmjyvcfw.png",
-  "slug": "kubernetes-namespace-how-to-use-it-to-organize-and-optimize-costs-57pc",
-  "url": "https://dev.to/castai/kubernetes-namespace-how-to-use-it-to-organize-and-optimize-costs-57pc",
-  "publish_date": "2022-12-22",
-  "published_at": "2022-12-22T16:49:48Z"
- },
- {
-  "id": 1305528,
-  "title": "7 GitHub Repositories that every front-end developer must know.",
-  "description": "Become a better front-end developer with these repositories.  GitHub is a gold mine of resources and...",
-  "cover_image": "",
-  "slug": "7-github-repositories-that-every-front-end-developer-must-know-300l",
-  "url": "https://dev.to/hy_piyush/7-github-repositories-that-every-front-end-developer-must-know-300l",
-  "publish_date": "2022-12-22",
-  "published_at": "2022-12-22T06:10:15Z"
- },
- {
-  "id": 1305526,
-  "title": "rem vs em - Everything you need to know",
-  "description": "Author: Fimber Elemuwa           Introduction   CSS is a crucial part of any website’s design, but...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LZ5pvsKQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0mt2d548cts70vzhjzdy.png",
-  "slug": "rem-vs-em-everything-you-need-to-know-5342",
-  "url": "https://dev.to/refine/rem-vs-em-everything-you-need-to-know-5342",
-  "publish_date": "2022-12-22",
-  "published_at": "2022-12-22T06:04:48Z"
- },
- {
-  "id": 1305524,
-  "title": "Why Websockets are Hard To Scale?",
-  "description": "Cover photo by fabio  Websockets provide an important feature: bidirectional communication. Which...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MeJ0-6T_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c44dw0f0iguuiho1sn5c.jpeg",
-  "slug": "why-websockets-are-hard-to-scale-1267",
-  "url": "https://dev.to/nooptoday/why-websockets-are-hard-to-scale-1267",
-  "publish_date": "2022-12-22",
-  "published_at": "2022-12-22T06:02:34Z"
- },
- {
-  "id": 1305520,
-  "title": "I wrote 1000 articles, what’s next?",
-  "description": "Most of you know me for my consistency, a golden arrow in my blog series.  I've written 1000 articles...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zXH_5bP4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ntsoum49gtsf5fkjcil4.jpg",
-  "slug": "i-wrote-1000-articles-whats-next-1187",
-  "url": "https://dev.to/dailydevtips1/i-wrote-1000-articles-whats-next-1187",
-  "publish_date": "2022-12-22",
-  "published_at": "2022-12-22T05:46:40Z"
  }
 ]
