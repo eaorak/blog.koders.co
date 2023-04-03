@@ -1,5 +1,55 @@
 [
  {
+  "id": 1423383,
+  "title": "Typescript utility types that you must know",
+  "description": "Hello everyone, Today, In this article, we will go through some beneficial and essential utility...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Me9eFubl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/06olpv8mxgyctg1lkniy.png",
+  "slug": "typescript-utility-types-that-you-must-know-4m6k",
+  "url": "https://dev.to/arafat4693/typescript-utility-types-that-you-must-know-4m6k",
+  "publish_date": "2023-04-02",
+  "published_at": "2023-04-02T14:05:22Z"
+ },
+ {
+  "id": 1415382,
+  "title": "Comparing accessibility: Hashnode vs. Dev.to",
+  "description": "A couple of week's ago I asked on Twitter about good blogging platforms for developers. Aside from...",
+  "cover_image": "",
+  "slug": "comparing-accessibility-hashnode-vs-devto-21g5",
+  "url": "https://dev.to/emmadawsondev/comparing-accessibility-hashnode-vs-devto-21g5",
+  "publish_date": "2023-04-02",
+  "published_at": "2023-04-02T07:32:07Z"
+ },
+ {
+  "id": 1423144,
+  "title": "Build Your Tech Skills: Best Udemy Courses to Take in 2023",
+  "description": "Collection of best udemy course to learn build your tech skills in 2023. Enroll in these courses and take the first step towards building a successful career in the tech industry.",
+  "cover_image": "",
+  "slug": "build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4",
+  "url": "https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4",
+  "publish_date": "2023-04-02",
+  "published_at": "2023-04-02T06:08:08Z"
+ },
+ {
+  "id": 1423119,
+  "title": "7 Tricks to take the Performance of your Website to the Moon 🚀🌙",
+  "description": "Are users complaining about your slow website? This article shares 7 tricks to take the performance...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---yvU0ECp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u07jdlpvzftyckubs52z.png",
+  "slug": "7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl",
+  "url": "https://dev.to/ruppysuppy/7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl",
+  "publish_date": "2023-04-02",
+  "published_at": "2023-04-02T05:01:53Z"
+ },
+ {
+  "id": 1423113,
+  "title": "Python CRUD Rest API, using: Django, Postgres, Docker and Docker Compose",
+  "description": "Let's create a CRUD Rest API in Python using:   Django (Python framework) Django Rest Framework (for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F0cgrxoC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wi1olem0rdcht22jot15.png",
+  "slug": "python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe",
+  "url": "https://dev.to/francescoxx/python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe",
+  "publish_date": "2023-04-02",
+  "published_at": "2023-04-02T03:28:20Z"
+ },
+ {
   "id": 1421954,
   "title": "Git: the basic commands every developer should know",
   "description": "Git is useful for anyone who writes code or tracks changes to files, from web developers to app...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tanmoysarkar/reactivity-in-javascript-2833",
   "publish_date": "2022-12-24",
   "published_at": "2022-12-24T05:20:17Z"
- },
- {
-  "id": 1307039,
-  "title": "Optimize your data fetching with React Query ⚛️",
-  "description": "I’ve been introduced to React Query at work last year and I wouldn’t be the first to say that it was...",
-  "cover_image": "",
-  "slug": "introduction-to-react-query-in-2023-537",
-  "url": "https://dev.to/christopherkade/introduction-to-react-query-in-2023-537",
-  "publish_date": "2022-12-23",
-  "published_at": "2022-12-23T14:27:02Z"
- },
- {
-  "id": 1306871,
-  "title": "RBAC vs ReBAC: When to use them",
-  "description": "RBAC and ReBAC are two well-known access control models. Although their high usage they also have...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5zUxjyeH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oh8y78nbpi8c5400n78t.png",
-  "slug": "rbac-vs-rebac-when-to-use-them-47c4",
-  "url": "https://dev.to/egeaytin/rbac-vs-rebac-when-to-use-them-47c4",
-  "publish_date": "2022-12-23",
-  "published_at": "2022-12-23T12:03:41Z"
- },
- {
-  "id": 1306038,
-  "title": "GPT-Powered chatbot over the phone - Try it, and see how it was built",
-  "description": "ChatGPT has sent the internet into a frenzy. For developers, it's just the tip of the iceberg....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W2WYIprX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1r257kvz229uu6uapl13.png",
-  "slug": "gpt-powered-chatbot-over-the-phone-try-it-and-see-how-it-was-built-33n9",
-  "url": "https://dev.to/aws-builders/gpt-powered-chatbot-over-the-phone-try-it-and-see-how-it-was-built-33n9",
-  "publish_date": "2022-12-23",
-  "published_at": "2022-12-23T07:18:21Z"
- },
- {
-  "id": 1287680,
-  "title": "7 Must Use VS Code Extensions for React Developers",
-  "description": "VS Code is one of the most used code editors for all developers community. According to the Stack...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Llpm26MW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3fdol17swhjrj37l2wei.png",
-  "slug": "7-must-use-vs-code-extensions-for-react-developers-137c",
-  "url": "https://dev.to/ruship001/7-must-use-vs-code-extensions-for-react-developers-137c",
-  "publish_date": "2022-12-23",
-  "published_at": "2022-12-23T06:10:06Z"
- },
- {
-  "id": 1285596,
-  "title": "11 Tips That Make You a Better Typescript Programmer",
-  "description": "Learning Typescript is often a rediscovery journey. Your initial impression can be pretty deceptive:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pEDfuFH---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l1x8yg5jxz0ond3yh2fb.png",
-  "slug": "11-tips-that-help-you-become-a-better-typescript-programmer-4ca1",
-  "url": "https://dev.to/zenstack/11-tips-that-help-you-become-a-better-typescript-programmer-4ca1",
-  "publish_date": "2022-12-23",
-  "published_at": "2022-12-23T02:34:43Z"
  }
 ]
