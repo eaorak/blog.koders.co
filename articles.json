@@ -1,5 +1,55 @@
 [
  {
+  "id": 1288860,
+  "title": "How I improve my skills in Typescript #2 : Mapped Type",
+  "description": "I will share with us some tips that improved my skill in Typescript ! Today we will learn how to use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0WsYhLNW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wm61z1bvf52exhxik3cp.png",
+  "slug": "how-i-improve-my-skills-in-typescript-2-mapped-type-dag",
+  "url": "https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-2-mapped-type-dag",
+  "publish_date": "2023-04-03",
+  "published_at": "2023-04-03T14:43:34Z"
+ },
+ {
+  "id": 1424164,
+  "title": "I made Express faster than Fastify (100x faster JSON)",
+  "description": "Outline   Hello, I am developer of typia, and studying fastify in nowadays.   During the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A-7bI37K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ui4ati8jtbsuudcw9adb.png",
+  "slug": "i-made-express-faster-than-fastify-4h8g",
+  "url": "https://dev.to/samchon/i-made-express-faster-than-fastify-4h8g",
+  "publish_date": "2023-04-03",
+  "published_at": "2023-04-03T13:09:55Z"
+ },
+ {
+  "id": 1424137,
+  "title": "Meme Monday 🐌",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zUwwuG7y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h6snvafhnfxkgl0t5l3q.png",
+  "slug": "meme-monday-3nd9",
+  "url": "https://dev.to/ben/meme-monday-3nd9",
+  "publish_date": "2023-04-03",
+  "published_at": "2023-04-03T12:24:54Z"
+ },
+ {
+  "id": 1423960,
+  "title": "Our AI-Powered TechCrunch Clone Went Viral, This Is How We Built It",
+  "description": "We decided to build something cool for April Fools' Day a few days ago. We wanted to make it fun,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XQZkeOLX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4f654tur2mmtoj1bbwyo.png",
+  "slug": "our-ai-powered-techcrunch-clone-went-viral-this-is-how-we-built-it-495d",
+  "url": "https://dev.to/appwrite/our-ai-powered-techcrunch-clone-went-viral-this-is-how-we-built-it-495d",
+  "publish_date": "2023-04-03",
+  "published_at": "2023-04-03T08:57:11Z"
+ },
+ {
+  "id": 1423876,
+  "title": "10 Trending Node.js Libraries and Frameworks to Boost Your Web Development",
+  "description": "A Guide to Enhance Your Node.js Development Experience with the Latest Libraries and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tGUZi0qk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nhc8sc48qh04yxjz5q1h.png",
+  "slug": "10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5",
+  "url": "https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5",
+  "publish_date": "2023-04-03",
+  "published_at": "2023-04-03T05:55:37Z"
+ },
+ {
   "id": 1423383,
   "title": "Typescript utility types that you must know",
   "description": "Hello everyone, Today, In this article, we will go through some beneficial and essential utility...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cppshane/finally-a-free-and-open-source-resume-builder-without-watermarks-or-limitations-2gbm",
   "publish_date": "2022-12-25",
   "published_at": "2022-12-25T03:54:00Z"
- },
- {
-  "id": 1307725,
-  "title": "The Ultimate guide of all 24 CSS Viewport Units",
-  "description": "You've probably heard of the different units used in CSS, but you may not have understood them all —...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9J4E4yDT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nv6fe7im3xls295x3s48.png",
-  "slug": "the-ultimate-guide-of-all-24-css-viewport-units-3dhk",
-  "url": "https://dev.to/arafat4693/the-ultimate-guide-of-all-24-css-viewport-units-3dhk",
-  "publish_date": "2022-12-24",
-  "published_at": "2022-12-24T14:33:47Z"
- },
- {
-  "id": 1307539,
-  "title": "What's wrong with code in 2022? 🤷🏻‍♀️",
-  "description": "I use one service from time to time: I need to upload some files there (the name of the service does...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jYqPzEnS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8oaufgp39uhljq24mxl9.jpg",
-  "slug": "whats-wrong-with-code-in-2022-3nbd",
-  "url": "https://dev.to/mariamarsh/whats-wrong-with-code-in-2022-3nbd",
-  "publish_date": "2022-12-24",
-  "published_at": "2022-12-24T10:05:51Z"
- },
- {
-  "id": 1307672,
-  "title": "Responsive Web Designs with CSS",
-  "description": "Hello everyone, today I'll talk about some often asked questions about responsive web design....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--adUnZjts--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qnl5dypnh7x97x0s6sd1.png",
-  "slug": "responsive-web-designs-with-css-241k",
-  "url": "https://dev.to/shubhamtiwari909/responsive-web-designs-with-css-241k",
-  "publish_date": "2022-12-24",
-  "published_at": "2022-12-24T08:47:21Z"
- },
- {
-  "id": 1307578,
-  "title": "Hello React, Goodbye useEffect (I Hope)",
-  "description": "In this article, I will show you how to use React to replace useEffect in most cases.  I've been...",
-  "cover_image": "",
-  "slug": "hello-react-goodbye-useeffect-i-hope-4mf1",
-  "url": "https://dev.to/imbios/hello-react-goodbye-useeffect-i-hope-4mf1",
-  "publish_date": "2022-12-24",
-  "published_at": "2022-12-24T07:00:49Z"
- },
- {
-  "id": 1307548,
-  "title": "Reactivity in Javascript",
-  "description": "👀 What is Reactivity?   It's the ability of a piece of code to automatically update or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0Ao4pOsA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo7qegw7cmwrkvo02yl7.png",
-  "slug": "reactivity-in-javascript-2833",
-  "url": "https://dev.to/tanmoysarkar/reactivity-in-javascript-2833",
-  "publish_date": "2022-12-24",
-  "published_at": "2022-12-24T05:20:17Z"
  }
 ]
