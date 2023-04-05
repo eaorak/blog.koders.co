@@ -1,5 +1,55 @@
 [
  {
+  "id": 1425864,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-5gdm",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5gdm",
+  "publish_date": "2023-04-04",
+  "published_at": "2023-04-04T14:57:40Z"
+ },
+ {
+  "id": 1425666,
+  "title": "Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide",
+  "description": "Introduction   In the world of Git, it's not uncommon for developers to find themselves in a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3r7VdzK0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zou5w1m4d5cneo09ztll.jpg",
+  "slug": "reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k",
+  "url": "https://dev.to/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k",
+  "publish_date": "2023-04-04",
+  "published_at": "2023-04-04T11:10:38Z"
+ },
+ {
+  "id": 1416311,
+  "title": "GitLive adds support for more branching strategies including GitFlow",
+  "description": "You can now specify which branches are not feature branches  and deserve special treatment in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4qQqKKX4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m4gexwuzuznmibg3xz98.png",
+  "slug": "gitlive-adds-support-for-more-branching-strategies-including-gitflow-70g",
+  "url": "https://dev.to/gitlive/gitlive-adds-support-for-more-branching-strategies-including-gitflow-70g",
+  "publish_date": "2023-04-04",
+  "published_at": "2023-04-04T08:15:46Z"
+ },
+ {
+  "id": 1425451,
+  "title": "How to Integrate PayPal with HTML, CSS and Javascript",
+  "description": "Have you ever visited a website and then wondered how transactions take place online, either in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SB5_DbIE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xyu1ic1f549wiy8t88tb.png",
+  "slug": "how-to-integrate-paypal-with-html-css-and-javascript-2mnb",
+  "url": "https://dev.to/evansifyke/how-to-integrate-paypal-with-html-css-and-javascript-2mnb",
+  "publish_date": "2023-04-04",
+  "published_at": "2023-04-04T06:43:31Z"
+ },
+ {
+  "id": 1425437,
+  "title": "7 API Tools for REST Developers and Testers",
+  "description": "These are the best tool for designing, developing, testing and documenting REST API and RESTful services",
+  "cover_image": "",
+  "slug": "7-api-tools-for-rest-developers-and-testers-n67",
+  "url": "https://dev.to/javinpaul/7-api-tools-for-rest-developers-and-testers-n67",
+  "publish_date": "2023-04-04",
+  "published_at": "2023-04-04T06:16:56Z"
+ },
+ {
   "id": 1288860,
   "title": "How I improve my skills in Typescript #2 : Mapped Type",
   "description": "I will share with us some tips that improved my skill in Typescript ! Today we will learn how to use...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gloriamaldonado/when-will-shopify-support-ga4-1aca",
   "publish_date": "2022-12-26",
   "published_at": "2022-12-26T06:15:58Z"
- },
- {
-  "id": 1308306,
-  "title": "Top 10 software architecture pattern",
-  "description": "Software architecture patterns are commonly used design approaches that help developers create...",
-  "cover_image": "",
-  "slug": "top-10-software-architecture-pattern-4ngd",
-  "url": "https://dev.to/giasuddin90/top-10-software-architecture-pattern-4ngd",
-  "publish_date": "2022-12-25",
-  "published_at": "2022-12-25T10:01:29Z"
- },
- {
-  "id": 1308300,
-  "title": "Chrome Extensions of the Month - December 2022",
-  "description": "In this article, I will suggest to you some of the best extensions you need to install for better...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DQJz5p7I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g1732qtxsgmyhm98d7ao.png",
-  "slug": "chrome-extensions-of-the-month-december-2022-29hp",
-  "url": "https://dev.to/j471n/chrome-extensions-of-the-month-december-2022-29hp",
-  "publish_date": "2022-12-25",
-  "published_at": "2022-12-25T09:49:09Z"
- },
- {
-  "id": 1308223,
-  "title": "Kubernetes: Whats, Whys, and Hows of Kubernetes with Demonstration",
-  "description": "📍 Why we need Kubernetes?   🙂 When It comes to heavy traffic on our website then we need to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KiyvA6Yb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yqpvkuafo1iffcyp3ais.jpg",
-  "slug": "kubernetes-whats-whys-and-hows-of-kubernetes-with-demonstration-28dn",
-  "url": "https://dev.to/lovepreetsingh/kubernetes-whats-whys-and-hows-of-kubernetes-with-demonstration-28dn",
-  "publish_date": "2022-12-25",
-  "published_at": "2022-12-25T07:37:45Z"
- },
- {
-  "id": 1308191,
-  "title": "7 free Tools for the Modern Web Developers of 2023",
-  "description": "Want smooth sailing on your Web Development journey in 2023? Check out these free tools that the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AuQl_vz---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whms85xj936c018gbyw3.png",
-  "slug": "7-free-tools-for-the-modern-web-developers-of-2023-4lhh",
-  "url": "https://dev.to/ruppysuppy/7-free-tools-for-the-modern-web-developers-of-2023-4lhh",
-  "publish_date": "2022-12-25",
-  "published_at": "2022-12-25T06:17:00Z"
- },
- {
-  "id": 1308127,
-  "title": "Finally, a Free (and Open Source) Resume Builder Without Watermarks or Limitations",
-  "description": "I have wasted more time than I'd like to admit looking for a resume builder. All of the \"free\" ones...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oS9NEXQ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.shaneduffy.io/shaneduffy/reactive-resume-banner.png",
-  "slug": "finally-a-free-and-open-source-resume-builder-without-watermarks-or-limitations-2gbm",
-  "url": "https://dev.to/cppshane/finally-a-free-and-open-source-resume-builder-without-watermarks-or-limitations-2gbm",
-  "publish_date": "2022-12-25",
-  "published_at": "2022-12-25T03:54:00Z"
  }
 ]
