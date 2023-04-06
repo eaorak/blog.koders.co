@@ -1,5 +1,55 @@
 [
  {
+  "id": 1415269,
+  "title": "Mastering Django: Best Practices for Writing High-Quality Web Applications",
+  "description": "Django is a popular web framework for building high-quality web applications. It provides a robust...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qjxH6EUG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ycqqj5wtnixv60uogxd9.png",
+  "slug": "mastering-django-best-practices-for-writing-high-quality-web-applications-2mf8",
+  "url": "https://dev.to/pratyushcode/mastering-django-best-practices-for-writing-high-quality-web-applications-2mf8",
+  "publish_date": "2023-04-05",
+  "published_at": "2023-04-05T10:10:29Z"
+ },
+ {
+  "id": 1425132,
+  "title": "Would You Rather Work in a Small Startup or a Large Corporation?",
+  "description": "If you had to choose, would you rather work in a small startup environment with a high degree of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g3k5FHuX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjxcgs7ogk65iswcjykt.png",
+  "slug": "would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn",
+  "url": "https://dev.to/codenewbieteam/would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn",
+  "publish_date": "2023-04-05",
+  "published_at": "2023-04-05T07:00:00Z"
+ },
+ {
+  "id": 1426787,
+  "title": "Store JWT Token with Coroutines",
+  "description": "JWT (JSON Web Token) has become a popular standard for implementing stateless authentication in...",
+  "cover_image": "",
+  "slug": "store-jwt-token-with-coroutines-4bn5",
+  "url": "https://dev.to/charlesetieve/store-jwt-token-with-coroutines-4bn5",
+  "publish_date": "2023-04-05",
+  "published_at": "2023-04-05T06:28:18Z"
+ },
+ {
+  "id": 1426717,
+  "title": "What is prop drilling in React?",
+  "description": "Yo ho, my hearties!!!  Prop drilling is the process of passing down data or state through multiple...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pPLTw0Jz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7c4rnqwgjp5dw3n2vrk.png",
+  "slug": "what-is-prop-drilling-in-react-3kol",
+  "url": "https://dev.to/codeofrelevancy/what-is-prop-drilling-in-react-3kol",
+  "publish_date": "2023-04-05",
+  "published_at": "2023-04-05T05:28:18Z"
+ },
+ {
+  "id": 1426698,
+  "title": "10 Cool CodePen Demos (March 23)",
+  "description": "A collection of 10 cool and exciting front-end demos shared on CodePen during March 2023",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mF7wN9de--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tfw3mg1mfnyng0ca29pp.png",
+  "slug": "10-cool-codepen-demos-march-23-484p",
+  "url": "https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p",
+  "publish_date": "2023-04-05",
+  "published_at": "2023-04-05T02:26:39Z"
+ },
+ {
   "id": 1425864,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pavanbelagatti/devops-trends-for-developers-in-2023-345b",
   "publish_date": "2022-12-27",
   "published_at": "2022-12-27T06:08:02Z"
- },
- {
-  "id": 1309057,
-  "title": "Master Notifications With ChatGPT, React and NodeJS 🧨",
-  "description": "TLDR;   In this tutorial, you'll learn how to build a web application that allows you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yziQTiQd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3e4piohjvmncf766h7k0.jpeg",
-  "slug": "master-notifications-with-chatgpt-react-and-nodejs-1ea9",
-  "url": "https://dev.to/novu/master-notifications-with-chatgpt-react-and-nodejs-1ea9",
-  "publish_date": "2022-12-26",
-  "published_at": "2022-12-26T16:37:24Z"
- },
- {
-  "id": 1309061,
-  "title": "Meme Monday 🎄",
-  "description": "It's Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space!...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OlGaQs46--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jasqz311ksp76rgsmr81.png",
-  "slug": "meme-monday-4gei",
-  "url": "https://dev.to/ben/meme-monday-4gei",
-  "publish_date": "2022-12-26",
-  "published_at": "2022-12-26T13:38:37Z"
- },
- {
-  "id": 1309048,
-  "title": "How to Make Most Beautiful eCommerce Website",
-  "description": "How to Make Most Beautiful eCommerce Website for Free. Can't decide how to build your E-commerce...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TMWcoxKf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7mtyydakjbema6r5mr79.png",
-  "slug": "how-to-make-most-beautiful-ecommerce-website-19he",
-  "url": "https://dev.to/codewithsadee/how-to-make-most-beautiful-ecommerce-website-19he",
-  "publish_date": "2022-12-26",
-  "published_at": "2022-12-26T13:02:50Z"
- },
- {
-  "id": 1305762,
-  "title": "Understanding Docker: part 37 – Content Trust",
-  "description": "Serie of sketchnotes about Docker. Explaining in a visual way Docker principles.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pQE03z_S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9146u7vcjk6dq754fk90.jpg",
-  "slug": "understanding-docker-part-37-content-trust-18n3",
-  "url": "https://dev.to/aurelievache/understanding-docker-part-37-content-trust-18n3",
-  "publish_date": "2022-12-26",
-  "published_at": "2022-12-26T09:20:12Z"
- },
- {
-  "id": 1308240,
-  "title": "When Will Shopify Support GA4?",
-  "description": "It's no secret that Shopify is one of the most popular e-commerce platforms out there, but one thing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pkotlbxa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/frv9epgwy20lv7yv53xf.png",
-  "slug": "when-will-shopify-support-ga4-1aca",
-  "url": "https://dev.to/gloriamaldonado/when-will-shopify-support-ga4-1aca",
-  "publish_date": "2022-12-26",
-  "published_at": "2022-12-26T06:15:58Z"
  }
 ]
