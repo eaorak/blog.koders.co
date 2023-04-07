@@ -1,5 +1,55 @@
 [
  {
+  "id": 1427888,
+  "title": "Communication in a Microservice Architecture",
+  "description": "What Is Microservices Architecture?   Microservices architecture is a software system...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yykepEM1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/communication-in-a-microservice-architecture/hero.png",
+  "slug": "communication-in-a-microservice-architecture-5ga",
+  "url": "https://dev.to/amplication/communication-in-a-microservice-architecture-5ga",
+  "publish_date": "2023-04-06",
+  "published_at": "2023-04-06T14:52:35Z"
+ },
+ {
+  "id": 1427880,
+  "title": "Awesome VS Code Extensions for 2023",
+  "description": "Introduction   VS code is one of the best code editors and IDE. I have used many code...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OeiOaGA6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x3j9vld160a66aagkxvp.png",
+  "slug": "awesome-vs-code-extensions-for-2023-2i1b",
+  "url": "https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b",
+  "publish_date": "2023-04-06",
+  "published_at": "2023-04-06T11:30:00Z"
+ },
+ {
+  "id": 1428104,
+  "title": "The Page Visibility API: Improve User Experience and Performance",
+  "description": "I am always excited to share insights about lesser-known yet powerful APIs in the modern web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nh55yC_z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nxwvwk75geg8vxmvowl9.jpg",
+  "slug": "the-page-visibility-api-improve-user-experience-and-performance-451",
+  "url": "https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451",
+  "publish_date": "2023-04-06",
+  "published_at": "2023-04-06T10:02:26Z"
+ },
+ {
+  "id": 1427930,
+  "title": "Let's discover: docker init command",
+  "description": "Discover a new command, or tool or technology in short and in video",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--se9nRXlS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x5ktqmx6n40ek08c1eu8.png",
+  "slug": "lets-discover-docker-init-command-3cef",
+  "url": "https://dev.to/aurelievache/lets-discover-docker-init-command-3cef",
+  "publish_date": "2023-04-06",
+  "published_at": "2023-04-06T08:46:50Z"
+ },
+ {
+  "id": 1427559,
+  "title": "4 VSCode extensions I use when developing with Tailwind",
+  "description": "TL;DR   All these extensions are available in this VSCode extension pack TailwindCSS Kit    ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j5swcseh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ri0eehp7sa9xkzolvfn.png",
+  "slug": "4-vscode-extensions-i-use-for-tailwind-2him",
+  "url": "https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him",
+  "publish_date": "2023-04-06",
+  "published_at": "2023-04-06T01:34:41Z"
+ },
+ {
   "id": 1415269,
   "title": "Mastering Django: Best Practices for Writing High-Quality Web Applications",
   "description": "Django is a popular web framework for building high-quality web applications. It provides a robust...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ismailkamil/review-10-top-api-mock-tools-57f7",
   "publish_date": "2022-12-28",
   "published_at": "2022-12-28T06:37:44Z"
- },
- {
-  "id": 1310021,
-  "title": "Skills you should mention in your resume for an SDE Role",
-  "description": "First let’s understand what is SDE ?  A Software Development Engineer (SDE) is responsible for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--An4XXe8H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yetxh9yo1gflgjqappid.png",
-  "slug": "skills-you-should-mention-in-your-resume-for-sde-role-9bi",
-  "url": "https://dev.to/avinash201199/skills-you-should-mention-in-your-resume-for-sde-role-9bi",
-  "publish_date": "2022-12-27",
-  "published_at": "2022-12-27T13:44:06Z"
- },
- {
-  "id": 1308455,
-  "title": "How to solve coding issues using ChatGPT",
-  "description": "The Issue I need to solve   Simply put, I need to check if a node package is installed in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R6iP681C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cwcdwhetreuteefr05j4.jpg",
-  "slug": "how-to-solve-coding-issues-using-chatgpt-15dd",
-  "url": "https://dev.to/zenstack/how-to-solve-coding-issues-using-chatgpt-15dd",
-  "publish_date": "2022-12-27",
-  "published_at": "2022-12-27T11:43:48Z"
- },
- {
-  "id": 1309796,
-  "title": "Drag and Drop File using Javascript",
-  "description": "Hello everyone, today I'll show you how to use HTML, TailwindCSS, and Javascript to construct a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6NBqUfiO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yzaf91bmpjxxtxp0ssz3.png",
-  "slug": "drag-and-drop-file-using-javascript-2h99",
-  "url": "https://dev.to/shubhamtiwari909/drag-and-drop-file-using-javascript-2h99",
-  "publish_date": "2022-12-27",
-  "published_at": "2022-12-27T08:39:51Z"
- },
- {
-  "id": 1309757,
-  "title": "Why Cookie is preferable compared to localStorage when it comes to authentication",
-  "description": "Introduction   We know about JWT, or JSON Web Token, as an industry standard RFC 7519 method...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y_Ia3tJT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m1ueghd9gszphcm7xvw3.jpeg",
-  "slug": "why-cookie-is-preferable-compared-to-localstorage-when-it-comes-to-authentication-48mb",
-  "url": "https://dev.to/leduc1901/why-cookie-is-preferable-compared-to-localstorage-when-it-comes-to-authentication-48mb",
-  "publish_date": "2022-12-27",
-  "published_at": "2022-12-27T07:49:49Z"
- },
- {
-  "id": 1309630,
-  "title": "DevOps Trends for Developers in 2023",
-  "description": "Nowadays, every organization is considered a software organization. With the rise in cloud-native...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wb3kCXz4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsxq5thiiy68v3dbour1.png",
-  "slug": "devops-trends-for-developers-in-2023-345b",
-  "url": "https://dev.to/pavanbelagatti/devops-trends-for-developers-in-2023-345b",
-  "publish_date": "2022-12-27",
-  "published_at": "2022-12-27T06:08:02Z"
  }
 ]
