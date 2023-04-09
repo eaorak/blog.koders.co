@@ -1,5 +1,55 @@
 [
  {
+  "id": 1430367,
+  "title": "The Productivity apps I use in 2023",
+  "description": "Cassidy's current \"stack\" of task-tracking, calendar, and note-taking apps",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0G7IQXSz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1503551723145-6c040742065b-v2%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1740%26q%3D80",
+  "slug": "the-productivity-apps-i-use-in-2023-3m8l",
+  "url": "https://dev.to/cassidoo/the-productivity-apps-i-use-in-2023-3m8l",
+  "publish_date": "2023-04-08",
+  "published_at": "2023-04-08T19:49:24Z"
+ },
+ {
+  "id": 1430123,
+  "title": "AI Color Palette Generator",
+  "description": "I just launched a simple color palette generator using AI. Simply input what kind of color scheme...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jt-Pr95L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a1omdtjovmnezfea2bm5.png",
+  "slug": "ai-color-palette-generator-1fn5",
+  "url": "https://dev.to/rarestoma/ai-color-palette-generator-1fn5",
+  "publish_date": "2023-04-08",
+  "published_at": "2023-04-08T10:35:10Z"
+ },
+ {
+  "id": 1424073,
+  "title": "Building a RESTful API with Node.js and Express",
+  "description": "Overview   Building an API is an essential part of developing modern applications. APIs are...",
+  "cover_image": "",
+  "slug": "building-a-restful-api-with-nodejs-and-express-2pp8",
+  "url": "https://dev.to/kingsley/building-a-restful-api-with-nodejs-and-express-2pp8",
+  "publish_date": "2023-04-08",
+  "published_at": "2023-04-08T07:42:43Z"
+ },
+ {
+  "id": 1427878,
+  "title": "Kubernetes GitOps: A Beginner's Guide with a Hands-On Tutorial",
+  "description": "Kubernetes has become the talk of the town for many years now.  It has revolutionized the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PdFrfL0C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/adtqg2ubzidaac56rfz5.png",
+  "slug": "kubernetes-gitops-a-beginners-guide-with-a-hands-on-tutorial-56de",
+  "url": "https://dev.to/pavanbelagatti/kubernetes-gitops-a-beginners-guide-with-a-hands-on-tutorial-56de",
+  "publish_date": "2023-04-08",
+  "published_at": "2023-04-08T05:49:34Z"
+ },
+ {
+  "id": 1429959,
+  "title": "Drawing an Egg with CSS",
+  "description": "Enjoy some time decorating CSS Easter eggs this weekend",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OTWApGwp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1f0af0i7qsywkmm19jnr.png",
+  "slug": "drawing-an-egg-with-css-m17",
+  "url": "https://dev.to/alvaromontoro/drawing-an-egg-with-css-m17",
+  "publish_date": "2023-04-08",
+  "published_at": "2023-04-08T04:56:22Z"
+ },
+ {
   "id": 1428663,
   "title": "Make a Difference on DEV as a Tag Moderator",
   "description": "Make Your Mark on the DEV Community Experience by Becoming a Tag Moderator   Tag moderators...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/yuridevat/did-i-become-a-better-programmer-in-2022-2a51",
   "publish_date": "2022-12-30",
   "published_at": "2022-12-30T07:00:00Z"
- },
- {
-  "id": 1311541,
-  "title": "JavaScript Frameworks - Heading into 2023",
-  "description": "The wonderful thing about glimpsing into the future is that the path is never completely clear. We...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y5E1X-e_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g9ca1yzh1ujvw0blr5ys.jpg",
-  "slug": "javascript-frameworks-heading-into-2023-nln",
-  "url": "https://dev.to/this-is-learning/javascript-frameworks-heading-into-2023-nln",
-  "publish_date": "2022-12-29",
-  "published_at": "2022-12-29T20:09:40Z"
- },
- {
-  "id": 1310375,
-  "title": "My Hackerrank Internship Experience",
-  "description": "This article is about my internship at Hackerrank.  HackerRank is a technology hiring platform that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NvUYTQgp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3ce1ek297eknia15sd7.jpg",
-  "slug": "my-hackerrank-internship-experience-2d3i",
-  "url": "https://dev.to/kitarp29/my-hackerrank-internship-experience-2d3i",
-  "publish_date": "2022-12-29",
-  "published_at": "2022-12-29T11:50:15Z"
- },
- {
-  "id": 1308485,
-  "title": "React Hooks vs. Redux",
-  "description": "In developing and application, Data management is an important concept used by developers to minimize...",
-  "cover_image": "",
-  "slug": "react-hooks-vs-redux-51p7",
-  "url": "https://dev.to/qbentil/react-hooks-vs-redux-51p7",
-  "publish_date": "2022-12-29",
-  "published_at": "2022-12-29T10:29:15Z"
- },
- {
-  "id": 1311660,
-  "title": "Git in 10 mins",
-  "description": "Ah, back after a veryyyy long time.Well, guess I could be more regular now. Okay then back to the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c8VTJzIL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pki75vs0e3fuwsscurxd.png",
-  "slug": "git-in-10-mins-519g",
-  "url": "https://dev.to/dumboprogrammer/git-in-10-mins-519g",
-  "publish_date": "2022-12-29",
-  "published_at": "2022-12-29T08:47:33Z"
- },
- {
-  "id": 1311483,
-  "title": "How to fix the most common mistakes in Git - save this for when you need it",
-  "description": "We all know how awesome Git is in tracking changes, simplifying collaboration between multiple...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mn6Rg7q---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o9dufved1aqijm0e3htb.jpeg",
-  "slug": "how-to-fix-the-most-common-mistakes-in-git-learn-it-by-breaking-it-286m",
-  "url": "https://dev.to/mohsenkamrani/how-to-fix-the-most-common-mistakes-in-git-learn-it-by-breaking-it-286m",
-  "publish_date": "2022-12-29",
-  "published_at": "2022-12-29T04:33:12Z"
  }
 ]
