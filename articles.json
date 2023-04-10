@@ -1,5 +1,55 @@
 [
  {
+  "id": 1430887,
+  "title": "Must do pattern questions : Part-1 [ Javascript]",
+  "description": "The main motive of learning programming is to gain the ability to instruct computers to perform tasks...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3hPtADTT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eg2l09ecktwey4q59pxm.png",
+  "slug": "must-do-pattern-questions-part-1-javascript-32oj",
+  "url": "https://dev.to/jagroop2000/must-do-pattern-questions-part-1-javascript-32oj",
+  "publish_date": "2023-04-09",
+  "published_at": "2023-04-09T15:24:04Z"
+ },
+ {
+  "id": 1430809,
+  "title": "How to Build Your First GitHub App with JavaScript and GitHub API: Easy and Fast",
+  "description": "In this video, we'll show you how to build a simple, fast, and easy web application using the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vUOkeJc---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3if2kxx85qlfxofw0lqc.png",
+  "slug": "how-to-build-your-first-github-app-with-javascript-and-github-api-easy-and-fast-50jc",
+  "url": "https://dev.to/codewithsadee/how-to-build-your-first-github-app-with-javascript-and-github-api-easy-and-fast-50jc",
+  "publish_date": "2023-04-09",
+  "published_at": "2023-04-09T14:08:09Z"
+ },
+ {
+  "id": 1429363,
+  "title": "Developers Journey to AWS Lambda",
+  "description": "AWS Lambda has a surprise learning curve. You create a new function, write your code, and it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x20zgpRw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/avfbxowjhx13x4sbx3cq.jpg",
+  "slug": "developers-journey-to-aws-lambda-16ag",
+  "url": "https://dev.to/aws-builders/developers-journey-to-aws-lambda-16ag",
+  "publish_date": "2023-04-09",
+  "published_at": "2023-04-09T13:25:56Z"
+ },
+ {
+  "id": 1430684,
+  "title": "ZenStack: Start with Why",
+  "description": "I still recall the day that my co-founder approached me with his plans and asked if I wanted to join...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aoMAUmz8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eecyylnfrhovdmjkhv4c.png",
+  "slug": "zenstack-start-with-why-2c2m",
+  "url": "https://dev.to/zenstack/zenstack-start-with-why-2c2m",
+  "publish_date": "2023-04-09",
+  "published_at": "2023-04-09T11:03:44Z"
+ },
+ {
+  "id": 1414784,
+  "title": "200 Free AI Tools - Unleashing the Power of AI",
+  "description": "Welcome to the exciting world of AI! The tools we have compiled for you represent a new frontier in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IMK1eJ-v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vf944i0emm9mgflc5whk.jpg",
+  "slug": "200-free-ai-tools-unleashing-the-power-of-ai-eb0",
+  "url": "https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0",
+  "publish_date": "2023-04-09",
+  "published_at": "2023-04-09T10:55:06Z"
+ },
+ {
   "id": 1430367,
   "title": "The Productivity apps I use in 2023",
   "description": "Cassidy's current \"stack\" of task-tracking, calendar, and note-taking apps",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gustavupp/a-complete-guide-to-javascripts-reduce-function-with-real-world-examples-5h6k",
   "publish_date": "2022-12-31",
   "published_at": "2022-12-31T03:55:20Z"
- },
- {
-  "id": 1313075,
-  "title": "Why Do We Need Authorization and Authentication? 🔑",
-  "description": "We live in an era where digital data is becoming an increasingly valuable asset, and with that comes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jHb94lon--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6gkp7h2hjoet3jb440jk.PNG",
-  "slug": "why-do-we-need-authorization-and-authentication-13d9",
-  "url": "https://dev.to/mariamarsh/why-do-we-need-authorization-and-authentication-13d9",
-  "publish_date": "2022-12-30",
-  "published_at": "2022-12-30T18:43:35Z"
- },
- {
-  "id": 1313030,
-  "title": "EKS Cluster Autoscaler: 6 Best Practices For Effective Autoscaling",
-  "description": "We all love Kubernetes for its autoscaling capabilities and enjoy them when running clusters in a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xe1ANmiX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zj79btmdppc9mpaksqdy.png",
-  "slug": "eks-cluster-autoscaler-6-best-practices-for-effective-autoscaling-4fnf",
-  "url": "https://dev.to/castai/eks-cluster-autoscaler-6-best-practices-for-effective-autoscaling-4fnf",
-  "publish_date": "2022-12-30",
-  "published_at": "2022-12-30T17:24:42Z"
- },
- {
-  "id": 1313000,
-  "title": "We’ve moved to Fosstodon 🦣",
-  "description": "Back in November, the DEV Team announced that we had begun exploring the Fediverse:                 ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bLWg8ZF1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n4f27ra5gybvv1hz23ie.png",
-  "slug": "weve-moved-to-fosstodon-53e1",
-  "url": "https://dev.to/devteam/weve-moved-to-fosstodon-53e1",
-  "publish_date": "2022-12-30",
-  "published_at": "2022-12-30T16:39:34Z"
- },
- {
-  "id": 1255109,
-  "title": "How To Containerize a node.js Application",
-  "description": "Introduction   It can be painful to run your application in multiple environments (for...",
-  "cover_image": "",
-  "slug": "how-to-containerize-a-nodejs-application-314j",
-  "url": "https://dev.to/kaykleinvogel/how-to-containerize-a-nodejs-application-314j",
-  "publish_date": "2022-12-30",
-  "published_at": "2022-12-30T08:53:20Z"
- },
- {
-  "id": 1305746,
-  "title": "Did I become a better programmer in 2022?",
-  "description": "In January 2022, I wrote a post about how I wanted to become a better programmer by the end of the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a2z9MzaF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/01vt5itb0m76qzk3qrvt.png",
-  "slug": "did-i-become-a-better-programmer-in-2022-2a51",
-  "url": "https://dev.to/yuridevat/did-i-become-a-better-programmer-in-2022-2a51",
-  "publish_date": "2022-12-30",
-  "published_at": "2022-12-30T07:00:00Z"
  }
 ]
