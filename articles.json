@@ -1,5 +1,55 @@
 [
  {
+  "id": 1431713,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TryAkAyh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbkohhu5ky3pozb2j1cy.png",
+  "slug": "meme-monday-41ha",
+  "url": "https://dev.to/ben/meme-monday-41ha",
+  "publish_date": "2023-04-10",
+  "published_at": "2023-04-10T15:36:40Z"
+ },
+ {
+  "id": 1425312,
+  "title": "Building a new shift-left approach for alerting",
+  "description": "Hi Community! Looking forward to hearing your thoughts on this!  Keep is an open-source alerting CLI...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BoonfvFo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7nbq2d2jh6xand6dft3a.png",
+  "slug": "building-a-new-shift-left-approach-for-alerting-3pj",
+  "url": "https://dev.to/keephq/building-a-new-shift-left-approach-for-alerting-3pj",
+  "publish_date": "2023-04-10",
+  "published_at": "2023-04-10T15:19:50Z"
+ },
+ {
+  "id": 1429136,
+  "title": "The benefits of using ReactJS in 2023",
+  "description": "ReactJS is a popular JavaScript library used to build user interfaces, while vanilla HTML/CSS is the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jVFTbv73--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/357g6do28t31s685v929.png",
+  "slug": "the-benefits-of-using-reactjs-in-2023-1hfd",
+  "url": "https://dev.to/fredy/the-benefits-of-using-reactjs-in-2023-1hfd",
+  "publish_date": "2023-04-10",
+  "published_at": "2023-04-10T13:13:27Z"
+ },
+ {
+  "id": 1431372,
+  "title": "Building Pagination in React with React Paginate",
+  "description": "Introduction   Pagination is a crucial component in any web application, as it allows for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4_pxGvZg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cnqj5ubav6tbr7z2aof8.png",
+  "slug": "building-pagination-in-react-with-react-paginate-4nol",
+  "url": "https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol",
+  "publish_date": "2023-04-10",
+  "published_at": "2023-04-10T11:30:00Z"
+ },
+ {
+  "id": 1430575,
+  "title": "5 Books and Courses to Learn Object Oriented Programming in Depth",
+  "description": "Unleash Your OOP Skills: Top Picks for Books and Courses to Master Object Oriented Programming Principles, Design Patterns, and Best Practices ",
+  "cover_image": "",
+  "slug": "5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff",
+  "url": "https://dev.to/javinpaul/5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff",
+  "publish_date": "2023-04-10",
+  "published_at": "2023-04-10T02:45:55Z"
+ },
+ {
   "id": 1430887,
   "title": "Must do pattern questions : Part-1 [ Javascript]",
   "description": "The main motive of learning programming is to gain the ability to instruct computers to perform tasks...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad",
   "publish_date": "2023-01-01",
   "published_at": "2023-01-01T02:05:03Z"
- },
- {
-  "id": 1313638,
-  "title": "How to create navigation menu with HTML CSS step by step | web design tutorial | HTML CSS tutorial",
-  "description": "Hello!! Creative People,  Today I want to share with you HTML CSS Design (Navigation Menu).  I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VnDLYl_0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ukvenadhrzi7ne4a6zu.jpg",
-  "slug": "how-to-create-navigation-menu-with-html-css-step-by-step-web-design-tutorial-html-css-tutorial-44bh",
-  "url": "https://dev.to/hojjatbandani/how-to-create-navigation-menu-with-html-css-step-by-step-web-design-tutorial-html-css-tutorial-44bh",
-  "publish_date": "2022-12-31",
-  "published_at": "2022-12-31T14:30:41Z"
- },
- {
-  "id": 1313614,
-  "title": "React Cheatsheet for 2023 ✍️",
-  "description": "Welcome to my React cheat sheet! In this article, I'll cover all the common concepts and techniques...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xj7nz4W6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fdjohdc39ndtrrpbdc23.png",
-  "slug": "react-cheatsheet-for-2023-14bd",
-  "url": "https://dev.to/majdsufian/react-cheatsheet-for-2023-14bd",
-  "publish_date": "2022-12-31",
-  "published_at": "2022-12-31T13:12:27Z"
- },
- {
-  "id": 1312145,
-  "title": "Typescript: Types",
-  "description": "In this article, we are going to learn about how we will use typescript to make sure that variable...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CNhxD--f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tq5rkjmj3j34p4ksruie.png",
-  "slug": "typescript-types-g4b",
-  "url": "https://dev.to/j471n/typescript-types-g4b",
-  "publish_date": "2022-12-31",
-  "published_at": "2022-12-31T12:30:00Z"
- },
- {
-  "id": 1313510,
-  "title": "The Best SvelteKit 1.0 YouTube Tutorials – January 2023 🤓 🎓",
-  "description": "SvelteKit 1.0 has been released.  So besides older tutorials as listed in my older post (The Best...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NL8wj4t7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6zcdaumx353e9omm9ts.jpg",
-  "slug": "the-best-sveltekit-10-youtube-tutorials-january-2023-22c6",
-  "url": "https://dev.to/kvetoslavnovak/the-best-sveltekit-10-youtube-tutorials-january-2023-22c6",
-  "publish_date": "2022-12-31",
-  "published_at": "2022-12-31T10:28:21Z"
- },
- {
-  "id": 1310360,
-  "title": "A complete guide to JavaScript's .reduce() function (with real-world examples)",
-  "description": "In this guide we are going to cover:   What is the .reduce() function? Creating our version of the...",
-  "cover_image": "",
-  "slug": "a-complete-guide-to-javascripts-reduce-function-with-real-world-examples-5h6k",
-  "url": "https://dev.to/gustavupp/a-complete-guide-to-javascripts-reduce-function-with-real-world-examples-5h6k",
-  "publish_date": "2022-12-31",
-  "published_at": "2022-12-31T03:55:20Z"
  }
 ]
