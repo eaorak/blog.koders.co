@@ -1,5 +1,55 @@
 [
  {
+  "id": 1432757,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-316h",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h",
+  "publish_date": "2023-04-11",
+  "published_at": "2023-04-11T16:53:04Z"
+ },
+ {
+  "id": 1432714,
+  "title": "Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation",
+  "description": "Introduction   Static site generation is a powerful tool to improve the application's speed,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vhktvFMd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ix4n2t9vorbi3i1gcj7u.jpg",
+  "slug": "unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j",
+  "url": "https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j",
+  "publish_date": "2023-04-11",
+  "published_at": "2023-04-11T14:48:11Z"
+ },
+ {
+  "id": 1411068,
+  "title": "Mastering Web Accessibility: A Guide for Frontend Developers",
+  "description": "Table of Contents   I. Introduction  II. What is web accessibility?  III. Why is web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hyunbNwf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nuy7ebelbpy146pzskkw.png",
+  "slug": "mastering-web-accessibility-a-guide-for-frontend-developers-48ad",
+  "url": "https://dev.to/bellatrick/mastering-web-accessibility-a-guide-for-frontend-developers-48ad",
+  "publish_date": "2023-04-11",
+  "published_at": "2023-04-11T11:07:20Z"
+ },
+ {
+  "id": 1432258,
+  "title": "Javascript Object #6",
+  "description": "Welcome All,  Till our Last Post we've seen only pretty basics in Javascript.From now we are going to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vx4g3fkQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3wdsk6s0ngoxf1ovkrhz.png",
+  "slug": "javascript-object-6-2a71",
+  "url": "https://dev.to/samr/javascript-object-6-2a71",
+  "publish_date": "2023-04-11",
+  "published_at": "2023-04-11T04:22:59Z"
+ },
+ {
+  "id": 1430336,
+  "title": "Entendendo code, no-code e low-code na automação",
+  "description": "Você sabia que existem essas três formas de criar aplicações para automação de tarefas? Vamos...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P8Crbv0g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cdfy25wxri1g70bz1sct.png",
+  "slug": "entendendo-code-no-code-e-low-code-na-automacao-3bcd",
+  "url": "https://dev.to/morgannadev/entendendo-code-no-code-e-low-code-na-automacao-3bcd",
+  "publish_date": "2023-04-11",
+  "published_at": "2023-04-11T02:08:32Z"
+ },
+ {
   "id": 1431713,
   "title": "Meme Monday",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lovepreetsingh/microservices-vs-monolithic-architecture-a-practical-approach-4m06",
   "publish_date": "2023-01-02",
   "published_at": "2023-01-02T06:02:46Z"
- },
- {
-  "id": 1314312,
-  "title": "💅🏻If you're beautiful, follow this JS Code Style",
-  "description": "Summary 📑    Soft tabs with two spaces Never use semicolons Always use single quotes Keep...",
-  "cover_image": "",
-  "slug": "if-youre-beautiful-follow-this-js-code-style-3m99",
-  "url": "https://dev.to/pulkitsingh/if-youre-beautiful-follow-this-js-code-style-3m99",
-  "publish_date": "2023-01-01",
-  "published_at": "2023-01-01T17:07:39Z"
- },
- {
-  "id": 1314216,
-  "title": "How Python can help web developers",
-  "description": "As a web developer, you're no stranger to the never-ending quest for tools and technologies that can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xBZUGBTo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/argnl8dmij50uff3k0iw.png",
-  "slug": "how-python-can-help-web-developers-d87",
-  "url": "https://dev.to/chainguns/how-python-can-help-web-developers-d87",
-  "publish_date": "2023-01-01",
-  "published_at": "2023-01-01T13:54:59Z"
- },
- {
-  "id": 1314083,
-  "title": "Complete guide to ESLint, Prettier, husky and lint-staged",
-  "description": "Detailed guide on how to install ESLint, Prettier, husky and lint-staged ✍🏻           Why do you need...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KyQMteKc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0mnmjambdxfic9tjygkk.png",
-  "slug": "complete-guide-to-eslint-prettier-husky-and-lint-staged-fh9",
-  "url": "https://dev.to/shashwatnautiyal/complete-guide-to-eslint-prettier-husky-and-lint-staged-fh9",
-  "publish_date": "2023-01-01",
-  "published_at": "2023-01-01T10:05:38Z"
- },
- {
-  "id": 1314051,
-  "title": "How to Optimize Your Website for Mobile Devices",
-  "description": "Best practices for mobile optimization   When optimizing your website for mobile devices,...",
-  "cover_image": "",
-  "slug": "how-to-optimize-your-website-for-mobile-devices-1a2e",
-  "url": "https://dev.to/ariellun/how-to-optimize-your-website-for-mobile-devices-1a2e",
-  "publish_date": "2023-01-01",
-  "published_at": "2023-01-01T07:33:10Z"
- },
- {
-  "id": 1313954,
-  "title": "Become an Animation Master with Anime.js - Setting up the Environment and Basic Animations",
-  "description": "Animations, if used wisely, can take the user experience of your websites to a whole different level,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KeiNitdm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uonlixldu1v8sumxq7tg.png",
-  "slug": "become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad",
-  "url": "https://dev.to/mohsenkamrani/become-an-animation-master-with-animejs-part-1-setting-up-the-environment-and-basic-animations-1pad",
-  "publish_date": "2023-01-01",
-  "published_at": "2023-01-01T02:05:03Z"
  }
 ]
