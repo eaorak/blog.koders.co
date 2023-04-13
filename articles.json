@@ -1,5 +1,55 @@
 [
  {
+  "id": 1433637,
+  "title": "New Operators to Query Documents More Efficiently",
+  "description": "Query operators are essential to search and retrieve data from Appwrite. To allow more advanced...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3fRxj3lA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8phae7xsw60kcf3mfxrb.png",
+  "slug": "new-operators-to-query-documents-more-efficiently-5gab",
+  "url": "https://dev.to/appwrite/new-operators-to-query-documents-more-efficiently-5gab",
+  "publish_date": "2023-04-12",
+  "published_at": "2023-04-12T13:13:26Z"
+ },
+ {
+  "id": 1432211,
+  "title": "Simplify Your Data Management With Relationships",
+  "description": "Managing collections of data is an essential task for any application, but it can quickly become...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VQc-jhVR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f6lllgws8ubfb6gmfp3l.png",
+  "slug": "simplify-your-data-management-with-relationships-11ma",
+  "url": "https://dev.to/appwrite/simplify-your-data-management-with-relationships-11ma",
+  "publish_date": "2023-04-12",
+  "published_at": "2023-04-12T10:50:58Z"
+ },
+ {
+  "id": 1431951,
+  "title": "Introducing Password Dictionary In Appwrite: A New Layer Of Security",
+  "description": "The internet has undeniably brought a myriad of benefits to our lives, making it easier than ever to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XPt5zvu3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z7nmg834ra4nfm033mhp.png",
+  "slug": "introducing-password-dictionary-in-appwrite-a-new-layer-of-security-2356",
+  "url": "https://dev.to/appwrite/introducing-password-dictionary-in-appwrite-a-new-layer-of-security-2356",
+  "publish_date": "2023-04-12",
+  "published_at": "2023-04-12T09:45:28Z"
+ },
+ {
+  "id": 1432773,
+  "title": "Join Celebrations! Appwrite 1.3 Ships Relationships",
+  "description": "Our latest release Appwrite 1.3 includes the most requested feature, Database Relationships 🎉 While...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b5YcXA_d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7it2ftp8wdd32clprqas.png",
+  "slug": "join-celebrations-appwrite-13-ships-relationships-57fc",
+  "url": "https://dev.to/appwrite/join-celebrations-appwrite-13-ships-relationships-57fc",
+  "publish_date": "2023-04-12",
+  "published_at": "2023-04-12T09:33:48Z"
+ },
+ {
+  "id": 1432775,
+  "title": "The Rear-Vue Mirror: My Open-Source Origin Story",
+  "description": "My short career in open source looks like a success story. I get paid to do what I love: build open...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NLWO-Fus--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ks2jk1mbc6z5qlrhg3ut.png",
+  "slug": "the-rear-vue-mirror-my-open-source-origin-story-2i3j",
+  "url": "https://dev.to/this-is-learning/the-rear-vue-mirror-my-open-source-origin-story-2i3j",
+  "publish_date": "2023-04-12",
+  "published_at": "2023-04-12T05:52:51Z"
+ },
+ {
   "id": 1432757,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/blackgirlbytes/how-to-speak-at-a-conference-when-youre-scared-of-public-speaking-562f",
   "publish_date": "2023-01-03",
   "published_at": "2023-01-03T10:01:10Z"
- },
- {
-  "id": 1315054,
-  "title": "17 Compelling Reasons To Start Ditching TypeScript Now.",
-  "description": "If you're anything like me, you're probably using Typescript because you were forced to. Your company...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kMVcTaYL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rdyo2ubjrh5fnd03t3qy.png",
-  "slug": "17-compelling-reasons-to-start-ditching-typescript-now-249b",
-  "url": "https://dev.to/wiseai/17-compelling-reasons-to-start-ditching-typescript-now-249b",
-  "publish_date": "2023-01-02",
-  "published_at": "2023-01-02T16:19:06Z"
- },
- {
-  "id": 1312653,
-  "title": "Finally a clean and easy way to add Table of Contents to dev.to articles 🤩",
-  "description": "Contrary to other platforms, dev.to doesn't have built-in support for Table of Contents (TOCs). Many...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CFwNfPUz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i4m0qxb4qhnejuikl7ts.png",
-  "slug": "finally-a-clean-and-easy-way-to-add-table-of-contents-to-devto-articles-5g6n",
-  "url": "https://dev.to/derlin/finally-a-clean-and-easy-way-to-add-table-of-contents-to-devto-articles-5g6n",
-  "publish_date": "2023-01-02",
-  "published_at": "2023-01-02T13:45:43Z"
- },
- {
-  "id": 1296337,
-  "title": "Help, my Angular bundle is growing!",
-  "description": "When building an Angular application, things are usually pretty smooth. However, as time goes by and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kg-Kgcbf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ibe1smm8r7mjoy22rk1.jpg",
-  "slug": "help-my-angular-bundle-is-growing-1jkj",
-  "url": "https://dev.to/this-is-angular/help-my-angular-bundle-is-growing-1jkj",
-  "publish_date": "2023-01-02",
-  "published_at": "2023-01-02T11:00:00Z"
- },
- {
-  "id": 1185146,
-  "title": "JS Functional Concepts: Pipe and Compose",
-  "description": "Function piping and composition are concepts from functional programming that of course are possible...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rJpmWDss--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0zygkonmbnl46mrtktu.jpg",
-  "slug": "js-functional-concepts-pipe-and-compose-1mho",
-  "url": "https://dev.to/joelbonetr/js-functional-concepts-pipe-and-compose-1mho",
-  "publish_date": "2023-01-02",
-  "published_at": "2023-01-02T10:23:34Z"
- },
- {
-  "id": 1314663,
-  "title": "Microservices vs Monolithic Architecture: A Practical Approach",
-  "description": "📍 Monolithic and Its issues   🙂 When we start learning backend development and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H4IKqhOy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cxmsxgc0zoghkvebczc1.png",
-  "slug": "microservices-vs-monolithic-architecture-a-practical-approach-4m06",
-  "url": "https://dev.to/lovepreetsingh/microservices-vs-monolithic-architecture-a-practical-approach-4m06",
-  "publish_date": "2023-01-02",
-  "published_at": "2023-01-02T06:02:46Z"
  }
 ]
