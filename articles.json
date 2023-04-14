@@ -1,5 +1,55 @@
 [
  {
+  "id": 1429459,
+  "title": "Take It Slow \u0026 Say Hello: A Sloth’s Guide to Making Friends Online",
+  "description": "Introducing yourself to a new online community is exciting, but it can also be intimidating. Here are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y5v-axNz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vmnthwox330d9zptn9ur.png",
+  "slug": "take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61",
+  "url": "https://dev.to/codenewbieteam/take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61",
+  "publish_date": "2023-04-13",
+  "published_at": "2023-04-13T17:14:27Z"
+ },
+ {
+  "id": 1434380,
+  "title": "Request Tracing in Node.js",
+  "description": "Achieving observability into Node.js applications with request tracing.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gv-GZj60--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/request-tracing-in-nodejs/hero.png",
+  "slug": "request-tracing-in-nodejs-3k57",
+  "url": "https://dev.to/amplication/request-tracing-in-nodejs-3k57",
+  "publish_date": "2023-04-13",
+  "published_at": "2023-04-13T15:27:54Z"
+ },
+ {
+  "id": 1413847,
+  "title": "No execution logs on AWS Express workflow? 🤔 📖",
+  "description": "How to have logs for an Express Workflows on AWS Step Functions with the CDK",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1xOTdSe0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/MaximeVivier/Articles/master/blog-posts/step-function-learnings/assets/banner.png",
+  "slug": "no-execution-logs-on-aws-express-workflow-240p",
+  "url": "https://dev.to/kumo/no-execution-logs-on-aws-express-workflow-240p",
+  "publish_date": "2023-04-13",
+  "published_at": "2023-04-13T14:26:01Z"
+ },
+ {
+  "id": 1430898,
+  "title": "The importance of rel=canonical for content writers",
+  "description": "The subject of canonical reference has been touched thousand times. But since some content writers...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5p8z4wmA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjqmtjbeht908bnkbjpj.jpg",
+  "slug": "the-importance-of-relcanonical-for-content-writers-4o8f",
+  "url": "https://dev.to/nfrankel/the-importance-of-relcanonical-for-content-writers-4o8f",
+  "publish_date": "2023-04-13",
+  "published_at": "2023-04-13T09:03:00Z"
+ },
+ {
+  "id": 1434379,
+  "title": "Costly CSS Properties and How to Optimize Them",
+  "description": "Introduction   Some CSS properties are more costly than others in terms of performance. When...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s----0hNPBr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8t8gjch65bjodl9jfvwa.jpg",
+  "slug": "costly-css-properties-and-how-to-optimize-them-3bmd",
+  "url": "https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd",
+  "publish_date": "2023-04-13",
+  "published_at": "2023-04-13T04:10:29Z"
+ },
+ {
   "id": 1433637,
   "title": "New Operators to Query Documents More Efficiently",
   "description": "Query operators are essential to search and retrieve data from Appwrite. To allow more advanced...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/j471n/typescript-functions-4nkp",
   "publish_date": "2023-01-04",
   "published_at": "2023-01-04T02:38:29Z"
- },
- {
-  "id": 1316209,
-  "title": "What new badges would you like to see on DEV?",
-  "description": "It's a new year and for many of us that means new goals, resolutions, and general self...",
-  "cover_image": "",
-  "slug": "what-new-badges-would-you-like-to-see-on-dev-35m5",
-  "url": "https://dev.to/devteam/what-new-badges-would-you-like-to-see-on-dev-35m5",
-  "publish_date": "2023-01-03",
-  "published_at": "2023-01-03T15:16:21Z"
- },
- {
-  "id": 1316003,
-  "title": "Incremental compilation for Crystal - Part 1",
-  "description": "Thoughts about how to introduce modular compilation for Crystal",
-  "cover_image": "",
-  "slug": "incremental-compilation-for-crystal-part-1-414k",
-  "url": "https://dev.to/asterite/incremental-compilation-for-crystal-part-1-414k",
-  "publish_date": "2023-01-03",
-  "published_at": "2023-01-03T14:26:35Z"
- },
- {
-  "id": 1293228,
-  "title": "My Experience as a Dev Chat speaker at AWS re:Invent 2022",
-  "description": "At the last AWS reInvent 2022, I was able to speak in Dev Chat under the Community track for the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j_pGWylK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t10laz0llnc9yi8f8nqv.jpg",
-  "slug": "my-experience-as-a-dev-chat-speaker-at-aws-reinvent-2022-380e",
-  "url": "https://dev.to/aws-builders/my-experience-as-a-dev-chat-speaker-at-aws-reinvent-2022-380e",
-  "publish_date": "2023-01-03",
-  "published_at": "2023-01-03T12:13:55Z"
- },
- {
-  "id": 1315982,
-  "title": "6 ways we improved our documentation in 2022",
-  "description": "At Medusa, we strive to provide developers with the best experience. Documentation plays a huge role...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y8omFwa8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mci24iknua7zjexacvj.jpg",
-  "slug": "6-ways-we-improved-our-documentation-in-2022-1hnp",
-  "url": "https://dev.to/medusajs/6-ways-we-improved-our-documentation-in-2022-1hnp",
-  "publish_date": "2023-01-03",
-  "published_at": "2023-01-03T12:00:06Z"
- },
- {
-  "id": 1315949,
-  "title": "How to speak at conferences when you’re scared of public speaking",
-  "description": "In 2022, I did something I never thought I would do – stand on a stage and speak to a large audience....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FDq8X-r7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vn1mx8u2nmrcw0f6l25v.png",
-  "slug": "how-to-speak-at-a-conference-when-youre-scared-of-public-speaking-562f",
-  "url": "https://dev.to/blackgirlbytes/how-to-speak-at-a-conference-when-youre-scared-of-public-speaking-562f",
-  "publish_date": "2023-01-03",
-  "published_at": "2023-01-03T10:01:10Z"
  }
 ]
