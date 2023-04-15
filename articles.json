@@ -1,5 +1,55 @@
 [
  {
+  "id": 1436070,
+  "title": "How to Create a Good Pull Request Template (and Why You Should Add Gifs)",
+  "description": "Learn how to create a great Pull Request template that improves collaboration between contributors and maintainers. Plus, find out why adding gifs can make the PR experience more fun and engaging.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f8hpdedL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tj0baromkd72zhsfbcf0.png",
+  "slug": "how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l",
+  "url": "https://dev.to/opensauced/how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l",
+  "publish_date": "2023-04-14",
+  "published_at": "2023-04-14T17:39:14Z"
+ },
+ {
+  "id": 1435965,
+  "title": "Benchmarking Rust for Serverless",
+  "description": "Let's start with two very important questions:  (1)  Why should I care to benchmark Rust since it's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jQ8K8lLT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j3dk7sl1oamv9khwzuwt.png",
+  "slug": "benchmarking-rust-for-serverless-36ck",
+  "url": "https://dev.to/aws-builders/benchmarking-rust-for-serverless-36ck",
+  "publish_date": "2023-04-14",
+  "published_at": "2023-04-14T14:35:19Z"
+ },
+ {
+  "id": 1435758,
+  "title": "CSS Tip: learn CSS the easy way!",
+  "description": "Do you want to learn CSS? Are you lost in all the courses, tutorials, and online stuff? The code is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--13MgBgSJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jy8dkrmzp77n2h3e2ika.jpg",
+  "slug": "css-tip-learn-css-the-easy-way-im4",
+  "url": "https://dev.to/this-is-learning/css-tip-learn-css-the-easy-way-im4",
+  "publish_date": "2023-04-14",
+  "published_at": "2023-04-14T12:38:42Z"
+ },
+ {
+  "id": 1435585,
+  "title": "Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects",
+  "description": "TL;DR (Too Long; Didn't Read) summary for the Docker blog:   Docker Unleashed: A Comprehensive Guide...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2-JK-ZBz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z72nzkxkmql4uaipnuid.jpg",
+  "slug": "docker-unleashed-commands-basics-learning-careers-2gnk",
+  "url": "https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk",
+  "publish_date": "2023-04-14",
+  "published_at": "2023-04-14T08:52:29Z"
+ },
+ {
+  "id": 1435371,
+  "title": "My Favorite Python Books and Courses for Beginners",
+  "description": "My favorite books and online courses to learn Coding with Python programming language.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fvx98-_q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wwfpc2ahlvnlx73wf8zh.png",
+  "slug": "my-favorite-python-books-and-courses-for-beginners-7gb",
+  "url": "https://dev.to/javinpaul/my-favorite-python-books-and-courses-for-beginners-7gb",
+  "publish_date": "2023-04-14",
+  "published_at": "2023-04-14T02:42:14Z"
+ },
+ {
   "id": 1429459,
   "title": "Take It Slow \u0026 Say Hello: A Sloth’s Guide to Making Friends Online",
   "description": "Introducing yourself to a new online community is exciting, but it can also be intimidating. Here are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nasirovelchin/every-software-developer-should-write-a-blog-4622",
   "publish_date": "2023-01-05",
   "published_at": "2023-01-05T03:12:27Z"
- },
- {
-  "id": 1317341,
-  "title": "What is cURL and why is it important in API testing?🤖",
-  "description": "Today’s post is devoted to one of the inevitable parts of API testing – cURL.   cURL (client URL) –...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RL86btyO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7o5qpw5s8ovoytxew1cz.jpg",
-  "slug": "what-is-curl-and-why-is-it-important-in-api-testing-416m",
-  "url": "https://dev.to/mariamarsh/what-is-curl-and-why-is-it-important-in-api-testing-416m",
-  "publish_date": "2023-01-04",
-  "published_at": "2023-01-04T16:40:35Z"
- },
- {
-  "id": 1315110,
-  "title": "Building a Video Player in React",
-  "description": "Introduction   React has been the most popular JavaScript framework for building frontend....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SlYW5lof--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aedigt25isywmi8jqqo8.png",
-  "slug": "building-a-video-player-in-react-1mlf",
-  "url": "https://dev.to/documatic/building-a-video-player-in-react-1mlf",
-  "publish_date": "2023-01-04",
-  "published_at": "2023-01-04T11:30:00Z"
- },
- {
-  "id": 1316126,
-  "title": "How to Fetch Data in React with useSWR",
-  "description": "Author: Michael Hungbo           Introduction   Data is unquestionably an important component of any...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wdpe_dX0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s9gh7pfpmo0qxq6ccpj2.png",
-  "slug": "how-to-fetch-data-in-react-with-useswr-3dbe",
-  "url": "https://dev.to/refine/how-to-fetch-data-in-react-with-useswr-3dbe",
-  "publish_date": "2023-01-04",
-  "published_at": "2023-01-04T11:14:52Z"
- },
- {
-  "id": 1315931,
-  "title": "Database 101: Data Consistency for Beginners",
-  "description": "Table Of Contents    1. Prologue 2. There's much more possibilities than MySQL  3. SQL vs...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--biG5hRf1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8659ysbyk339lqnh6c1q.png",
-  "slug": "database-101-why-so-interesting-1344",
-  "url": "https://dev.to/danielhe4rt/database-101-why-so-interesting-1344",
-  "publish_date": "2023-01-04",
-  "published_at": "2023-01-04T03:43:12Z"
- },
- {
-  "id": 1312535,
-  "title": "Typescript: Functions",
-  "description": "In this article, we are going learn about How you can use typescript in functions. And How to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GII6xLp6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/feqt2i67hwxq8ewhnsol.png",
-  "slug": "typescript-functions-4nkp",
-  "url": "https://dev.to/j471n/typescript-functions-4nkp",
-  "publish_date": "2023-01-04",
-  "published_at": "2023-01-04T02:38:29Z"
  }
 ]
