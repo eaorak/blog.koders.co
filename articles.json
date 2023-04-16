@@ -1,5 +1,55 @@
 [
  {
+  "id": 1435751,
+  "title": "30 Free CSS Loading Animation for your website in 2023",
+  "description": "We will use Lottie files   Lottie files Effortlessly bring the smallest, free, ready-to-use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w0wfLSSy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgj63jriey8v7iguculi.gif",
+  "slug": "30-free-css-loading-animation-for-your-website-in-2023-1j1a",
+  "url": "https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a",
+  "publish_date": "2023-04-15",
+  "published_at": "2023-04-15T16:24:09Z"
+ },
+ {
+  "id": 1436769,
+  "title": "Setting up Git Bash / MINGW / MSYS2 on Windows",
+  "description": "An installation instruction for Git Bash / MINGW / MSYS2 on Windows with some notes on solving common...",
+  "cover_image": "",
+  "slug": "setting-up-git-bash-mingw-msys2-on-windows-24cc",
+  "url": "https://dev.to/pascallandau/setting-up-git-bash-mingw-msys2-on-windows-24cc",
+  "publish_date": "2023-04-15",
+  "published_at": "2023-04-15T12:25:38Z"
+ },
+ {
+  "id": 1436579,
+  "title": "Javascript Object #10",
+  "description": "So far in our long Javascript Object post,we have seen about Javascript Object creation, what is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X8pfj1tB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wgy27tiofyd1805mz2s3.jpg",
+  "slug": "javascript-object-10-2c9g",
+  "url": "https://dev.to/samr/javascript-object-10-2c9g",
+  "publish_date": "2023-04-15",
+  "published_at": "2023-04-15T06:21:40Z"
+ },
+ {
+  "id": 1436573,
+  "title": "Blazor WebAssembly vs. Blazor Server: Which One Should You Choose?",
+  "description": "Blazor, the open-source web framework from Microsoft, allows developers to build web applications...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pDh3w23P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8apvzb5wjojce27edau9.png",
+  "slug": "blazor-webassembly-vs-blazor-server-which-one-should-you-choose-350d",
+  "url": "https://dev.to/bhavin9920/blazor-webassembly-vs-blazor-server-which-one-should-you-choose-350d",
+  "publish_date": "2023-04-15",
+  "published_at": "2023-04-15T05:51:55Z"
+ },
+ {
+  "id": 1436448,
+  "title": "Three ways to set headers with Netlify and Astro",
+  "description": "If you need to set headers in your Astro site to deal with CORS or custom requests, here's a few ways how!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fZxsH_HJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1495020689067-958852a7765e%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1738%26q%3D80",
+  "slug": "three-ways-to-set-headers-with-netlify-and-astro-1iib",
+  "url": "https://dev.to/cassidoo/three-ways-to-set-headers-with-netlify-and-astro-1iib",
+  "publish_date": "2023-04-15",
+  "published_at": "2023-04-15T01:57:10Z"
+ },
+ {
   "id": 1436070,
   "title": "How to Create a Good Pull Request Template (and Why You Should Add Gifs)",
   "description": "Learn how to create a great Pull Request template that improves collaboration between contributors and maintainers. Plus, find out why adding gifs can make the PR experience more fun and engaging.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zenstack/what-are-people-building-with-webassembly-2eh4",
   "publish_date": "2023-01-06",
   "published_at": "2023-01-06T02:51:32Z"
- },
- {
-  "id": 1318368,
-  "title": "How I Built a Food Ecommerce Restaurant with Next.js, Paystack and Medusa",
-  "description": "Food restaurants remain one of the best lucrative businesses around the world. They get patronage on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z9W5-meA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3sil1mnmq3fouxe3jq60.jpg",
-  "slug": "how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0",
-  "url": "https://dev.to/medusajs/how-i-built-a-food-ecommerce-restaurant-with-nextjs-paystack-and-medusa-2oh0",
-  "publish_date": "2023-01-05",
-  "published_at": "2023-01-05T14:21:41Z"
- },
- {
-  "id": 1318243,
-  "title": "Kubernetes Control Plane: 10 Tips for Airtight K8s Security",
-  "description": "In a recent report, 94% of respondents said they experienced a Kubernetes-related security incident....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dv1oU4QD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i0eta4zi64sjezplu93r.png",
-  "slug": "kubernetes-control-plane-10-tips-for-airtight-k8s-security-77d",
-  "url": "https://dev.to/castai/kubernetes-control-plane-10-tips-for-airtight-k8s-security-77d",
-  "publish_date": "2023-01-05",
-  "published_at": "2023-01-05T10:27:23Z"
- },
- {
-  "id": 1316435,
-  "title": "Become a Frontend web developer in 2023 - A step by step guide",
-  "description": "This is the roadmap that I wish I had when I was starting out to become a frontend developer I came...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bp69PeDg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wdmj4neyy079rsu4sl03.png",
-  "slug": "become-a-frontend-web-developer-in-2023-a-step-by-step-guide-m24",
-  "url": "https://dev.to/shubhicodes/become-a-frontend-web-developer-in-2023-a-step-by-step-guide-m24",
-  "publish_date": "2023-01-05",
-  "published_at": "2023-01-05T08:52:58Z"
- },
- {
-  "id": 1318008,
-  "title": "How to use Material UI Card Component",
-  "description": "Author: Doro Onome           Introduction   Material UI cards are an important part of modern web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r9u53S6K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ubhocflp5owz1gt8ry2u.png",
-  "slug": "how-to-use-material-ui-card-component-2l2k",
-  "url": "https://dev.to/refine/how-to-use-material-ui-card-component-2l2k",
-  "publish_date": "2023-01-05",
-  "published_at": "2023-01-05T06:35:06Z"
- },
- {
-  "id": 1317843,
-  "title": "Every Software Developer should write a blog",
-  "description": "As a software engineer it’s been a couple of years that I’m saying to myself that I’m going to start...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V4zsX44d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1a5yyvhcgvhpw84eokpy.PNG",
-  "slug": "every-software-developer-should-write-a-blog-4622",
-  "url": "https://dev.to/nasirovelchin/every-software-developer-should-write-a-blog-4622",
-  "publish_date": "2023-01-05",
-  "published_at": "2023-01-05T03:12:27Z"
  }
 ]
