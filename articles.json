@@ -1,5 +1,55 @@
 [
  {
+  "id": 1438665,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HGcbn-TZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qanqat0vbzv9o49cs7r4.png",
+  "slug": "meme-monday-4j21",
+  "url": "https://dev.to/ben/meme-monday-4j21",
+  "publish_date": "2023-04-17",
+  "published_at": "2023-04-17T12:48:08Z"
+ },
+ {
+  "id": 1438542,
+  "title": "C# 12 is Coming! 3 Features that will Blow your Mind",
+  "description": "Oh, get ready for some good news! Microsoft’s gone and added a bunch of shiny new features to C# 12...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B_UPZ4Kv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r9rlb3k9uweuj45d7pe.png",
+  "slug": "c-12-is-coming-3-features-that-will-blow-your-mind-2o0c",
+  "url": "https://dev.to/bytehide/c-12-is-coming-3-features-that-will-blow-your-mind-2o0c",
+  "publish_date": "2023-04-17",
+  "published_at": "2023-04-17T11:25:58Z"
+ },
+ {
+  "id": 1438304,
+  "title": "CI Pipelines for dockerized PHP Apps with Github \u0026 Gitlab [Tutorial Part 7]",
+  "description": "How to setup CI (Continuous Integration) pipelines for dockerized PHP applications with Github...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgb6eHRH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.pascallandau.com/img/ci-pipeline-docker-php-gitlab-github/yt-preview-image.png",
+  "slug": "ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2",
+  "url": "https://dev.to/pascallandau/ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2",
+  "publish_date": "2023-04-17",
+  "published_at": "2023-04-17T07:17:19Z"
+ },
+ {
+  "id": 1429026,
+  "title": "Dynamic routing based on user credentials with API Gateway",
+  "description": "Dynamic routing based on JWT Claim with Apache APISIX and Okta   Dynamic routing is a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PsK_haeq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/glixe9h4v58ae3o8s3fz.png",
+  "slug": "dynamic-routing-based-on-user-credentials-with-api-gateway-4j7a",
+  "url": "https://dev.to/apisix/dynamic-routing-based-on-user-credentials-with-api-gateway-4j7a",
+  "publish_date": "2023-04-17",
+  "published_at": "2023-04-17T05:33:00Z"
+ },
+ {
+  "id": 1429007,
+  "title": "Build a Real-time Chat Application with Socket.io and Node.js [With Automated Testing]",
+  "description": "In this tutorial, let's learn how to use Socket.IO and Node.js and create a simple chat application....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---VVUZTez--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f58aklivn8pnxgl5hya9.png",
+  "slug": "build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8",
+  "url": "https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8",
+  "publish_date": "2023-04-17",
+  "published_at": "2023-04-17T05:18:26Z"
+ },
+ {
   "id": 1437692,
   "title": "How To Use MVVM in React Using Hooks and TypeScript",
   "description": "Software applications often start out simple and quickly grows big. No matter how small one try to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/7-amazing-github-repositories-every-developer-should-follow-in-2023-53i8",
   "publish_date": "2023-01-08",
   "published_at": "2023-01-08T05:40:48Z"
- },
- {
-  "id": 1320820,
-  "title": "Top 5 cryptocurrency APIs for developers ©️",
-  "description": "Since the creation of a Bitcoin in 2009, interest in cryptocurrencies has increased drastically and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9H4KRBFS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5l2336rl0va6jdrrxsyc.jpg",
-  "slug": "top-5-cryptocurrency-apis-for-developers-c-8i",
-  "url": "https://dev.to/mariamarsh/top-5-cryptocurrency-apis-for-developers-c-8i",
-  "publish_date": "2023-01-07",
-  "published_at": "2023-01-07T17:03:45Z"
- },
- {
-  "id": 1310381,
-  "title": "Revolutionizing the Web with WebAssembly: A Comprehensive Guide",
-  "description": "WebAssembly (Wasm) is a low-level binary format that is designed to be faster and more efficient than...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QtYeq0sC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3aesxzaizq9cqycn70wp.png",
-  "slug": "revolutionizing-the-web-with-webassembly-a-comprehensive-guide-fa5",
-  "url": "https://dev.to/cocoandrew/revolutionizing-the-web-with-webassembly-a-comprehensive-guide-fa5",
-  "publish_date": "2023-01-07",
-  "published_at": "2023-01-07T12:40:24Z"
- },
- {
-  "id": 1320757,
-  "title": "Hacking a zero costs blogging system. With emails!",
-  "description": "A story of how I managed to spin up a blogging system with a hacky email subscription system and no monthly costs",
-  "cover_image": "",
-  "slug": "hacking-a-zero-costs-blogging-system-with-emails-2opb",
-  "url": "https://dev.to/costica/hacking-a-zero-costs-blogging-system-with-emails-2opb",
-  "publish_date": "2023-01-07",
-  "published_at": "2023-01-07T12:09:00Z"
- },
- {
-  "id": 1320427,
-  "title": "NextJS + GPT-3: Build a cover letter generator",
-  "description": "Learn how to build a cover letter generator. This app would generate a cover letter based on your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aQ6yI-_p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/man4m9ocxb0ek9mw5lqe.jpg",
-  "slug": "nextjs-gpt-3-build-a-cover-letter-generator-28gc",
-  "url": "https://dev.to/orlando70/nextjs-gpt-3-build-a-cover-letter-generator-28gc",
-  "publish_date": "2023-01-07",
-  "published_at": "2023-01-07T07:29:02Z"
- },
- {
-  "id": 1318028,
-  "title": "Bundling YAMLs for Kubernetes with Helm",
-  "description": "The introduction of microservice architecture revolutionised the way softwares are developed today....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--loEHhofS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w37lcri7u2xmnksj8tjp.png",
-  "slug": "bundling-yamls-for-kubernetes-with-helm-4pck",
-  "url": "https://dev.to/aniket762/bundling-yamls-for-kubernetes-with-helm-4pck",
-  "publish_date": "2023-01-07",
-  "published_at": "2023-01-07T05:11:45Z"
  }
 ]
