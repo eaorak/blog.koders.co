@@ -1,5 +1,55 @@
 [
  {
+  "id": 1439963,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-4o7a",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o7a",
+  "publish_date": "2023-04-18",
+  "published_at": "2023-04-18T19:02:49Z"
+ },
+ {
+  "id": 1436058,
+  "title": "How to Add Writing Assistance to Any JavaScript App in Minutes",
+  "description": "You’ve launched your app. Maybe it’s the next great blogging platform, marketplace, or social media...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q9XcUA5t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5u2it71na7791m8uewt.jpg",
+  "slug": "how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh",
+  "url": "https://dev.to/grammarlydevs/how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh",
+  "publish_date": "2023-04-18",
+  "published_at": "2023-04-18T14:30:00Z"
+ },
+ {
+  "id": 1439687,
+  "title": "Supercharge your geolocalized DynamoDB Queries with Z-Order Indexing 🚀",
+  "description": "TL;DR: Embark on our journey to enhance DynamoDB geospatial queries with custom Z-Order indexing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QD4TI7jI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n316gwlpfuh7oqqznuh.png",
+  "slug": "supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8",
+  "url": "https://dev.to/kumo/supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8",
+  "publish_date": "2023-04-18",
+  "published_at": "2023-04-18T12:06:03Z"
+ },
+ {
+  "id": 1439361,
+  "title": "Love Mongodb ? Try Tigris db once.",
+  "description": "Tigris db is one the best no sql database I came across after the mongodb.  We love mongodb for it's...",
+  "cover_image": "",
+  "slug": "love-mongodb-try-tigris-db-once-52pn",
+  "url": "https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn",
+  "publish_date": "2023-04-18",
+  "published_at": "2023-04-18T05:12:54Z"
+ },
+ {
+  "id": 1439223,
+  "title": "7 Free Courses to Learn Microsoft Azure Cloud Platform",
+  "description": "These are my favorite online courses to learn Microsoft Azure Cloud Platform from Udemy, Coursera, Pluralsight, YouTube etc",
+  "cover_image": "",
+  "slug": "7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4",
+  "url": "https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4",
+  "publish_date": "2023-04-18",
+  "published_at": "2023-04-18T02:44:19Z"
+ },
+ {
   "id": 1438665,
   "title": "Meme Monday",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lovepreetsingh/implementing-microservice-architecture-in-node-js-1fg3",
   "publish_date": "2023-01-09",
   "published_at": "2023-01-09T06:57:14Z"
- },
- {
-  "id": 1321665,
-  "title": "8 React Projects to Build in 2023",
-  "description": "If you want to be good at React, building projects is one of the best ways to do it.  I have put...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JWJBPidH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t399zrfdtjgfcu2uffwk.png",
-  "slug": "8-react-projects-to-build-in-2023-49c8",
-  "url": "https://dev.to/reedbarger/8-react-projects-to-build-in-2023-49c8",
-  "publish_date": "2023-01-08",
-  "published_at": "2023-01-08T16:10:58Z"
- },
- {
-  "id": 1321131,
-  "title": "10 Best Developer Swags for 2023",
-  "description": "Hello, my fellow developers, This article will be a little different because in this article I will...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RI0v7RoL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ymhbkuizso5jtc63zaav.png",
-  "slug": "10-best-developer-swags-for-2023-4oek",
-  "url": "https://dev.to/j471n/10-best-developer-swags-for-2023-4oek",
-  "publish_date": "2023-01-08",
-  "published_at": "2023-01-08T13:11:02Z"
- },
- {
-  "id": 1321507,
-  "title": "How to build your IT startup in 2023 as a young IT professional and entrepreneur",
-  "description": "Starting an IT startup in 2023 can be a challenging but rewarding experience for a young IT...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pxOBm6pg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ywsb4ku7z7jh7xqncwnq.jpeg",
-  "slug": "how-to-build-your-it-startup-in-2023-as-a-young-it-professional-and-entrepreneur-54c4",
-  "url": "https://dev.to/asadravian/how-to-build-your-it-startup-in-2023-as-a-young-it-professional-and-entrepreneur-54c4",
-  "publish_date": "2023-01-08",
-  "published_at": "2023-01-08T12:08:02Z"
- },
- {
-  "id": 1006562,
-  "title": "Build a custom MySQL Docker Container",
-  "description": "Tired of going through endless documentation for setting up your database in any computer apart from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ckS2y894--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkm7rmde0ik48vxol0y9.jpeg",
-  "slug": "build-a-custom-mysql-docker-container-404f",
-  "url": "https://dev.to/sumana2001/build-a-custom-mysql-docker-container-404f",
-  "publish_date": "2023-01-08",
-  "published_at": "2023-01-08T06:01:50Z"
- },
- {
-  "id": 1321328,
-  "title": "7 Amazing GitHub Repositories Every Developer Should Follow in 2023",
-  "description": "GitHub is the dominant player in hosting Software Projects on the web. With 200 M+ repositories,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1T-NMFJH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mc9vszals8h6fmsdtg4h.png",
-  "slug": "7-amazing-github-repositories-every-developer-should-follow-in-2023-53i8",
-  "url": "https://dev.to/ruppysuppy/7-amazing-github-repositories-every-developer-should-follow-in-2023-53i8",
-  "publish_date": "2023-01-08",
-  "published_at": "2023-01-08T05:40:48Z"
  }
 ]
