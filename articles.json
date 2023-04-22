@@ -1,5 +1,55 @@
 [
  {
+  "id": 1419367,
+  "title": "RIP Blue Check 🪦",
+  "description": "It's a sad occasion on this 21st of April: due to our decision not to purchase a Twitter Blue...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ljvq_l3s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kquu1p1us5obcx33hlzb.png",
+  "slug": "rip-blue-check-jlh",
+  "url": "https://dev.to/devteam/rip-blue-check-jlh",
+  "publish_date": "2023-04-21",
+  "published_at": "2023-04-21T14:27:08Z"
+ },
+ {
+  "id": 1443466,
+  "title": "ASP.NET Core in .NET 8 is On The Way! 5 New Features Reviewed",
+  "description": "In this article, we delve into the exciting new features and updates introduced in ASP.NET Core .NET...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--obZNIo5k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4wtc23q8dkw01wgxxkss.png",
+  "slug": "aspnet-core-in-net-8-is-on-the-way-5-new-features-reviewed-4014",
+  "url": "https://dev.to/bytehide/aspnet-core-in-net-8-is-on-the-way-5-new-features-reviewed-4014",
+  "publish_date": "2023-04-21",
+  "published_at": "2023-04-21T12:41:42Z"
+ },
+ {
+  "id": 1360497,
+  "title": "Hoppscotch Releases: SemVer to CalVer",
+  "description": "TL;DR;  At Hoppscotch, we believe in providing our users with the best possible experience when it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ekX7mg3X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zv3hqpa4xsbmcb3gtuqe.png",
+  "slug": "hoppscotch-releases-semver-to-calver-1ajm",
+  "url": "https://dev.to/liyasthomas/hoppscotch-releases-semver-to-calver-1ajm",
+  "publish_date": "2023-04-21",
+  "published_at": "2023-04-21T10:06:19Z"
+ },
+ {
+  "id": 1440191,
+  "title": "API Gateway For ChatGPT Plugins",
+  "description": "OpenAI has recently launched a new version of ChatGPT which now allows plugins inside ChatGPT. These...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UerT4v1b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kmufj8jov146gsqduu7v.png",
+  "slug": "api-gateway-for-chatgpt-plugins-1b32",
+  "url": "https://dev.to/apisix/api-gateway-for-chatgpt-plugins-1b32",
+  "publish_date": "2023-04-21",
+  "published_at": "2023-04-21T08:21:54Z"
+ },
+ {
+  "id": 1440958,
+  "title": "My Favorite Free Courses to Learn Docker and Containers in 2023",
+  "description": "These are my favorite online courses to learn Docker and containerization in 2023",
+  "cover_image": "",
+  "slug": "my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo",
+  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo",
+  "publish_date": "2023-04-21",
+  "published_at": "2023-04-21T03:49:13Z"
+ },
+ {
   "id": 1442729,
   "title": "4 Engineering Leadership Screw-Ups by the Best in the Business (And What We Learned From Them)",
   "description": "Leadership in engineering can be challenging to get right. Even the most successful acknowledge that...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/stcollier/i-just-made-my-first-fullstack-application-heres-how-1am9",
   "publish_date": "2023-01-12",
   "published_at": "2023-01-12T01:36:19Z"
- },
- {
-  "id": 1325484,
-  "title": "7 React Projects for Beginners in 2023 (+ Code)",
-  "description": "You're ready to start making simple projects with React, but you don't know what to make. Where...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MbAhlHGn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dhhewwxtbr3qlm1ew147.png",
-  "slug": "7-react-projects-for-beginners-in-2023-code-dp7",
-  "url": "https://dev.to/webdevhero-com/7-react-projects-for-beginners-in-2023-code-dp7",
-  "publish_date": "2023-01-11",
-  "published_at": "2023-01-11T18:14:29Z"
- },
- {
-  "id": 1322382,
-  "title": "Creating a website aggregator with ChatGPT, React, and Node.js 🚀",
-  "description": "A website aggregator is a website that collects data from other websites across the internet and puts...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZFQnkL2j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vnzlm4u8n67thwmb6c22.jpeg",
-  "slug": "creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij",
-  "url": "https://dev.to/novu/creating-a-website-aggregator-with-chatgpt-react-and-nodejs-4dij",
-  "publish_date": "2023-01-11",
-  "published_at": "2023-01-11T13:07:35Z"
- },
- {
-  "id": 1324956,
-  "title": "A Brief History of API: RPC, REST, GraphQL, tRPC",
-  "description": "Background   Last week I joined an event about GraphQL or TRPC discussion hosted by Guild in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v43q1xq0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mra75slk5zc2topon0vx.png",
-  "slug": "a-brief-history-of-api-rpc-rest-graphql-trpc-fme",
-  "url": "https://dev.to/zenstack/a-brief-history-of-api-rpc-rest-graphql-trpc-fme",
-  "publish_date": "2023-01-11",
-  "published_at": "2023-01-11T11:48:10Z"
- },
- {
-  "id": 1313006,
-  "title": "Angular 15: interceptor as a function",
-  "description": "Introduction   The release of Angular 14 made it possible to use the inject function outside...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0-yy5Wvv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/je7ltxrtc0x8ahwbv9tq.jpg",
-  "slug": "angular-15-interceptor-as-a-function-2g44",
-  "url": "https://dev.to/this-is-angular/angular-15-interceptor-as-a-function-2g44",
-  "publish_date": "2023-01-11",
-  "published_at": "2023-01-11T08:57:11Z"
- },
- {
-  "id": 1324658,
-  "title": "Welcoming new authors 💖 and fighting spam 🗑️ on DEV",
-  "description": "With one reporting tool we can both welcome new authors and fight spam.",
-  "cover_image": "",
-  "slug": "welcoming-new-authors-and-fighting-spam-on-dev-373d",
-  "url": "https://dev.to/szabgab/welcoming-new-authors-and-fighting-spam-on-dev-373d",
-  "publish_date": "2023-01-11",
-  "published_at": "2023-01-11T08:34:51Z"
  }
 ]
