@@ -1,5 +1,55 @@
 [
  {
+  "id": 1438435,
+  "title": "Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review",
+  "description": "Are you tired of starting every Django project from scratch and spending precious time setting up the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qrWohuaz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gv5edwg8tkbzx1kvn54t.jpeg",
+  "slug": "streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review-3elm",
+  "url": "https://dev.to/rishitashaw/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review-3elm",
+  "publish_date": "2023-04-22",
+  "published_at": "2023-04-22T15:12:20Z"
+ },
+ {
+  "id": 1443634,
+  "title": "10 Popular Programming Languages to Learn in 2023: Python, JavaScript, Java, C#, Kotlin...",
+  "description": "Programming languages are a fundamental part of computer science and software development. They allow...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bOqxIXD4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1b4u95awlt2ghx724d3e.jpg",
+  "slug": "10-popular-programming-languages-to-learn-in-2023-python-javascript-java-c-kotlin-1ool",
+  "url": "https://dev.to/abhixsh/10-popular-programming-languages-to-learn-in-2023-python-javascript-java-c-kotlin-1ool",
+  "publish_date": "2023-04-22",
+  "published_at": "2023-04-22T12:27:21Z"
+ },
+ {
+  "id": 1444277,
+  "title": "Top 10 Full-stack Projects For Beginners",
+  "description": "Are you a beginner looking for good full-stack project ideas to level your skills to the next level?...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jWCO9Hxq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uja8uws9rtzbyc74h1zz.png",
+  "slug": "top-10-full-stack-projects-for-beginners-1338",
+  "url": "https://dev.to/arafat4693/top-10-full-stack-projects-for-beginners-1338",
+  "publish_date": "2023-04-22",
+  "published_at": "2023-04-22T07:45:42Z"
+ },
+ {
+  "id": 1444176,
+  "title": "How to slugify a string in JavaScript",
+  "description": "A slug is a string that is used to uniquely identify a resource in a URL-friendly way. It is...",
+  "cover_image": "",
+  "slug": "how-to-slugify-a-string-in-javascript-4o9n",
+  "url": "https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n",
+  "publish_date": "2023-04-22",
+  "published_at": "2023-04-22T05:47:13Z"
+ },
+ {
+  "id": 1444165,
+  "title": "I made a VSCode extension: \"markdown-table-rainbow\"",
+  "description": "Last month when I was writing Markdown, I thought it would be easier to understand if each column in...",
+  "cover_image": "",
+  "slug": "i-made-a-vscode-extension-markdown-table-rainbow-4l27",
+  "url": "https://dev.to/yoshi389111/i-made-a-vscode-extension-markdown-table-rainbow-4l27",
+  "publish_date": "2023-04-22",
+  "published_at": "2023-04-22T05:03:28Z"
+ },
+ {
   "id": 1419367,
   "title": "RIP Blue Check 🪦",
   "description": "It's a sad occasion on this 21st of April: due to our decision not to purchase a Twitter Blue...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/akashkumaravel/javascript-console-types-and-tricks-1lef",
   "publish_date": "2023-01-13",
   "published_at": "2023-01-13T03:57:04Z"
- },
- {
-  "id": 1326680,
-  "title": "⏪ 4 Ways to Undo a Git Commit - Amend vs Reset",
-  "description": "I'm quite sure all of these happened to you at least once:   You committed a change with the wrong...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3tDXsa5Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idloddaqalr6pdm854w7.jpg",
-  "slug": "4-ways-to-undo-a-git-commit-amend-vs-reset-5dem",
-  "url": "https://dev.to/this-is-learning/4-ways-to-undo-a-git-commit-amend-vs-reset-5dem",
-  "publish_date": "2023-01-12",
-  "published_at": "2023-01-12T13:21:45Z"
- },
- {
-  "id": 1326642,
-  "title": "Top 5+ ReactJS Design Systems for 2023",
-  "description": "As we all know, ReactJS is a popular JavaScript library for building user interfaces, and many...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NJxm-Tv4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vi5zu728s2zctwmm3cex.png",
-  "slug": "top-5-reactjs-design-systems-for-2023-5ha2",
-  "url": "https://dev.to/fredy/top-5-reactjs-design-systems-for-2023-5ha2",
-  "publish_date": "2023-01-12",
-  "published_at": "2023-01-12T12:22:30Z"
- },
- {
-  "id": 1322616,
-  "title": "Microservices Logging | A Practical Guide to Logging in Microservices",
-  "description": "This article was originally posted on SigNoz Blog and is written by Vaishnavi Abirami.  Microservices...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AdzW8TNT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1q7xarhc8herdn67egf.png",
-  "slug": "microservices-logging-a-practical-guide-to-logging-in-microservices-4ba5",
-  "url": "https://dev.to/signoz/microservices-logging-a-practical-guide-to-logging-in-microservices-4ba5",
-  "publish_date": "2023-01-12",
-  "published_at": "2023-01-12T12:00:46Z"
- },
- {
-  "id": 1322612,
-  "title": "How to debounce and throttle in React without losing your mind",
-  "description": "When talking about performance in general, and especially in React, the words “immediate”, “fast”,...",
-  "cover_image": "",
-  "slug": "how-to-debounce-and-throttle-in-react-without-losing-your-mind-pg5",
-  "url": "https://dev.to/adevnadia/how-to-debounce-and-throttle-in-react-without-losing-your-mind-pg5",
-  "publish_date": "2023-01-12",
-  "published_at": "2023-01-12T08:00:00Z"
- },
- {
-  "id": 1325918,
-  "title": "I just made my first fullstack application. Here's how.",
-  "description": "Hey everyone!!  I just made my created my first fullstack application, called The Quotes Place....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UMEfzxf8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/klv24o358yqnmyc1xvp1.png",
-  "slug": "i-just-made-my-first-fullstack-application-heres-how-1am9",
-  "url": "https://dev.to/stcollier/i-just-made-my-first-fullstack-application-heres-how-1am9",
-  "publish_date": "2023-01-12",
-  "published_at": "2023-01-12T01:36:19Z"
  }
 ]
