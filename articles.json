@@ -1,5 +1,55 @@
 [
  {
+  "id": 1449911,
+  "title": "How to build a Hackathon 🚀",
+  "description": "TL;DR   We have just released our new Hackathon NovuConnect 🤩 We have made sure it's super...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k67hv_Zz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwgv2wepknabklu080bd.png",
+  "slug": "how-to-buid-a-hackathon-gb3",
+  "url": "https://dev.to/novu/how-to-buid-a-hackathon-gb3",
+  "publish_date": "2023-04-27",
+  "published_at": "2023-04-27T13:25:15Z"
+ },
+ {
+  "id": 1447635,
+  "title": "Learn serverless on AWS step-by-step - Authentication",
+  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IybEwSKd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/authentication/assets/cover-image.png",
+  "slug": "learn-serverless-on-aws-authentication-with-cognito-19bo",
+  "url": "https://dev.to/kumo/learn-serverless-on-aws-authentication-with-cognito-19bo",
+  "publish_date": "2023-04-27",
+  "published_at": "2023-04-27T12:25:42Z"
+ },
+ {
+  "id": 1449203,
+  "title": "Sloan's Inbox: Staying positive amidst industry drama",
+  "description": "Hey there! It's Sloan, your friendly neighborhood DEV Moderator 🦥 As I lazily scrolled through my...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eDuebDoT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rh0pzayn96pb7gw5x92u.jpg",
+  "slug": "sloans-inbox-staying-positive-amidst-industry-drama-16i4",
+  "url": "https://dev.to/devteam/sloans-inbox-staying-positive-amidst-industry-drama-16i4",
+  "publish_date": "2023-04-27",
+  "published_at": "2023-04-27T07:00:00Z"
+ },
+ {
+  "id": 1449581,
+  "title": "How we built the Fastest ChatGPT Website Chatbot",
+  "description": "A ChatGPT-based website chatbot can dramatically decrease your website's performance if it's not...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cemTdwzY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/llvdq4pl0h40npguyp9e.jpeg",
+  "slug": "how-we-built-the-fastest-chatgpt-website-chatbot-2gkk",
+  "url": "https://dev.to/polterguy/how-we-built-the-fastest-chatgpt-website-chatbot-2gkk",
+  "publish_date": "2023-04-27",
+  "published_at": "2023-04-27T04:30:44Z"
+ },
+ {
+  "id": 1449560,
+  "title": "[JS/TS] Cookie Muncher - Effortless cookie management",
+  "description": "When we create a website, we always need to use cookies, either on the browser side, or on the server...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dslx_fCk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9rwb4oqd89hz9tpj3c7z.jpeg",
+  "slug": "jsts-cookie-muncher-effortless-cookie-management-1nfn",
+  "url": "https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn",
+  "publish_date": "2023-04-27",
+  "published_at": "2023-04-27T03:14:36Z"
+ },
+ {
   "id": 1449153,
   "title": "What is Bluesky Social Network? And why are developers excited about it?",
   "description": "It seems like my Twitter feed is all about folks joining or asking about invites to Bluesky. I was...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vincenius/weekly-web-development-resources-133-690",
   "publish_date": "2023-01-18",
   "published_at": "2023-01-18T06:26:32Z"
- },
- {
-  "id": 1329231,
-  "title": "Introduction to Google APIs: pt. 1",
-  "description": "Google APIs are a set of programming interfaces developed by Google that allow external developers to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zpaK34dp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/04urc2dbrnzvp44zmgd6.JPG",
-  "slug": "introduction-to-google-apis-pt-1-1l5o",
-  "url": "https://dev.to/mariamarsh/introduction-to-google-apis-pt-1-1l5o",
-  "publish_date": "2023-01-17",
-  "published_at": "2023-01-17T16:21:01Z"
- },
- {
-  "id": 1331657,
-  "title": "refine Hackathon with $1500 prize!",
-  "description": "refine is a React-based framework for the rapid ✨ development of CRUD web applications. It...",
-  "cover_image": "",
-  "slug": "the-refine-open-source-hackathon-g1j",
-  "url": "https://dev.to/necatiozmen/the-refine-open-source-hackathon-g1j",
-  "publish_date": "2023-01-17",
-  "published_at": "2023-01-17T09:40:33Z"
- },
- {
-  "id": 1331401,
-  "title": "Scale Node JS App using Cluster Module",
-  "description": "📍 NodeJS Concurrency   🙂 When It comes to writing Backend (or API for say) we can code them...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PBi3q4fb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jzfjksrtvyty1h3if9u.png",
-  "slug": "scale-node-js-app-using-cluster-module-3bg8",
-  "url": "https://dev.to/lovepreetsingh/scale-node-js-app-using-cluster-module-3bg8",
-  "publish_date": "2023-01-17",
-  "published_at": "2023-01-17T03:49:24Z"
- },
- {
-  "id": 1331394,
-  "title": "AI Tools for Developers",
-  "description": "DeepCode:    A platform that uses AI to analyze code and identify potential issues and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7r-i_4f7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gcpejkcaun3bxo4eyn6c.jpeg",
-  "slug": "ai-tools-for-developers-g79",
-  "url": "https://dev.to/rahul3002/ai-tools-for-developers-g79",
-  "publish_date": "2023-01-17",
-  "published_at": "2023-01-17T03:40:14Z"
- },
- {
-  "id": 1325033,
-  "title": "Get notified when there are commits to pull in VS Code",
-  "description": "With the help of GitLive’s new pull reminders, you can now pull sooner, reduce the chances of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGltL6Nx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iy8hgtt7c4tvwct5401e.png",
-  "slug": "get-notified-when-there-are-commits-to-pull-in-vs-code-61k",
-  "url": "https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-vs-code-61k",
-  "publish_date": "2023-01-17",
-  "published_at": "2023-01-17T00:39:59Z"
  }
 ]
