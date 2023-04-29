@@ -1,5 +1,55 @@
 [
  {
+  "id": 1451474,
+  "title": "We're on Bluesky ☁️",
+  "description": "Follow us @dev.to!  We're so excited for the opportunity to explore Bluesky, the AT Protocol, and all...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--liw1YOsA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ohn4jhk6eykdcex4umst.png",
+  "slug": "were-on-bluesky-4k44",
+  "url": "https://dev.to/devteam/were-on-bluesky-4k44",
+  "publish_date": "2023-04-28",
+  "published_at": "2023-04-28T16:38:46Z"
+ },
+ {
+  "id": 1445233,
+  "title": "Batch request processing with API Gateway",
+  "description": "Batch request processing is a powerful technique used in web development to improve the performance...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7NUakzxq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rvubllacgj2jh1yn4eci.png",
+  "slug": "batch-request-processing-with-api-gateway-29e3",
+  "url": "https://dev.to/apisix/batch-request-processing-with-api-gateway-29e3",
+  "publish_date": "2023-04-28",
+  "published_at": "2023-04-28T09:26:19Z"
+ },
+ {
+  "id": 1450889,
+  "title": "I Have Been Grilled by ThePrimeagen on YouTube",
+  "description": "I received way lots of cool feedback for my article Keep Calm and Just Say No To Coding Challenges...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HCaz85WC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bi6o1lf9s9n8qqoyf62l.jpeg",
+  "slug": "i-have-been-grilled-by-theprimeagen-on-youtube-3mki",
+  "url": "https://dev.to/jmfayard/i-have-been-grilled-by-theprimeagen-on-youtube-3mki",
+  "publish_date": "2023-04-28",
+  "published_at": "2023-04-28T06:54:44Z"
+ },
+ {
+  "id": 1450789,
+  "title": "My Favorite Courses to Learn Docker and Containers in Depth",
+  "description": "My favorite online courses to learn Docker and Containers in 2023",
+  "cover_image": "",
+  "slug": "my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp",
+  "url": "https://dev.to/javinpaul/my-favorite-courses-to-learn-docker-and-containers-in-depth-11fp",
+  "publish_date": "2023-04-28",
+  "published_at": "2023-04-28T04:31:54Z"
+ },
+ {
+  "id": 1450677,
+  "title": "How to remove elements from array in JavaScript",
+  "description": "In JavaScript, there are several ways to remove elements from an array, each with its own advantages...",
+  "cover_image": "",
+  "slug": "how-to-remove-elements-from-array-in-javascript-3c7l",
+  "url": "https://dev.to/bybydev/how-to-remove-elements-from-array-in-javascript-3c7l",
+  "publish_date": "2023-04-28",
+  "published_at": "2023-04-28T01:21:16Z"
+ },
+ {
   "id": 1449911,
   "title": "How to build a Hackathon 🚀",
   "description": "TL;DR   We have just released our new Hackathon NovuConnect 🤩 We have made sure it's super...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6",
   "publish_date": "2023-01-19",
   "published_at": "2023-01-19T01:30:42Z"
- },
- {
-  "id": 1333241,
-  "title": "Deep Cloning Objects in JavaScript, the Modern Way",
-  "description": "Did you know, there's now a native way in JavaScript to do deep copies of objects?  That's right,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Iqvui92m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9r2cqh638tpzx5hi0hp4.png",
-  "slug": "deep-cloning-objects-in-javascript-the-modern-way-17kf",
-  "url": "https://dev.to/builderio/deep-cloning-objects-in-javascript-the-modern-way-17kf",
-  "publish_date": "2023-01-18",
-  "published_at": "2023-01-18T15:03:53Z"
- },
- {
-  "id": 1333184,
-  "title": "How to Build a Real world Website Using HTML CSS JavaScript",
-  "description": "In this course, you will create a completely responsive real-world website with modern UI in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EMkibXya--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pe4ia6cibgflrb5vekds.png",
-  "slug": "how-to-build-a-real-world-website-using-html-css-javascript-3gap",
-  "url": "https://dev.to/codewithsadee/how-to-build-a-real-world-website-using-html-css-javascript-3gap",
-  "publish_date": "2023-01-18",
-  "published_at": "2023-01-18T13:53:35Z"
- },
- {
-  "id": 1331704,
-  "title": "33+ Exclusive In-house Free Templates for 2023",
-  "description": "Worldwide digitization has brought about the crucial trend of establishing one’s online presence as...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mAK5JjTk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vf99i20ryuk74dh8tjn.png",
-  "slug": "33-exclusive-in-house-free-templates-for-2023-2abf",
-  "url": "https://dev.to/themewagon/33-exclusive-in-house-free-templates-for-2023-2abf",
-  "publish_date": "2023-01-18",
-  "published_at": "2023-01-18T08:46:59Z"
- },
- {
-  "id": 1332779,
-  "title": "What are E-Commerce Kpis",
-  "description": "E-commerce Key Performance Indicators (KPIs) are metrics used to measure the performance and success...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tRNVeBls--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fqk88jpconwi0mrxxp52.png",
-  "slug": "what-are-e-commerce-kpis-1ng7",
-  "url": "https://dev.to/alyciakyla/what-are-e-commerce-kpis-1ng7",
-  "publish_date": "2023-01-18",
-  "published_at": "2023-01-18T06:51:37Z"
- },
- {
-  "id": 1332769,
-  "title": "Weekly web development resources #133",
-  "description": "Radix    Unstyled, accessible components for building high‑quality design systems and web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9fN9tWKB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/valk3bw79xlcpyhn303s.jpg",
-  "slug": "weekly-web-development-resources-133-690",
-  "url": "https://dev.to/vincenius/weekly-web-development-resources-133-690",
-  "publish_date": "2023-01-18",
-  "published_at": "2023-01-18T06:26:32Z"
  }
 ]
