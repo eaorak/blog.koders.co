@@ -1,5 +1,55 @@
 [
  {
+  "id": 1452176,
+  "title": "50 ChatGPT Prompts to Debug ReactJS Issues - Free EBook",
+  "description": "Debugging ReactJS applications can be a real challenge, especially when you're trying to identify and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O7fhP8-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lwu7gn5tfnp0xnc1adop.jpg",
+  "slug": "50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og",
+  "url": "https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og",
+  "publish_date": "2023-04-29",
+  "published_at": "2023-04-29T12:55:37Z"
+ },
+ {
+  "id": 1452126,
+  "title": "Dark Mode in 3 Lines of CSS and Other Adventures",
+  "description": "Dark Mode is a design trend where the color scheme of a website is changed to a dark background with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Cq0fNwFY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/147lgdtdnohrancjx4hv.jpg",
+  "slug": "dark-mode-in-3-lines-of-css-and-other-adventures-1ljj",
+  "url": "https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj",
+  "publish_date": "2023-04-29",
+  "published_at": "2023-04-29T12:25:08Z"
+ },
+ {
+  "id": 1452004,
+  "title": "How to convert String to Integer in java",
+  "description": "for explanation watch the video        import java.util.*; import java.lang.*; class Demo{     public...",
+  "cover_image": "",
+  "slug": "how-to-convert-string-to-integer-in-java-32gp",
+  "url": "https://dev.to/realnamehidden1_61/how-to-convert-string-to-integer-in-java-32gp",
+  "publish_date": "2023-04-29",
+  "published_at": "2023-04-29T08:28:16Z"
+ },
+ {
+  "id": 1451994,
+  "title": "Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images",
+  "description": "Canva celebrated 15 billion designs on its platform on February 15, 2023, marking a huge milestone...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lKTPjK8S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k7gulmue7yo55p7qth0u.png",
+  "slug": "creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
+  "url": "https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
+  "publish_date": "2023-04-29",
+  "published_at": "2023-04-29T07:53:54Z"
+ },
+ {
+  "id": 1451982,
+  "title": "Building a SolidJS App With SolidStart From Scratch",
+  "description": "So you've learned SolidJS and built a bunch of demos, but you haven't created a real-world...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bAXdAqLz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/03ki6wuicuz800ir1a4u.png",
+  "slug": "building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
+  "url": "https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
+  "publish_date": "2023-04-29",
+  "published_at": "2023-04-29T07:26:39Z"
+ },
+ {
   "id": 1451474,
   "title": "We're on Bluesky ☁️",
   "description": "Follow us @dev.to!  We're so excited for the opportunity to explore Bluesky, the AT Protocol, and all...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rahul3002/2023s-top-development-projects-for-programmers-a-complete-list-of-tutorials-and-tools-for-mastering-the-latest-technologies-37o3",
   "publish_date": "2023-01-20",
   "published_at": "2023-01-20T03:49:00Z"
- },
- {
-  "id": 1334387,
-  "title": "Documenting Forem's v1 API",
-  "description": "Forem has set a milestone to update our (v1) API documentation and we need YOUR help!  There are...",
-  "cover_image": "",
-  "slug": "documenting-the-forem-v1-api-15ck",
-  "url": "https://dev.to/devteam/documenting-the-forem-v1-api-15ck",
-  "publish_date": "2023-01-19",
-  "published_at": "2023-01-19T15:53:29Z"
- },
- {
-  "id": 1321688,
-  "title": "sls-mentor: your serverless quality teacher has arrived!",
-  "description": "This article is part of a series about sls-mentor, the new open-source tool allowing you to audit...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7Yc2BR7q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/sls-mentor/release/assets/cover.png",
-  "slug": "sls-mentor-your-serverless-quality-teacher-has-arrived-5fin",
-  "url": "https://dev.to/kumo/sls-mentor-your-serverless-quality-teacher-has-arrived-5fin",
-  "publish_date": "2023-01-19",
-  "published_at": "2023-01-19T13:39:11Z"
- },
- {
-  "id": 1331566,
-  "title": "Don't target 100% coverage",
-  "description": "Don't target 100% coverage... but achieve it anyway!   I recently noticed that a lot of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D4ldBWM4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/drqbswnwnnpnud668wg6.png",
-  "slug": "dont-target-100-coverage-387o",
-  "url": "https://dev.to/antoinecoulon/dont-target-100-coverage-387o",
-  "publish_date": "2023-01-19",
-  "published_at": "2023-01-19T08:39:04Z"
- },
- {
-  "id": 1332746,
-  "title": "CSS Generators",
-  "description": "Welcome to our blog about CSS generators! Are you tired of manually writing CSS code for your website...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PFDGrd9g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tkuka9xut60d1rgcrrkj.jpeg",
-  "slug": "css-generators-m2n",
-  "url": "https://dev.to/rahul3002/css-generators-m2n",
-  "publish_date": "2023-01-19",
-  "published_at": "2023-01-19T03:30:00Z"
- },
- {
-  "id": 1333798,
-  "title": "CLI tools you won't be able to live without 🔧",
-  "description": "A list of 50 command line tools, which you should definitely check out!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1OKztvVL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.ibb.co/F4THZ2T/cli-tools-banner.png",
-  "slug": "cli-tools-you-cant-live-without-57f6",
-  "url": "https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6",
-  "publish_date": "2023-01-19",
-  "published_at": "2023-01-19T01:30:42Z"
  }
 ]
