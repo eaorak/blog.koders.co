@@ -1,5 +1,55 @@
 [
  {
+  "id": 1453140,
+  "title": "Proper use of git for beginners and beyond",
+  "description": "I have noticed that many programmers neglect the rules outlined below, or don't know about them....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lzSCJOE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/su4mj2k1p68l24g5f1hc.png",
+  "slug": "proper-use-of-git-for-beginners-and-beyond-4fem",
+  "url": "https://dev.to/dmrompav/proper-use-of-git-for-beginners-and-beyond-4fem",
+  "publish_date": "2023-04-30",
+  "published_at": "2023-04-30T17:11:17Z"
+ },
+ {
+  "id": 1453045,
+  "title": "How Array.prototype.sort() works?",
+  "description": "The main reason that I decided to write this article is to explore what lies under the hood of the...",
+  "cover_image": "",
+  "slug": "how-arrayprototypesort-works-3kcn",
+  "url": "https://dev.to/bekmurzintimur/how-arrayprototypesort-works-3kcn",
+  "publish_date": "2023-04-30",
+  "published_at": "2023-04-30T16:07:12Z"
+ },
+ {
+  "id": 1448820,
+  "title": "Querying microservices in real-time with materialized views",
+  "description": "The distributed systems architecture has become increasingly popular due to its flexibility,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x_KPrMWu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nuhp7f72egmeit0qgubm.png",
+  "slug": "querying-microservices-in-real-time-with-materialized-views-211c",
+  "url": "https://dev.to/bobur/querying-microservices-in-real-time-with-materialized-views-211c",
+  "publish_date": "2023-04-30",
+  "published_at": "2023-04-30T10:19:35Z"
+ },
+ {
+  "id": 1451945,
+  "title": "My Favorite Free Courses to Learn JavaScript in depth",
+  "description": "These are my favorite online courses to learn JavaScript in depth, including react.js, vue.js, angular, and node.js",
+  "cover_image": "",
+  "slug": "my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
+  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
+  "publish_date": "2023-04-30",
+  "published_at": "2023-04-30T04:44:40Z"
+ },
+ {
+  "id": 1452206,
+  "title": "What I learned from 2 years of freelancing 🤫💰",
+  "description": "Ah freelancing, the dream of working from anywhere in the world, being your own boss, and making a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QsJVVPDY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/49v705efdqrfc5aj47vv.png",
+  "slug": "what-i-learned-from-2-years-of-freelancing-44h8",
+  "url": "https://dev.to/ruppysuppy/what-i-learned-from-2-years-of-freelancing-44h8",
+  "publish_date": "2023-04-30",
+  "published_at": "2023-04-30T01:52:46Z"
+ },
+ {
   "id": 1452176,
   "title": "50 ChatGPT Prompts to Debug ReactJS Issues - Free EBook",
   "description": "Debugging ReactJS applications can be a real challenge, especially when you're trying to identify and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/frontend_jedi/difference-between-responsive-design-and-adaptive-design-906",
   "publish_date": "2023-01-21",
   "published_at": "2023-01-21T00:58:25Z"
- },
- {
-  "id": 1335670,
-  "title": "Text To Speech Converter with JavaScript",
-  "description": "Converting text to speech using HTML, CSS, and JavaScript can be done using the SpeechSynthesis API....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rD61qRbN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f4b6r2wnsj36g03yyy0y.jpg",
-  "slug": "text-to-speech-converter-with-javascript-30oo",
-  "url": "https://dev.to/shantanu_jana/text-to-speech-converter-with-javascript-30oo",
-  "publish_date": "2023-01-20",
-  "published_at": "2023-01-20T11:36:54Z"
- },
- {
-  "id": 1335637,
-  "title": "Become a JavaScript Testing Pro: 14 Resources for Developers",
-  "description": "You know I have a strong passion for testing. Testing helps me to maintain good code design, stay...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6bk9C6HB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xk23mkaymwlifdht7jue.jpg",
-  "slug": "become-a-javascript-testing-pro-14-resources-for-developers-4pkm",
-  "url": "https://dev.to/mbarzeev/become-a-javascript-testing-pro-14-resources-for-developers-4pkm",
-  "publish_date": "2023-01-20",
-  "published_at": "2023-01-20T11:02:02Z"
- },
- {
-  "id": 1335497,
-  "title": "AKS Cost Optimization: Top 7 Strategies to Cut Your AKS Cluster Costs",
-  "description": "Azure Kubernetes Service (AKS) is one of the most popular managed container services. While offering...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--srryM3W3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bsnjpc7fp4ypkmvco1qf.png",
-  "slug": "aks-cost-optimization-top-7-strategies-to-cut-your-aks-cluster-costs-51nd",
-  "url": "https://dev.to/castai/aks-cost-optimization-top-7-strategies-to-cut-your-aks-cluster-costs-51nd",
-  "publish_date": "2023-01-20",
-  "published_at": "2023-01-20T08:40:50Z"
- },
- {
-  "id": 1335407,
-  "title": "Data Engineering and DataOps: A Beginner's Guide to Building Data Solutions and Solving Real-World Challenges",
-  "description": "Introduction   Data engineering is the process of designing, building, maintaining, and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bwlwYfkb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ur4rk16u6kxcbf16q8p7.png",
-  "slug": "data-engineering-and-dataops-a-beginners-guide-to-building-data-solutions-and-solving-real-world-challenges-4p5j",
-  "url": "https://dev.to/chaos-genius/data-engineering-and-dataops-a-beginners-guide-to-building-data-solutions-and-solving-real-world-challenges-4p5j",
-  "publish_date": "2023-01-20",
-  "published_at": "2023-01-20T05:33:25Z"
- },
- {
-  "id": 1334006,
-  "title": "2023's Top Development Projects for Programmers: A Complete List of Tutorials and Tools for Mastering the Latest Technologies",
-  "description": "Welcome to our blog post on \"2023's Top Development Projects for Programmers\"! As a developer,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ePS4BDGG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6xqchwe4thwwmglu30n.png",
-  "slug": "2023s-top-development-projects-for-programmers-a-complete-list-of-tutorials-and-tools-for-mastering-the-latest-technologies-37o3",
-  "url": "https://dev.to/rahul3002/2023s-top-development-projects-for-programmers-a-complete-list-of-tutorials-and-tools-for-mastering-the-latest-technologies-37o3",
-  "publish_date": "2023-01-20",
-  "published_at": "2023-01-20T03:49:00Z"
  }
 ]
