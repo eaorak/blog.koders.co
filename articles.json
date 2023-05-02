@@ -1,5 +1,55 @@
 [
  {
+  "id": 1454150,
+  "title": "Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed",
+  "description": "Looking to get noticed as a developer but don't have the time or resources to create content regularly? This blog post explains how open source contributions can help you build credibility, get noticed, and even land your dream job. Learn practical tips for contributing to open source projects, building a strong resume, and growing your network in the tech industry.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ne3R5uA7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0sz9vvr1vzo5dz53qu64.png",
+  "slug": "beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n",
+  "url": "https://dev.to/opensauced/beyond-content-creation-how-open-source-contributions-can-help-you-get-noticed-4l5n",
+  "publish_date": "2023-05-01",
+  "published_at": "2023-05-01T16:30:47Z"
+ },
+ {
+  "id": 1453873,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m2GtioQd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kd087oakjwvldatodxna.png",
+  "slug": "meme-monday-3aj1",
+  "url": "https://dev.to/ben/meme-monday-3aj1",
+  "publish_date": "2023-05-01",
+  "published_at": "2023-05-01T12:12:16Z"
+ },
+ {
+  "id": 1412237,
+  "title": "Transactions in .NET: From Basics to Best Practices",
+  "description": "What is a Transaction in .NET?   A transaction is a sequence of operations performed as a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GlLSwjyw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9epuclolltfmolm7fct4.png",
+  "slug": "transactions-in-net-from-basics-to-best-practices-130o",
+  "url": "https://dev.to/bytehide/transactions-in-net-from-basics-to-best-practices-130o",
+  "publish_date": "2023-05-01",
+  "published_at": "2023-05-01T09:44:05Z"
+ },
+ {
+  "id": 1453120,
+  "title": "OpenCommit: killing lame commits with generative AI 🤯🔫 (open-source)",
+  "description": "first — let's grow my twitter, so i can tell about my inventions quicker and make the world even...",
+  "cover_image": "",
+  "slug": "opencommit-killing-lame-commits-with-generative-ai-open-source-2gcd",
+  "url": "https://dev.to/disukharev/opencommit-killing-lame-commits-with-generative-ai-open-source-2gcd",
+  "publish_date": "2023-05-01",
+  "published_at": "2023-05-01T09:25:38Z"
+ },
+ {
+  "id": 1453549,
+  "title": "TailwindCSS vs. UnoCSS",
+  "description": "A deep, nitpicky comparison of two awesome utility CSS frameworks",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vgdJ_WZ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://mapleleaf.dev/images/tailwind-v-uno.png%3F1",
+  "slug": "tailwindcss-vs-unocss-2a53",
+  "url": "https://dev.to/mapleleaf/tailwindcss-vs-unocss-2a53",
+  "publish_date": "2023-05-01",
+  "published_at": "2023-05-01T06:36:04Z"
+ },
+ {
   "id": 1453140,
   "title": "Proper use of git for beginners and beyond",
   "description": "I have noticed that many programmers neglect the rules outlined below, or don't know about them....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rahul3002/6-github-repositories-you-cant-live-without-1mka",
   "publish_date": "2023-01-22",
   "published_at": "2023-01-22T04:57:19Z"
- },
- {
-  "id": 1333577,
-  "title": "5 Reasons To Choose JavaScript Maps Over Objects For Storing Key-Value Pairs(With Examples)",
-  "description": "At 18 I started my \"career\" as an IT support guy. At 20 I was flying 80 hours per month as a flight...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wzf6bw-F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jlbrgz5vuyiz7pslqbts.png",
-  "slug": "5-reasons-to-choose-javascript-maps-over-objects-for-storing-key-value-pairswith-examples-39dd",
-  "url": "https://dev.to/gustavupp/5-reasons-to-choose-javascript-maps-over-objects-for-storing-key-value-pairswith-examples-39dd",
-  "publish_date": "2023-01-21",
-  "published_at": "2023-01-21T09:51:29Z"
- },
- {
-  "id": 1335263,
-  "title": "Web apps - my mental cheat-sheet",
-  "description": "Intro   This article is part of the “Continuous Delivery: HTML to Kubernetes”.  While I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UWKDHVZg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbax2bnvba4yzcxd37ki.png",
-  "slug": "web-apps-my-mental-cheat-sheet-41ah",
-  "url": "https://dev.to/costica/web-apps-my-mental-cheat-sheet-41ah",
-  "publish_date": "2023-01-21",
-  "published_at": "2023-01-21T07:30:00Z"
- },
- {
-  "id": 1336472,
-  "title": "The Top 5 Websites for Effective Coding",
-  "description": "Welcome to our latest blog post where we will be discussing the top 5 websites for effective coding....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A1V4mclA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8kqqbx2sb6y0uo3ighzq.png",
-  "slug": "the-top-5-websites-for-effective-coding-20o9",
-  "url": "https://dev.to/rahul3002/the-top-5-websites-for-effective-coding-20o9",
-  "publish_date": "2023-01-21",
-  "published_at": "2023-01-21T03:21:13Z"
- },
- {
-  "id": 1336465,
-  "title": "The last form library for React you will ever need",
-  "description": "Hello everyone, in this tutorial I'm going to show how to create forms easily using use-form package,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bGkze617--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vdammo23dwt79ppeygut.png",
-  "slug": "the-last-form-library-for-react-you-will-ever-need-3d42",
-  "url": "https://dev.to/jucian0/the-last-form-library-for-react-you-will-ever-need-3d42",
-  "publish_date": "2023-01-21",
-  "published_at": "2023-01-21T02:19:22Z"
- },
- {
-  "id": 1336443,
-  "title": "Difference Between Responsive Design and Adaptive Design",
-  "description": "As a frontend developer or UI designer, this is definitely one of the most asked questions according...",
-  "cover_image": "",
-  "slug": "difference-between-responsive-design-and-adaptive-design-906",
-  "url": "https://dev.to/frontend_jedi/difference-between-responsive-design-and-adaptive-design-906",
-  "publish_date": "2023-01-21",
-  "published_at": "2023-01-21T00:58:25Z"
  }
 ]
