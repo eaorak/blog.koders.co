@@ -1,5 +1,55 @@
 [
  {
+  "id": 1454752,
+  "title": "Announcing Medusa’s Community Publication",
+  "description": "At Medusa, we’re introducing our new community publication, Medusa Community, hosted on Hashnode....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---uB0INM0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5vsyvgobp2ytpv1u082z.jpg",
+  "slug": "announcing-medusas-community-publication-e3f",
+  "url": "https://dev.to/medusajs/announcing-medusas-community-publication-e3f",
+  "publish_date": "2023-05-02",
+  "published_at": "2023-05-02T10:18:47Z"
+ },
+ {
+  "id": 1437811,
+  "title": "Building a course landing page with NextJS and React",
+  "description": "TL;DR   I have been working for Novu over the last year and have gained crazy growth Can you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--01WA67fZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uq67o04r66lmvpv0kaod.png",
+  "slug": "building-a-course-landing-page-with-nextjs-and-react-56kc",
+  "url": "https://dev.to/github20k/building-a-course-landing-page-with-nextjs-and-react-56kc",
+  "publish_date": "2023-05-02",
+  "published_at": "2023-05-02T10:00:05Z"
+ },
+ {
+  "id": 1454727,
+  "title": "How To Add In-App Notifications To Your Angular App",
+  "description": "TL;DR   This article explains how to add an in-app notification center to your Angular app...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IycJVBeM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/inn7cdel9mpa6kgp3qj9.png",
+  "slug": "how-to-add-in-app-notifications-to-your-angular-app-2dp3",
+  "url": "https://dev.to/novu/how-to-add-in-app-notifications-to-your-angular-app-2dp3",
+  "publish_date": "2023-05-02",
+  "published_at": "2023-05-02T08:50:55Z"
+ },
+ {
+  "id": 1454719,
+  "title": "⭐ An open-source tool for building React enterprise apps effortlessly in your browser",
+  "description": "🎉We are excited to announce our refine's first open-source cloud product: refine.new    refine.new...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WKbFkVkm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sp4530ztvh3ndedi36bw.png",
+  "slug": "an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7",
+  "url": "https://dev.to/necatiozmen/an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7",
+  "publish_date": "2023-05-02",
+  "published_at": "2023-05-02T08:15:42Z"
+ },
+ {
+  "id": 1454622,
+  "title": "Win amazing prizes with ConnectNovu Hackathon 🚀",
+  "description": "The ConnectNovu Hackathon is live 🤩 This is your time to showcase your skills, meet new team members...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vZpIiS1t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6hto9uqf9odahs5k2lhp.gif",
+  "slug": "win-amazing-prizes-with-connectnovu-hackathon-10pf",
+  "url": "https://dev.to/novu/win-amazing-prizes-with-connectnovu-hackathon-10pf",
+  "publish_date": "2023-05-02",
+  "published_at": "2023-05-02T05:38:32Z"
+ },
+ {
   "id": 1454150,
   "title": "Beyond Content Creation: How Open Source Contributions Can Help You Get Noticed",
   "description": "Looking to get noticed as a developer but don't have the time or resources to create content regularly? This blog post explains how open source contributions can help you build credibility, get noticed, and even land your dream job. Learn practical tips for contributing to open source projects, building a strong resume, and growing your network in the tech industry.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/udayanmaurya/type-vs-interface-45o7",
   "publish_date": "2023-01-23",
   "published_at": "2023-01-23T00:56:20Z"
- },
- {
-  "id": 1337581,
-  "title": "Improve Your HTML Semantic With Pico CSS😍",
-  "description": "People mainly use div tags instead of HTML semantics, and one question always arises, \"why should we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--65EAOBVw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dwt78lzq44rtk1js4xyn.png",
-  "slug": "improve-your-html-semantic-with-pico-css-4obp",
-  "url": "https://dev.to/arafat4693/improve-your-html-semantic-with-pico-css-4obp",
-  "publish_date": "2023-01-22",
-  "published_at": "2023-01-22T14:03:52Z"
- },
- {
-  "id": 1337593,
-  "title": "Web Assembly With Rust",
-  "description": "It is a universal binary code that is designed for the web.  Wasm uses a low virtual machine with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P7xRNN2g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/386g3dhkf66kgph8jgx2.png",
-  "slug": "web-assembly-with-rust-4gaf",
-  "url": "https://dev.to/chaudharypraveen98/web-assembly-with-rust-4gaf",
-  "publish_date": "2023-01-22",
-  "published_at": "2023-01-22T12:45:52Z"
- },
- {
-  "id": 1337466,
-  "title": "Difference Between DOM and Virtual DOM",
-  "description": "The Document Object Model (DOM) is a programming API for HTML and XML documents, and it represents...",
-  "cover_image": "",
-  "slug": "difference-between-dom-and-virtual-dom-2g8g",
-  "url": "https://dev.to/vamsi_76_89/difference-between-dom-and-virtual-dom-2g8g",
-  "publish_date": "2023-01-22",
-  "published_at": "2023-01-22T08:38:53Z"
- },
- {
-  "id": 1337400,
-  "title": "Top 10 Most Popular CSS Interview Questions 🦄",
-  "description": "Top 10 most popular CSS interview questions that you will most likely get during an interview 🦄  1️⃣...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6p-b-3Xj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/94pmzbmert9w8kj70fyj.png",
-  "slug": "top-10-most-popular-css-interview-questions-47cj",
-  "url": "https://dev.to/rammcodes/top-10-most-popular-css-interview-questions-47cj",
-  "publish_date": "2023-01-22",
-  "published_at": "2023-01-22T05:37:26Z"
- },
- {
-  "id": 1337356,
-  "title": "6 GitHub Repositories You Can't Live Without",
-  "description": "As a developer, you know that coding can be a time-consuming and complex process. But what if there...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5pIEbiM---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7n7nvgi70z5una4gea0l.png",
-  "slug": "6-github-repositories-you-cant-live-without-1mka",
-  "url": "https://dev.to/rahul3002/6-github-repositories-you-cant-live-without-1mka",
-  "publish_date": "2023-01-22",
-  "published_at": "2023-01-22T04:57:19Z"
  }
 ]
