@@ -1,5 +1,55 @@
 [
  {
+  "id": 1456249,
+  "title": "How to open source code from a private monorepo",
+  "description": "tl;dr   This post is about open-sourcing modules from a private monorepo. It’s a hard...",
+  "cover_image": "",
+  "slug": "how-to-open-source-code-from-a-private-monorepo-262o",
+  "url": "https://dev.to/carlossantillana/how-to-open-source-code-from-a-private-monorepo-262o",
+  "publish_date": "2023-05-03",
+  "published_at": "2023-05-03T16:13:26Z"
+ },
+ {
+  "id": 1456202,
+  "title": "Crafting Songs with ChatGPT and Sonic Pi: A Creative Collaboration",
+  "description": "Music is a universal language that has the power to evoke emotions, communicate stories, and connect...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n9tSXBfH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cjvuv5idnnc7e5ha8a38.png",
+  "slug": "crafting-songs-with-chatgpt-and-sonic-pi-a-creative-collaboration-4p3d",
+  "url": "https://dev.to/philipjohnbasile/crafting-songs-with-chatgpt-and-sonic-pi-a-creative-collaboration-4p3d",
+  "publish_date": "2023-05-03",
+  "published_at": "2023-05-03T14:25:30Z"
+ },
+ {
+  "id": 1456164,
+  "title": "How to implement a date picker in React",
+  "description": "Author: Irakli Tchigladze           Introduction   Having a date picker that is simple, intuitive and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5cWb78ne--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9u4z0zwrvcsqfvhnsqh.png",
+  "slug": "how-to-implement-a-date-picker-in-react-1n5l",
+  "url": "https://dev.to/refine/how-to-implement-a-date-picker-in-react-1n5l",
+  "publish_date": "2023-05-03",
+  "published_at": "2023-05-03T13:44:47Z"
+ },
+ {
+  "id": 1455911,
+  "title": "Native AOT: The Future of .NET App Development",
+  "description": "In the world of software development, performance and efficiency are crucial. The .NET framework has...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZLQldSBe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7nfqsm088tgx5kszsh7w.png",
+  "slug": "native-aot-the-future-of-net-app-development-47ha",
+  "url": "https://dev.to/bytehide/native-aot-the-future-of-net-app-development-47ha",
+  "publish_date": "2023-05-03",
+  "published_at": "2023-05-03T09:26:29Z"
+ },
+ {
+  "id": 1455683,
+  "title": "\"Everyone Should Learn to Code\" is Bullshit",
+  "description": "Deeply ingrained in the hiring practices of too much tech companies lies the basic assumption that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HTO3XFId--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/95jweu63iprkspbc963p.png",
+  "slug": "everyone-should-learn-to-code-is-bullshit-2mgk",
+  "url": "https://dev.to/jmfayard/everyone-should-learn-to-code-is-bullshit-2mgk",
+  "publish_date": "2023-05-03",
+  "published_at": "2023-05-03T04:52:47Z"
+ },
+ {
   "id": 1454752,
   "title": "Announcing Medusa’s Community Publication",
   "description": "At Medusa, we’re introducing our new community publication, Medusa Community, hosted on Hashnode....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/codepo8/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs-26bd",
   "publish_date": "2023-01-24",
   "published_at": "2023-01-24T12:57:52Z"
- },
- {
-  "id": 1338677,
-  "title": "Meme Monday 🫵",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qepYPDmH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tpuglwl0q5g03prkg4eb.png",
-  "slug": "meme-monday-40d1",
-  "url": "https://dev.to/ben/meme-monday-40d1",
-  "publish_date": "2023-01-23",
-  "published_at": "2023-01-23T16:19:27Z"
- },
- {
-  "id": 1337061,
-  "title": "Building personalised recommendation system (p.2)",
-  "description": "In the first part of the series on building a personalised music recommendation system, we discussed...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P2wDpWCN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/thrmf9fgqawzsmhiis78.jpg",
-  "slug": "building-personalised-recommendation-system-p2-53gk",
-  "url": "https://dev.to/vhutov/building-personalised-recommendation-system-p2-53gk",
-  "publish_date": "2023-01-23",
-  "published_at": "2023-01-23T11:25:51Z"
- },
- {
-  "id": 1335914,
-  "title": "Appwrite Loves Open Source: Why I decided to support Starship",
-  "description": "Open-source is at the ❤️ of everything we do at Appwrite, and we want to enable and foster the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6bpb8CYW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gl7sr9r9fzfjy4ofugui.jpg",
-  "slug": "appwrite-loves-open-source-why-i-decided-to-support-starship-3pfc",
-  "url": "https://dev.to/appwrite/appwrite-loves-open-source-why-i-decided-to-support-starship-3pfc",
-  "publish_date": "2023-01-23",
-  "published_at": "2023-01-23T10:21:00Z"
- },
- {
-  "id": 1338075,
-  "title": "How to upload images to S3 from a react application",
-  "description": "Caution:    _This post doesn't demonstrate best practices as many pointed out in the comment section....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jbHVa8zb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5qiekrcodx4wby7ovn7j.png",
-  "slug": "how-to-upload-images-to-s3-in-a-react-application-4lm",
-  "url": "https://dev.to/shadid12/how-to-upload-images-to-s3-in-a-react-application-4lm",
-  "publish_date": "2023-01-23",
-  "published_at": "2023-01-23T01:22:27Z"
- },
- {
-  "id": 1337955,
-  "title": "TypeScript: type vs interface",
-  "description": "Let's resolve this forever outstanding question: Should I use type or interface?  Spoiler: It's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wNZ_-3sV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mkqqvj2muisjb6l3qr0.jpg",
-  "slug": "type-vs-interface-45o7",
-  "url": "https://dev.to/udayanmaurya/type-vs-interface-45o7",
-  "publish_date": "2023-01-23",
-  "published_at": "2023-01-23T00:56:20Z"
  }
 ]
