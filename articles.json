@@ -1,5 +1,55 @@
 [
  {
+  "id": 1457334,
+  "title": "Rust 🦀 CRUD Rest API",
+  "description": "Let's create a CRUD Rest API in Rust using:   No specific framework Serde to serialize and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pC_iwPsB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r9kruunjy3ipqthljxo8.png",
+  "slug": "rust-crud-rest-api-3n45",
+  "url": "https://dev.to/francescoxx/rust-crud-rest-api-3n45",
+  "publish_date": "2023-05-04",
+  "published_at": "2023-05-04T14:03:52Z"
+ },
+ {
+  "id": 1457309,
+  "title": "Which programming ecosystems are helped and hurt by generative AI?",
+  "description": "Which languages, frameworks, infrastructure, etc. is set to become more useful and important, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--owHl8U6J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dy5xiwh15zz6cfdqxqit.png",
+  "slug": "which-programming-ecosystems-are-helped-and-hurt-by-generative-ai-3m38",
+  "url": "https://dev.to/ben/which-programming-ecosystems-are-helped-and-hurt-by-generative-ai-3m38",
+  "publish_date": "2023-05-04",
+  "published_at": "2023-05-04T13:31:29Z"
+ },
+ {
+  "id": 1457110,
+  "title": "Hashnode Bootcamp Day 3: Monetizing Your Expertise and Exploring Opportunities",
+  "description": "Hey there! Did you hear about the Hashnode Bootcamp? It was a three-day event from May 1-3 that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_LmMycTU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jqnw9d5sy5h15kzilwla.png",
+  "slug": "hashnode-bootcamp-day-3-monetizing-your-expertise-and-exploring-opportunities-2i2c",
+  "url": "https://dev.to/imsampro/hashnode-bootcamp-day-3-monetizing-your-expertise-and-exploring-opportunities-2i2c",
+  "publish_date": "2023-05-04",
+  "published_at": "2023-05-04T09:29:46Z"
+ },
+ {
+  "id": 1457105,
+  "title": "Hashnode Bootcamp Day 2: Personal Branding and Community Engagement",
+  "description": "Hey there! Did you hear about the Hashnode Bootcamp? It was a three-day event from May 1-3 that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RwDI7NWb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jr56nn9wahqx5zgsfh4t.png",
+  "slug": "hashnode-bootcamp-day-2-personal-branding-and-community-engagement-3ocp",
+  "url": "https://dev.to/imsampro/hashnode-bootcamp-day-2-personal-branding-and-community-engagement-3ocp",
+  "publish_date": "2023-05-04",
+  "published_at": "2023-05-04T09:24:14Z"
+ },
+ {
+  "id": 1457038,
+  "title": "Hashnode Bootcamp Day 1: Welcome and Introduction to Writing for Developers",
+  "description": "Hey there! Did you hear about the Hashnode Bootcamp? It was a three-day event from May 1-3 that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VOvunjYR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/owwk00tgqo3vx21wmsm4.png",
+  "slug": "hashnode-bootcamp-day-1-welcome-and-introduction-to-writing-for-developers-1icp",
+  "url": "https://dev.to/imsampro/hashnode-bootcamp-day-1-welcome-and-introduction-to-writing-for-developers-1icp",
+  "publish_date": "2023-05-04",
+  "published_at": "2023-05-04T09:17:07Z"
+ },
+ {
   "id": 1456249,
   "title": "How to open source code from a private monorepo",
   "description": "tl;dr   This post is about open-sourcing modules from a private monorepo. It’s a hard...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rahul3002/4-simple-ways-for-developers-to-earn-an-extra-500-per-month-53b7",
   "publish_date": "2023-01-25",
   "published_at": "2023-01-25T04:20:50Z"
- },
- {
-  "id": 1335979,
-  "title": "Announcing the Linode + DEV Hackathon!",
-  "description": "Join us for this opportunity to build an awesome application with Linode while earning some great prizes",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oj6lVp0W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7brex760nh4niita1b8j.jpg",
-  "slug": "announcing-the-linode-dev-hackathon-377p",
-  "url": "https://dev.to/devteam/announcing-the-linode-dev-hackathon-377p",
-  "publish_date": "2023-01-24",
-  "published_at": "2023-01-24T20:28:07Z"
- },
- {
-  "id": 1339953,
-  "title": "Fast and reliable end-to-end tests with Playwright on GitHub Actions",
-  "description": "Playwright is a powerful web testing tool supporting Chromium, Firefox and WebKit engines. The...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g661VxvB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xqtf8v6oxs4lowzz2d5n.jpg",
-  "slug": "fast-and-reliable-end-to-end-tests-with-playwright-on-github-actions-2mkh",
-  "url": "https://dev.to/drakulavich/fast-and-reliable-end-to-end-tests-with-playwright-on-github-actions-2mkh",
-  "publish_date": "2023-01-24",
-  "published_at": "2023-01-24T17:48:30Z"
- },
- {
-  "id": 1328107,
-  "title": "8 Best C++ IDEs to use in 2023",
-  "description": "Today’s post is devoted to 8 popular C++ programming environments. Many of them also support other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a7CtYg3d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/adi8pxyxl0alucuw9jjj.JPG",
-  "slug": "8-best-c-ides-to-use-in-2023-4kf5",
-  "url": "https://dev.to/mariamarsh/8-best-c-ides-to-use-in-2023-4kf5",
-  "publish_date": "2023-01-24",
-  "published_at": "2023-01-24T16:17:00Z"
- },
- {
-  "id": 1339699,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-4ffi",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4ffi",
-  "publish_date": "2023-01-24",
-  "published_at": "2023-01-24T14:46:47Z"
- },
- {
-  "id": 1339613,
-  "title": "Things to do and not to do during a wave of tech layoffs",
-  "description": "Tech layoffs suck, and I lived through five of them. Here are some tips to deal with them.",
-  "cover_image": "",
-  "slug": "things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs-26bd",
-  "url": "https://dev.to/codepo8/things-to-do-and-not-to-do-during-a-wave-of-tech-layoffs-26bd",
-  "publish_date": "2023-01-24",
-  "published_at": "2023-01-24T12:57:52Z"
  }
 ]
