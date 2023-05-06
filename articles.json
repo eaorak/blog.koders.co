@@ -1,5 +1,55 @@
 [
  {
+  "id": 1458310,
+  "title": "HTTP/1 vs HTTP/2 vs HTTP/3",
+  "description": "You use it every day. You're using it right now. But do you really know how the HTTP protocol works,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p6CxkVkZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22rbtphfsv3mqoj3o71s.png",
+  "slug": "http1-vs-http2-vs-http3-2k1c",
+  "url": "https://dev.to/accreditly/http1-vs-http2-vs-http3-2k1c",
+  "publish_date": "2023-05-05",
+  "published_at": "2023-05-05T10:12:24Z"
+ },
+ {
+  "id": 1456873,
+  "title": "AdaGPT: My Learnings While Building a GitHub Action",
+  "description": "I posted my GitHub Action, AdaGPT, for the GitHub Hackathon here on DEV.to a few days ago. While...",
+  "cover_image": "",
+  "slug": "adagpt-my-learnings-while-building-a-github-action-55ec",
+  "url": "https://dev.to/zirkelc/adagpt-my-learnings-while-building-a-github-action-55ec",
+  "publish_date": "2023-05-05",
+  "published_at": "2023-05-05T08:06:54Z"
+ },
+ {
+  "id": 1458217,
+  "title": "AI, the End of the World?",
+  "description": "If you read what Elon Musk and others believe about AI and ChatGPT, it might seem as if the doomsday...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FGT8hDGT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y1bnt46vii7qqvlp2gwe.jpg",
+  "slug": "ai-the-end-of-the-world-4a60",
+  "url": "https://dev.to/polterguy/ai-the-end-of-the-world-4a60",
+  "publish_date": "2023-05-05",
+  "published_at": "2023-05-05T07:34:10Z"
+ },
+ {
+  "id": 1457909,
+  "title": "Fan Friday: Let's Give a Shout Out to Some Fantastic Folks in the Community",
+  "description": "Today, we want to take a moment to show some love to our fellow developers. Whether you're a seasoned...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vw_Lqtp6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y4qj373la0tlmgv2nwqb.png",
+  "slug": "fan-friday-lets-give-a-shout-out-to-some-fantastic-folks-in-the-community-p6p",
+  "url": "https://dev.to/devteam/fan-friday-lets-give-a-shout-out-to-some-fantastic-folks-in-the-community-p6p",
+  "publish_date": "2023-05-05",
+  "published_at": "2023-05-05T07:00:00Z"
+ },
+ {
+  "id": 1457791,
+  "title": "Now, I know the reasons why Firefox is falling... apart... The fox's downfall explained",
+  "description": "First, I want to let you guys and gals know that I moved from Chrome to Firefox yesterday! It's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CXbmYpsg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gr1yy8trwvc87c54jeyk.jpg",
+  "slug": "now-i-know-the-reasons-why-firefox-is-falling-apart-the-foxs-downfall-explained-1dee",
+  "url": "https://dev.to/archerallstars/now-i-know-the-reasons-why-firefox-is-falling-apart-the-foxs-downfall-explained-1dee",
+  "publish_date": "2023-05-05",
+  "published_at": "2023-05-05T05:55:22Z"
+ },
+ {
   "id": 1457334,
   "title": "Rust 🦀 CRUD Rest API",
   "description": "Let's create a CRUD Rest API in Rust using:   No specific framework Serde to serialize and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/my-favorite-system-design-and-software-architecture-books-for-experienced-developers-2ced",
   "publish_date": "2023-01-26",
   "published_at": "2023-01-26T07:01:06Z"
- },
- {
-  "id": 1340893,
-  "title": "Deliver perfect HTTP security headers with AWS CloudFront",
-  "description": "HTTP security headers protects your users from common attacks. AWS CloudFront makes it easy to add HTTP security headers to your application.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qEVeT9Ug--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q5f8qmpiczu9jzvx6mb2.png",
-  "slug": "deliver-perfect-http-security-headers-with-aws-cloudfront-4din",
-  "url": "https://dev.to/kumo/deliver-perfect-http-security-headers-with-aws-cloudfront-4din",
-  "publish_date": "2023-01-25",
-  "published_at": "2023-01-25T15:30:01Z"
- },
- {
-  "id": 1340680,
-  "title": "Creating a website brand with ChatGPT, Stable Diffusion, React and NodeJS 🤯",
-  "description": "TLDR;   In this article, you'll learn how to build a web application that uses ChatGPT and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XqRqBGhb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wkqxtofdbfxm8odzj7as.png",
-  "slug": "creating-a-website-brand-with-chatgpt-stable-diffusion-react-and-nodejs-e79",
-  "url": "https://dev.to/novu/creating-a-website-brand-with-chatgpt-stable-diffusion-react-and-nodejs-e79",
-  "publish_date": "2023-01-25",
-  "published_at": "2023-01-25T15:26:02Z"
- },
- {
-  "id": 1336761,
-  "title": "Top 10 VS Code Extensions to boost your Productivity in 2023",
-  "description": "Table of contents    Introduction 1. Bito AI 2. Bookmarks 3. Code Spell Checker 4. Better...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9X2xVv4W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jhfzf42uedagrn5yzav7.jpg",
-  "slug": "top-10-vs-code-extensions-to-boost-your-productivity-in-2023-47ml",
-  "url": "https://dev.to/developeratul/top-10-vs-code-extensions-to-boost-your-productivity-in-2023-47ml",
-  "publish_date": "2023-01-25",
-  "published_at": "2023-01-25T11:02:11Z"
- },
- {
-  "id": 1340508,
-  "title": "NodeJS with Kafka: Build Async Programs with ease",
-  "description": "📍 Sync and Async Programming   😶‍🌫️ In modern world with so many complexities in Software...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oGa_uzQ---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mqhdwm24pof45suxt9kb.png",
-  "slug": "nodejs-with-kafka-build-async-programs-with-ease-11n3",
-  "url": "https://dev.to/lovepreetsingh/nodejs-with-kafka-build-async-programs-with-ease-11n3",
-  "publish_date": "2023-01-25",
-  "published_at": "2023-01-25T07:27:17Z"
- },
- {
-  "id": 1340423,
-  "title": "4 simple ways for developers to earn an extra $500 per month",
-  "description": "As a developer, you're likely always looking for ways to improve your skills and advance your career....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eNWJKoLE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jrvu3jt10z7w8jl62fbi.jpeg",
-  "slug": "4-simple-ways-for-developers-to-earn-an-extra-500-per-month-53b7",
-  "url": "https://dev.to/rahul3002/4-simple-ways-for-developers-to-earn-an-extra-500-per-month-53b7",
-  "publish_date": "2023-01-25",
-  "published_at": "2023-01-25T04:20:50Z"
  }
 ]
