@@ -1,5 +1,55 @@
 [
  {
+  "id": 1458584,
+  "title": "Vulnerabilidade de Software Para Devs",
+  "description": "O mínimo que qualquer pessoa desenvolvedora deve saber sobre vulnerabilidades   TL,DR O artigo aborda...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6YZU9HR7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/smswskodgwyq6s5bkk8f.png",
+  "slug": "vulnerabilidade-de-software-para-devs-21ne",
+  "url": "https://dev.to/juligaioso/vulnerabilidade-de-software-para-devs-21ne",
+  "publish_date": "2023-05-06",
+  "published_at": "2023-05-06T13:24:16Z"
+ },
+ {
+  "id": 1458016,
+  "title": "DevRel is marketing in disguise",
+  "description": "DevRel vs Marketing: The similarities and differences",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4kkzdP----/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/74h1b6sw6sa6x6h8dn0m.PNG",
+  "slug": "devrel-is-marketing-in-disguise-o07",
+  "url": "https://dev.to/codingnninja/devrel-is-marketing-in-disguise-o07",
+  "publish_date": "2023-05-06",
+  "published_at": "2023-05-06T12:48:16Z"
+ },
+ {
+  "id": 1459271,
+  "title": "Open-source Admin template dashboard for Tailwind CSS React ⭐️",
+  "description": "Start building your dashboard with Horizon UI, the trendiest open-source admin dashboard template for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--glzdzu0d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ydp9obuscbjnfd4u9i1p.png",
+  "slug": "open-source-admin-template-dashboard-for-tailwind-css-react-1glj",
+  "url": "https://dev.to/fredy/open-source-admin-template-dashboard-for-tailwind-css-react-1glj",
+  "publish_date": "2023-05-06",
+  "published_at": "2023-05-06T08:19:29Z"
+ },
+ {
+  "id": 1459265,
+  "title": "[Nestia] I made automatic e2e test functions generator for NestJS",
+  "description": "Outline   Automatic E2E (End-to-End) test functions generator for NestJS  I made automatic...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9N7G-7Xc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/550yicrv4hp8luhczo6m.png",
+  "slug": "nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p",
+  "url": "https://dev.to/samchon/nestia-i-made-automatic-e2e-test-functions-generator-for-nestjs-4o3p",
+  "publish_date": "2023-05-06",
+  "published_at": "2023-05-06T08:04:55Z"
+ },
+ {
+  "id": 1456181,
+  "title": "Is CodeGym Free? Is CodeGym Premium really worth it?",
+  "description": "Review of CodeGym platform for learning Java, include both free and paid version of CodeGym",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7btHPtu8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0w24mpziu33tfob6jfe7.png",
+  "slug": "is-codegym-free-is-codegym-premium-really-worth-it-33o8",
+  "url": "https://dev.to/javinpaul/is-codegym-free-is-codegym-premium-really-worth-it-33o8",
+  "publish_date": "2023-05-06",
+  "published_at": "2023-05-06T04:56:08Z"
+ },
+ {
   "id": 1458310,
   "title": "HTTP/1 vs HTTP/2 vs HTTP/3",
   "description": "You use it every day. You're using it right now. But do you really know how the HTTP protocol works,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jasonh33/git-commit-patterns-5dm7",
   "publish_date": "2023-01-27",
   "published_at": "2023-01-27T03:00:00Z"
- },
- {
-  "id": 1340621,
-  "title": "Deploying ML models straight from Jupyter Notebooks",
-  "description": "Winter is a time of magic 🧙‍♂️. Everyone is waiting for something special at this time, and Data...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B6JWwvVE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yvgkj1azb2p53socyxya.jpg",
-  "slug": "deploying-ml-models-straight-from-jupyter-notebooks-12bh",
-  "url": "https://dev.to/aguschin/deploying-ml-models-straight-from-jupyter-notebooks-12bh",
-  "publish_date": "2023-01-26",
-  "published_at": "2023-01-26T16:10:10Z"
- },
- {
-  "id": 1342132,
-  "title": "Flaky Tests, and How to Deal with Them",
-  "description": "Intro   Hey! My name is Yarden Porat, and in this article, I will explain what flaky tests...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4g-DBaSW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fd9x00h9c30emh22t4h2.jpg",
-  "slug": "flaky-tests-and-how-to-deal-with-them-2id2",
-  "url": "https://dev.to/codux/flaky-tests-and-how-to-deal-with-them-2id2",
-  "publish_date": "2023-01-26",
-  "published_at": "2023-01-26T15:45:35Z"
- },
- {
-  "id": 1342115,
-  "title": "Essential Design Patterns in Java",
-  "description": "Design patterns are reusable solutions to common software design problems. They provide a way to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rNlK_cUb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16i8xz7qsda9hmv5k9rr.jpg",
-  "slug": "essential-design-patterns-in-java-2pgd",
-  "url": "https://dev.to/cliffsilla/essential-design-patterns-in-java-2pgd",
-  "publish_date": "2023-01-26",
-  "published_at": "2023-01-26T09:53:30Z"
- },
- {
-  "id": 1341971,
-  "title": "Why I Decided to Invest in My Portfolio as a Junior Developer",
-  "description": "As a junior developer, it can be easy to overlook the importance of investing in your portfolio....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QBBQrRI_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5agaphzjics2c6mvxwqn.jpeg",
-  "slug": "why-i-decided-to-invest-in-my-portfolio-as-a-junior-developer-428p",
-  "url": "https://dev.to/viktoriabors/why-i-decided-to-invest-in-my-portfolio-as-a-junior-developer-428p",
-  "publish_date": "2023-01-26",
-  "published_at": "2023-01-26T07:18:15Z"
- },
- {
-  "id": 1341907,
-  "title": "My Favorite System Design and Software Architecture Books for Experienced Developers",
-  "description": "These are the best System Design and Software Architecture Books for Programmers, Developer, and experienced developers who want to become software architect",
-  "cover_image": "",
-  "slug": "my-favorite-system-design-and-software-architecture-books-for-experienced-developers-2ced",
-  "url": "https://dev.to/javinpaul/my-favorite-system-design-and-software-architecture-books-for-experienced-developers-2ced",
-  "publish_date": "2023-01-26",
-  "published_at": "2023-01-26T07:01:06Z"
  }
 ]
