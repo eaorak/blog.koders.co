@@ -1,5 +1,55 @@
 [
  {
+  "id": 1451939,
+  "title": "How Open Source Enabled Kubernetes’ Success",
+  "description": "This article is based on an interview with Kubernetes co-founder Brendan Burns who appeared on the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e1uawSRO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/calj3q9eocbcuf0ad13s.png",
+  "slug": "how-open-source-enabled-kubernetes-success-mnc",
+  "url": "https://dev.to/linearb/how-open-source-enabled-kubernetes-success-mnc",
+  "publish_date": "2023-05-07",
+  "published_at": "2023-05-07T20:46:52Z"
+ },
+ {
+  "id": 1460225,
+  "title": "useEffect - The Hook React Never Should Have Rendered",
+  "description": "React was once a fantastic library. Quick to learn, easy to customize and made it easy for you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8RLbTLp2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0hj07bkbjcbj356e0ny3.png",
+  "slug": "useeffect-the-hook-react-never-should-have-rendered-195h",
+  "url": "https://dev.to/perssondennis/useeffect-the-hook-react-never-should-have-rendered-195h",
+  "publish_date": "2023-05-07",
+  "published_at": "2023-05-07T14:29:00Z"
+ },
+ {
+  "id": 1460338,
+  "title": "What is the difference between frameworks and libraries?",
+  "description": "As a developer, it's important to understand the difference between frameworks and libraries, as they...",
+  "cover_image": "",
+  "slug": "what-is-the-difference-between-frameworks-and-libraries-294a",
+  "url": "https://dev.to/ugbabeog/what-is-the-difference-between-frameworks-and-libraries-294a",
+  "publish_date": "2023-05-07",
+  "published_at": "2023-05-07T14:16:04Z"
+ },
+ {
+  "id": 1460213,
+  "title": "If John Wick was a programmer, what language would he use?",
+  "description": "Let's get the discussion going! If John Wick were a programmer, what language do you think he would...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r2nyfZ2e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gld3dvz5ovuo9pp653af.jpg",
+  "slug": "if-john-wick-was-a-programmer-what-language-would-he-use-5949",
+  "url": "https://dev.to/ugbabeog/if-john-wick-was-a-programmer-what-language-would-he-use-5949",
+  "publish_date": "2023-05-07",
+  "published_at": "2023-05-07T10:34:25Z"
+ },
+ {
+  "id": 1460016,
+  "title": "Amazon says Micro Services are Rubbish",
+  "description": "More than a year ago I started on an article series where I wanted to debunk the myths of software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5NNxLeHz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cse3mzvswexkvee8dinj.jpeg",
+  "slug": "amazon-says-micro-services-are-rubbish-1igm",
+  "url": "https://dev.to/polterguy/amazon-says-micro-services-are-rubbish-1igm",
+  "publish_date": "2023-05-07",
+  "published_at": "2023-05-07T04:51:33Z"
+ },
+ {
   "id": 1458584,
   "title": "Vulnerabilidade de Software Para Devs",
   "description": "O mínimo que qualquer pessoa desenvolvedora deve saber sobre vulnerabilidades   TL,DR O artigo aborda...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gustavupp/5-life-changing-lessons-i-learned-from-being-laid-off-that-will-put-you-ahead-of-97-of-people-1fb7",
   "publish_date": "2023-01-28",
   "published_at": "2023-01-28T02:21:09Z"
- },
- {
-  "id": 1344193,
-  "title": "What was your win this week?",
-  "description": "Hey y'all! 👋  Hope everybody has an awesome weekend!  Looking back on this past week, what was...",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-f70",
-  "url": "https://dev.to/michaeltharrington/what-was-your-win-this-week-f70",
-  "publish_date": "2023-01-27",
-  "published_at": "2023-01-27T20:53:56Z"
- },
- {
-  "id": 1343355,
-  "title": "GKE Security: Top 10 Strategies for Securing Your Cluster",
-  "description": "Security is one of key challenges in Kubernetes because of its configuration complexity and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fgcBHEDK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g5r8rixqol717iwg3ld1.png",
-  "slug": "gke-security-top-10-strategies-for-securing-your-cluster-1p66",
-  "url": "https://dev.to/castai/gke-security-top-10-strategies-for-securing-your-cluster-1p66",
-  "publish_date": "2023-01-27",
-  "published_at": "2023-01-27T10:24:54Z"
- },
- {
-  "id": 1343265,
-  "title": "The 10 Signs That You Need To Hire A Web Developer",
-  "description": "Having a web-based identity in the form website is critical today. Regardless of your industry or the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TWi8QwGB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a9te2jgw2waix7evm391.png",
-  "slug": "the-10-signs-that-you-need-to-hire-a-web-developer-54cc",
-  "url": "https://dev.to/quokkalabs/the-10-signs-that-you-need-to-hire-a-web-developer-54cc",
-  "publish_date": "2023-01-27",
-  "published_at": "2023-01-27T10:05:02Z"
- },
- {
-  "id": 1343249,
-  "title": "20 Killer JavaScript One-Liners That’ll Save You Hours of Coding 🤯🔥",
-  "description": "Take your JavaScript skills to the next level with these essential one-liners that will also save you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x5TIXS6B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jxc9uzhsads1z932whnz.jpg",
-  "slug": "20-killer-javascript-one-liners-thatll-save-you-hours-of-coding-o14",
-  "url": "https://dev.to/rammcodes/20-killer-javascript-one-liners-thatll-save-you-hours-of-coding-o14",
-  "publish_date": "2023-01-27",
-  "published_at": "2023-01-27T09:32:15Z"
- },
- {
-  "id": 1341232,
-  "title": "Git Commit Patterns",
-  "description": "The use of Git for us Devs is something essential, whether in personal projects, open source with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yEg6wphx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tjpuzy352lt8udzoex4i.png",
-  "slug": "git-commit-patterns-5dm7",
-  "url": "https://dev.to/jasonh33/git-commit-patterns-5dm7",
-  "publish_date": "2023-01-27",
-  "published_at": "2023-01-27T03:00:00Z"
  }
 ]
