@@ -1,5 +1,55 @@
 [
  {
+  "id": 1350545,
+  "title": "Typescript: Interface",
+  "description": "In this article, you'll learn about what interface are and how to use them, along with the difference...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Mf8Imu1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yc75wm84701b20xxzmnk.png",
+  "slug": "typescript-interface-3748",
+  "url": "https://dev.to/j471n/typescript-interface-3748",
+  "publish_date": "2023-05-10",
+  "published_at": "2023-05-10T17:10:52Z"
+ },
+ {
+  "id": 1462827,
+  "title": "Learn serverless on AWS step-by-step - Step Functions",
+  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UGJEoRVJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/step-functions/assets/cover-image.png",
+  "slug": "learn-serverless-on-aws-step-by-step-step-functions-4m7c",
+  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-step-functions-4m7c",
+  "publish_date": "2023-05-10",
+  "published_at": "2023-05-10T13:02:46Z"
+ },
+ {
+  "id": 1463452,
+  "title": "How to use Material UI Modal",
+  "description": "Author: Doro Onome           Introduction   Material UI is a popular front-end library for React that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cbA-8N_v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ei7mdpgeefpqmiss2d2q.png",
+  "slug": "how-to-use-material-ui-modal-21dh",
+  "url": "https://dev.to/refine/how-to-use-material-ui-modal-21dh",
+  "publish_date": "2023-05-10",
+  "published_at": "2023-05-10T11:44:56Z"
+ },
+ {
+  "id": 1463279,
+  "title": "Speeding up B2B pricing on your website",
+  "description": "It's all 'bout the money. It's all 'bout the dum dum da da dum dum. If you were rocking it in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DhDFDKx6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2gjmf7oyyb9qstfezu7b.png",
+  "slug": "speeding-up-b2b-pricing-on-your-website-112i",
+  "url": "https://dev.to/enterspeed/speeding-up-b2b-pricing-on-your-website-112i",
+  "publish_date": "2023-05-10",
+  "published_at": "2023-05-10T08:22:01Z"
+ },
+ {
+  "id": 1463190,
+  "title": "How to Judo Mansplaining",
+  "description": "Mansplaining, like menstruating, is a regular, unpleasant and even infuriating aspect of being a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GvIKDb6C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vzkri1jvqej0qxwj6ae0.png",
+  "slug": "how-do-judo-mansplaining-471g",
+  "url": "https://dev.to/jmfayard/how-do-judo-mansplaining-471g",
+  "publish_date": "2023-05-10",
+  "published_at": "2023-05-10T05:22:41Z"
+ },
+ {
   "id": 1462420,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lucamug/elm-2022-a-year-in-review-33pp",
   "publish_date": "2023-01-31",
   "published_at": "2023-01-31T01:17:40Z"
- },
- {
-  "id": 1346933,
-  "title": "Meme Monday 👁",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hD8_vgz2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f1zo4spxh0zuxp9ogfo5.png",
-  "slug": "meme-monday-5h2e",
-  "url": "https://dev.to/ben/meme-monday-5h2e",
-  "publish_date": "2023-01-30",
-  "published_at": "2023-01-30T16:12:38Z"
- },
- {
-  "id": 1346402,
-  "title": "Just Launched Dyte on Product Hunt",
-  "description": "What is Dyte?   Dyte is a live video calling SDK that lets you embed completely customizable...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1mkvJ3jy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bj44624m6izo2exnufy7.png",
-  "slug": "just-launched-dyte-on-product-hunt-4h3f",
-  "url": "https://dev.to/dyte/just-launched-dyte-on-product-hunt-4h3f",
-  "publish_date": "2023-01-30",
-  "published_at": "2023-01-30T09:28:42Z"
- },
- {
-  "id": 1346356,
-  "title": "7 Awesome Free APIs for Your Next Node.js Project",
-  "description": "This article was originally published at...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--miYZakj0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7d3o2kvwqyhe1xxtftmt.png",
-  "slug": "7-awesome-free-apis-for-your-next-nodejs-project-41m1",
-  "url": "https://dev.to/maximization/7-awesome-free-apis-for-your-next-nodejs-project-41m1",
-  "publish_date": "2023-01-30",
-  "published_at": "2023-01-30T05:48:09Z"
- },
- {
-  "id": 1346354,
-  "title": "Must have websites for every Frontend Web developer",
-  "description": "Frontend Web development can be tough sometimes when you don’t have some essential tools to make your...",
-  "cover_image": "",
-  "slug": "must-have-websites-for-every-frontend-web-developer-3ajm",
-  "url": "https://dev.to/hy_piyush/must-have-websites-for-every-frontend-web-developer-3ajm",
-  "publish_date": "2023-01-30",
-  "published_at": "2023-01-30T05:37:36Z"
- },
- {
-  "id": 1346302,
-  "title": "Top 20 React.JS interview questions.",
-  "description": "As a React developer, it is important to have a solid understanding of the framework's key concepts...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oZIXSLEi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hzpzbmsxkn9gwh2tv0xa.png",
-  "slug": "top-20-reactjs-interview-questions-3a0m",
-  "url": "https://dev.to/said7388/top-20-reactjs-interview-questions-3a0m",
-  "publish_date": "2023-01-30",
-  "published_at": "2023-01-30T05:03:33Z"
  }
 ]
