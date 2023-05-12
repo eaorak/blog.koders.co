@@ -1,5 +1,55 @@
 [
  {
+  "id": 1372916,
+  "title": "🔦 Community Spotlight - Building Idea Xchange, a Networking App🔦",
+  "description": "Highlighting projects from the Appwrite community           Introduction   With Appwrite’s developer...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W_fW9KUz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3aj2155z3w9chwfhq2p6.jpg",
+  "slug": "community-spotlight-building-idea-xchange-a-networking-app-5db4",
+  "url": "https://dev.to/appwrite/community-spotlight-building-idea-xchange-a-networking-app-5db4",
+  "publish_date": "2023-05-11",
+  "published_at": "2023-05-11T16:26:58Z"
+ },
+ {
+  "id": 1464545,
+  "title": "Monoliths to Microservices using the Strangler Pattern",
+  "description": "Learn how the Strangler Pattern can help you gradually refactor your monolithic applications to microservices, minimizing risks and downtime.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rKEWeDIw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/monoliths-to-microservices-using-the-strangler-pattern/hero.png",
+  "slug": "monoliths-to-microservices-using-the-strangler-pattern-25h2",
+  "url": "https://dev.to/amplication/monoliths-to-microservices-using-the-strangler-pattern-25h2",
+  "publish_date": "2023-05-11",
+  "published_at": "2023-05-11T09:17:05Z"
+ },
+ {
+  "id": 1464530,
+  "title": "⚡refine.new - Introducing the Fastest Way to Create React Apps",
+  "description": "Discover how refine.new  and the refine  framework are transforming the way developers create...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Jh4Z_5T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/47e851m0brkc449idj7g.png",
+  "slug": "refinenew-introducing-the-fastest-way-to-create-refine-apps-3c6n",
+  "url": "https://dev.to/refine/refinenew-introducing-the-fastest-way-to-create-refine-apps-3c6n",
+  "publish_date": "2023-05-11",
+  "published_at": "2023-05-11T08:41:45Z"
+ },
+ {
+  "id": 1457540,
+  "title": "Managing Data Residency - concepts and theory",
+  "description": "Cloud computing has opened a Pandora's Box of many original issues compared to sound old on-premise...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FmZUsgHB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p5qrhpgtpc5rbaeyuwa8.jpg",
+  "slug": "managing-data-residency-concepts-and-theory-1505",
+  "url": "https://dev.to/apisix/managing-data-residency-concepts-and-theory-1505",
+  "publish_date": "2023-05-11",
+  "published_at": "2023-05-11T07:24:46Z"
+ },
+ {
+  "id": 1462028,
+  "title": "My Favorite Books for Coding Interviews",
+  "description": "These are my favorite books for coding interviews, programming job interviews and other software development tech interviews. ",
+  "cover_image": "",
+  "slug": "my-favorite-books-for-coding-interviews-106j",
+  "url": "https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j",
+  "publish_date": "2023-05-11",
+  "published_at": "2023-05-11T03:33:43Z"
+ },
+ {
   "id": 1350545,
   "title": "Typescript: Interface",
   "description": "In this article, you'll learn about what interface are and how to use them, along with the difference...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj",
   "publish_date": "2023-02-01",
   "published_at": "2023-02-01T04:44:24Z"
- },
- {
-  "id": 1348247,
-  "title": "Welcome @devintelbyte, the 1 millionth registered DEV!",
-  "description": "DEV just passed 1 million registered members, and the 1 millionth is @devintelbyte 😆.  Thank you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A-fmVSE2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lsnan4444qdt47he2ty3.png",
-  "slug": "welcome-devintelbyte-the-1-millionth-registered-dev-381i",
-  "url": "https://dev.to/devteam/welcome-devintelbyte-the-1-millionth-registered-dev-381i",
-  "publish_date": "2023-01-31",
-  "published_at": "2023-01-31T14:45:08Z"
- },
- {
-  "id": 1348069,
-  "title": "Understanding Color and Accessibility",
-  "description": "When it comes to making your applications accessible, the colors that you choose play a huge role!...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qphA84QK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1631127887321-0a2cf902a002%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1170%26q%3D80",
-  "slug": "understanding-color-and-accessibility-n6p",
-  "url": "https://dev.to/kathryngrayson/understanding-color-and-accessibility-n6p",
-  "publish_date": "2023-01-31",
-  "published_at": "2023-01-31T13:53:49Z"
- },
- {
-  "id": 1344456,
-  "title": "Chrome Extensions of the Month - January 2023",
-  "description": "In this article, I will suggest to you some of the best extensions you need to install for better...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CGjPlHTk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lxs3xylmb1p0htvon1v4.png",
-  "slug": "chrome-extensions-of-the-month-january-2023-4agc",
-  "url": "https://dev.to/j471n/chrome-extensions-of-the-month-january-2023-4agc",
-  "publish_date": "2023-01-31",
-  "published_at": "2023-01-31T05:30:00Z"
- },
- {
-  "id": 1347599,
-  "title": "Understanding the javascript:void(0) Statement",
-  "description": "Occasionally, you may come across an HTML document that includes the use of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PfKkMZ_u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4txfz71uvjsom1c7r4n9.png",
-  "slug": "understanding-the-javascriptvoid0-statement-2dna",
-  "url": "https://dev.to/codeofrelevancy/understanding-the-javascriptvoid0-statement-2dna",
-  "publish_date": "2023-01-31",
-  "published_at": "2023-01-31T04:51:32Z"
- },
- {
-  "id": 1346384,
-  "title": "Elm 2022, a year in review",
-  "description": "A list of contributions made in the year 2022 to the Elm  language. From blog posts to videos, from tutorials to demos.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--axEw8B0C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://lucamug.github.io/elm-a-year-in-review/images2022/cover2022-2.jpeg",
-  "slug": "elm-2022-a-year-in-review-33pp",
-  "url": "https://dev.to/lucamug/elm-2022-a-year-in-review-33pp",
-  "publish_date": "2023-01-31",
-  "published_at": "2023-01-31T01:17:40Z"
  }
 ]
