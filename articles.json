@@ -1,5 +1,55 @@
 [
  {
+  "id": 1465969,
+  "title": "What was your win this week?",
+  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
+  "cover_image": "",
+  "slug": "what-was-your-win-this-week-3c91",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-3c91",
+  "publish_date": "2023-05-12",
+  "published_at": "2023-05-12T14:02:32Z"
+ },
+ {
+  "id": 1465948,
+  "title": "git diff - Comparing Changes in Git",
+  "description": "Author: Muhammad Khabbab           Introduction   Git can be thrilling and, at the same time,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TRPocOT9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1apr8apperkyke4vvwg.png",
+  "slug": "git-diff-comparing-changes-in-git-3n5m",
+  "url": "https://dev.to/refine/git-diff-comparing-changes-in-git-3n5m",
+  "publish_date": "2023-05-12",
+  "published_at": "2023-05-12T13:58:30Z"
+ },
+ {
+  "id": 1465290,
+  "title": "Simplicity Is the Ultimate Sophistication",
+  "description": "When I landed a job at Microsoft fresh out of college, I was eager to dive into the deep end of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--inr3Z3mj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1qosp9r52fchhqsz3u9s.jpg",
+  "slug": "simplicity-is-the-ultimate-sophistication-1cfk",
+  "url": "https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk",
+  "publish_date": "2023-05-12",
+  "published_at": "2023-05-12T09:30:00Z"
+ },
+ {
+  "id": 1464121,
+  "title": "Team or Solo: Which Path Leads to Project Success?",
+  "description": "Let's weigh the pros and cons: working on a project with a large team versus flying solo as a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kb3CNr4Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zvb0cgku34t33g5xn0i.png",
+  "slug": "team-or-solo-which-path-leads-to-project-success-337",
+  "url": "https://dev.to/devteam/team-or-solo-which-path-leads-to-project-success-337",
+  "publish_date": "2023-05-12",
+  "published_at": "2023-05-12T07:00:00Z"
+ },
+ {
+  "id": 1465533,
+  "title": "Weird Follower Spike on Dev.to",
+  "description": "Yesterday I got an email from dev.to covering a significant spike in my followers:    I typically get...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a6jwDbwZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sg6oe5927kcp8gsgi8og.png",
+  "slug": "weird-follower-spike-on-devto-41jm",
+  "url": "https://dev.to/codenameone/weird-follower-spike-on-devto-41jm",
+  "publish_date": "2023-05-12",
+  "published_at": "2023-05-12T05:00:16Z"
+ },
+ {
   "id": 1372916,
   "title": "🔦 Community Spotlight - Building Idea Xchange, a Networking App🔦",
   "description": "Highlighting projects from the Appwrite community           Introduction   With Appwrite’s developer...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/said7388/portfolio-website-for-the-developer-3i05",
   "publish_date": "2023-02-02",
   "published_at": "2023-02-02T06:32:17Z"
- },
- {
-  "id": 1336246,
-  "title": "Easily deploy your portfolio website with AWS CDK 🚀",
-  "description": "Why follow this tutorial?   Coding your own portfolio website is a cool introduction to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a-b5hf0V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/cdk/portfolio/assets/cover-image.png",
-  "slug": "easily-deploy-your-portfolio-website-with-aws-cdk-4l9b",
-  "url": "https://dev.to/kumo/easily-deploy-your-portfolio-website-with-aws-cdk-4l9b",
-  "publish_date": "2023-02-01",
-  "published_at": "2023-02-01T13:49:25Z"
- },
- {
-  "id": 1349198,
-  "title": "Unleash the Power of JavaScript String Methods - Your Ultimate Cheat Sheet 🤯🔥",
-  "description": "JavaScript strings are a powerful tool for manipulating text and working with data. To get the most...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--I9Tdo7gA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t00la05kx6urly0llzeg.jpg",
-  "slug": "unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734",
-  "url": "https://dev.to/rammcodes/unleash-the-power-of-javascript-string-methods-your-ultimate-cheat-sheet-4734",
-  "publish_date": "2023-02-01",
-  "published_at": "2023-02-01T09:55:41Z"
- },
- {
-  "id": 1349065,
-  "title": "Weekly web development resources #135",
-  "description": "shadcn/ui    Accessible and customizable open-source Next.js components that you can copy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aIYnaBuZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/691ab9mbjb218sqy4wqk.jpg",
-  "slug": "weekly-web-development-resources-135-5d6k",
-  "url": "https://dev.to/vincenius/weekly-web-development-resources-135-5d6k",
-  "publish_date": "2023-02-01",
-  "published_at": "2023-02-01T06:40:33Z"
- },
- {
-  "id": 1348946,
-  "title": "10 GitHub repositories you must know as a JavaScript developer",
-  "description": "If you want to improve your programming skills, then learning continuously could be the safest and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--G7bIoeuo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ai1yxo8brehqxkgbh7jg.jpg",
-  "slug": "10-github-repositories-you-must-know-as-a-javascript-developer-f5d",
-  "url": "https://dev.to/hy_piyush/10-github-repositories-you-must-know-as-a-javascript-developer-f5d",
-  "publish_date": "2023-02-01",
-  "published_at": "2023-02-01T04:51:53Z"
- },
- {
-  "id": 1347611,
-  "title": "Comparing Kubernetes Gateway and Ingress APIs",
-  "description": "A couple of months ago, the new Kubernetes Gateway API graduated to beta.  Why do you need another...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nyd30Sni--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ghmpflbavxh23c408v9a.jpeg",
-  "slug": "comparing-kubernetes-gateway-and-ingress-apis-22oj",
-  "url": "https://dev.to/apisix/comparing-kubernetes-gateway-and-ingress-apis-22oj",
-  "publish_date": "2023-02-01",
-  "published_at": "2023-02-01T04:44:24Z"
  }
 ]
