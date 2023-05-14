@@ -1,5 +1,55 @@
 [
  {
+  "id": 1467057,
+  "title": "Use Notion as a database for your Next.JS Blog",
+  "description": "Notion is an extremely powerful tool to manage your content by creating a database you can even add...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--apc2CJbN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvd5qjh4jumkrqy3uqww.png",
+  "slug": "use-notion-as-a-database-for-your-nextjs-blog-195p",
+  "url": "https://dev.to/martinp/use-notion-as-a-database-for-your-nextjs-blog-195p",
+  "publish_date": "2023-05-13",
+  "published_at": "2023-05-13T16:31:41Z"
+ },
+ {
+  "id": 1466964,
+  "title": "Bose Web Scraping Tutorial",
+  "description": "In This tutorial you will learn about the Bose framework, a framework which provides an easier and...",
+  "cover_image": "",
+  "slug": "bose-web-scraping-tutorial-3lff",
+  "url": "https://dev.to/kumarchandan1991/bose-web-scraping-tutorial-3lff",
+  "publish_date": "2023-05-13",
+  "published_at": "2023-05-13T14:01:28Z"
+ },
+ {
+  "id": 1466802,
+  "title": "50 Chat GPT Prompts Every Software Developer Should Know (Tested)",
+  "description": "In this article, we'll explore some awesome ChatGPT-4 prompts specifically tailored for software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iZzuaH8E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.hashnode.com/res/hashnode/image/upload/v1683901143225/f63c7a71-2aaf-4a97-9122-96589257dba5.jpeg",
+  "slug": "50-chat-gpt-prompts-every-software-developer-should-know-tested-9al",
+  "url": "https://dev.to/hackertab_org/50-chat-gpt-prompts-every-software-developer-should-know-tested-9al",
+  "publish_date": "2023-05-13",
+  "published_at": "2023-05-13T10:00:42Z"
+ },
+ {
+  "id": 1465523,
+  "title": "My Favorite Websites to Learn SQL for FREE in 2023",
+  "description": "These are the best websites, platforms and online places to learn SQL for free in 2023",
+  "cover_image": "",
+  "slug": "my-favorite-websites-to-learn-sql-for-free-in-2023-1g6d",
+  "url": "https://dev.to/javinpaul/my-favorite-websites-to-learn-sql-for-free-in-2023-1g6d",
+  "publish_date": "2023-05-13",
+  "published_at": "2023-05-13T06:22:50Z"
+ },
+ {
+  "id": 1464317,
+  "title": "Kubernetes 101, part VIII, networking fundamentals",
+  "description": "So far, we have gained an understanding of the primary workload objects in Kubernetes.   These...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rYuw9u-x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a7sxc0r4uw8exbs57xp5.png",
+  "slug": "kubernetes-101-part-viii-networking-fundamentals-mo7",
+  "url": "https://dev.to/leandronsp/kubernetes-101-part-viii-networking-fundamentals-mo7",
+  "publish_date": "2023-05-13",
+  "published_at": "2023-05-13T01:56:54Z"
+ },
+ {
   "id": 1465969,
   "title": "What was your win this week?",
   "description": "Looking back on this past week, what was something you were proud of accomplishing?",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/networkandcode/harperdb-helm-chart-on-artifact-hub-3066",
   "publish_date": "2023-02-03",
   "published_at": "2023-02-03T01:25:37Z"
- },
- {
-  "id": 1348856,
-  "title": "Celebrate Black History Month by Donating to These 10 Organizations!",
-  "description": "For the entire month of February, we at DEV observe Black History Month as per celebrations in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zOLCt3aG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j2gi4bdp3hehsl0oyzuy.jpg",
-  "slug": "celebrate-black-history-month-by-donating-to-these-10-organizations-104i",
-  "url": "https://dev.to/devteam/celebrate-black-history-month-by-donating-to-these-10-organizations-104i",
-  "publish_date": "2023-02-02",
-  "published_at": "2023-02-02T20:36:47Z"
- },
- {
-  "id": 1335443,
-  "title": "10 best GitHub repos for developers ✅",
-  "description": "With the help of GitHub, developers can easily access and share their code with others. It has become...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sFEVFn4P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52h209tmik0976jf5oyk.png",
-  "slug": "10-best-github-repos-for-developers-5gmp",
-  "url": "https://dev.to/mariamarsh/10-best-github-repos-for-developers-5gmp",
-  "publish_date": "2023-02-02",
-  "published_at": "2023-02-02T15:43:48Z"
- },
- {
-  "id": 1351043,
-  "title": "Twitter charging for API usage starting Feb. 9th",
-  "description": "Twitter as of February 9th will start charging developers to use their API.                         ...",
-  "cover_image": "",
-  "slug": "twitter-charging-for-api-usage-starting-feb-9th-713",
-  "url": "https://dev.to/nickytonline/twitter-charging-for-api-usage-starting-feb-9th-713",
-  "publish_date": "2023-02-02",
-  "published_at": "2023-02-02T13:59:09Z"
- },
- {
-  "id": 1350712,
-  "title": "Understanding the Spread Operator(...) in JavaScript",
-  "description": "In today's episode of talking about awesome JavaScript features, we are going to turn our attention...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PFKawdbW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rklchf5bv3k4lkkn4ugr.png",
-  "slug": "understanding-the-spread-operator-in-javascript-4pg6",
-  "url": "https://dev.to/brandonbawe/understanding-the-spread-operator-in-javascript-4pg6",
-  "publish_date": "2023-02-02",
-  "published_at": "2023-02-02T10:23:17Z"
- },
- {
-  "id": 1350429,
-  "title": "Portfolio website for the developer",
-  "description": "As a software developer, I know the importance of having a strong portfolio website to showcase our...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cju5evsV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/otmx8h0hqa7drnhkhkqx.gif",
-  "slug": "portfolio-website-for-the-developer-3i05",
-  "url": "https://dev.to/said7388/portfolio-website-for-the-developer-3i05",
-  "publish_date": "2023-02-02",
-  "published_at": "2023-02-02T06:32:17Z"
  }
 ]
