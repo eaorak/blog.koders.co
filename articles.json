@@ -1,5 +1,55 @@
 [
  {
+  "id": 1468472,
+  "title": "What is Vite? \u0026 Vite vs Webpack",
+  "description": "Author: Victor Uma           Introduction   We'll talk about the history of Vite and the importance...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rBNsA9DI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/prgtnc8i0tyt24ovk2e6.png",
+  "slug": "what-is-vite-vite-vs-webpack-5e27",
+  "url": "https://dev.to/refine/what-is-vite-vite-vs-webpack-5e27",
+  "publish_date": "2023-05-15",
+  "published_at": "2023-05-15T13:35:25Z"
+ },
+ {
+  "id": 1468592,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fq3BunrE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mpzt9f9zt3nm6ttoy10h.png",
+  "slug": "meme-monday-2af4",
+  "url": "https://dev.to/ben/meme-monday-2af4",
+  "publish_date": "2023-05-15",
+  "published_at": "2023-05-15T11:51:40Z"
+ },
+ {
+  "id": 1468565,
+  "title": "Medusa Community Highlights: Strapi Integration, SES Plugin, and More!",
+  "description": "Changing the way commerce is built is no easy undertaking. Therefore, we are incredibly excited about...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uq97QXiE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z6y0ayxfqx3kyswct8jh.jpg",
+  "slug": "medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim",
+  "url": "https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim",
+  "publish_date": "2023-05-15",
+  "published_at": "2023-05-15T11:42:02Z"
+ },
+ {
+  "id": 1468473,
+  "title": "100 C# Code Snippets for Everyday Problems✨",
+  "description": "Welcome to this comprehensive compilation of 100 C# code snippets designed to tackle everyday...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UUHUv9UN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8v5ermu6d7z9qi7zli5t.png",
+  "slug": "100-c-code-snippets-for-everyday-problems-2d83",
+  "url": "https://dev.to/bytehide/100-c-code-snippets-for-everyday-problems-2d83",
+  "publish_date": "2023-05-15",
+  "published_at": "2023-05-15T09:56:37Z"
+ },
+ {
+  "id": 1467459,
+  "title": "10 Books to Improve Coding Skill in 2023",
+  "description": "These are my favorite books to learn programming better and improve your coding skill.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AhDBeEs_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qlzjl5pr629o6owr9x8j.jpg",
+  "slug": "10-books-to-improve-coding-skill-in-2023-3475",
+  "url": "https://dev.to/javinpaul/10-books-to-improve-coding-skill-in-2023-3475",
+  "publish_date": "2023-05-15",
+  "published_at": "2023-05-15T04:36:50Z"
+ },
+ {
   "id": 1467627,
   "title": "Taking Care of Your Mental Health as a Software Developer 🧠",
   "description": "Next week is Mental Health Awareness Week, so I thought I would take this opportunity to talk about...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/naubit/5-custom-react-hooks-that-will-transform-your-code-emo",
   "publish_date": "2023-02-05",
   "published_at": "2023-02-05T02:10:42Z"
- },
- {
-  "id": 1353316,
-  "title": "I Created An Animated Cheatsheet For CSS Selectors That Went Viral On Social Media 🤯🔥",
-  "description": "CSS Selectors Animated Cheatsheet 🤯⬇️    Took me almost 2 hours to create this for you guys...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NG8zzahU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bn2v2htmmcpw63bi6leo.jpg",
-  "slug": "i-created-an-animated-cheatsheet-for-css-selectors-that-went-viral-on-social-media-2hm2",
-  "url": "https://dev.to/rammcodes/i-created-an-animated-cheatsheet-for-css-selectors-that-went-viral-on-social-media-2hm2",
-  "publish_date": "2023-02-04",
-  "published_at": "2023-02-04T09:54:09Z"
- },
- {
-  "id": 1353290,
-  "title": "Rendering strategies: CSR, SSR, SSG, ISR",
-  "description": "We have been using frontend libraries/frameworks that help to build single-page applications out of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uh1J044K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ibm7bedbbbsmjmt78uud.png",
-  "slug": "rendering-strategies-csr-ssr-ssg-isr-4c5k",
-  "url": "https://dev.to/sjsouvik/rendering-strategies-csr-ssr-ssg-isr-4c5k",
-  "publish_date": "2023-02-04",
-  "published_at": "2023-02-04T08:55:39Z"
- },
- {
-  "id": 1353185,
-  "title": "Top Free Photo \u0026 Video Editing Apps for 2023",
-  "description": "In the age of social media, photo and video editing has become an essential tool for anyone looking...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AzLYKGzG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/waap2xq4607ocgxjuc4b.jpg",
-  "slug": "top-free-photo-video-editing-apps-for-2023-naj",
-  "url": "https://dev.to/stephanreynolds/top-free-photo-video-editing-apps-for-2023-naj",
-  "publish_date": "2023-02-04",
-  "published_at": "2023-02-04T07:46:58Z"
- },
- {
-  "id": 1353175,
-  "title": "What is the Conversion Rate Formula?",
-  "description": "The conversion rate is a critical metric for businesses and marketers, as it measures the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7momhTBR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jus63cxxue1k8zvw0j60.png",
-  "slug": "what-is-the-conversion-rate-formula-1np",
-  "url": "https://dev.to/alyciakyla/what-is-the-conversion-rate-formula-1np",
-  "publish_date": "2023-02-04",
-  "published_at": "2023-02-04T07:24:03Z"
- },
- {
-  "id": 1353075,
-  "title": "Build Your First Port Scanner using Python",
-  "description": "Cyber security has become necessary for every business today, with over seven websites created every...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Xe90_T9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i7bi66md8q6zpyutuck1.png",
-  "slug": "build-your-first-port-scanner-using-python-41e0",
-  "url": "https://dev.to/scofieldidehen/build-your-first-port-scanner-using-python-41e0",
-  "publish_date": "2023-02-04",
-  "published_at": "2023-02-04T04:11:17Z"
  }
 ]
