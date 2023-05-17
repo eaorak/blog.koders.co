@@ -1,5 +1,55 @@
 [
  {
+  "id": 1470036,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-ibc",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-ibc",
+  "publish_date": "2023-05-16",
+  "published_at": "2023-05-16T14:39:13Z"
+ },
+ {
+  "id": 1469838,
+  "title": "How Next.js Redirects Work",
+  "description": "Author: Michael Hungbo Uma           Introduction   The concept of URL redirection in web application...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QW5_vak_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16d78ipgu4x3pgvgswbd.png",
+  "slug": "how-nextjs-redirects-work-3j9p",
+  "url": "https://dev.to/refine/how-nextjs-redirects-work-3j9p",
+  "publish_date": "2023-05-16",
+  "published_at": "2023-05-16T11:25:48Z"
+ },
+ {
+  "id": 1469719,
+  "title": "How to build an application shell layout for Tailwind CSS",
+  "description": "Today I would like to show how you can build a simple application shell layouts with a sticky...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M4Dx7-OJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gm5malyo9b3drs5mwfid.png",
+  "slug": "how-to-build-an-application-shell-layout-for-tailwind-css-247k",
+  "url": "https://dev.to/themesberg/how-to-build-an-application-shell-layout-for-tailwind-css-247k",
+  "publish_date": "2023-05-16",
+  "published_at": "2023-05-16T10:08:38Z"
+ },
+ {
+  "id": 1468620,
+  "title": "Announcing the Built With Appwrite Platform",
+  "description": "A big part of growing Appwrite’s developer ecosystem is providing the right platform for our builders...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xi5eXoFu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ha90gs03cgudt2d25xap.png",
+  "slug": "announcing-the-built-with-appwrite-platform-c7j",
+  "url": "https://dev.to/appwrite/announcing-the-built-with-appwrite-platform-c7j",
+  "publish_date": "2023-05-16",
+  "published_at": "2023-05-16T09:19:59Z"
+ },
+ {
+  "id": 1454751,
+  "title": "RBAC with API Gateway and Open Policy Agent(OPA)",
+  "description": "With various access control models and implementation methods available, constructing an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d1RtUsWP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ldufvt4p5zsx00dkftbd.png",
+  "slug": "rbac-with-api-gateway-and-open-policy-agentopa-a3",
+  "url": "https://dev.to/apisix/rbac-with-api-gateway-and-open-policy-agentopa-a3",
+  "publish_date": "2023-05-16",
+  "published_at": "2023-05-16T07:59:43Z"
+ },
+ {
   "id": 1468472,
   "title": "What is Vite? \u0026 Vite vs Webpack",
   "description": "Author: Victor Uma           Introduction   We'll talk about the history of Vite and the importance...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gravy59/7-great-libraries-for-react-2g0o",
   "publish_date": "2023-02-06",
   "published_at": "2023-02-06T01:51:50Z"
- },
- {
-  "id": 1354529,
-  "title": "React Anti-Patterns and Best Practices - Do's and Don'ts",
-  "description": "React may seem to be one of the least opinionated frameworks in the Wild West Web. Despite that,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UCRpI5f---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo0ckaylw56l3zt6mt20.png",
-  "slug": "react-anti-patterns-and-best-practices-dos-and-donts-3c2g",
-  "url": "https://dev.to/perssondennis/react-anti-patterns-and-best-practices-dos-and-donts-3c2g",
-  "publish_date": "2023-02-05",
-  "published_at": "2023-02-05T15:35:00Z"
- },
- {
-  "id": 1354203,
-  "title": "Must-Have Websites for Every Frontend Web Developer",
-  "description": "12 Essential Websites for Frontend Web Development  Frontend web development can be a challenging...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A--PwF0Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fvwtzlmzln9bwnhuuz20.jpg",
-  "slug": "must-have-websites-for-every-frontend-web-developer-3e11",
-  "url": "https://dev.to/hyuncafe/must-have-websites-for-every-frontend-web-developer-3e11",
-  "publish_date": "2023-02-05",
-  "published_at": "2023-02-05T07:23:16Z"
- },
- {
-  "id": 1354112,
-  "title": "7 Free Public APIs you will love as a developer💖",
-  "description": "1. JSON Placeholder     JSON Placeholder is a service that provides you with fake online...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XJ6Va50e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/enm4ywsdmx5dkjngof9l.png",
-  "slug": "7-free-public-apis-you-will-love-as-a-developer-166p",
-  "url": "https://dev.to/ruppysuppy/7-free-public-apis-you-will-love-as-a-developer-166p",
-  "publish_date": "2023-02-05",
-  "published_at": "2023-02-05T05:45:44Z"
- },
- {
-  "id": 1354037,
-  "title": "Things you should look for in a Code Review",
-  "description": "Code review, or you can call it Peer review, is an activity for Software Quality assurance, which one...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g1qTMDX9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izxum94wz0c8cdzpum2b.png",
-  "slug": "things-you-should-look-for-in-a-code-review-ll2",
-  "url": "https://dev.to/leduc1901/things-you-should-look-for-in-a-code-review-ll2",
-  "publish_date": "2023-02-05",
-  "published_at": "2023-02-05T03:51:39Z"
- },
- {
-  "id": 1354016,
-  "title": "5 Custom React Hooks That Will Transform Your Code 🤖",
-  "description": "Yesterday after finishing my daily article (yeah, I publish a new article about front-end development...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LOxJ9RrP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3cpm1bypg0prxbnhicn9.png",
-  "slug": "5-custom-react-hooks-that-will-transform-your-code-emo",
-  "url": "https://dev.to/naubit/5-custom-react-hooks-that-will-transform-your-code-emo",
-  "publish_date": "2023-02-05",
-  "published_at": "2023-02-05T02:10:42Z"
  }
 ]
