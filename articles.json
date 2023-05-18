@@ -1,5 +1,55 @@
 [
  {
+  "id": 1471300,
+  "title": "Best Practices for Writing on DEV: Topics",
+  "description": "Hey devs! Time for another installment in our Best Practices for Writing on DEV series. Today I'll...",
+  "cover_image": "",
+  "slug": "best-practices-for-writing-on-dev-topics-1d0j",
+  "url": "https://dev.to/devteam/best-practices-for-writing-on-dev-topics-1d0j",
+  "publish_date": "2023-05-17",
+  "published_at": "2023-05-17T16:01:27Z"
+ },
+ {
+  "id": 1470957,
+  "title": "Building A Slack Clone With Preview Environments",
+  "description": "TL;DR   In this tutorial, we’re going to build a full-stack Slack-like application, with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--diBLpFuU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbul39k6n85v6jefk2yj.jpg",
+  "slug": "building-a-slack-clone-with-preview-environments-2dh6",
+  "url": "https://dev.to/livecycle/building-a-slack-clone-with-preview-environments-2dh6",
+  "publish_date": "2023-05-17",
+  "published_at": "2023-05-17T10:54:00Z"
+ },
+ {
+  "id": 1470892,
+  "title": "Deep Neural Network from Scratch in Rust : Part 1- Basics of Neural Network",
+  "description": "Introduction   Hi there! I'm excited to share with you my latest blog post on building a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jQ5dxtGE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16naxw1qs8njdskwhqvb.png",
+  "slug": "deep-neural-network-from-scratch-in-rust-part-1-basics-of-neural-network-1pgg",
+  "url": "https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-1-basics-of-neural-network-1pgg",
+  "publish_date": "2023-05-17",
+  "published_at": "2023-05-17T10:52:54Z"
+ },
+ {
+  "id": 1470886,
+  "title": "Deactivate Angular NgZone selectively — the easy way",
+  "description": "A fine-grained control over Angular's change detection mechanism is here and ready to be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XcIE3qMP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tioa9e8zotci2yiu9rju.jpg",
+  "slug": "deactivate-angular-ngzone-selectively-the-easy-way-54b5",
+  "url": "https://dev.to/this-is-angular/deactivate-angular-ngzone-selectively-the-easy-way-54b5",
+  "publish_date": "2023-05-17",
+  "published_at": "2023-05-17T10:12:16Z"
+ },
+ {
+  "id": 1469642,
+  "title": "How We Translated the Dodo Pizza App into Arabic",
+  "description": "What do you know about adding the support of right to left (RTL) languages in iOS apps? You have to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hho1x6h2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oykcr5fzaeaipgoa2iye.png",
+  "slug": "how-we-translated-the-dodo-pizza-app-into-arabic-2pki",
+  "url": "https://dev.to/dodoengineering/how-we-translated-the-dodo-pizza-app-into-arabic-2pki",
+  "publish_date": "2023-05-17",
+  "published_at": "2023-05-17T06:46:58Z"
+ },
+ {
   "id": 1470036,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/eevajonnapanula/sometimes-i-feel-like-im-invisible-experiences-of-a-woman-in-tech-3glb",
   "publish_date": "2023-02-07",
   "published_at": "2023-02-07T04:14:06Z"
- },
- {
-  "id": 1355928,
-  "title": "Why I joined Dagger",
-  "description": "For the past 8 years I’ve been trying to solve CI/CD, “once and for all.”    once: the core design of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XD6OxB4b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sufyop07g9kcqf2dy3cm.png",
-  "slug": "why-i-joined-dagger-43gb",
-  "url": "https://dev.to/vito/why-i-joined-dagger-43gb",
-  "publish_date": "2023-02-06",
-  "published_at": "2023-02-06T18:12:03Z"
- },
- {
-  "id": 1355664,
-  "title": "Meme Monday 🧢",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H0SJ6eg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1qw2u9dr6huozmq93hda.png",
-  "slug": "meme-monday-7b3",
-  "url": "https://dev.to/ben/meme-monday-7b3",
-  "publish_date": "2023-02-06",
-  "published_at": "2023-02-06T15:16:36Z"
- },
- {
-  "id": 1355458,
-  "title": "MacOS can remove backgrounds from images",
-  "description": "A new option in the finder context menu allows you to remove backgrounds from images.",
-  "cover_image": "",
-  "slug": "macos-can-remove-backgrounds-from-images-9co",
-  "url": "https://dev.to/codepo8/macos-can-remove-backgrounds-from-images-9co",
-  "publish_date": "2023-02-06",
-  "published_at": "2023-02-06T12:59:14Z"
- },
- {
-  "id": 1342278,
-  "title": "Introduction to Google APIs: pt. 2 🌎",
-  "description": "In this post, we will continue working with Google APIs, focusing specifically on the Google Maps...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xw4PYGSS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v7c64y2n57x5macxsp57.png",
-  "slug": "introduction-to-google-apis-pt-2-5hk5",
-  "url": "https://dev.to/mariamarsh/introduction-to-google-apis-pt-2-5hk5",
-  "publish_date": "2023-02-06",
-  "published_at": "2023-02-06T12:47:59Z"
- },
- {
-  "id": 1354930,
-  "title": "7 great libraries for React",
-  "description": "1: usehooks-ts   usehooks-ts is a great React Hook library that has saved me countless...",
-  "cover_image": "",
-  "slug": "7-great-libraries-for-react-2g0o",
-  "url": "https://dev.to/gravy59/7-great-libraries-for-react-2g0o",
-  "publish_date": "2023-02-06",
-  "published_at": "2023-02-06T01:51:50Z"
  }
 ]
