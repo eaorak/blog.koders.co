@@ -1,5 +1,55 @@
 [
  {
+  "id": 1472637,
+  "title": "It's the Final Stretch of the GitHub + DEV 2023 Hackathon 🎉",
+  "description": "Final weekend reminder for the GitHub + DEV 2023 Hackathon.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ICKDngc2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ip41t03soyq59hfw9g2g.jpg",
+  "slug": "its-the-final-stretch-of-the-github-dev-2023-hackathon-4218",
+  "url": "https://dev.to/devteam/its-the-final-stretch-of-the-github-dev-2023-hackathon-4218",
+  "publish_date": "2023-05-18",
+  "published_at": "2023-05-18T18:52:33Z"
+ },
+ {
+  "id": 1472231,
+  "title": "How to use Zustand",
+  "description": "Author: Chidume Nnamdi           Introduction   Redux changed the game in the global management...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--spd-9IFe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/glq5z6ok22ihybebap9e.png",
+  "slug": "how-to-use-zustand-3okc",
+  "url": "https://dev.to/refine/how-to-use-zustand-3okc",
+  "publish_date": "2023-05-18",
+  "published_at": "2023-05-18T12:31:46Z"
+ },
+ {
+  "id": 1472118,
+  "title": ".NET 8 is on the way! +10 Features that will blow your mind 🤯",
+  "description": "In this article, we’re going to delve into the latest updates and enhancements introduced in .NET 8...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---yOed2N8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4sc4imlxazhbzel1ca1.png",
+  "slug": "net-8-is-on-the-way-10-features-that-will-blow-your-mind-26op",
+  "url": "https://dev.to/bytehide/net-8-is-on-the-way-10-features-that-will-blow-your-mind-26op",
+  "publish_date": "2023-05-18",
+  "published_at": "2023-05-18T10:50:44Z"
+ },
+ {
+  "id": 1471907,
+  "title": "Amazon Ditches Microservices for Monolith: Decoding Prime Video's Architectural Shift",
+  "description": "Uncover Amazon's cost-saving journey from microservices to monolith. Explore the architecture shift, challenges faced, and lessons learned. Discover insights for your projects.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JK8Rnbaw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/amazon-ditches-microservices-for-monolith-decoding-prime-videos-architectural-shift/hero.png",
+  "slug": "amazon-ditches-microservices-for-monolith-decoding-prime-videos-architectural-shift-5bk6",
+  "url": "https://dev.to/amplication/amazon-ditches-microservices-for-monolith-decoding-prime-videos-architectural-shift-5bk6",
+  "publish_date": "2023-05-18",
+  "published_at": "2023-05-18T06:57:43Z"
+ },
+ {
+  "id": 1471560,
+  "title": "Copilot Chat writes Unit Tests for you!",
+  "description": "We don't write tests because we don't have time.   How many times have you heard that? Or maybe you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a9ADxx4c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mpgolj6xhmrt8bq7q4b5.png",
+  "slug": "copilot-chat-writes-unit-tests-for-you-1c82",
+  "url": "https://dev.to/this-is-learning/copilot-chat-writes-unit-tests-for-you-1c82",
+  "publish_date": "2023-05-18",
+  "published_at": "2023-05-18T06:53:23Z"
+ },
+ {
   "id": 1471300,
   "title": "Best Practices for Writing on DEV: Topics",
   "description": "Hey devs! Time for another installment in our Best Practices for Writing on DEV series. Today I'll...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/w7freedownload/css-social-media-icons-13oh",
   "publish_date": "2023-02-08",
   "published_at": "2023-02-08T07:11:36Z"
- },
- {
-  "id": 1357004,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-1ni2",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1ni2",
-  "publish_date": "2023-02-07",
-  "published_at": "2023-02-07T15:55:37Z"
- },
- {
-  "id": 1356840,
-  "title": "Moving From Electron to Tauri",
-  "description": "Part 1: Interprocess Communication — porting a Typescript-based message system of an Electron App to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--STd92CQk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4828yllxctncuf9aiz6u.jpg",
-  "slug": "moving-from-electron-to-tauri-3791",
-  "url": "https://dev.to/pgenfer/moving-from-electron-to-tauri-3791",
-  "publish_date": "2023-02-07",
-  "published_at": "2023-02-07T13:50:29Z"
- },
- {
-  "id": 1356839,
-  "title": "5 React Tools to Use in an Ecommerce Stack",
-  "description": "Ecommerce has become more popular as businesses turn to online sales to increase their reach....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QtIoOjCE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o94tfxtkclhucinswulq.jpg",
-  "slug": "5-react-tools-to-use-in-an-ecommerce-stack-1ojo",
-  "url": "https://dev.to/medusajs/5-react-tools-to-use-in-an-ecommerce-stack-1ojo",
-  "publish_date": "2023-02-07",
-  "published_at": "2023-02-07T13:22:40Z"
- },
- {
-  "id": 1356515,
-  "title": "Top Free Productivity Apps for 2023",
-  "description": "Productivity apps have become increasingly popular in recent years as people seek ways to streamline...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yY9-JQ-m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs9rnj64kyjrjstkocq0.jpg",
-  "slug": "top-free-productivity-apps-for-2023-jlb",
-  "url": "https://dev.to/stephanreynolds/top-free-productivity-apps-for-2023-jlb",
-  "publish_date": "2023-02-07",
-  "published_at": "2023-02-07T07:11:32Z"
- },
- {
-  "id": 1353071,
-  "title": "Sometimes I Feel Like I'm Invisible - Experiences of a Woman in Tech",
-  "description": "This blog post is very personal and sharing it makes me very vulnerable. So please, respect that. And...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3wCdJBhl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4teqv286epviniskpif6.png",
-  "slug": "sometimes-i-feel-like-im-invisible-experiences-of-a-woman-in-tech-3glb",
-  "url": "https://dev.to/eevajonnapanula/sometimes-i-feel-like-im-invisible-experiences-of-a-woman-in-tech-3glb",
-  "publish_date": "2023-02-07",
-  "published_at": "2023-02-07T04:14:06Z"
  }
 ]
