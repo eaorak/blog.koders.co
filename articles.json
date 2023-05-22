@@ -1,5 +1,55 @@
 [
  {
+  "id": 1475105,
+  "title": "OpenCommit: GitHub Action to improve commits with meaningful messages on every `git push` 🤯🔫",
+  "description": "Hi Hackers,  About 10 days ago, I came across the #GitHubHack23 post and then I thought: \"Hmm......",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nlJh7eNC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fpbw9428iadc63s8usdt.png",
+  "slug": "opencommit-github-action-to-improve-commits-with-meaningful-messages-on-every-git-push-1i3a",
+  "url": "https://dev.to/disukharev/opencommit-github-action-to-improve-commits-with-meaningful-messages-on-every-git-push-1i3a",
+  "publish_date": "2023-05-21",
+  "published_at": "2023-05-21T12:02:07Z"
+ },
+ {
+  "id": 1475088,
+  "title": "An Explanation of The Facade Pattern Using Concrete Illustrations",
+  "description": "I really like the facade pattern because it greatly simplifies your code, and you may have...",
+  "cover_image": "",
+  "slug": "an-explanation-of-the-facade-pattern-using-concrete-illustrations-1o1f",
+  "url": "https://dev.to/fpaghar/an-explanation-of-the-facade-pattern-using-concrete-illustrations-1o1f",
+  "publish_date": "2023-05-21",
+  "published_at": "2023-05-21T10:16:38Z"
+ },
+ {
+  "id": 1475036,
+  "title": "🎉 Iconsans",
+  "description": "Iconsans is a collection of over 320 free icons designed for use in your next project. This package...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TUS_LNlf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yet3lkauyajfxx7msn7m.png",
+  "slug": "iconsans-16b8",
+  "url": "https://dev.to/fpaghar/iconsans-16b8",
+  "publish_date": "2023-05-21",
+  "published_at": "2023-05-21T07:56:00Z"
+ },
+ {
+  "id": 1474912,
+  "title": "How to develop a svelte component and publish it as a package in NPM",
+  "description": "Publish your favorite svelte component as a package on npm and make it available for use...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tYlgUKf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o57ozjcih6fod5x8dxz1.jpg",
+  "slug": "how-to-develop-a-svelte-component-and-publish-it-as-a-package-in-npm-40pc",
+  "url": "https://dev.to/ernanej/how-to-develop-a-svelte-component-and-publish-it-as-a-package-in-npm-40pc",
+  "publish_date": "2023-05-21",
+  "published_at": "2023-05-21T02:24:14Z"
+ },
+ {
+  "id": 1474905,
+  "title": "The difference between traditional functions and arrow functions in javascript",
+  "description": "Make no mistake, it's not just the compactness and elegant syntax that differ the ways of declaring...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KUHqaJ21--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2czbmof9my3sfk0imctw.jpg",
+  "slug": "a-diferenca-entre-funcoes-tradicionais-e-arrow-functions-no-javascript-7e3",
+  "url": "https://dev.to/ernanej/a-diferenca-entre-funcoes-tradicionais-e-arrow-functions-no-javascript-7e3",
+  "publish_date": "2023-05-21",
+  "published_at": "2023-05-21T01:43:02Z"
+ },
+ {
   "id": 1474550,
   "title": "The 3 best tools I use to validate the meta tags present on my websites",
   "description": "It is very important to validate and verify how your article or new web page will be displayed when...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15",
   "publish_date": "2023-02-11",
   "published_at": "2023-02-11T00:48:25Z"
- },
- {
-  "id": 1360759,
-  "title": "Quick guide for YAML",
-  "description": "YAML (short for \"YAML Ain't Markup Language\") is a data serialization format that is used to store...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p_S-bLJ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gj3gcpyjm6gveystkn7k.png",
-  "slug": "quick-guide-for-yaml-2i1a",
-  "url": "https://dev.to/mariamarsh/quick-guide-for-yaml-2i1a",
-  "publish_date": "2023-02-10",
-  "published_at": "2023-02-10T19:33:08Z"
- },
- {
-  "id": 1361100,
-  "title": "When useEffect runs",
-  "description": "useEffect can be challenging to understand, and manipulating exactly when it runs is a good skill to have!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rzcxkzBK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1573447985340-c13fb23e2e8b%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1590%26q%3D80",
-  "slug": "when-useeffect-runs-3pf3",
-  "url": "https://dev.to/cassidoo/when-useeffect-runs-3pf3",
-  "publish_date": "2023-02-10",
-  "published_at": "2023-02-10T18:39:22Z"
- },
- {
-  "id": 1359300,
-  "title": "Caching at DEV",
-  "description": "We’ve always put a lot of effort into performance at DEV. We want our users to be able to see their...",
-  "cover_image": "",
-  "slug": "caching-at-dev-11el",
-  "url": "https://dev.to/devteam/caching-at-dev-11el",
-  "publish_date": "2023-02-10",
-  "published_at": "2023-02-10T13:15:06Z"
- },
- {
-  "id": 1360707,
-  "title": "Kubernetes Load Balancer: Expert Guide With Examples",
-  "description": "“Kubernetes load balancer” is a pretty broad term that refers to multiple things. In this article, we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xRAMnnGf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rtzy0s5vtwcbl6mbxfmx.png",
-  "slug": "kubernetes-load-balancer-expert-guide-with-examples-5an6",
-  "url": "https://dev.to/castai/kubernetes-load-balancer-expert-guide-with-examples-5an6",
-  "publish_date": "2023-02-10",
-  "published_at": "2023-02-10T11:55:06Z"
- },
- {
-  "id": 1360384,
-  "title": "JavaScript Array Methods Cheatsheet",
-  "description": "JavaScript is a powerful programming language that is widely used for web development. JavaScript...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7JW07K9K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/945n6jm0szfmny8wi0wp.png",
-  "slug": "javascript-array-methods-cheatsheet-4abn",
-  "url": "https://dev.to/codeofrelevancy/javascript-array-methods-cheatsheet-4abn",
-  "publish_date": "2023-02-10",
-  "published_at": "2023-02-10T05:51:18Z"
  }
 ]
