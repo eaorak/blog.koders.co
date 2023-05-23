@@ -1,5 +1,55 @@
 [
  {
+  "id": 1476383,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DRVst3dD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lisldozo3avtmm4jv0lx.png",
+  "slug": "meme-monday-14lj",
+  "url": "https://dev.to/ben/meme-monday-14lj",
+  "publish_date": "2023-05-22",
+  "published_at": "2023-05-22T13:33:21Z"
+ },
+ {
+  "id": 1476076,
+  "title": "Building an intelligent CRM using ChatGPT, PostgreSQL, and ToolJet",
+  "description": "In this tutorial, you'll learn how to build a CRM (Customer Relationship Management) application...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iwby3pU4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g209utu1m577rhkvr9p5.jpg",
+  "slug": "building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod",
+  "url": "https://dev.to/tooljet/building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod",
+  "publish_date": "2023-05-22",
+  "published_at": "2023-05-22T09:48:05Z"
+ },
+ {
+  "id": 1476068,
+  "title": "How to host your side-projects for free in 2023: from Auth to Database",
+  "description": "TL;DR   In this article, we'll look at how you can host your side project for free in 2023....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KjTx9kC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcob76egs0xrsdg53e13.jpg",
+  "slug": "how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im",
+  "url": "https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im",
+  "publish_date": "2023-05-22",
+  "published_at": "2023-05-22T08:48:57Z"
+ },
+ {
+  "id": 1473264,
+  "title": "Building ChatGPT-powered apps in 5 steps 🚀",
+  "description": "In this article, we will explore the possibility of rapidly building ChatGPT apps using the low-code...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PSmCVIAk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/snh6ku6fltxjd9o4fz5m.jpg",
+  "slug": "building-chatgpt-powered-apps-in-5-steps-3e85",
+  "url": "https://dev.to/tejakummarikuntla/building-chatgpt-powered-apps-in-5-steps-3e85",
+  "publish_date": "2023-05-22",
+  "published_at": "2023-05-22T08:06:56Z"
+ },
+ {
+  "id": 1474468,
+  "title": "My Favorite Books for DevOps Engineering",
+  "description": "These are the best books to learn DevOps in 2023",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TrR7g0IR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5i6w2lggq0me2lbv0oo.png",
+  "slug": "my-favorite-books-for-devops-engineering-591o",
+  "url": "https://dev.to/javinpaul/my-favorite-books-for-devops-engineering-591o",
+  "publish_date": "2023-05-22",
+  "published_at": "2023-05-22T05:13:32Z"
+ },
+ {
   "id": 1475105,
   "title": "OpenCommit: GitHub Action to improve commits with meaningful messages on every `git push` 🤯🔫",
   "description": "Hi Hackers,  About 10 days ago, I came across the #GitHubHack23 post and then I thought: \"Hmm......",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tsparticles/tsparticles-291-released-1mdb",
   "publish_date": "2023-02-12",
   "published_at": "2023-02-12T11:23:21Z"
- },
- {
-  "id": 1361594,
-  "title": "Eu sou um falso Developer Advocate",
-  "description": "Sumário    1. Prólogo 2. Criador de Conteúdo por ACIDENTE 3. Apenas um Grupo de Amigos...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u1fN6gXc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o0oz17ur03t2ppk9ztlz.png",
-  "slug": "eu-sou-um-falso-developer-advocate-5fd7",
-  "url": "https://dev.to/devrelbr/eu-sou-um-falso-developer-advocate-5fd7",
-  "publish_date": "2023-02-11",
-  "published_at": "2023-02-11T18:52:16Z"
- },
- {
-  "id": 1361855,
-  "title": "Complete CSS Selector Cheat Sheet: A Hands-On Guide with images😍",
-  "description": "CSS selectors can seem challenging because they provide a wide range of options for selecting HTML...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ob-w0JcZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yyayfb43p9qxlac1jg6o.png",
-  "slug": "complete-css-selector-cheat-sheet-a-hands-on-guide-with-images-5ff1",
-  "url": "https://dev.to/arafat4693/complete-css-selector-cheat-sheet-a-hands-on-guide-with-images-5ff1",
-  "publish_date": "2023-02-11",
-  "published_at": "2023-02-11T12:27:30Z"
- },
- {
-  "id": 1361793,
-  "title": "What are portals in React?",
-  "description": "In this article, we'll dive into the concept of portals in React and see how they can be used to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EPcYzJaq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eozqi33ilgxlt0pedcqa.png",
-  "slug": "what-are-portals-in-react-eb",
-  "url": "https://dev.to/codeofrelevancy/what-are-portals-in-react-eb",
-  "publish_date": "2023-02-11",
-  "published_at": "2023-02-11T11:17:43Z"
- },
- {
-  "id": 1361691,
-  "title": "Why Developers Should Learn Docker and Kubernetes in 2023",
-  "description": "Docker and Kubernetes are two essential tool for creating and managing container and must know in this age of Cloud Computing and Microservices. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vaWSpIlR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rke0vhl6d6zlomjba455.png",
-  "slug": "why-developers-should-learn-docker-and-kubernetes-in-2023-4hof",
-  "url": "https://dev.to/javinpaul/why-developers-should-learn-docker-and-kubernetes-in-2023-4hof",
-  "publish_date": "2023-02-11",
-  "published_at": "2023-02-11T09:03:52Z"
- },
- {
-  "id": 1361423,
-  "title": "NPM Commands and Shortcuts You Should Know as a JavaScript Dev",
-  "description": "Whether you are a newbie or a proficient in JavaScript world, you probably already use or will use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q231nRqz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rjwxd127u3odalnvx8f0.png",
-  "slug": "npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15",
-  "url": "https://dev.to/devland/npm-commands-and-shortcuts-you-should-know-as-a-javascript-dev-2l15",
-  "publish_date": "2023-02-11",
-  "published_at": "2023-02-11T00:48:25Z"
  }
 ]
