@@ -1,5 +1,55 @@
 [
  {
+  "id": 1477838,
+  "title": "ossjobs.dev 👋 land your next job in open source",
+  "description": "We at crowd.dev are excited to share something we’ve been working on in the background for our...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sESRTA06--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bgygt3uj0t164oe6zdke.png",
+  "slug": "ossjobsdev-land-your-next-job-in-open-source-3gdi",
+  "url": "https://dev.to/crowddotdev/ossjobsdev-land-your-next-job-in-open-source-3gdi",
+  "publish_date": "2023-05-23",
+  "published_at": "2023-05-23T15:24:40Z"
+ },
+ {
+  "id": 1477472,
+  "title": "Building a bidding system with NextJS 🚀",
+  "description": "TL;DR   NextJS introduced its new server actions components, and I had to test them out to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vzlyYtDw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://manage.novu.co/wp-content/uploads/2023/05/dev-coverrr.png",
+  "slug": "building-a-bidding-system-with-nextjs-cg1",
+  "url": "https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1",
+  "publish_date": "2023-05-23",
+  "published_at": "2023-05-23T12:04:06Z"
+ },
+ {
+  "id": 1476875,
+  "title": "I created 100+ unique CSS patterns | The best collection 🤩",
+  "description": "After the CSS Loaders and the CSS Underline/Overlay animations, I am back with another big...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ysrwHjO2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/66pnh200551j523iamsy.png",
+  "slug": "i-created-100-unique-css-patterns-the-best-collection-31cl",
+  "url": "https://dev.to/afif/i-created-100-unique-css-patterns-the-best-collection-31cl",
+  "publish_date": "2023-05-23",
+  "published_at": "2023-05-23T11:36:30Z"
+ },
+ {
+  "id": 1477349,
+  "title": "Creating responsive tooltips in React with react-tooltip",
+  "description": "Author: David Omotayo           Introduction   A tooltip is a short and informative message that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--edgl_x3a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vdnwa5185bcduq0hx1rc.png",
+  "slug": "creating-responsive-tooltips-in-react-with-react-tooltip-24i1",
+  "url": "https://dev.to/refine/creating-responsive-tooltips-in-react-with-react-tooltip-24i1",
+  "publish_date": "2023-05-23",
+  "published_at": "2023-05-23T11:07:46Z"
+ },
+ {
+  "id": 1477188,
+  "title": "Tetris Testimonial Quotes",
+  "description": "Had a bit of fun last night with this week's Codepen Challenge.  I had no ideas for the topic —...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--36wAZLeO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8jm6puxcilx0egjfvu2.png",
+  "slug": "tetris-testimonial-quotes-55i5",
+  "url": "https://dev.to/madsstoumann/tetris-testimonial-quotes-55i5",
+  "publish_date": "2023-05-23",
+  "published_at": "2023-05-23T06:03:57Z"
+ },
+ {
   "id": 1476383,
   "title": "Meme Monday",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/morgannadev/resultado-da-analise-pesquisa-sobre-meetups-eventos-de-tecnologia-de-comunidades-a80",
   "publish_date": "2023-02-13",
   "published_at": "2023-02-13T05:29:52Z"
- },
- {
-  "id": 1362776,
-  "title": "Build a CRUD Rest API in JavaScript using Nodejs, Express, Postgres, Docker",
-  "description": "Let's create a CRUD rest API in JavaScript, using:   Node.js Express Sequelize Postgres Docker Docker...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DjGlnvMC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ikmzpqsqypek4pgqp51e.png",
-  "slug": "build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb",
-  "url": "https://dev.to/francescoxx/build-a-crud-rest-api-in-javascript-using-nodejs-express-postgres-docker-jkb",
-  "publish_date": "2023-02-12",
-  "published_at": "2023-02-12T13:37:31Z"
- },
- {
-  "id": 1362718,
-  "title": "tsParticles 2.9.2 Released",
-  "description": "tsParticles 2.9.3 Changelog            Bug Fixes    Fixed some plugins, they weren't loading...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VY6vjuNF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fsg9m4zfwmb4mylm8vhr.jpg",
-  "slug": "tsparticles-292-released-51f3",
-  "url": "https://dev.to/tsparticles/tsparticles-292-released-51f3",
-  "publish_date": "2023-02-12",
-  "published_at": "2023-02-12T13:06:24Z"
- },
- {
-  "id": 1362702,
-  "title": "Software developers shouldn’t start software companies",
-  "description": "Many software developers have a dream of starting a software company. Whether it be the thought of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SiVQnUTx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/dlgglwrvf/image/upload/v1675855750/large_Software_developer_startup_14c35a2276.jpg",
-  "slug": "software-developers-shouldnt-start-software-companies-34bm",
-  "url": "https://dev.to/alexhyettdev/software-developers-shouldnt-start-software-companies-34bm",
-  "publish_date": "2023-02-12",
-  "published_at": "2023-02-12T12:35:15Z"
- },
- {
-  "id": 1362697,
-  "title": "Technical Writing Process: How To Write A Good Technical Article",
-  "description": "In 2021, I joined technical writing, where I have written close to 20 paid technical articles and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGhJ4Ha2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eu8pl3r1i0svjapjvdb6.jpg",
-  "slug": "technical-writing-process-how-to-write-a-good-technical-article-j67",
-  "url": "https://dev.to/the_greatbonnie/technical-writing-process-how-to-write-a-good-technical-article-j67",
-  "publish_date": "2023-02-12",
-  "published_at": "2023-02-12T12:19:02Z"
- },
- {
-  "id": 1362674,
-  "title": "tsParticles 2.9.1 Released",
-  "description": "tsParticles 2.9.1 Changelog            Bug Fixes    Fixed missing plugins in wordpress...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M-cBksXL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zrh90qnax0p2vpohlu5u.jpg",
-  "slug": "tsparticles-291-released-1mdb",
-  "url": "https://dev.to/tsparticles/tsparticles-291-released-1mdb",
-  "publish_date": "2023-02-12",
-  "published_at": "2023-02-12T11:23:21Z"
  }
 ]
