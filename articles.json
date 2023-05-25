@@ -1,5 +1,55 @@
 [
  {
+  "id": 1479487,
+  "title": "Featured Mod of the Month: Christine Belzie",
+  "description": "In this series, we shine a spotlight on the different DEV moderators — Trusted Members and Tag Mods —...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l03gHhm---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7jq2lqmzv2zz9r3qah0i.jpeg",
+  "slug": "featured-mod-of-the-month-christine-belzie-p09",
+  "url": "https://dev.to/devteam/featured-mod-of-the-month-christine-belzie-p09",
+  "publish_date": "2023-05-24",
+  "published_at": "2023-05-24T14:47:33Z"
+ },
+ {
+  "id": 1473132,
+  "title": "What's New in Novu 0.15.0?",
+  "description": "TL;DR: All you need to know about the latest Novu 0.15.0 release. Scheduled Digest, In-App Onboarding...",
+  "cover_image": "",
+  "slug": "whats-new-in-novu-0150-fkj",
+  "url": "https://dev.to/novu/whats-new-in-novu-0150-fkj",
+  "publish_date": "2023-05-24",
+  "published_at": "2023-05-24T14:37:03Z"
+ },
+ {
+  "id": 1479250,
+  "title": "Building a message board with Next.js and AppWrite",
+  "description": "TL;DR   In this article, we will look at how to build a simple message board web app with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IYagP0g4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27ta2aikqqbeuufqm7pl.jpg",
+  "slug": "building-a-message-board-with-nextjs-and-appwrite-3910",
+  "url": "https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910",
+  "publish_date": "2023-05-24",
+  "published_at": "2023-05-24T10:57:04Z"
+ },
+ {
+  "id": 1462519,
+  "title": "Chaining API requests with API Gateway",
+  "description": "As the number of APIs that need to be integrated increases, managing the complexity of API...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7fEnGUry--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jgx9oqz7qatb5v90awr1.png",
+  "slug": "chaining-api-requests-with-api-gateway-10n2",
+  "url": "https://dev.to/apisix/chaining-api-requests-with-api-gateway-10n2",
+  "publish_date": "2023-05-24",
+  "published_at": "2023-05-24T08:31:23Z"
+ },
+ {
+  "id": 1478761,
+  "title": "[pt-BR] Fundamentos do Git, um guia completo",
+  "description": "Se você já trabalha com Git diariamente, mas deseja ter uma boa compreensão dos fundamentos do Git,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HBEFqILA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4cvykxbu2dzpeu8y4zt5.png",
+  "slug": "pt-br-fundamentos-do-git-um-guia-completo-2djh",
+  "url": "https://dev.to/leandronsp/pt-br-fundamentos-do-git-um-guia-completo-2djh",
+  "publish_date": "2023-05-24",
+  "published_at": "2023-05-24T01:41:50Z"
+ },
+ {
   "id": 1477838,
   "title": "ossjobs.dev 👋 land your next job in open source",
   "description": "We at crowd.dev are excited to share something we’ve been working on in the background for our...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/codeofrelevancy/what-is-the-purpose-of-using-super-constructor-with-props-argument-in-react-2ea3",
   "publish_date": "2023-02-14",
   "published_at": "2023-02-14T02:44:48Z"
- },
- {
-  "id": 1363885,
-  "title": "Building the largest Notifications Library in the world using ChatGPT, React, and NodeJS 🤯",
-  "description": "TLDR;   I am going to show you how to create a notification library like on this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OwKqW_HM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z0vetattbmp4m47525st.jpg",
-  "slug": "building-the-largest-notifications-library-in-the-world-using-chatgpt-react-and-nodejs-2of7",
-  "url": "https://dev.to/novu/building-the-largest-notifications-library-in-the-world-using-chatgpt-react-and-nodejs-2of7",
-  "publish_date": "2023-02-13",
-  "published_at": "2023-02-13T14:11:05Z"
- },
- {
-  "id": 1363906,
-  "title": "Meme Monday 😈",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tIscx4kc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s6s7vk854jeeqeg34625.png",
-  "slug": "meme-monday-4c5o",
-  "url": "https://dev.to/ben/meme-monday-4c5o",
-  "publish_date": "2023-02-13",
-  "published_at": "2023-02-13T13:15:17Z"
- },
- {
-  "id": 1363593,
-  "title": "Move Commits Between Branches in Git - 3 Different Methods 🍒",
-  "description": "Why do you need to move commits between branches? Let's imagine this scenario:  You're so happy, the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZtQdw7hI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a9d445ut66wrt9zotndm.png",
-  "slug": "move-commits-between-branches-in-git-3-different-methods-22bb",
-  "url": "https://dev.to/this-is-learning/move-commits-between-branches-in-git-3-different-methods-22bb",
-  "publish_date": "2023-02-13",
-  "published_at": "2023-02-13T07:58:08Z"
- },
- {
-  "id": 1363514,
-  "title": "Deploying an Application on Kubernetes: A Complete Guide!",
-  "description": "Kubernetes is an open-source platform for automating the deployment, scaling, and management of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5h5pwmRP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v2upkhfbc15mudpxw487.png",
-  "slug": "deploying-an-application-on-kubernetes-a-complete-guide-1cj6",
-  "url": "https://dev.to/pavanbelagatti/deploying-an-application-on-kubernetes-a-complete-guide-1cj6",
-  "publish_date": "2023-02-13",
-  "published_at": "2023-02-13T07:31:25Z"
- },
- {
-  "id": 1363464,
-  "title": "Resultado da Análise - Pesquisa sobre Meetups (Eventos) de Tecnologia de Comunidades",
-  "description": "Uma pesquisa realizada por mim entre dezembro de 2022 e janeiro de 2023 tinha como objetivo aprender...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rg866Zao--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/23vdtj8coco31dkhq6uk.png",
-  "slug": "resultado-da-analise-pesquisa-sobre-meetups-eventos-de-tecnologia-de-comunidades-a80",
-  "url": "https://dev.to/morgannadev/resultado-da-analise-pesquisa-sobre-meetups-eventos-de-tecnologia-de-comunidades-a80",
-  "publish_date": "2023-02-13",
-  "published_at": "2023-02-13T05:29:52Z"
  }
 ]
