@@ -1,5 +1,55 @@
 [
  {
+  "id": 1480696,
+  "title": "Meet Boxy, Your New AI Coding Assistant",
+  "description": "Bring your ideas to life faster by having AI contextually explain, generate and refactor code.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fv_gONWH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/36zvqmjig4xwpticopkc.jpg",
+  "slug": "meet-boxy-your-new-ai-coding-assistant-161e",
+  "url": "https://dev.to/codesandboxio/meet-boxy-your-new-ai-coding-assistant-161e",
+  "publish_date": "2023-05-25",
+  "published_at": "2023-05-25T18:08:32Z"
+ },
+ {
+  "id": 1480658,
+  "title": "Lesser Known Features of DEV — Embedding Call To Action (CTA) Buttons",
+  "description": "Did you realize that on DEV you have the ability to embed a call-to-action button? For example, it...",
+  "cover_image": "",
+  "slug": "lesser-known-features-of-dev-embedding-call-to-action-cta-buttons-2gni",
+  "url": "https://dev.to/devteam/lesser-known-features-of-dev-embedding-call-to-action-cta-buttons-2gni",
+  "publish_date": "2023-05-25",
+  "published_at": "2023-05-25T14:11:06Z"
+ },
+ {
+  "id": 1480525,
+  "title": "Kubernetes vs Docker",
+  "description": "Author: Muhammad Khabbab           Brief introduction to Docker and Kubernetes   Containerization is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pT_xDGgq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/81lnqjhfl1zyk01r4a24.png",
+  "slug": "kubernetes-vs-docker-2li9",
+  "url": "https://dev.to/refine/kubernetes-vs-docker-2li9",
+  "publish_date": "2023-05-25",
+  "published_at": "2023-05-25T13:54:53Z"
+ },
+ {
+  "id": 1480380,
+  "title": "🎤 Building the biggest list of useful open-source libraries 🎉🥳😎",
+  "description": "TL;DR   Every day we see \"awesome\" GitHub lists. They are great. The main problem is that it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zRxXUuuH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/avrtfjkr72kie9ko1wip.gif",
+  "slug": "building-the-biggest-list-of-useful-open-source-libraries-2ppk",
+  "url": "https://dev.to/github20k/building-the-biggest-list-of-useful-open-source-libraries-2ppk",
+  "publish_date": "2023-05-25",
+  "published_at": "2023-05-25T11:59:40Z"
+ },
+ {
+  "id": 1471158,
+  "title": "Managing Data Residency - the demo",
+  "description": "I explained the concepts and theory behind Data Residency in a previous post. It's time to get our...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3644EhCg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/crpm3se7wbh1xywp78wt.jpg",
+  "slug": "managing-data-residency-the-demo-2cpi",
+  "url": "https://dev.to/apisix/managing-data-residency-the-demo-2cpi",
+  "publish_date": "2023-05-25",
+  "published_at": "2023-05-25T08:01:28Z"
+ },
+ {
   "id": 1479487,
   "title": "Featured Mod of the Month: Christine Belzie",
   "description": "In this series, we shine a spotlight on the different DEV moderators — Trusted Members and Tag Mods —...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-intellij-3en9",
   "publish_date": "2023-02-15",
   "published_at": "2023-02-15T06:17:35Z"
- },
- {
-  "id": 1365687,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-40",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40",
-  "publish_date": "2023-02-14",
-  "published_at": "2023-02-14T19:00:27Z"
- },
- {
-  "id": 1363084,
-  "title": "O passo a passo de como criei meu portfólio e como você pode fazer o mesmo",
-  "description": "Olá pessoal,  Sou desenvolvedora web e sei que ter um portfólio legal é super importante para mostrar...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wxr46PYx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lopyfd2tkue0z1upkfi7.png",
-  "slug": "o-passo-a-passo-de-como-criei-meu-portfolio-e-como-voce-pode-fazer-o-mesmo-23kf",
-  "url": "https://dev.to/dellamora/o-passo-a-passo-de-como-criei-meu-portfolio-e-como-voce-pode-fazer-o-mesmo-23kf",
-  "publish_date": "2023-02-14",
-  "published_at": "2023-02-14T17:04:11Z"
- },
- {
-  "id": 1365394,
-  "title": "7 AI Free Website Tools For Everyone and Anyone",
-  "description": "AI tools are on the rise and they are becoming increasingly popular for everyone, especially web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6lcUQhgC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/enoasto82skj7s1qrz9k.png",
-  "slug": "7-ai-free-website-tools-for-everyone-and-anyone-54nb",
-  "url": "https://dev.to/varshithvhegde/7-ai-free-website-tools-for-everyone-and-anyone-54nb",
-  "publish_date": "2023-02-14",
-  "published_at": "2023-02-14T15:33:24Z"
- },
- {
-  "id": 1362774,
-  "title": "How to make your own ChatGPT site",
-  "description": "Many developers are likely familiar with the OpenAI API. By utilizing this API, it is possible to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GUk6UPNc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3yfzhcz078ev1g3ltb62.png",
-  "slug": "how-to-make-your-own-chatgpt-site-3f4k",
-  "url": "https://dev.to/notdev007/how-to-make-your-own-chatgpt-site-3f4k",
-  "publish_date": "2023-02-14",
-  "published_at": "2023-02-14T13:29:25Z"
- },
- {
-  "id": 1364651,
-  "title": "What is the purpose of using super constructor with props argument in React?",
-  "description": "👷‍♂️ super constructor   A super constructor is a special constructor in the class hierarchy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kz7jHfZ1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ft0kr0xf0weg27zb643y.png",
-  "slug": "what-is-the-purpose-of-using-super-constructor-with-props-argument-in-react-2ea3",
-  "url": "https://dev.to/codeofrelevancy/what-is-the-purpose-of-using-super-constructor-with-props-argument-in-react-2ea3",
-  "publish_date": "2023-02-14",
-  "published_at": "2023-02-14T02:44:48Z"
  }
 ]
