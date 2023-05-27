@@ -1,5 +1,55 @@
 [
  {
+  "id": 1481935,
+  "title": "50 C# (Advanced) Optimization Performance Tips🔥",
+  "description": "As an experienced C# developer, you’re always looking for ways to improve your application’s...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l2QuB9FY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l3dpfpts8gu6gr8iq34n.png",
+  "slug": "50-c-advanced-optimization-performance-tips-18l2",
+  "url": "https://dev.to/bytehide/50-c-advanced-optimization-performance-tips-18l2",
+  "publish_date": "2023-05-26",
+  "published_at": "2023-05-26T13:26:25Z"
+ },
+ {
+  "id": 1481691,
+  "title": "Effective Techniques for Code Review in Software Engineering",
+  "description": "Introduction   There are various methods to improve an existing code. It can be refactoring...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lht2XxNv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ra1quyf25bau7yyfzjkd.png",
+  "slug": "effective-techniques-for-code-review-in-software-engineering-29i0",
+  "url": "https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0",
+  "publish_date": "2023-05-26",
+  "published_at": "2023-05-26T11:30:00Z"
+ },
+ {
+  "id": 1481081,
+  "title": "Learn serverless on AWS step-by-step - Emails",
+  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hn8gYBZv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/ses/assets/cover-image.png",
+  "slug": "learn-serverless-on-aws-step-by-step-emails-49hp",
+  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp",
+  "publish_date": "2023-05-26",
+  "published_at": "2023-05-26T07:51:51Z"
+ },
+ {
+  "id": 1481518,
+  "title": "A Comprehensive Guide of React Unit Testing",
+  "description": "Author: Chidume Nnamdi           Introduction   Unit testing is a crucial step in the software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NsTDOF17--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xv4zh32xfnvreh5l7vyo.png",
+  "slug": "a-comprehensive-guide-of-react-unit-testing-18bh",
+  "url": "https://dev.to/refine/a-comprehensive-guide-of-react-unit-testing-18bh",
+  "publish_date": "2023-05-26",
+  "published_at": "2023-05-26T07:01:37Z"
+ },
+ {
+  "id": 1477184,
+  "title": "My favorite free Flutter and Dart courses for 2023",
+  "description": "These are the best free online courses you can take to learn both Flutter and Dart in 2023 from Udemy, Pluralsight and freeCodeCamp",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--37ZbX9wA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jn4620cnl03pij5csfzt.png",
+  "slug": "my-favorite-free-flutter-and-dart-courses-for-2023-56ak",
+  "url": "https://dev.to/javinpaul/my-favorite-free-flutter-and-dart-courses-for-2023-56ak",
+  "publish_date": "2023-05-26",
+  "published_at": "2023-05-26T04:45:48Z"
+ },
+ {
   "id": 1480696,
   "title": "Meet Boxy, Your New AI Coding Assistant",
   "description": "Bring your ideas to life faster by having AI contextually explain, generate and refactor code.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399",
   "publish_date": "2023-02-16",
   "published_at": "2023-02-16T11:15:11Z"
- },
- {
-  "id": 1365260,
-  "title": "Building a minimal Linux OS from source code 🏗",
-  "description": "In the modern world, we are surrounded by a huge number of electronic devices of varying degrees of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k27n6GsN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bu1mwacs8dpher1yvryz.jpg",
-  "slug": "building-a-minimal-linux-os-from-source-code-i1",
-  "url": "https://dev.to/mariamarsh/building-a-minimal-linux-os-from-source-code-i1",
-  "publish_date": "2023-02-15",
-  "published_at": "2023-02-15T16:05:18Z"
- },
- {
-  "id": 1354636,
-  "title": "Don't miss on the cloud revolution, learn serverless on AWS the right way",
-  "description": "In this article, we will learn how to get started with serverless on AWS. It will require to create...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2C61uluo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/introduction/assets/cover.png",
-  "slug": "dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac",
-  "url": "https://dev.to/kumo/dont-miss-on-the-cloud-revolution-learn-serverless-on-aws-the-right-way-1kac",
-  "publish_date": "2023-02-15",
-  "published_at": "2023-02-15T14:03:26Z"
- },
- {
-  "id": 1366705,
-  "title": "Asking AI what it thinks programming languages look like!",
-  "description": "Hey all, long time no see!  Just a random fun post for you today, am I back, am I not? Who knows, but...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--inl9v_3p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f1j8rr71urtotw8qqii4.jpg",
-  "slug": "asking-ai-what-it-thinks-programming-languages-look-like-37j4",
-  "url": "https://dev.to/grahamthedev/asking-ai-what-it-thinks-programming-languages-look-like-37j4",
-  "publish_date": "2023-02-15",
-  "published_at": "2023-02-15T14:01:52Z"
- },
- {
-  "id": 1366419,
-  "title": "Build Your Own Currency Calculator App with Next.js 13, Node.js, Firebase, TypeScript and Tailwind CSS",
-  "description": "In this tutorial, you will learn how to build a Currency Calculator App using modern web development...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JHnWMUkc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/97xyvlkd5uahtn5byz0u.png",
-  "slug": "build-your-own-currency-calculator-app-with-nextjs-13-nodejs-firebase-typescript-and-tailwind-css-3ibp",
-  "url": "https://dev.to/codeofrelevancy/build-your-own-currency-calculator-app-with-nextjs-13-nodejs-firebase-typescript-and-tailwind-css-3ibp",
-  "publish_date": "2023-02-15",
-  "published_at": "2023-02-15T09:33:15Z"
- },
- {
-  "id": 1362830,
-  "title": "Get notified when there are commits to pull in IntelliJ",
-  "description": "With the help of GitLive’s new pull reminders, you can now pull sooner, reduce the chances of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aImg277g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w34xsbkc59qnu0kor9ro.png",
-  "slug": "get-notified-when-there-are-commits-to-pull-in-intellij-3en9",
-  "url": "https://dev.to/gitlive/get-notified-when-there-are-commits-to-pull-in-intellij-3en9",
-  "publish_date": "2023-02-15",
-  "published_at": "2023-02-15T06:17:35Z"
  }
 ]
