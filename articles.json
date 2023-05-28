@@ -1,5 +1,55 @@
 [
  {
+  "id": 1483148,
+  "title": "Deep Neural Network from Scratch in Rust 🦀- Part 5- Training and Inference",
+  "description": "Great!! You have made it to the final part of the series. In this part, we will train our model and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EFBTF-NH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lqtshfh8l3u2u2vokp6b.png",
+  "slug": "deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7",
+  "url": "https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7",
+  "publish_date": "2023-05-27",
+  "published_at": "2023-05-27T18:42:42Z"
+ },
+ {
+  "id": 1483005,
+  "title": "PrivateGPT - Running \"ChatGPT\" offline on local documents",
+  "description": "You can download an LLM and interrogate local files using Python without having to send any data to the cloud.",
+  "cover_image": "",
+  "slug": "privategpt-running-chatgpt-offline-on-local-documents-5b17",
+  "url": "https://dev.to/codepo8/privategpt-running-chatgpt-offline-on-local-documents-5b17",
+  "publish_date": "2023-05-27",
+  "published_at": "2023-05-27T15:02:24Z"
+ },
+ {
+  "id": 1482992,
+  "title": "The Evolution and Impact of MLOps: understanding MLOps",
+  "description": "Machine Learning Operations, or MLOps, is the missing bridge between machine learning, data science,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m6QoZ0EN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm5occ1d1qq5d342aynt.png",
+  "slug": "the-evolution-and-impact-of-mlops-understanding-mlops-1dpo",
+  "url": "https://dev.to/xakrume/the-evolution-and-impact-of-mlops-understanding-mlops-1dpo",
+  "publish_date": "2023-05-27",
+  "published_at": "2023-05-27T14:00:58Z"
+ },
+ {
+  "id": 1482284,
+  "title": "Binary tree",
+  "description": "What is binary tree and when we could use them?   A binary tree is a fundamental tree data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hKa-jL4l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b6fpdiwwdwkfofwnh3h4.PNG",
+  "slug": "binary-tree-26f3",
+  "url": "https://dev.to/livshits_ivan/binary-tree-26f3",
+  "publish_date": "2023-05-27",
+  "published_at": "2023-05-27T12:47:22Z"
+ },
+ {
+  "id": 1482619,
+  "title": "How to implement subscription model using LemonSqueezy in Next.js (13.4 stable app router)",
+  "description": "Table of contents    Introduction Getting Started Setup Next.js app User Registration Setup...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CDYINjMY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a8v064pqqd6bew0mn3vp.jpg",
+  "slug": "how-to-implement-subscription-model-using-lemonsqueezy-in-nextjs-134-stable-app-router-27cd",
+  "url": "https://dev.to/developeratul/how-to-implement-subscription-model-using-lemonsqueezy-in-nextjs-134-stable-app-router-27cd",
+  "publish_date": "2023-05-27",
+  "published_at": "2023-05-27T06:00:00Z"
+ },
+ {
   "id": 1481935,
   "title": "50 C# (Advanced) Optimization Performance Tips🔥",
   "description": "As an experienced C# developer, you’re always looking for ways to improve your application’s...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/feministech/e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m",
   "publish_date": "2023-02-17",
   "published_at": "2023-02-17T02:32:06Z"
- },
- {
-  "id": 1368425,
-  "title": "Aplicando o Learn In Public na Vida Real",
-  "description": "A maneira mais rápida de aprender   TL:DR Nesse texto compartilho como foi a minha trajetória...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gTY5mDSB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lsg1il2l9pdxbwg8cw84.png",
-  "slug": "aplicando-o-learn-in-public-na-vida-real-3027",
-  "url": "https://dev.to/devrelbr/aplicando-o-learn-in-public-na-vida-real-3027",
-  "publish_date": "2023-02-16",
-  "published_at": "2023-02-16T17:52:30Z"
- },
- {
-  "id": 1368249,
-  "title": "A Anatomia de um repositório",
-  "description": "Por muito tempo eu tive o costume de subir meu código no Github, escrever um arquivo README.md bem...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zzRYCwwa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fd2976vh9yz7r2085vqm.png",
-  "slug": "a-anatomia-de-um-repositorio-5cda",
-  "url": "https://dev.to/github/a-anatomia-de-um-repositorio-5cda",
-  "publish_date": "2023-02-16",
-  "published_at": "2023-02-16T15:12:52Z"
- },
- {
-  "id": 1366777,
-  "title": "15 Killer 🗡 JS techniques you've probably never heard of 🔈🔥",
-  "description": "We can all agree that searching for a Javascript bug fix or answer on Google or StackOverflow is not...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SOQJVuXb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/twjmbhbspdi7zwu1k6r1.png",
-  "slug": "15-killer-js-techniques-youve-probably-never-heard-of-1lgp",
-  "url": "https://dev.to/ironcladdev/15-killer-js-techniques-youve-probably-never-heard-of-1lgp",
-  "publish_date": "2023-02-16",
-  "published_at": "2023-02-16T13:19:24Z"
- },
- {
-  "id": 1360764,
-  "title": "Deploying a Lambda with a static IP has never been so simple 🍰",
-  "description": "Learn how to deploy a Lambda with a static IP (for whitelisting concerns) and perform NodeJS SFTP operations using this Lambda.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B3036_WP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88uovzvmgxnl2j8r3scw.png",
-  "slug": "deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-5dke",
-  "url": "https://dev.to/kumo/deploying-a-lambda-with-a-static-ip-has-never-been-so-simple-5dke",
-  "publish_date": "2023-02-16",
-  "published_at": "2023-02-16T13:17:50Z"
- },
- {
-  "id": 1367989,
-  "title": "Tricky JavaScript Interview Question Using Array And Object Destructuring Combined",
-  "description": "The question goes like this:  Explain to me what the below line of JavaScript code does:    const [{...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kkP_XokA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/riql2oli8l7m6q4rjxc2.jpg",
-  "slug": "tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399",
-  "url": "https://dev.to/myogeshchavan97/tricky-javascript-interview-question-using-array-and-object-destructuring-combined-5399",
-  "publish_date": "2023-02-16",
-  "published_at": "2023-02-16T11:15:11Z"
  }
 ]
