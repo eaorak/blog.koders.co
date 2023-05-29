@@ -1,5 +1,55 @@
 [
  {
+  "id": 1484024,
+  "title": "$(document).ready equivalent without jQuery",
+  "description": "In this article, we will see the $(document).ready method equivalent without using jQuery. In jQuery,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ybNTD4sq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/42w6abxqqt4e14ua6oix.png",
+  "slug": "documentready-equivalent-without-jquery-1o45",
+  "url": "https://dev.to/navyaarora01/documentready-equivalent-without-jquery-1o45",
+  "publish_date": "2023-05-28",
+  "published_at": "2023-05-28T19:58:15Z"
+ },
+ {
+  "id": 1483969,
+  "title": "React MUI Content Security Policy",
+  "description": "Material-UI is a user interface library that provides predefined and customizable React components...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yln24utA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/25bju2no1ckvu87mw6w8.jpg",
+  "slug": "react-mui-content-security-policy-2gp",
+  "url": "https://dev.to/navyaarora01/react-mui-content-security-policy-2gp",
+  "publish_date": "2023-05-28",
+  "published_at": "2023-05-28T19:00:48Z"
+ },
+ {
+  "id": 1483758,
+  "title": "My Journey To 3k+ Followers In 5 Months🥰",
+  "description": "Hey there, fellow developers! Today, I want to share my exhilarating journey on Dev.to, where I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nOH_S1Zb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ibtmf92iz4ejlfcfgtl9.jpg",
+  "slug": "my-journey-to-3k-followers-3oa4",
+  "url": "https://dev.to/arafat4693/my-journey-to-3k-followers-3oa4",
+  "publish_date": "2023-05-28",
+  "published_at": "2023-05-28T14:00:01Z"
+ },
+ {
+  "id": 1483752,
+  "title": "If We Only Had Five VS Code Extensions",
+  "description": "If you had to choose five and only five VS Code extensions, which would you choose?  I asked that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yWUGLKl1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cthdxoqn2t5f8egqqr8k.png",
+  "slug": "if-we-only-had-five-vs-code-extensions-4ge4",
+  "url": "https://dev.to/perssondennis/if-we-only-had-five-vs-code-extensions-4ge4",
+  "publish_date": "2023-05-28",
+  "published_at": "2023-05-28T13:44:09Z"
+ },
+ {
+  "id": 1483653,
+  "title": "Flexbox \"justify-content\" visual representation🔥",
+  "description": "Checkout this beautiful CSS flexbox justify-content visual representation by Mads Brodt🤯    In case...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LUFgKMg1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ybdvog072iedj5h9o95.png",
+  "slug": "flexbox-justify-content-visual-representation-4c22",
+  "url": "https://dev.to/arafat4693/flexbox-justify-content-visual-representation-4c22",
+  "publish_date": "2023-05-28",
+  "published_at": "2023-05-28T12:22:52Z"
+ },
+ {
   "id": 1483148,
   "title": "Deep Neural Network from Scratch in Rust 🦀- Part 5- Training and Inference",
   "description": "Great!! You have made it to the final part of the series. In this part, we will train our model and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/costica/backend-delivery-hands-on-node-docker-12-3mol",
   "publish_date": "2023-02-18",
   "published_at": "2023-02-18T08:15:00Z"
- },
- {
-  "id": 1369925,
-  "title": "Some new features to look forward to on DEV",
-  "description": "Hey folks, just wanted to speak to some upcoming features going live on DEV soon via Forem.  This is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---xEg_xuy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s201zk5qfzlapl101mb9.png",
-  "slug": "some-new-features-to-look-forward-to-on-dev-5jk",
-  "url": "https://dev.to/devteam/some-new-features-to-look-forward-to-on-dev-5jk",
-  "publish_date": "2023-02-17",
-  "published_at": "2023-02-17T21:00:45Z"
- },
- {
-  "id": 1364350,
-  "title": "Dark mode with Analog \u0026 Tailwind",
-  "description": "I entirely rebuilt my personal website with Analog and Tailwind a few weeks ago. I tweeted about it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gRk2Usvh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hw2qr2zn41y6bjhh2s64.jpg",
-  "slug": "dark-mode-with-analog-tailwind-4049",
-  "url": "https://dev.to/this-is-angular/dark-mode-with-analog-tailwind-4049",
-  "publish_date": "2023-02-17",
-  "published_at": "2023-02-17T15:58:03Z"
- },
- {
-  "id": 1369501,
-  "title": "What was your win this week?",
-  "description": "Heyo!  Hope y'all all have fantastic weekends! 🙌  Looking back on this past week, what was something...",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-2on5",
-  "url": "https://dev.to/michaeltharrington/what-was-your-win-this-week-2on5",
-  "publish_date": "2023-02-17",
-  "published_at": "2023-02-17T14:25:34Z"
- },
- {
-  "id": 1369333,
-  "title": "Optimize React Component Performance with Memoization Using React.memo()",
-  "description": "In this article, we will discuss what the React.memo() function is, how it works, and when to use it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J7KpgnIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ep8kf7ycpsk1c6g9dix4.png",
-  "slug": "optimize-react-component-performance-with-memoization-using-reactmemo-3chp",
-  "url": "https://dev.to/codeofrelevancy/optimize-react-component-performance-with-memoization-using-reactmemo-3chp",
-  "publish_date": "2023-02-17",
-  "published_at": "2023-02-17T10:32:21Z"
- },
- {
-  "id": 1367477,
-  "title": "E quando o hello world já começa dando errado: a cultura de escrever artigos com tutoriais que só dão certo.",
-  "description": "Você, que está começando agora, provavelmente já recebeu a dica de alguém para fazer um Hello World...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZdUzqyYu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i1u5dtzv19xdyttyy4jg.png",
-  "slug": "e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m",
-  "url": "https://dev.to/feministech/e-quando-o-hello-world-ja-comeca-dando-errado-a-cultura-de-escrever-artigos-com-tutoriais-que-so-dao-certo-379m",
-  "publish_date": "2023-02-17",
-  "published_at": "2023-02-17T02:32:06Z"
  }
 ]
