@@ -1,5 +1,55 @@
 [
  {
+  "id": 1484739,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hX9zpJ21--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2543hyaucvpupu1etaf.png",
+  "slug": "meme-monday-34ka",
+  "url": "https://dev.to/ben/meme-monday-34ka",
+  "publish_date": "2023-05-29",
+  "published_at": "2023-05-29T14:27:36Z"
+ },
+ {
+  "id": 1484674,
+  "title": "Seamless, full-stack authentication in Next.js",
+  "description": "TL;DR   In this tutorial we’ll show you how to use add authentication to your full stack...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9yjaDwfn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9he6g5jkjw25qkjjlzo9.jpg",
+  "slug": "seamless-full-stack-authentication-in-nextjs-11lp",
+  "url": "https://dev.to/livecycle/seamless-full-stack-authentication-in-nextjs-11lp",
+  "publish_date": "2023-05-29",
+  "published_at": "2023-05-29T14:26:12Z"
+ },
+ {
+  "id": 1484582,
+  "title": "C# Regex: From Zero To Hero Guide",
+  "description": "Introduction to C# Regex: Why It’s a Powerful Tool for Text Manipulation   Before diving...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--soSSh4mC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ez1qctb1xcqls1beulai.png",
+  "slug": "c-regex-from-zero-to-hero-guide-50e9",
+  "url": "https://dev.to/bytehide/c-regex-from-zero-to-hero-guide-50e9",
+  "publish_date": "2023-05-29",
+  "published_at": "2023-05-29T11:22:27Z"
+ },
+ {
+  "id": 1478307,
+  "title": "How we lowered the bitrate for live and VOD streaming by 32.5% without sacrificing quality",
+  "description": "We’ve been experimenting with transcoding settings to lower the bitrate without losing video quality....",
+  "cover_image": "",
+  "slug": "how-we-lowered-the-bitrate-for-live-and-vod-streaming-by-325-without-sacrificing-quality-4dpn",
+  "url": "https://dev.to/gcoreofficial/how-we-lowered-the-bitrate-for-live-and-vod-streaming-by-325-without-sacrificing-quality-4dpn",
+  "publish_date": "2023-05-29",
+  "published_at": "2023-05-29T11:13:42Z"
+ },
+ {
+  "id": 1484265,
+  "title": "What color should the text be? (A CSS Quiz)",
+  "description": "Running a couple of polls about CSS selectors, specificity, and !important... and most people are getting it wrong.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_5ph4x8J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tnmtzz16bc2r7gxuh6g4.png",
+  "slug": "what-color-should-the-text-be-a-css-quiz-2kam",
+  "url": "https://dev.to/alvaromontoro/what-color-should-the-text-be-a-css-quiz-2kam",
+  "publish_date": "2023-05-29",
+  "published_at": "2023-05-29T05:23:20Z"
+ },
+ {
   "id": 1484024,
   "title": "$(document).ready equivalent without jQuery",
   "description": "In this article, we will see the $(document).ready method equivalent without using jQuery. In jQuery,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sriparno08/5-tips-to-elevate-your-coding-skills-5db2",
   "publish_date": "2023-02-19",
   "published_at": "2023-02-19T05:42:31Z"
- },
- {
-  "id": 1370558,
-  "title": "A bright future for Effect",
-  "description": "With this post, we are announcing that the fp-ts project is officially merging with the Effect-TS...",
-  "cover_image": "",
-  "slug": "a-bright-future-for-effect-455m",
-  "url": "https://dev.to/effect-ts/a-bright-future-for-effect-455m",
-  "publish_date": "2023-02-18",
-  "published_at": "2023-02-18T15:58:50Z"
- },
- {
-  "id": 1370606,
-  "title": "Error Handling in Dart and Flutter",
-  "description": "Hi everyone! I won't even tell you how important to handle all errors and exceptions in your Flutter...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Gcc1KwRT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b98icda2lro7jnfba8fu.png",
-  "slug": "error-handling-in-dart-and-flutter-2gld",
-  "url": "https://dev.to/frezyx/error-handling-in-dart-and-flutter-2gld",
-  "publish_date": "2023-02-18",
-  "published_at": "2023-02-18T13:33:10Z"
- },
- {
-  "id": 1370566,
-  "title": "Formik Works Great; Here's Why I Wrote My Own",
-  "description": "TL;DR? I made a library to compete with Formik and React Hook Form called \"HouseForm\". It would mean...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bL6gjEHq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jge04tgehydgzpz348xf.png",
-  "slug": "formik-works-great-heres-why-i-wrote-my-own-591m",
-  "url": "https://dev.to/crutchcorn/formik-works-great-heres-why-i-wrote-my-own-591m",
-  "publish_date": "2023-02-18",
-  "published_at": "2023-02-18T12:37:22Z"
- },
- {
-  "id": 1370428,
-  "title": "Design Patterns in JavaScript: Creational Patterns",
-  "description": "In daily life, programmers may encounter many errors while writing code, and naturally they develop...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GmogJtvK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lwjoz66vhnqj37kkzg9y.png",
-  "slug": "design-patterns-in-javascript-creational-patterns-594h",
-  "url": "https://dev.to/furkangulsen/design-patterns-in-javascript-creational-patterns-594h",
-  "publish_date": "2023-02-18",
-  "published_at": "2023-02-18T09:20:23Z"
- },
- {
-  "id": 1365585,
-  "title": "Backend Delivery - Hands-On Node \u0026 Docker 1/2",
-  "description": "We’re going to explore how to set yourself up for success - when it comes to exploring Kubernetes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UsGCgBPz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2dhhd434txwchwzgjvwy.jpg",
-  "slug": "backend-delivery-hands-on-node-docker-12-3mol",
-  "url": "https://dev.to/costica/backend-delivery-hands-on-node-docker-12-3mol",
-  "publish_date": "2023-02-18",
-  "published_at": "2023-02-18T08:15:00Z"
  }
 ]
