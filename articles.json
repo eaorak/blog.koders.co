@@ -1,5 +1,55 @@
 [
  {
+  "id": 1480958,
+  "title": "Share Your Expertise \u0026 Stories with #devpride this Pride Month! 🌈",
+  "description": "Happy Pride, all! ❤️ 🧡 💛 💚 💙 💜 🤎 🖤 🤍 💗  We’re so inspired by the contributions and engagement within...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o-0WtYnD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x8ujp4t1d4tg9e7jm4lj.png",
+  "slug": "share-your-expertise-stories-with-devpride-this-pride-month-39mc",
+  "url": "https://dev.to/devteam/share-your-expertise-stories-with-devpride-this-pride-month-39mc",
+  "publish_date": "2023-05-30",
+  "published_at": "2023-05-30T20:43:48Z"
+ },
+ {
+  "id": 1484852,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-1cb6",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1cb6",
+  "publish_date": "2023-05-30",
+  "published_at": "2023-05-30T16:42:15Z"
+ },
+ {
+  "id": 1485961,
+  "title": "Como ter um console de jogos trabalhando home-office mudou minha vida [PT-BR]",
+  "description": "Antes de tudo, é importante ressaltar que, embora seja incrível ter o hobby de jogar videogame, isso...",
+  "cover_image": "",
+  "slug": "como-ter-um-console-de-jogos-mudou-minha-vida-pt-br-3ehl",
+  "url": "https://dev.to/andredarcie/como-ter-um-console-de-jogos-mudou-minha-vida-pt-br-3ehl",
+  "publish_date": "2023-05-30",
+  "published_at": "2023-05-30T16:10:25Z"
+ },
+ {
+  "id": 1482296,
+  "title": "How to grow a GitHub project to 20k stars? with Nevo David (Novu)",
+  "description": "In the world of open source, gaining traction and attracting GitHub stars is a common goal for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bqI1lgR3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vi5w3x7o528k1ijq0y46.png",
+  "slug": "how-to-grow-a-github-project-to-20k-stars-with-nevo-david-novu-3i81",
+  "url": "https://dev.to/crowddotdev/how-to-grow-a-github-project-to-20k-stars-with-nevo-david-novu-3i81",
+  "publish_date": "2023-05-30",
+  "published_at": "2023-05-30T10:00:00Z"
+ },
+ {
+  "id": 1485361,
+  "title": "Next.js 13.4's Server Actions and Data Fetching",
+  "description": "Author: Victor Uma           Overview   Delivering flawless user experience and structured data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mjwb8O3s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j4qoq6co7js8ojtdkmas.png",
+  "slug": "nextjs-134s-server-actions-and-data-fetching-n3m",
+  "url": "https://dev.to/refine/nextjs-134s-server-actions-and-data-fetching-n3m",
+  "publish_date": "2023-05-30",
+  "published_at": "2023-05-30T05:57:52Z"
+ },
+ {
   "id": 1484739,
   "title": "Meme Monday",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/function12_io/2023-development-tool-map-3k16",
   "publish_date": "2023-02-20",
   "published_at": "2023-02-20T01:21:53Z"
- },
- {
-  "id": 1371460,
-  "title": "What is it like to be a developer? (in gifs) 🗿",
-  "description": "Some of the situations may be familiar to you. Enjoy!  When I show my boss that I finally fixed a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--p77eySWh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zn64un0eoek82kopihz.png",
-  "slug": "what-is-it-like-to-be-a-developer-in-gifs-115l",
-  "url": "https://dev.to/mariamarsh/what-is-it-like-to-be-a-developer-in-gifs-115l",
-  "publish_date": "2023-02-19",
-  "published_at": "2023-02-19T14:29:08Z"
- },
- {
-  "id": 1371555,
-  "title": "Build a CRUD Rest API in Python using Flask, SQLAlchemy, Postgres, Docker",
-  "description": "Let's create a CRUD Rest API in Python, using:   Flask (Python web framework) SQLAlchemy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--juzqz_on--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/28syhv98jdz7v8zzl351.png",
-  "slug": "build-a-crud-rest-api-in-python-using-flask-sqlalchemy-postgres-docker-28lo",
-  "url": "https://dev.to/francescoxx/build-a-crud-rest-api-in-python-using-flask-sqlalchemy-postgres-docker-28lo",
-  "publish_date": "2023-02-19",
-  "published_at": "2023-02-19T13:17:03Z"
- },
- {
-  "id": 1371397,
-  "title": "My Favorite Courses to Learn Coding and Programming in 2023",
-  "description": "These are my favorite online courses to learn Coding and Programming with Java, Python, JavaScript, and Swift in 2023",
-  "cover_image": "",
-  "slug": "my-favorite-courses-to-learn-coding-and-programming-in-2023-4ngo",
-  "url": "https://dev.to/javinpaul/my-favorite-courses-to-learn-coding-and-programming-in-2023-4ngo",
-  "publish_date": "2023-02-19",
-  "published_at": "2023-02-19T09:52:08Z"
- },
- {
-  "id": 1371318,
-  "title": "7 JavaScript Web APIs to build Futuristic Websites you didn't know🤯",
-  "description": "With the rapidly changing technologies, developers are being provided with incredible new tools and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eUna47e0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yfzhwv6gc1tlspwekw5f.png",
-  "slug": "7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc",
-  "url": "https://dev.to/ruppysuppy/7-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-38bc",
-  "publish_date": "2023-02-19",
-  "published_at": "2023-02-19T07:38:18Z"
- },
- {
-  "id": 1371259,
-  "title": "5 Tips To Elevate Your Coding Skills!",
-  "description": "Introduction   Learning to code? Great! It will prove to be one of the best decisions of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kE1MZvhf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e9lbfgk09xhlwldafaok.jpg",
-  "slug": "5-tips-to-elevate-your-coding-skills-5db2",
-  "url": "https://dev.to/sriparno08/5-tips-to-elevate-your-coding-skills-5db2",
-  "publish_date": "2023-02-19",
-  "published_at": "2023-02-19T05:42:31Z"
  }
 ]
