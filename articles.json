@@ -1,5 +1,55 @@
 [
  {
+  "id": 1482008,
+  "title": "#DEVDiscuss: Geoffrey Hinton Quits Google",
+  "description": "Hey Devs, happy Friday 🦥💚  As always, it's been an eventful week in the tech industry. We've got a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IudMrPaf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cj0c3k0bzhhzhvqyz8ry.jpg",
+  "slug": "devdiscuss-geoffrey-hinton-quits-google-2a85",
+  "url": "https://dev.to/devteam/devdiscuss-geoffrey-hinton-quits-google-2a85",
+  "publish_date": "2023-06-02",
+  "published_at": "2023-06-02T20:00:00Z"
+ },
+ {
+  "id": 1489428,
+  "title": "useLayoutEffect vs useEffect",
+  "description": "Author: Wisdom Ekpotu           Introduction   In recent years, React has solidified itself in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O7cPAeOT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i4b2ymdm42uh4fnaypc9.png",
+  "slug": "uselayouteffect-vs-useeffect-4lfk",
+  "url": "https://dev.to/refine/uselayouteffect-vs-useeffect-4lfk",
+  "publish_date": "2023-06-02",
+  "published_at": "2023-06-02T10:11:38Z"
+ },
+ {
+  "id": 1489405,
+  "title": "Do not drop Sass for CSS",
+  "description": "I was just reading a post by Chris Ferdinandi -- Is it time to drop Sass? -- I want to speak on the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hZmzm_Ac--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v8efyqvsqh813cmv7mgv.jpg",
+  "slug": "do-not-drop-sass-for-css-1ofm",
+  "url": "https://dev.to/robole/do-not-drop-sass-for-css-1ofm",
+  "publish_date": "2023-06-02",
+  "published_at": "2023-06-02T09:41:02Z"
+ },
+ {
+  "id": 1489273,
+  "title": "Work From Home or the Office: Is It a Problem?",
+  "description": "Remote work is morally wrong   In a recent CNBC interview,  Elon Musk once again threw a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KukFYgdM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hj8h7sbyqbl73786wom.jpg",
+  "slug": "work-from-home-or-the-office-is-it-a-problem-5hj8",
+  "url": "https://dev.to/zenstack/work-from-home-or-the-office-is-it-a-problem-5hj8",
+  "publish_date": "2023-06-02",
+  "published_at": "2023-06-02T09:40:42Z"
+ },
+ {
+  "id": 1489240,
+  "title": "Idempotency and Immutable Objects",
+  "description": "The last 3 weeks I have had on average 100+ additional followers on DEV.to on a daily basis....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GXXZ_UHq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fdakc9p833hkea7y79kw.jpeg",
+  "slug": "idempotency-and-immutable-objects-4db",
+  "url": "https://dev.to/polterguy/idempotency-and-immutable-objects-4db",
+  "publish_date": "2023-06-02",
+  "published_at": "2023-06-02T06:51:04Z"
+ },
+ {
   "id": 1488367,
   "title": "Apresentando GitHubBrasil.com",
   "description": "Olá comunidade, como vão?  O artigo de hoje vai ser especial, hoje vamos falar sobre o site que...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/kubernetes-101-part-i-the-fundamentals-23a1",
   "publish_date": "2023-02-23",
   "published_at": "2023-02-23T02:25:00Z"
- },
- {
-  "id": 1375584,
-  "title": "Welcome Thread - v213",
-  "description": "Welcome to DEV! A thread of hellos and intros.",
-  "cover_image": "",
-  "slug": "welcome-thread-v213-1j9e",
-  "url": "https://dev.to/devteam/welcome-thread-v213-1j9e",
-  "publish_date": "2023-02-22",
-  "published_at": "2023-02-22T16:31:59Z"
- },
- {
-  "id": 1375356,
-  "title": "Thoughts on Dev Rel in the post-Twitter era",
-  "description": "Photo by Toa Heftiba on Unsplash  The wonderful Brian Rinaldi just shared some thoughts on Developer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9yaIJCx_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4eb6014ewtjhfp06es3w.jpeg",
-  "slug": "thoughts-on-dev-rel-in-the-post-twitter-era-2k8a",
-  "url": "https://dev.to/andypiper/thoughts-on-dev-rel-in-the-post-twitter-era-2k8a",
-  "publish_date": "2023-02-22",
-  "published_at": "2023-02-22T13:37:53Z"
- },
- {
-  "id": 1375347,
-  "title": "We are entering a new age: The creation age",
-  "description": "Humanity is always progressing.   However the progression is not linear. We tend to experience...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4IR_9TTO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o5mcm9bl3yiyhvo58me4.jpg",
-  "slug": "we-are-entering-a-new-age-the-creation-age-1f0j",
-  "url": "https://dev.to/grahamthedev/we-are-entering-a-new-age-the-creation-age-1f0j",
-  "publish_date": "2023-02-22",
-  "published_at": "2023-02-22T13:33:37Z"
- },
- {
-  "id": 1371452,
-  "title": "Build a notification system for a blog site with React, NodeJS and Novu 🚀",
-  "description": "TL;DR   In this tutorial, you will learn how to create a blog on your own that notifies...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qLfNoKIY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/foik3xzgmo04chvxf00y.jpg",
-  "slug": "build-a-notification-system-for-a-blog-site-with-react-nodejs-and-novu-gf1",
-  "url": "https://dev.to/novu/build-a-notification-system-for-a-blog-site-with-react-nodejs-and-novu-gf1",
-  "publish_date": "2023-02-22",
-  "published_at": "2023-02-22T13:25:55Z"
- },
- {
-  "id": 1360937,
-  "title": "Type-safe S3 Select queries with Kysely",
-  "description": "Join Kysely and S3 Select to query .csv, Parquet or JSON files content from your S3 Bucket in a type-safe and devX-friendly way!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mAKgnBEB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ThomasAribart/dev-to-articles/master/blog-posts/write-type-safe-s3-select-queries-with-kysely/type_safe_s3_select_queries_with_kysely_resized.webp",
-  "slug": "type-safe-s3-select-queries-with-kysely-4ge0",
-  "url": "https://dev.to/kumo/type-safe-s3-select-queries-with-kysely-4ge0",
-  "publish_date": "2023-02-22",
-  "published_at": "2023-02-22T12:42:53Z"
  }
 ]
