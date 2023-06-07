@@ -1,5 +1,55 @@
 [
  {
+  "id": 1492254,
+  "title": "Building an efficient email marketing application with ChatGPT, ToolJet, and PostgreSQL",
+  "description": "In this tutorial, you'll learn how to build an email marketing application using ToolJet, ChatGPT,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rdr40H1Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yuh1h5vqgfo38ihvjv0g.png",
+  "slug": "building-an-efficient-email-marketing-application-with-chatgpt-tooljet-and-postgresql-25g8",
+  "url": "https://dev.to/tooljet/building-an-efficient-email-marketing-application-with-chatgpt-tooljet-and-postgresql-25g8",
+  "publish_date": "2023-06-06",
+  "published_at": "2023-06-06T11:44:47Z"
+ },
+ {
+  "id": 1493285,
+  "title": "A Complete Guide to Listing Docker Containers",
+  "description": "Author: Muhammad Khabbab           Brief overview of the importance of listing Docker...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dFDXfOVZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jl9cd2uy8rlhvj0r8kq8.png",
+  "slug": "a-complete-guide-to-listing-docker-containers-e9a",
+  "url": "https://dev.to/refine/a-complete-guide-to-listing-docker-containers-e9a",
+  "publish_date": "2023-06-06",
+  "published_at": "2023-06-06T11:41:20Z"
+ },
+ {
+  "id": 1458700,
+  "title": "Power up your serverless application with AWS Lambda extensions",
+  "description": "Implementation guide for AWS lambda extensions with NodeJs and Typescript",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cIOJ7_05--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/CorentinDoue/articles/master/blog-posts/lambda-extensions/assets/cov.jpg",
+  "slug": "power-up-your-serverless-application-with-aws-lambda-extensions-3a31",
+  "url": "https://dev.to/kumo/power-up-your-serverless-application-with-aws-lambda-extensions-3a31",
+  "publish_date": "2023-06-06",
+  "published_at": "2023-06-06T11:14:12Z"
+ },
+ {
+  "id": 1493325,
+  "title": "The LinQ Bible in C#: From Basics to Best Practices✝️",
+  "description": "LinQ C# Foundations: Building Blocks for Success   Before we embark on our exciting journey...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m9ggl1_5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zl76qdlj8c04av8evkyt.png",
+  "slug": "the-linq-bible-in-c-from-basics-to-best-practices-1e3c",
+  "url": "https://dev.to/bytehide/the-linq-bible-in-c-from-basics-to-best-practices-1e3c",
+  "publish_date": "2023-06-06",
+  "published_at": "2023-06-06T09:51:36Z"
+ },
+ {
+  "id": 1492099,
+  "title": "Build Custom Authentication Using Appsmith and APISIX",
+  "description": "Authentication flow is a fundamental part of web applications. It ensures the security and privacy of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qItbPuv2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjtp3phhy1po031e0kqf.png",
+  "slug": "build-custom-authentication-using-appsmith-and-apisix-ep",
+  "url": "https://dev.to/apisix/build-custom-authentication-using-appsmith-and-apisix-ep",
+  "publish_date": "2023-06-06",
+  "published_at": "2023-06-06T07:39:55Z"
+ },
+ {
   "id": 1492319,
   "title": "Say Goodbye to Error Chaos in Flutter with Talker 3.0",
   "description": "Today I want to tell you about the major v3.0 update of Talker and why this is the best solution to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/francescoxx/build-a-crud-rest-api-in-go-using-mux-postgres-docker-and-docker-compose-2a75",
   "publish_date": "2023-02-26",
   "published_at": "2023-02-26T08:56:18Z"
- },
- {
-  "id": 1379347,
-  "title": "Turning 14...",
-  "description": "I'm turning 14 tomorrow, so in celebration of that, I finished creating my portfolio in...",
-  "cover_image": "",
-  "slug": "turning-14-1ifm",
-  "url": "https://dev.to/vulcanwm/turning-14-1ifm",
-  "publish_date": "2023-02-25",
-  "published_at": "2023-02-25T17:41:02Z"
- },
- {
-  "id": 1367478,
-  "title": "Ditching useState and useReducer: Why useImmer is the better option",
-  "description": "In React, useState and useReducer are commonly used for managing state. While useImmer is a popular...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dCQbIl2_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eqhmynmjk105swsow14i.png",
-  "slug": "ditching-usestate-and-usereducer-why-useimmer-is-the-better-option-11hk",
-  "url": "https://dev.to/rasaf_ibrahim/ditching-usestate-and-usereducer-why-useimmer-is-the-better-option-11hk",
-  "publish_date": "2023-02-25",
-  "published_at": "2023-02-25T16:41:29Z"
- },
- {
-  "id": 1379140,
-  "title": "Rust: Not Just Zoom Zoom Fast",
-  "description": "When it comes to Rust, the first thing that usually comes to mind is its impressive performance. And...",
-  "cover_image": "",
-  "slug": "rust-not-just-zoom-zoom-fast-bmb",
-  "url": "https://dev.to/nexxeln/rust-not-just-zoom-zoom-fast-bmb",
-  "publish_date": "2023-02-25",
-  "published_at": "2023-02-25T14:28:06Z"
- },
- {
-  "id": 1372765,
-  "title": "5 Rules of ARIA",
-  "description": "Have you ever heard about ARIA? It might sound weird and maybe even intimidating at first.   In this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ONlpey-c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4kdsmc9siu7vperhu0a1.jpg",
-  "slug": "5-rules-of-aria-40i",
-  "url": "https://dev.to/konrud/5-rules-of-aria-40i",
-  "publish_date": "2023-02-25",
-  "published_at": "2023-02-25T13:08:53Z"
- },
- {
-  "id": 1377738,
-  "title": "Roadmap to Learning Cloud Computing",
-  "description": "Have you been considering a career in Cloud Computing but don’t know where to start? A friend of mine...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--abGFbekU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d0jikj1s9hjpbce64tv6.jpg",
-  "slug": "roadmap-to-learning-cloud-computing-3nal",
-  "url": "https://dev.to/envitab/roadmap-to-learning-cloud-computing-3nal",
-  "publish_date": "2023-02-25",
-  "published_at": "2023-02-25T09:03:05Z"
  }
 ]
