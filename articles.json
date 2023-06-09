@@ -1,5 +1,55 @@
 [
  {
+  "id": 1498219,
+  "title": "Finding Harmony in Marketing and UX",
+  "description": "When we think of teamwork in the world of user experience (UX), we often imagine design and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7BPkltH3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kzqu64vjwal0l9mfbkzu.png",
+  "slug": "finding-harmony-in-marketing-and-ux-4em7",
+  "url": "https://dev.to/contenda/finding-harmony-in-marketing-and-ux-4em7",
+  "publish_date": "2023-06-08",
+  "published_at": "2023-06-08T17:02:57Z"
+ },
+ {
+  "id": 1496792,
+  "title": "Beyond Resume Building: 5 Surprising Benefits of Contributing to Open Source",
+  "description": "Hey peeps 👋  Hope everyone is doing fantastic!  In today’s blog, lets look into why people really...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BgTWdf2R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5pjrniwa7cgkkr3v7sr5.png",
+  "slug": "beyond-resume-building-5-surprising-benefits-of-contributing-to-open-source-45m2",
+  "url": "https://dev.to/quine/beyond-resume-building-5-surprising-benefits-of-contributing-to-open-source-45m2",
+  "publish_date": "2023-06-08",
+  "published_at": "2023-06-08T14:47:22Z"
+ },
+ {
+  "id": 1497355,
+  "title": "Cross Browser Testing with Cypress in CI/CD using Docker",
+  "description": "Greetings to all Cypress enthusiasts!  In this article, we’ll explore one interesting way of running...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LTaqNM4G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u0g9u0hllnwepjki6njq.png",
+  "slug": "cross-browser-testing-with-cypress-in-cicd-using-docker-48p3",
+  "url": "https://dev.to/sanzhanov/cross-browser-testing-with-cypress-in-cicd-using-docker-48p3",
+  "publish_date": "2023-06-08",
+  "published_at": "2023-06-08T14:18:10Z"
+ },
+ {
+  "id": 1497221,
+  "title": "3 Engineering Mistakes That Kill Startups",
+  "description": "I’ve been doing engineering consulting in fractional CTO roles for about a year now. And my current...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YYqTAo1c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rr8xza3bnzneqmqp6lhw.png",
+  "slug": "3-engineering-mistakes-that-kill-startups-3fm3",
+  "url": "https://dev.to/_michaellin/3-engineering-mistakes-that-kill-startups-3fm3",
+  "publish_date": "2023-06-08",
+  "published_at": "2023-06-08T10:55:00Z"
+ },
+ {
+  "id": 1497768,
+  "title": "C# Async/Await Interview Questions And Answers",
+  "description": "Are you preparing for an interview that will involve C# asynchronous programming? You’ve come to the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--njQQd75q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s8lcl4qy9qz56rxk41lw.png",
+  "slug": "c-asyncawait-interview-questions-and-answers-f7l",
+  "url": "https://dev.to/bytehide/c-asyncawait-interview-questions-and-answers-f7l",
+  "publish_date": "2023-06-08",
+  "published_at": "2023-06-08T10:18:27Z"
+ },
+ {
   "id": 1497135,
   "title": "Como hostear seu site gratuitamente com GitHub Pages",
   "description": "Você já conhece o GitHub Pages? Esse serviço oferece hospedagem gratuita para websites estáticos....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gewzk/were-launching-seo-go-for-an-enhanced-seo-collaboration-and-this-is-why-we-did-so-1aii",
   "publish_date": "2023-02-28",
   "published_at": "2023-02-28T07:38:45Z"
- },
- {
-  "id": 1379646,
-  "title": "The Evolution of Signals in JavaScript",
-  "description": "There has been some buzz recently in the frontend world around the term \"Signals\". In seemingly short...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hhnkUFvf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/olad9yyw632rg959kewz.png",
-  "slug": "the-evolution-of-signals-in-javascript-8ob",
-  "url": "https://dev.to/this-is-learning/the-evolution-of-signals-in-javascript-8ob",
-  "publish_date": "2023-02-27",
-  "published_at": "2023-02-27T19:05:20Z"
- },
- {
-  "id": 1381309,
-  "title": "Meme Monday 🦄",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qh3txRDT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mcq6ls89ykldq72pwd17.png",
-  "slug": "meme-monday-59gk",
-  "url": "https://dev.to/ben/meme-monday-59gk",
-  "publish_date": "2023-02-27",
-  "published_at": "2023-02-27T14:22:04Z"
- },
- {
-  "id": 1381285,
-  "title": "How I was able to improve my clients satisfaction by 10x 🪄",
-  "description": "Today is the time to talk about something that probably is happening to some of you. I work as a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kRuSRHjZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kixrz3lxrjoy2vraia5e.png",
-  "slug": "how-i-was-able-to-improve-my-clients-satisfaction-by-10x-15k2",
-  "url": "https://dev.to/naubit/how-i-was-able-to-improve-my-clients-satisfaction-by-10x-15k2",
-  "publish_date": "2023-02-27",
-  "published_at": "2023-02-27T14:05:48Z"
- },
- {
-  "id": 1381121,
-  "title": "Building a forum with React, NodeJS",
-  "description": "TL;DR   In this article, you'll learn how to build a forum system that allows users to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6v4LYrkv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5ki4dnipf30h7kijyx8.jpg",
-  "slug": "building-a-forum-with-react-nodejs-6pe",
-  "url": "https://dev.to/novu/building-a-forum-with-react-nodejs-6pe",
-  "publish_date": "2023-02-27",
-  "published_at": "2023-02-27T13:18:36Z"
- },
- {
-  "id": 1379836,
-  "title": "Recoil is the Samurai Sword of React State Management",
-  "description": "Today, I have taken a new approach to present this article by adding a Samurai touch. I sincerely...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UF_ZKYKw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1e3a4sdhiqx3tr3a8a3e.png",
-  "slug": "recoil-is-the-samurai-sword-of-react-state-management-5h3c",
-  "url": "https://dev.to/codeofrelevancy/recoil-is-the-samurai-sword-of-react-state-management-5h3c",
-  "publish_date": "2023-02-27",
-  "published_at": "2023-02-27T05:29:01Z"
  }
 ]
