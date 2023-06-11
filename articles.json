@@ -1,5 +1,55 @@
 [
  {
+  "id": 1500198,
+  "title": "How did you get interested in software development?",
+  "description": "What's your origin story?",
+  "cover_image": "",
+  "slug": "how-did-you-get-interested-in-software-development-402g",
+  "url": "https://dev.to/dinerdas/how-did-you-get-interested-in-software-development-402g",
+  "publish_date": "2023-06-10",
+  "published_at": "2023-06-10T15:33:56Z"
+ },
+ {
+  "id": 1500141,
+  "title": "Essential Keywords Every Ethereum Enthusiast Must Know",
+  "description": "Ethereum has emerged as one of the most influential platforms in the blockchain ecosystem. It's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qtCc9V8f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8heon8d8cpystqbek11n.jpg",
+  "slug": "essential-keywords-every-ethereum-enthusiast-must-know-4600",
+  "url": "https://dev.to/sahil_4555/essential-keywords-every-ethereum-enthusiast-must-know-4600",
+  "publish_date": "2023-06-10",
+  "published_at": "2023-06-10T13:27:29Z"
+ },
+ {
+  "id": 1500126,
+  "title": "Reflecting on Progress and Redefining Goals",
+  "description": "Evaluating my progress, self-assessing, and looking at my goals over the last six months.",
+  "cover_image": "",
+  "slug": "reflecting-on-progress-and-redefining-goals-2oo9",
+  "url": "https://dev.to/bekahhw/reflecting-on-progress-and-redefining-goals-2oo9",
+  "publish_date": "2023-06-10",
+  "published_at": "2023-06-10T13:03:26Z"
+ },
+ {
+  "id": 1488854,
+  "title": "Simplify Your C# Code: Top 5 Refactoring Tools",
+  "description": "When we hear refactoring what comes to mind? I am sure it would be like we just modify the previous...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IFtoDlk5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q211h5iert1xno1r16lr.png",
+  "slug": "simplify-your-c-code-top-5-refactoring-tools-1bo0",
+  "url": "https://dev.to/documatic/simplify-your-c-code-top-5-refactoring-tools-1bo0",
+  "publish_date": "2023-06-10",
+  "published_at": "2023-06-10T12:00:00Z"
+ },
+ {
+  "id": 1499959,
+  "title": "I'm developing a new server state management library for React.",
+  "description": "I'm excited to introduce the RSM (Redux State Manager) tool I've developed to the community. In this...",
+  "cover_image": "",
+  "slug": "im-developing-a-new-server-state-management-library-3nhk",
+  "url": "https://dev.to/jason89521/im-developing-a-new-server-state-management-library-3nhk",
+  "publish_date": "2023-06-10",
+  "published_at": "2023-06-10T09:55:46Z"
+ },
+ {
   "id": 1499053,
   "title": "[Nestia] I made backend simulator for frontend developers (similar with MSW, but fully automated)",
   "description": "Summary     I made NestJS backend server simulator in my library nestia.  You can build the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/teamliapp/a-response-measure-to-the-security-threat-of-virtual-space-app-5c35",
   "publish_date": "2023-03-02",
   "published_at": "2023-03-02T07:28:24Z"
- },
- {
-  "id": 1384192,
-  "title": "OpenAI announces ChatGPT and Whisper APIs",
-  "description": "Openai just made a big announcement regarding its API.  From the post:   ChatGPT and Whisper models...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ms9fQxoM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6kr9737hrtispfvjzrqc.png",
-  "slug": "openai-announces-chatgpt-and-whisper-apis-304i",
-  "url": "https://dev.to/ben/openai-announces-chatgpt-and-whisper-apis-304i",
-  "publish_date": "2023-03-01",
-  "published_at": "2023-03-01T18:18:04Z"
- },
- {
-  "id": 1380954,
-  "title": "React vs Signals: 10 Years Later",
-  "description": "How does the old Winston Churchill quote go?   Those who fail to learn from history are doomed to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qgcEl9sA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2o9vibd5h0v5xq1et26v.png",
-  "slug": "react-vs-signals-10-years-later-3k71",
-  "url": "https://dev.to/this-is-learning/react-vs-signals-10-years-later-3k71",
-  "publish_date": "2023-03-01",
-  "published_at": "2023-03-01T17:27:05Z"
- },
- {
-  "id": 1380302,
-  "title": "Learn serverless on AWS step-by-step - Databases",
-  "description": "In the last article, I covered the basics of creating Lambda functions on AWS, using the CDK. In this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Qr7pMBQb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/databases/assets/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-databases-kkg",
-  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-databases-kkg",
-  "publish_date": "2023-03-01",
-  "published_at": "2023-03-01T13:19:40Z"
- },
- {
-  "id": 1381729,
-  "title": "Making GraphQL Codegen Work For You: GraphQL Integration with React and TypeScript",
-  "description": "TL;DR   In this guide, we’ll be showing you how to use GraphQL alongside React and GraphQL...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bj3DW3Nz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/191ar0vbu76nbwljfyv3.jpg",
-  "slug": "making-graphql-codegen-work-for-you-graphql-integration-with-react-and-typescript-3bbm",
-  "url": "https://dev.to/novu/making-graphql-codegen-work-for-you-graphql-integration-with-react-and-typescript-3bbm",
-  "publish_date": "2023-03-01",
-  "published_at": "2023-03-01T11:09:45Z"
- },
- {
-  "id": 1383695,
-  "title": "IQ Testlerinde Başarılı Olmak İçin İpuçları ve Stratejiler",
-  "description": "IQ testleri, zeka seviyesini ölçmek için kullanılan standartlaştırılmış testlerdir. IQ testleri, okul...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E1nDi0zE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6vqys7fmh2k9mofczzz3.png",
-  "slug": "iq-testlerinde-basarili-olmak-icin-ipuclari-ve-stratejiler-27hi",
-  "url": "https://dev.to/iqsertifikasi/iq-testlerinde-basarili-olmak-icin-ipuclari-ve-stratejiler-27hi",
-  "publish_date": "2023-03-01",
-  "published_at": "2023-03-01T10:35:31Z"
  }
 ]
