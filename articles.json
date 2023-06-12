@@ -1,5 +1,55 @@
 [
  {
+  "id": 1501344,
+  "title": "Comece hoje a estudar web development",
+  "description": "Você não precisa ter o melhor computador, melhor curso ou de faculdade para começar. Aqui vou listar...",
+  "cover_image": "",
+  "slug": "comece-hoje-a-estudar-688",
+  "url": "https://dev.to/oderco/comece-hoje-a-estudar-688",
+  "publish_date": "2023-06-11",
+  "published_at": "2023-06-11T23:43:11Z"
+ },
+ {
+  "id": 1500357,
+  "title": "How to Deploy LangChain App 🐦🔗 as an API",
+  "description": "Introduction   Recently, I had an idea to add my own AI Assistant to my website -...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JGmrPOA_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s4rhti8pytm5x1dcjyhc.png",
+  "slug": "how-to-deploy-langchain-as-an-api-48mj",
+  "url": "https://dev.to/akshayballal/how-to-deploy-langchain-as-an-api-48mj",
+  "publish_date": "2023-06-11",
+  "published_at": "2023-06-11T18:59:34Z"
+ },
+ {
+  "id": 1493081,
+  "title": "🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?",
+  "description": "TL;DR   In this project, I’ll be showing you some unique ways to integrate Novu with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZO_uw8H4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r9dj1pfogi072u4drsn.png",
+  "slug": "how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14",
+  "url": "https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14",
+  "publish_date": "2023-06-11",
+  "published_at": "2023-06-11T18:37:17Z"
+ },
+ {
+  "id": 1500691,
+  "title": "7 Free Lifesaver Image Tools Every Frontend Developer Must Have In Their Arsenal 🛠️🚀",
+  "description": "Images are an integral part of every frontend developer's journey, shaping captivating digital...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xi1y1G7K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xovl26ueuw2zopgqnmj3.png",
+  "slug": "7-free-lifesaver-image-tools-every-frontend-developer-must-have-in-their-arsenal-43n",
+  "url": "https://dev.to/ruppysuppy/7-free-lifesaver-image-tools-every-frontend-developer-must-have-in-their-arsenal-43n",
+  "publish_date": "2023-06-11",
+  "published_at": "2023-06-11T06:37:40Z"
+ },
+ {
+  "id": 1500125,
+  "title": "Enhancing Code Reviews with Conventional Comments",
+  "description": "In software development, code reviews are a vital practice that ensures code quality, promotes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mp-auzgs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bqo17owv451jbpiofr6f.jpg",
+  "slug": "enhancing-code-reviews-with-conventional-comments-2j9i",
+  "url": "https://dev.to/tsotsi1/enhancing-code-reviews-with-conventional-comments-2j9i",
+  "publish_date": "2023-06-11",
+  "published_at": "2023-06-11T01:00:09Z"
+ },
+ {
   "id": 1500198,
   "title": "How did you get interested in software development?",
   "description": "What's your origin story?",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-devops-in-2023-4h6m",
   "publish_date": "2023-03-03",
   "published_at": "2023-03-03T03:29:06Z"
- },
- {
-  "id": 1385308,
-  "title": "Free resources that helped me master React as a Self Taught Web Developer",
-  "description": "React? Why?   When it comes to web development and to be precise - JavaScript frameworks /...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FcQ8s_Zb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uuf4o80a1tuuvnvs7z96.png",
-  "slug": "free-resources-that-helped-me-master-react-as-a-self-taught-web-developer-58k2",
-  "url": "https://dev.to/asheeshh/free-resources-that-helped-me-master-react-as-a-self-taught-web-developer-58k2",
-  "publish_date": "2023-03-02",
-  "published_at": "2023-03-02T15:51:02Z"
- },
- {
-  "id": 1385272,
-  "title": "How to Build Real-time Weather App Using Vanilla JavaScript and API",
-  "description": "In this video, I'll show you how to build a real-time weather app using vanilla JavaScript and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PGa9Pb5G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/579wxh9z8u7pk3ziffz4.png",
-  "slug": "how-to-build-real-time-weather-app-using-vanilla-javascript-and-api-4j21",
-  "url": "https://dev.to/codewithsadee/how-to-build-real-time-weather-app-using-vanilla-javascript-and-api-4j21",
-  "publish_date": "2023-03-02",
-  "published_at": "2023-03-02T14:26:40Z"
- },
- {
-  "id": 1384989,
-  "title": "I made an admin dashboard for React using Tailwind CSS! Use it for free! ⚡️",
-  "description": "Hey guys, I made an admin template for React using Tailwind CSS! Use it for free!  Presentation:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wGSGyhx0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zqneh3xh2nu3nj5bs5x.png",
-  "slug": "i-made-an-admin-dashboard-for-react-using-tailwind-css-use-it-for-free-49o",
-  "url": "https://dev.to/fredy/i-made-an-admin-dashboard-for-react-using-tailwind-css-use-it-for-free-49o",
-  "publish_date": "2023-03-02",
-  "published_at": "2023-03-02T09:55:53Z"
- },
- {
-  "id": 1376729,
-  "title": "Expose APIs from Apache APISIX to the Power Platform",
-  "description": "Apache APISIX API Gateway enables professional developers to publish their backend service as APIs,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lgknYSqe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n2u3mwtvqnvsk1f3a6c7.png",
-  "slug": "expose-apis-from-apache-apisix-to-the-power-platform-34la",
-  "url": "https://dev.to/apisix/expose-apis-from-apache-apisix-to-the-power-platform-34la",
-  "publish_date": "2023-03-02",
-  "published_at": "2023-03-02T08:19:25Z"
- },
- {
-  "id": 1384841,
-  "title": "A Response Measure to the Security Threat of Virtual Space App",
-  "description": "Virtual Space App  Recently, the Virtual Space App, which allows you to use the same app dual on one...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aiTaDM0X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8bg85ir1x08gvefvg9lf.png",
-  "slug": "a-response-measure-to-the-security-threat-of-virtual-space-app-5c35",
-  "url": "https://dev.to/teamliapp/a-response-measure-to-the-security-threat-of-virtual-space-app-5c35",
-  "publish_date": "2023-03-02",
-  "published_at": "2023-03-02T07:28:24Z"
  }
 ]
