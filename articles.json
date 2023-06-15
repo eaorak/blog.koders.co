@@ -1,5 +1,55 @@
 [
  {
+  "id": 1498154,
+  "title": "Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023",
+  "description": "We are excited to announce an upcoming conference keynote by DEV and Forem Co-Founder Ben Halpern...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QKL3VzcY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e9l6mfpz118pkekoavnm.png",
+  "slug": "catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo",
+  "url": "https://dev.to/devteam/catch-dev-co-founder-ben-halperns-keynote-at-rubyconf-th-2023-3keo",
+  "publish_date": "2023-06-14",
+  "published_at": "2023-06-14T15:00:00Z"
+ },
+ {
+  "id": 1504405,
+  "title": "Configuration-as-Code: Automating Application Configuration",
+  "description": "Welcome to the world of Configuration-as-Code (CaC), where automation reigns supreme, and even the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ukRjG2Rg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f43d57v8gvuswdavqhnt.png",
+  "slug": "configuration-as-code-automating-application-configuration-45k6",
+  "url": "https://dev.to/rannn505/configuration-as-code-automating-application-configuration-45k6",
+  "publish_date": "2023-06-14",
+  "published_at": "2023-06-14T14:42:40Z"
+ },
+ {
+  "id": 1504354,
+  "title": "A better learning path for React with server components",
+  "description": "I’ve always loved sharing my knowledge. When I love a language, library or framework, more than...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SfZATcXY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1figvtj66ia1a47hc9fp.jpg",
+  "slug": "a-better-learning-path-for-react-with-server-components-5ebn",
+  "url": "https://dev.to/scastiel/a-better-learning-path-for-react-with-server-components-5ebn",
+  "publish_date": "2023-06-14",
+  "published_at": "2023-06-14T13:27:45Z"
+ },
+ {
+  "id": 1501565,
+  "title": "Custom Plugin Development For APISIX With Lua And ChatGPT",
+  "description": "One of the key features of Apache APISIX is its extensibility through plugins. APISIX allows you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dDyWCpSr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vtwmemcb8wxej9f06xzq.png",
+  "slug": "custom-plugin-development-for-apisix-with-lua-and-chatgpt-nkd",
+  "url": "https://dev.to/apisix/custom-plugin-development-for-apisix-with-lua-and-chatgpt-nkd",
+  "publish_date": "2023-06-14",
+  "published_at": "2023-06-14T10:37:31Z"
+ },
+ {
+  "id": 1504017,
+  "title": "How to Build AI powered App in 5 minutes in Node.js",
+  "description": "Hello     Did you try AI for real in your projects? Specifically OpenAI API or just announeced Vertex...",
+  "cover_image": "",
+  "slug": "how-to-build-ai-powered-app-in-5-minutes-in-nodejs-1413",
+  "url": "https://dev.to/igorboky/how-to-build-ai-powered-app-in-5-minutes-in-nodejs-1413",
+  "publish_date": "2023-06-14",
+  "published_at": "2023-06-14T07:39:32Z"
+ },
+ {
   "id": 1503438,
   "title": "From Concept to Code: How Rive Supercharged My Design Implementation",
   "description": "for anyone interested in efficient design-to-development workflows  You may have noticed that...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/novu/resend-how-to-add-an-email-api-provider-to-novu-49cd",
   "publish_date": "2023-03-06",
   "published_at": "2023-03-06T06:33:43Z"
- },
- {
-  "id": 1380309,
-  "title": "O mínimo que você precisa saber para iniciar um projeto em TypeScript",
-  "description": "Motivação   Ao publicar o meu último artigo \"Criei um hook personalizado para buscar dados...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xi50lRCL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i2b8k7626qqrfl3j1f6p.png",
-  "slug": "o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript-l13",
-  "url": "https://dev.to/dellamora/o-minimo-que-voce-precisa-saber-para-iniciar-um-projeto-em-typescript-l13",
-  "publish_date": "2023-03-05",
-  "published_at": "2023-03-05T20:07:02Z"
- },
- {
-  "id": 1388790,
-  "title": "How to find users for open source project with no resources and connections",
-  "description": "If you are starting your first Open Source Project with no resources and connections, this post aims...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jerX-cSL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ge17rzovv2bnce67r15l.jpg",
-  "slug": "how-to-find-users-for-open-source-project-with-no-resources-and-connections-1lni",
-  "url": "https://dev.to/zenstack/how-to-find-users-for-open-source-project-with-no-resources-and-connections-1lni",
-  "publish_date": "2023-03-05",
-  "published_at": "2023-03-05T09:24:28Z"
- },
- {
-  "id": 1378704,
-  "title": "Art or Science: How Do You Balance Precision and Creativity in Coding?",
-  "description": "As a programmer, it's important to balance the need for precision and accuracy with the need for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sQOgCDNn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ecc5qwc103t498o32yw.png",
-  "slug": "art-or-science-how-do-you-balance-precision-and-creativity-in-coding-4hpg",
-  "url": "https://dev.to/codenewbieteam/art-or-science-how-do-you-balance-precision-and-creativity-in-coding-4hpg",
-  "publish_date": "2023-03-05",
-  "published_at": "2023-03-05T08:00:00Z"
- },
- {
-  "id": 1388641,
-  "title": "7 Libraries You Should Know as a React Developer 💯🔥",
-  "description": "On your journey to becoming a well-rounded React developer, you would come across innumerable...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6A3D0NoH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jla80j49u1mw80feacwq.png",
-  "slug": "7-libraries-you-should-know-as-a-react-developer-2ib5",
-  "url": "https://dev.to/ruppysuppy/7-libraries-you-should-know-as-a-react-developer-2ib5",
-  "publish_date": "2023-03-05",
-  "published_at": "2023-03-05T05:48:47Z"
- },
- {
-  "id": 1388637,
-  "title": "From a Dumb Student to a PyTorch Contributor: The Impact of Teachers on My Life⚡",
-  "description": "`I cannot teach anybody anything; I can only make them think. - Socrates           ...",
-  "cover_image": "",
-  "slug": "from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4",
-  "url": "https://dev.to/vivekcodes/from-a-dumb-student-to-a-pytorch-contributor-the-impact-of-teachers-on-my-life-4me4",
-  "publish_date": "2023-03-05",
-  "published_at": "2023-03-05T04:21:37Z"
  }
 ]
