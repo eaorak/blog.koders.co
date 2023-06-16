@@ -1,5 +1,55 @@
 [
  {
+  "id": 1505955,
+  "title": "Handle Multiple Queries \u0026 Mutations in React Form using Apollo Client",
+  "description": "In this tutorial, we'll explore how to handle multiple queries and mutations in a controlled form...",
+  "cover_image": "",
+  "slug": "handle-multiple-queries-mutations-in-react-form-using-apollo-client-4o41",
+  "url": "https://dev.to/ashishkmishra36/handle-multiple-queries-mutations-in-react-form-using-apollo-client-4o41",
+  "publish_date": "2023-06-15",
+  "published_at": "2023-06-15T16:36:16Z"
+ },
+ {
+  "id": 1505362,
+  "title": "refine + DEV Open Source Hackathon 2 - Pre-Announcement",
+  "description": "We're back with another exciting event for the open-source community - the 2nd refine Open Source...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cpf1wCIw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4riycdrwn74b8r6umil0.jpg",
+  "slug": "refine-dev-open-source-hackathon-2-pre-announcement-22n1",
+  "url": "https://dev.to/refine/refine-dev-open-source-hackathon-2-pre-announcement-22n1",
+  "publish_date": "2023-06-15",
+  "published_at": "2023-06-15T09:11:07Z"
+ },
+ {
+  "id": 1505328,
+  "title": "DS_Store in git changes, why ?",
+  "description": "Mac user generally face this issue where .DS_Store file gets generated automatically and pops up in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N79LvCKp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6r5ddz91ltqi951na7zs.png",
+  "slug": "dsstore-in-git-changes-why--1cbn",
+  "url": "https://dev.to/raviagheda/dsstore-in-git-changes-why--1cbn",
+  "publish_date": "2023-06-15",
+  "published_at": "2023-06-15T08:16:12Z"
+ },
+ {
+  "id": 1505323,
+  "title": "Top 10 Things You Should Add While Coding: Valuable Tips for Programmers",
+  "description": "In the world of programming, attention to detail is crucial. Every line of code matters and can have...",
+  "cover_image": "",
+  "slug": "top-10-things-you-should-add-while-coding-valuable-tips-for-programmers-4m3n",
+  "url": "https://dev.to/dhruvjoshi9/top-10-things-you-should-add-while-coding-valuable-tips-for-programmers-4m3n",
+  "publish_date": "2023-06-15",
+  "published_at": "2023-06-15T08:05:08Z"
+ },
+ {
+  "id": 1504990,
+  "title": "Removing trailing space underlines from groups of anchor tags",
+  "description": "Sometimes when you have a bunch of anchor tags, the trailing spaces around them are underlined. Here's how to fix that.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7s8RwfT4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1531160492875-2a09eb0cd73b%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D1742%26q%3D80",
+  "slug": "removing-trailing-space-underlines-from-groups-of-anchor-tags-54ib",
+  "url": "https://dev.to/cassidoo/removing-trailing-space-underlines-from-groups-of-anchor-tags-54ib",
+  "publish_date": "2023-06-15",
+  "published_at": "2023-06-15T01:35:11Z"
+ },
+ {
   "id": 1498154,
   "title": "Catch DEV Co-Founder Ben Halpern’s Keynote at RubyConf TH 2023",
   "description": "We are excited to announce an upcoming conference keynote by DEV and Forem Co-Founder Ben Halpern...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shosenwales/top-5-javascript-tools-for-ecommerce-platforms-59nb",
   "publish_date": "2023-03-07",
   "published_at": "2023-03-07T08:25:13Z"
- },
- {
-  "id": 1390683,
-  "title": "Meme Monday 😝",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--32-0DSBP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jq55azxqqsvgbqkln914.png",
-  "slug": "meme-monday-193h",
-  "url": "https://dev.to/ben/meme-monday-193h",
-  "publish_date": "2023-03-06",
-  "published_at": "2023-03-06T15:35:23Z"
- },
- {
-  "id": 1390119,
-  "title": "Sail on a Sea of React Libraries That Will Make You the Captain of your Code",
-  "description": "Ahoy there, As a React developer it's always good to have a trusted library by your side. Just like...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a9l0tXat--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/772alz7na3k7566y8eh0.png",
-  "slug": "sail-on-a-sea-of-react-libraries-that-will-make-you-the-captain-of-your-code-1mg0",
-  "url": "https://dev.to/codeofrelevancy/sail-on-a-sea-of-react-libraries-that-will-make-you-the-captain-of-your-code-1mg0",
-  "publish_date": "2023-03-06",
-  "published_at": "2023-03-06T14:17:44Z"
- },
- {
-  "id": 1389661,
-  "title": "Applying for a new job with React and NodeJS and AI",
-  "description": "TL;DR   In the previous article in the series, I walked you through how to build a resume...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6_cDJHW_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5r12jqls52hwgamj7h5z.jpg",
-  "slug": "applying-for-a-new-job-with-react-and-nodejs-and-ai-17a9",
-  "url": "https://dev.to/novu/applying-for-a-new-job-with-react-and-nodejs-and-ai-17a9",
-  "publish_date": "2023-03-06",
-  "published_at": "2023-03-06T13:13:35Z"
- },
- {
-  "id": 1389709,
-  "title": "React Admin Panel Tutorial with Chakra UI and Strapi",
-  "description": "Author: Peter Osah           Introduction   In building data-intensive applications like React...",
-  "cover_image": "",
-  "slug": "react-admin-panel-tutorial-with-chakra-ui-and-strapi-32pj",
-  "url": "https://dev.to/refine/react-admin-panel-tutorial-with-chakra-ui-and-strapi-32pj",
-  "publish_date": "2023-03-06",
-  "published_at": "2023-03-06T07:33:26Z"
- },
- {
-  "id": 1375638,
-  "title": "Resend - How to add an Email API Provider to Novu",
-  "description": "TL;DR: There is a popular saying that goes like this: You never really know something until you teach...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QBL8-PZg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhclct9xztmcen6mflrg.png",
-  "slug": "resend-how-to-add-an-email-api-provider-to-novu-49cd",
-  "url": "https://dev.to/novu/resend-how-to-add-an-email-api-provider-to-novu-49cd",
-  "publish_date": "2023-03-06",
-  "published_at": "2023-03-06T06:33:43Z"
  }
 ]
