@@ -1,5 +1,55 @@
 [
  {
+  "id": 1508078,
+  "title": "Dynamic SVG images using Next.js",
+  "description": "SVG has emerged as a dominant image format, offering unparalleled flexibility and scalability for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MYTKU5hU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/smbplvdfls49ye7wvavf.png",
+  "slug": "dynamic-svg-images-using-nextjs-1b3f",
+  "url": "https://dev.to/nbouvrette/dynamic-svg-images-using-nextjs-1b3f",
+  "publish_date": "2023-06-17",
+  "published_at": "2023-06-17T23:59:15Z"
+ },
+ {
+  "id": 1507936,
+  "title": "How to build a markdown editor in two minutes (with GitHub Copilot)",
+  "description": "Table of Contents      This blog post is long. Click this dropdown for a smoother navigation...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kcPP6daV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ke2p5dt9f5y3ahiqlu13.png",
+  "slug": "how-to-build-a-markdown-editor-in-two-minutes-with-github-copilot-khb",
+  "url": "https://dev.to/github/how-to-build-a-markdown-editor-in-two-minutes-with-github-copilot-khb",
+  "publish_date": "2023-06-17",
+  "published_at": "2023-06-17T17:59:34Z"
+ },
+ {
+  "id": 1507750,
+  "title": "Top 10 Backend Development Mistakes to Avoid",
+  "description": "Backend development plays a crucial role in building robust and efficient web applications. It...",
+  "cover_image": "",
+  "slug": "top-10-backend-development-mistakes-to-avoid-4p86",
+  "url": "https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86",
+  "publish_date": "2023-06-17",
+  "published_at": "2023-06-17T11:53:31Z"
+ },
+ {
+  "id": 1507702,
+  "title": "Modeling Facebook Groups Access Management",
+  "description": "Introduction   We frequently receive inquiries about how to model different types of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kn8vUQbC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9jsdlcrfskxkcbcui9p8.png",
+  "slug": "modeling-facebook-groups-access-management-27kg",
+  "url": "https://dev.to/permify/modeling-facebook-groups-access-management-27kg",
+  "publish_date": "2023-06-17",
+  "published_at": "2023-06-17T09:59:04Z"
+ },
+ {
+  "id": 1507574,
+  "title": "React Ecosystem in 2023.",
+  "description": "React Ecosystem in 2023   As the technology are evolving the tools and library are also...",
+  "cover_image": "",
+  "slug": "react-ecosystem-in-2023-5aj4",
+  "url": "https://dev.to/ihteshamulhaq510/react-ecosystem-in-2023-5aj4",
+  "publish_date": "2023-06-17",
+  "published_at": "2023-06-17T07:04:07Z"
+ },
+ {
   "id": 1506698,
   "title": "5 Reasons Engineers do not use Webhook Gateways Yet",
   "description": "Speaking with platform engineers at events, in various online communities and even within the Convoy...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/authenticate-with-openid-connect-and-apache-apisix-448h",
   "publish_date": "2023-03-09",
   "published_at": "2023-03-09T08:03:00Z"
- },
- {
-  "id": 1393566,
-  "title": "Let's keep moving the goal posts",
-  "description": "Since I joined the tech industry, I have been heartened to see an evolution which has left a lot of...",
-  "cover_image": "",
-  "slug": "lets-keep-moving-the-goal-posts-3jjl",
-  "url": "https://dev.to/ben/lets-keep-moving-the-goal-posts-3jjl",
-  "publish_date": "2023-03-08",
-  "published_at": "2023-03-08T21:02:19Z"
- },
- {
-  "id": 1325090,
-  "title": "8 Ways to Support Women Developers",
-  "description": "Last year, in We've Been Here Since the Beginning, I wrote about how it felt to be constantly...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---8wCeHr8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8vb26sl55qb5iaglksrx.jpg",
-  "slug": "8-ways-to-support-women-developers-55lf",
-  "url": "https://dev.to/abbeyperini/8-ways-to-support-women-developers-55lf",
-  "publish_date": "2023-03-08",
-  "published_at": "2023-03-08T17:24:36Z"
- },
- {
-  "id": 1393216,
-  "title": "Join the WeCoded Virtual Meetup on 3/10 🌟",
-  "description": "We’re hosting a virtual WeCoded meetup on the WeCoded Discord at 3pm ET / 12pm PST / 8pm UTC on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--41btPBZi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/okrblhapu1y9gk5p76gm.png",
-  "slug": "join-the-wecoded-virtual-meetup-on-310-j1l",
-  "url": "https://dev.to/devteam/join-the-wecoded-virtual-meetup-on-310-j1l",
-  "publish_date": "2023-03-08",
-  "published_at": "2023-03-08T15:51:24Z"
- },
- {
-  "id": 1393030,
-  "title": "Join us for #WeCoded 2023!",
-  "description": "On behalf of the DEV Team, I’m excited to announce our first #WeCoded event!  For the past five...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mPLBxt5k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hukkg7utmsnb4wonpbbx.jpg",
-  "slug": "join-us-for-wecoded-2023-9cj",
-  "url": "https://dev.to/devteam/join-us-for-wecoded-2023-9cj",
-  "publish_date": "2023-03-08",
-  "published_at": "2023-03-08T15:13:45Z"
- },
- {
-  "id": 1393029,
-  "title": "Portal - a modern file transfer utility 🌌✨",
-  "description": "Portal   ...is a platform-agnostic command-line file transfer utility for sending files from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--smdoDx0f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jjum104t38ra6n3cpmt9.png",
-  "slug": "portal-a-modern-file-transfer-utility-4154",
-  "url": "https://dev.to/zinokader/portal-a-modern-file-transfer-utility-4154",
-  "publish_date": "2023-03-08",
-  "published_at": "2023-03-08T14:05:21Z"
  }
 ]
