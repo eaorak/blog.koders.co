@@ -1,5 +1,55 @@
 [
  {
+  "id": 1374537,
+  "title": "Create, Push, and Present Any View Controller in 1 LOC using Metaprogramming",
+  "description": "TL;DR   We make view controller instantiation more type-safe by eliminating string IDs and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a-OkmsKV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a7d43667odiv9uc1mcsp.jpg",
+  "slug": "create-push-and-present-any-view-controller-in-1-loc-using-metaprogramming-4o8d",
+  "url": "https://dev.to/ivangoremykin/create-push-and-present-any-view-controller-in-1-loc-using-metaprogramming-4o8d",
+  "publish_date": "2023-06-18",
+  "published_at": "2023-06-18T17:39:11Z"
+ },
+ {
+  "id": 1508502,
+  "title": "How to prepare test data via OpenAI API in Postman",
+  "description": "How to generate diverse test data? And what if you need a realistic dataset for a product...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8gpezxSJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vln3ftqk8xjsf9on58fs.png",
+  "slug": "how-to-prepare-test-data-via-openai-api-in-postman-5con",
+  "url": "https://dev.to/n_demia/how-to-prepare-test-data-via-openai-api-in-postman-5con",
+  "publish_date": "2023-06-18",
+  "published_at": "2023-06-18T14:18:11Z"
+ },
+ {
+  "id": 1508491,
+  "title": "After Solving 400 Leetcode questions, Here are five things that I have learned",
+  "description": "After Solving 400 Leetcode questions, I have gained valuable insights and lessons that have shaped my...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yMzeijHW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6gwjrn3zyf8hc0u8lfle.png",
+  "slug": "after-solving-400-leetcode-questions-here-are-five-things-that-i-have-learned-c60",
+  "url": "https://dev.to/durgesh4993/after-solving-400-leetcode-questions-here-are-five-things-that-i-have-learned-c60",
+  "publish_date": "2023-06-18",
+  "published_at": "2023-06-18T13:28:49Z"
+ },
+ {
+  "id": 1508318,
+  "title": "Mindmapping: The Underrated Skill for Success in Life and Software Development",
+  "description": "🌟 Mindmapping: The Underrated Skill for Success in Life and Software Development! 🌟  🚀 Are you tired...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n7AJvhOG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dd6sg5uim8lnarwthbsn.jpg",
+  "slug": "mindmapping-the-underrated-skill-for-success-in-life-and-software-development-4npi",
+  "url": "https://dev.to/jagroop2000/mindmapping-the-underrated-skill-for-success-in-life-and-software-development-4npi",
+  "publish_date": "2023-06-18",
+  "published_at": "2023-06-18T08:23:49Z"
+ },
+ {
+  "id": 1476699,
+  "title": "Part 4: Writing Clean and Efficient React Code- Best Practices and Optimization Techniques",
+  "description": "Welcome to Part 4 of our series on \"React best practices in 2023\"! In this part, we will explore...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3NDpXywi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cuv5d7fvcbvgolkb9m1e.png",
+  "slug": "part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d",
+  "url": "https://dev.to/sathishskdev/part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d",
+  "publish_date": "2023-06-18",
+  "published_at": "2023-06-18T06:18:39Z"
+ },
+ {
   "id": 1508078,
   "title": "Dynamic SVG images using Next.js",
   "description": "SVG has emerged as a dominant image format, offering unparalleled flexibility and scalability for...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-microservices-in-depth-12el",
   "publish_date": "2023-03-10",
   "published_at": "2023-03-10T01:52:01Z"
- },
- {
-  "id": 1394792,
-  "title": "Promoting Gender Equity and Inclusion in the Tech Industry and Beyond",
-  "description": "Advancing gender equality in the tech industry is crucial, not just for women, but for all...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NfpHj-l---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/14e17vjgiktqq3bvcnla.png",
-  "slug": "promoting-gender-equity-and-inclusion-in-the-tech-industry-and-beyond-41ic",
-  "url": "https://dev.to/kaviiiiisha/promoting-gender-equity-and-inclusion-in-the-tech-industry-and-beyond-41ic",
-  "publish_date": "2023-03-09",
-  "published_at": "2023-03-09T18:24:33Z"
- },
- {
-  "id": 1394489,
-  "title": "Top 5 social network APIs",
-  "description": "Social networks have become an unavoidable part of people's daily lives. We can hardly imagine the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_cMWaJ44--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z1pzn9dubz9icp2yw2fy.png",
-  "slug": "top-5-social-network-apis-2b5k",
-  "url": "https://dev.to/brownrita460/top-5-social-network-apis-2b5k",
-  "publish_date": "2023-03-09",
-  "published_at": "2023-03-09T14:50:24Z"
- },
- {
-  "id": 1394326,
-  "title": "The History of Ecommerce: 1979 to 2023",
-  "description": "Ecommerce has evolved a lot since its start. It hasn’t always been well-designed stores with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZuHQODwE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f9o5rnbp9gqoi7uu752v.jpg",
-  "slug": "the-history-of-ecommerce-1979-to-2023-2k9n",
-  "url": "https://dev.to/medusajs/the-history-of-ecommerce-1979-to-2023-2k9n",
-  "publish_date": "2023-03-09",
-  "published_at": "2023-03-09T11:46:55Z"
- },
- {
-  "id": 1390685,
-  "title": "How I improve my skills in Typescript #5 : Satisfies operator",
-  "description": "I will share with us some tips that improved my skill in Typescript ! Today we will learn satisfies...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PrbvLGJa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7plx3atd6uppkflejgd0.png",
-  "slug": "how-i-improve-my-skills-in-typescript-5-satisfies-operator-2312",
-  "url": "https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-5-satisfies-operator-2312",
-  "publish_date": "2023-03-09",
-  "published_at": "2023-03-09T11:31:54Z"
- },
- {
-  "id": 1384851,
-  "title": "Authenticate with OpenID Connect and Apache APISIX",
-  "description": "Lots of companies are eager to provide their identity provider: Twitter, Facebook, Google, etc. For...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nNAgbfCb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/glhpsj3wmziryy3pfjli.jpg",
-  "slug": "authenticate-with-openid-connect-and-apache-apisix-448h",
-  "url": "https://dev.to/apisix/authenticate-with-openid-connect-and-apache-apisix-448h",
-  "publish_date": "2023-03-09",
-  "published_at": "2023-03-09T08:03:00Z"
  }
 ]
