@@ -1,5 +1,55 @@
 [
  {
+  "id": 1509731,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J-ZfTNKi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p6if6gh095yc1jfxm8gj.png",
+  "slug": "meme-monday-3c8g",
+  "url": "https://dev.to/ben/meme-monday-3c8g",
+  "publish_date": "2023-06-19",
+  "published_at": "2023-06-19T15:23:01Z"
+ },
+ {
+  "id": 1503392,
+  "title": "How to send a warm welcome email with Resend, Next-Auth and React-Email",
+  "description": "What you will find in this article?   We often encounter applications that send us welcome...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u6EscS6Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6xi21urj63d7s4xpcbdq.png",
+  "slug": "how-to-send-a-warm-welcome-email-with-resend-next-auth-and-react-email-576f",
+  "url": "https://dev.to/mfts/how-to-send-a-warm-welcome-email-with-resend-next-auth-and-react-email-576f",
+  "publish_date": "2023-06-19",
+  "published_at": "2023-06-19T13:53:35Z"
+ },
+ {
+  "id": 1509191,
+  "title": "5 React Libraries to Level Up your Projects in 2023",
+  "description": "TL;DR   In this article we'll look at 5 libraries that can positively impact your React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YFooh7A0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72p5oekd6233eap8xyjb.jpg",
+  "slug": "5-react-libraries-to-level-up-your-projects-in-2023-3d5i",
+  "url": "https://dev.to/livecycle/5-react-libraries-to-level-up-your-projects-in-2023-3d5i",
+  "publish_date": "2023-06-19",
+  "published_at": "2023-06-19T08:26:07Z"
+ },
+ {
+  "id": 1509182,
+  "title": "Building a Vision Transformer from Scratch in PyTorch 🔥",
+  "description": "Introduction   In recent years, the field of computer vision has been revolutionized by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e_KwJ4b7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6d56iiikf7u674m7axvg.jpeg",
+  "slug": "building-a-vision-transformer-from-scratch-in-pytorch-1m1b",
+  "url": "https://dev.to/akshayballal/building-a-vision-transformer-from-scratch-in-pytorch-1m1b",
+  "publish_date": "2023-06-19",
+  "published_at": "2023-06-19T08:15:57Z"
+ },
+ {
+  "id": 1509115,
+  "title": "Good practices and Design Patterns for Vue Composables",
+  "description": "I recently had a great discussion with my team at Vue Storefront about patterns for writing Vue...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cDjW-iu9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/upn3a55d6w3zln17k1fq.png",
+  "slug": "good-practices-and-design-patterns-for-vue-composables-24lk",
+  "url": "https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk",
+  "publish_date": "2023-06-19",
+  "published_at": "2023-06-19T07:11:53Z"
+ },
+ {
   "id": 1374537,
   "title": "Create, Push, and Present Any View Controller in 1 LOC using Metaprogramming",
   "description": "TL;DR   We make view controller instantiation more type-safe by eliminating string IDs and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aws-builders/essential-tools-for-a-successful-devops-engineer-4lgl",
   "publish_date": "2023-03-11",
   "published_at": "2023-03-11T01:02:28Z"
- },
- {
-  "id": 1395801,
-  "title": "What was your win this week?",
-  "description": "Howdy! 🤠  Hope everybody had a wonderful week and that y'all all enjoy your weekends. 😀  Looking back...",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-19gl",
-  "url": "https://dev.to/michaeltharrington/what-was-your-win-this-week-19gl",
-  "publish_date": "2023-03-10",
-  "published_at": "2023-03-10T15:28:58Z"
- },
- {
-  "id": 1395504,
-  "title": "Human-like AI Conversations: Giving a Voice to ChatGPT with Murf",
-  "description": "In November of 2022, ChatGPT took the world by storm. Yet it was missing one thing - a voice. In this...",
-  "cover_image": "",
-  "slug": "human-like-ai-conversations-giving-a-voice-to-chatgpt-with-murf-1k7b",
-  "url": "https://dev.to/devgeetech/human-like-ai-conversations-giving-a-voice-to-chatgpt-with-murf-1k7b",
-  "publish_date": "2023-03-10",
-  "published_at": "2023-03-10T12:27:55Z"
- },
- {
-  "id": 1395577,
-  "title": "Great GitHub repositories that developers love",
-  "description": "GitHub is a well-known open-source platform for code hosting, collaboration, and version control. I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c0RbPhuH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/drnfio6sc2b74bbhq80a.png",
-  "slug": "great-github-repositories-that-developers-love-1g97",
-  "url": "https://dev.to/swordheath/great-github-repositories-that-developers-love-1g97",
-  "publish_date": "2023-03-10",
-  "published_at": "2023-03-10T11:50:00Z"
- },
- {
-  "id": 1395416,
-  "title": "Code Legacy: pnpm vs npm",
-  "description": "This article outlines the concept of code legacy and its underlying reasons, drawing on a real-life...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uUTgiKKg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iq30jqmnhgdgqzpwg7o1.jpg",
-  "slug": "code-legacy-pnpm-vs-npm-47j2",
-  "url": "https://dev.to/zenstack/code-legacy-pnpm-vs-npm-47j2",
-  "publish_date": "2023-03-10",
-  "published_at": "2023-03-10T08:52:17Z"
- },
- {
-  "id": 1395161,
-  "title": "My Favorite Free Courses to Learn Microservices in Depth",
-  "description": "Want to learn Microservices? These are the best free online Microservices courses for beginners and experienced developers",
-  "cover_image": "",
-  "slug": "my-favorite-free-courses-to-learn-microservices-in-depth-12el",
-  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-microservices-in-depth-12el",
-  "publish_date": "2023-03-10",
-  "published_at": "2023-03-10T01:52:01Z"
  }
 ]
