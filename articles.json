@@ -1,5 +1,55 @@
 [
  {
+  "id": 1509547,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-5368",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5368",
+  "publish_date": "2023-06-20",
+  "published_at": "2023-06-20T14:56:21Z"
+ },
+ {
+  "id": 1510595,
+  "title": "The best light/dark mode theme toggle in JavaScript",
+  "description": "Learn how to build The Ultimate Theme Toggle™️ for your website using JavaScript, CSS custom...",
+  "cover_image": "",
+  "slug": "the-best-lightdark-mode-theme-toggle-in-javascript-368f",
+  "url": "https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f",
+  "publish_date": "2023-06-20",
+  "published_at": "2023-06-20T11:01:16Z"
+ },
+ {
+  "id": 1508815,
+  "title": "Learn serverless on AWS step-by-step - SQS",
+  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fVjBQh_---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/sqs/assets/cover.png",
+  "slug": "learn-serverless-on-aws-step-by-step-sqs-26c8",
+  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sqs-26c8",
+  "publish_date": "2023-06-20",
+  "published_at": "2023-06-20T09:30:46Z"
+ },
+ {
+  "id": 1510402,
+  "title": "A-Z: MongoDB Cheat Sheet🌱",
+  "description": "Definitions 📖🌳    What is MongoDB?    MongoDB is a document database with the scalability...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D4H7uHl6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yrikqesprn85cp3rjsw7.png",
+  "slug": "mongodb-cheat-sheet-1a6a",
+  "url": "https://dev.to/burakboduroglu/mongodb-cheat-sheet-1a6a",
+  "publish_date": "2023-06-20",
+  "published_at": "2023-06-20T08:31:32Z"
+ },
+ {
+  "id": 1510187,
+  "title": "Style Position Fixed in a better way",
+  "description": "The CSS property position: fixed has become widely popular due to its ability to provide developers...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QL6CudVa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sx55j5nzeizij3lnio58.png",
+  "slug": "style-position-fixed-in-a-better-way-169g",
+  "url": "https://dev.to/integridsolutions/style-position-fixed-in-a-better-way-169g",
+  "publish_date": "2023-06-20",
+  "published_at": "2023-06-20T04:28:43Z"
+ },
+ {
   "id": 1509731,
   "title": "Meme Monday",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln",
   "publish_date": "2023-03-12",
   "published_at": "2023-03-12T04:16:14Z"
- },
- {
-  "id": 1397040,
-  "title": "Stahhp Screening for TLDs in Your Email Fields",
-  "description": "I've had it.  I've been quiet on this subject for far too long.  And now I feel compelled to finally...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PC4dXWte--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5w5l32n9gyfncbqy1d68.jpg",
-  "slug": "stahhp-screening-for-tlds-in-your-email-fields-585l",
-  "url": "https://dev.to/bytebodger/stahhp-screening-for-tlds-in-your-email-fields-585l",
-  "publish_date": "2023-03-11",
-  "published_at": "2023-03-11T18:02:13Z"
- },
- {
-  "id": 1396091,
-  "title": "The ideal line length for digital text",
-  "description": "A core function of any website should be to offer a comfortable reading experience. The length of a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ckDeh_y2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5dtqjdnptzoivcpvo19x.jpg",
-  "slug": "the-ideal-line-length-for-digital-text-2d5i",
-  "url": "https://dev.to/robole/the-ideal-line-length-for-digital-text-2d5i",
-  "publish_date": "2023-03-11",
-  "published_at": "2023-03-11T13:32:36Z"
- },
- {
-  "id": 1384681,
-  "title": "The Language We Use Matters",
-  "description": "This is my fourth year of writing to Dev's campaign around International Women's Day, previously...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z3S0ZkWa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1myn3wxwv3tim5obnjlh.png",
-  "slug": "the-language-we-use-matters-9mn",
-  "url": "https://dev.to/eevajonnapanula/the-language-we-use-matters-9mn",
-  "publish_date": "2023-03-11",
-  "published_at": "2023-03-11T09:45:07Z"
- },
- {
-  "id": 1396404,
-  "title": "How to remove a property from an object in JavaScript",
-  "description": "JavaScript Object is a collection of related data and functionality. Objects are used to store...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pstkMOji--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mp7rqeja9t7o5m1lwnn4.jpeg",
-  "slug": "how-to-remove-a-property-from-an-object-in-javascript-bcg",
-  "url": "https://dev.to/david_bilsonn/how-to-remove-a-property-from-an-object-in-javascript-bcg",
-  "publish_date": "2023-03-11",
-  "published_at": "2023-03-11T03:32:46Z"
- },
- {
-  "id": 1392178,
-  "title": "Essential Tools for a Successful DevOps Engineer",
-  "description": "Introduction:   The software development process has been transformed by the DevOps...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_Cgui5EG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ppl7gxtj9ivo53fbjb0i.jpg",
-  "slug": "essential-tools-for-a-successful-devops-engineer-4lgl",
-  "url": "https://dev.to/aws-builders/essential-tools-for-a-successful-devops-engineer-4lgl",
-  "publish_date": "2023-03-11",
-  "published_at": "2023-03-11T01:02:28Z"
  }
 ]
