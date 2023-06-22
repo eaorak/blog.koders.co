@@ -1,5 +1,55 @@
 [
  {
+  "id": 1510711,
+  "title": "Announcing the refine + DEV Hackathon!",
+  "description": "Join us for this opportunity to build an awesome application with refine while earning some great prizes. ",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IqWhPpGg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rydbxl5l0jv8z9pemfqk.jpg",
+  "slug": "announcing-the-refine-dev-hackathon-29fn",
+  "url": "https://dev.to/devteam/announcing-the-refine-dev-hackathon-29fn",
+  "publish_date": "2023-06-21",
+  "published_at": "2023-06-21T19:33:30Z"
+ },
+ {
+  "id": 1512213,
+  "title": "Open standards, trust, and Google",
+  "description": "We should build and use software that uses open standards, and be careful about the companies in which we place our trust.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PLxUqnRt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1617752357354-e2fb98083392%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D1934%26q%3D80",
+  "slug": "open-standards-trust-and-google-4e22",
+  "url": "https://dev.to/cassidoo/open-standards-trust-and-google-4e22",
+  "publish_date": "2023-06-21",
+  "published_at": "2023-06-21T16:40:36Z"
+ },
+ {
+  "id": 1511941,
+  "title": "Open Source 101: A Beginner's Guide to Getting Started",
+  "description": " Learn the fundamentals of open source development, from choosing projects to making contributions, in this comprehensive beginner's guide. Support open source innovation with OpenSauced.pizza.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pxeaevf6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ieh05eifaetb0e8myge8.png",
+  "slug": "open-source-101-a-beginners-guide-to-getting-started-37fb",
+  "url": "https://dev.to/opensauced/open-source-101-a-beginners-guide-to-getting-started-37fb",
+  "publish_date": "2023-06-21",
+  "published_at": "2023-06-21T12:38:20Z"
+ },
+ {
+  "id": 1504674,
+  "title": "Top 10 Websites Every Developer Needs to Know About",
+  "description": "In this article, I'll share some of the best websites that can help you in your day-to-day work....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J5zShafr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t1172j3h0ni64lfvsr6m.png",
+  "slug": "top-10-websites-every-developer-needs-to-know-about-f5j",
+  "url": "https://dev.to/j471n/top-10-websites-every-developer-needs-to-know-about-f5j",
+  "publish_date": "2023-06-21",
+  "published_at": "2023-06-21T12:00:00Z"
+ },
+ {
+  "id": 1511793,
+  "title": "Converting from a Developer to a Product Founder in 10 years",
+  "description": "A little story of a workaholic entrepreneur switching from a developer to a product founder in 10...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M9g1cnfr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs1zrg8xk6ueamdjs9uw.png",
+  "slug": "converting-from-a-developer-to-a-product-founder-in-10-years-55gh",
+  "url": "https://dev.to/igorboky/converting-from-a-developer-to-a-product-founder-in-10-years-55gh",
+  "publish_date": "2023-06-21",
+  "published_at": "2023-06-21T10:58:18Z"
+ },
+ {
   "id": 1509547,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devteam/reflecting-on-my-journey-in-tech-2lk9",
   "publish_date": "2023-03-13",
   "published_at": "2023-03-13T08:18:41Z"
- },
- {
-  "id": 1397896,
-  "title": "Transform Your Portfolio Website with These Expert Tips",
-  "description": "Yes that title sounds a bit clickbaity, but I assure you this post is not all fluff. Buckle up!  I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mgPMEmM4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/55c1umcrwwox207gat3i.png",
-  "slug": "transform-your-portfolio-website-with-these-expert-tips-334e",
-  "url": "https://dev.to/nickytonline/transform-your-portfolio-website-with-these-expert-tips-334e",
-  "publish_date": "2023-03-12",
-  "published_at": "2023-03-12T14:12:11Z"
- },
- {
-  "id": 1395989,
-  "title": "3 Ways to Automate Accessibility Testing (a11y)",
-  "description": "Before we get going, let's go over some quick definitions/questions:  What does web accessibility...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XnDdjk5r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cx75xaupnw8kgbmuwzqk.png",
-  "slug": "3-ways-to-automate-accessibility-testing-a11y-19kc",
-  "url": "https://dev.to/willkre/3-ways-to-automate-accessibility-testing-a11y-19kc",
-  "publish_date": "2023-03-12",
-  "published_at": "2023-03-12T12:21:59Z"
- },
- {
-  "id": 1397648,
-  "title": "Greet your visitor",
-  "description": "Greet your Visitors with Good Morning, Good Afternoon or Good Evening Message using JavaScript       ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DDJ-dFxu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dzebg9kd5j0juntozmy3.png",
-  "slug": "greet-your-visitor-nmp",
-  "url": "https://dev.to/mayank30/greet-your-visitor-nmp",
-  "publish_date": "2023-03-12",
-  "published_at": "2023-03-12T06:57:29Z"
- },
- {
-  "id": 1397642,
-  "title": "Use AI to commit like a PRO in 1 second",
-  "description": "I struggled making commit messages since 2017. When you think of a commit message — you switch...",
-  "cover_image": "",
-  "slug": "how-to-git-commit-like-god-1g1b",
-  "url": "https://dev.to/disukharev/how-to-git-commit-like-god-1g1b",
-  "publish_date": "2023-03-12",
-  "published_at": "2023-03-12T06:41:09Z"
- },
- {
-  "id": 1397566,
-  "title": "Java CRUD Rest API using Spring Boot, Hibernate, Postgres, Docker and Docker Compose",
-  "description": "Let's create a CRUD Rest API in Java, using:   Spring Boot (Framework to build web servers in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0_9Vs8Dt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t3up91pi475gsrn27q4x.png",
-  "slug": "java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln",
-  "url": "https://dev.to/francescoxx/java-crud-rest-api-using-spring-boot-hibernate-postgres-docker-and-docker-compose-5cln",
-  "publish_date": "2023-03-12",
-  "published_at": "2023-03-12T04:16:14Z"
  }
 ]
