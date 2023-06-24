@@ -1,5 +1,55 @@
 [
  {
+  "id": 1512638,
+  "title": "Validação de formulários com Blazor [PT-BR]",
+  "description": "Introdução   Neste guia, vamos criar um projeto simples com um formulário que possui...",
+  "cover_image": "",
+  "slug": "validando-formularios-com-blazor-pt-br-2lnb",
+  "url": "https://dev.to/andredarcie/validando-formularios-com-blazor-pt-br-2lnb",
+  "publish_date": "2023-06-23",
+  "published_at": "2023-06-23T12:22:13Z"
+ },
+ {
+  "id": 1510923,
+  "title": "Contribute to Open Source in the next 10 min - Step by Step [Beginner Edition] 🦾",
+  "description": "Hey friend! 👋   Today marks your start in the Open Source World!! 🌐👯‍♀️  In the next 10 min, you will...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6kTTNO8m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ad4gsh4391s8z3xbj8s6.png",
+  "slug": "contribute-to-open-source-in-the-next-10-min-step-by-step-beginner-edition-4aia",
+  "url": "https://dev.to/quine/contribute-to-open-source-in-the-next-10-min-step-by-step-beginner-edition-4aia",
+  "publish_date": "2023-06-23",
+  "published_at": "2023-06-23T12:10:01Z"
+ },
+ {
+  "id": 1479377,
+  "title": "Converting JavaScript codebase to TypeScript",
+  "description": "In our dynamic realm of web development, JavaScript has long been the go-to language of choice. Its...",
+  "cover_image": "",
+  "slug": "converting-javascript-codebase-to-typescript-1852",
+  "url": "https://dev.to/documatic/converting-javascript-codebase-to-typescript-1852",
+  "publish_date": "2023-06-23",
+  "published_at": "2023-06-23T10:44:28Z"
+ },
+ {
+  "id": 1514137,
+  "title": "Top 5+ Free GitHub ChatGPT AI Templates \u0026 UI Starter Kits for 2023",
+  "description": "Chatbots have become an essential part of modern-day businesses. They help in providing instant...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_X7Qttfg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxkbxey5jeb7auqqm43h.png",
+  "slug": "top-5-free-github-chatgpt-ai-templates-ui-starter-kits-for-2023-3p0h",
+  "url": "https://dev.to/fredy/top-5-free-github-chatgpt-ai-templates-ui-starter-kits-for-2023-3p0h",
+  "publish_date": "2023-06-23",
+  "published_at": "2023-06-23T07:31:00Z"
+ },
+ {
+  "id": 1509745,
+  "title": "Managing AI-powered Java App With API Management",
+  "description": "In this article, we will explore how to integrate OpenAI's ChatGPT APIs with a Spring Boot...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WAhYI6Hx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zcawswjvr2a8x3zqifl3.png",
+  "slug": "managing-ai-powered-java-app-with-api-management-12d1",
+  "url": "https://dev.to/apisix/managing-ai-powered-java-app-with-api-management-12d1",
+  "publish_date": "2023-06-23",
+  "published_at": "2023-06-23T07:06:58Z"
+ },
+ {
   "id": 1513552,
   "title": "Demystifying Data Pipelines: A Guide for Developers on AWS",
   "description": "In the era of big data and analytics, organizations are increasingly relying on robust and efficient...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7",
   "publish_date": "2023-03-15",
   "published_at": "2023-03-15T03:02:32Z"
- },
- {
-  "id": 1400425,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--51z61x9f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkihck6o31qzhnx5u7lm.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-15mk",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-15mk",
-  "publish_date": "2023-03-14",
-  "published_at": "2023-03-14T14:17:40Z"
- },
- {
-  "id": 1399664,
-  "title": "Block public access on all your S3 Buckets easily",
-  "description": "I publish articles at least twice a month, so if you are interested in serverless, AWS, or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uOcWoFlE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/sls-mentor/block-public-access/assets/cover.png",
-  "slug": "block-public-access-on-all-your-s3-buckets-easily-o7b",
-  "url": "https://dev.to/kumo/block-public-access-on-all-your-s3-buckets-easily-o7b",
-  "publish_date": "2023-03-14",
-  "published_at": "2023-03-14T14:04:07Z"
- },
- {
-  "id": 1400239,
-  "title": "Share your work in progress in real time from VS Code or JetBrains",
-  "description": "Need to ask a teammate for some help with your code, but don’t want to push broken changes to GitHub?...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oKqh6Jc0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h80oo9s5kyk7w6wvvnga.png",
-  "slug": "share-your-work-in-progress-in-real-time-from-vs-code-or-jetbrains-1i5a",
-  "url": "https://dev.to/gitlive/share-your-work-in-progress-in-real-time-from-vs-code-or-jetbrains-1i5a",
-  "publish_date": "2023-03-14",
-  "published_at": "2023-03-14T11:20:28Z"
- },
- {
-  "id": 1399994,
-  "title": "I've made a Free drag and drop React Template Builder",
-  "description": "Hi,  I just launched reactbuilder.dev, a Free drag and drop react template builder. It currently...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tFX-fGQg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tgtbp7ia6e28ocyoidyp.png",
-  "slug": "ive-made-a-free-drag-and-drop-react-template-builder-4535",
-  "url": "https://dev.to/rarestoma/ive-made-a-free-drag-and-drop-react-template-builder-4535",
-  "publish_date": "2023-03-14",
-  "published_at": "2023-03-14T06:51:16Z"
- },
- {
-  "id": 1399985,
-  "title": "Get respects at job for doing Conventional Commits",
-  "description": "Conventional Commits is a specification for adding human and machine readable meaning to commit...",
-  "cover_image": "",
-  "slug": "how-to-make-semantic-commits-with-conventional-commits-41of",
-  "url": "https://dev.to/disukharev/how-to-make-semantic-commits-with-conventional-commits-41of",
-  "publish_date": "2023-03-14",
-  "published_at": "2023-03-14T06:32:21Z"
  }
 ]
