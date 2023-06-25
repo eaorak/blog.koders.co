@@ -1,5 +1,55 @@
 [
  {
+  "id": 1515538,
+  "title": "Exponentiation in JavaScript: A Beginner’s Guide",
+  "description": "Introduction   Exponentiation refers to a mathematical process of multiplying a number by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7x2KNqIH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0kh3pt413ua3r8lryjx6.png",
+  "slug": "exponentiation-in-javascript-a-beginners-guide-5gdj",
+  "url": "https://dev.to/mayallo/exponentiation-in-javascript-a-beginners-guide-5gdj",
+  "publish_date": "2023-06-24",
+  "published_at": "2023-06-24T18:12:49Z"
+ },
+ {
+  "id": 1515519,
+  "title": "The Complete Guide to Becoming a Web Developer: Part 2",
+  "description": "Welcome to Part 2 of \"The Complete Guide to Becoming a Web Developer.\" In this part, we dive into one...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--69CleBTq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ngeh0knxe96mvkj0yvnr.png",
+  "slug": "the-complete-guide-to-becoming-a-web-developer-part-2-41kb",
+  "url": "https://dev.to/nerdleveltech/the-complete-guide-to-becoming-a-web-developer-part-2-41kb",
+  "publish_date": "2023-06-24",
+  "published_at": "2023-06-24T16:58:21Z"
+ },
+ {
+  "id": 1515216,
+  "title": "🚀 Why Code Review is Crucial in Software Development 🚀",
+  "description": "🔎 Self-reflection is a common trait among developers. We often find ourselves in a state of denial...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C-RHJQSv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fl9bxmt8p2xaz18oh9f2.jpg",
+  "slug": "why-code-review-is-crucial-in-software-development-28kp",
+  "url": "https://dev.to/jagroop2000/why-code-review-is-crucial-in-software-development-28kp",
+  "publish_date": "2023-06-24",
+  "published_at": "2023-06-24T09:03:26Z"
+ },
+ {
+  "id": 1515174,
+  "title": "WebSockets 101",
+  "description": "WebSockets implement a full-duplex, bi-directional, TCP-based protocol, denoted by ws(s)://, which...",
+  "cover_image": "",
+  "slug": "websockets-101-2mja",
+  "url": "https://dev.to/this-is-learning/websockets-101-2mja",
+  "publish_date": "2023-06-24",
+  "published_at": "2023-06-24T06:39:48Z"
+ },
+ {
+  "id": 1515058,
+  "title": "10 Sites to Host Your Backend Code for Free",
+  "description": "In today’s world, developers have a wide range of choices when it comes to backend hosting solutions....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--86lVSZt6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4vz2ppcb4p16np6ih3i.png",
+  "slug": "10-sites-to-host-your-backend-code-for-free-gpk",
+  "url": "https://dev.to/durgesh4993/10-sites-to-host-your-backend-code-for-free-gpk",
+  "publish_date": "2023-06-24",
+  "published_at": "2023-06-24T02:51:17Z"
+ },
+ {
   "id": 1512638,
   "title": "Validação de formulários com Blazor [PT-BR]",
   "description": "Introdução   Neste guia, vamos criar um projeto simples com um formulário que possui...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/grpc-on-the-client-side-2e3o",
   "publish_date": "2023-03-16",
   "published_at": "2023-03-16T08:03:00Z"
- },
- {
-  "id": 1402027,
-  "title": "How We Reduced Our API Latency by 50% Using Cloudflare",
-  "description": "At Xata we always look for ways to improve our performance and user experience. One way to achieve...",
-  "cover_image": "",
-  "slug": "how-we-reduced-our-api-latency-by-50-using-cloudflare-1e70",
-  "url": "https://dev.to/paulaguijarro/how-we-reduced-our-api-latency-by-50-using-cloudflare-1e70",
-  "publish_date": "2023-03-15",
-  "published_at": "2023-03-15T16:19:19Z"
- },
- {
-  "id": 1401166,
-  "title": "Learn serverless on AWS step-by-step - File storage",
-  "description": "In the last article, I covered the basics of interacting with DynamoDB databases, using the CDK. In...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CZweOiNy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/storage/asset/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-file-storage-10f7",
-  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-file-storage-10f7",
-  "publish_date": "2023-03-15",
-  "published_at": "2023-03-15T14:19:23Z"
- },
- {
-  "id": 1401909,
-  "title": "Getting Started with Amazon S3",
-  "description": "Amazon Simple Storage Service (S3) is a highly scalable, durable, and low-latency object storage...",
-  "cover_image": "",
-  "slug": "getting-started-with-amazon-s3-2jli",
-  "url": "https://dev.to/roy8/getting-started-with-amazon-s3-2jli",
-  "publish_date": "2023-03-15",
-  "published_at": "2023-03-15T14:12:18Z"
- },
- {
-  "id": 1392261,
-  "title": "Notification system for a grocery app with React and NodeJS",
-  "description": "TL;DR   In this guide, we’ll make a simple shoping list webapp with Node and Express. Then,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--48bOLg0A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1fh82naggwcge6dbepw8.jpg",
-  "slug": "notification-system-for-a-grocery-app-with-react-and-nodejs-234g",
-  "url": "https://dev.to/novu/notification-system-for-a-grocery-app-with-react-and-nodejs-234g",
-  "publish_date": "2023-03-15",
-  "published_at": "2023-03-15T12:23:10Z"
- },
- {
-  "id": 1401296,
-  "title": "Git fundamentals, a complete guide",
-  "description": "If you already work with Git daily but want to have a good comprehension of Git fundamentals, then...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pa-0lTcP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oe0fdkxtp58bueeb79pb.png",
-  "slug": "git-fundamentals-a-complete-guide-do7",
-  "url": "https://dev.to/leandronsp/git-fundamentals-a-complete-guide-do7",
-  "publish_date": "2023-03-15",
-  "published_at": "2023-03-15T03:02:32Z"
  }
 ]
