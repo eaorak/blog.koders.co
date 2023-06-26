@@ -1,5 +1,55 @@
 [
  {
+  "id": 1516406,
+  "title": "Guide to Becoming a Senior Software Engineer",
+  "description": "Path to Seniority: Time and Experience   Have you ever wondered, \"How long does it take to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iLGpfIG6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wi3ypilxuwndmpgbqqre.png",
+  "slug": "guide-to-becoming-a-senior-software-engineer-3oj7",
+  "url": "https://dev.to/snowman647/guide-to-becoming-a-senior-software-engineer-3oj7",
+  "publish_date": "2023-06-25",
+  "published_at": "2023-06-25T20:41:23Z"
+ },
+ {
+  "id": 1516082,
+  "title": "A Game-Changer for SEO: Harnessing the Power of Google Rich Content results",
+  "description": "SEO is pretty important these days and the more tools we utilize to gain more visibility the better....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uH-2bzr7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d6fzsk653bsryiivoesf.jpg",
+  "slug": "a-game-changer-for-seo-harnessing-the-power-of-google-rich-content-results-1ak2",
+  "url": "https://dev.to/thanasismpalatsoukas/a-game-changer-for-seo-harnessing-the-power-of-google-rich-content-results-1ak2",
+  "publish_date": "2023-06-25",
+  "published_at": "2023-06-25T17:53:51Z"
+ },
+ {
+  "id": 1516114,
+  "title": "[Typia] I made realtime demo site of 20,000x faster validation (+200x faster JSON stringify)",
+  "description": "Preface   https://typia.io/playground  I've made a playground website to help you understand...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ToVyoYu6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3igp5x7xyc5mh67dbh3d.png",
+  "slug": "typia-i-made-realtime-demo-site-of-20000x-faster-validation-200x-faster-json-stringify-59p9",
+  "url": "https://dev.to/samchon/typia-i-made-realtime-demo-site-of-20000x-faster-validation-200x-faster-json-stringify-59p9",
+  "publish_date": "2023-06-25",
+  "published_at": "2023-06-25T13:47:16Z"
+ },
+ {
+  "id": 1515244,
+  "title": "What's New in Svelte 4: Performance Boosts and Streamlined Development",
+  "description": "On the 22th of June, Svelte has announced its new major release.  Even if it is presented as \"mainly...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--THLWceQd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6dnikkr9oe34a1mf5j2n.png",
+  "slug": "whats-new-in-svelte-4-performance-boosts-and-streamlined-development-42dc",
+  "url": "https://dev.to/this-is-learning/whats-new-in-svelte-4-performance-boosts-and-streamlined-development-42dc",
+  "publish_date": "2023-06-25",
+  "published_at": "2023-06-25T08:26:23Z"
+ },
+ {
+  "id": 1515914,
+  "title": "7 More JavaScript Web APIs to Build Futuristic Websites you didn't Know 🤯",
+  "description": "Welcome back to the future! This is the second article on futuristic JavaScript Web APIs, so if you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zQIwV0kF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/weuzdlhoem9k3wx3pua2.png",
+  "slug": "7-more-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-50bg",
+  "url": "https://dev.to/ruppysuppy/7-more-javascript-web-apis-to-build-futuristic-websites-you-didnt-know-50bg",
+  "publish_date": "2023-06-25",
+  "published_at": "2023-06-25T06:36:57Z"
+ },
+ {
   "id": 1515538,
   "title": "Exponentiation in JavaScript: A Beginner’s Guide",
   "description": "Introduction   Exponentiation refers to a mathematical process of multiplying a number by...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/sql-join-explained-53lc",
   "publish_date": "2023-03-17",
   "published_at": "2023-03-17T00:39:12Z"
- },
- {
-  "id": 1401872,
-  "title": "Introducing the Appwrite Heroes",
-  "description": "One of the biggest reasons Appwrite is growing rapidly as a product while crossing several milestones...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NFuVoBwd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6u8abu8eo9n8xbloo2es.png",
-  "slug": "introducing-the-appwrite-heroes-1bfb",
-  "url": "https://dev.to/appwrite/introducing-the-appwrite-heroes-1bfb",
-  "publish_date": "2023-03-16",
-  "published_at": "2023-03-16T18:45:29Z"
- },
- {
-  "id": 1392881,
-  "title": "Appwrite Loves Open Source: Why I Chose To Sponsor Medito 🧘‍♀️",
-  "description": "Open-source is at the ❤️ of everything we do at Appwrite, and we want to enable and foster the...",
-  "cover_image": "",
-  "slug": "appwrite-loves-open-source-why-i-chose-to-sponsor-medito-3om0",
-  "url": "https://dev.to/mayender/appwrite-loves-open-source-why-i-chose-to-sponsor-medito-3om0",
-  "publish_date": "2023-03-16",
-  "published_at": "2023-03-16T15:04:24Z"
- },
- {
-  "id": 1402014,
-  "title": "Nuxt-Medusa Module: Integrate Medusa with your Nuxt.js application",
-  "description": "Great news for Nuxt fans. Jakub Andrzejewski recently created a new nuxt-medusa module, that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4-ZhsaOY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1sza9pmbv64h4fr4hd5.jpg",
-  "slug": "nuxt-medusa-module-integrate-medusa-with-your-nuxtjs-application-2jc9",
-  "url": "https://dev.to/medusajs/nuxt-medusa-module-integrate-medusa-with-your-nuxtjs-application-2jc9",
-  "publish_date": "2023-03-16",
-  "published_at": "2023-03-16T08:59:03Z"
- },
- {
-  "id": 1364093,
-  "title": "🔦 Community Spotlight - Building KanBoard, a Project Management App🔦",
-  "description": "Highlighting projects from the Appwrite community           Introduction   With Appwrite’s developer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UXkCyYHf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/egp6bhru8s3p9zk6zy0a.jpg",
-  "slug": "community-spotlight-building-kanboard-a-project-management-app-5ace",
-  "url": "https://dev.to/appwrite/community-spotlight-building-kanboard-a-project-management-app-5ace",
-  "publish_date": "2023-03-16",
-  "published_at": "2023-03-16T08:29:59Z"
- },
- {
-  "id": 1393148,
-  "title": "gRPC on the client side",
-  "description": "Most inter-systems communication components that use REST serialize their payload in JSON. As of now,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ku5t5CSE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/na7wdcun4xl4z2rvj38m.jpg",
-  "slug": "grpc-on-the-client-side-2e3o",
-  "url": "https://dev.to/apisix/grpc-on-the-client-side-2e3o",
-  "publish_date": "2023-03-16",
-  "published_at": "2023-03-16T08:03:00Z"
  }
 ]
