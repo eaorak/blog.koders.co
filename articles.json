@@ -1,5 +1,55 @@
 [
  {
+  "id": 1517484,
+  "title": "Happy 111th Birthday, Alan Turing!",
+  "description": "A celebration of Alan Turing's birthday for DEV Pride 2023.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KXtCpmKM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jh9romk5mwm0pvn6gyp3.jpg",
+  "slug": "happy-111th-birthday-alan-turing-5271",
+  "url": "https://dev.to/devteam/happy-111th-birthday-alan-turing-5271",
+  "publish_date": "2023-06-26",
+  "published_at": "2023-06-26T22:52:40Z"
+ },
+ {
+  "id": 1505974,
+  "title": "How to write a perfect README for your GitHub project",
+  "description": "What you will find in this article?   You've probably stumbled upon many GitHub...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GUbjcx-n--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gqatujf6rm8ym2ks9b0b.png",
+  "slug": "how-to-write-a-perfect-readme-for-your-github-project-59f2",
+  "url": "https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2",
+  "publish_date": "2023-06-26",
+  "published_at": "2023-06-26T19:54:58Z"
+ },
+ {
+  "id": 1517146,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o9UIX0k6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rxfi0b116w4mkvzgtwi2.png",
+  "slug": "meme-monday-12jl",
+  "url": "https://dev.to/ben/meme-monday-12jl",
+  "publish_date": "2023-06-26",
+  "published_at": "2023-06-26T12:52:29Z"
+ },
+ {
+  "id": 1516872,
+  "title": "Building a Customer Support Desk App with ToolJet and PostgreSQL",
+  "description": "In this tutorial, you'll learn how to build a customer support desk with ToolJet and a PostgreSQL...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KRrTIKex--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b9wsfkoibh7t2fz8sn7m.jpg",
+  "slug": "building-a-customer-support-desk-app-with-tooljet-and-postgresql-2lnl",
+  "url": "https://dev.to/tooljet/building-a-customer-support-desk-app-with-tooljet-and-postgresql-2lnl",
+  "publish_date": "2023-06-26",
+  "published_at": "2023-06-26T10:52:58Z"
+ },
+ {
+  "id": 1515246,
+  "title": "5 Free AI Tools for Everyone and Anyone : Part 2",
+  "description": "Welcome to the second part of our series on free AI tools accessible to anyone and everyone. I would...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zXrUBwag--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djea5e8s28zpa4a0a626.png",
+  "slug": "5-free-ai-tools-for-everyone-and-anyone-part-2-7f9",
+  "url": "https://dev.to/varshithvhegde/5-free-ai-tools-for-everyone-and-anyone-part-2-7f9",
+  "publish_date": "2023-06-26",
+  "published_at": "2023-06-26T00:51:06Z"
+ },
+ {
   "id": 1516406,
   "title": "Guide to Becoming a Senior Software Engineer",
   "description": "Path to Seniority: Time and Experience   Have you ever wondered, \"How long does it take to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sylwiavargas/what-id-like-to-see-ai-used-for-womens-month-edition-5768",
   "publish_date": "2023-03-18",
   "published_at": "2023-03-18T01:24:55Z"
- },
- {
-  "id": 1362119,
-  "title": "Managing state with React Query. 〽️",
-  "description": "React Query is a large and complete library that facilitates the work when making client-side...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wkJn0uea--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ni8zuq59744hmq7tjack.png",
-  "slug": "managing-state-with-react-query-1842",
-  "url": "https://dev.to/franklin030601/managing-state-with-react-query-1842",
-  "publish_date": "2023-03-17",
-  "published_at": "2023-03-17T15:17:00Z"
- },
- {
-  "id": 1404608,
-  "title": "What is the future of AI?",
-  "description": "Recently, when I saw another article about ChatGPT, I thought, \"What's the big deal of it? Why is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wf5Rn113--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rgfo96hu6hqfu92u76vl.png",
-  "slug": "what-is-the-future-of-ai-n4o",
-  "url": "https://dev.to/brownrita460/what-is-the-future-of-ai-n4o",
-  "publish_date": "2023-03-17",
-  "published_at": "2023-03-17T14:41:12Z"
- },
- {
-  "id": 1395411,
-  "title": "A Guide to DevSecOps with API Gateway",
-  "description": "With the rise of microservices and cloud-based applications, APIs have become a critical component of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QCloawcF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fp8gxazhdbrsbut9dux6.png",
-  "slug": "a-guide-to-devsecops-with-api-gateway-4fn5",
-  "url": "https://dev.to/apisix/a-guide-to-devsecops-with-api-gateway-4fn5",
-  "publish_date": "2023-03-17",
-  "published_at": "2023-03-17T07:43:44Z"
- },
- {
-  "id": 1404074,
-  "title": "How to Get Your First Job as a Self-Taught Programmer",
-  "description": "A few years ago, I wrote an article right here on Dev.to called One Crazy Trick to Become a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4h5cqyij--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/28o2ydh4e231reilwkyb.jpg",
-  "slug": "how-to-get-your-first-job-as-a-self-taught-programmer-1m1c",
-  "url": "https://dev.to/bytebodger/how-to-get-your-first-job-as-a-self-taught-programmer-1m1c",
-  "publish_date": "2023-03-17",
-  "published_at": "2023-03-17T07:00:54Z"
- },
- {
-  "id": 1402603,
-  "title": "SQL JOIN explained",
-  "description": "In this post we're going to see how the SQL JOIN works, guided by a practical example while covering...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fir8DcuX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ijlu4docg232ilirpxms.png",
-  "slug": "sql-join-explained-53lc",
-  "url": "https://dev.to/leandronsp/sql-join-explained-53lc",
-  "publish_date": "2023-03-17",
-  "published_at": "2023-03-17T00:39:12Z"
  }
 ]
