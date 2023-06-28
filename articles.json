@@ -1,5 +1,55 @@
 [
  {
+  "id": 1517633,
+  "title": "Featured Mod of the Month: Jeff Jessie",
+  "description": "In this series, we shine a spotlight on the different DEV moderators — Trusted Members and Tag Mods —...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uR-FNZLV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3d3apki7dpghmk3ig6c0.jpeg",
+  "slug": "featured-mod-of-the-month-jeff-jessie-5b6f",
+  "url": "https://dev.to/devteam/featured-mod-of-the-month-jeff-jessie-5b6f",
+  "publish_date": "2023-06-27",
+  "published_at": "2023-06-27T16:01:13Z"
+ },
+ {
+  "id": 1517350,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-2cg4",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-2cg4",
+  "publish_date": "2023-06-27",
+  "published_at": "2023-06-27T13:58:06Z"
+ },
+ {
+  "id": 1518415,
+  "title": "20 (Intermediate-Level) C# Interview Questions",
+  "description": "Hey, C# devs! Ready for a new challenge?  We’re tackling 20 intermediate-level C# interview questions...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--00K6-fbm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sc6e9b8lsz5aoccnggzb.png",
+  "slug": "20-intermediate-level-c-interview-questions-4ff0",
+  "url": "https://dev.to/bytehide/20-intermediate-level-c-interview-questions-4ff0",
+  "publish_date": "2023-06-27",
+  "published_at": "2023-06-27T11:56:49Z"
+ },
+ {
+  "id": 1516928,
+  "title": "Is Code Generation a Bad Idea? 🤔",
+  "description": "I’m building ZenStack: a full-stack development toolkit on top of Pirsma ORM that simplifies the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lODXw8wJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hqaan849p2zyib8hzlog.jpg",
+  "slug": "is-code-generation-a-bad-idea-2gk9",
+  "url": "https://dev.to/zenstack/is-code-generation-a-bad-idea-2gk9",
+  "publish_date": "2023-06-27",
+  "published_at": "2023-06-27T11:46:13Z"
+ },
+ {
+  "id": 1518032,
+  "title": "Top 14 Game-Changing Websites Every Developer Should Know About 🚀🔥",
+  "description": "Introduction   In this article, I will share a compilation of highly useful websites that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Eg8P8SOO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z1pnet802k1gxv3r0oem.png",
+  "slug": "top-14-game-changing-websites-every-developer-should-know-about-4dlc",
+  "url": "https://dev.to/arjuncodess/top-14-game-changing-websites-every-developer-should-know-about-4dlc",
+  "publish_date": "2023-06-27",
+  "published_at": "2023-06-27T03:57:23Z"
+ },
+ {
   "id": 1517484,
   "title": "Happy 111th Birthday, Alan Turing!",
   "description": "A celebration of Alan Turing's birthday for DEV Pride 2023.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/deep-dive-into-how-web-browsers-work-with-illustrations-249b",
   "publish_date": "2023-03-19",
   "published_at": "2023-03-19T06:08:57Z"
- },
- {
-  "id": 1405633,
-  "title": "10 Common Mistakes to Avoid While Writing JavaScript Code",
-  "description": "JavaScript is one of the most popular programming languages in use today, thanks to its versatility...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tl53cbgt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nxhf1fc1ok7ulo53dq2f.png",
-  "slug": "10-common-mistakes-to-avoid-while-writing-javascript-code-39cg",
-  "url": "https://dev.to/dhanushnehru/10-common-mistakes-to-avoid-while-writing-javascript-code-39cg",
-  "publish_date": "2023-03-18",
-  "published_at": "2023-03-18T10:32:08Z"
- },
- {
-  "id": 1405523,
-  "title": "Unexpected Moments of JavaScript That Will Challenge Your Understanding of the Language",
-  "description": "As one of the most popular programming languages in the world, JavaScript is widely used for building...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l6EiSK9J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d7lxa9a3xkz77gdozfe7.png",
-  "slug": "unexpected-moments-of-javascript-that-will-challenge-your-understanding-of-the-language-4834",
-  "url": "https://dev.to/codeofrelevancy/unexpected-moments-of-javascript-that-will-challenge-your-understanding-of-the-language-4834",
-  "publish_date": "2023-03-18",
-  "published_at": "2023-03-18T09:32:37Z"
- },
- {
-  "id": 1398779,
-  "title": "Learn How to Build and Push a Docker Image to a Container Registry",
-  "description": "Docker has become a popular tool in DevOps for the containerisation and deployment of applications....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X7Gjq0zE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dyzwicbhbr3mq76prwwm.png",
-  "slug": "learn-how-to-build-and-push-a-docker-image-to-a-container-registry-282",
-  "url": "https://dev.to/pavanbelagatti/learn-how-to-build-and-push-a-docker-image-to-a-container-registry-282",
-  "publish_date": "2023-03-18",
-  "published_at": "2023-03-18T07:59:37Z"
- },
- {
-  "id": 1404107,
-  "title": "My Favorite Free Courses to Learn Golang in 2023",
-  "description": "My favorite free online courses to learn Golang or Go programming language in 2023 from Udemy, Coursera, YouTube, and freeCodeCamp.",
-  "cover_image": "",
-  "slug": "my-favorite-free-courses-to-learn-golang-in-2023-3mh6",
-  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-golang-in-2023-3mh6",
-  "publish_date": "2023-03-18",
-  "published_at": "2023-03-18T07:22:06Z"
- },
- {
-  "id": 1405270,
-  "title": "What I'd like to see AI used for - women's month edition",
-  "description": "(this blog post is a part of a DEV celebration of the annual #wecoded campaign - earlier known as...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BhFWJyrO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5tmao7t4j2aickoxxv79.png",
-  "slug": "what-id-like-to-see-ai-used-for-womens-month-edition-5768",
-  "url": "https://dev.to/sylwiavargas/what-id-like-to-see-ai-used-for-womens-month-edition-5768",
-  "publish_date": "2023-03-18",
-  "published_at": "2023-03-18T01:24:55Z"
  }
 ]
