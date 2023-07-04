@@ -1,5 +1,55 @@
 [
  {
+  "id": 1523849,
+  "title": "🔴 Live now: I am building Post generator with Next.js, PrismaDB, OpenAI",
+  "description": "This is not just post, it is live post, everyday couple of times a day I share updates how I am...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pEtNzOZ9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tawnstch6s8nr36bqe4.png",
+  "slug": "live-now-i-am-building-post-generator-with-nextjs-prismadb-openai-5a0",
+  "url": "https://dev.to/shnai0/live-now-i-am-building-post-generator-with-nextjs-prismadb-openai-5a0",
+  "publish_date": "2023-07-03",
+  "published_at": "2023-07-03T16:42:34Z"
+ },
+ {
+  "id": 1524716,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uJ0pI1ua--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r90py77iyn16oc2kabyw.png",
+  "slug": "meme-monday-53cl",
+  "url": "https://dev.to/ben/meme-monday-53cl",
+  "publish_date": "2023-07-03",
+  "published_at": "2023-07-03T13:06:17Z"
+ },
+ {
+  "id": 1524325,
+  "title": "Backend development is more than writing endpoints for frontend",
+  "description": "Backend development is a crucial part of web development that involves creating and maintaining the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9l0cqA5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/087b8dkh20g7zzshm5ds.png",
+  "slug": "backend-development-is-more-than-writing-endpoints-for-frontend-gl1",
+  "url": "https://dev.to/this-is-learning/backend-development-is-more-than-writing-endpoints-for-frontend-gl1",
+  "publish_date": "2023-07-03",
+  "published_at": "2023-07-03T12:42:00Z"
+ },
+ {
+  "id": 1524442,
+  "title": "20 (Senior Developer) C# Interview Questions and Answers (2023)",
+  "description": "Greetings, fellow C# wizards! Do you have what it takes to conquer the ultimate challenge? Welcome to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X74eq861--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1x89u1z5u7lexy0i20q6.png",
+  "slug": "20-senior-developer-c-interview-questions-and-answers-2023-3bjc",
+  "url": "https://dev.to/bytehide/20-senior-developer-c-interview-questions-and-answers-2023-3bjc",
+  "publish_date": "2023-07-03",
+  "published_at": "2023-07-03T12:23:49Z"
+ },
+ {
+  "id": 1524624,
+  "title": "Have ChatGPT Browse the Web",
+  "description": "As of today you can ask our ChatGPT AI chatbot questions about today's products at ProductHunt....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--URYDw9Br--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a49u9x9n8xnz4nekooy8.jpeg",
+  "slug": "have-chatgpt-browse-the-web-2gl7",
+  "url": "https://dev.to/polterguy/have-chatgpt-browse-the-web-2gl7",
+  "publish_date": "2023-07-03",
+  "published_at": "2023-07-03T11:28:07Z"
+ },
+ {
   "id": 1523835,
   "title": "Dhiwise and Locofy: The Best AI Design To Code Converters",
   "description": "Building applications and web-based programs got a big boost as Ai converter plugins such as Locofy...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aws-heroes/aws-community-day-hyderabad-2023-experience-with-vivek-3j43",
   "publish_date": "2023-03-25",
   "published_at": "2023-03-25T06:45:42Z"
- },
- {
-  "id": 1413826,
-  "title": "What is Strict Mode in React?",
-  "description": "Hello React developers, you've probably heard of strict mode. But what the hell is it, exactly? In...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2VXLrW0d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yvfvtktdohwnw1p8y23x.png",
-  "slug": "what-is-strict-mode-in-react-3p5b",
-  "url": "https://dev.to/codeofrelevancy/what-is-strict-mode-in-react-3p5b",
-  "publish_date": "2023-03-24",
-  "published_at": "2023-03-24T16:05:31Z"
- },
- {
-  "id": 1413820,
-  "title": "GitHub repositories for TypeScript enthusiasts",
-  "description": "GitHub is a great source for the developer community. It offers an ability to share, learn, and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cf5vPvVK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fpo5brb46lzy9whgwrhh.png",
-  "slug": "github-repositories-for-typescript-enthusiasts-2pmg",
-  "url": "https://dev.to/brownrita460/github-repositories-for-typescript-enthusiasts-2pmg",
-  "publish_date": "2023-03-24",
-  "published_at": "2023-03-24T16:03:29Z"
- },
- {
-  "id": 1413682,
-  "title": "What to choose: C vs C++?",
-  "description": "C vs. C++ is a popular developer blog topic. C and C++ are programming languages that can be used to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KCt3Lghx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4bsm3u3pvmn6pbi2z0qv.png",
-  "slug": "what-to-choose-c-vs-c-1j8e",
-  "url": "https://dev.to/swordheath/what-to-choose-c-vs-c-1j8e",
-  "publish_date": "2023-03-24",
-  "published_at": "2023-03-24T15:48:21Z"
- },
- {
-  "id": 1409993,
-  "title": "Boost Your Productivity with These Top Free Notion Templates",
-  "description": "Introduction   As a developer, you know how important it is to stay organized and keep track...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sDU-eJdB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5kt7ey67ee87tobraimt.png",
-  "slug": "boost-your-productivity-with-these-top-free-notion-templates-8e0",
-  "url": "https://dev.to/surajondev/boost-your-productivity-with-these-top-free-notion-templates-8e0",
-  "publish_date": "2023-03-24",
-  "published_at": "2023-03-24T11:30:00Z"
- },
- {
-  "id": 1413389,
-  "title": "Docker Hub Alternatives: On the Lookout for a Container Image Repository for OSS",
-  "description": "As a leading containerization service, Docker has been particularly popular across the open-source...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZkSeK89---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zyxtlzyym2opcni5e03b.png",
-  "slug": "docker-alternatives-on-the-lookout-for-a-container-image-repository-for-oss-33ib",
-  "url": "https://dev.to/cast_ai/docker-alternatives-on-the-lookout-for-a-container-image-repository-for-oss-33ib",
-  "publish_date": "2023-03-24",
-  "published_at": "2023-03-24T09:21:54Z"
  }
 ]
