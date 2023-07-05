@@ -1,5 +1,55 @@
 [
  {
+  "id": 1513500,
+  "title": "🦄 Building a pricing page with NextJS 🤯 🤯",
+  "description": "TL;DR   In this article, we will build a page with multiple pricing tiers. Visitors can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bkzKFcIy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/edgkw0iwpblkl5pq3329.png",
+  "slug": "building-a-pricing-page-with-nextjs-1b1f",
+  "url": "https://dev.to/github20k/building-a-pricing-page-with-nextjs-1b1f",
+  "publish_date": "2023-07-04",
+  "published_at": "2023-07-04T11:34:40Z"
+ },
+ {
+  "id": 1525791,
+  "title": "You can NOT and should NOT stop procrastinating",
+  "description": "Procrastination has such an universally bad reputation that one has to wonder why it exists in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wbotNUhD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4bunxl2hfm2cuyxkf91a.jpg",
+  "slug": "you-can-not-and-should-not-stop-procrasting-2ooh",
+  "url": "https://dev.to/jmfayard/you-can-not-and-should-not-stop-procrasting-2ooh",
+  "publish_date": "2023-07-04",
+  "published_at": "2023-07-04T11:30:00Z"
+ },
+ {
+  "id": 1515615,
+  "title": "Learn serverless on AWS step-by-step - SQL with Aurora",
+  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2VGNqSjh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/aurora/assets/cover.png",
+  "slug": "learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1",
+  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1",
+  "publish_date": "2023-07-04",
+  "published_at": "2023-07-04T09:01:31Z"
+ },
+ {
+  "id": 1525525,
+  "title": "Streamlining Form Validation in Your Javascript Stack",
+  "description": "Modern web applications often intensively deal with accepting and storing user-generated data. The...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dyaad2hg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/245bl6ba28qkga0dyxtc.png",
+  "slug": "streamlining-form-validation-in-your-javascript-stack-15ep",
+  "url": "https://dev.to/zenstack/streamlining-form-validation-in-your-javascript-stack-15ep",
+  "publish_date": "2023-07-04",
+  "published_at": "2023-07-04T06:15:46Z"
+ },
+ {
+  "id": 1525524,
+  "title": "Git Fundamentals for Developers",
+  "description": "In the fast-paced world of software development, effective version control is essential for...",
+  "cover_image": "",
+  "slug": "git-fundamentals-for-developers-2m7f",
+  "url": "https://dev.to/scofieldidehen/git-fundamentals-for-developers-2m7f",
+  "publish_date": "2023-07-04",
+  "published_at": "2023-07-04T06:02:44Z"
+ },
+ {
   "id": 1523849,
   "title": "🔴 Live now: I am building Post generator with Next.js, PrismaDB, OpenAI",
   "description": "This is not just post, it is live post, everyday couple of times a day I share updates how I am...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i",
   "publish_date": "2023-03-26",
   "published_at": "2023-03-26T03:00:00Z"
- },
- {
-  "id": 1414917,
-  "title": "💲 Build your resume and get paid",
-  "description": "Money 💰 is a great motivator, but let's be honest, earning big bucks is not easy. However, what if we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r_ffHYlZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/he6yl75achcp6a0j4z4h.png",
-  "slug": "build-your-resume-and-get-paid-2imf",
-  "url": "https://dev.to/acidop/build-your-resume-and-get-paid-2imf",
-  "publish_date": "2023-03-25",
-  "published_at": "2023-03-25T17:49:53Z"
- },
- {
-  "id": 1414760,
-  "title": "Scope in JavaScript",
-  "description": "Scope is a fundamental concept in JavaScript that dictates how variables and functions are accessed...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PJwXRTxb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1jj2q6na9g9bldr76cyc.jpg",
-  "slug": "scope-in-javascript-4b9n",
-  "url": "https://dev.to/makstyle119/scope-in-javascript-4b9n",
-  "publish_date": "2023-03-25",
-  "published_at": "2023-03-25T14:36:00Z"
- },
- {
-  "id": 1414520,
-  "title": "Create blob object (Git)",
-  "description": "Hello Dev community!   I'm noshishi, a apprentice engineer in Tokyo. This article is about...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AdQ8rSAH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p6likt5q37jgmnb83333.png",
-  "slug": "create-blob-object-git-1eje",
-  "url": "https://dev.to/nopenoshishi/create-blob-object-git-1eje",
-  "publish_date": "2023-03-25",
-  "published_at": "2023-03-25T08:23:04Z"
- },
- {
-  "id": 1414512,
-  "title": "Top 20 VS Code Extensions for programmers",
-  "description": "As a programmer, you know that choosing the right tools and resources can make a big...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bMPDmoj_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/soi83xoetvw33kweispl.png",
-  "slug": "top-20-vs-code-extensions-for-programmers-2h5d",
-  "url": "https://dev.to/hy_piyush/top-20-vs-code-extensions-for-programmers-2h5d",
-  "publish_date": "2023-03-25",
-  "published_at": "2023-03-25T07:34:40Z"
- },
- {
-  "id": 1411820,
-  "title": "AWS Community Day Hyderabad 2023 | Experience with Vivek",
-  "description": "I had the pleasure of attending the AWS Community Day Hyderabad 2023 and it was an experience that I...",
-  "cover_image": "",
-  "slug": "aws-community-day-hyderabad-2023-experience-with-vivek-3j43",
-  "url": "https://dev.to/aws-heroes/aws-community-day-hyderabad-2023-experience-with-vivek-3j43",
-  "publish_date": "2023-03-25",
-  "published_at": "2023-03-25T06:45:42Z"
  }
 ]
