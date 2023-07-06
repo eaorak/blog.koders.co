@@ -1,5 +1,55 @@
 [
  {
+  "id": 1527328,
+  "title": "How to Create Tailwind CSS Dashboard Using Low Code [Tutorial]",
+  "description": "SaaS dashboards play a vital role in providing users with a visual representation of data. They...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uGsDsDL5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xb11pfutgzt646g0n239.png",
+  "slug": "how-to-create-tailwind-css-dashboard-using-low-code-tutorial-42mj",
+  "url": "https://dev.to/rarestoma/how-to-create-tailwind-css-dashboard-using-low-code-tutorial-42mj",
+  "publish_date": "2023-07-05",
+  "published_at": "2023-07-05T18:12:40Z"
+ },
+ {
+  "id": 1463489,
+  "title": "How I Got Hired Contributing to open source projects",
+  "description": "In the tech space, getting a job is not totally based on how good you are at the technical side of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pTKrLq38--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6sc1eno6shuvql8noth.png",
+  "slug": "how-i-got-hired-contributing-to-open-source-projects-546i",
+  "url": "https://dev.to/opensauced/how-i-got-hired-contributing-to-open-source-projects-546i",
+  "publish_date": "2023-07-05",
+  "published_at": "2023-07-05T16:55:17Z"
+ },
+ {
+  "id": 1527176,
+  "title": "What to Expect of AdonisJS 6?",
+  "description": "If you have been following us on Twitter, you might have seen us talking about AdonisJS v6 - “A new...",
+  "cover_image": "",
+  "slug": "what-to-expect-of-adonisjs-6-2daj",
+  "url": "https://dev.to/adonisframework/what-to-expect-of-adonisjs-6-2daj",
+  "publish_date": "2023-07-05",
+  "published_at": "2023-07-05T15:46:11Z"
+ },
+ {
+  "id": 1526699,
+  "title": "Welcome to the New Era of App Development: Introducing Avalonia v11",
+  "description": "Today, we are thrilled to announce the release of Avalonia 11.0!   After nearly a year in preview and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Olnjwcjx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lso83ossf5u2arbuqd8p.png",
+  "slug": "welcome-to-the-new-era-of-app-development-introducing-avalonia-v11-4na7",
+  "url": "https://dev.to/avalonia/welcome-to-the-new-era-of-app-development-introducing-avalonia-v11-4na7",
+  "publish_date": "2023-07-05",
+  "published_at": "2023-07-05T10:26:52Z"
+ },
+ {
+  "id": 1526706,
+  "title": "Re-creating a Japanese Fireworks Catalog from 1883 in CSS",
+  "description": "The other day I received a newsletter from the author Robin Sloan, containing samples of some...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hL7DVqWn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhh1udj5d0bhi6rhg1l2.png",
+  "slug": "re-creating-a-japanese-fireworks-catalog-from-1883-in-css-83j",
+  "url": "https://dev.to/madsstoumann/re-creating-a-japanese-fireworks-catalog-from-1883-in-css-83j",
+  "publish_date": "2023-07-05",
+  "published_at": "2023-07-05T07:08:21Z"
+ },
+ {
   "id": 1513500,
   "title": "🦄 Building a pricing page with NextJS 🤯 🤯",
   "description": "TL;DR   In this article, we will build a page with multiple pricing tiers. Visitors can...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-conclusion-3468",
   "publish_date": "2023-03-27",
   "published_at": "2023-03-27T06:01:46Z"
- },
- {
-  "id": 1415495,
-  "title": "Give Your DRY Tests a WET Touch",
-  "description": "For quite some time, the commonly accepted practice has been to write DRY code, but there are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--slKcvFUi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kk5jwekmh8khp1fhiqgc.png",
-  "slug": "give-your-dry-tests-a-wet-touch-4mmb",
-  "url": "https://dev.to/perssondennis/give-your-dry-tests-a-wet-touch-4mmb",
-  "publish_date": "2023-03-26",
-  "published_at": "2023-03-26T14:49:00Z"
- },
- {
-  "id": 1415317,
-  "title": "Trying out the app directory in Next.js",
-  "description": "A beginner's guide to exploring the new Next.js app directory and server components  I've been...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wfv-15KL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3zttrxkfvnmltydc41ka.jpg",
-  "slug": "trying-out-the-app-folder-in-nextjs-1nep",
-  "url": "https://dev.to/ivanms1/trying-out-the-app-folder-in-nextjs-1nep",
-  "publish_date": "2023-03-26",
-  "published_at": "2023-03-26T14:39:45Z"
- },
- {
-  "id": 1415383,
-  "title": "Using Typescript without compilation",
-  "description": "Over the past couple of days, an article about the next major version of Svelte blew up on twitter,...",
-  "cover_image": "",
-  "slug": "using-typescript-without-compilation-3ko4",
-  "url": "https://dev.to/thepassle/using-typescript-without-compilation-3ko4",
-  "publish_date": "2023-03-26",
-  "published_at": "2023-03-26T10:41:28Z"
- },
- {
-  "id": 1415223,
-  "title": "TypeScript CRUD Rest API, using: Nest.js, TypeORM, Postgres, Docker and Docker Compose",
-  "description": "Let's create a CRUD Rest API in Typescript, using:   NestJS (NodeJS framework) TypeORM (ORM: Object...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wsHHQs8q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d0v3gchfmg7o831cybmr.png",
-  "slug": "typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al",
-  "url": "https://dev.to/francescoxx/typescript-crud-rest-api-using-nestjs-typeorm-postgres-docker-and-docker-compose-33al",
-  "publish_date": "2023-03-26",
-  "published_at": "2023-03-26T06:16:52Z"
- },
- {
-  "id": 1353582,
-  "title": "From Problems to Solutions: Understanding Design Patterns",
-  "description": "An interesting fact in software development is that you are almost always not the first person to...",
-  "cover_image": "",
-  "slug": "from-problems-to-solutions-understanding-design-patterns-3b7i",
-  "url": "https://dev.to/documatic/from-problems-to-solutions-understanding-design-patterns-3b7i",
-  "publish_date": "2023-03-26",
-  "published_at": "2023-03-26T03:00:00Z"
  }
 ]
