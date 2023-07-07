@@ -1,5 +1,55 @@
 [
  {
+  "id": 1524831,
+  "title": "How to Rename API Gateway Path Parameters on AWS",
+  "description": "Renaming a path parameter in AWS API Gateway can be a complex task, whether you're working with a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OE4y0dwY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1iquuoaebmldm28nc5bh.png",
+  "slug": "how-to-rename-api-gateway-path-parameters-on-aws-20fa",
+  "url": "https://dev.to/kumo/how-to-rename-api-gateway-path-parameters-on-aws-20fa",
+  "publish_date": "2023-07-06",
+  "published_at": "2023-07-06T12:54:49Z"
+ },
+ {
+  "id": 1528080,
+  "title": "Renaming Git Commit Messages: A Quick and Easy Guide",
+  "description": "In Git, it's common to realize that the last commit message needs modification. Whether it's a typo...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BMQK5Br8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/grzwqes0tgsuyu6l5tqm.png",
+  "slug": "renaming-git-commit-messages-a-quick-and-easy-guide-1an8",
+  "url": "https://dev.to/pradumnasaraf/renaming-git-commit-messages-a-quick-and-easy-guide-1an8",
+  "publish_date": "2023-07-06",
+  "published_at": "2023-07-06T11:55:43Z"
+ },
+ {
+  "id": 1520594,
+  "title": "Sticky sessions with Apache APISIX - the demo",
+  "description": "Last week, we described the concept behind sticky sessions: you forward a request to the same...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U4J8X8xs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j4uay8mwighnxvmc6j57.jpg",
+  "slug": "sticky-sessions-with-apache-apisix-the-demo-2j8g",
+  "url": "https://dev.to/apisix/sticky-sessions-with-apache-apisix-the-demo-2j8g",
+  "publish_date": "2023-07-06",
+  "published_at": "2023-07-06T09:02:00Z"
+ },
+ {
+  "id": 1527706,
+  "title": "Daxus - A New Server State Management Library for React",
+  "description": "Previously, I named the package React Server Model, but I wasn't quite satisfied with the name. The...",
+  "cover_image": "",
+  "slug": "daxus-is-published-3acd",
+  "url": "https://dev.to/jason89521/daxus-is-published-3acd",
+  "publish_date": "2023-07-06",
+  "published_at": "2023-07-06T03:38:21Z"
+ },
+ {
+  "id": 1512082,
+  "title": "Let’s Learn Godot 4 by Making an RPG — Part 18: Scene Transitions \u0026 Day-Night Cycle🤠",
+  "description": "After a long day of shooting bad guys and completing quests, our player deserves to go home and take...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LppEJ1T2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/59uiy4ch2lzet56jetqc.png",
+  "slug": "lets-learn-godot-4-by-making-an-rpg-part-18-scene-transitions-day-night-cycle-4mnm",
+  "url": "https://dev.to/christinec_dev/lets-learn-godot-4-by-making-an-rpg-part-18-scene-transitions-day-night-cycle-4mnm",
+  "publish_date": "2023-07-06",
+  "published_at": "2023-07-06T03:13:00Z"
+ },
+ {
   "id": 1527328,
   "title": "How to Create Tailwind CSS Dashboard Using Low Code [Tutorial]",
   "description": "SaaS dashboards play a vital role in providing users with a visual representation of data. They...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57",
   "publish_date": "2023-03-28",
   "published_at": "2023-03-28T05:51:27Z"
- },
- {
-  "id": 1416664,
-  "title": "Meme Monday 🥸",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QTcoUMsu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1wt21stgfea8rokfm60a.png",
-  "slug": "meme-monday-cbo",
-  "url": "https://dev.to/ben/meme-monday-cbo",
-  "publish_date": "2023-03-27",
-  "published_at": "2023-03-27T15:49:36Z"
- },
- {
-  "id": 1416613,
-  "title": "8+ Free Resources \u0026 Tools for Web Developers and Designers ⚡️",
-  "description": "Web development and design can be a challenging task, but with the right resources, the process can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QMlIg2Tb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0mcp93p2w9tjk01fb487.png",
-  "slug": "8-free-resources-tools-for-web-developers-and-designers-1k3p",
-  "url": "https://dev.to/fredy/8-free-resources-tools-for-web-developers-and-designers-1k3p",
-  "publish_date": "2023-03-27",
-  "published_at": "2023-03-27T14:24:33Z"
- },
- {
-  "id": 1415298,
-  "title": "AI-TDD: you write the test, GPT writes the code to pass it ✅",
-  "description": "first — let's grow my twitter, so i can tell about my inventions quicker and make the world even...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FavRcJyF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zruk6m0s5wcfqqjoicbp.png",
-  "slug": "aitdd-ai-cli-for-tdd-you-write-the-test-ai-makes-it-green-32bn",
-  "url": "https://dev.to/disukharev/aitdd-ai-cli-for-tdd-you-write-the-test-ai-makes-it-green-32bn",
-  "publish_date": "2023-03-27",
-  "published_at": "2023-03-27T07:31:17Z"
- },
- {
-  "id": 1413645,
-  "title": "OpenCommit: GPT generates impressive commits in 1 second 🤯🔫 (CLI, open-source)",
-  "description": "first — let's grow my twitter, so i can tell about my inventions quicker and make the world even...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_3FfN6-g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/efh02ys7mt4l2v5yvqex.png",
-  "slug": "opencommit-gpt-cli-to-auto-generate-impressive-commits-in-1-second-46dh",
-  "url": "https://dev.to/disukharev/opencommit-gpt-cli-to-auto-generate-impressive-commits-in-1-second-46dh",
-  "publish_date": "2023-03-27",
-  "published_at": "2023-03-27T07:27:09Z"
- },
- {
-  "id": 1416068,
-  "title": "What It Was Like To Code For Amazon (Conclusion)",
-  "description": "(You can read Part 1 of this article here:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z1FMVdyx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kesnjooneuw7q1ozgwvy.jpg",
-  "slug": "what-it-was-like-to-code-for-amazon-conclusion-3468",
-  "url": "https://dev.to/bytebodger/what-it-was-like-to-code-for-amazon-conclusion-3468",
-  "publish_date": "2023-03-27",
-  "published_at": "2023-03-27T06:01:46Z"
  }
 ]
