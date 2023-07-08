@@ -1,5 +1,55 @@
 [
  {
+  "id": 1529349,
+  "title": "Why OpenAI removed Web Browsing from ChatGPT",
+  "description": "The same day we connected our ChatGPT chatbots to the internet, OpenAI disconnected ChatGPT from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fZ9vYsok--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j7fzjmbhuegf8jfrtiz8.png",
+  "slug": "why-openai-removed-web-browsing-from-chatgpt-3cil",
+  "url": "https://dev.to/polterguy/why-openai-removed-web-browsing-from-chatgpt-3cil",
+  "publish_date": "2023-07-07",
+  "published_at": "2023-07-07T14:21:56Z"
+ },
+ {
+  "id": 1528282,
+  "title": "Is Lighthouse a misleading performance tool?",
+  "description": "Google calls Lighthouse \"an open-source, automated tool for improving the quality of web pages\". It...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RnPp40nj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.roboleary.net/assets/img/blog/2023-07-06-lighthouse-misleading/cover.webp",
+  "slug": "is-lighthouse-a-misleading-performance-tool-4b14",
+  "url": "https://dev.to/robole/is-lighthouse-a-misleading-performance-tool-4b14",
+  "publish_date": "2023-07-07",
+  "published_at": "2023-07-07T10:00:00Z"
+ },
+ {
+  "id": 1517755,
+  "title": "What was your win this week?",
+  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
+  "cover_image": "",
+  "slug": "what-was-your-win-this-week-4cj7",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-4cj7",
+  "publish_date": "2023-07-07",
+  "published_at": "2023-07-07T09:30:00Z"
+ },
+ {
+  "id": 1528825,
+  "title": "Integrating Jest Testing into an Existing Vue 3 Project with ViteJs",
+  "description": "In my recent experience, I faced the challenge of integrating the Jest testing framework into an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HsQMAsNu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk8vycfryt31mh9tkzoe.png",
+  "slug": "integrating-jest-testing-into-an-existing-vue-3-project-with-vitejs-3m13",
+  "url": "https://dev.to/integridsolutions/integrating-jest-testing-into-an-existing-vue-3-project-with-vitejs-3m13",
+  "publish_date": "2023-07-07",
+  "published_at": "2023-07-07T04:54:50Z"
+ },
+ {
+  "id": 1528766,
+  "title": "Understanding DOM Manipulation with JavaScript",
+  "description": "Document Object Model or DOM is a programming interface that allows JavaScript to manipulate elements...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xzdwmKT3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk6mlcp7fwmpi5zu7gtk.jpg",
+  "slug": "understanding-dom-manipulation-with-javascript-5073",
+  "url": "https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073",
+  "publish_date": "2023-07-07",
+  "published_at": "2023-07-07T03:20:11Z"
+ },
+ {
   "id": 1524831,
   "title": "How to Rename API Gateway Path Parameters on AWS",
   "description": "Renaming a path parameter in AWS API Gateway can be a complex task, whether you're working with a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c",
   "publish_date": "2023-03-29",
   "published_at": "2023-03-29T06:30:32Z"
- },
- {
-  "id": 1413579,
-  "title": "Use these Notion Templates to Create Your Portfolio in Seconds",
-  "description": "Hey there, fellow developers! 👋  Are you looking to showcase your skills and experience to potential...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d93r7OOm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hgmm1oxqsmmjfpchdgfd.gif",
-  "slug": "use-these-notion-templates-to-create-your-portfolio-in-seconds-4jnp",
-  "url": "https://dev.to/xenoxdev/use-these-notion-templates-to-create-your-portfolio-in-seconds-4jnp",
-  "publish_date": "2023-03-28",
-  "published_at": "2023-03-28T16:46:36Z"
- },
- {
-  "id": 1118969,
-  "title": "How I passed the AWS Certified Database — Specialty Exam (DBS-C01)",
-  "description": "Introduction    I recently passed the AWS Certified Database — Specialty Exam. I'd like to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GafCHkNw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/szh4tlm8n3oqspf8l1r5.png",
-  "slug": "how-i-passed-the-aws-certified-database-specialty-exam-dbs-c01-ohn",
-  "url": "https://dev.to/aditmodi/how-i-passed-the-aws-certified-database-specialty-exam-dbs-c01-ohn",
-  "publish_date": "2023-03-28",
-  "published_at": "2023-03-28T12:27:25Z"
- },
- {
-  "id": 1118966,
-  "title": "How I passed the AWS Certified Advanced Networking — Specialty Exam (ANS-C01)",
-  "description": "Introduction    I recently passed the AWS Certified Advanced Networking — Specialty Exam....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z0FXnGuu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/unxye50zsrk2rm53kjeb.png",
-  "slug": "how-i-passed-the-aws-certified-advanced-networking-specialty-exam-ans-c01-1ibi",
-  "url": "https://dev.to/aditmodi/how-i-passed-the-aws-certified-advanced-networking-specialty-exam-ans-c01-1ibi",
-  "publish_date": "2023-03-28",
-  "published_at": "2023-03-28T12:27:18Z"
- },
- {
-  "id": 1411355,
-  "title": "Rocket your .NET App by adding Chat-GPT to it!🚀",
-  "description": "Have you ever wondered how to supercharge your .NET application by adding AI capabilities like...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jNarI_xy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6xrpb13gk61ag6009oj.png",
-  "slug": "rocket-your-net-app-by-adding-chat-gpt-to-it-5db0",
-  "url": "https://dev.to/bytehide/rocket-your-net-app-by-adding-chat-gpt-to-it-5db0",
-  "publish_date": "2023-03-28",
-  "published_at": "2023-03-28T09:00:00Z"
- },
- {
-  "id": 1417358,
-  "title": "You Need to Know About Pure Functions \u0026 Impure Functions in JavaScript",
-  "description": "With this article, we will explore what pure/impure functions are and their differences in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XUG6lKX9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/24kkyoml5r0po4pbt1tt.png",
-  "slug": "you-need-to-know-about-pure-functions-impure-functions-in-javascript-57",
-  "url": "https://dev.to/codeofrelevancy/you-need-to-know-about-pure-functions-impure-functions-in-javascript-57",
-  "publish_date": "2023-03-28",
-  "published_at": "2023-03-28T05:51:27Z"
  }
 ]
