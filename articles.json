@@ -1,5 +1,55 @@
 [
  {
+  "id": 1530466,
+  "title": "Exploring Django's Third-Party Packages: Top Libraries You Should Know",
+  "description": "Django is a high-level, open-source Python web framework designed to help developers build web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GLrokyNT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zb154pmeylz06vw33mho.png",
+  "slug": "exploring-djangos-third-party-packages-top-libraries-you-should-know-38km",
+  "url": "https://dev.to/ifihan/exploring-djangos-third-party-packages-top-libraries-you-should-know-38km",
+  "publish_date": "2023-07-08",
+  "published_at": "2023-07-08T18:03:47Z"
+ },
+ {
+  "id": 1530087,
+  "title": "Avoid \"\u0026\u0026\" Operator for Conditional Rendering in React",
+  "description": "Let's talk about something we all know when developing our project using React: Conditional...",
+  "cover_image": "",
+  "slug": "avoid-operator-for-conditional-rendering-in-react-2de",
+  "url": "https://dev.to/maafaishal/avoid-operator-for-conditional-rendering-in-react-2de",
+  "publish_date": "2023-07-08",
+  "published_at": "2023-07-08T14:04:44Z"
+ },
+ {
+  "id": 1530167,
+  "title": "Supercharge Your React Projects with Custom Hooks",
+  "description": "In this article, we dive into the world of custom React hooks and explore the incredible potential...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wUXI44ap--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xef4y0ca4b7297f1f1w0.jpg",
+  "slug": "supercharge-your-react-projects-with-custom-hooks-pl4",
+  "url": "https://dev.to/sergeyleschev/supercharge-your-react-projects-with-custom-hooks-pl4",
+  "publish_date": "2023-07-08",
+  "published_at": "2023-07-08T10:17:58Z"
+ },
+ {
+  "id": 1529875,
+  "title": "How to create a digital Clock using HTML, CSS and Javascript?",
+  "description": "Table of Contents    Introduction Final Result  Let's start building Clock   Creating HTML...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4ESNrHNb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zlfprh2ii7iddf4l4ad5.png",
+  "slug": "how-to-create-clock-using-html-css-and-javascript-3bd0",
+  "url": "https://dev.to/keshavkumarhembram/how-to-create-clock-using-html-css-and-javascript-3bd0",
+  "publish_date": "2023-07-08",
+  "published_at": "2023-07-08T07:23:04Z"
+ },
+ {
+  "id": 1508679,
+  "title": "How to Prevent Unnecessary React Component Re-Rendering",
+  "description": "Understanding how React renders components is essential for building efficient and performant...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HjR8beBO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pkiyhjvwyygl4g3ipsym.png",
+  "slug": "how-to-prevent-unnecessary-react-component-re-rendering-3c08",
+  "url": "https://dev.to/femi_dev/how-to-prevent-unnecessary-react-component-re-rendering-3c08",
+  "publish_date": "2023-07-08",
+  "published_at": "2023-07-08T05:48:48Z"
+ },
+ {
   "id": 1529349,
   "title": "Why OpenAI removed Web Browsing from ChatGPT",
   "description": "The same day we connected our ChatGPT chatbots to the internet, OpenAI disconnected ChatGPT from...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bytebodger/thank-you-for-your-worthless-comment-4o67",
   "publish_date": "2023-03-30",
   "published_at": "2023-03-30T06:13:35Z"
- },
- {
-  "id": 1419207,
-  "title": "Should AI development beyond GPT-4 be paused?",
-  "description": "Leading AI academics and industry experts - including Steve Wozniak and Elon Musk, published an open...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KvPTpFIt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aya9xzcxqjcuui6u6szm.png",
-  "slug": "should-ai-development-beyond-gpt-4-should-be-paused-5fmb",
-  "url": "https://dev.to/theaccordance/should-ai-development-beyond-gpt-4-should-be-paused-5fmb",
-  "publish_date": "2023-03-29",
-  "published_at": "2023-03-29T14:35:39Z"
- },
- {
-  "id": 1418149,
-  "title": "📚 34 JavaScript String Methods Cheatsheet",
-  "description": "This post assumes that you already know what strings are in JavaScript.  When we work with different...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--epddfpI7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rcsly4inqfn6bjhv0u7h.png",
-  "slug": "34-javascript-string-methods-cheatsheet-43e7",
-  "url": "https://dev.to/catherineisonline/34-javascript-string-methods-cheatsheet-43e7",
-  "publish_date": "2023-03-29",
-  "published_at": "2023-03-29T13:02:58Z"
- },
- {
-  "id": 1410950,
-  "title": "5 innovative dev tools to improve your workflow",
-  "description": "Are you a developer trying to improve your productivity? Are you curious about the novelties in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HTMKaKGe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ihxvvymbjid2ogoxcyq5.png",
-  "slug": "5-innovative-dev-tools-to-improve-your-workflow-1m70",
-  "url": "https://dev.to/francisthefrench/5-innovative-dev-tools-to-improve-your-workflow-1m70",
-  "publish_date": "2023-03-29",
-  "published_at": "2023-03-29T09:46:10Z"
- },
- {
-  "id": 1411564,
-  "title": "Build a .NET API in 3 minutes with Chat GPT 🤯",
-  "description": "Do you know that you can create a REST API in C# in less than 3 minutes? Look no further! Read on to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AZI8g0JT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80dd738u0whtnw7n94vn.png",
-  "slug": "build-a-net-api-in-3-minutes-with-chat-gpt-3oa8",
-  "url": "https://dev.to/bytehide/build-a-net-api-in-3-minutes-with-chat-gpt-3oa8",
-  "publish_date": "2023-03-29",
-  "published_at": "2023-03-29T09:00:00Z"
- },
- {
-  "id": 1417998,
-  "title": "10 open-source alternatives to run your businesses",
-  "description": "By choosing open-source alternatives to commercial proprietary software, it not only save money but...",
-  "cover_image": "",
-  "slug": "10-open-source-alternatives-to-run-your-businesses-193c",
-  "url": "https://dev.to/tejakummarikuntla/10-open-source-alternatives-to-run-your-businesses-193c",
-  "publish_date": "2023-03-29",
-  "published_at": "2023-03-29T06:30:32Z"
  }
 ]
