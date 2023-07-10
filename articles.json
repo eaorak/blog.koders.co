@@ -1,5 +1,55 @@
 [
  {
+  "id": 1531016,
+  "title": "Why Server Components - A Brief History of Web",
+  "description": "According to Stack Overflow survey 2023, Next.js is now the third most desired web framework, and the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZUeV5eZu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xlctwxqrha7iypejk8fc.png",
+  "slug": "why-server-components-a-brief-history-of-web-198h",
+  "url": "https://dev.to/perssondennis/why-server-components-a-brief-history-of-web-198h",
+  "publish_date": "2023-07-09",
+  "published_at": "2023-07-09T14:37:03Z"
+ },
+ {
+  "id": 1531172,
+  "title": "AINIRO Oracle, the Cut the Crap Search Engine",
+  "description": "I spent a couple of hours today and yesterday and created AINIRO Oracle, the Cut The Crap Search...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zFqbYixF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5o8l6gwvym1glh9rx9b.jpg",
+  "slug": "ainiro-oracle-the-cut-the-crap-search-engine-5ng",
+  "url": "https://dev.to/polterguy/ainiro-oracle-the-cut-the-crap-search-engine-5ng",
+  "publish_date": "2023-07-09",
+  "published_at": "2023-07-09T13:28:21Z"
+ },
+ {
+  "id": 1530957,
+  "title": "Image gallery with smooth hover effect",
+  "description": "We made a Image gallery with smooth hover effect in Pure CSS            Thanks for Reading ❤️! Check...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JqDI8cLD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j5c1ouq9xi9w06rm5nq1.png",
+  "slug": "image-gallery-with-smooth-hover-effect-116b",
+  "url": "https://dev.to/jon_snow789/image-gallery-with-smooth-hover-effect-116b",
+  "publish_date": "2023-07-09",
+  "published_at": "2023-07-09T08:02:52Z"
+ },
+ {
+  "id": 1529717,
+  "title": "Coding Problem Interview Series: How to Implement Bubble Sort?",
+  "description": "📣 Calling experienced devs and recent interviewees! Join the \"Coding Problem Interview Series\" to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cOgBUM-J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xadpu4luthp6cd2vjeb2.png",
+  "slug": "coding-problem-interview-series-how-to-implement-bubble-sort-n16",
+  "url": "https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bubble-sort-n16",
+  "publish_date": "2023-07-09",
+  "published_at": "2023-07-09T07:00:00Z"
+ },
+ {
+  "id": 1530768,
+  "title": "Is the AI Hype Over? OpenAI's ChatGPT Code Interpreter Takes Center Stage",
+  "description": "Greetings, friends! Ready to have your minds blown? Let's dive headfirst into the thrilling world of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F8vXLM34--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8i3shhdfjhswxr3dmfyb.jpeg",
+  "slug": "is-the-ai-hype-over-openais-chatgpt-code-interpreter-takes-center-stage-3362",
+  "url": "https://dev.to/mitchiemt11/is-the-ai-hype-over-openais-chatgpt-code-interpreter-takes-center-stage-3362",
+  "publish_date": "2023-07-09",
+  "published_at": "2023-07-09T02:07:06Z"
+ },
+ {
   "id": 1530466,
   "title": "Exploring Django's Third-Party Packages: Top Libraries You Should Know",
   "description": "Django is a high-level, open-source Python web framework designed to help developers build web...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/deta/building-a-generative-image-bot-with-openai-telegram-fastapi-and-deta-space-8e2",
   "publish_date": "2023-03-31",
   "published_at": "2023-03-31T08:53:20Z"
- },
- {
-  "id": 1420730,
-  "title": "Demystifying GraphQL Security: A Comprehensive Guide to Introspection",
-  "description": "This post by Antoine is easier to read on our blog  Whether or not to disable introspection has been...",
-  "cover_image": "",
-  "slug": "demystifying-graphql-security-a-comprehensive-guide-to-introspection-34fm",
-  "url": "https://dev.to/tristankalos/demystifying-graphql-security-a-comprehensive-guide-to-introspection-34fm",
-  "publish_date": "2023-03-30",
-  "published_at": "2023-03-30T18:00:33Z"
- },
- {
-  "id": 1419970,
-  "title": "Building a new type of testing framework",
-  "description": "Hi Community! Looking forward to hearing your thoughts on this.  Jest-opentelemetry was created out...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uJ_UDNhq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h2q16fucjwb4cla0ho05.png",
-  "slug": "building-a-new-type-of-testing-framework-553h",
-  "url": "https://dev.to/nirga/building-a-new-type-of-testing-framework-553h",
-  "publish_date": "2023-03-30",
-  "published_at": "2023-03-30T12:34:00Z"
- },
- {
-  "id": 1420185,
-  "title": "The Web3 Security Guide: Protecting Your Digital Assets in a Decentralized World",
-  "description": "So you've decided to go into web3, dApps, and the fascinating world of degenerate gamblers and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ogf7ETi1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s191a6cfrjtr886wpm1g.jpg",
-  "slug": "the-web3-security-guide-protecting-your-digital-assets-in-a-decentralized-world-4lgf",
-  "url": "https://dev.to/cocoandrew/the-web3-security-guide-protecting-your-digital-assets-in-a-decentralized-world-4lgf",
-  "publish_date": "2023-03-30",
-  "published_at": "2023-03-30T10:10:36Z"
- },
- {
-  "id": 1415501,
-  "title": "Make API product lifecycle management easy",
-  "description": "Modern APIs are often designed, built, and run as products that are consumed by both internal systems...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aCy2b5cL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b93oazho7jv4dcnj33bd.png",
-  "slug": "make-api-product-lifecycle-management-easy-3nm9",
-  "url": "https://dev.to/apisix/make-api-product-lifecycle-management-easy-3nm9",
-  "publish_date": "2023-03-30",
-  "published_at": "2023-03-30T06:18:58Z"
- },
- {
-  "id": 1420000,
-  "title": "Thank You For Your (Worthless) Comment!",
-  "description": "I think one of the things that defines a \"programming mindset\" is the desire to improve processes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pa-KxVAZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxogr7qacm1xscgvelus.jpg",
-  "slug": "thank-you-for-your-worthless-comment-4o67",
-  "url": "https://dev.to/bytebodger/thank-you-for-your-worthless-comment-4o67",
-  "publish_date": "2023-03-30",
-  "published_at": "2023-03-30T06:13:35Z"
  }
 ]
