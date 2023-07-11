@@ -1,5 +1,55 @@
 [
  {
+  "id": 1532169,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZIAWaq1e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jff6m0gdnm9c8c1l6kz7.png",
+  "slug": "meme-monday-4ip5",
+  "url": "https://dev.to/ben/meme-monday-4ip5",
+  "publish_date": "2023-07-10",
+  "published_at": "2023-07-10T14:39:30Z"
+ },
+ {
+  "id": 1528590,
+  "title": "How to Talk About Your Open Source Experience in a Tech Interview",
+  "description": "Learn how to effectively discuss your open source experience in a tech interview. Discover tips on highlighting relevance, describing contributions, showcasing collaboration skills, discussing learning experiences, and emphasizing community involvement. Impress interviewers and stand out from the competition with your open source journey.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xr1wE2W9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/adun67xf66slqhzp1vj1.png",
+  "slug": "how-to-talk-about-your-open-source-experience-in-a-tech-interview-3l96",
+  "url": "https://dev.to/opensauced/how-to-talk-about-your-open-source-experience-in-a-tech-interview-3l96",
+  "publish_date": "2023-07-10",
+  "published_at": "2023-07-10T14:00:00Z"
+ },
+ {
+  "id": 1531866,
+  "title": "ConnectNovu Hackathon 2023",
+  "description": "ConnectNovu Hackathon was a global event focused on notifications.  Participants built projects with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--brdynxlH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://manage.novu.co/wp-content/uploads/2023/07/Frame-65029.png",
+  "slug": "connectnovu-hackathon-2023-i2l",
+  "url": "https://dev.to/novu/connectnovu-hackathon-2023-i2l",
+  "publish_date": "2023-07-10",
+  "published_at": "2023-07-10T12:20:25Z"
+ },
+ {
+  "id": 1531879,
+  "title": "Business Idea Generator prompt - Horizon AI Template",
+  "description": "Hi, guys!  I made a Business Idea Generator prompt template for React!   Check it out here! ⬇️  Live...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jtRPibfJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rx9rk8vtkzu7nbmo33fd.png",
+  "slug": "business-idea-generator-prompt-horizon-ai-template-ejd",
+  "url": "https://dev.to/fredy/business-idea-generator-prompt-horizon-ai-template-ejd",
+  "publish_date": "2023-07-10",
+  "published_at": "2023-07-10T09:10:07Z"
+ },
+ {
+  "id": 1531820,
+  "title": "Appwrite Cloud Hackathon Winners Announced",
+  "description": "The wait is finally over! The first-ever Appwrite Cloud hackathon has ended, and the results are in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B81RhhbI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1w3jrasxh4ryqopvamdn.png",
+  "slug": "appwrite-cloud-hackathon-winners-announced-2ej1",
+  "url": "https://dev.to/appwrite/appwrite-cloud-hackathon-winners-announced-2ej1",
+  "publish_date": "2023-07-10",
+  "published_at": "2023-07-10T08:28:19Z"
+ },
+ {
   "id": 1531016,
   "title": "Why Server Components - A Brief History of Web",
   "description": "According to Stack Overflow survey 2023, Next.js is now the third most desired web framework, and the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e",
   "publish_date": "2023-04-01",
   "published_at": "2023-04-01T05:35:26Z"
- },
- {
-  "id": 1421967,
-  "title": "The best AI tools for running your own blog",
-  "description": "The latest trend in AI tools of different kinds (GPT especially) is all over the internet. I believe...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XBIRygz7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/istspxdjknjmb6ytrkqt.png",
-  "slug": "the-best-ai-tools-for-running-your-own-blog-350p",
-  "url": "https://dev.to/brownrita460/the-best-ai-tools-for-running-your-own-blog-350p",
-  "publish_date": "2023-03-31",
-  "published_at": "2023-03-31T19:15:48Z"
- },
- {
-  "id": 1420751,
-  "title": "My 5 favourite updates from the new React documentation",
-  "description": "So you read the article title and and are probably asking yourself “How can she possibly have a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TaeQOPkP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7q2sy5tq5qvbyde8ex8.png",
-  "slug": "my-5-favourite-updates-from-the-new-react-documentation-f69",
-  "url": "https://dev.to/anishamalde/my-5-favourite-updates-from-the-new-react-documentation-f69",
-  "publish_date": "2023-03-31",
-  "published_at": "2023-03-31T12:53:09Z"
- },
- {
-  "id": 1118971,
-  "title": "How I passed the AWS Certified Security  — Specialty Exam (SCS-C01)",
-  "description": "Introduction    I recently passed the AWS Certified Security  — Specialty Exam. I'd like to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1xkmfagh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/za0c0els5boep7ujewat.png",
-  "slug": "how-i-passed-the-aws-certified-security-specialty-exam-scs-c01-44b4",
-  "url": "https://dev.to/aditmodi/how-i-passed-the-aws-certified-security-specialty-exam-scs-c01-44b4",
-  "publish_date": "2023-03-31",
-  "published_at": "2023-03-31T11:17:42Z"
- },
- {
-  "id": 1412252,
-  "title": "Create an Application That Creates Other Applications with ChatGPT🤯",
-  "description": "Are you tired of spending many hours coding new applications from scratch? What if I told you that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BTBHKffb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iofba0jwpxs9le2kwpr0.png",
-  "slug": "create-an-application-that-creates-other-applications-with-chatgpt-d83",
-  "url": "https://dev.to/bytehide/create-an-application-that-creates-other-applications-with-chatgpt-d83",
-  "publish_date": "2023-03-31",
-  "published_at": "2023-03-31T09:00:00Z"
- },
- {
-  "id": 1420910,
-  "title": "Building a Generative Image Bot with OpenAI, Telegram, FastAPI and Deta Space",
-  "description": "You may have seen some of the amazing images generated by new AI services, like Midjourney and Open...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eP8iVWRq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cnj59xzojubgxybr140b.png",
-  "slug": "building-a-generative-image-bot-with-openai-telegram-fastapi-and-deta-space-8e2",
-  "url": "https://dev.to/deta/building-a-generative-image-bot-with-openai-telegram-fastapi-and-deta-space-8e2",
-  "publish_date": "2023-03-31",
-  "published_at": "2023-03-31T08:53:20Z"
  }
 ]
