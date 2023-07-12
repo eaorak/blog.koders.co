@@ -1,5 +1,55 @@
 [
  {
+  "id": 1533568,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-40ll",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll",
+  "publish_date": "2023-07-11",
+  "published_at": "2023-07-11T15:50:33Z"
+ },
+ {
+  "id": 1533512,
+  "title": "GPT Web App Generator - Let AI create a full-stack React \u0026 Node.js codebase based on your description 🤖🤯",
+  "description": "This project started out as an experiment - we were interested if, given a short description, GPT can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kkIVxrTn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/92krlai4tqd02uaz6sfc.png",
+  "slug": "gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39",
+  "url": "https://dev.to/wasp/gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39",
+  "publish_date": "2023-07-11",
+  "published_at": "2023-07-11T14:11:53Z"
+ },
+ {
+  "id": 1531336,
+  "title": "🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥",
+  "description": "TL;DR   I built an open-source app to add upvote, like, and reviews anywhere. And while it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b4x2aLpC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbrcguz6q2dhsvgiphpt.gif",
+  "slug": "clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9",
+  "url": "https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9",
+  "publish_date": "2023-07-11",
+  "published_at": "2023-07-11T11:58:18Z"
+ },
+ {
+  "id": 1533315,
+  "title": "Deploy Preview Environments to Any Kubernetes Cluster with Preevy",
+  "description": "What?   We're excited to announce that Preevy can now deploy your preview environments to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---aOEogZ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sy7pcak1j4d8jyac5vlu.jpg",
+  "slug": "deploy-preview-environments-to-any-kubernetes-cluster-with-preevy-34k5",
+  "url": "https://dev.to/livecycle/deploy-preview-environments-to-any-kubernetes-cluster-with-preevy-34k5",
+  "publish_date": "2023-07-11",
+  "published_at": "2023-07-11T11:39:51Z"
+ },
+ {
+  "id": 1532706,
+  "title": "How I get better feedback on my PRs (and how you can, too)",
+  "description": "This article is a guide that will show you how you can set yourself up to get better feedback on every pull request, and make your development and deployment workflow a lot faster.",
+  "cover_image": "",
+  "slug": "how-i-get-better-feedback-on-my-prs-and-how-you-can-too-hd5",
+  "url": "https://dev.to/noahflk/how-i-get-better-feedback-on-my-prs-and-how-you-can-too-hd5",
+  "publish_date": "2023-07-11",
+  "published_at": "2023-07-11T11:03:15Z"
+ },
+ {
   "id": 1532169,
   "title": "Meme Monday",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/francescoxx/python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe",
   "publish_date": "2023-04-02",
   "published_at": "2023-04-02T03:28:20Z"
- },
- {
-  "id": 1421954,
-  "title": "Git: the basic commands every developer should know",
-  "description": "Git is useful for anyone who writes code or tracks changes to files, from web developers to app...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XMfKzh8X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iydjnux9rjv15jjqsjdm.png",
-  "slug": "git-the-basic-commands-every-developer-should-know-2m1e",
-  "url": "https://dev.to/swordheath/git-the-basic-commands-every-developer-should-know-2m1e",
-  "publish_date": "2023-04-01",
-  "published_at": "2023-04-01T13:08:02Z"
- },
- {
-  "id": 1422563,
-  "title": "How to Choose Your Type: TypeScript Interfaces vs Types",
-  "description": "While working with Typescript we have ever thought that if type and interface works the same then why...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jpaDlhr2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/javqoym1zvtlycerofr1.png",
-  "slug": "how-to-choose-your-type-typescript-interfaces-vs-types-51hc",
-  "url": "https://dev.to/jagroop2000/how-to-choose-your-type-typescript-interfaces-vs-types-51hc",
-  "publish_date": "2023-04-01",
-  "published_at": "2023-04-01T11:31:30Z"
- },
- {
-  "id": 1422059,
-  "title": "Programming is the art of trade-off",
-  "description": "No matter what programming language you are using, one common suggestion you all probably hear is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IAnupuLg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xpaaimkh4qx87diz149g.jpg",
-  "slug": "programming-is-the-art-of-trade-off-1751",
-  "url": "https://dev.to/zenstack/programming-is-the-art-of-trade-off-1751",
-  "publish_date": "2023-04-01",
-  "published_at": "2023-04-01T09:24:29Z"
- },
- {
-  "id": 1421757,
-  "title": "Important Announcement: All Code Must Now Be Written in Pig Latin",
-  "description": "It’s a somewhat of a tradition in the tech industry to use April Fools’ Day as an opportunity to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QKy6_xRB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f79x5kpy35bu035e5235.png",
-  "slug": "important-announcement-all-code-must-now-be-written-in-pig-latin-5b7h",
-  "url": "https://dev.to/codenewbieteam/important-announcement-all-code-must-now-be-written-in-pig-latin-5b7h",
-  "publish_date": "2023-04-01",
-  "published_at": "2023-04-01T07:00:00Z"
- },
- {
-  "id": 1422401,
-  "title": "Top React Data Fetching Libraries",
-  "description": "Fetching data in React using XMLHttpRequest and Fetch API is fine but require a lot of boilerplate...",
-  "cover_image": "",
-  "slug": "top-react-data-fetching-libraries-4e9e",
-  "url": "https://dev.to/bybydev/top-react-data-fetching-libraries-4e9e",
-  "publish_date": "2023-04-01",
-  "published_at": "2023-04-01T05:35:26Z"
  }
 ]
