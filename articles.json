@@ -1,5 +1,55 @@
 [
  {
+  "id": 1514951,
+  "title": "Top 20 Must-Know Tips for Web Accessibility",
+  "description": "Table of content    1 - Learn how to use a screen reader   Most commonly used keys      2 - Gain good...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uap-EgHX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2qtxk4xlyejgitf5709p.jpg",
+  "slug": "top-20-must-know-tips-for-web-accessibility-452",
+  "url": "https://dev.to/this-is-learning/top-20-must-know-tips-for-web-accessibility-452",
+  "publish_date": "2023-07-12",
+  "published_at": "2023-07-12T14:55:01Z"
+ },
+ {
+  "id": 1534649,
+  "title": "Transition between pages smoothly with a single line of code",
+  "description": "CSS View Transitions is one of the latest additions to Chromium-based browsers, and I decided to try...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AkmZFGdJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fr1fd49lmpf1sa4r9vdq.jpg",
+  "slug": "transition-between-pages-smoothly-with-a-single-line-of-code-3cea",
+  "url": "https://dev.to/starbist/transition-between-pages-smoothly-with-a-single-line-of-code-3cea",
+  "publish_date": "2023-07-12",
+  "published_at": "2023-07-12T11:49:48Z"
+ },
+ {
+  "id": 1534645,
+  "title": "💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫",
+  "description": "Discover how ChatGPT prompts can streamline your workflow, eliminate boilerplate code and tackle code duplication. Join the discussion.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w5elPgkq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yiryrouibspl8vj6fopp.jpeg",
+  "slug": "accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14",
+  "url": "https://dev.to/renanfranca/accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14",
+  "publish_date": "2023-07-12",
+  "published_at": "2023-07-12T10:49:41Z"
+ },
+ {
+  "id": 1534561,
+  "title": "What's the Best Practice for Auth and Why",
+  "description": "You don't need to implement authentication on your own   Clerk, the drop-in authentication...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g9PO8WW3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4k26q502z09rgt566rso.jpg",
+  "slug": "whats-the-best-practice-for-auth-and-why-3a60",
+  "url": "https://dev.to/zenstack/whats-the-best-practice-for-auth-and-why-3a60",
+  "publish_date": "2023-07-12",
+  "published_at": "2023-07-12T10:00:00Z"
+ },
+ {
+  "id": 1515621,
+  "title": "Learn 30 serverless best-practices with sls-mentor",
+  "description": "Your serverless app is not perfect (yet)   Are you currently learning serverless, or are you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZuSAxdCX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/sls-mentor/reporting/assets/cover-image.png",
+  "slug": "learn-30-serverless-best-practices-with-sls-mentor-cnj",
+  "url": "https://dev.to/kumo/learn-30-serverless-best-practices-with-sls-mentor-cnj",
+  "publish_date": "2023-07-12",
+  "published_at": "2023-07-12T08:34:51Z"
+ },
+ {
   "id": 1533568,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5",
   "publish_date": "2023-04-03",
   "published_at": "2023-04-03T05:55:37Z"
- },
- {
-  "id": 1423383,
-  "title": "Typescript utility types that you must know",
-  "description": "Hello everyone, Today, In this article, we will go through some beneficial and essential utility...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Me9eFubl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/06olpv8mxgyctg1lkniy.png",
-  "slug": "typescript-utility-types-that-you-must-know-4m6k",
-  "url": "https://dev.to/arafat4693/typescript-utility-types-that-you-must-know-4m6k",
-  "publish_date": "2023-04-02",
-  "published_at": "2023-04-02T14:05:22Z"
- },
- {
-  "id": 1415382,
-  "title": "Comparing accessibility: Hashnode vs. Dev.to",
-  "description": "A couple of week's ago I asked on Twitter about good blogging platforms for developers. Aside from...",
-  "cover_image": "",
-  "slug": "comparing-accessibility-hashnode-vs-devto-21g5",
-  "url": "https://dev.to/emmadawsondev/comparing-accessibility-hashnode-vs-devto-21g5",
-  "publish_date": "2023-04-02",
-  "published_at": "2023-04-02T07:32:07Z"
- },
- {
-  "id": 1423144,
-  "title": "Build Your Tech Skills: Best Udemy Courses to Take in 2023",
-  "description": "Collection of best udemy course to learn build your tech skills in 2023. Enroll in these courses and take the first step towards building a successful career in the tech industry.",
-  "cover_image": "",
-  "slug": "build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4",
-  "url": "https://dev.to/javinpaul/build-your-tech-skills-best-udemy-courses-to-take-in-2023-bf4",
-  "publish_date": "2023-04-02",
-  "published_at": "2023-04-02T06:08:08Z"
- },
- {
-  "id": 1423119,
-  "title": "7 Tricks to take the Performance of your Website to the Moon 🚀🌙",
-  "description": "Are users complaining about your slow website? This article shares 7 tricks to take the performance...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---yvU0ECp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u07jdlpvzftyckubs52z.png",
-  "slug": "7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl",
-  "url": "https://dev.to/ruppysuppy/7-tricks-to-take-the-performance-of-your-website-to-the-moon-1kpl",
-  "publish_date": "2023-04-02",
-  "published_at": "2023-04-02T05:01:53Z"
- },
- {
-  "id": 1423113,
-  "title": "Python CRUD Rest API, using: Django, Postgres, Docker and Docker Compose",
-  "description": "Let's create a CRUD Rest API in Python using:   Django (Python framework) Django Rest Framework (for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F0cgrxoC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wi1olem0rdcht22jot15.png",
-  "slug": "python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe",
-  "url": "https://dev.to/francescoxx/python-crud-rest-api-using-django-postgres-docker-and-docker-compose-4nhe",
-  "publish_date": "2023-04-02",
-  "published_at": "2023-04-02T03:28:20Z"
  }
 ]
