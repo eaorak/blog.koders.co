@@ -1,5 +1,55 @@
 [
  {
+  "id": 1536128,
+  "title": "Sloan's Inbox: What's it take to go from 0 dev skills to successful game developer?",
+  "description": "Heyo! Sloan here... DEV Moderator and resident mascot 🦥  Welcome to a new installment of Sloan's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xxfa9n1a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6zmk2zbfgt2j019hh2kl.jpg",
+  "slug": "sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h",
+  "url": "https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h",
+  "publish_date": "2023-07-13",
+  "published_at": "2023-07-13T14:50:02Z"
+ },
+ {
+  "id": 1535699,
+  "title": "7 DEVs writing quality content about your #career",
+  "description": "I don't have much time to write about careers right now but fortunately there are plenty of cool...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z49xl81Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwgf0u9feiwyi8k5ye9.jpg",
+  "slug": "7-devs-writing-quality-content-about-your-career-96o",
+  "url": "https://dev.to/jmfayard/7-devs-writing-quality-content-about-your-career-96o",
+  "publish_date": "2023-07-13",
+  "published_at": "2023-07-13T09:10:52Z"
+ },
+ {
+  "id": 1535695,
+  "title": "Serverless and event-driven design thinking",
+  "description": "How do I create and design a event-driven system? What steps do I take and how do I think. In this post I will explain my event-driven design thinking.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_yUBTYPN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://jimmydqv.com/assets/img/post-event-driven-design/event-driven-design-thinking-thumb-dev.png",
+  "slug": "serverless-and-event-driven-design-thinking-24jf",
+  "url": "https://dev.to/aws-builders/serverless-and-event-driven-design-thinking-24jf",
+  "publish_date": "2023-07-13",
+  "published_at": "2023-07-13T08:38:10Z"
+ },
+ {
+  "id": 1534185,
+  "title": "Appwrite is now available as a one-click app on the Akamai cloud (Linode) marketplace",
+  "description": "We have some exciting news. Appwrite, an open-source end-to-end backend server, is now available as a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qDN194Cp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/33i11dzfrkx8fsfqol57.png",
+  "slug": "appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp",
+  "url": "https://dev.to/appwrite/appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp",
+  "publish_date": "2023-07-13",
+  "published_at": "2023-07-13T06:44:23Z"
+ },
+ {
+  "id": 1535468,
+  "title": "7 Best Websites Every Developer Should Bookmark in 2023",
+  "description": "Stay ahead of the game and elevate your programming skills with this comprehensive list of the best...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j3fC5nC4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/830pvpyn67mktg0ttt5i.jpg",
+  "slug": "7-best-websites-every-developer-should-bookmark-in-2023-31mg",
+  "url": "https://dev.to/durgesh4993/7-best-websites-every-developer-should-bookmark-in-2023-31mg",
+  "publish_date": "2023-07-13",
+  "published_at": "2023-07-13T03:02:14Z"
+ },
+ {
   "id": 1514951,
   "title": "Top 20 Must-Know Tips for Web Accessibility",
   "description": "Table of content    1 - Learn how to use a screen reader   Most commonly used keys      2 - Gain good...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/7-api-tools-for-rest-developers-and-testers-n67",
   "publish_date": "2023-04-04",
   "published_at": "2023-04-04T06:16:56Z"
- },
- {
-  "id": 1288860,
-  "title": "How I improve my skills in Typescript #2 : Mapped Type",
-  "description": "I will share with us some tips that improved my skill in Typescript ! Today we will learn how to use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0WsYhLNW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wm61z1bvf52exhxik3cp.png",
-  "slug": "how-i-improve-my-skills-in-typescript-2-mapped-type-dag",
-  "url": "https://dev.to/codeoz/how-i-improve-my-skills-in-typescript-2-mapped-type-dag",
-  "publish_date": "2023-04-03",
-  "published_at": "2023-04-03T14:43:34Z"
- },
- {
-  "id": 1424164,
-  "title": "I made Express faster than Fastify (100x faster JSON)",
-  "description": "Outline   Hello, I am developer of typia, and studying fastify in nowadays.   During the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--A-7bI37K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ui4ati8jtbsuudcw9adb.png",
-  "slug": "i-made-express-faster-than-fastify-4h8g",
-  "url": "https://dev.to/samchon/i-made-express-faster-than-fastify-4h8g",
-  "publish_date": "2023-04-03",
-  "published_at": "2023-04-03T13:09:55Z"
- },
- {
-  "id": 1424137,
-  "title": "Meme Monday 🐌",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zUwwuG7y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h6snvafhnfxkgl0t5l3q.png",
-  "slug": "meme-monday-3nd9",
-  "url": "https://dev.to/ben/meme-monday-3nd9",
-  "publish_date": "2023-04-03",
-  "published_at": "2023-04-03T12:24:54Z"
- },
- {
-  "id": 1423960,
-  "title": "Our AI-Powered TechCrunch Clone Went Viral, This Is How We Built It",
-  "description": "We decided to build something cool for April Fools' Day a few days ago. We wanted to make it fun,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XQZkeOLX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4f654tur2mmtoj1bbwyo.png",
-  "slug": "our-ai-powered-techcrunch-clone-went-viral-this-is-how-we-built-it-495d",
-  "url": "https://dev.to/appwrite/our-ai-powered-techcrunch-clone-went-viral-this-is-how-we-built-it-495d",
-  "publish_date": "2023-04-03",
-  "published_at": "2023-04-03T08:57:11Z"
- },
- {
-  "id": 1423876,
-  "title": "10 Trending Node.js Libraries and Frameworks to Boost Your Web Development",
-  "description": "A Guide to Enhance Your Node.js Development Experience with the Latest Libraries and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tGUZi0qk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nhc8sc48qh04yxjz5q1h.png",
-  "slug": "10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5",
-  "url": "https://dev.to/rahulladumor/10-trending-nodejs-libraries-and-frameworks-to-boost-your-web-development-3aa5",
-  "publish_date": "2023-04-03",
-  "published_at": "2023-04-03T05:55:37Z"
  }
 ]
