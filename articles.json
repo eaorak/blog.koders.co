@@ -1,5 +1,55 @@
 [
  {
+  "id": 1536979,
+  "title": "Mobile Development Best Practices: Strategies for Building Successful Apps for Android and iOS",
+  "description": "Mobile development is exciting. It offers you the power to create something that potentially millions...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KRaSC-q---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x5b8h5taxoqc4d2yillz.png",
+  "slug": "mobile-development-best-practices-strategies-for-building-successful-apps-for-android-and-ios-bgc",
+  "url": "https://dev.to/chkon/mobile-development-best-practices-strategies-for-building-successful-apps-for-android-and-ios-bgc",
+  "publish_date": "2023-07-14",
+  "published_at": "2023-07-14T11:41:26Z"
+ },
+ {
+  "id": 1536855,
+  "title": "Leaked C# 12 Preview 3 Features! Worth the Wait or Not?",
+  "description": "It’s a great day to explore C# 12 Preview 3 features. We’ll be diving into interesting updates like...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7Ku5zaJm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lfsvc554cd4vbpkgoyy.png",
+  "slug": "leaked-c-12-preview-3-features-worth-the-wait-or-not-7if",
+  "url": "https://dev.to/bytehide/leaked-c-12-preview-3-features-worth-the-wait-or-not-7if",
+  "publish_date": "2023-07-14",
+  "published_at": "2023-07-14T09:48:40Z"
+ },
+ {
+  "id": 1518940,
+  "title": "What was your win this week?",
+  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
+  "cover_image": "",
+  "slug": "what-was-your-win-this-week-13db",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-13db",
+  "publish_date": "2023-07-14",
+  "published_at": "2023-07-14T09:30:00Z"
+ },
+ {
+  "id": 1536626,
+  "title": "15 Advanced TypeScript Tips for Development",
+  "description": "1.Optional Chaining (?.): Optional chaining allows you to safely access nested properties or methods...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mq_e71-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w3na00dnzqmtigth9990.png",
+  "slug": "15-advanced-typescript-tips-for-development-5ddj",
+  "url": "https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj",
+  "publish_date": "2023-07-14",
+  "published_at": "2023-07-14T04:02:54Z"
+ },
+ {
+  "id": 1536592,
+  "title": "A Comprehensive Beginner's Guide to NPM: Simplifying Package Management",
+  "description": "In the vast landscape of web development, efficiently managing project dependencies is crucial for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_8GI6PKf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo4zuxr510wc8o4m1dki.jpg",
+  "slug": "a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5",
+  "url": "https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5",
+  "publish_date": "2023-07-14",
+  "published_at": "2023-07-14T02:00:46Z"
+ },
+ {
   "id": 1536128,
   "title": "Sloan's Inbox: What's it take to go from 0 dev skills to successful game developer?",
   "description": "Heyo! Sloan here... DEV Moderator and resident mascot 🦥  Welcome to a new installment of Sloan's...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p",
   "publish_date": "2023-04-05",
   "published_at": "2023-04-05T02:26:39Z"
- },
- {
-  "id": 1425864,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-5gdm",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5gdm",
-  "publish_date": "2023-04-04",
-  "published_at": "2023-04-04T14:57:40Z"
- },
- {
-  "id": 1425666,
-  "title": "Reset Local Repository Branch to be Just Like Remote Repository HEAD: A Step-by-Step Guide",
-  "description": "Introduction   In the world of Git, it's not uncommon for developers to find themselves in a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3r7VdzK0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zou5w1m4d5cneo09ztll.jpg",
-  "slug": "reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k",
-  "url": "https://dev.to/bobbyiliev/reset-local-repository-branch-to-be-just-like-remote-repository-head-a-step-by-step-guide-1n2k",
-  "publish_date": "2023-04-04",
-  "published_at": "2023-04-04T11:10:38Z"
- },
- {
-  "id": 1416311,
-  "title": "GitLive adds support for more branching strategies including GitFlow",
-  "description": "You can now specify which branches are not feature branches  and deserve special treatment in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4qQqKKX4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m4gexwuzuznmibg3xz98.png",
-  "slug": "gitlive-adds-support-for-more-branching-strategies-including-gitflow-70g",
-  "url": "https://dev.to/gitlive/gitlive-adds-support-for-more-branching-strategies-including-gitflow-70g",
-  "publish_date": "2023-04-04",
-  "published_at": "2023-04-04T08:15:46Z"
- },
- {
-  "id": 1425451,
-  "title": "How to Integrate PayPal with HTML, CSS and Javascript",
-  "description": "Have you ever visited a website and then wondered how transactions take place online, either in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SB5_DbIE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xyu1ic1f549wiy8t88tb.png",
-  "slug": "how-to-integrate-paypal-with-html-css-and-javascript-2mnb",
-  "url": "https://dev.to/evansifyke/how-to-integrate-paypal-with-html-css-and-javascript-2mnb",
-  "publish_date": "2023-04-04",
-  "published_at": "2023-04-04T06:43:31Z"
- },
- {
-  "id": 1425437,
-  "title": "7 API Tools for REST Developers and Testers",
-  "description": "These are the best tool for designing, developing, testing and documenting REST API and RESTful services",
-  "cover_image": "",
-  "slug": "7-api-tools-for-rest-developers-and-testers-n67",
-  "url": "https://dev.to/javinpaul/7-api-tools-for-rest-developers-and-testers-n67",
-  "publish_date": "2023-04-04",
-  "published_at": "2023-04-04T06:16:56Z"
  }
 ]
