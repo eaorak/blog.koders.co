@@ -1,5 +1,55 @@
 [
  {
+  "id": 1532648,
+  "title": "Design Patterns in PHP 8: Builder",
+  "description": "Hi! In the realm of software development, creating complex objects often feels like trying to solve a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQrquW9C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e85tpdwals9yvln641rf.jpg",
+  "slug": "design-patterns-in-php-8-builder-2ike",
+  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-builder-2ike",
+  "publish_date": "2023-07-15",
+  "published_at": "2023-07-15T13:33:31Z"
+ },
+ {
+  "id": 1537997,
+  "title": "How a Responsive Website Can Help Your Business Grow",
+  "description": "Having a responsive website is crucial for the growth and success of your business. With the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i9glWBFn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zeia6b3z2d2b21579yc3.jpg",
+  "slug": "how-a-responsive-website-can-help-your-business-grow-3pbl",
+  "url": "https://dev.to/berack/how-a-responsive-website-can-help-your-business-grow-3pbl",
+  "publish_date": "2023-07-15",
+  "published_at": "2023-07-15T09:17:42Z"
+ },
+ {
+  "id": 1537345,
+  "title": "Unsafe 'PropsWithChildren' Utility type in React TypeScript App",
+  "description": "As React developer, we are all familiar with creating components, whether as classes or functions, to...",
+  "cover_image": "",
+  "slug": "unsafe-propswithchildren-utility-type-in-react-typescript-app-3bd3",
+  "url": "https://dev.to/maafaishal/unsafe-propswithchildren-utility-type-in-react-typescript-app-3bd3",
+  "publish_date": "2023-07-15",
+  "published_at": "2023-07-15T08:15:09Z"
+ },
+ {
+  "id": 1517868,
+  "title": "Balancing Skills: Beyond Coding Expertise",
+  "description": "Being a well-rounded coder involves more than just technical skills. What are some non-technical...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PdGl-uZF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecdrycbshmna0nnx815o.png",
+  "slug": "balancing-skills-beyond-coding-expertise-4k93",
+  "url": "https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93",
+  "publish_date": "2023-07-15",
+  "published_at": "2023-07-15T07:00:00Z"
+ },
+ {
+  "id": 1537404,
+  "title": "Supercharge Your Container Networking: Seamless Host Communication with VxLAN and Docker",
+  "description": "In this hands-on demo, we will explore how to set up communication between two hosts using Virtual...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AnyiWS-m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmmuo42tz11v4gry0sya.png",
+  "slug": "supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o",
+  "url": "https://dev.to/tanvirrahman/supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o",
+  "publish_date": "2023-07-15",
+  "published_at": "2023-07-15T05:19:42Z"
+ },
+ {
   "id": 1536979,
   "title": "Mobile Development Best Practices: Strategies for Building Successful Apps for Android and iOS",
   "description": "Mobile development is exciting. It offers you the power to create something that potentially millions...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him",
   "publish_date": "2023-04-06",
   "published_at": "2023-04-06T01:34:41Z"
- },
- {
-  "id": 1415269,
-  "title": "Mastering Django: Best Practices for Writing High-Quality Web Applications",
-  "description": "Django is a popular web framework for building high-quality web applications. It provides a robust...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qjxH6EUG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ycqqj5wtnixv60uogxd9.png",
-  "slug": "mastering-django-best-practices-for-writing-high-quality-web-applications-2mf8",
-  "url": "https://dev.to/pratyushcode/mastering-django-best-practices-for-writing-high-quality-web-applications-2mf8",
-  "publish_date": "2023-04-05",
-  "published_at": "2023-04-05T10:10:29Z"
- },
- {
-  "id": 1425132,
-  "title": "Would You Rather Work in a Small Startup or a Large Corporation?",
-  "description": "If you had to choose, would you rather work in a small startup environment with a high degree of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g3k5FHuX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjxcgs7ogk65iswcjykt.png",
-  "slug": "would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn",
-  "url": "https://dev.to/codenewbieteam/would-you-rather-work-in-a-small-startup-or-a-large-corporation-kcn",
-  "publish_date": "2023-04-05",
-  "published_at": "2023-04-05T07:00:00Z"
- },
- {
-  "id": 1426787,
-  "title": "Store JWT Token with Coroutines",
-  "description": "JWT (JSON Web Token) has become a popular standard for implementing stateless authentication in...",
-  "cover_image": "",
-  "slug": "store-jwt-token-with-coroutines-4bn5",
-  "url": "https://dev.to/charlesetieve/store-jwt-token-with-coroutines-4bn5",
-  "publish_date": "2023-04-05",
-  "published_at": "2023-04-05T06:28:18Z"
- },
- {
-  "id": 1426717,
-  "title": "What is prop drilling in React?",
-  "description": "Yo ho, my hearties!!!  Prop drilling is the process of passing down data or state through multiple...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pPLTw0Jz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n7c4rnqwgjp5dw3n2vrk.png",
-  "slug": "what-is-prop-drilling-in-react-3kol",
-  "url": "https://dev.to/codeofrelevancy/what-is-prop-drilling-in-react-3kol",
-  "publish_date": "2023-04-05",
-  "published_at": "2023-04-05T05:28:18Z"
- },
- {
-  "id": 1426698,
-  "title": "10 Cool CodePen Demos (March 23)",
-  "description": "A collection of 10 cool and exciting front-end demos shared on CodePen during March 2023",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mF7wN9de--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tfw3mg1mfnyng0ca29pp.png",
-  "slug": "10-cool-codepen-demos-march-23-484p",
-  "url": "https://dev.to/alvaromontoro/10-cool-codepen-demos-march-23-484p",
-  "publish_date": "2023-04-05",
-  "published_at": "2023-04-05T02:26:39Z"
  }
 ]
