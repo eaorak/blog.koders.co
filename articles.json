@@ -1,5 +1,55 @@
 [
  {
+  "id": 1539116,
+  "title": "A Practical Guide to Metaprogramming in Python",
+  "description": "What is metaprogramming?   Metaprogramming is a programming technique where a program can...",
+  "cover_image": "",
+  "slug": "a-practical-guide-to-metaprogramming-in-python-691",
+  "url": "https://dev.to/karishmashukla/a-practical-guide-to-metaprogramming-in-python-691",
+  "publish_date": "2023-07-16",
+  "published_at": "2023-07-16T18:25:22Z"
+ },
+ {
+  "id": 1538793,
+  "title": "The Ethereum Virtual Machine: Fueling the Decentralized Revolution",
+  "description": "The Ethereum Virtual Machine (EVM) is at the core of the Ethereum protocol. It acts as a powerful...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zIeef4-k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7qsdq23ubxfvpuf9mobb.jpg",
+  "slug": "the-ethereum-virtual-machine-fueling-the-decentralized-revolution-4g82",
+  "url": "https://dev.to/sahil_4555/the-ethereum-virtual-machine-fueling-the-decentralized-revolution-4g82",
+  "publish_date": "2023-07-16",
+  "published_at": "2023-07-16T12:15:29Z"
+ },
+ {
+  "id": 1538629,
+  "title": "Building Trust in a Trustless World: Decentralized Applications Unveiled",
+  "description": "In this chapter, we'll explore decentralized applications, or DApps. They were born from Ethereum's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vxQsCI5i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4emxz0t2ic2em76k7v8t.jpg",
+  "slug": "building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk",
+  "url": "https://dev.to/sahil_4555/building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk",
+  "publish_date": "2023-07-16",
+  "published_at": "2023-07-16T04:43:45Z"
+ },
+ {
+  "id": 1538533,
+  "title": "RSVQuick: Online Invitation App Made Using Refine",
+  "description": "What I built   I created an online RSVP invitation application that allows users to quickly...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pRknVHKQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/be67sfg0o50cr6ffvyzd.png",
+  "slug": "rsvquick-online-invitation-app-made-using-refine-148e",
+  "url": "https://dev.to/ansellmaximilian/rsvquick-online-invitation-app-made-using-refine-148e",
+  "publish_date": "2023-07-16",
+  "published_at": "2023-07-16T02:49:46Z"
+ },
+ {
+  "id": 1538530,
+  "title": "Building a Progressive Web App with React",
+  "description": "Progressive web applications (PWAs) are web apps that utilize modern web capabilities and features to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u6iDDfIm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dc03xbynb1y65pwy8xkp.png",
+  "slug": "building-a-progressive-web-app-with-react-ifd",
+  "url": "https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd",
+  "publish_date": "2023-07-16",
+  "published_at": "2023-07-16T00:52:45Z"
+ },
+ {
   "id": 1532648,
   "title": "Design Patterns in PHP 8: Builder",
   "description": "Hi! In the realm of software development, creating complex objects often feels like trying to solve a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/margishpatel/how-to-make-your-html-responsive-using-display-grid-1fj",
   "publish_date": "2023-04-07",
   "published_at": "2023-04-07T04:43:04Z"
- },
- {
-  "id": 1427888,
-  "title": "Communication in a Microservice Architecture",
-  "description": "What Is Microservices Architecture?   Microservices architecture is a software system...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yykepEM1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/communication-in-a-microservice-architecture/hero.png",
-  "slug": "communication-in-a-microservice-architecture-5ga",
-  "url": "https://dev.to/amplication/communication-in-a-microservice-architecture-5ga",
-  "publish_date": "2023-04-06",
-  "published_at": "2023-04-06T14:52:35Z"
- },
- {
-  "id": 1427880,
-  "title": "Awesome VS Code Extensions for 2023",
-  "description": "Introduction   VS code is one of the best code editors and IDE. I have used many code...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OeiOaGA6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x3j9vld160a66aagkxvp.png",
-  "slug": "awesome-vs-code-extensions-for-2023-2i1b",
-  "url": "https://dev.to/surajondev/awesome-vs-code-extensions-for-2023-2i1b",
-  "publish_date": "2023-04-06",
-  "published_at": "2023-04-06T11:30:00Z"
- },
- {
-  "id": 1428104,
-  "title": "The Page Visibility API: Improve User Experience and Performance",
-  "description": "I am always excited to share insights about lesser-known yet powerful APIs in the modern web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nh55yC_z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nxwvwk75geg8vxmvowl9.jpg",
-  "slug": "the-page-visibility-api-improve-user-experience-and-performance-451",
-  "url": "https://dev.to/nialljoemaher/the-page-visibility-api-improve-user-experience-and-performance-451",
-  "publish_date": "2023-04-06",
-  "published_at": "2023-04-06T10:02:26Z"
- },
- {
-  "id": 1427930,
-  "title": "Let's discover: docker init command",
-  "description": "Discover a new command, or tool or technology in short and in video",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--se9nRXlS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x5ktqmx6n40ek08c1eu8.png",
-  "slug": "lets-discover-docker-init-command-3cef",
-  "url": "https://dev.to/aurelievache/lets-discover-docker-init-command-3cef",
-  "publish_date": "2023-04-06",
-  "published_at": "2023-04-06T08:46:50Z"
- },
- {
-  "id": 1427559,
-  "title": "4 VSCode extensions I use when developing with Tailwind",
-  "description": "TL;DR   All these extensions are available in this VSCode extension pack TailwindCSS Kit    ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j5swcseh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ri0eehp7sa9xkzolvfn.png",
-  "slug": "4-vscode-extensions-i-use-for-tailwind-2him",
-  "url": "https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him",
-  "publish_date": "2023-04-06",
-  "published_at": "2023-04-06T01:34:41Z"
  }
 ]
