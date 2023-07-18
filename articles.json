@@ -1,5 +1,55 @@
 [
  {
+  "id": 1540118,
+  "title": "The Power of Git: A Guide to Collaborative Version Control",
+  "description": "Unlock the power of Git, a distributed version control system, in our guide. Learn how to manage code changes, collaborate seamlessly, and maintain an organized codebase. Discover essential Git functionalities, from committing and branching to merging and resolving conflicts.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--46ZoQ-Dv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cpo5vk2znt8ndto0qjql.png",
+  "slug": "the-power-of-git-a-guide-to-collaborative-version-control-dl6",
+  "url": "https://dev.to/opensauced/the-power-of-git-a-guide-to-collaborative-version-control-dl6",
+  "publish_date": "2023-07-17",
+  "published_at": "2023-07-17T18:04:14Z"
+ },
+ {
+  "id": 1539750,
+  "title": "Build A Todo API With .NET And Appwrite",
+  "description": "Last week, Appwrite launched its .NET  SDK in Beta to support C# and .NET in building server-side...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pz2TLSC2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q2tb08xu9u250810azph.png",
+  "slug": "build-a-todo-api-with-net-and-appwrite-218d",
+  "url": "https://dev.to/appwrite/build-a-todo-api-with-net-and-appwrite-218d",
+  "publish_date": "2023-07-17",
+  "published_at": "2023-07-17T14:32:19Z"
+ },
+ {
+  "id": 1539773,
+  "title": "A message from an Impostor",
+  "description": "Impostor syndrome is quite popular in the tech industry.  People around you seem to be super experts,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JEC7rgG7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wgvodzj8hovv4s5vu9m7.png",
+  "slug": "a-message-from-an-impostor-231",
+  "url": "https://dev.to/this-is-learning/a-message-from-an-impostor-231",
+  "publish_date": "2023-07-17",
+  "published_at": "2023-07-17T11:47:23Z"
+ },
+ {
+  "id": 1539680,
+  "title": "RLS of Supabase(PostgreSQL) Is Good, But …🤔",
+  "description": "RLS is the foundation of BaaS   There has been massive innovation in the database and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GyPygCt6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2hnrsfrskfpwnq3vo7em.png",
+  "slug": "rls-of-supabasepostgresql-is-good-but--1394",
+  "url": "https://dev.to/zenstack/rls-of-supabasepostgresql-is-good-but--1394",
+  "publish_date": "2023-07-17",
+  "published_at": "2023-07-17T10:25:18Z"
+ },
+ {
+  "id": 1539127,
+  "title": "Micro-Filosofia: A arte da fragmentação",
+  "description": "Estou convencido de que o melhor jeito de se desenvolver um programa de computador é aplicando a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K1hx4nKR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6p3zz9jgc34x0lgp3qcp.png",
+  "slug": "o-poder-da-micro-filosofia-2i6i",
+  "url": "https://dev.to/ocodista/o-poder-da-micro-filosofia-2i6i",
+  "publish_date": "2023-07-17",
+  "published_at": "2023-07-17T02:08:24Z"
+ },
+ {
   "id": 1539116,
   "title": "A Practical Guide to Metaprogramming in Python",
   "description": "What is metaprogramming?   Metaprogramming is a programming technique where a program can...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alvaromontoro/drawing-an-egg-with-css-m17",
   "publish_date": "2023-04-08",
   "published_at": "2023-04-08T04:56:22Z"
- },
- {
-  "id": 1428663,
-  "title": "Make a Difference on DEV as a Tag Moderator",
-  "description": "Make Your Mark on the DEV Community Experience by Becoming a Tag Moderator   Tag moderators...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RQZgXlqu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zkizqlzpey84ct4rbhw9.png",
-  "slug": "make-a-difference-on-dev-as-a-moderator-opl",
-  "url": "https://dev.to/devteam/make-a-difference-on-dev-as-a-moderator-opl",
-  "publish_date": "2023-04-07",
-  "published_at": "2023-04-07T14:35:51Z"
- },
- {
-  "id": 1368344,
-  "title": "Complete roadmap to become a pro in MERN STACK🚀",
-  "description": "Are you looking to become a master of web development and create robust, scalable, and feature-rich...",
-  "cover_image": "",
-  "slug": "complete-roadmap-to-become-a-pro-in-mern-stack-30cf",
-  "url": "https://dev.to/qbentil/complete-roadmap-to-become-a-pro-in-mern-stack-30cf",
-  "publish_date": "2023-04-07",
-  "published_at": "2023-04-07T07:47:11Z"
- },
- {
-  "id": 1427859,
-  "title": "🎓 Monorepo college lecture 1: a beautiful morning",
-  "description": "Photo by Josh Felise on Unsplash  Embark on a thrilling journey to Monorepo Land, where code sharing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JuAxmSKZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g2py4am5zgw6codd3qup.jpg",
-  "slug": "monorepo-college-lecture-1-a-beautiful-morning-1jgl",
-  "url": "https://dev.to/ixahmedxi/monorepo-college-lecture-1-a-beautiful-morning-1jgl",
-  "publish_date": "2023-04-07",
-  "published_at": "2023-04-07T07:06:21Z"
- },
- {
-  "id": 1427151,
-  "title": "My Favorite Scala and Groovy Framework for 2023",
-  "description": "Disclosure: This post includes affiliate links; I may receive compensation if you purchase products...",
-  "cover_image": "",
-  "slug": "my-favorite-scala-and-groovy-framework-for-2023-296g",
-  "url": "https://dev.to/javinpaul/my-favorite-scala-and-groovy-framework-for-2023-296g",
-  "publish_date": "2023-04-07",
-  "published_at": "2023-04-07T05:31:36Z"
- },
- {
-  "id": 1413297,
-  "title": "How to make your HTML responsive using display grid. 💯✅",
-  "description": "To make your HTML responsive using display grid, you can follow these steps:  Define the grid...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9-YFdFRt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bthfzj6rpk3cdcgpoc3w.jpg",
-  "slug": "how-to-make-your-html-responsive-using-display-grid-1fj",
-  "url": "https://dev.to/margishpatel/how-to-make-your-html-responsive-using-display-grid-1fj",
-  "publish_date": "2023-04-07",
-  "published_at": "2023-04-07T04:43:04Z"
  }
 ]
