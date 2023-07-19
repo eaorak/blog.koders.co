@@ -1,5 +1,55 @@
 [
  {
+  "id": 1541234,
+  "title": "Database 101: Twitch Bot in a higher level for beginners.",
+  "description": "I kinda like the idea of writing about social media + databases and it seems the readers here are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2gaBA2NS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2u6n67xdmdf2j6lkndz3.png",
+  "slug": "database-101-twitch-bot-in-a-higher-level-for-beginners-i91",
+  "url": "https://dev.to/danielhe4rt/database-101-twitch-bot-in-a-higher-level-for-beginners-i91",
+  "publish_date": "2023-07-18",
+  "published_at": "2023-07-18T16:44:21Z"
+ },
+ {
+  "id": 1540902,
+  "title": "How we built a GPT code agent 🤖 that generates full-stack web apps in React \u0026 Node.js, explained simply",
+  "description": "We created GPT Web App Generator, which lets you shortly describe the web app you would like to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZIuAKcmv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/asfdyolxguf4zgvqszzi.png",
+  "slug": "how-we-built-a-gpt-code-agent-that-generates-full-stack-web-apps-in-react-nodejs-explained-simply-4f9",
+  "url": "https://dev.to/wasp/how-we-built-a-gpt-code-agent-that-generates-full-stack-web-apps-in-react-nodejs-explained-simply-4f9",
+  "publish_date": "2023-07-18",
+  "published_at": "2023-07-18T13:22:18Z"
+ },
+ {
+  "id": 1540975,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round-up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-3hl3",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3hl3",
+  "publish_date": "2023-07-18",
+  "published_at": "2023-07-18T13:17:00Z"
+ },
+ {
+  "id": 1540297,
+  "title": "Netmaker - WireGuard Made Easy",
+  "description": "If you've worked much in networking, you've probably heard of WireGuard®. If not, allow me to...",
+  "cover_image": "",
+  "slug": "netmaker-wireguard-made-easy-34gf",
+  "url": "https://dev.to/afeiszli/netmaker-wireguard-made-easy-34gf",
+  "publish_date": "2023-07-18",
+  "published_at": "2023-07-18T12:15:46Z"
+ },
+ {
+  "id": 1540650,
+  "title": "🚀 7 open-source projects you should contribute to in 2023 ⭐️⭐️",
+  "description": "I love seeing so much innovation in open-source. There are a few raising libraries I thought I should...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yAfDG0WZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ow756f70n3us3ennlbq.png",
+  "slug": "7-open-source-projects-you-should-contribute-to-in-2023-1nph",
+  "url": "https://dev.to/github20k/7-open-source-projects-you-should-contribute-to-in-2023-1nph",
+  "publish_date": "2023-07-18",
+  "published_at": "2023-07-18T08:48:50Z"
+ },
+ {
   "id": 1540118,
   "title": "The Power of Git: A Guide to Collaborative Version Control",
   "description": "Unlock the power of Git, a distributed version control system, in our guide. Learn how to manage code changes, collaborate seamlessly, and maintain an organized codebase. Discover essential Git functionalities, from committing and branching to merging and resolving conflicts.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0",
   "publish_date": "2023-04-09",
   "published_at": "2023-04-09T10:55:06Z"
- },
- {
-  "id": 1430367,
-  "title": "The Productivity apps I use in 2023",
-  "description": "Cassidy's current \"stack\" of task-tracking, calendar, and note-taking apps",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0G7IQXSz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1503551723145-6c040742065b-v2%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1740%26q%3D80",
-  "slug": "the-productivity-apps-i-use-in-2023-3m8l",
-  "url": "https://dev.to/cassidoo/the-productivity-apps-i-use-in-2023-3m8l",
-  "publish_date": "2023-04-08",
-  "published_at": "2023-04-08T19:49:24Z"
- },
- {
-  "id": 1430123,
-  "title": "AI Color Palette Generator",
-  "description": "I just launched a simple color palette generator using AI. Simply input what kind of color scheme...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jt-Pr95L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a1omdtjovmnezfea2bm5.png",
-  "slug": "ai-color-palette-generator-1fn5",
-  "url": "https://dev.to/rarestoma/ai-color-palette-generator-1fn5",
-  "publish_date": "2023-04-08",
-  "published_at": "2023-04-08T10:35:10Z"
- },
- {
-  "id": 1424073,
-  "title": "Building a RESTful API with Node.js and Express",
-  "description": "Overview   Building an API is an essential part of developing modern applications. APIs are...",
-  "cover_image": "",
-  "slug": "building-a-restful-api-with-nodejs-and-express-2pp8",
-  "url": "https://dev.to/kingsley/building-a-restful-api-with-nodejs-and-express-2pp8",
-  "publish_date": "2023-04-08",
-  "published_at": "2023-04-08T07:42:43Z"
- },
- {
-  "id": 1427878,
-  "title": "Kubernetes GitOps: A Beginner's Guide with a Hands-On Tutorial",
-  "description": "Kubernetes has become the talk of the town for many years now.  It has revolutionized the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PdFrfL0C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/adtqg2ubzidaac56rfz5.png",
-  "slug": "kubernetes-gitops-a-beginners-guide-with-a-hands-on-tutorial-56de",
-  "url": "https://dev.to/pavanbelagatti/kubernetes-gitops-a-beginners-guide-with-a-hands-on-tutorial-56de",
-  "publish_date": "2023-04-08",
-  "published_at": "2023-04-08T05:49:34Z"
- },
- {
-  "id": 1429959,
-  "title": "Drawing an Egg with CSS",
-  "description": "Enjoy some time decorating CSS Easter eggs this weekend",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OTWApGwp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1f0af0i7qsywkmm19jnr.png",
-  "slug": "drawing-an-egg-with-css-m17",
-  "url": "https://dev.to/alvaromontoro/drawing-an-egg-with-css-m17",
-  "publish_date": "2023-04-08",
-  "published_at": "2023-04-08T04:56:22Z"
  }
 ]
