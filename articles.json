@@ -1,5 +1,55 @@
 [
  {
+  "id": 1542446,
+  "title": "Introducing Open Video Game Data: A new approach to evaluating games.",
+  "description": "Introduction   My friend Diego and I decided to create a non-profit site called Open Video...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CNDyX8oA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ng7j36794ou2k1ntp7z5.png",
+  "slug": "introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5",
+  "url": "https://dev.to/andredarcie/introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5",
+  "publish_date": "2023-07-19",
+  "published_at": "2023-07-19T17:28:32Z"
+ },
+ {
+  "id": 1542161,
+  "title": "Criamos uma nova forma de avaliar jogos: Open Video Game Data [PT-BR]",
+  "description": "Introdução   Meu amigo Diego e eu decidimos criar um site sem fins lucrativos chamado Open...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k-fER1vq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/03xl7cqs3ccjzp4mff19.png",
+  "slug": "criamos-uma-nova-forma-de-avaliar-jogos-open-video-game-data-pt-br-49j3",
+  "url": "https://dev.to/andredarcie/criamos-uma-nova-forma-de-avaliar-jogos-open-video-game-data-pt-br-49j3",
+  "publish_date": "2023-07-19",
+  "published_at": "2023-07-19T16:19:30Z"
+ },
+ {
+  "id": 1509419,
+  "title": "How much does it cost to build on top of Open AI API: building👩‍💻 + covering cost💰",
+  "description": "Over the past two months, I've developed five distinct micro-products using the OpenAI API. So...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zohduHN---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gsmaazcxypl9ybyygq5l.png",
+  "slug": "how-much-does-it-cost-to-build-on-top-of-open-ai-api-building-covering-cost-4777",
+  "url": "https://dev.to/shnai0/how-much-does-it-cost-to-build-on-top-of-open-ai-api-building-covering-cost-4777",
+  "publish_date": "2023-07-19",
+  "published_at": "2023-07-19T15:57:33Z"
+ },
+ {
+  "id": 1542257,
+  "title": "Build your own Remote Access VPN to AWS with WireGuard and Netmaker",
+  "description": "Introduction   An AWS account typically consists of multiple VPC’s and private subnets. You...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DU--MpTP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h0heeresfsiso2y1hzco.png",
+  "slug": "build-your-own-remote-access-vpn-to-aws-with-wireguard-and-netmaker-4ak4",
+  "url": "https://dev.to/afeiszli/build-your-own-remote-access-vpn-to-aws-with-wireguard-and-netmaker-4ak4",
+  "publish_date": "2023-07-19",
+  "published_at": "2023-07-19T15:18:31Z"
+ },
+ {
+  "id": 1542238,
+  "title": "How to build and deploy a modern-day Next.js application",
+  "description": "Introduction   Making websites is not what it used to be. Over the past ten years, it has...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2OLM9lnN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/85vri5fry1xil0h4l77t.jpg",
+  "slug": "how-to-build-and-deploy-a-modern-day-nextjs-application-mgn",
+  "url": "https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn",
+  "publish_date": "2023-07-19",
+  "published_at": "2023-07-19T14:41:17Z"
+ },
+ {
   "id": 1541234,
   "title": "Database 101: Twitch Bot in a higher level for beginners.",
   "description": "I kinda like the idea of writing about social media + databases and it seems the readers here are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff",
   "publish_date": "2023-04-10",
   "published_at": "2023-04-10T02:45:55Z"
- },
- {
-  "id": 1430887,
-  "title": "Must do pattern questions : Part-1 [ Javascript]",
-  "description": "The main motive of learning programming is to gain the ability to instruct computers to perform tasks...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3hPtADTT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eg2l09ecktwey4q59pxm.png",
-  "slug": "must-do-pattern-questions-part-1-javascript-32oj",
-  "url": "https://dev.to/jagroop2000/must-do-pattern-questions-part-1-javascript-32oj",
-  "publish_date": "2023-04-09",
-  "published_at": "2023-04-09T15:24:04Z"
- },
- {
-  "id": 1430809,
-  "title": "How to Build Your First GitHub App with JavaScript and GitHub API: Easy and Fast",
-  "description": "In this video, we'll show you how to build a simple, fast, and easy web application using the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vUOkeJc---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3if2kxx85qlfxofw0lqc.png",
-  "slug": "how-to-build-your-first-github-app-with-javascript-and-github-api-easy-and-fast-50jc",
-  "url": "https://dev.to/codewithsadee/how-to-build-your-first-github-app-with-javascript-and-github-api-easy-and-fast-50jc",
-  "publish_date": "2023-04-09",
-  "published_at": "2023-04-09T14:08:09Z"
- },
- {
-  "id": 1429363,
-  "title": "Developers Journey to AWS Lambda",
-  "description": "AWS Lambda has a surprise learning curve. You create a new function, write your code, and it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x20zgpRw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/avfbxowjhx13x4sbx3cq.jpg",
-  "slug": "developers-journey-to-aws-lambda-16ag",
-  "url": "https://dev.to/aws-builders/developers-journey-to-aws-lambda-16ag",
-  "publish_date": "2023-04-09",
-  "published_at": "2023-04-09T13:25:56Z"
- },
- {
-  "id": 1430684,
-  "title": "ZenStack: Start with Why",
-  "description": "I still recall the day that my co-founder approached me with his plans and asked if I wanted to join...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aoMAUmz8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eecyylnfrhovdmjkhv4c.png",
-  "slug": "zenstack-start-with-why-2c2m",
-  "url": "https://dev.to/zenstack/zenstack-start-with-why-2c2m",
-  "publish_date": "2023-04-09",
-  "published_at": "2023-04-09T11:03:44Z"
- },
- {
-  "id": 1414784,
-  "title": "200 Free AI Tools - Unleashing the Power of AI",
-  "description": "Welcome to the exciting world of AI! The tools we have compiled for you represent a new frontier in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IMK1eJ-v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vf944i0emm9mgflc5whk.jpg",
-  "slug": "200-free-ai-tools-unleashing-the-power-of-ai-eb0",
-  "url": "https://dev.to/anmolbaranwal/200-free-ai-tools-unleashing-the-power-of-ai-eb0",
-  "publish_date": "2023-04-09",
-  "published_at": "2023-04-09T10:55:06Z"
  }
 ]
