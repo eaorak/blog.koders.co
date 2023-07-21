@@ -1,5 +1,55 @@
 [
  {
+  "id": 1543358,
+  "title": "10 Portfolio Projects you can try as an entry-level Data Analyst/Scientist",
+  "description": "I hate the word newbie. If you are in a hurry, skip to the third paragraph. I always do this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--og4IDB5W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/20p1cvuazd6svb298bev.jpg",
+  "slug": "10-portfolio-projects-you-can-try-as-an-entry-level-data-analystscientist-e8e",
+  "url": "https://dev.to/durgesh4993/10-portfolio-projects-you-can-try-as-an-entry-level-data-analystscientist-e8e",
+  "publish_date": "2023-07-20",
+  "published_at": "2023-07-20T13:08:13Z"
+ },
+ {
+  "id": 1543354,
+  "title": "#DEVDiscuss: Package Management (NPM)",
+  "description": "image created by Margaux Peltat for the Chilled Cow YouTube channel  Time for #DEVDiscuss — right...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pm4WGR32--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4f92fzhfxojcul2gejan.jpg",
+  "slug": "devdiscuss-package-management-npm-mn9",
+  "url": "https://dev.to/devteam/devdiscuss-package-management-npm-mn9",
+  "publish_date": "2023-07-20",
+  "published_at": "2023-07-20T13:03:40Z"
+ },
+ {
+  "id": 1541940,
+  "title": "Design Patterns in PHP 8: Flyweight",
+  "description": "Hello, fellow developers!  Today, we're going to dive into another fascinating design pattern that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DKNuOGW9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jw6dgic5no2uxzbhmk1g.jpg",
+  "slug": "design-patterns-in-php-8-flyweight-5e0h",
+  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-flyweight-5e0h",
+  "publish_date": "2023-07-20",
+  "published_at": "2023-07-20T10:17:56Z"
+ },
+ {
+  "id": 1543154,
+  "title": "Refine Native",
+  "description": "What I built   I build a library for Refine that allows users to use the power of Refine to...",
+  "cover_image": "",
+  "slug": "refine-native-2p1d",
+  "url": "https://dev.to/abdellah711/refine-native-2p1d",
+  "publish_date": "2023-07-20",
+  "published_at": "2023-07-20T10:16:58Z"
+ },
+ {
+  "id": 1542735,
+  "title": "Postman Alternative: Hoppscotch 🛸 - open source, self hosted API Development Ecosystem",
+  "description": "Over the past week, we've observed a growing trend of people seeking alternatives to Postman, as they...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mqTjAAyq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eobfpk6g2yjb4uonw0df.png",
+  "slug": "postman-alternative-hoppscotch-open-source-self-hosted-api-development-ecosystem-9he",
+  "url": "https://dev.to/hoppscotch/postman-alternative-hoppscotch-open-source-self-hosted-api-development-ecosystem-9he",
+  "publish_date": "2023-07-20",
+  "published_at": "2023-07-20T07:09:29Z"
+ },
+ {
   "id": 1542446,
   "title": "Introducing Open Video Game Data: A new approach to evaluating games.",
   "description": "Introduction   My friend Diego and I decided to create a non-profit site called Open Video...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/morgannadev/entendendo-code-no-code-e-low-code-na-automacao-3bcd",
   "publish_date": "2023-04-11",
   "published_at": "2023-04-11T02:08:32Z"
- },
- {
-  "id": 1431713,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TryAkAyh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbkohhu5ky3pozb2j1cy.png",
-  "slug": "meme-monday-41ha",
-  "url": "https://dev.to/ben/meme-monday-41ha",
-  "publish_date": "2023-04-10",
-  "published_at": "2023-04-10T15:36:40Z"
- },
- {
-  "id": 1425312,
-  "title": "Building a new shift-left approach for alerting",
-  "description": "Hi Community! Looking forward to hearing your thoughts on this!  Keep is an open-source alerting CLI...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BoonfvFo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7nbq2d2jh6xand6dft3a.png",
-  "slug": "building-a-new-shift-left-approach-for-alerting-3pj",
-  "url": "https://dev.to/keephq/building-a-new-shift-left-approach-for-alerting-3pj",
-  "publish_date": "2023-04-10",
-  "published_at": "2023-04-10T15:19:50Z"
- },
- {
-  "id": 1429136,
-  "title": "The benefits of using ReactJS in 2023",
-  "description": "ReactJS is a popular JavaScript library used to build user interfaces, while vanilla HTML/CSS is the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jVFTbv73--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/357g6do28t31s685v929.png",
-  "slug": "the-benefits-of-using-reactjs-in-2023-1hfd",
-  "url": "https://dev.to/fredy/the-benefits-of-using-reactjs-in-2023-1hfd",
-  "publish_date": "2023-04-10",
-  "published_at": "2023-04-10T13:13:27Z"
- },
- {
-  "id": 1431372,
-  "title": "Building Pagination in React with React Paginate",
-  "description": "Introduction   Pagination is a crucial component in any web application, as it allows for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4_pxGvZg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cnqj5ubav6tbr7z2aof8.png",
-  "slug": "building-pagination-in-react-with-react-paginate-4nol",
-  "url": "https://dev.to/documatic/building-pagination-in-react-with-react-paginate-4nol",
-  "publish_date": "2023-04-10",
-  "published_at": "2023-04-10T11:30:00Z"
- },
- {
-  "id": 1430575,
-  "title": "5 Books and Courses to Learn Object Oriented Programming in Depth",
-  "description": "Unleash Your OOP Skills: Top Picks for Books and Courses to Master Object Oriented Programming Principles, Design Patterns, and Best Practices ",
-  "cover_image": "",
-  "slug": "5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff",
-  "url": "https://dev.to/javinpaul/5-books-and-courses-to-learn-object-oriented-programming-in-depth-4kff",
-  "publish_date": "2023-04-10",
-  "published_at": "2023-04-10T02:45:55Z"
  }
 ]
