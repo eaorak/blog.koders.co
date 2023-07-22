@@ -1,5 +1,55 @@
 [
  {
+  "id": 1544701,
+  "title": "Commit with a Past Date and Time in Git",
+  "description": "As developers, we sometimes want to change past Git commits. Although true time travel is impossible,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XeRxCzKV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fcidg3fk4s03x2olsktg.png",
+  "slug": "commit-with-a-past-date-and-time-in-git-1j2f",
+  "url": "https://dev.to/pradumnasaraf/commit-with-a-past-date-and-time-in-git-1j2f",
+  "publish_date": "2023-07-21",
+  "published_at": "2023-07-21T16:46:43Z"
+ },
+ {
+  "id": 1544678,
+  "title": "Mastering Object-Oriented Programming with TypeScript: Encapsulation, Abstraction, Inheritance, and Polymorphism Explained",
+  "description": "What is OOPS?   Object-Oriented Programming is a programming paradigm that revolves around...",
+  "cover_image": "",
+  "slug": "mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p",
+  "url": "https://dev.to/rajrathod/mastering-object-oriented-programming-with-typescript-encapsulation-abstraction-inheritance-and-polymorphism-explained-c6p",
+  "publish_date": "2023-07-21",
+  "published_at": "2023-07-21T16:22:54Z"
+ },
+ {
+  "id": 1544611,
+  "title": "Building any open-source projects this weekend?",
+  "description": "Weekends are my sacred time ... where I build my open-source projects.              Papermark - the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---c4RW1NP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ftofyjvq9f8k6kww50v.png",
+  "slug": "building-any-open-source-projects-this-weekend-3o46",
+  "url": "https://dev.to/mfts/building-any-open-source-projects-this-weekend-3o46",
+  "publish_date": "2023-07-21",
+  "published_at": "2023-07-21T15:38:37Z"
+ },
+ {
+  "id": 1543424,
+  "title": "The Best Free# Deploying Your React Application: 8 Free Hosting Services to Consider",
+  "description": "IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js /...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cNdFN2VQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jvxma34ytmw1km0ohmia.png",
+  "slug": "the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3",
+  "url": "https://dev.to/idurar/the-best-free-deploying-your-react-application-8-free-hosting-services-to-consider-df3",
+  "publish_date": "2023-07-21",
+  "published_at": "2023-07-21T13:00:00Z"
+ },
+ {
+  "id": 1480796,
+  "title": "Level Up Your AWS CDK Development: Demystifying integ-runner and integ-test",
+  "description": "Do you ever get frustrated testing your infrastructure and resources' behavior, only to discover...",
+  "cover_image": "",
+  "slug": "level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j",
+  "url": "https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j",
+  "publish_date": "2023-07-21",
+  "published_at": "2023-07-21T10:53:33Z"
+ },
+ {
   "id": 1543358,
   "title": "10 Portfolio Projects you can try as an entry-level Data Analyst/Scientist",
   "description": "I hate the word newbie. If you are in a hurry, skip to the third paragraph. I always do this...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/this-is-learning/the-rear-vue-mirror-my-open-source-origin-story-2i3j",
   "publish_date": "2023-04-12",
   "published_at": "2023-04-12T05:52:51Z"
- },
- {
-  "id": 1432757,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-316h",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-316h",
-  "publish_date": "2023-04-11",
-  "published_at": "2023-04-11T16:53:04Z"
- },
- {
-  "id": 1432714,
-  "title": "Unlock the Power of Static Sites with Next.js: A Guide to Static Site Generation",
-  "description": "Introduction   Static site generation is a powerful tool to improve the application's speed,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vhktvFMd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ix4n2t9vorbi3i1gcj7u.jpg",
-  "slug": "unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j",
-  "url": "https://dev.to/hi_iam_chris/unlock-the-power-of-static-sites-with-nextjs-a-guide-to-static-site-generation-4c5j",
-  "publish_date": "2023-04-11",
-  "published_at": "2023-04-11T14:48:11Z"
- },
- {
-  "id": 1411068,
-  "title": "Mastering Web Accessibility: A Guide for Frontend Developers",
-  "description": "Table of Contents   I. Introduction  II. What is web accessibility?  III. Why is web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hyunbNwf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nuy7ebelbpy146pzskkw.png",
-  "slug": "mastering-web-accessibility-a-guide-for-frontend-developers-48ad",
-  "url": "https://dev.to/bellatrick/mastering-web-accessibility-a-guide-for-frontend-developers-48ad",
-  "publish_date": "2023-04-11",
-  "published_at": "2023-04-11T11:07:20Z"
- },
- {
-  "id": 1432258,
-  "title": "Javascript Object #6",
-  "description": "Welcome All,  Till our Last Post we've seen only pretty basics in Javascript.From now we are going to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vx4g3fkQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3wdsk6s0ngoxf1ovkrhz.png",
-  "slug": "javascript-object-6-2a71",
-  "url": "https://dev.to/samr/javascript-object-6-2a71",
-  "publish_date": "2023-04-11",
-  "published_at": "2023-04-11T04:22:59Z"
- },
- {
-  "id": 1430336,
-  "title": "Entendendo code, no-code e low-code na automação",
-  "description": "Você sabia que existem essas três formas de criar aplicações para automação de tarefas? Vamos...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P8Crbv0g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cdfy25wxri1g70bz1sct.png",
-  "slug": "entendendo-code-no-code-e-low-code-na-automacao-3bcd",
-  "url": "https://dev.to/morgannadev/entendendo-code-no-code-e-low-code-na-automacao-3bcd",
-  "publish_date": "2023-04-11",
-  "published_at": "2023-04-11T02:08:32Z"
  }
 ]
