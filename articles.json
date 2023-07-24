@@ -1,5 +1,55 @@
 [
  {
+  "id": 1546230,
+  "title": "Open-Source Site Builder - Simpllo",
+  "description": "Open-source Drag \u0026 Drop visual tool built with VanillaJs and Bootstrap5 Components",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IyHKLLTv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxbipamauyg6viha6ot8.jpg",
+  "slug": "free-open-source-website-builder-42bc",
+  "url": "https://dev.to/sm0ke/free-open-source-website-builder-42bc",
+  "publish_date": "2023-07-23",
+  "published_at": "2023-07-23T12:01:01Z"
+ },
+ {
+  "id": 1546228,
+  "title": "Object-Oriented Programming (OOP) in JavaScript",
+  "description": "Let's start a journey into the world of programming with a fun analogy. Imagine you're at a bustling...",
+  "cover_image": "",
+  "slug": "object-oriented-programming-oop-in-javascript-cfm",
+  "url": "https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm",
+  "publish_date": "2023-07-23",
+  "published_at": "2023-07-23T11:53:57Z"
+ },
+ {
+  "id": 1546207,
+  "title": "Django Caching 101: Understanding the Basics and Beyond",
+  "description": "In today's world of web development, website speed and performance are paramount. Users expect...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P0_6QtpK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jihrzg0w1h5nwl9im70y.png",
+  "slug": "django-caching-101-understanding-the-basics-and-beyond-49p",
+  "url": "https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p",
+  "publish_date": "2023-07-23",
+  "published_at": "2023-07-23T11:25:44Z"
+ },
+ {
+  "id": 1546081,
+  "title": "SOLID: Single Responsibility Principle With Examples",
+  "description": "In this article, you will learn about the following:   What is SRP? Importance of SRP in software...",
+  "cover_image": "",
+  "slug": "solid-single-responsibility-principle-with-examples-h0f",
+  "url": "https://dev.to/ggorantala/solid-single-responsibility-principle-with-examples-h0f",
+  "publish_date": "2023-07-23",
+  "published_at": "2023-07-23T07:40:20Z"
+ },
+ {
+  "id": 1545950,
+  "title": "How to Add \"Install App\" Option to Your Website: Progressive Web Apps",
+  "description": "Section 1   Title: How to Add \"Install App\" Option to Your Website: Enhance User Experience...",
+  "cover_image": "",
+  "slug": "how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3",
+  "url": "https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3",
+  "publish_date": "2023-07-23",
+  "published_at": "2023-07-23T02:56:32Z"
+ },
+ {
   "id": 1545547,
   "title": "TCP/IP Network Model💻 : Deep Dive with an example",
   "description": "So, let's get started😃.   The TCP/IP model is a conceptual framework used for understanding and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/my-favorite-python-books-and-courses-for-beginners-7gb",
   "publish_date": "2023-04-14",
   "published_at": "2023-04-14T02:42:14Z"
- },
- {
-  "id": 1429459,
-  "title": "Take It Slow \u0026 Say Hello: A Sloth’s Guide to Making Friends Online",
-  "description": "Introducing yourself to a new online community is exciting, but it can also be intimidating. Here are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y5v-axNz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vmnthwox330d9zptn9ur.png",
-  "slug": "take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61",
-  "url": "https://dev.to/codenewbieteam/take-it-slow-say-hello-a-sloths-guide-to-making-friends-online-a61",
-  "publish_date": "2023-04-13",
-  "published_at": "2023-04-13T17:14:27Z"
- },
- {
-  "id": 1434380,
-  "title": "Request Tracing in Node.js",
-  "description": "Achieving observability into Node.js applications with request tracing.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gv-GZj60--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/request-tracing-in-nodejs/hero.png",
-  "slug": "request-tracing-in-nodejs-3k57",
-  "url": "https://dev.to/amplication/request-tracing-in-nodejs-3k57",
-  "publish_date": "2023-04-13",
-  "published_at": "2023-04-13T15:27:54Z"
- },
- {
-  "id": 1413847,
-  "title": "No execution logs on AWS Express workflow? 🤔 📖",
-  "description": "How to have logs for an Express Workflows on AWS Step Functions with the CDK",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1xOTdSe0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/MaximeVivier/Articles/master/blog-posts/step-function-learnings/assets/banner.png",
-  "slug": "no-execution-logs-on-aws-express-workflow-240p",
-  "url": "https://dev.to/kumo/no-execution-logs-on-aws-express-workflow-240p",
-  "publish_date": "2023-04-13",
-  "published_at": "2023-04-13T14:26:01Z"
- },
- {
-  "id": 1430898,
-  "title": "The importance of rel=canonical for content writers",
-  "description": "The subject of canonical reference has been touched thousand times. But since some content writers...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5p8z4wmA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjqmtjbeht908bnkbjpj.jpg",
-  "slug": "the-importance-of-relcanonical-for-content-writers-4o8f",
-  "url": "https://dev.to/nfrankel/the-importance-of-relcanonical-for-content-writers-4o8f",
-  "publish_date": "2023-04-13",
-  "published_at": "2023-04-13T09:03:00Z"
- },
- {
-  "id": 1434379,
-  "title": "Costly CSS Properties and How to Optimize Them",
-  "description": "Introduction   Some CSS properties are more costly than others in terms of performance. When...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s----0hNPBr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8t8gjch65bjodl9jfvwa.jpg",
-  "slug": "costly-css-properties-and-how-to-optimize-them-3bmd",
-  "url": "https://dev.to/leduc1901/costly-css-properties-and-how-to-optimize-them-3bmd",
-  "publish_date": "2023-04-13",
-  "published_at": "2023-04-13T04:10:29Z"
  }
 ]
