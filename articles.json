@@ -1,5 +1,55 @@
 [
  {
+  "id": 1547724,
+  "title": "How to Save the Data in IPFS Using the Pinata(2023)",
+  "description": "Hello Everyone! Thank you for your interest in my article. This is Crypto Ninja's first article. And...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dlSlkVLA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qq8gqtasospkw9y2lcgx.png",
+  "slug": "how-to-save-the-data-in-ipfs-using-the-pinata2023-1p0g",
+  "url": "https://dev.to/cryptoninja0617/how-to-save-the-data-in-ipfs-using-the-pinata2023-1p0g",
+  "publish_date": "2023-07-24",
+  "published_at": "2023-07-24T21:32:46Z"
+ },
+ {
+  "id": 1547255,
+  "title": "Build an Inventory and Order Management App with Google Sheets and ToolJet",
+  "description": "Efficient supply chain management is vital for businesses aiming to optimize operations and drive...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6OWm2e9a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k81uuvrfq82pwbggmyw4.png",
+  "slug": "building-an-inventory-and-order-management-app-with-google-sheets-and-tooljet-4jjf",
+  "url": "https://dev.to/tooljet/building-an-inventory-and-order-management-app-with-google-sheets-and-tooljet-4jjf",
+  "publish_date": "2023-07-24",
+  "published_at": "2023-07-24T12:57:34Z"
+ },
+ {
+  "id": 1546053,
+  "title": "🚀 Building a contacts management system with NextJS, Supabase, and Flatfile 🥂",
+  "description": "TL;DR   Today I am going to build a contacts management system:   You can add all your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lr4u5OYC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z1ad2oga10spyi4mg3zo.png",
+  "slug": "building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6",
+  "url": "https://dev.to/github20k/building-a-contacts-management-system-with-nextjs-supabase-and-flatfile-5dk6",
+  "publish_date": "2023-07-24",
+  "published_at": "2023-07-24T12:30:23Z"
+ },
+ {
+  "id": 1546624,
+  "title": "Building a coffee delivery chatbot with React, ChatGPT and TypeChat 🤖",
+  "description": "TL;DR   In this article I am going to show how to build a coffee delivery service in React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--64yqvz43--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l8uvyge9n37r23r7wdha.png",
+  "slug": "building-a-coffe-delivery-chatbot-with-react-chatgpt-and-typechat-1go0",
+  "url": "https://dev.to/dev_bre/building-a-coffe-delivery-chatbot-with-react-chatgpt-and-typechat-1go0",
+  "publish_date": "2023-07-24",
+  "published_at": "2023-07-24T10:56:30Z"
+ },
+ {
+  "id": 1547104,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T0TbYt3u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w82kdkj7bpeaponf17bq.png",
+  "slug": "meme-monday-43eo",
+  "url": "https://dev.to/ben/meme-monday-43eo",
+  "publish_date": "2023-07-24",
+  "published_at": "2023-07-24T09:45:26Z"
+ },
+ {
   "id": 1546230,
   "title": "Open-Source Site Builder - Simpllo",
   "description": "Open-source Drag \u0026 Drop visual tool built with VanillaJs and Bootstrap5 Components",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cassidoo/three-ways-to-set-headers-with-netlify-and-astro-1iib",
   "publish_date": "2023-04-15",
   "published_at": "2023-04-15T01:57:10Z"
- },
- {
-  "id": 1436070,
-  "title": "How to Create a Good Pull Request Template (and Why You Should Add Gifs)",
-  "description": "Learn how to create a great Pull Request template that improves collaboration between contributors and maintainers. Plus, find out why adding gifs can make the PR experience more fun and engaging.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--f8hpdedL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tj0baromkd72zhsfbcf0.png",
-  "slug": "how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l",
-  "url": "https://dev.to/opensauced/how-to-create-a-good-pull-request-template-and-why-you-should-add-gifs-4i0l",
-  "publish_date": "2023-04-14",
-  "published_at": "2023-04-14T17:39:14Z"
- },
- {
-  "id": 1435965,
-  "title": "Benchmarking Rust for Serverless",
-  "description": "Let's start with two very important questions:  (1)  Why should I care to benchmark Rust since it's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jQ8K8lLT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j3dk7sl1oamv9khwzuwt.png",
-  "slug": "benchmarking-rust-for-serverless-36ck",
-  "url": "https://dev.to/aws-builders/benchmarking-rust-for-serverless-36ck",
-  "publish_date": "2023-04-14",
-  "published_at": "2023-04-14T14:35:19Z"
- },
- {
-  "id": 1435758,
-  "title": "CSS Tip: learn CSS the easy way!",
-  "description": "Do you want to learn CSS? Are you lost in all the courses, tutorials, and online stuff? The code is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--13MgBgSJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jy8dkrmzp77n2h3e2ika.jpg",
-  "slug": "css-tip-learn-css-the-easy-way-im4",
-  "url": "https://dev.to/this-is-learning/css-tip-learn-css-the-easy-way-im4",
-  "publish_date": "2023-04-14",
-  "published_at": "2023-04-14T12:38:42Z"
- },
- {
-  "id": 1435585,
-  "title": "Docker Unleashed: Mastering Commands, Basics, Learning Resources, and Career Prospects",
-  "description": "TL;DR (Too Long; Didn't Read) summary for the Docker blog:   Docker Unleashed: A Comprehensive Guide...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2-JK-ZBz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z72nzkxkmql4uaipnuid.jpg",
-  "slug": "docker-unleashed-commands-basics-learning-careers-2gnk",
-  "url": "https://dev.to/rishitashaw/docker-unleashed-commands-basics-learning-careers-2gnk",
-  "publish_date": "2023-04-14",
-  "published_at": "2023-04-14T08:52:29Z"
- },
- {
-  "id": 1435371,
-  "title": "My Favorite Python Books and Courses for Beginners",
-  "description": "My favorite books and online courses to learn Coding with Python programming language.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fvx98-_q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wwfpc2ahlvnlx73wf8zh.png",
-  "slug": "my-favorite-python-books-and-courses-for-beginners-7gb",
-  "url": "https://dev.to/javinpaul/my-favorite-python-books-and-courses-for-beginners-7gb",
-  "publish_date": "2023-04-14",
-  "published_at": "2023-04-14T02:42:14Z"
  }
 ]
