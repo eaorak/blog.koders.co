@@ -1,5 +1,55 @@
 [
  {
+  "id": 1548494,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-3a6o",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3a6o",
+  "publish_date": "2023-07-25",
+  "published_at": "2023-07-25T15:08:22Z"
+ },
+ {
+  "id": 1544597,
+  "title": "🏆 Top 5 full-stack JS frameworks in 2023 - which one should you pick for your next project? 🤔",
+  "description": "In this post, we'll explore five of the top full-stack JavaScript frameworks of 2023 that every...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a6w3mWYK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wpt80izd6kdsfzrl9njh.png",
+  "slug": "top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6",
+  "url": "https://dev.to/matijasos/top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6",
+  "publish_date": "2023-07-25",
+  "published_at": "2023-07-25T13:00:00Z"
+ },
+ {
+  "id": 1548371,
+  "title": "Enhancing TypeScript's Power: Unleashing the Practical Use of Generics",
+  "description": "In this article, I will show you some real-life examples of how Generics are used, based on my own...",
+  "cover_image": "",
+  "slug": "enhancing-typescripts-power-unleashing-the-practical-use-of-generics-d45",
+  "url": "https://dev.to/ultroneoustech/enhancing-typescripts-power-unleashing-the-practical-use-of-generics-d45",
+  "publish_date": "2023-07-25",
+  "published_at": "2023-07-25T11:23:08Z"
+ },
+ {
+  "id": 1548001,
+  "title": "What Are SOLID Design Principles",
+  "description": "SOLID is an acronym for the first five Object-Oriented design (OOD) principles by Robert C....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--El_4L7dt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/07rpmh6l2317qeeg5p1c.png",
+  "slug": "what-are-solid-design-principles-1n22",
+  "url": "https://dev.to/ggorantala/what-are-solid-design-principles-1n22",
+  "publish_date": "2023-07-25",
+  "published_at": "2023-07-25T04:38:11Z"
+ },
+ {
+  "id": 1547994,
+  "title": "How To Construct An Array-Like Data Structure?",
+  "description": "You will learn to implement a custom array-like data structure and basic array operations.          ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IipG8bkA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/513ark7gef5gwlsx14ca.png",
+  "slug": "how-to-construct-an-array-like-data-structure-255k",
+  "url": "https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k",
+  "publish_date": "2023-07-25",
+  "published_at": "2023-07-25T04:13:32Z"
+ },
+ {
   "id": 1547724,
   "title": "How to Save the Data in IPFS Using the Pinata(2023)",
   "description": "Hello Everyone! Thank you for your interest in my article. This is Crypto Ninja's first article. And...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce",
   "publish_date": "2023-04-16",
   "published_at": "2023-04-16T06:25:54Z"
- },
- {
-  "id": 1435751,
-  "title": "30 Free CSS Loading Animation for your website in 2023",
-  "description": "We will use Lottie files   Lottie files Effortlessly bring the smallest, free, ready-to-use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w0wfLSSy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgj63jriey8v7iguculi.gif",
-  "slug": "30-free-css-loading-animation-for-your-website-in-2023-1j1a",
-  "url": "https://dev.to/jon_snow789/30-free-css-loading-animation-for-your-website-in-2023-1j1a",
-  "publish_date": "2023-04-15",
-  "published_at": "2023-04-15T16:24:09Z"
- },
- {
-  "id": 1436769,
-  "title": "Setting up Git Bash / MINGW / MSYS2 on Windows",
-  "description": "An installation instruction for Git Bash / MINGW / MSYS2 on Windows with some notes on solving common...",
-  "cover_image": "",
-  "slug": "setting-up-git-bash-mingw-msys2-on-windows-24cc",
-  "url": "https://dev.to/pascallandau/setting-up-git-bash-mingw-msys2-on-windows-24cc",
-  "publish_date": "2023-04-15",
-  "published_at": "2023-04-15T12:25:38Z"
- },
- {
-  "id": 1436579,
-  "title": "Javascript Object #10",
-  "description": "So far in our long Javascript Object post,we have seen about Javascript Object creation, what is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X8pfj1tB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wgy27tiofyd1805mz2s3.jpg",
-  "slug": "javascript-object-10-2c9g",
-  "url": "https://dev.to/samr/javascript-object-10-2c9g",
-  "publish_date": "2023-04-15",
-  "published_at": "2023-04-15T06:21:40Z"
- },
- {
-  "id": 1436573,
-  "title": "Blazor WebAssembly vs. Blazor Server: Which One Should You Choose?",
-  "description": "Blazor, the open-source web framework from Microsoft, allows developers to build web applications...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pDh3w23P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8apvzb5wjojce27edau9.png",
-  "slug": "blazor-webassembly-vs-blazor-server-which-one-should-you-choose-350d",
-  "url": "https://dev.to/bhavin9920/blazor-webassembly-vs-blazor-server-which-one-should-you-choose-350d",
-  "publish_date": "2023-04-15",
-  "published_at": "2023-04-15T05:51:55Z"
- },
- {
-  "id": 1436448,
-  "title": "Three ways to set headers with Netlify and Astro",
-  "description": "If you need to set headers in your Astro site to deal with CORS or custom requests, here's a few ways how!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fZxsH_HJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1495020689067-958852a7765e%3Fixlib%3Drb-4.0.3%26ixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26auto%3Dformat%26fit%3Dcrop%26w%3D1738%26q%3D80",
-  "slug": "three-ways-to-set-headers-with-netlify-and-astro-1iib",
-  "url": "https://dev.to/cassidoo/three-ways-to-set-headers-with-netlify-and-astro-1iib",
-  "publish_date": "2023-04-15",
-  "published_at": "2023-04-15T01:57:10Z"
  }
 ]
