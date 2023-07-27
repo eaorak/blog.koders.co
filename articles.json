@@ -1,5 +1,55 @@
 [
  {
+  "id": 1549678,
+  "title": "Cursive - The intuitive LLM framework",
+  "description": "When interfacing with LLMs, builders often find themselves between using extremely bloated frameworks...",
+  "cover_image": "",
+  "slug": "cursive-the-intuitive-llm-framework-2b05",
+  "url": "https://dev.to/henrycunh/cursive-the-intuitive-llm-framework-2b05",
+  "publish_date": "2023-07-26",
+  "published_at": "2023-07-26T13:57:50Z"
+ },
+ {
+  "id": 1537426,
+  "title": "How to Change a Webpage UI with a Chrome Extension",
+  "description": "Have you ever wondered how chrome extensions can change the UI of some of your favorite websites,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_pdSAn6K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecq4mz0ip2wu89uomfgh.png",
+  "slug": "how-to-change-a-webpage-ui-with-a-chrome-extension-jn8",
+  "url": "https://dev.to/opensauced/how-to-change-a-webpage-ui-with-a-chrome-extension-jn8",
+  "publish_date": "2023-07-26",
+  "published_at": "2023-07-26T13:54:46Z"
+ },
+ {
+  "id": 1549567,
+  "title": "Kube or Fake: A Kubernetes Minigame",
+  "description": "Raftt is excited to announce the launch of Kube or Fake?, our latest web mini-game. In this game, you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rIvKZiTS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hp5iy7kw0980h19p8c5y.png",
+  "slug": "kube-or-fake-a-kubernetes-minigame-52jf",
+  "url": "https://dev.to/gsaraf/kube-or-fake-a-kubernetes-minigame-52jf",
+  "publish_date": "2023-07-26",
+  "published_at": "2023-07-26T12:15:02Z"
+ },
+ {
+  "id": 1529199,
+  "title": "How we made the new report feature of sls-mentor",
+  "description": "Feature insight: sls-mentor awesome new report",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GIxQgB0u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/QuentinNativel/articles/master/blog-posts/cli-reporting/assets/dummy-report-100.png",
+  "slug": "generate-pretty-reports-from-your-cli-tool-1m83",
+  "url": "https://dev.to/kumo/generate-pretty-reports-from-your-cli-tool-1m83",
+  "publish_date": "2023-07-26",
+  "published_at": "2023-07-26T11:51:16Z"
+ },
+ {
+  "id": 1515616,
+  "title": "Learn serverless on AWS step-by-step - SNS",
+  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YuIsSJwl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/sns/assets/cover.png",
+  "slug": "learn-serverless-on-aws-step-by-step-sns-2b46",
+  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sns-2b46",
+  "publish_date": "2023-07-26",
+  "published_at": "2023-07-26T09:52:05Z"
+ },
+ {
   "id": 1548494,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8",
   "publish_date": "2023-04-17",
   "published_at": "2023-04-17T05:18:26Z"
- },
- {
-  "id": 1437692,
-  "title": "How To Use MVVM in React Using Hooks and TypeScript",
-  "description": "Software applications often start out simple and quickly grows big. No matter how small one try to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mzSZAauG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idu88e0p1tf66gxqtnmf.png",
-  "slug": "how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m",
-  "url": "https://dev.to/perssondennis/how-to-use-mvvm-in-react-using-hooks-and-typescript-3o4m",
-  "publish_date": "2023-04-16",
-  "published_at": "2023-04-16T15:29:52Z"
- },
- {
-  "id": 1437484,
-  "title": "5 Amazing Project Ideas To Get Hired As A Full-Stack Developer 🔥",
-  "description": "A post by Ram Maheshwari ⚡",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mKwFPgUs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o36a2idiisx3mpb6vbqx.jpg",
-  "slug": "5-amazing-project-ideas-to-get-hired-as-a-full-stack-developer-5lg",
-  "url": "https://dev.to/rammcodes/5-amazing-project-ideas-to-get-hired-as-a-full-stack-developer-5lg",
-  "publish_date": "2023-04-16",
-  "published_at": "2023-04-16T10:19:55Z"
- },
- {
-  "id": 1437180,
-  "title": "How to Build a Fully Functional ToDo SaaS Using Next.js and ZenStack's Access Control Policy",
-  "description": "Almost all the SaaS now is collaborative, from the originator Salesforce to the newly emerging one...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YqAAzG0P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wqi29226wfd3luwqypo0.jpg",
-  "slug": "how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p",
-  "url": "https://dev.to/zenstack/how-to-build-a-fully-functional-todo-saas-using-nextjs-and-zenstacks-access-control-policy-408p",
-  "publish_date": "2023-04-16",
-  "published_at": "2023-04-16T09:10:36Z"
- },
- {
-  "id": 1437439,
-  "title": "C# (C Sharp) CRUD Rest API using .NET 7, ASP.NET, Entity Framework, Postgres, Docker and Docker Compose",
-  "description": "Let's create a CRUD Rest API in C# (or C sharp), using:   .NET 7  ASP.NET (Framework for building web...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qeq4QPk_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kpykhadexskst0kbk7x8.png",
-  "slug": "c-c-sharp-crud-rest-api-using-net-7-aspnet-entity-framework-postgres-docker-and-docker-compose-493a",
-  "url": "https://dev.to/francescoxx/c-c-sharp-crud-rest-api-using-net-7-aspnet-entity-framework-postgres-docker-and-docker-compose-493a",
-  "publish_date": "2023-04-16",
-  "published_at": "2023-04-16T08:06:08Z"
- },
- {
-  "id": 1436799,
-  "title": "My Favorite Courses to learn Microservices in Depth",
-  "description": "My favorite online courses to learn Microservices architecture and implementation in Java using Spring Boot and Spring Cloud. ",
-  "cover_image": "",
-  "slug": "my-favorite-courses-to-learn-microservices-in-depth-35ce",
-  "url": "https://dev.to/javinpaul/my-favorite-courses-to-learn-microservices-in-depth-35ce",
-  "publish_date": "2023-04-16",
-  "published_at": "2023-04-16T06:25:54Z"
  }
 ]
