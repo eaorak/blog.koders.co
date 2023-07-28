@@ -1,5 +1,55 @@
 [
  {
+  "id": 1550865,
+  "title": "Benchmarking String Literal (\"\") vs Template Literal (``) - using Performance.now()",
+  "description": "Let's talk about String in JavaScript. There are 2 ways developers can define a string:  a. Using...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YzLlXzwX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eht7bgs0rs3z00zz3dtv.png",
+  "slug": "benchmarking-string-literal-vs-template-literal-using-performancenow-49gh",
+  "url": "https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-49gh",
+  "publish_date": "2023-07-27",
+  "published_at": "2023-07-27T12:25:47Z"
+ },
+ {
+  "id": 1550771,
+  "title": "Debugging Simplified with console.ai()",
+  "description": "Debugging often feels to me like finding a needle in a haystack, which is why we did this new tool,...",
+  "cover_image": "",
+  "slug": "debugging-simplified-with-consoleai-5ekc",
+  "url": "https://dev.to/victorforissier/debugging-simplified-with-consoleai-5ekc",
+  "publish_date": "2023-07-27",
+  "published_at": "2023-07-27T12:13:48Z"
+ },
+ {
+  "id": 1544546,
+  "title": "Apache APISIX without etcd",
+  "description": "etcd is an excellent key-value distributed database used internally by Kubernetes and managed by the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--To2qFKlH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7203najy6l2dmydkdb62.jpg",
+  "slug": "apache-apisix-without-etcd-221f",
+  "url": "https://dev.to/apisix/apache-apisix-without-etcd-221f",
+  "publish_date": "2023-07-27",
+  "published_at": "2023-07-27T08:40:43Z"
+ },
+ {
+  "id": 1550564,
+  "title": "LLM(Large Language Models) for better developer learning of your product",
+  "description": "Developing a tech product is not just about coding and deployment. It’s about the learning journey...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-AB26nh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ar4az25skroyri8jzeg.png",
+  "slug": "llmlarge-language-models-for-better-developer-learning-of-your-product-2aa8",
+  "url": "https://dev.to/bobur/llmlarge-language-models-for-better-developer-learning-of-your-product-2aa8",
+  "publish_date": "2023-07-27",
+  "published_at": "2023-07-27T07:59:21Z"
+ },
+ {
+  "id": 1550558,
+  "title": "Why Developers Should Use Preview Environments",
+  "description": "Check out the latest episode in the Open Source Cafe podcast, where Assaf Krintza (@assafkr -...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ehW9FVPE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1m75wmv8f6leym8qtcku.jpeg",
+  "slug": "why-developers-should-use-preview-environments-31io",
+  "url": "https://dev.to/livecycle/why-developers-should-use-preview-environments-31io",
+  "publish_date": "2023-07-27",
+  "published_at": "2023-07-27T07:52:00Z"
+ },
+ {
   "id": 1549678,
   "title": "Cursive - The intuitive LLM framework",
   "description": "When interfacing with LLMs, builders often find themselves between using extremely bloated frameworks...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4",
   "publish_date": "2023-04-18",
   "published_at": "2023-04-18T02:44:19Z"
- },
- {
-  "id": 1438665,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HGcbn-TZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qanqat0vbzv9o49cs7r4.png",
-  "slug": "meme-monday-4j21",
-  "url": "https://dev.to/ben/meme-monday-4j21",
-  "publish_date": "2023-04-17",
-  "published_at": "2023-04-17T12:48:08Z"
- },
- {
-  "id": 1438542,
-  "title": "C# 12 is Coming! 3 Features that will Blow your Mind",
-  "description": "Oh, get ready for some good news! Microsoft’s gone and added a bunch of shiny new features to C# 12...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B_UPZ4Kv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r9rlb3k9uweuj45d7pe.png",
-  "slug": "c-12-is-coming-3-features-that-will-blow-your-mind-2o0c",
-  "url": "https://dev.to/bytehide/c-12-is-coming-3-features-that-will-blow-your-mind-2o0c",
-  "publish_date": "2023-04-17",
-  "published_at": "2023-04-17T11:25:58Z"
- },
- {
-  "id": 1438304,
-  "title": "CI Pipelines for dockerized PHP Apps with Github \u0026 Gitlab [Tutorial Part 7]",
-  "description": "How to setup CI (Continuous Integration) pipelines for dockerized PHP applications with Github...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgb6eHRH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.pascallandau.com/img/ci-pipeline-docker-php-gitlab-github/yt-preview-image.png",
-  "slug": "ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2",
-  "url": "https://dev.to/pascallandau/ci-pipelines-for-dockerized-php-apps-with-github-gitlab-tutorial-part-7-5gc2",
-  "publish_date": "2023-04-17",
-  "published_at": "2023-04-17T07:17:19Z"
- },
- {
-  "id": 1429026,
-  "title": "Dynamic routing based on user credentials with API Gateway",
-  "description": "Dynamic routing based on JWT Claim with Apache APISIX and Okta   Dynamic routing is a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PsK_haeq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/glixe9h4v58ae3o8s3fz.png",
-  "slug": "dynamic-routing-based-on-user-credentials-with-api-gateway-4j7a",
-  "url": "https://dev.to/apisix/dynamic-routing-based-on-user-credentials-with-api-gateway-4j7a",
-  "publish_date": "2023-04-17",
-  "published_at": "2023-04-17T05:33:00Z"
- },
- {
-  "id": 1429007,
-  "title": "Build a Real-time Chat Application with Socket.io and Node.js [With Automated Testing]",
-  "description": "In this tutorial, let's learn how to use Socket.IO and Node.js and create a simple chat application....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---VVUZTez--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f58aklivn8pnxgl5hya9.png",
-  "slug": "build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8",
-  "url": "https://dev.to/pavanbelagatti/build-a-real-time-chat-application-with-socketio-and-nodejs-with-automated-testing-38h8",
-  "publish_date": "2023-04-17",
-  "published_at": "2023-04-17T05:18:26Z"
  }
 ]
