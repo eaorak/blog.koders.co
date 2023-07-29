@@ -1,5 +1,55 @@
 [
  {
+  "id": 1552320,
+  "title": "Featured Mod of the Month: Thomas Bnt",
+  "description": "In this series, we shine a spotlight on the different DEV moderators — Trusted Members and Tag Mods —...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---6igpO2X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tef4uuh9jwfg5dpz6gzg.jpeg",
+  "slug": "featured-mod-of-the-month-thomas-bnt-4lo3",
+  "url": "https://dev.to/devteam/featured-mod-of-the-month-thomas-bnt-4lo3",
+  "publish_date": "2023-07-28",
+  "published_at": "2023-07-28T18:09:01Z"
+ },
+ {
+  "id": 1552213,
+  "title": "Building Resilient Systems with Idempotent APIs",
+  "description": "Networks are unreliable but our systems cannot be.            What is Idempotency?   Idempotency is...",
+  "cover_image": "",
+  "slug": "building-resilient-systems-with-idempotent-apis-5e5p",
+  "url": "https://dev.to/karishmashukla/building-resilient-systems-with-idempotent-apis-5e5p",
+  "publish_date": "2023-07-28",
+  "published_at": "2023-07-28T15:21:47Z"
+ },
+ {
+  "id": 1518946,
+  "title": "What was your win this week?",
+  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vsTDfqRZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyck78r593005hlbngyn.jpg",
+  "slug": "what-was-your-win-this-week-5fll",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-5fll",
+  "publish_date": "2023-07-28",
+  "published_at": "2023-07-28T09:30:00Z"
+ },
+ {
+  "id": 1529959,
+  "title": "Assertions: How to Assert Conditions and Types",
+  "description": "The asserts statement was introduced in TypeScript 3.7. It's a special type of function signature...",
+  "cover_image": "",
+  "slug": "assertions-how-to-assert-conditions-and-types-mep",
+  "url": "https://dev.to/zirkelc/assertions-how-to-assert-conditions-and-types-mep",
+  "publish_date": "2023-07-28",
+  "published_at": "2023-07-28T08:34:01Z"
+ },
+ {
+  "id": 1551687,
+  "title": "Mastering Git Shortcuts: A Guide to Git Aliases",
+  "description": "Are you tired of typing lengthy Git commands? Git aliases are here to save the day! They let you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zyu15zrt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5oib7pb2ixwqitvdux7p.png",
+  "slug": "mastering-git-shortcuts-a-guide-to-git-aliases-324j",
+  "url": "https://dev.to/pradumnasaraf/mastering-git-shortcuts-a-guide-to-git-aliases-324j",
+  "publish_date": "2023-07-28",
+  "published_at": "2023-07-28T06:59:13Z"
+ },
+ {
   "id": 1550865,
   "title": "Benchmarking String Literal (\"\") vs Template Literal (``) - using Performance.now()",
   "description": "Let's talk about String in JavaScript. There are 2 ways developers can define a string:  a. Using...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l",
   "publish_date": "2023-04-19",
   "published_at": "2023-04-19T07:36:19Z"
- },
- {
-  "id": 1439963,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-4o7a",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4o7a",
-  "publish_date": "2023-04-18",
-  "published_at": "2023-04-18T19:02:49Z"
- },
- {
-  "id": 1436058,
-  "title": "How to Add Writing Assistance to Any JavaScript App in Minutes",
-  "description": "You’ve launched your app. Maybe it’s the next great blogging platform, marketplace, or social media...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q9XcUA5t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s5u2it71na7791m8uewt.jpg",
-  "slug": "how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh",
-  "url": "https://dev.to/grammarlydevs/how-to-add-writing-assistance-to-any-javascript-app-in-minutes-nbh",
-  "publish_date": "2023-04-18",
-  "published_at": "2023-04-18T14:30:00Z"
- },
- {
-  "id": 1439687,
-  "title": "Supercharge your geolocalized DynamoDB Queries with Z-Order Indexing 🚀",
-  "description": "TL;DR: Embark on our journey to enhance DynamoDB geospatial queries with custom Z-Order indexing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QD4TI7jI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n316gwlpfuh7oqqznuh.png",
-  "slug": "supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8",
-  "url": "https://dev.to/kumo/supercharge-your-geolocalized-dynamodb-queries-with-z-order-indexing-2oo8",
-  "publish_date": "2023-04-18",
-  "published_at": "2023-04-18T12:06:03Z"
- },
- {
-  "id": 1439361,
-  "title": "Love Mongodb ? Try Tigris db once.",
-  "description": "Tigris db is one the best no sql database I came across after the mongodb.  We love mongodb for it's...",
-  "cover_image": "",
-  "slug": "love-mongodb-try-tigris-db-once-52pn",
-  "url": "https://dev.to/raviagheda/love-mongodb-try-tigris-db-once-52pn",
-  "publish_date": "2023-04-18",
-  "published_at": "2023-04-18T05:12:54Z"
- },
- {
-  "id": 1439223,
-  "title": "7 Free Courses to Learn Microsoft Azure Cloud Platform",
-  "description": "These are my favorite online courses to learn Microsoft Azure Cloud Platform from Udemy, Coursera, Pluralsight, YouTube etc",
-  "cover_image": "",
-  "slug": "7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4",
-  "url": "https://dev.to/javinpaul/7-free-courses-to-learn-microsoft-azure-cloud-platform-bg4",
-  "publish_date": "2023-04-18",
-  "published_at": "2023-04-18T02:44:19Z"
  }
 ]
