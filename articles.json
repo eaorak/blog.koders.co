@@ -1,5 +1,55 @@
 [
  {
+  "id": 1552987,
+  "title": "Design Patterns in PHP 8: Simple factory",
+  "description": "Hello, fellow developers!🧑🏼‍💻  Today, we're going to delve into the Simple Factory pattern. This...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_0kvn3PS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g4v2tqx3h1obq82ayzc2.jpg",
+  "slug": "design-patterns-in-php-8-simple-factory-o0l",
+  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-simple-factory-o0l",
+  "publish_date": "2023-07-29",
+  "published_at": "2023-07-29T23:04:56Z"
+ },
+ {
+  "id": 1553299,
+  "title": "Work Types.",
+  "description": "Many People start working but they don't know the different types of they can do, here we can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lZlcS89c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbi3fx0mxmabh313sbkz.jpg",
+  "slug": "work-types-1564",
+  "url": "https://dev.to/hasanelsherbiny/work-types-1564",
+  "publish_date": "2023-07-29",
+  "published_at": "2023-07-29T17:20:34Z"
+ },
+ {
+  "id": 1553172,
+  "title": "Website cookies 🍪",
+  "description": "Hi there, My name is Wonuola; I’m a front-end developer, a podcaster, and a writer. I want to start...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QdyfSqLl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27yfp02lmrkmkptywl5g.png",
+  "slug": "website-cookies-3l2g",
+  "url": "https://dev.to/wonuola_w/website-cookies-3l2g",
+  "publish_date": "2023-07-29",
+  "published_at": "2023-07-29T13:38:09Z"
+ },
+ {
+  "id": 1553083,
+  "title": "[Typia] Hidden Class Optimization of v8 Engine",
+  "description": "Preface      // RUNTIME VALIDATORS export function is\u0026lt;T\u0026gt;(input: unknown | T): input is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AKKjf45g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zgfggvrkoj4osgtejojc.jpg",
+  "slug": "secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb",
+  "url": "https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb",
+  "publish_date": "2023-07-29",
+  "published_at": "2023-07-29T09:41:47Z"
+ },
+ {
+  "id": 1540249,
+  "title": "Building a Slack Bot in Python",
+  "description": "Introduction   In this article, we will be building a bot in python using the Slack API....",
+  "cover_image": "",
+  "slug": "building-a-slack-bot-in-python-146d",
+  "url": "https://dev.to/haszankauna/building-a-slack-bot-in-python-146d",
+  "publish_date": "2023-07-29",
+  "published_at": "2023-07-29T00:57:28Z"
+ },
+ {
   "id": 1552320,
   "title": "Featured Mod of the Month: Thomas Bnt",
   "description": "In this series, we shine a spotlight on the different DEV moderators — Trusted Members and Tag Mods —...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/codenewbieteam/teamwork-or-solo-development-which-do-you-prefer-3nkm",
   "publish_date": "2023-04-20",
   "published_at": "2023-04-20T07:00:00Z"
- },
- {
-  "id": 1428678,
-  "title": "Featured Mod of the Month: Andy Piper",
-  "description": "We've started up this new series to shine a spotlight on the different DEV moderators — trusted...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vykLxeT1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0h9n7nf7hqvha2cteks.jpg",
-  "slug": "featured-mod-of-the-month-andy-piper-2fg6",
-  "url": "https://dev.to/devteam/featured-mod-of-the-month-andy-piper-2fg6",
-  "publish_date": "2023-04-19",
-  "published_at": "2023-04-19T15:03:12Z"
- },
- {
-  "id": 1249788,
-  "title": "Object VS Data Structure : The Fight !",
-  "description": "As developer, we need to hide code implementation for users, we don't want to expose the logic of our...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--upAJCUzP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v6k5h6kri6rodo4ve4hg.png",
-  "slug": "object-vs-data-structure-the-fight--k0h",
-  "url": "https://dev.to/codeoz/object-vs-data-structure-the-fight--k0h",
-  "publish_date": "2023-04-19",
-  "published_at": "2023-04-19T11:50:47Z"
- },
- {
-  "id": 1440566,
-  "title": "Keep Calm And Just Say No To Coding Challenges",
-  "description": "Do you resent wasting your time with coding challenges?  Keep calm and say that you have decided to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1ZG2Lv5F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7u5cidcllp90sl63x87o.jpeg",
-  "slug": "keep-calm-and-just-say-no-to-coding-challenges-1a4",
-  "url": "https://dev.to/jmfayard/keep-calm-and-just-say-no-to-coding-challenges-1a4",
-  "publish_date": "2023-04-19",
-  "published_at": "2023-04-19T09:09:28Z"
- },
- {
-  "id": 1440702,
-  "title": "Top 10 Best Vector Databases \u0026 Libraries",
-  "description": "Vector database is a type of database that stores data as high-dimensional vectors, which are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8_I8XCOj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m2huidunm4tho9kle0hj.jpg",
-  "slug": "top-10-best-vector-databases-libraries-330f",
-  "url": "https://dev.to/bybydev/top-10-best-vector-databases-libraries-330f",
-  "publish_date": "2023-04-19",
-  "published_at": "2023-04-19T08:24:51Z"
- },
- {
-  "id": 1429426,
-  "title": "Make a Dream Todo app with Novu, React and Express! ✅",
-  "description": "TL;DR   In this article, you'll learn how to make a todo app that works for you. The prime...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e58UpOXb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xe2snszw997u6h2em2s6.png",
-  "slug": "make-a-dream-todo-app-with-novu-react-and-express-2p9l",
-  "url": "https://dev.to/novu/make-a-dream-todo-app-with-novu-react-and-express-2p9l",
-  "publish_date": "2023-04-19",
-  "published_at": "2023-04-19T07:36:19Z"
  }
 ]
