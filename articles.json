@@ -1,5 +1,55 @@
 [
  {
+  "id": 1555891,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-5b4g",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5b4g",
+  "publish_date": "2023-08-01",
+  "published_at": "2023-08-01T16:33:36Z"
+ },
+ {
+  "id": 1555217,
+  "title": "Explore Our World of Badges \u0026 Influence the Next Addition! 🏅🌟",
+  "description": "Hey there, awesome DEV Community members!  Did you know we have an array of amazing badges that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WvQ7_U83--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lc2oakqbygppjua30qra.jpg",
+  "slug": "explore-our-world-of-badges-influence-the-next-addition-1fnf",
+  "url": "https://dev.to/devteam/explore-our-world-of-badges-influence-the-next-addition-1fnf",
+  "publish_date": "2023-08-01",
+  "published_at": "2023-08-01T16:27:53Z"
+ },
+ {
+  "id": 1555666,
+  "title": "Tailscale vs ZeroTier",
+  "description": "Businesses have migrated towards a “remote first” and “cloud first” posture. In this world,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wG7j-f1d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gugaoc2x2vyhmwj1wcep.png",
+  "slug": "tailscale-vs-zerotier-1m79",
+  "url": "https://dev.to/afeiszli/tailscale-vs-zerotier-1m79",
+  "publish_date": "2023-08-01",
+  "published_at": "2023-08-01T12:18:16Z"
+ },
+ {
+  "id": 1555670,
+  "title": "Smol AI 🐣 vs Wasp AI 🐝- Which is the Better AI Junior Developer?",
+  "description": "TL;DR   AI-assisted coding tools are on the rise. In this article, we take a deep dive into...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6ysm-w1u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ypid6vc7yfxuyxxf5t5h.png",
+  "slug": "smol-ai-vs-wasp-ai-which-is-the-better-ai-junior-developer-4fcb",
+  "url": "https://dev.to/wasp/smol-ai-vs-wasp-ai-which-is-the-better-ai-junior-developer-4fcb",
+  "publish_date": "2023-08-01",
+  "published_at": "2023-08-01T11:59:16Z"
+ },
+ {
+  "id": 1546282,
+  "title": "🚀 9 open-source libraries YOU HAVE to contribute to in 2023 🔥",
+  "description": "Every week I discover more and more awesome libraries that's not getting enough attention.  It's time...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---voe2LUw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vbhu2907fpwq0d64jdu9.png",
+  "slug": "9-open-source-libraries-you-have-to-contribute-to-in-2023-4071",
+  "url": "https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071",
+  "publish_date": "2023-08-01",
+  "published_at": "2023-08-01T11:01:18Z"
+ },
+ {
   "id": 1554810,
   "title": "Coding Education for All: Join us in supporting The Odin Project",
   "description": "Today, we are delighted to announce a significant milestone in The Odin Project's journey – we are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/yoshi389111/i-made-a-vscode-extension-markdown-table-rainbow-4l27",
   "publish_date": "2023-04-22",
   "published_at": "2023-04-22T05:03:28Z"
- },
- {
-  "id": 1419367,
-  "title": "RIP Blue Check 🪦",
-  "description": "It's a sad occasion on this 21st of April: due to our decision not to purchase a Twitter Blue...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ljvq_l3s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kquu1p1us5obcx33hlzb.png",
-  "slug": "rip-blue-check-jlh",
-  "url": "https://dev.to/devteam/rip-blue-check-jlh",
-  "publish_date": "2023-04-21",
-  "published_at": "2023-04-21T14:27:08Z"
- },
- {
-  "id": 1443466,
-  "title": "ASP.NET Core in .NET 8 is On The Way! 5 New Features Reviewed",
-  "description": "In this article, we delve into the exciting new features and updates introduced in ASP.NET Core .NET...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--obZNIo5k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4wtc23q8dkw01wgxxkss.png",
-  "slug": "aspnet-core-in-net-8-is-on-the-way-5-new-features-reviewed-4014",
-  "url": "https://dev.to/bytehide/aspnet-core-in-net-8-is-on-the-way-5-new-features-reviewed-4014",
-  "publish_date": "2023-04-21",
-  "published_at": "2023-04-21T12:41:42Z"
- },
- {
-  "id": 1360497,
-  "title": "Hoppscotch Releases: SemVer to CalVer",
-  "description": "TL;DR;  At Hoppscotch, we believe in providing our users with the best possible experience when it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ekX7mg3X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zv3hqpa4xsbmcb3gtuqe.png",
-  "slug": "hoppscotch-releases-semver-to-calver-1ajm",
-  "url": "https://dev.to/liyasthomas/hoppscotch-releases-semver-to-calver-1ajm",
-  "publish_date": "2023-04-21",
-  "published_at": "2023-04-21T10:06:19Z"
- },
- {
-  "id": 1440191,
-  "title": "API Gateway For ChatGPT Plugins",
-  "description": "OpenAI has recently launched a new version of ChatGPT which now allows plugins inside ChatGPT. These...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UerT4v1b--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kmufj8jov146gsqduu7v.png",
-  "slug": "api-gateway-for-chatgpt-plugins-1b32",
-  "url": "https://dev.to/apisix/api-gateway-for-chatgpt-plugins-1b32",
-  "publish_date": "2023-04-21",
-  "published_at": "2023-04-21T08:21:54Z"
- },
- {
-  "id": 1440958,
-  "title": "My Favorite Free Courses to Learn Docker and Containers in 2023",
-  "description": "These are my favorite online courses to learn Docker and containerization in 2023",
-  "cover_image": "",
-  "slug": "my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo",
-  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-docker-and-containers-in-2023-1ldo",
-  "publish_date": "2023-04-21",
-  "published_at": "2023-04-21T03:49:13Z"
  }
 ]
