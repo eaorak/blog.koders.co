@@ -1,5 +1,55 @@
 [
  {
+  "id": 1555811,
+  "title": "Serialization and Deserialization in JavaScript",
+  "description": "As developers, we often hear about Serialization and Deserialization, but what do these terms really...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3KuNj6-L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4bkh6d9mapm3j2tvomaf.png",
+  "slug": "serialization-and-deserialization-in-javascript-3kdd",
+  "url": "https://dev.to/maafaishal/serialization-and-deserialization-in-javascript-3kdd",
+  "publish_date": "2023-08-02",
+  "published_at": "2023-08-02T14:03:44Z"
+ },
+ {
+  "id": 1552286,
+  "title": "How Open Source helped me get into the GitHub Octernships program.",
+  "description": "When I first got to know about the GitHub Octernships program, I was surprised by its focus on open...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UG09STPH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mjzhbz82jxc618nz8b45.png",
+  "slug": "how-open-source-helped-me-get-a-github-octernship-4f69",
+  "url": "https://dev.to/opensauced/how-open-source-helped-me-get-a-github-octernship-4f69",
+  "publish_date": "2023-08-02",
+  "published_at": "2023-08-02T13:02:00Z"
+ },
+ {
+  "id": 1556680,
+  "title": "Best CSS Animation on internet",
+  "description": "1. Animated Background with SVG in CSS   Output     Source Code                   2. CSS...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mr3RwQ_6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ypmh5m8ici0z7akd8etb.jpg",
+  "slug": "best-css-animation-on-internet-1hd8",
+  "url": "https://dev.to/democode7451/best-css-animation-on-internet-1hd8",
+  "publish_date": "2023-08-02",
+  "published_at": "2023-08-02T11:15:48Z"
+ },
+ {
+  "id": 1556676,
+  "title": "Should New Developers Use AI Coding Tools?",
+  "description": "AI coding tools like GitHub Copilot, ChatGPT and similar tools took the software development world by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rbQXR7Gn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s69i88w09wfdymyc0ts5.png",
+  "slug": "should-new-developers-use-ai-coding-tools-2bfc",
+  "url": "https://dev.to/catalinpit/should-new-developers-use-ai-coding-tools-2bfc",
+  "publish_date": "2023-08-02",
+  "published_at": "2023-08-02T11:02:45Z"
+ },
+ {
+  "id": 1556137,
+  "title": "Chrome Debugger is easier to use than you might think",
+  "description": "Please, don’t tell me you’re still using console.log to debug your application.  Ok, everyone does...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1tJZBhea--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l959wz7npvpzvnyudvdy.png",
+  "slug": "chrome-debugger-is-easier-to-use-than-you-might-think-c8",
+  "url": "https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8",
+  "publish_date": "2023-08-02",
+  "published_at": "2023-08-02T07:03:17Z"
+ },
+ {
   "id": 1555891,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah",
   "publish_date": "2023-04-23",
   "published_at": "2023-04-23T00:43:58Z"
- },
- {
-  "id": 1438435,
-  "title": "Streamline Your Web Development with Cookie Cutter Django: A Comprehensive Review",
-  "description": "Are you tired of starting every Django project from scratch and spending precious time setting up the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qrWohuaz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gv5edwg8tkbzx1kvn54t.jpeg",
-  "slug": "streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review-3elm",
-  "url": "https://dev.to/rishitashaw/streamline-your-web-development-with-cookie-cutter-django-a-comprehensive-review-3elm",
-  "publish_date": "2023-04-22",
-  "published_at": "2023-04-22T15:12:20Z"
- },
- {
-  "id": 1443634,
-  "title": "10 Popular Programming Languages to Learn in 2023: Python, JavaScript, Java, C#, Kotlin...",
-  "description": "Programming languages are a fundamental part of computer science and software development. They allow...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bOqxIXD4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1b4u95awlt2ghx724d3e.jpg",
-  "slug": "10-popular-programming-languages-to-learn-in-2023-python-javascript-java-c-kotlin-1ool",
-  "url": "https://dev.to/abhixsh/10-popular-programming-languages-to-learn-in-2023-python-javascript-java-c-kotlin-1ool",
-  "publish_date": "2023-04-22",
-  "published_at": "2023-04-22T12:27:21Z"
- },
- {
-  "id": 1444277,
-  "title": "Top 10 Full-stack Projects For Beginners",
-  "description": "Are you a beginner looking for good full-stack project ideas to level your skills to the next level?...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jWCO9Hxq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uja8uws9rtzbyc74h1zz.png",
-  "slug": "top-10-full-stack-projects-for-beginners-1338",
-  "url": "https://dev.to/arafat4693/top-10-full-stack-projects-for-beginners-1338",
-  "publish_date": "2023-04-22",
-  "published_at": "2023-04-22T07:45:42Z"
- },
- {
-  "id": 1444176,
-  "title": "How to slugify a string in JavaScript",
-  "description": "A slug is a string that is used to uniquely identify a resource in a URL-friendly way. It is...",
-  "cover_image": "",
-  "slug": "how-to-slugify-a-string-in-javascript-4o9n",
-  "url": "https://dev.to/bybydev/how-to-slugify-a-string-in-javascript-4o9n",
-  "publish_date": "2023-04-22",
-  "published_at": "2023-04-22T05:47:13Z"
- },
- {
-  "id": 1444165,
-  "title": "I made a VSCode extension: \"markdown-table-rainbow\"",
-  "description": "Last month when I was writing Markdown, I thought it would be easier to understand if each column in...",
-  "cover_image": "",
-  "slug": "i-made-a-vscode-extension-markdown-table-rainbow-4l27",
-  "url": "https://dev.to/yoshi389111/i-made-a-vscode-extension-markdown-table-rainbow-4l27",
-  "publish_date": "2023-04-22",
-  "published_at": "2023-04-22T05:03:28Z"
  }
 ]
