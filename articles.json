@@ -1,5 +1,55 @@
 [
  {
+  "id": 1558184,
+  "title": "refine + DEV Hackathon Winners, Announced!",
+  "description": "Celebrating the winners from the refine + DEV Hackathon!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lQ0zTPaj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwsylhikkh0gs9h6u6zo.png",
+  "slug": "refine-dev-hackathon-winners-announced-237g",
+  "url": "https://dev.to/devteam/refine-dev-hackathon-winners-announced-237g",
+  "publish_date": "2023-08-03",
+  "published_at": "2023-08-03T20:43:35Z"
+ },
+ {
+  "id": 1557733,
+  "title": "Build an AWS S3 Browser with ToolJet",
+  "description": "Amazon S3 (Simple Storage Service) has emerged as a popular choice due to its reliability,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--teBR6J48--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwyrlfh9dsy2dhoqi3yk.png",
+  "slug": "build-an-aws-s3-browser-with-tooljet-56d4",
+  "url": "https://dev.to/tooljet/build-an-aws-s3-browser-with-tooljet-56d4",
+  "publish_date": "2023-08-03",
+  "published_at": "2023-08-03T10:05:53Z"
+ },
+ {
+  "id": 1551731,
+  "title": "System architecture: move authentication to the API Gateway",
+  "description": "When exposing an application to the outside world, consider a Reverse-Proxy or an API Gateway to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a3kt2mIr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2b4i5te4m52o6atr6d6.jpg",
+  "slug": "system-architecture-move-authentication-to-the-api-gateway-1la3",
+  "url": "https://dev.to/apisix/system-architecture-move-authentication-to-the-api-gateway-1la3",
+  "publish_date": "2023-08-03",
+  "published_at": "2023-08-03T09:02:00Z"
+ },
+ {
+  "id": 1557524,
+  "title": "50 High-Quality Developer Jobs at VC-Backed Startups: Your Weekly Roundup [3rd Aug, 2023]",
+  "description": "Hello, Devs! Excited for another round of top-notch developer job opportunities? We're back with our...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u-rukBiQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qye2lrheq7bcdbbkctvb.png",
+  "slug": "50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-3rd-aug-2023-20ec",
+  "url": "https://dev.to/mohanmukund13/50-high-quality-developer-jobs-at-vc-backed-startups-your-weekly-roundup-3rd-aug-2023-20ec",
+  "publish_date": "2023-08-03",
+  "published_at": "2023-08-03T06:42:10Z"
+ },
+ {
+  "id": 1553628,
+  "title": "More Accessible Graphs with Jetpack Compose Part 2: Adding Keyboard Interaction",
+  "description": "Welcome to the second episode of \"More Accessible Graphs with Jetpack Compose\" - in this blog post,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aDp3Ez-v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8jlgcc8u8y4yf8h74i7.png",
+  "slug": "more-accessible-graphs-with-jetpack-compose-part-2-adding-keyboard-interaction-1gpd",
+  "url": "https://dev.to/eevajonnapanula/more-accessible-graphs-with-jetpack-compose-part-2-adding-keyboard-interaction-1gpd",
+  "publish_date": "2023-08-03",
+  "published_at": "2023-08-03T03:04:54Z"
+ },
+ {
   "id": 1555811,
   "title": "Serialization and Deserialization in JavaScript",
   "description": "As developers, we often hear about Serialization and Deserialization, but what do these terms really...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/disukharev/how-to-learn-react-in-43-seconds-320e",
   "publish_date": "2023-04-24",
   "published_at": "2023-04-24T07:49:59Z"
- },
- {
-  "id": 1444722,
-  "title": "Where did Microservices go",
-  "description": "When I quit Microsoft and joined the startup company in 2015, the first thing I learned is the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3_8BKCB---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ac39gm2kunldbh37y3w.jpg",
-  "slug": "where-did-microservices-go-8m",
-  "url": "https://dev.to/zenstack/where-did-microservices-go-8m",
-  "publish_date": "2023-04-23",
-  "published_at": "2023-04-23T09:34:01Z"
- },
- {
-  "id": 1438253,
-  "title": "13 Rules I Follow When Writing CSS To Make It Concise and Readable🚀💡",
-  "description": "Here are 13 rules that can be followed when writing CSS to make it more concise and readable:  1. Use...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b6DqRLIQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8413h17mh4b0wlhlbfcs.jpg",
-  "slug": "13-rules-i-follow-when-writing-css-to-make-it-concise-and-readable-2jkn",
-  "url": "https://dev.to/margishpatel/13-rules-i-follow-when-writing-css-to-make-it-concise-and-readable-2jkn",
-  "publish_date": "2023-04-23",
-  "published_at": "2023-04-23T08:28:55Z"
- },
- {
-  "id": 1444978,
-  "title": "How I Made a Reminder to Write a Blog Post Using GitHub Action",
-  "description": "As a writer, I understand the importance of consistency when it comes to publishing new content....",
-  "cover_image": "",
-  "slug": "how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88",
-  "url": "https://dev.to/imamdev_/how-i-made-a-reminder-to-write-a-blog-post-using-github-action-3n88",
-  "publish_date": "2023-04-23",
-  "published_at": "2023-04-23T03:21:03Z"
- },
- {
-  "id": 1444163,
-  "title": "My Favorite FREE Courses to Learn Apache Kafka in 2023",
-  "description": "These are my favorite online free courses to learn Apache Kafka in 2023",
-  "cover_image": "",
-  "slug": "my-favorite-free-courses-to-learn-apache-kafka-in-2023-djb",
-  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-apache-kafka-in-2023-djb",
-  "publish_date": "2023-04-23",
-  "published_at": "2023-04-23T02:53:08Z"
- },
- {
-  "id": 1375911,
-  "title": "Removing Timezones from Dates in Javascript",
-  "description": "Foreword   It's been a while since I've wrote on here. I'm planning to write smaller pieces...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--smgwBLlS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4glyx4rpcah7meahhmnb.png",
-  "slug": "removing-timezones-from-dates-in-javascript-46ah",
-  "url": "https://dev.to/shubhampatilsd/removing-timezones-from-dates-in-javascript-46ah",
-  "publish_date": "2023-04-23",
-  "published_at": "2023-04-23T00:43:58Z"
  }
 ]
