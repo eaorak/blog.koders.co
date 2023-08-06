@@ -1,5 +1,55 @@
 [
  {
+  "id": 1560200,
+  "title": "CSS Animation: Card Width expand on hover",
+  "description": "In this tutorial, you will learn how to create a pure CSS card width expand animation with hover...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KJc1p5Rc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nle66glvxv4yqydusssx.gif",
+  "slug": "css-animation-card-width-expand-on-hover-me4",
+  "url": "https://dev.to/jon_snow789/css-animation-card-width-expand-on-hover-me4",
+  "publish_date": "2023-08-05",
+  "published_at": "2023-08-05T16:59:21Z"
+ },
+ {
+  "id": 1559947,
+  "title": "Unraveling the Magic of APIs: A Beginner's Guide to Integration Superpowers",
+  "description": "What is an API?   Imagine you have a favourite teddy bear, and you want to show it to your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PquCZelB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jxntiv5rl64i9gc8hcwh.png",
+  "slug": "unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39",
+  "url": "https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39",
+  "publish_date": "2023-08-05",
+  "published_at": "2023-08-05T10:28:02Z"
+ },
+ {
+  "id": 1541662,
+  "title": "Monoliths vs. Microservices: Breaking Down Software Architectures",
+  "description": "In today's fast-paced and ever-evolving digital landscape, choosing the right software architecture...",
+  "cover_image": "",
+  "slug": "monoliths-vs-microservices-breaking-down-software-architectures-1keh",
+  "url": "https://dev.to/documatic/monoliths-vs-microservices-breaking-down-software-architectures-1keh",
+  "publish_date": "2023-08-05",
+  "published_at": "2023-08-05T06:08:36Z"
+ },
+ {
+  "id": 1559351,
+  "title": "Time Travel in React with Immer: A Step-by-Step Tutorial",
+  "description": "Overview   In the ever-evolving landscape of front-end development, the ability to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mYb9pMD9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lwcf4rat3h4it3k6huv.png",
+  "slug": "time-travel-in-react-with-immer-a-step-by-step-tutorial-201p",
+  "url": "https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p",
+  "publish_date": "2023-08-05",
+  "published_at": "2023-08-05T04:20:46Z"
+ },
+ {
+  "id": 1559671,
+  "title": "How containers promote equity in tech",
+  "description": "In the tech industry, we often talk a lot about diversity, equity, and inclusion. Sometimes, we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UlHkksC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vi5yqc79jg7xebz4l6qy.png",
+  "slug": "how-containerization-promotes-equity-in-tech-54h5",
+  "url": "https://dev.to/github/how-containerization-promotes-equity-in-tech-54h5",
+  "publish_date": "2023-08-05",
+  "published_at": "2023-08-05T00:42:47Z"
+ },
+ {
   "id": 1559460,
   "title": "Create End-to-End Channels in Rust with Ockam Routing",
   "description": "build-trust        /          ockam                        Orchestrate...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devteam/going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag",
   "publish_date": "2023-04-26",
   "published_at": "2023-04-26T07:00:00Z"
- },
- {
-  "id": 1441199,
-  "title": "Announcing the GitHub + DEV 2023 Hackathon!",
-  "description": "Join us for this opportunity to build an awesome application with GitHub while earning some great prizes",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uKDQOCcd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9bbbsh01np9qcxiqvbyf.jpg",
-  "slug": "announcing-the-github-dev-2023-hackathon-4ocn",
-  "url": "https://dev.to/devteam/announcing-the-github-dev-2023-hackathon-4ocn",
-  "publish_date": "2023-04-25",
-  "published_at": "2023-04-25T16:41:21Z"
- },
- {
-  "id": 1446586,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-1d0h",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-1d0h",
-  "publish_date": "2023-04-25",
-  "published_at": "2023-04-25T16:17:44Z"
- },
- {
-  "id": 1447531,
-  "title": "Celebrating Novu @ 20k Stars",
-  "description": "Not every day do you see a GitHub repo surpassing 20k stars on GitHub. So I'm proud to announce that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7Hli2c7w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/id5j4v1hmxwdr858qy7k.png",
-  "slug": "celebrating-novu-20k-stars-14dk",
-  "url": "https://dev.to/novu/celebrating-novu-20k-stars-14dk",
-  "publish_date": "2023-04-25",
-  "published_at": "2023-04-25T13:14:24Z"
- },
- {
-  "id": 1438951,
-  "title": "SPARTAN. Type-safe Angular full-stack development powered by Analog.",
-  "description": "In 2023, Server-Side Rendering (SSR) is an essential part of modern web applications. In the React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oswiey7k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nk3vx5s9ismwzuzx00rn.jpg",
-  "slug": "spartan-type-safe-angular-full-stack-development-powered-by-analog-17dm",
-  "url": "https://dev.to/this-is-angular/spartan-type-safe-angular-full-stack-development-powered-by-analog-17dm",
-  "publish_date": "2023-04-25",
-  "published_at": "2023-04-25T12:07:26Z"
- },
- {
-  "id": 1445218,
-  "title": "GPT-4 plays DND with 4 of us, it's insane 🤯 (YouTube)",
-  "description": "its gonna blow your head off  here is the GPT-4 acting as a Dungeon Master with a party of me and 3...",
-  "cover_image": "",
-  "slug": "ai-dnd-4068",
-  "url": "https://dev.to/disukharev/ai-dnd-4068",
-  "publish_date": "2023-04-25",
-  "published_at": "2023-04-25T07:52:57Z"
  }
 ]
