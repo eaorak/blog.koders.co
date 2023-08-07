@@ -1,5 +1,55 @@
 [
  {
+  "id": 1560732,
+  "title": "How has AI changed your approach to development?",
+  "description": "August 2023 check-in — what is different in your approach in the ChatGPT, Copilot, etc. era of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cpjs0baW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ol7851oxsx6zj21v7vx4.png",
+  "slug": "how-has-ai-changed-your-approach-to-development-2hk0",
+  "url": "https://dev.to/ben/how-has-ai-changed-your-approach-to-development-2hk0",
+  "publish_date": "2023-08-06",
+  "published_at": "2023-08-06T16:05:41Z"
+ },
+ {
+  "id": 1560720,
+  "title": "Beautify Your Git Log with a Single Command",
+  "description": "The standard git log command is functional, providing the necessary information, but it can come...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zUcvnPhe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n04rouprxjw721md9nxs.png",
+  "slug": "beautify-your-git-log-with-a-single-command-2i5",
+  "url": "https://dev.to/pradumnasaraf/beautify-your-git-log-with-a-single-command-2i5",
+  "publish_date": "2023-08-06",
+  "published_at": "2023-08-06T15:41:01Z"
+ },
+ {
+  "id": 1560482,
+  "title": "Web Environment Integrity: Google strikes again",
+  "description": "The Web Environment Integrity is yet another Google proposal for making the web worse for everyone...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CO8TnZHM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vc6n48xk3p8yual8gmtg.jpg",
+  "slug": "web-environment-integrity-google-strikes-again-j4a",
+  "url": "https://dev.to/voltra/web-environment-integrity-google-strikes-again-j4a",
+  "publish_date": "2023-08-06",
+  "published_at": "2023-08-06T06:51:11Z"
+ },
+ {
+  "id": 1559954,
+  "title": "Underrated React Hook - useSyncExternalStore",
+  "description": "Overview   Discover a hidden powerhouse in the React ecosystem: the \"useSyncExternalStore\"...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vgyXm_h7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hc8ms0a1u8uz1d7bdvzv.jpg",
+  "slug": "underrated-react-hook-usesyncexternalstore-h8h",
+  "url": "https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h",
+  "publish_date": "2023-08-06",
+  "published_at": "2023-08-06T02:56:14Z"
+ },
+ {
+  "id": 1560349,
+  "title": "I used Node.js to OCR \"Meme Monday\" threads",
+  "description": "I love programming-related memes and jokes, and I'm sure you do as well. @ben's weekly \"Meme Monday\"...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ytW2QMe2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g7b2cnvd3q5zyyn1q03y.png",
+  "slug": "i-used-nodejs-to-ocr-meme-monday-threads-23o0",
+  "url": "https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0",
+  "publish_date": "2023-08-06",
+  "published_at": "2023-08-06T00:58:37Z"
+ },
+ {
   "id": 1560200,
   "title": "CSS Animation: Card Width expand on hover",
   "description": "In this tutorial, you will learn how to create a pure CSS card width expand animation with hover...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn",
   "publish_date": "2023-04-27",
   "published_at": "2023-04-27T03:14:36Z"
- },
- {
-  "id": 1449153,
-  "title": "What is Bluesky Social Network? And why are developers excited about it?",
-  "description": "It seems like my Twitter feed is all about folks joining or asking about invites to Bluesky. I was...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---K6JLmVw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3btym321krav1qx5qyfu.png",
-  "slug": "what-is-bluesky-social-network-and-why-are-developers-excited-about-it-i0f",
-  "url": "https://dev.to/opensauced/what-is-bluesky-social-network-and-why-are-developers-excited-about-it-i0f",
-  "publish_date": "2023-04-26",
-  "published_at": "2023-04-26T18:13:29Z"
- },
- {
-  "id": 1448684,
-  "title": "Introducing Medusa’s Plugins Library for Payments, CMS, Notifications, and more.",
-  "description": "Our new Plugin Library provides an overview of all Medusa plugins, including payments,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8wUQyZGR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0gi6rjeuz6u54jgyax8q.jpg",
-  "slug": "introducing-medusas-plugins-library-for-payments-cms-notifications-and-more-glk",
-  "url": "https://dev.to/medusajs/introducing-medusas-plugins-library-for-payments-cms-notifications-and-more-glk",
-  "publish_date": "2023-04-26",
-  "published_at": "2023-04-26T10:49:44Z"
- },
- {
-  "id": 1444398,
-  "title": "Learn ML in 52 seconds 🏎️",
-  "description": "first lets grow my twitter, i will probably change all of the world obsolete education systems, not...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OaB8rc1S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bql83swkqpx82h835pon.gif",
-  "slug": "how-to-learn-ml-in-52-seconds-562f",
-  "url": "https://dev.to/disukharev/how-to-learn-ml-in-52-seconds-562f",
-  "publish_date": "2023-04-26",
-  "published_at": "2023-04-26T07:51:40Z"
- },
- {
-  "id": 1448553,
-  "title": "Lazy loading services in Angular. What?! Yes, we can.",
-  "description": "We’re used to lazy loading modules or components in Angular. But what about lazy loading services?...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YSUxcIWo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lu6n4mgu8lkvg1g00am9.png",
-  "slug": "lazy-loading-services-in-angular-what-yes-we-can-2gah",
-  "url": "https://dev.to/this-is-angular/lazy-loading-services-in-angular-what-yes-we-can-2gah",
-  "publish_date": "2023-04-26",
-  "published_at": "2023-04-26T07:25:51Z"
- },
- {
-  "id": 1448380,
-  "title": "Going Against Conventional Wisdom: What's Your Unpopular Tech Opinion?",
-  "description": "What's an unpopular tech opinion you hold that goes against conventional wisdom?   We want to hear...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sEAiaYF6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/of1ycn1xqrdwt28mxcar.png",
-  "slug": "going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag",
-  "url": "https://dev.to/devteam/going-against-conventional-wisdom-whats-your-unpopular-tech-opinion-5fag",
-  "publish_date": "2023-04-26",
-  "published_at": "2023-04-26T07:00:00Z"
  }
 ]
