@@ -1,5 +1,55 @@
 [
  {
+  "id": 1561561,
+  "title": "How to Improve Performance of Your Database by Indexing Large Tables",
+  "description": "What is Database Indexing?   Database indexing is a technique that makes searching and...",
+  "cover_image": "",
+  "slug": "how-to-improve-the-performance-of-your-database-by-indexing-large-tables-1j17",
+  "url": "https://dev.to/karishmashukla/how-to-improve-the-performance-of-your-database-by-indexing-large-tables-1j17",
+  "publish_date": "2023-08-07",
+  "published_at": "2023-08-07T14:24:20Z"
+ },
+ {
+  "id": 1560571,
+  "title": "🪄✨Building a blog with a liking feature using React, Hanko and Novu 🔥",
+  "description": "TL;DR 🔥   In this tutorial, you'll learn how to build a blogging platform that let's you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8tdg5WAT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1puue97fpusutvg5rw7w.png",
+  "slug": "building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81",
+  "url": "https://dev.to/novu/building-a-blog-with-a-liking-feature-using-react-hanko-and-novu-1m81",
+  "publish_date": "2023-08-07",
+  "published_at": "2023-08-07T12:13:42Z"
+ },
+ {
+  "id": 1503964,
+  "title": "How we improved our Serverless API 300x",
+  "description": "This is a story about how we made a microservice response 3️⃣0️⃣0️⃣ times faster. Yes, you read that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ct9kIlaL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rg02okf6yl685hzid8jd.png",
+  "slug": "how-we-improved-our-serverless-api-300x-3o27",
+  "url": "https://dev.to/epilot/how-we-improved-our-serverless-api-300x-3o27",
+  "publish_date": "2023-08-07",
+  "published_at": "2023-08-07T08:17:30Z"
+ },
+ {
+  "id": 1559170,
+  "title": "Monitor API Health Check with Prometheus",
+  "description": "APISIX has a health check mechanism, which proactively checks the health status of the upstream nodes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0JP5vvEr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/38arir5sle43r48leu45.png",
+  "slug": "monitor-api-health-check-with-prometheus-4806",
+  "url": "https://dev.to/apisix/monitor-api-health-check-with-prometheus-4806",
+  "publish_date": "2023-08-07",
+  "published_at": "2023-08-07T05:00:00Z"
+ },
+ {
+  "id": 1560444,
+  "title": "Differentiating onclick and addEventListener in JavaScript",
+  "description": "Overview   This article provides an insightful examination of the contrasting approaches to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a7oivBcs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/00omkpyrl0fobova0u72.jpg",
+  "slug": "differentiating-onclick-and-addeventlistener-in-javascript-30ke",
+  "url": "https://dev.to/brainiacneit/differentiating-onclick-and-addeventlistener-in-javascript-30ke",
+  "publish_date": "2023-08-07",
+  "published_at": "2023-08-07T04:20:06Z"
+ },
+ {
   "id": 1560732,
   "title": "How has AI changed your approach to development?",
   "description": "August 2023 check-in — what is different in your approach in the ChatGPT, Copilot, etc. era of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bybydev/how-to-remove-elements-from-array-in-javascript-3c7l",
   "publish_date": "2023-04-28",
   "published_at": "2023-04-28T01:21:16Z"
- },
- {
-  "id": 1449911,
-  "title": "How to build a Hackathon 🚀",
-  "description": "TL;DR   We have just released our new Hackathon NovuConnect 🤩 We have made sure it's super...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k67hv_Zz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwgv2wepknabklu080bd.png",
-  "slug": "how-to-buid-a-hackathon-gb3",
-  "url": "https://dev.to/novu/how-to-buid-a-hackathon-gb3",
-  "publish_date": "2023-04-27",
-  "published_at": "2023-04-27T13:25:15Z"
- },
- {
-  "id": 1447635,
-  "title": "Learn serverless on AWS step-by-step - Authentication",
-  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IybEwSKd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/authentication/assets/cover-image.png",
-  "slug": "learn-serverless-on-aws-authentication-with-cognito-19bo",
-  "url": "https://dev.to/kumo/learn-serverless-on-aws-authentication-with-cognito-19bo",
-  "publish_date": "2023-04-27",
-  "published_at": "2023-04-27T12:25:42Z"
- },
- {
-  "id": 1449203,
-  "title": "Sloan's Inbox: Staying positive amidst industry drama",
-  "description": "Hey there! It's Sloan, your friendly neighborhood DEV Moderator 🦥 As I lazily scrolled through my...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eDuebDoT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rh0pzayn96pb7gw5x92u.jpg",
-  "slug": "sloans-inbox-staying-positive-amidst-industry-drama-16i4",
-  "url": "https://dev.to/devteam/sloans-inbox-staying-positive-amidst-industry-drama-16i4",
-  "publish_date": "2023-04-27",
-  "published_at": "2023-04-27T07:00:00Z"
- },
- {
-  "id": 1449581,
-  "title": "How we built the Fastest ChatGPT Website Chatbot",
-  "description": "A ChatGPT-based website chatbot can dramatically decrease your website's performance if it's not...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cemTdwzY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/llvdq4pl0h40npguyp9e.jpeg",
-  "slug": "how-we-built-the-fastest-chatgpt-website-chatbot-2gkk",
-  "url": "https://dev.to/polterguy/how-we-built-the-fastest-chatgpt-website-chatbot-2gkk",
-  "publish_date": "2023-04-27",
-  "published_at": "2023-04-27T04:30:44Z"
- },
- {
-  "id": 1449560,
-  "title": "[JS/TS] Cookie Muncher - Effortless cookie management",
-  "description": "When we create a website, we always need to use cookies, either on the browser side, or on the server...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dslx_fCk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9rwb4oqd89hz9tpj3c7z.jpeg",
-  "slug": "jsts-cookie-muncher-effortless-cookie-management-1nfn",
-  "url": "https://dev.to/bluzzi/jsts-cookie-muncher-effortless-cookie-management-1nfn",
-  "publish_date": "2023-04-27",
-  "published_at": "2023-04-27T03:14:36Z"
  }
 ]
