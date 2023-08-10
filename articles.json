@@ -1,5 +1,55 @@
 [
  {
+  "id": 1563842,
+  "title": "Supabase Studio 3.0: AI SQL Editor, Schema Diagrams, and new Wrappers",
+  "description": "Supabase Studio 3.0 is here, with some huge new features, including a brand new Supabase AI,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZFC7OvRG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/edd4psoktbnocsxsyvv8.jpg",
+  "slug": "supabase-studio-30-ai-sql-editor-schema-diagrams-and-new-wrappers-297f",
+  "url": "https://dev.to/supabase/supabase-studio-30-ai-sql-editor-schema-diagrams-and-new-wrappers-297f",
+  "publish_date": "2023-08-09",
+  "published_at": "2023-08-09T16:30:09Z"
+ },
+ {
+  "id": 1563667,
+  "title": "The web is broken, and developers let it happen",
+  "description": "Do you remember the time when it used to be so simple to just open a new browser window, type a...",
+  "cover_image": "",
+  "slug": "the-web-is-broken-and-developers-let-it-happen-3cm5",
+  "url": "https://dev.to/soulwish/the-web-is-broken-and-developers-let-it-happen-3cm5",
+  "publish_date": "2023-08-09",
+  "published_at": "2023-08-09T14:00:00Z"
+ },
+ {
+  "id": 1563023,
+  "title": "Caching Git Repos: A Deep Dive into OpenSauced’s ‘Pizza Oven’ Service",
+  "description": "Over the last few weeks, the OpenSauced engineering team has been building a service we're calling...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tDs28Mnz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo2d962soqerdhf015km.png",
+  "slug": "caching-git-repos-a-deep-dive-into-opensauceds-pizza-oven-service-49nf",
+  "url": "https://dev.to/opensauced/caching-git-repos-a-deep-dive-into-opensauceds-pizza-oven-service-49nf",
+  "publish_date": "2023-08-09",
+  "published_at": "2023-08-09T13:05:00Z"
+ },
+ {
+  "id": 1563576,
+  "title": "Build a real-time voting app with WebSockets, React \u0026 TypeScript 🔌⚡️",
+  "description": "TL;DR   WebSockets allow your app to have “real time” features, where updates are instant...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CiHCj8Cm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t0e6bz9k6mw5je5zmh6w.png",
+  "slug": "build-a-real-time-voting-app-with-websockets-react-typescript-1bm9",
+  "url": "https://dev.to/wasp/build-a-real-time-voting-app-with-websockets-react-typescript-1bm9",
+  "publish_date": "2023-08-09",
+  "published_at": "2023-08-09T12:00:00Z"
+ },
+ {
+  "id": 1464167,
+  "title": "How to get more suggestions from GitHub Copilot",
+  "description": "Have you ever wanted more from GitHub Copilot? Has GitHub Copilot ever made a suggestion where you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8LI7Ib84--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fs80i4c50ggexilvraxf.png",
+  "slug": "how-to-get-more-suggestions-from-github-copilot-12i2",
+  "url": "https://dev.to/github/how-to-get-more-suggestions-from-github-copilot-12i2",
+  "publish_date": "2023-08-09",
+  "published_at": "2023-08-09T07:20:54Z"
+ },
+ {
   "id": 1562850,
   "title": "5 Ways to Center A Div",
   "description": "Watch Tutorial   Don't miss the amazing video we've embedded in this post! Click the play...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/what-i-learned-from-2-years-of-freelancing-44h8",
   "publish_date": "2023-04-30",
   "published_at": "2023-04-30T01:52:46Z"
- },
- {
-  "id": 1452176,
-  "title": "50 ChatGPT Prompts to Debug ReactJS Issues - Free EBook",
-  "description": "Debugging ReactJS applications can be a real challenge, especially when you're trying to identify and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O7fhP8-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lwu7gn5tfnp0xnc1adop.jpg",
-  "slug": "50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og",
-  "url": "https://dev.to/nilanth/50-chatgpt-prompts-to-debug-reactjs-issues-free-ebook-16og",
-  "publish_date": "2023-04-29",
-  "published_at": "2023-04-29T12:55:37Z"
- },
- {
-  "id": 1452126,
-  "title": "Dark Mode in 3 Lines of CSS and Other Adventures",
-  "description": "Dark Mode is a design trend where the color scheme of a website is changed to a dark background with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Cq0fNwFY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/147lgdtdnohrancjx4hv.jpg",
-  "slug": "dark-mode-in-3-lines-of-css-and-other-adventures-1ljj",
-  "url": "https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj",
-  "publish_date": "2023-04-29",
-  "published_at": "2023-04-29T12:25:08Z"
- },
- {
-  "id": 1452004,
-  "title": "How to convert String to Integer in java",
-  "description": "for explanation watch the video        import java.util.*; import java.lang.*; class Demo{     public...",
-  "cover_image": "",
-  "slug": "how-to-convert-string-to-integer-in-java-32gp",
-  "url": "https://dev.to/realnamehidden1_61/how-to-convert-string-to-integer-in-java-32gp",
-  "publish_date": "2023-04-29",
-  "published_at": "2023-04-29T08:28:16Z"
- },
- {
-  "id": 1451994,
-  "title": "Creating Visual Interest: How to Use MouseMove Hover to Reveal Background Images",
-  "description": "Canva celebrated 15 billion designs on its platform on February 15, 2023, marking a huge milestone...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lKTPjK8S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k7gulmue7yo55p7qth0u.png",
-  "slug": "creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
-  "url": "https://dev.to/israelmitolu/creating-visual-interest-how-to-use-mousemove-hover-to-reveal-background-images-4cb0",
-  "publish_date": "2023-04-29",
-  "published_at": "2023-04-29T07:53:54Z"
- },
- {
-  "id": 1451982,
-  "title": "Building a SolidJS App With SolidStart From Scratch",
-  "description": "So you've learned SolidJS and built a bunch of demos, but you haven't created a real-world...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bAXdAqLz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/03ki6wuicuz800ir1a4u.png",
-  "slug": "building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
-  "url": "https://dev.to/tahazsh/building-a-solidjs-app-with-solidstart-from-scratch-2m5c",
-  "publish_date": "2023-04-29",
-  "published_at": "2023-04-29T07:26:39Z"
  }
 ]
