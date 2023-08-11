@@ -1,5 +1,55 @@
 [
  {
+  "id": 1564977,
+  "title": "Supabase Integrations Marketplace",
+  "description": "We've been running our Integrations Marketplace in “stealth mode” for about a year now. What started...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ofEQNIpI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wahrgsz7fckq37urwji7.png",
+  "slug": "supabase-integrations-marketplace-o9o",
+  "url": "https://dev.to/supabase/supabase-integrations-marketplace-o9o",
+  "publish_date": "2023-08-10",
+  "published_at": "2023-08-10T18:46:03Z"
+ },
+ {
+  "id": 1565029,
+  "title": "Vercel Integration and Next.js App Router Support",
+  "description": "Vercel's open source framework, Next.js, is the most popular frontend framework for Supabase...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MuNp5PYq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mszfmvrgi8wo6efbfj8h.jpeg",
+  "slug": "vercel-integration-and-nextjs-app-router-support-282g",
+  "url": "https://dev.to/supabase/vercel-integration-and-nextjs-app-router-support-282g",
+  "publish_date": "2023-08-10",
+  "published_at": "2023-08-10T18:31:13Z"
+ },
+ {
+  "id": 1561513,
+  "title": "Como configurar duas contas do GitHub no seu computador utilizando chaves SSH",
+  "description": "Se você chegou até aqui, é provável que tenha se deparado com um problema muito comum para vários...",
+  "cover_image": "",
+  "slug": "como-configurar-duas-contas-do-github-no-seu-computador-utilizando-chaves-ssh-e80",
+  "url": "https://dev.to/ofelipexis/como-configurar-duas-contas-do-github-no-seu-computador-utilizando-chaves-ssh-e80",
+  "publish_date": "2023-08-10",
+  "published_at": "2023-08-10T12:42:29Z"
+ },
+ {
+  "id": 1564551,
+  "title": "The Role of Queues in Building Efficient Distributed Applications",
+  "description": "Unlocking seamless coordination. How queues empower efficient distributed application frameworks",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NG587BtQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/the-role-of-queues-in-building-efficient-distributed-applications/hero.png",
+  "slug": "the-role-of-queues-in-building-efficient-distributed-applications-1i6e",
+  "url": "https://dev.to/amplication/the-role-of-queues-in-building-efficient-distributed-applications-1i6e",
+  "publish_date": "2023-08-10",
+  "published_at": "2023-08-10T08:33:05Z"
+ },
+ {
+  "id": 1562642,
+  "title": "Differentiating Zustand and Redux",
+  "description": "Overview   Explore the differences between Zustand and Redux, two popular state management...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i_5ZbrC4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vpj9t8qif399fwiriq35.png",
+  "slug": "differentiating-zustand-and-redux-al6",
+  "url": "https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6",
+  "publish_date": "2023-08-10",
+  "published_at": "2023-08-10T02:06:47Z"
+ },
+ {
   "id": 1563842,
   "title": "Supabase Studio 3.0: AI SQL Editor, Schema Diagrams, and new Wrappers",
   "description": "Supabase Studio 3.0 is here, with some huge new features, including a brand new Supabase AI,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mapleleaf/tailwindcss-vs-unocss-2a53",
   "publish_date": "2023-05-01",
   "published_at": "2023-05-01T06:36:04Z"
- },
- {
-  "id": 1453140,
-  "title": "Proper use of git for beginners and beyond",
-  "description": "I have noticed that many programmers neglect the rules outlined below, or don't know about them....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lzSCJOE---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/su4mj2k1p68l24g5f1hc.png",
-  "slug": "proper-use-of-git-for-beginners-and-beyond-4fem",
-  "url": "https://dev.to/dmrompav/proper-use-of-git-for-beginners-and-beyond-4fem",
-  "publish_date": "2023-04-30",
-  "published_at": "2023-04-30T17:11:17Z"
- },
- {
-  "id": 1453045,
-  "title": "How Array.prototype.sort() works?",
-  "description": "The main reason that I decided to write this article is to explore what lies under the hood of the...",
-  "cover_image": "",
-  "slug": "how-arrayprototypesort-works-3kcn",
-  "url": "https://dev.to/bekmurzintimur/how-arrayprototypesort-works-3kcn",
-  "publish_date": "2023-04-30",
-  "published_at": "2023-04-30T16:07:12Z"
- },
- {
-  "id": 1448820,
-  "title": "Querying microservices in real-time with materialized views",
-  "description": "The distributed systems architecture has become increasingly popular due to its flexibility,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x_KPrMWu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nuhp7f72egmeit0qgubm.png",
-  "slug": "querying-microservices-in-real-time-with-materialized-views-211c",
-  "url": "https://dev.to/bobur/querying-microservices-in-real-time-with-materialized-views-211c",
-  "publish_date": "2023-04-30",
-  "published_at": "2023-04-30T10:19:35Z"
- },
- {
-  "id": 1451945,
-  "title": "My Favorite Free Courses to Learn JavaScript in depth",
-  "description": "These are my favorite online courses to learn JavaScript in depth, including react.js, vue.js, angular, and node.js",
-  "cover_image": "",
-  "slug": "my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
-  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-javascript-in-depth-3oe9",
-  "publish_date": "2023-04-30",
-  "published_at": "2023-04-30T04:44:40Z"
- },
- {
-  "id": 1452206,
-  "title": "What I learned from 2 years of freelancing 🤫💰",
-  "description": "Ah freelancing, the dream of working from anywhere in the world, being your own boss, and making a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QsJVVPDY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/49v705efdqrfc5aj47vv.png",
-  "slug": "what-i-learned-from-2-years-of-freelancing-44h8",
-  "url": "https://dev.to/ruppysuppy/what-i-learned-from-2-years-of-freelancing-44h8",
-  "publish_date": "2023-04-30",
-  "published_at": "2023-04-30T01:52:46Z"
  }
 ]
