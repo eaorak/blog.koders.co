@@ -1,5 +1,55 @@
 [
  {
+  "id": 1553895,
+  "title": "🚀 Building an Invoice PDF system with React.js , Redux and Node.js",
+  "description": "Building an Invoice PDF system with React.js, Redux, and Node.js can be a complex task, but I'm here...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RXlYMOow--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ai3s7vnlgphmzj4v77u3.png",
+  "slug": "building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a",
+  "url": "https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a",
+  "publish_date": "2023-08-12",
+  "published_at": "2023-08-12T11:27:19Z"
+ },
+ {
+  "id": 1566483,
+  "title": "The Key to Passing your AWS Solutions Architect Professional!!!",
+  "description": "Hey Folks,  It's been a while - however, I have been settling into my new role as DevOps Engineer /...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HhtPNL4X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a783conq4l1ggl99s9jh.jpeg",
+  "slug": "the-key-to-passing-your-aws-solutions-architect-professional-34a1",
+  "url": "https://dev.to/aws-builders/the-key-to-passing-your-aws-solutions-architect-professional-34a1",
+  "publish_date": "2023-08-12",
+  "published_at": "2023-08-12T08:27:46Z"
+ },
+ {
+  "id": 1565519,
+  "title": "Simplify Infinite Loading with React Query",
+  "description": "Introduction   Fetching data in React applications can be a challenge, especially when it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nIDfWLxj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gxcgr331hlck7a9ejg4z.png",
+  "slug": "simplify-infinite-loading-with-react-query-48oj",
+  "url": "https://dev.to/brainiacneit/simplify-infinite-loading-with-react-query-48oj",
+  "publish_date": "2023-08-12",
+  "published_at": "2023-08-12T08:26:59Z"
+ },
+ {
+  "id": 1566376,
+  "title": "The Ultimate Roadmap and Free Resources for Becoming a DevOps Engineer in 2023",
+  "description": "DevOps is an innovative software development methodology that aims to improve collaboration between...",
+  "cover_image": "",
+  "slug": "the-ultimate-roadmap-and-free-resources-for-becoming-a-devops-engineer-in-2023-5b8n",
+  "url": "https://dev.to/durgesh4993/the-ultimate-roadmap-and-free-resources-for-becoming-a-devops-engineer-in-2023-5b8n",
+  "publish_date": "2023-08-12",
+  "published_at": "2023-08-12T03:25:31Z"
+ },
+ {
+  "id": 1566295,
+  "title": "Figma sticky notes",
+  "description": "A post by Cats Juice",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fCyarNXp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7y2h5homjmeopo6g3j.png",
+  "slug": "figma-sticky-notes-10ed",
+  "url": "https://dev.to/catsjuice/figma-sticky-notes-10ed",
+  "publish_date": "2023-08-12",
+  "published_at": "2023-08-12T00:32:17Z"
+ },
+ {
   "id": 1566015,
   "title": "Supavisor: Scaling Postgres to 1 Million Connections",
   "description": "One of the most widely-discussed shortcomings of Postgres is it's connection system. Every Postgres...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jmfayard/everyone-should-learn-to-code-is-bullshit-2mgk",
   "publish_date": "2023-05-03",
   "published_at": "2023-05-03T04:52:47Z"
- },
- {
-  "id": 1454752,
-  "title": "Announcing Medusa’s Community Publication",
-  "description": "At Medusa, we’re introducing our new community publication, Medusa Community, hosted on Hashnode....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---uB0INM0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5vsyvgobp2ytpv1u082z.jpg",
-  "slug": "announcing-medusas-community-publication-e3f",
-  "url": "https://dev.to/medusajs/announcing-medusas-community-publication-e3f",
-  "publish_date": "2023-05-02",
-  "published_at": "2023-05-02T10:18:47Z"
- },
- {
-  "id": 1437811,
-  "title": "Building a course landing page with NextJS and React",
-  "description": "TL;DR   I have been working for Novu over the last year and have gained crazy growth Can you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--01WA67fZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uq67o04r66lmvpv0kaod.png",
-  "slug": "building-a-course-landing-page-with-nextjs-and-react-56kc",
-  "url": "https://dev.to/github20k/building-a-course-landing-page-with-nextjs-and-react-56kc",
-  "publish_date": "2023-05-02",
-  "published_at": "2023-05-02T10:00:05Z"
- },
- {
-  "id": 1454727,
-  "title": "How To Add In-App Notifications To Your Angular App",
-  "description": "TL;DR   This article explains how to add an in-app notification center to your Angular app...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IycJVBeM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/inn7cdel9mpa6kgp3qj9.png",
-  "slug": "how-to-add-in-app-notifications-to-your-angular-app-2dp3",
-  "url": "https://dev.to/novu/how-to-add-in-app-notifications-to-your-angular-app-2dp3",
-  "publish_date": "2023-05-02",
-  "published_at": "2023-05-02T08:50:55Z"
- },
- {
-  "id": 1454719,
-  "title": "⭐ An open-source tool for building React enterprise apps effortlessly in your browser",
-  "description": "🎉We are excited to announce our refine's first open-source cloud product: refine.new    refine.new...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WKbFkVkm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sp4530ztvh3ndedi36bw.png",
-  "slug": "an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7",
-  "url": "https://dev.to/necatiozmen/an-open-source-tool-for-building-react-enterprise-apps-effortlessly-in-your-browser-1gj7",
-  "publish_date": "2023-05-02",
-  "published_at": "2023-05-02T08:15:42Z"
- },
- {
-  "id": 1454622,
-  "title": "Win amazing prizes with ConnectNovu Hackathon 🚀",
-  "description": "The ConnectNovu Hackathon is live 🤩 This is your time to showcase your skills, meet new team members...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vZpIiS1t--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6hto9uqf9odahs5k2lhp.gif",
-  "slug": "win-amazing-prizes-with-connectnovu-hackathon-10pf",
-  "url": "https://dev.to/novu/win-amazing-prizes-with-connectnovu-hackathon-10pf",
-  "publish_date": "2023-05-02",
-  "published_at": "2023-05-02T05:38:32Z"
  }
 ]
