@@ -1,5 +1,55 @@
 [
  {
+  "id": 1567580,
+  "title": "Complementing exceptions - Introducing monads for error handling in ruby",
+  "description": "Have you ever considered your approach to handling exceptions? I'm referring to the method in which...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R52eBKAu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2csyj7x2y21wkrog1kog.png",
+  "slug": "complementing-exceptions-introducing-monads-on-ruby-5fip",
+  "url": "https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip",
+  "publish_date": "2023-08-13",
+  "published_at": "2023-08-13T22:03:04Z"
+ },
+ {
+  "id": 1567385,
+  "title": "*Beginner Friendly* Version control using `git`",
+  "description": "Introduction   Welcome 👋 to this blog. Did you hear about version control and want to learn...",
+  "cover_image": "",
+  "slug": "beginner-friendly-version-control-using-git-4m51",
+  "url": "https://dev.to/ankur0904/beginner-friendly-version-control-using-git-4m51",
+  "publish_date": "2023-08-13",
+  "published_at": "2023-08-13T17:58:17Z"
+ },
+ {
+  "id": 1550953,
+  "title": "Diagramming and Database Design📊🔍💡",
+  "description": "In today's data-driven world, efficient management of information is critical for the success of...",
+  "cover_image": "",
+  "slug": "diagramming-and-database-design-42ff",
+  "url": "https://dev.to/documatic/diagramming-and-database-design-42ff",
+  "publish_date": "2023-08-13",
+  "published_at": "2023-08-13T07:34:59Z"
+ },
+ {
+  "id": 1563531,
+  "title": "Authentication with middlewares in NextJS",
+  "description": "Overview   Hey there! Today, we're going to talk about authentication in Next.js using...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--17jJe7Vg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rqmyy8g9dtyjap74tc34.png",
+  "slug": "authentication-with-middlewares-in-nextjs-279p",
+  "url": "https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p",
+  "publish_date": "2023-08-13",
+  "published_at": "2023-08-13T03:14:33Z"
+ },
+ {
+  "id": 1567016,
+  "title": "Mocha/Chai with TypeScript (2023 update)",
+  "description": "I wrote an article in 2020 for using Mocha/Chai in a TypeScript project, that I'm using in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xv8XNUI4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1royniydr5r8jf1trp4l.jpg",
+  "slug": "mochachai-with-typescript-2023-update-281f",
+  "url": "https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f",
+  "publish_date": "2023-08-13",
+  "published_at": "2023-08-13T00:47:05Z"
+ },
+ {
   "id": 1553895,
   "title": "🚀 Building an Invoice PDF system with React.js , Redux and Node.js",
   "description": "Building an Invoice PDF system with React.js, Redux, and Node.js can be a complex task, but I'm here...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/imsampro/hashnode-bootcamp-day-1-welcome-and-introduction-to-writing-for-developers-1icp",
   "publish_date": "2023-05-04",
   "published_at": "2023-05-04T09:17:07Z"
- },
- {
-  "id": 1456249,
-  "title": "How to open source code from a private monorepo",
-  "description": "tl;dr   This post is about open-sourcing modules from a private monorepo. It’s a hard...",
-  "cover_image": "",
-  "slug": "how-to-open-source-code-from-a-private-monorepo-262o",
-  "url": "https://dev.to/carlossantillana/how-to-open-source-code-from-a-private-monorepo-262o",
-  "publish_date": "2023-05-03",
-  "published_at": "2023-05-03T16:13:26Z"
- },
- {
-  "id": 1456202,
-  "title": "Crafting Songs with ChatGPT and Sonic Pi: A Creative Collaboration",
-  "description": "Music is a universal language that has the power to evoke emotions, communicate stories, and connect...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n9tSXBfH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cjvuv5idnnc7e5ha8a38.png",
-  "slug": "crafting-songs-with-chatgpt-and-sonic-pi-a-creative-collaboration-4p3d",
-  "url": "https://dev.to/philipjohnbasile/crafting-songs-with-chatgpt-and-sonic-pi-a-creative-collaboration-4p3d",
-  "publish_date": "2023-05-03",
-  "published_at": "2023-05-03T14:25:30Z"
- },
- {
-  "id": 1456164,
-  "title": "How to implement a date picker in React",
-  "description": "Author: Irakli Tchigladze           Introduction   Having a date picker that is simple, intuitive and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5cWb78ne--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q9u4z0zwrvcsqfvhnsqh.png",
-  "slug": "how-to-implement-a-date-picker-in-react-1n5l",
-  "url": "https://dev.to/refine/how-to-implement-a-date-picker-in-react-1n5l",
-  "publish_date": "2023-05-03",
-  "published_at": "2023-05-03T13:44:47Z"
- },
- {
-  "id": 1455911,
-  "title": "Native AOT: The Future of .NET App Development",
-  "description": "In the world of software development, performance and efficiency are crucial. The .NET framework has...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZLQldSBe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7nfqsm088tgx5kszsh7w.png",
-  "slug": "native-aot-the-future-of-net-app-development-47ha",
-  "url": "https://dev.to/bytehide/native-aot-the-future-of-net-app-development-47ha",
-  "publish_date": "2023-05-03",
-  "published_at": "2023-05-03T09:26:29Z"
- },
- {
-  "id": 1455683,
-  "title": "\"Everyone Should Learn to Code\" is Bullshit",
-  "description": "Deeply ingrained in the hiring practices of too much tech companies lies the basic assumption that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HTO3XFId--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/95jweu63iprkspbc963p.png",
-  "slug": "everyone-should-learn-to-code-is-bullshit-2mgk",
-  "url": "https://dev.to/jmfayard/everyone-should-learn-to-code-is-bullshit-2mgk",
-  "publish_date": "2023-05-03",
-  "published_at": "2023-05-03T04:52:47Z"
  }
 ]
