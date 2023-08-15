@@ -1,5 +1,55 @@
 [
  {
+  "id": 1568072,
+  "title": "🤖 We asked AI to imagine web frameworks as superheroes 🦸‍♂️ 🦾",
+  "description": "Welcome to a world where web development meets superhero fandom! It's no secret that building...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lA6Y4R4e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fvngy6yvnav8ahsjorii.png",
+  "slug": "we-asked-ai-to-imagine-web-frameworks-as-superheroes-p0j",
+  "url": "https://dev.to/matijasos/we-asked-ai-to-imagine-web-frameworks-as-superheroes-p0j",
+  "publish_date": "2023-08-14",
+  "published_at": "2023-08-14T13:47:58Z"
+ },
+ {
+  "id": 1568092,
+  "title": "The (Detailed \u0026 Creative) Playbook for Getting More GitHub Stars",
+  "description": "TL;DR    My team and I recently launched an open source tool for developers  This was my...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tpQvgU5B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ks4tk7iunm8yj18bjsu.jpg",
+  "slug": "the-detailed-creative-playbook-for-more-github-stars-5fo5",
+  "url": "https://dev.to/livecycle/the-detailed-creative-playbook-for-more-github-stars-5fo5",
+  "publish_date": "2023-08-14",
+  "published_at": "2023-08-14T12:53:40Z"
+ },
+ {
+  "id": 1567083,
+  "title": "🔥 2 TRICKS 🔥 to build a Meetup.com clone with React in 30 minutes 🪄✨",
+  "description": "In this tutorial, you'll learn how to build a Meetup.com clone we will touch:   Create and join...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3XFuFGE5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uqq9ir6nnlg31q8ysh4v.png",
+  "slug": "2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm",
+  "url": "https://dev.to/novu/2-tricks-to-build-a-meetupcom-clone-with-react-in-30-minutes-9hm",
+  "publish_date": "2023-08-14",
+  "published_at": "2023-08-14T12:15:07Z"
+ },
+ {
+  "id": 1545764,
+  "title": "Full Stack Airbnb Clone with Next.js, Tailwind CSS, Zustand and Amplication",
+  "description": "In this blog post you'll learn how to create a Full Stack Airbnb Clone using Amplication.          ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kgmYvnQ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/auv6dcgp8o51qo8ogpi9.png",
+  "slug": "full-stack-airbnb-clone-with-nextjs-tailwind-css-zustand-and-amplication-125b",
+  "url": "https://dev.to/koolkishan/full-stack-airbnb-clone-with-nextjs-tailwind-css-zustand-and-amplication-125b",
+  "publish_date": "2023-08-14",
+  "published_at": "2023-08-14T10:33:47Z"
+ },
+ {
+  "id": 1567700,
+  "title": "Differentiating Material and Cupertino in Flutter",
+  "description": "Introduction   Creating native-like experiences on both Android and iOS platforms is crucial...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qw6vtmhv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i9hzf7g8khjoolyu7u8e.png",
+  "slug": "differentiating-material-and-cupertino-in-flutter-1pll",
+  "url": "https://dev.to/brainiacneit/differentiating-material-and-cupertino-in-flutter-1pll",
+  "publish_date": "2023-08-14",
+  "published_at": "2023-08-14T03:39:35Z"
+ },
+ {
   "id": 1567580,
   "title": "Complementing exceptions - Introducing monads for error handling in ruby",
   "description": "Have you ever considered your approach to handling exceptions? I'm referring to the method in which...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/archerallstars/now-i-know-the-reasons-why-firefox-is-falling-apart-the-foxs-downfall-explained-1dee",
   "publish_date": "2023-05-05",
   "published_at": "2023-05-05T05:55:22Z"
- },
- {
-  "id": 1457334,
-  "title": "Rust 🦀 CRUD Rest API",
-  "description": "Let's create a CRUD Rest API in Rust using:   No specific framework Serde to serialize and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pC_iwPsB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r9kruunjy3ipqthljxo8.png",
-  "slug": "rust-crud-rest-api-3n45",
-  "url": "https://dev.to/francescoxx/rust-crud-rest-api-3n45",
-  "publish_date": "2023-05-04",
-  "published_at": "2023-05-04T14:03:52Z"
- },
- {
-  "id": 1457309,
-  "title": "Which programming ecosystems are helped and hurt by generative AI?",
-  "description": "Which languages, frameworks, infrastructure, etc. is set to become more useful and important, and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--owHl8U6J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dy5xiwh15zz6cfdqxqit.png",
-  "slug": "which-programming-ecosystems-are-helped-and-hurt-by-generative-ai-3m38",
-  "url": "https://dev.to/ben/which-programming-ecosystems-are-helped-and-hurt-by-generative-ai-3m38",
-  "publish_date": "2023-05-04",
-  "published_at": "2023-05-04T13:31:29Z"
- },
- {
-  "id": 1457110,
-  "title": "Hashnode Bootcamp Day 3: Monetizing Your Expertise and Exploring Opportunities",
-  "description": "Hey there! Did you hear about the Hashnode Bootcamp? It was a three-day event from May 1-3 that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_LmMycTU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jqnw9d5sy5h15kzilwla.png",
-  "slug": "hashnode-bootcamp-day-3-monetizing-your-expertise-and-exploring-opportunities-2i2c",
-  "url": "https://dev.to/imsampro/hashnode-bootcamp-day-3-monetizing-your-expertise-and-exploring-opportunities-2i2c",
-  "publish_date": "2023-05-04",
-  "published_at": "2023-05-04T09:29:46Z"
- },
- {
-  "id": 1457105,
-  "title": "Hashnode Bootcamp Day 2: Personal Branding and Community Engagement",
-  "description": "Hey there! Did you hear about the Hashnode Bootcamp? It was a three-day event from May 1-3 that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RwDI7NWb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jr56nn9wahqx5zgsfh4t.png",
-  "slug": "hashnode-bootcamp-day-2-personal-branding-and-community-engagement-3ocp",
-  "url": "https://dev.to/imsampro/hashnode-bootcamp-day-2-personal-branding-and-community-engagement-3ocp",
-  "publish_date": "2023-05-04",
-  "published_at": "2023-05-04T09:24:14Z"
- },
- {
-  "id": 1457038,
-  "title": "Hashnode Bootcamp Day 1: Welcome and Introduction to Writing for Developers",
-  "description": "Hey there! Did you hear about the Hashnode Bootcamp? It was a three-day event from May 1-3 that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VOvunjYR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/owwk00tgqo3vx21wmsm4.png",
-  "slug": "hashnode-bootcamp-day-1-welcome-and-introduction-to-writing-for-developers-1icp",
-  "url": "https://dev.to/imsampro/hashnode-bootcamp-day-1-welcome-and-introduction-to-writing-for-developers-1icp",
-  "publish_date": "2023-05-04",
-  "published_at": "2023-05-04T09:17:07Z"
  }
 ]
