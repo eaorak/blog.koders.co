@@ -1,5 +1,55 @@
 [
  {
+  "id": 1570221,
+  "title": "Record in TypeScript: Unveiling Its Surprising Power",
+  "description": "Introduction:   TypeScript, with its robust type system, continues to offer developers an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nXqzFa0s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4qqrh7hynvxhcbo6hys6.png",
+  "slug": "record-in-typescript-unveiling-its-surprising-power-30kf",
+  "url": "https://dev.to/brainiacneit/record-in-typescript-unveiling-its-surprising-power-30kf",
+  "publish_date": "2023-08-17",
+  "published_at": "2023-08-17T14:10:02Z"
+ },
+ {
+  "id": 1571192,
+  "title": "Discover Simplicity and Fun in Tech with Dev Hots on LinkedIn!",
+  "description": "I'm thrilled to share some exciting news with you all. Drumroll, please… 🥁 I've launched a brand new...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OG7FBCHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ha686yln87h8e39j9pcu.png",
+  "slug": "discover-simplicity-and-fun-in-tech-with-dev-hots-on-linkedin-51l8",
+  "url": "https://dev.to/j471n/discover-simplicity-and-fun-in-tech-with-dev-hots-on-linkedin-51l8",
+  "publish_date": "2023-08-17",
+  "published_at": "2023-08-17T12:19:56Z"
+ },
+ {
+  "id": 1564061,
+  "title": "Ops friendly Apache APISIX",
+  "description": "Though I always worked on the Dev side of IT, I was also interested in the Ops side. I even had a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dDkF4lPe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfutlt6xpkhzdqbpj8gz.jpg",
+  "slug": "ops-friendly-apache-apisix-2b8c",
+  "url": "https://dev.to/apisix/ops-friendly-apache-apisix-2b8c",
+  "publish_date": "2023-08-17",
+  "published_at": "2023-08-17T09:02:00Z"
+ },
+ {
+  "id": 1569449,
+  "title": "OAuth2 is so complicated ... or 90 lines of code with Svelte",
+  "description": "So it's time for my first series. The idea is to show how easy, fast and secure it is to set up a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1SoEQ52S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tmkow9aabjes7u8ho0d.png",
+  "slug": "oauth2-is-so-complicated-or-90-lines-of-code-with-svelte-532",
+  "url": "https://dev.to/mpiorowski/oauth2-is-so-complicated-or-90-lines-of-code-with-svelte-532",
+  "publish_date": "2023-08-17",
+  "published_at": "2023-08-17T08:21:14Z"
+ },
+ {
+  "id": 1569868,
+  "title": "Generating Optimized Image Formats with Node.js",
+  "description": "Introduction   Images are an important part of any web application, but they can also be a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wJilP_0w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zftq1hg9nz4y048klgk.jpg",
+  "slug": "generating-optimized-image-formats-with-nodejs-hj3",
+  "url": "https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3",
+  "publish_date": "2023-08-17",
+  "published_at": "2023-08-17T02:24:19Z"
+ },
+ {
   "id": 1565854,
   "title": "🥇 The Best Serverless Framework in 2023: A Data-Driven Showdown for AWS Projects",
   "description": "Learn which is the best framework to develop serverless apps on AWS in 2023",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bytehide/creating-a-c-chatbot-with-chatgpt-easy-github-repo-4jih",
   "publish_date": "2023-05-08",
   "published_at": "2023-05-08T09:46:47Z"
- },
- {
-  "id": 1451939,
-  "title": "How Open Source Enabled Kubernetes’ Success",
-  "description": "This article is based on an interview with Kubernetes co-founder Brendan Burns who appeared on the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e1uawSRO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/calj3q9eocbcuf0ad13s.png",
-  "slug": "how-open-source-enabled-kubernetes-success-mnc",
-  "url": "https://dev.to/linearb/how-open-source-enabled-kubernetes-success-mnc",
-  "publish_date": "2023-05-07",
-  "published_at": "2023-05-07T20:46:52Z"
- },
- {
-  "id": 1460225,
-  "title": "useEffect - The Hook React Never Should Have Rendered",
-  "description": "React was once a fantastic library. Quick to learn, easy to customize and made it easy for you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8RLbTLp2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0hj07bkbjcbj356e0ny3.png",
-  "slug": "useeffect-the-hook-react-never-should-have-rendered-195h",
-  "url": "https://dev.to/perssondennis/useeffect-the-hook-react-never-should-have-rendered-195h",
-  "publish_date": "2023-05-07",
-  "published_at": "2023-05-07T14:29:00Z"
- },
- {
-  "id": 1460338,
-  "title": "What is the difference between frameworks and libraries?",
-  "description": "As a developer, it's important to understand the difference between frameworks and libraries, as they...",
-  "cover_image": "",
-  "slug": "what-is-the-difference-between-frameworks-and-libraries-294a",
-  "url": "https://dev.to/ugbabeog/what-is-the-difference-between-frameworks-and-libraries-294a",
-  "publish_date": "2023-05-07",
-  "published_at": "2023-05-07T14:16:04Z"
- },
- {
-  "id": 1460213,
-  "title": "If John Wick was a programmer, what language would he use?",
-  "description": "Let's get the discussion going! If John Wick were a programmer, what language do you think he would...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r2nyfZ2e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gld3dvz5ovuo9pp653af.jpg",
-  "slug": "if-john-wick-was-a-programmer-what-language-would-he-use-5949",
-  "url": "https://dev.to/ugbabeog/if-john-wick-was-a-programmer-what-language-would-he-use-5949",
-  "publish_date": "2023-05-07",
-  "published_at": "2023-05-07T10:34:25Z"
- },
- {
-  "id": 1460016,
-  "title": "Amazon says Micro Services are Rubbish",
-  "description": "More than a year ago I started on an article series where I wanted to debunk the myths of software...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5NNxLeHz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cse3mzvswexkvee8dinj.jpeg",
-  "slug": "amazon-says-micro-services-are-rubbish-1igm",
-  "url": "https://dev.to/polterguy/amazon-says-micro-services-are-rubbish-1igm",
-  "publish_date": "2023-05-07",
-  "published_at": "2023-05-07T04:51:33Z"
  }
 ]
