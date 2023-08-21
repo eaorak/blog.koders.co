@@ -1,5 +1,55 @@
 [
  {
+  "id": 1574069,
+  "title": "How to make an impact as a developer advocate",
+  "description": "Table of Contents    Introduction Why Make an Impact as a Developer Advocate?  Tips for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4LcGvsg2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1k7z8auw3r5k1870klx.jpeg",
+  "slug": "how-to-make-an-impact-as-a-developer-advocate-1jge",
+  "url": "https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge",
+  "publish_date": "2023-08-20",
+  "published_at": "2023-08-20T17:27:45Z"
+ },
+ {
+  "id": 1573846,
+  "title": "React Hook: useGlobalState",
+  "description": "Sharing state between React components is crucial in most applications. With useGlobalState you can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mIKY_TU4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j7u0548rdlmzh0gzus9d.png",
+  "slug": "react-hook-useglobalstate-3c9b",
+  "url": "https://dev.to/perssondennis/react-hook-useglobalstate-3c9b",
+  "publish_date": "2023-08-20",
+  "published_at": "2023-08-20T14:35:37Z"
+ },
+ {
+  "id": 1573842,
+  "title": "Designing an Autocomplete UI Component 🔍",
+  "description": "In the ever-evolving landscape of web development, creating intuitive user interfaces is paramount....",
+  "cover_image": "",
+  "slug": "designing-an-autocomplete-ui-component-2fbd",
+  "url": "https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd",
+  "publish_date": "2023-08-20",
+  "published_at": "2023-08-20T11:55:19Z"
+ },
+ {
+  "id": 1573721,
+  "title": "The ChatGPT Boom is Over - FINALLY!",
+  "description": "The last 9 months we've seen a boom without historical precedence. I am of course talking about the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fi9xDDcR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lg1goe8co6adwwdflrt7.jpeg",
+  "slug": "the-chatgpt-boom-is-over-finally-45db",
+  "url": "https://dev.to/polterguy/the-chatgpt-boom-is-over-finally-45db",
+  "publish_date": "2023-08-20",
+  "published_at": "2023-08-20T08:04:36Z"
+ },
+ {
+  "id": 1573624,
+  "title": "Bare Metal vs Virtual Machine vs Containers",
+  "description": "I was scrolling through yt and found an interesting channel you can follow too. This blog elaborate...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lHR4Ias6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/btnz9q4ub5sb6dw85757.png",
+  "slug": "bare-metal-vs-virtual-machine-vs-containers-a7e",
+  "url": "https://dev.to/scorcism/bare-metal-vs-virtual-machine-vs-containers-a7e",
+  "publish_date": "2023-08-20",
+  "published_at": "2023-08-20T03:27:55Z"
+ },
+ {
   "id": 1573422,
   "title": "React - Portals",
   "description": "In the world of React, creating dynamic user interfaces is a common requirement. Sometimes, you need...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/my-favorite-books-for-coding-interviews-106j",
   "publish_date": "2023-05-11",
   "published_at": "2023-05-11T03:33:43Z"
- },
- {
-  "id": 1350545,
-  "title": "Typescript: Interface",
-  "description": "In this article, you'll learn about what interface are and how to use them, along with the difference...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Mf8Imu1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yc75wm84701b20xxzmnk.png",
-  "slug": "typescript-interface-3748",
-  "url": "https://dev.to/j471n/typescript-interface-3748",
-  "publish_date": "2023-05-10",
-  "published_at": "2023-05-10T17:10:52Z"
- },
- {
-  "id": 1462827,
-  "title": "Learn serverless on AWS step-by-step - Step Functions",
-  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UGJEoRVJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/step-functions/assets/cover-image.png",
-  "slug": "learn-serverless-on-aws-step-by-step-step-functions-4m7c",
-  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-step-functions-4m7c",
-  "publish_date": "2023-05-10",
-  "published_at": "2023-05-10T13:02:46Z"
- },
- {
-  "id": 1463452,
-  "title": "How to use Material UI Modal",
-  "description": "Author: Doro Onome           Introduction   Material UI is a popular front-end library for React that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cbA-8N_v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ei7mdpgeefpqmiss2d2q.png",
-  "slug": "how-to-use-material-ui-modal-21dh",
-  "url": "https://dev.to/refine/how-to-use-material-ui-modal-21dh",
-  "publish_date": "2023-05-10",
-  "published_at": "2023-05-10T11:44:56Z"
- },
- {
-  "id": 1463279,
-  "title": "Speeding up B2B pricing on your website",
-  "description": "It's all 'bout the money. It's all 'bout the dum dum da da dum dum. If you were rocking it in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DhDFDKx6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2gjmf7oyyb9qstfezu7b.png",
-  "slug": "speeding-up-b2b-pricing-on-your-website-112i",
-  "url": "https://dev.to/enterspeed/speeding-up-b2b-pricing-on-your-website-112i",
-  "publish_date": "2023-05-10",
-  "published_at": "2023-05-10T08:22:01Z"
- },
- {
-  "id": 1463190,
-  "title": "How to Judo Mansplaining",
-  "description": "Mansplaining, like menstruating, is a regular, unpleasant and even infuriating aspect of being a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GvIKDb6C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vzkri1jvqej0qxwj6ae0.png",
-  "slug": "how-do-judo-mansplaining-471g",
-  "url": "https://dev.to/jmfayard/how-do-judo-mansplaining-471g",
-  "publish_date": "2023-05-10",
-  "published_at": "2023-05-10T05:22:41Z"
  }
 ]
