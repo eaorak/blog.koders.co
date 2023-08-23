@@ -1,5 +1,55 @@
 [
  {
+  "id": 1577011,
+  "title": "Autenticação e Autorização de uma ASP .NET Web API com Keycloak",
+  "description": "Olá pessoal!  No meu primeiro artigo eu gostaria de falar um pouco sobre autenticação, autorização e...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xQ-8-p7U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmfw9812goul42jo37mg.png",
+  "slug": "autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe",
+  "url": "https://dev.to/gloinho/autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe",
+  "publish_date": "2023-08-22",
+  "published_at": "2023-08-22T21:52:37Z"
+ },
+ {
+  "id": 1576625,
+  "title": "CSS Lube: Highly-optimized CSS Interpreter",
+  "description": "Introduction   The landscape of CSS paradigms has seen a constant evolution, marked by the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jL8Wm8AW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xitkl17vsskq85yxt1a0.gif",
+  "slug": "css-lube-highly-optimized-css-interpreter-2nl5",
+  "url": "https://dev.to/artxe2/css-lube-highly-optimized-css-interpreter-2nl5",
+  "publish_date": "2023-08-22",
+  "published_at": "2023-08-22T15:02:15Z"
+ },
+ {
+  "id": 1576401,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round-up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-10nm",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10nm",
+  "publish_date": "2023-08-22",
+  "published_at": "2023-08-22T13:51:02Z"
+ },
+ {
+  "id": 1574853,
+  "title": "⭐5 open-source libraries you must know⭐ Week 2",
+  "description": "Hello Everyone, Welcome to Week 2 of showing and sharing new open-source projects to the community....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgtLVcIT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tflizk8duwttphvhxnt3.png",
+  "slug": "5-open-source-libraries-you-must-know-week-2-1hjg",
+  "url": "https://dev.to/idurar/5-open-source-libraries-you-must-know-week-2-1hjg",
+  "publish_date": "2023-08-22",
+  "published_at": "2023-08-22T13:00:00Z"
+ },
+ {
+  "id": 1576306,
+  "title": "Outsmarting AI 🤖🧠 The hack for generating fully-functional web apps",
+  "description": "TL;DR   I’m an indiehacker that likes creating lots of fun side-projects, like my SaaS app...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T3OsrsN6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80thksmm9gv7hje7acmt.gif",
+  "slug": "outsmarting-ai-the-hack-for-generating-fully-functional-web-apps-13ja",
+  "url": "https://dev.to/wasp/outsmarting-ai-the-hack-for-generating-fully-functional-web-apps-13ja",
+  "publish_date": "2023-08-22",
+  "published_at": "2023-08-22T12:00:00Z"
+ },
+ {
   "id": 1575111,
   "title": "Getting Started with GitHub Copilot Chat in VSCode",
   "description": "GitHub Copilot Chat is an extension that works in your Code Editor or IDE (VS Code or Visual Studio...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/kubernetes-101-part-viii-networking-fundamentals-mo7",
   "publish_date": "2023-05-13",
   "published_at": "2023-05-13T01:56:54Z"
- },
- {
-  "id": 1465969,
-  "title": "What was your win this week?",
-  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-3c91",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-3c91",
-  "publish_date": "2023-05-12",
-  "published_at": "2023-05-12T14:02:32Z"
- },
- {
-  "id": 1465948,
-  "title": "git diff - Comparing Changes in Git",
-  "description": "Author: Muhammad Khabbab           Introduction   Git can be thrilling and, at the same time,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TRPocOT9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1apr8apperkyke4vvwg.png",
-  "slug": "git-diff-comparing-changes-in-git-3n5m",
-  "url": "https://dev.to/refine/git-diff-comparing-changes-in-git-3n5m",
-  "publish_date": "2023-05-12",
-  "published_at": "2023-05-12T13:58:30Z"
- },
- {
-  "id": 1465290,
-  "title": "Simplicity Is the Ultimate Sophistication",
-  "description": "When I landed a job at Microsoft fresh out of college, I was eager to dive into the deep end of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--inr3Z3mj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1qosp9r52fchhqsz3u9s.jpg",
-  "slug": "simplicity-is-the-ultimate-sophistication-1cfk",
-  "url": "https://dev.to/zenstack/simplicity-is-the-ultimate-sophistication-1cfk",
-  "publish_date": "2023-05-12",
-  "published_at": "2023-05-12T09:30:00Z"
- },
- {
-  "id": 1464121,
-  "title": "Team or Solo: Which Path Leads to Project Success?",
-  "description": "Let's weigh the pros and cons: working on a project with a large team versus flying solo as a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kb3CNr4Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zvb0cgku34t33g5xn0i.png",
-  "slug": "team-or-solo-which-path-leads-to-project-success-337",
-  "url": "https://dev.to/devteam/team-or-solo-which-path-leads-to-project-success-337",
-  "publish_date": "2023-05-12",
-  "published_at": "2023-05-12T07:00:00Z"
- },
- {
-  "id": 1465533,
-  "title": "Weird Follower Spike on Dev.to",
-  "description": "Yesterday I got an email from dev.to covering a significant spike in my followers:    I typically get...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a6jwDbwZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sg6oe5927kcp8gsgi8og.png",
-  "slug": "weird-follower-spike-on-devto-41jm",
-  "url": "https://dev.to/codenameone/weird-follower-spike-on-devto-41jm",
-  "publish_date": "2023-05-12",
-  "published_at": "2023-05-12T05:00:16Z"
  }
 ]
