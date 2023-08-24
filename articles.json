@@ -1,5 +1,55 @@
 [
  {
+  "id": 1577530,
+  "title": "Tipos de dados primitivos com Java",
+  "description": "Java é uma das linguagens de programação mais utilizadas do mundo, conhecida por sua robustez,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iVZ7qw6z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quhua5j5qjwu2md3liqk.png",
+  "slug": "tipos-de-dados-primitivos-com-java-3o4g",
+  "url": "https://dev.to/monokai_dev/tipos-de-dados-primitivos-com-java-3o4g",
+  "publish_date": "2023-08-23",
+  "published_at": "2023-08-23T11:38:41Z"
+ },
+ {
+  "id": 1577446,
+  "title": "Singleton Design Pattern in C#: Full Guide",
+  "description": "Have you ever wondered how to maintain a unique instance throughout the lifecycle of an application...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yx3Qh4LZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpl1sigm3pk8q90pwzno.png",
+  "slug": "singleton-design-pattern-in-c-full-guide-12f0",
+  "url": "https://dev.to/bytehide/singleton-design-pattern-in-c-full-guide-12f0",
+  "publish_date": "2023-08-23",
+  "published_at": "2023-08-23T10:01:24Z"
+ },
+ {
+  "id": 1489756,
+  "title": "Welcome Thread - v239",
+  "description": "Welcome to DEV! A thread of hellos and intros.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ToZbxUFF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gl6twd8r59cvwqlllw7.jpg",
+  "slug": "welcome-thread-v241-hoc",
+  "url": "https://dev.to/devteam/welcome-thread-v241-hoc",
+  "publish_date": "2023-08-23",
+  "published_at": "2023-08-23T09:30:00Z"
+ },
+ {
+  "id": 1577419,
+  "title": "This VsCode Extension is a game changer⚡",
+  "description": "Do you find it difficult to switch between tabs when seeking code assistance from ChatGPT? Have you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nq0xwPtP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e9o175b5vzgzlb88i32l.png",
+  "slug": "this-vscode-extension-is-a-game-changer-1413",
+  "url": "https://dev.to/sadeedpv/this-vscode-extension-is-a-game-changer-1413",
+  "publish_date": "2023-08-23",
+  "published_at": "2023-08-23T09:18:50Z"
+ },
+ {
+  "id": 1576546,
+  "title": "Netflix System Design Using AWS Services",
+  "description": "In the digital age of streaming, Netflix has revolutionized how we consume content. Behind its...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BR6rRrGl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7r1cvegluznqvazwo17s.png",
+  "slug": "netflix-system-design-using-aws-services-27d6",
+  "url": "https://dev.to/koolkishan/netflix-system-design-using-aws-services-27d6",
+  "publish_date": "2023-08-23",
+  "published_at": "2023-08-23T06:48:31Z"
+ },
+ {
   "id": 1577011,
   "title": "Autenticação e Autorização de uma ASP .NET Web API com Keycloak",
   "description": "Olá pessoal!  No meu primeiro artigo eu gostaria de falar um pouco sobre autenticação, autorização e...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruppysuppy/7-secret-typescript-tricks-pros-use-3ckg",
   "publish_date": "2023-05-14",
   "published_at": "2023-05-14T06:15:36Z"
- },
- {
-  "id": 1467057,
-  "title": "Use Notion as a database for your Next.JS Blog",
-  "description": "Notion is an extremely powerful tool to manage your content by creating a database you can even add...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--apc2CJbN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hvd5qjh4jumkrqy3uqww.png",
-  "slug": "use-notion-as-a-database-for-your-nextjs-blog-195p",
-  "url": "https://dev.to/martinp/use-notion-as-a-database-for-your-nextjs-blog-195p",
-  "publish_date": "2023-05-13",
-  "published_at": "2023-05-13T16:31:41Z"
- },
- {
-  "id": 1466964,
-  "title": "Bose Web Scraping Tutorial",
-  "description": "In This tutorial you will learn about the Bose framework, a framework which provides an easier and...",
-  "cover_image": "",
-  "slug": "bose-web-scraping-tutorial-3lff",
-  "url": "https://dev.to/kumarchandan1991/bose-web-scraping-tutorial-3lff",
-  "publish_date": "2023-05-13",
-  "published_at": "2023-05-13T14:01:28Z"
- },
- {
-  "id": 1466802,
-  "title": "50 Chat GPT Prompts Every Software Developer Should Know (Tested)",
-  "description": "In this article, we'll explore some awesome ChatGPT-4 prompts specifically tailored for software...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iZzuaH8E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.hashnode.com/res/hashnode/image/upload/v1683901143225/f63c7a71-2aaf-4a97-9122-96589257dba5.jpeg",
-  "slug": "50-chat-gpt-prompts-every-software-developer-should-know-tested-9al",
-  "url": "https://dev.to/hackertab_org/50-chat-gpt-prompts-every-software-developer-should-know-tested-9al",
-  "publish_date": "2023-05-13",
-  "published_at": "2023-05-13T10:00:42Z"
- },
- {
-  "id": 1465523,
-  "title": "My Favorite Websites to Learn SQL for FREE in 2023",
-  "description": "These are the best websites, platforms and online places to learn SQL for free in 2023",
-  "cover_image": "",
-  "slug": "my-favorite-websites-to-learn-sql-for-free-in-2023-1g6d",
-  "url": "https://dev.to/javinpaul/my-favorite-websites-to-learn-sql-for-free-in-2023-1g6d",
-  "publish_date": "2023-05-13",
-  "published_at": "2023-05-13T06:22:50Z"
- },
- {
-  "id": 1464317,
-  "title": "Kubernetes 101, part VIII, networking fundamentals",
-  "description": "So far, we have gained an understanding of the primary workload objects in Kubernetes.   These...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rYuw9u-x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a7sxc0r4uw8exbs57xp5.png",
-  "slug": "kubernetes-101-part-viii-networking-fundamentals-mo7",
-  "url": "https://dev.to/leandronsp/kubernetes-101-part-viii-networking-fundamentals-mo7",
-  "publish_date": "2023-05-13",
-  "published_at": "2023-05-13T01:56:54Z"
  }
 ]
