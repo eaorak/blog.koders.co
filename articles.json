@@ -1,5 +1,55 @@
 [
  {
+  "id": 1579816,
+  "title": "What to look for when hiring a new engineer for your team?",
+  "description": "During my career, I had the pleasure to interview more than 300 engineers.  Throughout my experience,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_HC2dEaP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/im4brksi6igcsfs6py4j.jpg",
+  "slug": "what-to-look-for-when-hiring-a-new-engineer-for-your-team-ndb",
+  "url": "https://dev.to/gregorojstersek/what-to-look-for-when-hiring-a-new-engineer-for-your-team-ndb",
+  "publish_date": "2023-08-25",
+  "published_at": "2023-08-25T13:42:23Z"
+ },
+ {
+  "id": 1579717,
+  "title": "API Integration: GraphQL vs gRPC vs REST: Which API is Right for You?",
+  "description": "APIs (Application Programming Interfaces) play an important role in enabling communication and data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tA8xHeaH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b7q1htyq270dxir9gf7g.jpg",
+  "slug": "api-integration-graphql-vs-grpc-vs-rest-which-api-is-right-for-you-hl9",
+  "url": "https://dev.to/newsdataio/api-integration-graphql-vs-grpc-vs-rest-which-api-is-right-for-you-hl9",
+  "publish_date": "2023-08-25",
+  "published_at": "2023-08-25T10:58:15Z"
+ },
+ {
+  "id": 1565895,
+  "title": "What was your win this week?",
+  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vsTDfqRZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyck78r593005hlbngyn.jpg",
+  "slug": "what-was-your-win-this-week-bbi",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-bbi",
+  "publish_date": "2023-08-25",
+  "published_at": "2023-08-25T09:30:00Z"
+ },
+ {
+  "id": 1575021,
+  "title": "Open Source: What’s Your Contribution?",
+  "description": "Do you actively contribute to open source projects? What motivates you to contribute, and what are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X48LFF0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/toqxcykyqqi28584lc4f.png",
+  "slug": "open-source-whats-your-contribution-51p5",
+  "url": "https://dev.to/devteam/open-source-whats-your-contribution-51p5",
+  "publish_date": "2023-08-25",
+  "published_at": "2023-08-25T07:00:00Z"
+ },
+ {
+  "id": 1571293,
+  "title": "WTF Is a Vector Database: A Beginner's Guide!",
+  "description": "In the age of burgeoning data complexity and high-dimensional information, traditional databases...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-cXOkVW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v1p0o6im81aah6ajdz1b.png",
+  "slug": "wtf-is-a-vector-database-a-beginners-guide-16p",
+  "url": "https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p",
+  "publish_date": "2023-08-25",
+  "published_at": "2023-08-25T04:27:39Z"
+ },
+ {
   "id": 1573567,
   "title": "Diving into the GitHub Octernships program with OpenSauced",
   "description": "In my last blog post, I shared how I got selected for the GitHub Octernships program and how you can...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/rbac-with-api-gateway-and-open-policy-agentopa-a3",
   "publish_date": "2023-05-16",
   "published_at": "2023-05-16T07:59:43Z"
- },
- {
-  "id": 1468472,
-  "title": "What is Vite? \u0026 Vite vs Webpack",
-  "description": "Author: Victor Uma           Introduction   We'll talk about the history of Vite and the importance...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rBNsA9DI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/prgtnc8i0tyt24ovk2e6.png",
-  "slug": "what-is-vite-vite-vs-webpack-5e27",
-  "url": "https://dev.to/refine/what-is-vite-vite-vs-webpack-5e27",
-  "publish_date": "2023-05-15",
-  "published_at": "2023-05-15T13:35:25Z"
- },
- {
-  "id": 1468592,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fq3BunrE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mpzt9f9zt3nm6ttoy10h.png",
-  "slug": "meme-monday-2af4",
-  "url": "https://dev.to/ben/meme-monday-2af4",
-  "publish_date": "2023-05-15",
-  "published_at": "2023-05-15T11:51:40Z"
- },
- {
-  "id": 1468565,
-  "title": "Medusa Community Highlights: Strapi Integration, SES Plugin, and More!",
-  "description": "Changing the way commerce is built is no easy undertaking. Therefore, we are incredibly excited about...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uq97QXiE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z6y0ayxfqx3kyswct8jh.jpg",
-  "slug": "medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim",
-  "url": "https://dev.to/medusajs/medusa-community-highlights-strapi-integration-ses-plugin-and-more-3mim",
-  "publish_date": "2023-05-15",
-  "published_at": "2023-05-15T11:42:02Z"
- },
- {
-  "id": 1468473,
-  "title": "100 C# Code Snippets for Everyday Problems✨",
-  "description": "Welcome to this comprehensive compilation of 100 C# code snippets designed to tackle everyday...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UUHUv9UN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8v5ermu6d7z9qi7zli5t.png",
-  "slug": "100-c-code-snippets-for-everyday-problems-2d83",
-  "url": "https://dev.to/bytehide/100-c-code-snippets-for-everyday-problems-2d83",
-  "publish_date": "2023-05-15",
-  "published_at": "2023-05-15T09:56:37Z"
- },
- {
-  "id": 1467459,
-  "title": "10 Books to Improve Coding Skill in 2023",
-  "description": "These are my favorite books to learn programming better and improve your coding skill.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AhDBeEs_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qlzjl5pr629o6owr9x8j.jpg",
-  "slug": "10-books-to-improve-coding-skill-in-2023-3475",
-  "url": "https://dev.to/javinpaul/10-books-to-improve-coding-skill-in-2023-3475",
-  "publish_date": "2023-05-15",
-  "published_at": "2023-05-15T04:36:50Z"
  }
 ]
