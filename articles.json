@@ -1,5 +1,55 @@
 [
  {
+  "id": 1580826,
+  "title": "Mind Blowing CSS Only Animation in 2023",
+  "description": "Mind Blowing CSS Only Animation in 2023                Watch Full Video",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--L_VfRntl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bs1h5v9e5nmv25ry80d2.jpg",
+  "slug": "mind-blowing-css-only-animation-in-2023-f2c",
+  "url": "https://dev.to/democode7451/mind-blowing-css-only-animation-in-2023-f2c",
+  "publish_date": "2023-08-26",
+  "published_at": "2023-08-26T16:46:08Z"
+ },
+ {
+  "id": 1580715,
+  "title": "A Developer's Guide to Blogging",
+  "description": "An impartial guide to blogging as a developer, from setting up your site to SEO \u0026 syndication",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E01DqAjv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sb02499x5ofzyq4mp2sq.jpg",
+  "slug": "a-developers-guide-to-blogging-n01",
+  "url": "https://dev.to/robertmjohnson/a-developers-guide-to-blogging-n01",
+  "publish_date": "2023-08-26",
+  "published_at": "2023-08-26T14:58:52Z"
+ },
+ {
+  "id": 1580375,
+  "title": "AWS ECS Basics and Tips",
+  "description": "Note: This content was originally published at the Simple AWS newsletter. Understand the Why behind...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OletWR4U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1g1az2ocj7ttr66m7p3k.jpg",
+  "slug": "elastic-container-service-basics-and-tips-fhe",
+  "url": "https://dev.to/aws-builders/elastic-container-service-basics-and-tips-fhe",
+  "publish_date": "2023-08-26",
+  "published_at": "2023-08-26T14:45:00Z"
+ },
+ {
+  "id": 1574074,
+  "title": "Why I started writing regularly",
+  "description": "The original post was published on my blog on June 20, 2023, long before I realized it might be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t9KjvJx1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/631t1mov0d50taq3grc5.png",
+  "slug": "why-i-started-writing-regularly-2f7f",
+  "url": "https://dev.to/azasypkin/why-i-started-writing-regularly-2f7f",
+  "publish_date": "2023-08-26",
+  "published_at": "2023-08-26T11:00:00Z"
+ },
+ {
+  "id": 1580014,
+  "title": "Understanding Promise in JavaScript",
+  "description": "As per MDN Web Docs, A promise is an object representing the eventual completion or failure of an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cNMXZ_PM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/709kx3a6hb9p4msfulrf.png",
+  "slug": "understanding-promise-in-javascript-45kc",
+  "url": "https://dev.to/shameel/understanding-promise-in-javascript-45kc",
+  "publish_date": "2023-08-26",
+  "published_at": "2023-08-26T07:42:20Z"
+ },
+ {
   "id": 1579816,
   "title": "What to look for when hiring a new engineer for your team?",
   "description": "During my career, I had the pleasure to interview more than 300 engineers.  Throughout my experience,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dodoengineering/how-we-translated-the-dodo-pizza-app-into-arabic-2pki",
   "publish_date": "2023-05-17",
   "published_at": "2023-05-17T06:46:58Z"
- },
- {
-  "id": 1470036,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AswacZaZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pzhd2bwxocmy4hc5zemh.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-ibc",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-ibc",
-  "publish_date": "2023-05-16",
-  "published_at": "2023-05-16T14:39:13Z"
- },
- {
-  "id": 1469838,
-  "title": "How Next.js Redirects Work",
-  "description": "Author: Michael Hungbo Uma           Introduction   The concept of URL redirection in web application...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QW5_vak_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16d78ipgu4x3pgvgswbd.png",
-  "slug": "how-nextjs-redirects-work-3j9p",
-  "url": "https://dev.to/refine/how-nextjs-redirects-work-3j9p",
-  "publish_date": "2023-05-16",
-  "published_at": "2023-05-16T11:25:48Z"
- },
- {
-  "id": 1469719,
-  "title": "How to build an application shell layout for Tailwind CSS",
-  "description": "Today I would like to show how you can build a simple application shell layouts with a sticky...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M4Dx7-OJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gm5malyo9b3drs5mwfid.png",
-  "slug": "how-to-build-an-application-shell-layout-for-tailwind-css-247k",
-  "url": "https://dev.to/themesberg/how-to-build-an-application-shell-layout-for-tailwind-css-247k",
-  "publish_date": "2023-05-16",
-  "published_at": "2023-05-16T10:08:38Z"
- },
- {
-  "id": 1468620,
-  "title": "Announcing the Built With Appwrite Platform",
-  "description": "A big part of growing Appwrite’s developer ecosystem is providing the right platform for our builders...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xi5eXoFu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ha90gs03cgudt2d25xap.png",
-  "slug": "announcing-the-built-with-appwrite-platform-c7j",
-  "url": "https://dev.to/appwrite/announcing-the-built-with-appwrite-platform-c7j",
-  "publish_date": "2023-05-16",
-  "published_at": "2023-05-16T09:19:59Z"
- },
- {
-  "id": 1454751,
-  "title": "RBAC with API Gateway and Open Policy Agent(OPA)",
-  "description": "With various access control models and implementation methods available, constructing an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d1RtUsWP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ldufvt4p5zsx00dkftbd.png",
-  "slug": "rbac-with-api-gateway-and-open-policy-agentopa-a3",
-  "url": "https://dev.to/apisix/rbac-with-api-gateway-and-open-policy-agentopa-a3",
-  "publish_date": "2023-05-16",
-  "published_at": "2023-05-16T07:59:43Z"
  }
 ]
