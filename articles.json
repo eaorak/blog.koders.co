@@ -1,5 +1,55 @@
 [
  {
+  "id": 1581546,
+  "title": "A first project with ExpressoTS",
+  "description": "Introduction   ExpressoTS is a new developer-friendly TypeScript framework for Server-Side...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--msRGBlfK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z8yp4pvy562j8occe1qd.png",
+  "slug": "a-first-project-with-expressots-30e8",
+  "url": "https://dev.to/expressots/a-first-project-with-expressots-30e8",
+  "publish_date": "2023-08-27",
+  "published_at": "2023-08-27T17:35:21Z"
+ },
+ {
+  "id": 1565905,
+  "title": "Conway's game of life...in pure SQL [Postgres]! 💪🏼🤯",
+  "description": "OK, for those of you who are new here, I like to do things that have never been done (and should...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4JeUq3EN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gvbdqguqefcsdj1en9mw.jpg",
+  "slug": "conways-game-of-lifein-pure-sql-postgres-2okc",
+  "url": "https://dev.to/grahamthedev/conways-game-of-lifein-pure-sql-postgres-2okc",
+  "publish_date": "2023-08-27",
+  "published_at": "2023-08-27T11:52:02Z"
+ },
+ {
+  "id": 1581235,
+  "title": "Shell Scripting 101: Essential Commands for Every Developer",
+  "description": "Shell Scripting 101: Essential Commands for Every Developer  Diving into the universe of shell...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TT5vlRWu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5py249v6yxb67u8ggvjf.jpg",
+  "slug": "shell-scripting-101-essential-commands-for-every-developer-j3p",
+  "url": "https://dev.to/devrx/shell-scripting-101-essential-commands-for-every-developer-j3p",
+  "publish_date": "2023-08-27",
+  "published_at": "2023-08-27T08:04:56Z"
+ },
+ {
+  "id": 1569114,
+  "title": "Winding down",
+  "description": "I've been programming more or less professionally for a living since 1978.  And I still am 45 years...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oQGWusYq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bpbtzcvw65apmycfyzzv.png",
+  "slug": "winding-down-mof",
+  "url": "https://dev.to/lizmat/winding-down-mof",
+  "publish_date": "2023-08-27",
+  "published_at": "2023-08-27T07:30:00Z"
+ },
+ {
+  "id": 1581162,
+  "title": "Co-authoring Git commits",
+  "description": "Sometimes you want to be able to credit others in a single Git commit, and luckily that's possible!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SW4pHzy1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1516321497487-e288fb19713f%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D2970%26q%3D80",
+  "slug": "co-authoring-git-commits-3gin",
+  "url": "https://dev.to/cassidoo/co-authoring-git-commits-3gin",
+  "publish_date": "2023-08-27",
+  "published_at": "2023-08-27T05:45:23Z"
+ },
+ {
   "id": 1580826,
   "title": "Mind Blowing CSS Only Animation in 2023",
   "description": "Mind Blowing CSS Only Animation in 2023                Watch Full Video",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/this-is-learning/copilot-chat-writes-unit-tests-for-you-1c82",
   "publish_date": "2023-05-18",
   "published_at": "2023-05-18T06:53:23Z"
- },
- {
-  "id": 1471300,
-  "title": "Best Practices for Writing on DEV: Topics",
-  "description": "Hey devs! Time for another installment in our Best Practices for Writing on DEV series. Today I'll...",
-  "cover_image": "",
-  "slug": "best-practices-for-writing-on-dev-topics-1d0j",
-  "url": "https://dev.to/devteam/best-practices-for-writing-on-dev-topics-1d0j",
-  "publish_date": "2023-05-17",
-  "published_at": "2023-05-17T16:01:27Z"
- },
- {
-  "id": 1470957,
-  "title": "Building A Slack Clone With Preview Environments",
-  "description": "TL;DR   In this tutorial, we’re going to build a full-stack Slack-like application, with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--diBLpFuU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbul39k6n85v6jefk2yj.jpg",
-  "slug": "building-a-slack-clone-with-preview-environments-2dh6",
-  "url": "https://dev.to/livecycle/building-a-slack-clone-with-preview-environments-2dh6",
-  "publish_date": "2023-05-17",
-  "published_at": "2023-05-17T10:54:00Z"
- },
- {
-  "id": 1470892,
-  "title": "Deep Neural Network from Scratch in Rust : Part 1- Basics of Neural Network",
-  "description": "Introduction   Hi there! I'm excited to share with you my latest blog post on building a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jQ5dxtGE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/16naxw1qs8njdskwhqvb.png",
-  "slug": "deep-neural-network-from-scratch-in-rust-part-1-basics-of-neural-network-1pgg",
-  "url": "https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-1-basics-of-neural-network-1pgg",
-  "publish_date": "2023-05-17",
-  "published_at": "2023-05-17T10:52:54Z"
- },
- {
-  "id": 1470886,
-  "title": "Deactivate Angular NgZone selectively — the easy way",
-  "description": "A fine-grained control over Angular's change detection mechanism is here and ready to be...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XcIE3qMP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tioa9e8zotci2yiu9rju.jpg",
-  "slug": "deactivate-angular-ngzone-selectively-the-easy-way-54b5",
-  "url": "https://dev.to/this-is-angular/deactivate-angular-ngzone-selectively-the-easy-way-54b5",
-  "publish_date": "2023-05-17",
-  "published_at": "2023-05-17T10:12:16Z"
- },
- {
-  "id": 1469642,
-  "title": "How We Translated the Dodo Pizza App into Arabic",
-  "description": "What do you know about adding the support of right to left (RTL) languages in iOS apps? You have to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hho1x6h2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oykcr5fzaeaipgoa2iye.png",
-  "slug": "how-we-translated-the-dodo-pizza-app-into-arabic-2pki",
-  "url": "https://dev.to/dodoengineering/how-we-translated-the-dodo-pizza-app-into-arabic-2pki",
-  "publish_date": "2023-05-17",
-  "published_at": "2023-05-17T06:46:58Z"
  }
 ]
