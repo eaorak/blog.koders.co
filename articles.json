@@ -1,5 +1,55 @@
 [
  {
+  "id": 1582571,
+  "title": "Why Every Designer Should Consider an IQ Test: Unlocking Creative Potential",
+  "description": "The world of design is a vast and intricate space, brimming with creativity, innovation, and a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CFEz4bBb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zqzdk2mgtoj6c1f9gn9a.jpg",
+  "slug": "why-every-designer-should-consider-an-iq-test-unlocking-creative-potential-1o5i",
+  "url": "https://dev.to/alyciakyla/why-every-designer-should-consider-an-iq-test-unlocking-creative-potential-1o5i",
+  "publish_date": "2023-08-28",
+  "published_at": "2023-08-28T17:47:11Z"
+ },
+ {
+  "id": 1582281,
+  "title": "We Are Turning off Listings",
+  "description": "Hey folks, we wanted to let you know that we will be turning off Listings and Credits on DEV. We will...",
+  "cover_image": "",
+  "slug": "we-are-turning-off-listings-5857",
+  "url": "https://dev.to/devteam/we-are-turning-off-listings-5857",
+  "publish_date": "2023-08-28",
+  "published_at": "2023-08-28T16:44:30Z"
+ },
+ {
+  "id": 1532587,
+  "title": "📜 Novu's Communication Manifest: Lighting the Path to our Future 💡",
+  "description": "TL;DR   As part of our second offsite, the team at Novu created a set of principles to help...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QjNvO2jz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uvwzmur4hhu6rzj4sxii.png",
+  "slug": "novus-communication-manifest-lighting-the-path-to-our-future-2meb",
+  "url": "https://dev.to/novu/novus-communication-manifest-lighting-the-path-to-our-future-2meb",
+  "publish_date": "2023-08-28",
+  "published_at": "2023-08-28T12:13:31Z"
+ },
+ {
+  "id": 1582168,
+  "title": "Performance e elegância! Escrevendo uma CLI CRUD utilizando ScyllaDB e Ruby",
+  "description": "Boas pessoas desenvolvedoras precisam saber fazer CRUD não é mesmo? Então já pensou em ser capaz de...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EbFxx-sh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lmfnkb0pnvi0rkcpe979.png",
+  "slug": "performance-e-elegancia-escrevendo-uma-cli-crud-utilizando-scylladb-e-ruby-1452",
+  "url": "https://dev.to/he4rt/performance-e-elegancia-escrevendo-uma-cli-crud-utilizando-scylladb-e-ruby-1452",
+  "publish_date": "2023-08-28",
+  "published_at": "2023-08-28T11:24:53Z"
+ },
+ {
+  "id": 1577508,
+  "title": "📃 👀 Run in-app surveys in your web app in 10 minutes with Formbricks 🤓❤️‍🔥",
+  "description": "Did you know that in app surveys have a whopping 6-10x better conversion rate compared to those...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x_KGGlSy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bsy3amgiegpyj1rven2f.png",
+  "slug": "run-in-app-surveys-in-your-web-app-in-10-minutes-with-formbricks-37nl",
+  "url": "https://dev.to/jobenjada/run-in-app-surveys-in-your-web-app-in-10-minutes-with-formbricks-37nl",
+  "publish_date": "2023-08-28",
+  "published_at": "2023-08-28T10:33:37Z"
+ },
+ {
   "id": 1581546,
   "title": "A first project with ExpressoTS",
   "description": "Introduction   ExpressoTS is a new developer-friendly TypeScript framework for Server-Side...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-data-science-in-depth-pmo",
   "publish_date": "2023-05-19",
   "published_at": "2023-05-19T05:16:16Z"
- },
- {
-  "id": 1472637,
-  "title": "It's the Final Stretch of the GitHub + DEV 2023 Hackathon 🎉",
-  "description": "Final weekend reminder for the GitHub + DEV 2023 Hackathon.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ICKDngc2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ip41t03soyq59hfw9g2g.jpg",
-  "slug": "its-the-final-stretch-of-the-github-dev-2023-hackathon-4218",
-  "url": "https://dev.to/devteam/its-the-final-stretch-of-the-github-dev-2023-hackathon-4218",
-  "publish_date": "2023-05-18",
-  "published_at": "2023-05-18T18:52:33Z"
- },
- {
-  "id": 1472231,
-  "title": "How to use Zustand",
-  "description": "Author: Chidume Nnamdi           Introduction   Redux changed the game in the global management...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--spd-9IFe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/glq5z6ok22ihybebap9e.png",
-  "slug": "how-to-use-zustand-3okc",
-  "url": "https://dev.to/refine/how-to-use-zustand-3okc",
-  "publish_date": "2023-05-18",
-  "published_at": "2023-05-18T12:31:46Z"
- },
- {
-  "id": 1472118,
-  "title": ".NET 8 is on the way! +10 Features that will blow your mind 🤯",
-  "description": "In this article, we’re going to delve into the latest updates and enhancements introduced in .NET 8...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---yOed2N8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4sc4imlxazhbzel1ca1.png",
-  "slug": "net-8-is-on-the-way-10-features-that-will-blow-your-mind-26op",
-  "url": "https://dev.to/bytehide/net-8-is-on-the-way-10-features-that-will-blow-your-mind-26op",
-  "publish_date": "2023-05-18",
-  "published_at": "2023-05-18T10:50:44Z"
- },
- {
-  "id": 1471907,
-  "title": "Amazon Ditches Microservices for Monolith: Decoding Prime Video's Architectural Shift",
-  "description": "Uncover Amazon's cost-saving journey from microservices to monolith. Explore the architecture shift, challenges faced, and lessons learned. Discover insights for your projects.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JK8Rnbaw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/amazon-ditches-microservices-for-monolith-decoding-prime-videos-architectural-shift/hero.png",
-  "slug": "amazon-ditches-microservices-for-monolith-decoding-prime-videos-architectural-shift-5bk6",
-  "url": "https://dev.to/amplication/amazon-ditches-microservices-for-monolith-decoding-prime-videos-architectural-shift-5bk6",
-  "publish_date": "2023-05-18",
-  "published_at": "2023-05-18T06:57:43Z"
- },
- {
-  "id": 1471560,
-  "title": "Copilot Chat writes Unit Tests for you!",
-  "description": "We don't write tests because we don't have time.   How many times have you heard that? Or maybe you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a9ADxx4c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mpgolj6xhmrt8bq7q4b5.png",
-  "slug": "copilot-chat-writes-unit-tests-for-you-1c82",
-  "url": "https://dev.to/this-is-learning/copilot-chat-writes-unit-tests-for-you-1c82",
-  "publish_date": "2023-05-18",
-  "published_at": "2023-05-18T06:53:23Z"
  }
 ]
