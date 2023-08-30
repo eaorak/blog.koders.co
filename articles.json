@@ -1,5 +1,55 @@
 [
  {
+  "id": 1583680,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-33i3",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-33i3",
+  "publish_date": "2023-08-29",
+  "published_at": "2023-08-29T21:50:32Z"
+ },
+ {
+  "id": 1582784,
+  "title": "One staging for each engineer: introducing Layerform",
+  "description": "Layerform allows developers to spin up multiple instances of their applications while reusing core...",
+  "cover_image": "",
+  "slug": "one-staging-for-each-engineer-introducing-layerform-5bc5",
+  "url": "https://dev.to/lucasfcosta/one-staging-for-each-engineer-introducing-layerform-5bc5",
+  "publish_date": "2023-08-29",
+  "published_at": "2023-08-29T21:10:27Z"
+ },
+ {
+  "id": 1556894,
+  "title": "Garanta a Eficiência: Escolhendo entre tipos String no SQL",
+  "description": "Garanta a eficiência, nova série fazendo mais sucesso que The Walking Dead, venha aprender como...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_Z2kbnF6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bvt3hsqlrbcakloojy8q.png",
+  "slug": "garanta-a-eficiencia-escolhendo-entre-tipos-string-no-sql-115m",
+  "url": "https://dev.to/z4nder/garanta-a-eficiencia-escolhendo-entre-tipos-string-no-sql-115m",
+  "publish_date": "2023-08-29",
+  "published_at": "2023-08-29T12:27:27Z"
+ },
+ {
+  "id": 1583301,
+  "title": "Promises em JavaScript",
+  "description": "Nunca fui de escrever muito, mas ensinando eu aprendo melhor e de quebra posso ajudar quem estiver...",
+  "cover_image": "",
+  "slug": "promises-em-javascript-1pf",
+  "url": "https://dev.to/mrlazarias/promises-em-javascript-1pf",
+  "publish_date": "2023-08-29",
+  "published_at": "2023-08-29T11:53:50Z"
+ },
+ {
+  "id": 1547196,
+  "title": "Design Patterns in PHP 8: Abstract factory",
+  "description": "Hello, fellow developers!🧑🏼‍💻  In our coding journey today, we're going to unravel the intricacies of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9IXhSjTY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8a2tdhs6fsav9zg0judd.jpg",
+  "slug": "design-patterns-in-php-8-abstract-factory-32d1",
+  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-abstract-factory-32d1",
+  "publish_date": "2023-08-29",
+  "published_at": "2023-08-29T06:45:47Z"
+ },
+ {
   "id": 1582571,
   "title": "Why Every Designer Should Consider an IQ Test: Unlocking Creative Potential",
   "description": "The world of design is a vast and intricate space, brimming with creativity, innovation, and a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cgwebdev2003/3-lightweight-css-frameworks-280e",
   "publish_date": "2023-05-20",
   "published_at": "2023-05-20T03:29:44Z"
- },
- {
-  "id": 1472652,
-  "title": "DEV Office Tour: Show Us Where the Magic Happens! 💻🔥",
-  "description": "Biweekly office tour thread!",
-  "cover_image": "",
-  "slug": "dev-office-tour-show-us-where-the-magic-happens-5e02",
-  "url": "https://dev.to/codenewbieteam/dev-office-tour-show-us-where-the-magic-happens-5e02",
-  "publish_date": "2023-05-19",
-  "published_at": "2023-05-19T16:00:00Z"
- },
- {
-  "id": 1472524,
-  "title": "What was your win this week?",
-  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-1k8i",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-1k8i",
-  "publish_date": "2023-05-19",
-  "published_at": "2023-05-19T15:55:29Z"
- },
- {
-  "id": 1473150,
-  "title": "How to Come Back From Burnout",
-  "description": "Burnout is tough. When you are burnt out from something, you resent it, and don't want touch it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--az5b8CVM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80qg3r8r4xy10w1kzlze.png",
-  "slug": "how-to-come-back-from-burnout-j85",
-  "url": "https://dev.to/hb/how-to-come-back-from-burnout-j85",
-  "publish_date": "2023-05-19",
-  "published_at": "2023-05-19T08:35:18Z"
- },
- {
-  "id": 1473054,
-  "title": "Top 10 ChatGPT Plugins You Can't miss",
-  "description": "The death of Google and search is near.  OpenAI just released ChatGPT Plugins to everyone.  10...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_hXWq4EK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/juxnzelwdp3vroxouwh4.jpg",
-  "slug": "top-10-chatgpt-plugins-you-cant-miss-1k68",
-  "url": "https://dev.to/jon_snow789/top-10-chatgpt-plugins-you-cant-miss-1k68",
-  "publish_date": "2023-05-19",
-  "published_at": "2023-05-19T08:02:01Z"
- },
- {
-  "id": 1469386,
-  "title": "My Favorite Free Courses to Learn Data Science in Depth",
-  "description": "These are the best free online courses and Data Science certifications for beginners",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D-BEwkFd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vm1ppaw5wtz2p1d8l895.png",
-  "slug": "my-favorite-free-courses-to-learn-data-science-in-depth-pmo",
-  "url": "https://dev.to/javinpaul/my-favorite-free-courses-to-learn-data-science-in-depth-pmo",
-  "publish_date": "2023-05-19",
-  "published_at": "2023-05-19T05:16:16Z"
  }
 ]
