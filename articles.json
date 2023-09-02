@@ -1,5 +1,55 @@
 [
  {
+  "id": 1586866,
+  "title": "Small Details to Improve Your Website's Experience",
+  "description": "A collection of five simple tips and tricks in HTML and CSS that will provide a better user experience and take just a few minutes to implement on any site",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aFXLrwdM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yo4c3c9bvz4d70farjse.png",
+  "slug": "small-details-to-improve-your-websites-experience-hio",
+  "url": "https://dev.to/alvaromontoro/small-details-to-improve-your-websites-experience-hio",
+  "publish_date": "2023-09-01",
+  "published_at": "2023-09-01T15:47:19Z"
+ },
+ {
+  "id": 1582422,
+  "title": "Clocks \u0026 Countdowns: Timing in CSS and JavaScript",
+  "description": "The other day I needed a digital clock-component, so I quickly composed a simple...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BG9Px6Qg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ornzxdqm1gxscuc51aoc.jpg",
+  "slug": "clocks-countdowns-timing-in-css-and-javascript-554n",
+  "url": "https://dev.to/madsstoumann/clocks-countdowns-timing-in-css-and-javascript-554n",
+  "publish_date": "2023-09-01",
+  "published_at": "2023-09-01T12:04:30Z"
+ },
+ {
+  "id": 1586705,
+  "title": "The CIA hacking arsenal. Here’s what you need to know.",
+  "description": "WikiLeaks just released internal documentation of the CIA’s massive arsenal of hacking tools and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--auF7FHCv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dybhij7bcc82gffqndpd.jpg",
+  "slug": "the-cia-hacking-arsenal-heres-what-you-need-to-know-3kjg",
+  "url": "https://dev.to/scofieldidehen/the-cia-hacking-arsenal-heres-what-you-need-to-know-3kjg",
+  "publish_date": "2023-09-01",
+  "published_at": "2023-09-01T11:20:13Z"
+ },
+ {
+  "id": 1586501,
+  "title": "🤘🤓🤘 Join Formbricks! (Senior) Full-Stack Engineer needed 🤘🤓🤘",
+  "description": "We're expanding our team!  We're looking for a (Senior) Full-Stack Engineer to support our...",
+  "cover_image": "",
+  "slug": "join-formbricks-senior-full-stack-engineer-needed-4g6b",
+  "url": "https://dev.to/jobenjada/join-formbricks-senior-full-stack-engineer-needed-4g6b",
+  "publish_date": "2023-09-01",
+  "published_at": "2023-09-01T07:31:03Z"
+ },
+ {
+  "id": 1585205,
+  "title": "Introduction to serverless architecture with Firebase and Cloud Functions.",
+  "description": "Hey there, let's talk about serverless architecture – the game-changer for how we build and deploy...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kQYUg_5x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ixwae95lmiklreddf1d.png",
+  "slug": "introduction-to-serverless-architecture-with-firebase-and-cloud-functions-1fko",
+  "url": "https://dev.to/nitdgplug/introduction-to-serverless-architecture-with-firebase-and-cloud-functions-1fko",
+  "publish_date": "2023-09-01",
+  "published_at": "2023-09-01T06:44:15Z"
+ },
+ {
   "id": 1515617,
   "title": "Learn serverless on AWS step-by-step - DynamoDB Streams",
   "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/madsstoumann/tetris-testimonial-quotes-55i5",
   "publish_date": "2023-05-23",
   "published_at": "2023-05-23T06:03:57Z"
- },
- {
-  "id": 1476383,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DRVst3dD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lisldozo3avtmm4jv0lx.png",
-  "slug": "meme-monday-14lj",
-  "url": "https://dev.to/ben/meme-monday-14lj",
-  "publish_date": "2023-05-22",
-  "published_at": "2023-05-22T13:33:21Z"
- },
- {
-  "id": 1476076,
-  "title": "Building an intelligent CRM using ChatGPT, PostgreSQL, and ToolJet",
-  "description": "In this tutorial, you'll learn how to build a CRM (Customer Relationship Management) application...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iwby3pU4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g209utu1m577rhkvr9p5.jpg",
-  "slug": "building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod",
-  "url": "https://dev.to/tooljet/building-an-intelligent-crm-using-chatgpt-postgresql-and-tooljet-4jod",
-  "publish_date": "2023-05-22",
-  "published_at": "2023-05-22T09:48:05Z"
- },
- {
-  "id": 1476068,
-  "title": "How to host your side-projects for free in 2023: from Auth to Database",
-  "description": "TL;DR   In this article, we'll look at how you can host your side project for free in 2023....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KjTx9kC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tcob76egs0xrsdg53e13.jpg",
-  "slug": "how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im",
-  "url": "https://dev.to/livecycle/how-to-host-your-side-projects-for-free-in-2023-from-auth-to-database-42im",
-  "publish_date": "2023-05-22",
-  "published_at": "2023-05-22T08:48:57Z"
- },
- {
-  "id": 1473264,
-  "title": "Building ChatGPT-powered apps in 5 steps 🚀",
-  "description": "In this article, we will explore the possibility of rapidly building ChatGPT apps using the low-code...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PSmCVIAk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/snh6ku6fltxjd9o4fz5m.jpg",
-  "slug": "building-chatgpt-powered-apps-in-5-steps-3e85",
-  "url": "https://dev.to/tejakummarikuntla/building-chatgpt-powered-apps-in-5-steps-3e85",
-  "publish_date": "2023-05-22",
-  "published_at": "2023-05-22T08:06:56Z"
- },
- {
-  "id": 1474468,
-  "title": "My Favorite Books for DevOps Engineering",
-  "description": "These are the best books to learn DevOps in 2023",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TrR7g0IR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5i6w2lggq0me2lbv0oo.png",
-  "slug": "my-favorite-books-for-devops-engineering-591o",
-  "url": "https://dev.to/javinpaul/my-favorite-books-for-devops-engineering-591o",
-  "publish_date": "2023-05-22",
-  "published_at": "2023-05-22T05:13:32Z"
  }
 ]
