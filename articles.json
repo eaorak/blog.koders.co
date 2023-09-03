@@ -1,5 +1,55 @@
 [
  {
+  "id": 1587777,
+  "title": "Pezzo v0.5 - Dashboards, Caching, Python Client, and More!",
+  "description": "This version brings a lot of new features and improvements to Pezzo. We're excited to share them with...",
+  "cover_image": "",
+  "slug": "pezzo-v05-dashboards-caching-python-client-and-more-2enk",
+  "url": "https://dev.to/pezzo/pezzo-v05-dashboards-caching-python-client-and-more-2enk",
+  "publish_date": "2023-09-02",
+  "published_at": "2023-09-02T17:15:53Z"
+ },
+ {
+  "id": 1587217,
+  "title": "Profundezas do Node.js: Explorando I/O Assíncrono",
+  "description": "Introdução Como o Node trata o Código Assíncrono  Operações Assíncronas: O que São?   Operação...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lKLHcOuF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mzqxqw5zourkqxxaf186.jpeg",
+  "slug": "profundezas-do-nodejs-explorando-io-assincrono-mim",
+  "url": "https://dev.to/ocodista/profundezas-do-nodejs-explorando-io-assincrono-mim",
+  "publish_date": "2023-09-02",
+  "published_at": "2023-09-02T13:21:27Z"
+ },
+ {
+  "id": 1587613,
+  "title": "Server-Side Rendering (SSR)",
+  "description": "Server-side rendering (SSR) refers to the process of rendering React components on the server before...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--68uBq63I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6e0li25mua6g8phxls34.jpg",
+  "slug": "server-side-rendering-ssr-353e",
+  "url": "https://dev.to/scofieldidehen/server-side-rendering-ssr-353e",
+  "publish_date": "2023-09-02",
+  "published_at": "2023-09-02T12:11:24Z"
+ },
+ {
+  "id": 1586474,
+  "title": "Design Patterns in PHP 8: Proxy",
+  "description": "Hello, fellow developers!🧑🏼‍💻  Today, we're diving into another fascinating design pattern: the Proxy...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c660JakU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wodhvkovu9gif00vr31b.jpg",
+  "slug": "design-patterns-in-php-8-proxy-58ab",
+  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-proxy-58ab",
+  "publish_date": "2023-09-02",
+  "published_at": "2023-09-02T09:53:29Z"
+ },
+ {
+  "id": 1587378,
+  "title": "Introduction to \"Grokking the SQL Interview\" for Developers",
+  "description": "Grokking the SQL Interview questions is a specialized book for preparing SQL and Database related questions for tech interviews. ",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bRGLJHeE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://public-files.gumroad.com/aovg2kd8pi71k4qezq2efvztl0bx",
+  "slug": "introduction-to-grokking-the-sql-interview-for-developers-2fhb",
+  "url": "https://dev.to/javinpaul/introduction-to-grokking-the-sql-interview-for-developers-2fhb",
+  "publish_date": "2023-09-02",
+  "published_at": "2023-09-02T05:32:32Z"
+ },
+ {
   "id": 1586866,
   "title": "Small Details to Improve Your Website's Experience",
   "description": "A collection of five simple tips and tricks in HTML and CSS that will provide a better user experience and take just a few minutes to implement on any site",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/pt-br-fundamentos-do-git-um-guia-completo-2djh",
   "publish_date": "2023-05-24",
   "published_at": "2023-05-24T01:41:50Z"
- },
- {
-  "id": 1477838,
-  "title": "ossjobs.dev 👋 land your next job in open source",
-  "description": "We at crowd.dev are excited to share something we’ve been working on in the background for our...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sESRTA06--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bgygt3uj0t164oe6zdke.png",
-  "slug": "ossjobsdev-land-your-next-job-in-open-source-3gdi",
-  "url": "https://dev.to/crowddotdev/ossjobsdev-land-your-next-job-in-open-source-3gdi",
-  "publish_date": "2023-05-23",
-  "published_at": "2023-05-23T15:24:40Z"
- },
- {
-  "id": 1477472,
-  "title": "Building a bidding system with NextJS 🚀",
-  "description": "TL;DR   NextJS introduced its new server actions components, and I had to test them out to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vzlyYtDw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://manage.novu.co/wp-content/uploads/2023/05/dev-coverrr.png",
-  "slug": "building-a-bidding-system-with-nextjs-cg1",
-  "url": "https://dev.to/novu/building-a-bidding-system-with-nextjs-cg1",
-  "publish_date": "2023-05-23",
-  "published_at": "2023-05-23T12:04:06Z"
- },
- {
-  "id": 1476875,
-  "title": "I created 100+ unique CSS patterns | The best collection 🤩",
-  "description": "After the CSS Loaders and the CSS Underline/Overlay animations, I am back with another big...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ysrwHjO2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/66pnh200551j523iamsy.png",
-  "slug": "i-created-100-unique-css-patterns-the-best-collection-31cl",
-  "url": "https://dev.to/afif/i-created-100-unique-css-patterns-the-best-collection-31cl",
-  "publish_date": "2023-05-23",
-  "published_at": "2023-05-23T11:36:30Z"
- },
- {
-  "id": 1477349,
-  "title": "Creating responsive tooltips in React with react-tooltip",
-  "description": "Author: David Omotayo           Introduction   A tooltip is a short and informative message that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--edgl_x3a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vdnwa5185bcduq0hx1rc.png",
-  "slug": "creating-responsive-tooltips-in-react-with-react-tooltip-24i1",
-  "url": "https://dev.to/refine/creating-responsive-tooltips-in-react-with-react-tooltip-24i1",
-  "publish_date": "2023-05-23",
-  "published_at": "2023-05-23T11:07:46Z"
- },
- {
-  "id": 1477188,
-  "title": "Tetris Testimonial Quotes",
-  "description": "Had a bit of fun last night with this week's Codepen Challenge.  I had no ideas for the topic —...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--36wAZLeO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r8jm6puxcilx0egjfvu2.png",
-  "slug": "tetris-testimonial-quotes-55i5",
-  "url": "https://dev.to/madsstoumann/tetris-testimonial-quotes-55i5",
-  "publish_date": "2023-05-23",
-  "published_at": "2023-05-23T06:03:57Z"
  }
 ]
