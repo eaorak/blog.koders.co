@@ -1,5 +1,55 @@
 [
  {
+  "id": 1588475,
+  "title": "The Ultimate Emoji Cheat Sheet for Developers",
+  "description": "Emojis have become an integral part of our daily communication. They add a bit of flair and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FvRPAf8h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/454j9tvz27dc4lavkg1p.jpg",
+  "slug": "the-ultimate-emoji-cheat-sheet-for-developers-3d55",
+  "url": "https://dev.to/emojipedia/the-ultimate-emoji-cheat-sheet-for-developers-3d55",
+  "publish_date": "2023-09-03",
+  "published_at": "2023-09-03T19:06:40Z"
+ },
+ {
+  "id": 1588362,
+  "title": "Why every startup should be built on open-source... 🤔🤔",
+  "description": "Last year was the first time I heard of an open-source startup as SaaS. I didn’t even understand what...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EZFPG4_i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/30uo500ajvfh3td06kp6.png",
+  "slug": "why-every-startup-should-be-built-on-open-source-2kh",
+  "url": "https://dev.to/github20k/why-every-startup-should-be-built-on-open-source-2kh",
+  "publish_date": "2023-09-03",
+  "published_at": "2023-09-03T17:32:02Z"
+ },
+ {
+  "id": 1588246,
+  "title": "JavaScript CONSTANTS",
+  "description": "In JavaScript, most of developers are well-known with const. It declares block-scoped local variables...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---IFTceaK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gicu8l5h0mgwnk7xhp99.png",
+  "slug": "javascript-constants-1pb0",
+  "url": "https://dev.to/maafaishal/javascript-constants-1pb0",
+  "publish_date": "2023-09-03",
+  "published_at": "2023-09-03T13:24:59Z"
+ },
+ {
+  "id": 1586468,
+  "title": "Javascript Essentials 🧑‍💻",
+  "description": "Introduction    Well, we all start somewhere to start learning JavaScript, I wish this kind...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LSNM2B5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cikhxmaw2liabhjj4ojp.JPG",
+  "slug": "javascript-essentials-40he",
+  "url": "https://dev.to/localhostd3veloper/javascript-essentials-40he",
+  "publish_date": "2023-09-03",
+  "published_at": "2023-09-03T12:20:13Z"
+ },
+ {
+  "id": 1588037,
+  "title": "A Guide to Atomic Design with React Components",
+  "description": "React has quickly become one of the most popular open-source JavaScript frameworks for building user...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EFHzoKb7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecadw6iraoozrxyxtt32.png",
+  "slug": "a-guide-to-atomic-design-with-react-components-34k1",
+  "url": "https://dev.to/scofieldidehen/a-guide-to-atomic-design-with-react-components-34k1",
+  "publish_date": "2023-09-03",
+  "published_at": "2023-09-03T05:06:29Z"
+ },
+ {
   "id": 1587777,
   "title": "Pezzo v0.5 - Dashboards, Caching, Python Client, and More!",
   "description": "This version brings a lot of new features and improvements to Pezzo. We're excited to share them with...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/managing-data-residency-the-demo-2cpi",
   "publish_date": "2023-05-25",
   "published_at": "2023-05-25T08:01:28Z"
- },
- {
-  "id": 1479487,
-  "title": "Featured Mod of the Month: Christine Belzie",
-  "description": "In this series, we shine a spotlight on the different DEV moderators — Trusted Members and Tag Mods —...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l03gHhm---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7jq2lqmzv2zz9r3qah0i.jpeg",
-  "slug": "featured-mod-of-the-month-christine-belzie-p09",
-  "url": "https://dev.to/devteam/featured-mod-of-the-month-christine-belzie-p09",
-  "publish_date": "2023-05-24",
-  "published_at": "2023-05-24T14:47:33Z"
- },
- {
-  "id": 1473132,
-  "title": "What's New in Novu 0.15.0?",
-  "description": "TL;DR: All you need to know about the latest Novu 0.15.0 release. Scheduled Digest, In-App Onboarding...",
-  "cover_image": "",
-  "slug": "whats-new-in-novu-0150-fkj",
-  "url": "https://dev.to/novu/whats-new-in-novu-0150-fkj",
-  "publish_date": "2023-05-24",
-  "published_at": "2023-05-24T14:37:03Z"
- },
- {
-  "id": 1479250,
-  "title": "Building a message board with Next.js and AppWrite",
-  "description": "TL;DR   In this article, we will look at how to build a simple message board web app with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IYagP0g4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27ta2aikqqbeuufqm7pl.jpg",
-  "slug": "building-a-message-board-with-nextjs-and-appwrite-3910",
-  "url": "https://dev.to/livecycle/building-a-message-board-with-nextjs-and-appwrite-3910",
-  "publish_date": "2023-05-24",
-  "published_at": "2023-05-24T10:57:04Z"
- },
- {
-  "id": 1462519,
-  "title": "Chaining API requests with API Gateway",
-  "description": "As the number of APIs that need to be integrated increases, managing the complexity of API...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7fEnGUry--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jgx9oqz7qatb5v90awr1.png",
-  "slug": "chaining-api-requests-with-api-gateway-10n2",
-  "url": "https://dev.to/apisix/chaining-api-requests-with-api-gateway-10n2",
-  "publish_date": "2023-05-24",
-  "published_at": "2023-05-24T08:31:23Z"
- },
- {
-  "id": 1478761,
-  "title": "[pt-BR] Fundamentos do Git, um guia completo",
-  "description": "Se você já trabalha com Git diariamente, mas deseja ter uma boa compreensão dos fundamentos do Git,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HBEFqILA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4cvykxbu2dzpeu8y4zt5.png",
-  "slug": "pt-br-fundamentos-do-git-um-guia-completo-2djh",
-  "url": "https://dev.to/leandronsp/pt-br-fundamentos-do-git-um-guia-completo-2djh",
-  "publish_date": "2023-05-24",
-  "published_at": "2023-05-24T01:41:50Z"
  }
 ]
