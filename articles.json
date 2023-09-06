@@ -1,5 +1,55 @@
 [
  {
+  "id": 1590392,
+  "title": "How to Participate in Hackoberfest",
+  "description": "With Hacktoberfest coming up, this guide walks you through how to be active and successful in your open source journey this October.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5bo1rMNA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nepij6ywpyskml8rupb2.png",
+  "slug": "how-to-participate-in-hackoberfest-13hm",
+  "url": "https://dev.to/opensauced/how-to-participate-in-hackoberfest-13hm",
+  "publish_date": "2023-09-05",
+  "published_at": "2023-09-05T15:58:16Z"
+ },
+ {
+  "id": 1589655,
+  "title": "You might not need TypeScript Enum",
+  "description": "In TypeScript, there is a feature called Enum which is not a type-level extension of JavaScript....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--06X5Ndsf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqbpc97bvv42shmfqgnl.png",
+  "slug": "you-might-not-need-typescript-enum-1f4n",
+  "url": "https://dev.to/maafaishal/you-might-not-need-typescript-enum-1f4n",
+  "publish_date": "2023-09-05",
+  "published_at": "2023-09-05T14:25:58Z"
+ },
+ {
+  "id": 1590195,
+  "title": "Introducing Rig.dev: An open-source application platform for Kubernetes",
+  "description": "Kubernetes is a bitter pill to swallow for most application developers. Here's some background on how...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dzALRHw3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x2o923t81353qmjwi2bd.png",
+  "slug": "introducing-rigdev-an-open-source-application-platform-for-kubernetes-1dge",
+  "url": "https://dev.to/rigdev/introducing-rigdev-an-open-source-application-platform-for-kubernetes-1dge",
+  "publish_date": "2023-09-05",
+  "published_at": "2023-09-05T13:46:38Z"
+ },
+ {
+  "id": 1577445,
+  "title": "Reacting with 💩👍🐛 to Code: How I Built a Free Extension to Add Emojis to Your VSCode",
+  "description": "Code Reactions 🚀💩  Help us with your contributions or with a ⭐ on GitHub 💚!  Install extension →     ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uwiIwcPi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5p72x3ctsmvuldkhag4.png",
+  "slug": "reacting-with-to-code-how-i-built-a-free-extension-to-add-emojis-to-your-vscode-1mlh",
+  "url": "https://dev.to/adadot/reacting-with-to-code-how-i-built-a-free-extension-to-add-emojis-to-your-vscode-1mlh",
+  "publish_date": "2023-09-05",
+  "published_at": "2023-09-05T13:13:51Z"
+ },
+ {
+  "id": 1589653,
+  "title": "Uma Produtora de TV no mundo DEV!",
+  "description": "Decidi escrever esse artigo pra praticar redação e também deixar uma marca nessa plataforma que vem...",
+  "cover_image": "",
+  "slug": "-uma-produtora-de-tv-no-mundo-dev-44p3",
+  "url": "https://dev.to/acamikuro/-uma-produtora-de-tv-no-mundo-dev-44p3",
+  "publish_date": "2023-09-05",
+  "published_at": "2023-09-05T01:00:25Z"
+ },
+ {
   "id": 1589504,
   "title": "From Tweet to Launch 🚀 – My Open Source Journey",
   "description": "What you will find in this article?   Are you intrigued about taking your idea from a mere...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/developeratul/how-to-implement-subscription-model-using-lemonsqueezy-in-nextjs-134-stable-app-router-27cd",
   "publish_date": "2023-05-27",
   "published_at": "2023-05-27T06:00:00Z"
- },
- {
-  "id": 1481935,
-  "title": "50 C# (Advanced) Optimization Performance Tips🔥",
-  "description": "As an experienced C# developer, you’re always looking for ways to improve your application’s...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l2QuB9FY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l3dpfpts8gu6gr8iq34n.png",
-  "slug": "50-c-advanced-optimization-performance-tips-18l2",
-  "url": "https://dev.to/bytehide/50-c-advanced-optimization-performance-tips-18l2",
-  "publish_date": "2023-05-26",
-  "published_at": "2023-05-26T13:26:25Z"
- },
- {
-  "id": 1481691,
-  "title": "Effective Techniques for Code Review in Software Engineering",
-  "description": "Introduction   There are various methods to improve an existing code. It can be refactoring...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lht2XxNv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ra1quyf25bau7yyfzjkd.png",
-  "slug": "effective-techniques-for-code-review-in-software-engineering-29i0",
-  "url": "https://dev.to/documatic/effective-techniques-for-code-review-in-software-engineering-29i0",
-  "publish_date": "2023-05-26",
-  "published_at": "2023-05-26T11:30:00Z"
- },
- {
-  "id": 1481081,
-  "title": "Learn serverless on AWS step-by-step - Emails",
-  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hn8gYBZv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/ses/assets/cover-image.png",
-  "slug": "learn-serverless-on-aws-step-by-step-emails-49hp",
-  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-emails-49hp",
-  "publish_date": "2023-05-26",
-  "published_at": "2023-05-26T07:51:51Z"
- },
- {
-  "id": 1481518,
-  "title": "A Comprehensive Guide of React Unit Testing",
-  "description": "Author: Chidume Nnamdi           Introduction   Unit testing is a crucial step in the software...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NsTDOF17--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xv4zh32xfnvreh5l7vyo.png",
-  "slug": "a-comprehensive-guide-of-react-unit-testing-18bh",
-  "url": "https://dev.to/refine/a-comprehensive-guide-of-react-unit-testing-18bh",
-  "publish_date": "2023-05-26",
-  "published_at": "2023-05-26T07:01:37Z"
- },
- {
-  "id": 1477184,
-  "title": "My favorite free Flutter and Dart courses for 2023",
-  "description": "These are the best free online courses you can take to learn both Flutter and Dart in 2023 from Udemy, Pluralsight and freeCodeCamp",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--37ZbX9wA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jn4620cnl03pij5csfzt.png",
-  "slug": "my-favorite-free-flutter-and-dart-courses-for-2023-56ak",
-  "url": "https://dev.to/javinpaul/my-favorite-free-flutter-and-dart-courses-for-2023-56ak",
-  "publish_date": "2023-05-26",
-  "published_at": "2023-05-26T04:45:48Z"
  }
 ]
