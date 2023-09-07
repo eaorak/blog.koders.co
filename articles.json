@@ -1,5 +1,55 @@
 [
  {
+  "id": 1590378,
+  "title": "Swirl: An open-source search engine with LLMs and ChatGPT to provide all the answers you need 🌌",
+  "description": "We need search engines with AI   Last week I had a strange problem at work to tackle. The...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R3X1IEui--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gl3snor5rnfhni0yxz23.png",
+  "slug": "swirl-an-open-source-search-engine-with-llms-and-chatgpt-to-provide-all-the-answers-you-need-1amc",
+  "url": "https://dev.to/srbhr/swirl-an-open-source-search-engine-with-llms-and-chatgpt-to-provide-all-the-answers-you-need-1amc",
+  "publish_date": "2023-09-06",
+  "published_at": "2023-09-06T17:25:00Z"
+ },
+ {
+  "id": 1591352,
+  "title": "GPT Pilot - a dev tool that writes 95% of coding tasks",
+  "description": "An MVP for a scalable dev tool that writes production-ready apps from scratch as the...",
+  "cover_image": "",
+  "slug": "gpt-pilot-a-dev-tool-that-writes-95-of-coding-tasks-dem",
+  "url": "https://dev.to/zvone187/gpt-pilot-a-dev-tool-that-writes-95-of-coding-tasks-dem",
+  "publish_date": "2023-09-06",
+  "published_at": "2023-09-06T14:54:26Z"
+ },
+ {
+  "id": 1591172,
+  "title": "Build your own AI Meme Generator \u0026 learn how to use OpenAI's function calls ☎️",
+  "description": "Table of Contents     TL;DR   Before We Begin      Intro   Call Me, Maybe Let's...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1duHiDrS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lobpd6cfypnkaear6g6o.gif",
+  "slug": "build-your-own-ai-meme-generator-learn-how-to-use-openais-function-calls-1p21",
+  "url": "https://dev.to/wasp/build-your-own-ai-meme-generator-learn-how-to-use-openais-function-calls-1p21",
+  "publish_date": "2023-09-06",
+  "published_at": "2023-09-06T12:00:00Z"
+ },
+ {
+  "id": 1591041,
+  "title": "In-depth Exploration of the Fundamental Principles and Broad-Spectrum Applications of LLMs",
+  "description": "What exactly are LLMs?   Large Language Models (LLMs) are a central topic in modern machine...",
+  "cover_image": "",
+  "slug": "in-depth-exploration-of-the-fundamental-principles-and-broad-spectrum-applications-of-llms-3p90",
+  "url": "https://dev.to/ulianaev/in-depth-exploration-of-the-fundamental-principles-and-broad-spectrum-applications-of-llms-3p90",
+  "publish_date": "2023-09-06",
+  "published_at": "2023-09-06T09:10:51Z"
+ },
+ {
+  "id": 1582344,
+  "title": "Advanced Git Commands and Workflows: A Comprehensive Guide for Developers",
+  "description": "Introduction   In software development, Git is more than just a tool—it's an essential...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W9ktF1YO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dy2cee9q3ze4hzwj0kjf.png",
+  "slug": "advanced-git-commands-and-workflows-a-comprehensive-guide-for-developers-5865",
+  "url": "https://dev.to/documatic/advanced-git-commands-and-workflows-a-comprehensive-guide-for-developers-5865",
+  "publish_date": "2023-09-06",
+  "published_at": "2023-09-06T05:51:28Z"
+ },
+ {
   "id": 1590392,
   "title": "How to Participate in Hackoberfest",
   "description": "With Hacktoberfest coming up, this guide walks you through how to be active and successful in your open source journey this October.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/arafat4693/flexbox-justify-content-visual-representation-4c22",
   "publish_date": "2023-05-28",
   "published_at": "2023-05-28T12:22:52Z"
- },
- {
-  "id": 1483148,
-  "title": "Deep Neural Network from Scratch in Rust 🦀- Part 5- Training and Inference",
-  "description": "Great!! You have made it to the final part of the series. In this part, we will train our model and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EFBTF-NH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lqtshfh8l3u2u2vokp6b.png",
-  "slug": "deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7",
-  "url": "https://dev.to/akshayballal/deep-neural-network-from-scratch-in-rust-part-5-training-and-inference-20k7",
-  "publish_date": "2023-05-27",
-  "published_at": "2023-05-27T18:42:42Z"
- },
- {
-  "id": 1483005,
-  "title": "PrivateGPT - Running \"ChatGPT\" offline on local documents",
-  "description": "You can download an LLM and interrogate local files using Python without having to send any data to the cloud.",
-  "cover_image": "",
-  "slug": "privategpt-running-chatgpt-offline-on-local-documents-5b17",
-  "url": "https://dev.to/codepo8/privategpt-running-chatgpt-offline-on-local-documents-5b17",
-  "publish_date": "2023-05-27",
-  "published_at": "2023-05-27T15:02:24Z"
- },
- {
-  "id": 1482992,
-  "title": "The Evolution and Impact of MLOps: understanding MLOps",
-  "description": "Machine Learning Operations, or MLOps, is the missing bridge between machine learning, data science,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m6QoZ0EN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fm5occ1d1qq5d342aynt.png",
-  "slug": "the-evolution-and-impact-of-mlops-understanding-mlops-1dpo",
-  "url": "https://dev.to/xakrume/the-evolution-and-impact-of-mlops-understanding-mlops-1dpo",
-  "publish_date": "2023-05-27",
-  "published_at": "2023-05-27T14:00:58Z"
- },
- {
-  "id": 1482284,
-  "title": "Binary tree",
-  "description": "What is binary tree and when we could use them?   A binary tree is a fundamental tree data...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hKa-jL4l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b6fpdiwwdwkfofwnh3h4.PNG",
-  "slug": "binary-tree-26f3",
-  "url": "https://dev.to/livshits_ivan/binary-tree-26f3",
-  "publish_date": "2023-05-27",
-  "published_at": "2023-05-27T12:47:22Z"
- },
- {
-  "id": 1482619,
-  "title": "How to implement subscription model using LemonSqueezy in Next.js (13.4 stable app router)",
-  "description": "Table of contents    Introduction Getting Started Setup Next.js app User Registration Setup...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CDYINjMY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a8v064pqqd6bew0mn3vp.jpg",
-  "slug": "how-to-implement-subscription-model-using-lemonsqueezy-in-nextjs-134-stable-app-router-27cd",
-  "url": "https://dev.to/developeratul/how-to-implement-subscription-model-using-lemonsqueezy-in-nextjs-134-stable-app-router-27cd",
-  "publish_date": "2023-05-27",
-  "published_at": "2023-05-27T06:00:00Z"
  }
 ]
