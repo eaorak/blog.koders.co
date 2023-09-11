@@ -1,5 +1,55 @@
 [
  {
+  "id": 1595700,
+  "title": "I Hired an AI as a Developer - This Is What Happened",
+  "description": "There have been many discussions around whether AI is threatening developer's jobs. Some say they are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--igt00ktz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3uw8go4od1gy2og50i0h.png",
+  "slug": "i-hired-an-ai-as-a-developer-this-is-what-happened-1nl6",
+  "url": "https://dev.to/perssondennis/i-hired-an-ai-as-a-developer-this-is-what-happened-1nl6",
+  "publish_date": "2023-09-10",
+  "published_at": "2023-09-10T14:39:49Z"
+ },
+ {
+  "id": 1595697,
+  "title": "🎯 Medium vs. DEV vs. Hashnode vs. Hackernoon 🔥",
+  "description": "I have been to over 20 calls.  Many people asked me: What platform should I post on? I think that’s a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ykKC5qch--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vpo0dx7826cq3p1v7j18.gif",
+  "slug": "medium-vs-dev-vs-hashnode-vs-hackernoon-4ma1",
+  "url": "https://dev.to/github20k/medium-vs-dev-vs-hashnode-vs-hackernoon-4ma1",
+  "publish_date": "2023-09-10",
+  "published_at": "2023-09-10T10:55:46Z"
+ },
+ {
+  "id": 1595550,
+  "title": "🚀 Unlock Success: Ask, Don't Assume! 🚀",
+  "description": "In the fast-paced world of business, assumptions can be silent deal-breakers! 🤝  Countless deals have...",
+  "cover_image": "",
+  "slug": "unlock-success-ask-dont-assume-34fd",
+  "url": "https://dev.to/apetryla/unlock-success-ask-dont-assume-34fd",
+  "publish_date": "2023-09-10",
+  "published_at": "2023-09-10T05:47:38Z"
+ },
+ {
+  "id": 1595546,
+  "title": "Solving the \"Trapping Rain Water\" Problem on Leet Code",
+  "description": "Question            42. Trapping Rain Water   Type: Hard Liked by: 29K Disliked by:...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nhqr_zon--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hsvjwmmle99v3cd2z3g8.png",
+  "slug": "solving-the-trapping-rain-water-problem-on-leet-code-ham",
+  "url": "https://dev.to/leetcode/solving-the-trapping-rain-water-problem-on-leet-code-ham",
+  "publish_date": "2023-09-10",
+  "published_at": "2023-09-10T05:35:23Z"
+ },
+ {
+  "id": 1595520,
+  "title": "Top React Libraries Every Developer Must Know",
+  "description": "React is taking over the world of web development - and for good reason. Created by Facebook and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rilACdfd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/phmlpsaht9vvaa2512ft.png",
+  "slug": "top-react-libraries-every-developer-must-know-18e7",
+  "url": "https://dev.to/scofieldidehen/top-react-libraries-every-developer-must-know-18e7",
+  "publish_date": "2023-09-10",
+  "published_at": "2023-09-10T05:13:08Z"
+ },
+ {
   "id": 1535606,
   "title": "How I approach and structure Enterprise frontend applications after 4 years of using Next.js",
   "description": "Introduction   In the fast-paced world of frontend development, staying ahead of the curve...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devteam/representation-matters-who-inspires-you-1ip0",
   "publish_date": "2023-06-01",
   "published_at": "2023-06-01T07:00:00Z"
- },
- {
-  "id": 1487112,
-  "title": "Welcome Thread - v227",
-  "description": "Welcome to DEV! A thread of hellos and intros.",
-  "cover_image": "",
-  "slug": "welcome-thread-v227-2lb3",
-  "url": "https://dev.to/devteam/welcome-thread-v227-2lb3",
-  "publish_date": "2023-05-31",
-  "published_at": "2023-05-31T13:51:59Z"
- },
- {
-  "id": 1486889,
-  "title": "NVIDIA's $200B Overnight Gain: Trending CUDA Repos Revealed! ⚡️",
-  "description": "Hey friends! 👋 Welcome back to #TrendingTuesday  This week, in honour of NVIDIA (the semiconductor...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SBHAJcv---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xmq18xbr4kyc39xnyz3w.jpg",
-  "slug": "nvidia-gained-200-billion-overnight-we-found-its-trending-cuda-repos-46mj",
-  "url": "https://dev.to/quine/nvidia-gained-200-billion-overnight-we-found-its-trending-cuda-repos-46mj",
-  "publish_date": "2023-05-31",
-  "published_at": "2023-05-31T11:54:45Z"
- },
- {
-  "id": 1481077,
-  "title": "How to create a slick animation from Stranger Things",
-  "description": "Next stop, Stranger Things.  Stranger Things might be the most dissected and celebrated title...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pSxffpQ4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jyalgsk71my4ua2ddlbp.jpg",
-  "slug": "how-to-create-a-slick-animation-from-stranger-things-58oa",
-  "url": "https://dev.to/robole/how-to-create-a-slick-animation-from-stranger-things-58oa",
-  "publish_date": "2023-05-31",
-  "published_at": "2023-05-31T09:00:00Z"
- },
- {
-  "id": 1484044,
-  "title": "Microservices: How to use Null Object Pattern to improve user experience",
-  "description": "Topics:    What is a Null Object Pattern? How to apply How to implement Testing noncritical...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DVHbYVtQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p33bx9nwbl3q4iby8bmy.png",
-  "slug": "microservices-how-to-use-null-object-pattern-to-improve-user-experience-5400",
-  "url": "https://dev.to/frolk/microservices-how-to-use-null-object-pattern-to-improve-user-experience-5400",
-  "publish_date": "2023-05-31",
-  "published_at": "2023-05-31T08:56:58Z"
- },
- {
-  "id": 1467810,
-  "title": "Enhancing your terminal experience: Warp or Fig?",
-  "description": "After using Warp for over a couple of months (and collecting feedback from colleagues already using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5ScETTtT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8lhagxse2q961qbmu0qf.png",
-  "slug": "enhancing-your-terminal-experience-warp-or-fig-g15",
-  "url": "https://dev.to/this-is-learning/enhancing-your-terminal-experience-warp-or-fig-g15",
-  "publish_date": "2023-05-31",
-  "published_at": "2023-05-31T07:34:31Z"
  }
 ]
