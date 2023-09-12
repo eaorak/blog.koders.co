@@ -1,5 +1,55 @@
 [
  {
+  "id": 1597059,
+  "title": "Creating an 👩‍💻 Open Source Search Platform: Search Engines with AI - Swirl 🌌",
+  "description": "Swirl is an Open-Source Search Engine written in Python. Powered by Large Language Models (LLMs)...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RDtekvNG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/si7g2r3yezbaslybnpaf.png",
+  "slug": "creating-an-open-source-search-platform-search-engines-with-ai-swirl-2m0h",
+  "url": "https://dev.to/swirl/creating-an-open-source-search-platform-search-engines-with-ai-swirl-2m0h",
+  "publish_date": "2023-09-11",
+  "published_at": "2023-09-11T19:25:47Z"
+ },
+ {
+  "id": 1596809,
+  "title": "4 Open-Source Technologies Every True Full-Stack Developer Should Master",
+  "description": "Full-stack development is a constantly evolving, dynamic field with new tools and technologies....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EImF1bOw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hwmlb2643fa478tmgtq.png",
+  "slug": "4-open-source-technologies-every-true-full-stack-developer-should-master-33e9",
+  "url": "https://dev.to/rigdev/4-open-source-technologies-every-true-full-stack-developer-should-master-33e9",
+  "publish_date": "2023-09-11",
+  "published_at": "2023-09-11T15:48:48Z"
+ },
+ {
+  "id": 1596695,
+  "title": "Linux filters - How to streamline text like a boss",
+  "description": "Are you familiar with the Unix philosophy and how to create better scripts? In this comprehensive...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bcTHGMXo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tvj8v5mzf68vk4a6dfd.jpg",
+  "slug": "linux-filters-how-to-streamline-text-like-a-boss-2dp4",
+  "url": "https://dev.to/cherryramatis/linux-filters-how-to-streamline-text-like-a-boss-2dp4",
+  "publish_date": "2023-09-11",
+  "published_at": "2023-09-11T12:31:12Z"
+ },
+ {
+  "id": 1586179,
+  "title": "We had a date bug that happened two times a year, and we didn't know, you might have it too 😱",
+  "description": "TL;DR   Novu's team encountered a significant bug affecting date calculations in their CI/CD...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z0AfEgnw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4mu31ktnf5kpoqx6nfr3.gif",
+  "slug": "we-had-a-date-bug-that-happened-two-times-a-year-and-we-didnt-know-you-might-have-it-too-56o6",
+  "url": "https://dev.to/novu/we-had-a-date-bug-that-happened-two-times-a-year-and-we-didnt-know-you-might-have-it-too-56o6",
+  "publish_date": "2023-09-11",
+  "published_at": "2023-09-11T12:08:00Z"
+ },
+ {
+  "id": 1596380,
+  "title": "Introducing 1.4 Lightning Hackathon: Functions",
+  "description": "Appwrite Functions has just had a fresh upgrade, and we are so excited we are hosting a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Bs2bPTc6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zs8faehnm1k6oy7ig6ch.png",
+  "slug": "lightning-hackathon-functions-3fhf",
+  "url": "https://dev.to/appwrite/lightning-hackathon-functions-3fhf",
+  "publish_date": "2023-09-11",
+  "published_at": "2023-09-11T11:38:01Z"
+ },
+ {
   "id": 1595700,
   "title": "I Hired an AI as a Developer - This Is What Happened",
   "description": "There have been many discussions around whether AI is threatening developer's jobs. Some say they are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/polterguy/idempotency-and-immutable-objects-4db",
   "publish_date": "2023-06-02",
   "published_at": "2023-06-02T06:51:04Z"
- },
- {
-  "id": 1488367,
-  "title": "Apresentando GitHubBrasil.com",
-  "description": "Olá comunidade, como vão?  O artigo de hoje vai ser especial, hoje vamos falar sobre o site que...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uSqQ0TJP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3ef3tu7wn0naom2m7svt.png",
-  "slug": "apresentando-githubbrasilcom-d32",
-  "url": "https://dev.to/github/apresentando-githubbrasilcom-d32",
-  "publish_date": "2023-06-01",
-  "published_at": "2023-06-01T16:45:40Z"
- },
- {
-  "id": 1487551,
-  "title": "Happy Pride Month, DEV Community! 🏳️‍🌈",
-  "description": "In many countries around the world, LGBTQ2S+ Pride Month is celebrated throughout the month of June....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pGdRik_---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4l258yceb9f1e8lqzuj.jpg",
-  "slug": "happy-pride-month-dev-community-298e",
-  "url": "https://dev.to/devteam/happy-pride-month-dev-community-298e",
-  "publish_date": "2023-06-01",
-  "published_at": "2023-06-01T14:00:00Z"
- },
- {
-  "id": 1488144,
-  "title": "How to create a notification provider with react-toastify",
-  "description": "Author: Joseph Mawa           Introduction   React and its derivative frameworks, such as refine,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2uOALrU7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p3cx7dolprfdc4a7viql.png",
-  "slug": "how-to-create-a-notification-provider-with-react-toastify-206k",
-  "url": "https://dev.to/refine/how-to-create-a-notification-provider-with-react-toastify-206k",
-  "publish_date": "2023-06-01",
-  "published_at": "2023-06-01T13:47:25Z"
- },
- {
-  "id": 1488089,
-  "title": "C# Exception Handling: Techniques and Best Practices",
-  "description": "In this comprehensive guide, we’ll dive deep into the world of C# exception handling. We’ll cover...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RBTaVPYZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f2lptbokf6xhd8ks1217.png",
-  "slug": "c-exception-handling-techniques-and-best-practices-b2j",
-  "url": "https://dev.to/bytehide/c-exception-handling-techniques-and-best-practices-b2j",
-  "publish_date": "2023-06-01",
-  "published_at": "2023-06-01T09:04:45Z"
- },
- {
-  "id": 1478666,
-  "title": "Representation Matters 🌈 Who Inspires You?",
-  "description": "It's so important to celebrate the achievements of individuals in the tech industry, and diversity...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--adDLxTpz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j88xurfvljvuuubc14tr.jpg",
-  "slug": "representation-matters-who-inspires-you-1ip0",
-  "url": "https://dev.to/devteam/representation-matters-who-inspires-you-1ip0",
-  "publish_date": "2023-06-01",
-  "published_at": "2023-06-01T07:00:00Z"
  }
 ]
