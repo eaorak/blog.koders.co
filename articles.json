@@ -1,5 +1,55 @@
 [
  {
+  "id": 1597906,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-4bfl",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4bfl",
+  "publish_date": "2023-09-12",
+  "published_at": "2023-09-12T17:44:03Z"
+ },
+ {
+  "id": 1597526,
+  "title": "Our Team's Favourite Open Source Projects Right Now",
+  "description": "At Rig.dev, we love open source. It's not just about writing code; it's about sharing solutions,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fv2wE2zT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/47914ecttuhwkkkm2qtx.png",
+  "slug": "our-teams-favourite-open-source-projects-right-now-4jlc",
+  "url": "https://dev.to/rigdev/our-teams-favourite-open-source-projects-right-now-4jlc",
+  "publish_date": "2023-09-12",
+  "published_at": "2023-09-12T13:38:13Z"
+ },
+ {
+  "id": 1596919,
+  "title": "Build an AI Meme Generator with OpenAI's function calls, Part 2: Cron Jobs ⏰☎️",
+  "description": "TL;DR   Before We Begin      Part 2    Fetching \u0026amp; Updating Templates w/ Cron Jobs   Defining...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bewRpn1T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oq196hqmapmopaoh5i7n.gif",
+  "slug": "build-an-ai-meme-generator-with-openais-function-calls-part-2-cron-jobs-54nm",
+  "url": "https://dev.to/wasp/build-an-ai-meme-generator-with-openais-function-calls-part-2-cron-jobs-54nm",
+  "publish_date": "2023-09-12",
+  "published_at": "2023-09-12T12:00:00Z"
+ },
+ {
+  "id": 1596817,
+  "title": "🛠️ 10 Exceptional Developer Tools Launched in 2023 🚀",
+  "description": "The 2023 Trends in Developer Tools   During a retrospective meeting recently, we noted that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yA_X-HGe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8m7987rsz6qti0l60v17.jpg",
+  "slug": "10-exceptional-developer-tools-launched-in-2023-42a8",
+  "url": "https://dev.to/permit_io/10-exceptional-developer-tools-launched-in-2023-42a8",
+  "publish_date": "2023-09-12",
+  "published_at": "2023-09-12T06:00:00Z"
+ },
+ {
+  "id": 1597386,
+  "title": "Motion - Tailwind CSS Template Builder",
+  "description": "Hi everyone!  We recently launched a new theme to Loopple, a Drag \u0026amp; Drop Website Template Builder...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ythHE6Pe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8us690l0z6ix4190ctzw.png",
+  "slug": "motion-tailwind-css-template-builder-3nm",
+  "url": "https://dev.to/rarestoma/motion-tailwind-css-template-builder-3nm",
+  "publish_date": "2023-09-12",
+  "published_at": "2023-09-12T05:10:45Z"
+ },
+ {
   "id": 1597059,
   "title": "Creating an 👩‍💻 Open Source Search Platform: Search Engines with AI - Swirl 🌌",
   "description": "Swirl is an Open-Source Search Engine written in Python. Powered by Large Language Models (LLMs)...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ocodista/nova-estrutura-de-pastas-para-react-2nb",
   "publish_date": "2023-06-03",
   "published_at": "2023-06-03T02:06:58Z"
- },
- {
-  "id": 1482008,
-  "title": "#DEVDiscuss: Geoffrey Hinton Quits Google",
-  "description": "Hey Devs, happy Friday 🦥💚  As always, it's been an eventful week in the tech industry. We've got a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IudMrPaf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cj0c3k0bzhhzhvqyz8ry.jpg",
-  "slug": "devdiscuss-geoffrey-hinton-quits-google-2a85",
-  "url": "https://dev.to/devteam/devdiscuss-geoffrey-hinton-quits-google-2a85",
-  "publish_date": "2023-06-02",
-  "published_at": "2023-06-02T20:00:00Z"
- },
- {
-  "id": 1489428,
-  "title": "useLayoutEffect vs useEffect",
-  "description": "Author: Wisdom Ekpotu           Introduction   In recent years, React has solidified itself in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--O7cPAeOT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/i4b2ymdm42uh4fnaypc9.png",
-  "slug": "uselayouteffect-vs-useeffect-4lfk",
-  "url": "https://dev.to/refine/uselayouteffect-vs-useeffect-4lfk",
-  "publish_date": "2023-06-02",
-  "published_at": "2023-06-02T10:11:38Z"
- },
- {
-  "id": 1489405,
-  "title": "Do not drop Sass for CSS",
-  "description": "I was just reading a post by Chris Ferdinandi -- Is it time to drop Sass? -- I want to speak on the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hZmzm_Ac--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v8efyqvsqh813cmv7mgv.jpg",
-  "slug": "do-not-drop-sass-for-css-1ofm",
-  "url": "https://dev.to/robole/do-not-drop-sass-for-css-1ofm",
-  "publish_date": "2023-06-02",
-  "published_at": "2023-06-02T09:41:02Z"
- },
- {
-  "id": 1489273,
-  "title": "Work From Home or the Office: Is It a Problem?",
-  "description": "Remote work is morally wrong   In a recent CNBC interview,  Elon Musk once again threw a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KukFYgdM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hj8h7sbyqbl73786wom.jpg",
-  "slug": "work-from-home-or-the-office-is-it-a-problem-5hj8",
-  "url": "https://dev.to/zenstack/work-from-home-or-the-office-is-it-a-problem-5hj8",
-  "publish_date": "2023-06-02",
-  "published_at": "2023-06-02T09:40:42Z"
- },
- {
-  "id": 1489240,
-  "title": "Idempotency and Immutable Objects",
-  "description": "The last 3 weeks I have had on average 100+ additional followers on DEV.to on a daily basis....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GXXZ_UHq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fdakc9p833hkea7y79kw.jpeg",
-  "slug": "idempotency-and-immutable-objects-4db",
-  "url": "https://dev.to/polterguy/idempotency-and-immutable-objects-4db",
-  "publish_date": "2023-06-02",
-  "published_at": "2023-06-02T06:51:04Z"
  }
 ]
