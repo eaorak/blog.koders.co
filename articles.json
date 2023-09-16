@@ -1,5 +1,55 @@
 [
  {
+  "id": 1600426,
+  "title": "Changelog: Tools for Organizations",
+  "description": "Organizations on DEV are a great way to represent an organization you are part of, whether a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--blYhyE6q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mt69tf7pxv8ew7rkxk3x.png",
+  "slug": "changelog-tools-for-organizations-mbp",
+  "url": "https://dev.to/devteam/changelog-tools-for-organizations-mbp",
+  "publish_date": "2023-09-15",
+  "published_at": "2023-09-15T17:03:12Z"
+ },
+ {
+  "id": 1601050,
+  "title": "👩‍💻 Everything you need to know about Hacktoberfest 2023 (and what's happening with the free tee shirts?) ➡️",
+  "description": "Hey friends 👋  The open-source holidays are just around the corner!   With this in mind, we have been...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vkiN7PKx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmj06cs3u65zu154qpre.png",
+  "slug": "everything-you-need-to-know-about-2023-hacktoberfest-and-whats-happening-with-the-free-tee-shirts--993",
+  "url": "https://dev.to/quine/everything-you-need-to-know-about-2023-hacktoberfest-and-whats-happening-with-the-free-tee-shirts--993",
+  "publish_date": "2023-09-15",
+  "published_at": "2023-09-15T10:37:19Z"
+ },
+ {
+  "id": 1586868,
+  "title": "What was your win this week?",
+  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vsTDfqRZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyck78r593005hlbngyn.jpg",
+  "slug": "what-was-your-win-this-week-5epj",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-5epj",
+  "publish_date": "2023-09-15",
+  "published_at": "2023-09-15T09:30:00Z"
+ },
+ {
+  "id": 1599861,
+  "title": "Learn How to Build a LangChain Audio App with Python in Just 5 Minutes!",
+  "description": "This guide will teach you the steps to import audio data using Langchain and develop an application...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JsLHfCZ_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r0dmkepl46n1bdvcd5om.png",
+  "slug": "learn-how-to-build-a-langchain-audio-app-with-python-in-just-5-minutes-n4o",
+  "url": "https://dev.to/pavanbelagatti/learn-how-to-build-a-langchain-audio-app-with-python-in-just-5-minutes-n4o",
+  "publish_date": "2023-09-15",
+  "published_at": "2023-09-15T06:34:28Z"
+ },
+ {
+  "id": 1600932,
+  "title": "I made ERD and documents genertor of Prisma ORM",
+  "description": "Preface   Automatic markdown documents generator for Prisma.   Github Repository Generated...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UhtWjSDl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyj5w6bpy23qdt8q0xvy.png",
+  "slug": "i-made-erd-and-documents-genertor-of-prisma-orm-4mgl",
+  "url": "https://dev.to/samchon/i-made-erd-and-documents-genertor-of-prisma-orm-4mgl",
+  "publish_date": "2023-09-15",
+  "published_at": "2023-09-15T05:54:04Z"
+ },
+ {
   "id": 1600424,
   "title": "How Rust memory management work to beginners.",
   "description": "Do you ever thought about what happens to your RAM when you run a program? And how the ways you write...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/phylis/surpassing-1000-followers-on-dev-community-5dfg",
   "publish_date": "2023-06-07",
   "published_at": "2023-06-07T06:06:54Z"
- },
- {
-  "id": 1492254,
-  "title": "Building an efficient email marketing application with ChatGPT, ToolJet, and PostgreSQL",
-  "description": "In this tutorial, you'll learn how to build an email marketing application using ToolJet, ChatGPT,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rdr40H1Y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yuh1h5vqgfo38ihvjv0g.png",
-  "slug": "building-an-efficient-email-marketing-application-with-chatgpt-tooljet-and-postgresql-25g8",
-  "url": "https://dev.to/tooljet/building-an-efficient-email-marketing-application-with-chatgpt-tooljet-and-postgresql-25g8",
-  "publish_date": "2023-06-06",
-  "published_at": "2023-06-06T11:44:47Z"
- },
- {
-  "id": 1493285,
-  "title": "A Complete Guide to Listing Docker Containers",
-  "description": "Author: Muhammad Khabbab           Brief overview of the importance of listing Docker...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dFDXfOVZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jl9cd2uy8rlhvj0r8kq8.png",
-  "slug": "a-complete-guide-to-listing-docker-containers-e9a",
-  "url": "https://dev.to/refine/a-complete-guide-to-listing-docker-containers-e9a",
-  "publish_date": "2023-06-06",
-  "published_at": "2023-06-06T11:41:20Z"
- },
- {
-  "id": 1458700,
-  "title": "Power up your serverless application with AWS Lambda extensions",
-  "description": "Implementation guide for AWS lambda extensions with NodeJs and Typescript",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cIOJ7_05--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/CorentinDoue/articles/master/blog-posts/lambda-extensions/assets/cov.jpg",
-  "slug": "power-up-your-serverless-application-with-aws-lambda-extensions-3a31",
-  "url": "https://dev.to/kumo/power-up-your-serverless-application-with-aws-lambda-extensions-3a31",
-  "publish_date": "2023-06-06",
-  "published_at": "2023-06-06T11:14:12Z"
- },
- {
-  "id": 1493325,
-  "title": "The LinQ Bible in C#: From Basics to Best Practices✝️",
-  "description": "LinQ C# Foundations: Building Blocks for Success   Before we embark on our exciting journey...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m9ggl1_5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zl76qdlj8c04av8evkyt.png",
-  "slug": "the-linq-bible-in-c-from-basics-to-best-practices-1e3c",
-  "url": "https://dev.to/bytehide/the-linq-bible-in-c-from-basics-to-best-practices-1e3c",
-  "publish_date": "2023-06-06",
-  "published_at": "2023-06-06T09:51:36Z"
- },
- {
-  "id": 1492099,
-  "title": "Build Custom Authentication Using Appsmith and APISIX",
-  "description": "Authentication flow is a fundamental part of web applications. It ensures the security and privacy of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qItbPuv2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pjtp3phhy1po031e0kqf.png",
-  "slug": "build-custom-authentication-using-appsmith-and-apisix-ep",
-  "url": "https://dev.to/apisix/build-custom-authentication-using-appsmith-and-apisix-ep",
-  "publish_date": "2023-06-06",
-  "published_at": "2023-06-06T07:39:55Z"
  }
 ]
