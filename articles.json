@@ -1,5 +1,55 @@
 [
  {
+  "id": 1601120,
+  "title": "Throw away the \"Script\" from \"Type\"\"Script\".",
+  "description": "Before writing this article, I will first attach a post that was posted on a community a few days...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2ra1MvaH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5eejge24ma9hdliw3y5.png",
+  "slug": "throw-away-the-script-from-typescript-mn5",
+  "url": "https://dev.to/artxe2/throw-away-the-script-from-typescript-mn5",
+  "publish_date": "2023-09-16",
+  "published_at": "2023-09-16T14:03:01Z"
+ },
+ {
+  "id": 1602030,
+  "title": "🚀Learn Next.js 13 Within 2 Hours🚀",
+  "description": "🚀 Exciting News: Next.js 13 Workshop is Here! 🚀  Hi all,  I have been receiving a lot of requests...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xQ7lwds_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ghmfsd1ebmz84ehbh9d.png",
+  "slug": "learn-nextjs-13-within-2-hours-3i7n",
+  "url": "https://dev.to/myogeshchavan97/learn-nextjs-13-within-2-hours-3i7n",
+  "publish_date": "2023-09-16",
+  "published_at": "2023-09-16T07:14:57Z"
+ },
+ {
+  "id": 1602005,
+  "title": "🚀Mastering Performance Optimisation in React Applications🚀",
+  "description": "In today's fast-paced web development landscape, creating lightning-fast and highly responsive React...",
+  "cover_image": "",
+  "slug": "mastering-performance-optimisation-in-react-applications-1421",
+  "url": "https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421",
+  "publish_date": "2023-09-16",
+  "published_at": "2023-09-16T06:33:24Z"
+ },
+ {
+  "id": 1599615,
+  "title": "Começando com Verilog",
+  "description": "Opa, eae?   Demorou, mas chegamos a um dos posts que realmente tinha uma galera me cobrando...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M6f8oBg4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rzetgfmwzrizg0ka1mrx.png",
+  "slug": "comecando-com-verilog-13n0",
+  "url": "https://dev.to/marlonhenq/comecando-com-verilog-13n0",
+  "publish_date": "2023-09-16",
+  "published_at": "2023-09-16T05:54:14Z"
+ },
+ {
+  "id": 1600950,
+  "title": "Bun hype. How we learned nothing from Yarn",
+  "description": "Here we go again, making the same mistake. I'm constantly reminded that every 5 years the amount of...",
+  "cover_image": "",
+  "slug": "bun-hype-how-we-learned-nothing-from-yarn-2n3j",
+  "url": "https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j",
+  "publish_date": "2023-09-16",
+  "published_at": "2023-09-16T02:10:39Z"
+ },
+ {
   "id": 1600426,
   "title": "Changelog: Tools for Organizations",
   "description": "Organizations on DEV are a great way to represent an organization you are part of, whether a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bytehide/c-asyncawait-interview-questions-and-answers-f7l",
   "publish_date": "2023-06-08",
   "published_at": "2023-06-08T10:18:27Z"
- },
- {
-  "id": 1497135,
-  "title": "Como hostear seu site gratuitamente com GitHub Pages",
-  "description": "Você já conhece o GitHub Pages? Esse serviço oferece hospedagem gratuita para websites estáticos....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N9xVLjjp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iovgz0sdczfv1npsmbip.png",
-  "slug": "como-hostear-seu-site-gratuitamente-com-github-pages-39fk",
-  "url": "https://dev.to/github/como-hostear-seu-site-gratuitamente-com-github-pages-39fk",
-  "publish_date": "2023-06-07",
-  "published_at": "2023-06-07T19:41:20Z"
- },
- {
-  "id": 1496799,
-  "title": "Catch DEV Lead Software Engineer Ridhwana Khan’s talk at Rubyday 2023",
-  "description": "Hey DEV Community! We are SO excited to announce an upcoming conference talk by our Lead Software...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nI02Qwye--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/518s6g7nk7lsdpndjaqv.png",
-  "slug": "catch-dev-lead-software-engineer-ridhwana-khans-talk-at-rubyday-2023-34i1",
-  "url": "https://dev.to/devteam/catch-dev-lead-software-engineer-ridhwana-khans-talk-at-rubyday-2023-34i1",
-  "publish_date": "2023-06-07",
-  "published_at": "2023-06-07T15:14:57Z"
- },
- {
-  "id": 1496772,
-  "title": "How I Built a Modern 'Food Menu' Web App: From Tech Stack to Workflow",
-  "description": "Introduction   Building successful and efficient web apps needs two things: a strong...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BMpGjmjg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ep51f305d6n1jifzbpzl.jpg",
-  "slug": "how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok",
-  "url": "https://dev.to/livecycle/how-i-built-a-modern-food-menu-web-app-from-tech-stack-to-workflow-3iok",
-  "publish_date": "2023-06-07",
-  "published_at": "2023-06-07T14:19:52Z"
- },
- {
-  "id": 1494673,
-  "title": "10 Sites to Level Up Your UI Skills",
-  "description": "UI, or User Interface, is anything that a user interacts with on your website, application, or any...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LtODhAqr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dsv86al3gfznkpucn8i4.png",
-  "slug": "10-sites-to-level-up-your-ui-skills-3e9m",
-  "url": "https://dev.to/keracudmore/10-sites-to-level-up-your-ui-skills-3e9m",
-  "publish_date": "2023-06-07",
-  "published_at": "2023-06-07T12:31:02Z"
- },
- {
-  "id": 1494370,
-  "title": "🎉 Surpassing 1000 Followers on Dev Community! 🎉😊🌺",
-  "description": "I am incredibly thrilled and humbled to announce that I have just crossed the remarkable milestone of...",
-  "cover_image": "",
-  "slug": "surpassing-1000-followers-on-dev-community-5dfg",
-  "url": "https://dev.to/phylis/surpassing-1000-followers-on-dev-community-5dfg",
-  "publish_date": "2023-06-07",
-  "published_at": "2023-06-07T06:06:54Z"
  }
 ]
