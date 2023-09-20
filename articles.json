@@ -1,5 +1,55 @@
 [
  {
+  "id": 1604875,
+  "title": "Como funcionava o famoso site do Space Jam de 1996?",
+  "description": "Esse site era genial, e permanece nos anais das coisas geniais feitas apenas com HTML e gambetagem....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yjo9nxe4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ofg84g8kanpz105klfo.jpeg",
+  "slug": "como-funcionava-o-famoso-site-do-space-jam-de-1996-78f",
+  "url": "https://dev.to/lixeletto/como-funcionava-o-famoso-site-do-space-jam-de-1996-78f",
+  "publish_date": "2023-09-19",
+  "published_at": "2023-09-19T13:10:57Z"
+ },
+ {
+  "id": 1604250,
+  "title": "SAML SSO: The Missing Piece in Your Next.js App's Authentication Puzzle 🧩",
+  "description": "Find out how to complete the picture for a seamless login           TL;DR:   By the end of this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nwRkySiq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iz7h37tnwjld2d7by45x.gif",
+  "slug": "saml-sso-the-missing-piece-in-your-nextjs-apps-authentication-puzzle-3h9f",
+  "url": "https://dev.to/nathan_tarbert/saml-sso-the-missing-piece-in-your-nextjs-apps-authentication-puzzle-3h9f",
+  "publish_date": "2023-09-19",
+  "published_at": "2023-09-19T12:46:06Z"
+ },
+ {
+  "id": 1596597,
+  "title": "✨Your first Hacktoberfest contribution to open source in the next 10 min! [beginner edition] 🚀",
+  "description": "Hey friends 👋   Recently at quine.sh we have been cooking some pretty cool stuff which we will...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ylK_EBfS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/af5r558w5pblohlos72n.png",
+  "slug": "how-to-make-your-first-contribution-to-open-source-in-the-next-10-min-hacktoberfest-beginner-edition-1jhl",
+  "url": "https://dev.to/quine/how-to-make-your-first-contribution-to-open-source-in-the-next-10-min-hacktoberfest-beginner-edition-1jhl",
+  "publish_date": "2023-09-19",
+  "published_at": "2023-09-19T11:37:51Z"
+ },
+ {
+  "id": 1604795,
+  "title": "Sharing Code Snippets on Social Media, the accessible way! [Quicka11y]",
+  "description": "Welcome to the first \"quick accessibility\" post to quickly (quicka11y 😁) improve the accessibility of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oASuHHCM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ozmxou9x1j8t8cx308pi.png",
+  "slug": "sharing-code-snippets-on-social-media-the-accessible-way-quicka11y-cf",
+  "url": "https://dev.to/tota11ydev/sharing-code-snippets-on-social-media-the-accessible-way-quicka11y-cf",
+  "publish_date": "2023-09-19",
+  "published_at": "2023-09-19T11:17:08Z"
+ },
+ {
+  "id": 1604579,
+  "title": "5 Open-Source Projects We’re Using to Build Rig.dev",
+  "description": "One of the key elements that make our platform, Rig.dev what it is today, is our love for the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mr_nnXjq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uvjqwt7ibikh0l9p1ei0.png",
+  "slug": "5-open-source-projects-were-using-to-build-our-application-platform-for-kubernetes-489e",
+  "url": "https://dev.to/rigdev/5-open-source-projects-were-using-to-build-our-application-platform-for-kubernetes-489e",
+  "publish_date": "2023-09-19",
+  "published_at": "2023-09-19T10:17:08Z"
+ },
+ {
   "id": 1603186,
   "title": "Retrieval Augmented Generation (RAG): How To Get AI Models Learn Your Data \u0026 Give You Answers",
   "description": "With the growing AI and Large Language Models, there is a higher demand for people wanting to get...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tsotsi1/enhancing-code-reviews-with-conventional-comments-2j9i",
   "publish_date": "2023-06-11",
   "published_at": "2023-06-11T01:00:09Z"
- },
- {
-  "id": 1500198,
-  "title": "How did you get interested in software development?",
-  "description": "What's your origin story?",
-  "cover_image": "",
-  "slug": "how-did-you-get-interested-in-software-development-402g",
-  "url": "https://dev.to/dinerdas/how-did-you-get-interested-in-software-development-402g",
-  "publish_date": "2023-06-10",
-  "published_at": "2023-06-10T15:33:56Z"
- },
- {
-  "id": 1500141,
-  "title": "Essential Keywords Every Ethereum Enthusiast Must Know",
-  "description": "Ethereum has emerged as one of the most influential platforms in the blockchain ecosystem. It's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qtCc9V8f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8heon8d8cpystqbek11n.jpg",
-  "slug": "essential-keywords-every-ethereum-enthusiast-must-know-4600",
-  "url": "https://dev.to/sahil_4555/essential-keywords-every-ethereum-enthusiast-must-know-4600",
-  "publish_date": "2023-06-10",
-  "published_at": "2023-06-10T13:27:29Z"
- },
- {
-  "id": 1500126,
-  "title": "Reflecting on Progress and Redefining Goals",
-  "description": "Evaluating my progress, self-assessing, and looking at my goals over the last six months.",
-  "cover_image": "",
-  "slug": "reflecting-on-progress-and-redefining-goals-2oo9",
-  "url": "https://dev.to/bekahhw/reflecting-on-progress-and-redefining-goals-2oo9",
-  "publish_date": "2023-06-10",
-  "published_at": "2023-06-10T13:03:26Z"
- },
- {
-  "id": 1488854,
-  "title": "Simplify Your C# Code: Top 5 Refactoring Tools",
-  "description": "When we hear refactoring what comes to mind? I am sure it would be like we just modify the previous...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IFtoDlk5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q211h5iert1xno1r16lr.png",
-  "slug": "simplify-your-c-code-top-5-refactoring-tools-1bo0",
-  "url": "https://dev.to/documatic/simplify-your-c-code-top-5-refactoring-tools-1bo0",
-  "publish_date": "2023-06-10",
-  "published_at": "2023-06-10T12:00:00Z"
- },
- {
-  "id": 1499959,
-  "title": "I'm developing a new server state management library for React.",
-  "description": "I'm excited to introduce the RSM (Redux State Manager) tool I've developed to the community. In this...",
-  "cover_image": "",
-  "slug": "im-developing-a-new-server-state-management-library-3nhk",
-  "url": "https://dev.to/jason89521/im-developing-a-new-server-state-management-library-3nhk",
-  "publish_date": "2023-06-10",
-  "published_at": "2023-06-10T09:55:46Z"
  }
 ]
