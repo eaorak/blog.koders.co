@@ -1,5 +1,55 @@
 [
  {
+  "id": 1606113,
+  "title": "React sees a dip in downloads on npm 📉. What's going on?",
+  "description": "For those who don't know 😂 React is a JavaScript library for creating user interfaces.   React is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l-iAIbQx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n72u7msdmflruzlsh3jc.png",
+  "slug": "react-sees-a-dip-in-downloads-on-npm-whats-going-on-ode",
+  "url": "https://dev.to/srbhr/react-sees-a-dip-in-downloads-on-npm-whats-going-on-ode",
+  "publish_date": "2023-09-20",
+  "published_at": "2023-09-20T13:18:42Z"
+ },
+ {
+  "id": 1515618,
+  "title": "Learn serverless on AWS step-by-step: Deploy a frontend!",
+  "description": "Learn how to deploy a frontend on AWS, and how to make it interact with your serverless backend!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VTiIZVxa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/front/assets/cover.png",
+  "slug": "learn-serverless-on-aws-step-by-step-deploy-a-frontend-31a6",
+  "url": "https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-deploy-a-frontend-31a6",
+  "publish_date": "2023-09-20",
+  "published_at": "2023-09-20T12:34:08Z"
+ },
+ {
+  "id": 1605974,
+  "title": "Why we made our Startup Open-Source",
+  "description": "We built Rig.dev as an open-source platform from day one, and there's a good reason behind that. If...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NSYRAhGD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q3tierzurdwnbvrgnwgd.png",
+  "slug": "why-we-build-our-startup-open-source-400m",
+  "url": "https://dev.to/rigdev/why-we-build-our-startup-open-source-400m",
+  "publish_date": "2023-09-20",
+  "published_at": "2023-09-20T11:52:59Z"
+ },
+ {
+  "id": 1601421,
+  "title": "Search your AWS resources blazingly fast ⚡️",
+  "description": "Use the AWS search bar to find directly any of your resources at a glance",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_o5bmKN_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ChloeMouret/kumo-articles/master/blog-posts/aws-search-bar/assets/cover.png",
+  "slug": "search-your-aws-resources-blazingly-fast-42h8",
+  "url": "https://dev.to/slsbytheodo/search-your-aws-resources-blazingly-fast-42h8",
+  "publish_date": "2023-09-20",
+  "published_at": "2023-09-20T08:57:58Z"
+ },
+ {
+  "id": 1605809,
+  "title": "🐘Top Postgres GUI Clients to Master Postgres☄️🦖",
+  "description": "Postgres (or PostgreSQL) is one of the most advanced open-source relational databases on the market...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Ses7U__--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xeehv47ufnhcvo5slv27.png",
+  "slug": "top-postgres-gui-clients-to-master-postgres-2dba",
+  "url": "https://dev.to/bytebase/top-postgres-gui-clients-to-master-postgres-2dba",
+  "publish_date": "2023-09-20",
+  "published_at": "2023-09-20T08:05:28Z"
+ },
+ {
   "id": 1604875,
   "title": "Como funcionava o famoso site do Space Jam de 1996?",
   "description": "Esse site era genial, e permanece nos anais das coisas geniais feitas apenas com HTML e gambetagem....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/madsstoumann/using-a-single-input-for-one-time-code-352l",
   "publish_date": "2023-06-12",
   "published_at": "2023-06-12T08:05:01Z"
- },
- {
-  "id": 1501344,
-  "title": "Comece hoje a estudar web development",
-  "description": "Você não precisa ter o melhor computador, melhor curso ou de faculdade para começar. Aqui vou listar...",
-  "cover_image": "",
-  "slug": "comece-hoje-a-estudar-688",
-  "url": "https://dev.to/oderco/comece-hoje-a-estudar-688",
-  "publish_date": "2023-06-11",
-  "published_at": "2023-06-11T23:43:11Z"
- },
- {
-  "id": 1500357,
-  "title": "How to Deploy LangChain App 🐦🔗 as an API",
-  "description": "Introduction   Recently, I had an idea to add my own AI Assistant to my website -...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JGmrPOA_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s4rhti8pytm5x1dcjyhc.png",
-  "slug": "how-to-deploy-langchain-as-an-api-48mj",
-  "url": "https://dev.to/akshayballal/how-to-deploy-langchain-as-an-api-48mj",
-  "publish_date": "2023-06-11",
-  "published_at": "2023-06-11T18:59:34Z"
- },
- {
-  "id": 1493081,
-  "title": "🦕 How to build a simple back end PoC with user notification using Novu, Amplication, and Discord?",
-  "description": "TL;DR   In this project, I’ll be showing you some unique ways to integrate Novu with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZO_uw8H4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8r9dj1pfogi072u4drsn.png",
-  "slug": "how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14",
-  "url": "https://dev.to/hunghvu/how-to-build-a-simple-back-end-poc-with-user-notification-using-novu-amplication-and-discord-4h14",
-  "publish_date": "2023-06-11",
-  "published_at": "2023-06-11T18:37:17Z"
- },
- {
-  "id": 1500691,
-  "title": "7 Free Lifesaver Image Tools Every Frontend Developer Must Have In Their Arsenal 🛠️🚀",
-  "description": "Images are an integral part of every frontend developer's journey, shaping captivating digital...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xi1y1G7K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xovl26ueuw2zopgqnmj3.png",
-  "slug": "7-free-lifesaver-image-tools-every-frontend-developer-must-have-in-their-arsenal-43n",
-  "url": "https://dev.to/ruppysuppy/7-free-lifesaver-image-tools-every-frontend-developer-must-have-in-their-arsenal-43n",
-  "publish_date": "2023-06-11",
-  "published_at": "2023-06-11T06:37:40Z"
- },
- {
-  "id": 1500125,
-  "title": "Enhancing Code Reviews with Conventional Comments",
-  "description": "In software development, code reviews are a vital practice that ensures code quality, promotes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mp-auzgs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bqo17owv451jbpiofr6f.jpg",
-  "slug": "enhancing-code-reviews-with-conventional-comments-2j9i",
-  "url": "https://dev.to/tsotsi1/enhancing-code-reviews-with-conventional-comments-2j9i",
-  "publish_date": "2023-06-11",
-  "published_at": "2023-06-11T01:00:09Z"
  }
 ]
