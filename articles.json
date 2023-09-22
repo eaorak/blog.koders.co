@@ -1,5 +1,55 @@
 [
  {
+  "id": 1605013,
+  "title": "Supercharge your Repository with Code Owners",
+  "description": "As a maintainer of a repository, it’s in your best interest to automate processes as much as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--her-e-8S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mb76rkwxnwmvnfi8labd.png",
+  "slug": "supercharge-your-repository-with-code-owners-4clg",
+  "url": "https://dev.to/opensauced/supercharge-your-repository-with-code-owners-4clg",
+  "publish_date": "2023-09-21",
+  "published_at": "2023-09-21T15:51:24Z"
+ },
+ {
+  "id": 1605085,
+  "title": "Quando usar a tag \u003cimg\u003e e a propriedade background-image?",
+  "description": "TLDR   Prefira usar background-image quando a imagem gabaritar (ou quase) essa lista:   Não...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dhKNIZ6e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vruerzmm7ix7hbk6y8er.png",
+  "slug": "quando-usar-a-tag-e-a-propriedade-background-image-23in",
+  "url": "https://dev.to/lixeletto/quando-usar-a-tag-e-a-propriedade-background-image-23in",
+  "publish_date": "2023-09-21",
+  "published_at": "2023-09-21T12:00:00Z"
+ },
+ {
+  "id": 1606699,
+  "title": "Design System 101: Top-down Approach in Component Spacing",
+  "description": "Here at Woovi, one of our core philosophies around the front-end is ensure that our entire UI will be...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---olb_1D9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wldkxsnmqz9evb58i2o5.jpg",
+  "slug": "design-system-101-top-down-approach-in-component-spacing-281m",
+  "url": "https://dev.to/woovi/design-system-101-top-down-approach-in-component-spacing-281m",
+  "publish_date": "2023-09-21",
+  "published_at": "2023-09-21T11:32:30Z"
+ },
+ {
+  "id": 1606585,
+  "title": "Por onde e como EU estudo C#",
+  "description": "No mês passado, tomei uma decisão importante para a minha carreira e meu aprendizado. Vi um post no...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ffP1Trm9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a6qu2acj8lrqlif590yd.png",
+  "slug": "por-onde-e-como-eu-estudo-c-cpp",
+  "url": "https://dev.to/monokai_dev/por-onde-e-como-eu-estudo-c-cpp",
+  "publish_date": "2023-09-21",
+  "published_at": "2023-09-21T11:30:39Z"
+ },
+ {
+  "id": 1606958,
+  "title": "The Complete Microservices Guide",
+  "description": "Learn the art of scalable and resilient systems through 'The Complete Microservices Guide.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--591FwGB2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/the-complete-microservices-guide/hero1.png",
+  "slug": "the-complete-microservices-guide-5d64",
+  "url": "https://dev.to/amplication/the-complete-microservices-guide-5d64",
+  "publish_date": "2023-09-21",
+  "published_at": "2023-09-21T08:53:59Z"
+ },
+ {
   "id": 1606113,
   "title": "React sees a dip in downloads on npm 📉. What's going on?",
   "description": "For those who don't know 😂 React is a JavaScript library for creating user interfaces.   React is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aws-builders/deploy-harperdb-on-rosa-red-hat-openshift-service-on-aws-4jge",
   "publish_date": "2023-06-13",
   "published_at": "2023-06-13T00:44:35Z"
- },
- {
-  "id": 1502134,
-  "title": "Meet Omkar DevTools: 🚀 Your Swiss Army Knife as a Ninja Developer ✨",
-  "description": "💡 What is Omkar DevTools?   Omkar DevTools is a one-stop shop for developers, providing a...",
-  "cover_image": "",
-  "slug": "meet-omkar-devtools-your-swiss-army-knife-as-a-ninja-developer-2ekb",
-  "url": "https://dev.to/rajesh_singh_1989/meet-omkar-devtools-your-swiss-army-knife-as-a-ninja-developer-2ekb",
-  "publish_date": "2023-06-12",
-  "published_at": "2023-06-12T16:08:54Z"
- },
- {
-  "id": 1502128,
-  "title": "Meet Bose Framework: 🚀 Your Swiss Army Knife as a Ninja Scraper ✨",
-  "description": "💡 What is Bose Framework?   Bose Framework is a framework built for selenium developers...",
-  "cover_image": "",
-  "slug": "meet-bose-framework-your-swiss-army-knife-as-a-ninja-scraper-42dn",
-  "url": "https://dev.to/rajesh_singh_1989/meet-bose-framework-your-swiss-army-knife-as-a-ninja-scraper-42dn",
-  "publish_date": "2023-06-12",
-  "published_at": "2023-06-12T15:59:06Z"
- },
- {
-  "id": 1502127,
-  "title": "Meet Om Startup Framework: 🚀 Your Swiss Army Knife as a Full Stack Ninja ✨",
-  "description": "💡 What is Om Startup Framework?   The Om Startup Framework helps you create production-ready...",
-  "cover_image": "",
-  "slug": "meet-om-framework-your-swiss-army-knife-as-a-full-stack-ninja-22me",
-  "url": "https://dev.to/rajesh_singh_1989/meet-om-framework-your-swiss-army-knife-as-a-full-stack-ninja-22me",
-  "publish_date": "2023-06-12",
-  "published_at": "2023-06-12T15:56:53Z"
- },
- {
-  "id": 1501790,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3FyIjfQS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/510u5ba66d2kylmiwfym.png",
-  "slug": "meme-monday-54bo",
-  "url": "https://dev.to/ben/meme-monday-54bo",
-  "publish_date": "2023-06-12",
-  "published_at": "2023-06-12T10:44:28Z"
- },
- {
-  "id": 1500673,
-  "title": "Using a Single Input for one-time-code",
-  "description": "The other night I had a bit of fun trying to create a single-input one-time-code:    one-time-code is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9nbxtLZe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y1bqgdh8f9wzwg02z183.png",
-  "slug": "using-a-single-input-for-one-time-code-352l",
-  "url": "https://dev.to/madsstoumann/using-a-single-input-for-one-time-code-352l",
-  "publish_date": "2023-06-12",
-  "published_at": "2023-06-12T08:05:01Z"
  }
 ]
