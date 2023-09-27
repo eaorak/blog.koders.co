@@ -1,5 +1,55 @@
 [
  {
+  "id": 1610332,
+  "title": "Top 7 Featured DEV Posts from the Past Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-from-the-past-week-160a",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-160a",
+  "publish_date": "2023-09-26",
+  "published_at": "2023-09-26T20:13:25Z"
+ },
+ {
+  "id": 1612039,
+  "title": "Angular 16, Payload CMS, and ExpressJs Open-Source Web App Boilerplate",
+  "description": "I created an open-source Angular 16, Payload CMS, and ExpressJs Web App Boilerplate. After months of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ENmGpLiB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rhgjexltds6syj57ar8i.png",
+  "slug": "angular-16-payload-cms-and-expressjs-open-source-web-app-boilerplate-3cd2",
+  "url": "https://dev.to/florinmtsc/angular-16-payload-cms-and-expressjs-open-source-web-app-boilerplate-3cd2",
+  "publish_date": "2023-09-26",
+  "published_at": "2023-09-26T13:20:08Z"
+ },
+ {
+  "id": 1607458,
+  "title": "Hacktoberfest Magic: ✨ Github Unlocked Using Filters",
+  "description": "Last week I published an article about finding and making your first open-source contribution,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R4ssUufv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e8nwc3rt8qk7k701vjg8.gif",
+  "slug": "hacktoberfest-magic-github-unlocked-using-filters-549h",
+  "url": "https://dev.to/nathan_tarbert/hacktoberfest-magic-github-unlocked-using-filters-549h",
+  "publish_date": "2023-09-26",
+  "published_at": "2023-09-26T13:16:22Z"
+ },
+ {
+  "id": 1531158,
+  "title": "🚀 10 Github repositories to achieve Javascript mastery 🧙‍♂️🪄✨",
+  "description": "TL;DR   This article contains a list of 10 Github repositories that are going to be useful...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k6vp458B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0oxxqp1e3ab3aivbsu5g.gif",
+  "slug": "10-github-repositories-to-achieve-javascript-mastery-50hk",
+  "url": "https://dev.to/novu/10-github-repositories-to-achieve-javascript-mastery-50hk",
+  "publish_date": "2023-09-26",
+  "published_at": "2023-09-26T12:20:39Z"
+ },
+ {
+  "id": 1604773,
+  "title": "Contributing to Tech Communities: How Open-Source can land you a job and get you out of the Skill Paradox 💼",
+  "description": "Hello there!            TL;DR    In this article, we’re going to see how open-source can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2QykY2IH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bwe2f1qwsxd67bnsfogv.gif",
+  "slug": "contributing-to-tech-communities-how-open-source-can-land-you-a-job-and-get-you-out-of-the-skill-paradox-4ejh",
+  "url": "https://dev.to/wasp/contributing-to-tech-communities-how-open-source-can-land-you-a-job-and-get-you-out-of-the-skill-paradox-4ejh",
+  "publish_date": "2023-09-26",
+  "published_at": "2023-09-26T12:14:19Z"
+ },
+ {
   "id": 1611434,
   "title": "Handling state between multiple processes with elixir",
   "description": "Elixir works really well for concurrent code because of it's functional nature and ability to run in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sathishskdev/part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d",
   "publish_date": "2023-06-18",
   "published_at": "2023-06-18T06:18:39Z"
- },
- {
-  "id": 1508078,
-  "title": "Dynamic SVG images using Next.js",
-  "description": "SVG has emerged as a dominant image format, offering unparalleled flexibility and scalability for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MYTKU5hU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/smbplvdfls49ye7wvavf.png",
-  "slug": "dynamic-svg-images-using-nextjs-1b3f",
-  "url": "https://dev.to/nbouvrette/dynamic-svg-images-using-nextjs-1b3f",
-  "publish_date": "2023-06-17",
-  "published_at": "2023-06-17T23:59:15Z"
- },
- {
-  "id": 1507936,
-  "title": "How to build a markdown editor in two minutes (with GitHub Copilot)",
-  "description": "Table of Contents      This blog post is long. Click this dropdown for a smoother navigation...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kcPP6daV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ke2p5dt9f5y3ahiqlu13.png",
-  "slug": "how-to-build-a-markdown-editor-in-two-minutes-with-github-copilot-khb",
-  "url": "https://dev.to/github/how-to-build-a-markdown-editor-in-two-minutes-with-github-copilot-khb",
-  "publish_date": "2023-06-17",
-  "published_at": "2023-06-17T17:59:34Z"
- },
- {
-  "id": 1507750,
-  "title": "Top 10 Backend Development Mistakes to Avoid",
-  "description": "Backend development plays a crucial role in building robust and efficient web applications. It...",
-  "cover_image": "",
-  "slug": "top-10-backend-development-mistakes-to-avoid-4p86",
-  "url": "https://dev.to/dhruvjoshi9/top-10-backend-development-mistakes-to-avoid-4p86",
-  "publish_date": "2023-06-17",
-  "published_at": "2023-06-17T11:53:31Z"
- },
- {
-  "id": 1507702,
-  "title": "Modeling Facebook Groups Access Management",
-  "description": "Introduction   We frequently receive inquiries about how to model different types of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kn8vUQbC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9jsdlcrfskxkcbcui9p8.png",
-  "slug": "modeling-facebook-groups-access-management-27kg",
-  "url": "https://dev.to/permify/modeling-facebook-groups-access-management-27kg",
-  "publish_date": "2023-06-17",
-  "published_at": "2023-06-17T09:59:04Z"
- },
- {
-  "id": 1507574,
-  "title": "React Ecosystem in 2023.",
-  "description": "React Ecosystem in 2023   As the technology are evolving the tools and library are also...",
-  "cover_image": "",
-  "slug": "react-ecosystem-in-2023-5aj4",
-  "url": "https://dev.to/ihteshamulhaq510/react-ecosystem-in-2023-5aj4",
-  "publish_date": "2023-06-17",
-  "published_at": "2023-06-17T07:04:07Z"
  }
 ]
