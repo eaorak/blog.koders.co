@@ -1,5 +1,55 @@
 [
  {
+  "id": 1612610,
+  "title": "Tests for Developers - How you can avoid bugs at 5pm on Friday",
+  "description": "Test is something that is present in our daily lives of everyone that works with technologies, but,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z2-Zucuv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7nratt58xp247keg0g2i.jpeg",
+  "slug": "tests-for-developers-how-you-can-avoid-bugs-at-5pm-on-friday-41og",
+  "url": "https://dev.to/m4rri4nne/tests-for-developers-how-you-can-avoid-bugs-at-5pm-on-friday-41og",
+  "publish_date": "2023-09-27",
+  "published_at": "2023-09-27T13:36:38Z"
+ },
+ {
+  "id": 1596990,
+  "title": "🔥7 open-source libraries to keep an eye on (and contribute to!) ✨👩‍💻",
+  "description": "Hey friends,   You will find in this article last month's most talked about open-source projects on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WI59WjIz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xkdhk5byteh1gq91vdvq.png",
+  "slug": "7-open-source-libraries-to-keep-an-eye-on-and-contribute-to-2c96",
+  "url": "https://dev.to/quine/7-open-source-libraries-to-keep-an-eye-on-and-contribute-to-2c96",
+  "publish_date": "2023-09-27",
+  "published_at": "2023-09-27T12:46:49Z"
+ },
+ {
+  "id": 1611971,
+  "title": "Leveraging Technology for Efficient Logistics in E-commerce: Key Strategies for Scaling Up",
+  "description": "Over the past decade, technology has transformed the e-commerce sphere drastically, particularly if...",
+  "cover_image": "",
+  "slug": "leveraging-technology-for-efficient-logistics-in-e-commerce-key-strategies-for-scaling-up-30op",
+  "url": "https://dev.to/ababichev/leveraging-technology-for-efficient-logistics-in-e-commerce-key-strategies-for-scaling-up-30op",
+  "publish_date": "2023-09-27",
+  "published_at": "2023-09-27T10:11:53Z"
+ },
+ {
+  "id": 1613010,
+  "title": "⚡ Best Open Source React framework and libraries for Building Enterprise B2B apps",
+  "description": "In the Web development ecosystem, building industry-standard B2B (business-to-business) applications...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JfpiRa1M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gl2505dnzkme2km8656z.png",
+  "slug": "best-open-source-react-framework-and-libraries-for-building-enterprise-b2b-apps-5a0m",
+  "url": "https://dev.to/refine/best-open-source-react-framework-and-libraries-for-building-enterprise-b2b-apps-5a0m",
+  "publish_date": "2023-09-27",
+  "published_at": "2023-09-27T08:39:56Z"
+ },
+ {
+  "id": 1612774,
+  "title": "All the Git Commands You Need to Know",
+  "description": "Git is a powerful version control tool that plays a crucial role in modern software development....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MxNC_gRk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epue2q0aczlg7f4xtbnc.png",
+  "slug": "all-the-git-commands-you-need-to-know-1m6e",
+  "url": "https://dev.to/frantchessico/all-the-git-commands-you-need-to-know-1m6e",
+  "publish_date": "2023-09-27",
+  "published_at": "2023-09-27T04:34:05Z"
+ },
+ {
   "id": 1610332,
   "title": "Top 7 Featured DEV Posts from the Past Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk",
   "publish_date": "2023-06-19",
   "published_at": "2023-06-19T07:11:53Z"
- },
- {
-  "id": 1374537,
-  "title": "Create, Push, and Present Any View Controller in 1 LOC using Metaprogramming",
-  "description": "TL;DR   We make view controller instantiation more type-safe by eliminating string IDs and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a-OkmsKV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a7d43667odiv9uc1mcsp.jpg",
-  "slug": "create-push-and-present-any-view-controller-in-1-loc-using-metaprogramming-4o8d",
-  "url": "https://dev.to/ivangoremykin/create-push-and-present-any-view-controller-in-1-loc-using-metaprogramming-4o8d",
-  "publish_date": "2023-06-18",
-  "published_at": "2023-06-18T17:39:11Z"
- },
- {
-  "id": 1508502,
-  "title": "How to prepare test data via OpenAI API in Postman",
-  "description": "How to generate diverse test data? And what if you need a realistic dataset for a product...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8gpezxSJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vln3ftqk8xjsf9on58fs.png",
-  "slug": "how-to-prepare-test-data-via-openai-api-in-postman-5con",
-  "url": "https://dev.to/n_demia/how-to-prepare-test-data-via-openai-api-in-postman-5con",
-  "publish_date": "2023-06-18",
-  "published_at": "2023-06-18T14:18:11Z"
- },
- {
-  "id": 1508491,
-  "title": "After Solving 400 Leetcode questions, Here are five things that I have learned",
-  "description": "After Solving 400 Leetcode questions, I have gained valuable insights and lessons that have shaped my...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yMzeijHW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6gwjrn3zyf8hc0u8lfle.png",
-  "slug": "after-solving-400-leetcode-questions-here-are-five-things-that-i-have-learned-c60",
-  "url": "https://dev.to/durgesh4993/after-solving-400-leetcode-questions-here-are-five-things-that-i-have-learned-c60",
-  "publish_date": "2023-06-18",
-  "published_at": "2023-06-18T13:28:49Z"
- },
- {
-  "id": 1508318,
-  "title": "Mindmapping: The Underrated Skill for Success in Life and Software Development",
-  "description": "🌟 Mindmapping: The Underrated Skill for Success in Life and Software Development! 🌟  🚀 Are you tired...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--n7AJvhOG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dd6sg5uim8lnarwthbsn.jpg",
-  "slug": "mindmapping-the-underrated-skill-for-success-in-life-and-software-development-4npi",
-  "url": "https://dev.to/jagroop2000/mindmapping-the-underrated-skill-for-success-in-life-and-software-development-4npi",
-  "publish_date": "2023-06-18",
-  "published_at": "2023-06-18T08:23:49Z"
- },
- {
-  "id": 1476699,
-  "title": "Part 4: Writing Clean and Efficient React Code- Best Practices and Optimization Techniques",
-  "description": "Welcome to Part 4 of our series on \"React best practices in 2023\"! In this part, we will explore...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3NDpXywi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cuv5d7fvcbvgolkb9m1e.png",
-  "slug": "part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d",
-  "url": "https://dev.to/sathishskdev/part-4-writing-clean-and-efficient-react-code-best-practices-and-optimization-techniques-423d",
-  "publish_date": "2023-06-18",
-  "published_at": "2023-06-18T06:18:39Z"
  }
 ]
