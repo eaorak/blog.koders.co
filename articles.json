@@ -1,5 +1,55 @@
 [
  {
+  "id": 1614936,
+  "title": "A base de Redux Toolkit e React Redux",
+  "description": "Está querendo aprender Redux num ambiente js ou react e ainda não sabe por onde começar?  Neste...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ILZP6OxU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/00fj2mcg5nync7lcvdbf.png",
+  "slug": "redux-toolkit-e-react-redux-2o9k",
+  "url": "https://dev.to/nickgabe/redux-toolkit-e-react-redux-2o9k",
+  "publish_date": "2023-09-28",
+  "published_at": "2023-09-28T22:08:28Z"
+ },
+ {
+  "id": 1608015,
+  "title": "Down the rabbit hole of an Apache APISIX plugin",
+  "description": "My demo, Evolving your APIs, features a custom Apache APISIX plugin. I believe that the process of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jBcHf7Gy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4j64eny1cm6n413tidqu.jpg",
+  "slug": "down-the-rabbit-hole-of-an-apache-apisix-plugin-5d45",
+  "url": "https://dev.to/apisix/down-the-rabbit-hole-of-an-apache-apisix-plugin-5d45",
+  "publish_date": "2023-09-28",
+  "published_at": "2023-09-28T09:02:00Z"
+ },
+ {
+  "id": 1614154,
+  "title": "👉 TypeScript Record Type with Examples",
+  "description": "Author: Abdullah Numan  The Record\u0026lt;\u0026gt; utility type in TypeScript is typically associated with a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c1e-ino7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1vftrx398loawk94jumn.png",
+  "slug": "typescript-record-type-with-examples-l09",
+  "url": "https://dev.to/refine/typescript-record-type-with-examples-l09",
+  "publish_date": "2023-09-28",
+  "published_at": "2023-09-28T07:44:22Z"
+ },
+ {
+  "id": 1613825,
+  "title": "ChatGPT Got Internet Access!",
+  "description": "In a significant update, OpenAI has announced that ChatGPT now has the ability to browse the...",
+  "cover_image": "",
+  "slug": "chatgpt-got-internet-access-21gj",
+  "url": "https://dev.to/ananddas/chatgpt-got-internet-access-21gj",
+  "publish_date": "2023-09-28",
+  "published_at": "2023-09-28T00:53:08Z"
+ },
+ {
+  "id": 1613566,
+  "title": "Implementing Signals from Scratch",
+  "description": "What Are Signals?   Recently, the JavaScript community has been buzzing about signals. Their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KRyx5zzg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73ypa9eyf2bolpoc13kq.png",
+  "slug": "implementing-signals-from-scratch-3e4c",
+  "url": "https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c",
+  "publish_date": "2023-09-28",
+  "published_at": "2023-09-28T00:45:34Z"
+ },
+ {
   "id": 1612610,
   "title": "Tests for Developers - How you can avoid bugs at 5pm on Friday",
   "description": "Test is something that is present in our daily lives of everyone that works with technologies, but,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/integridsolutions/style-position-fixed-in-a-better-way-169g",
   "publish_date": "2023-06-20",
   "published_at": "2023-06-20T04:28:43Z"
- },
- {
-  "id": 1509731,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J-ZfTNKi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p6if6gh095yc1jfxm8gj.png",
-  "slug": "meme-monday-3c8g",
-  "url": "https://dev.to/ben/meme-monday-3c8g",
-  "publish_date": "2023-06-19",
-  "published_at": "2023-06-19T15:23:01Z"
- },
- {
-  "id": 1503392,
-  "title": "How to send a warm welcome email with Resend, Next-Auth and React-Email",
-  "description": "What you will find in this article?   We often encounter applications that send us welcome...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u6EscS6Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6xi21urj63d7s4xpcbdq.png",
-  "slug": "how-to-send-a-warm-welcome-email-with-resend-next-auth-and-react-email-576f",
-  "url": "https://dev.to/mfts/how-to-send-a-warm-welcome-email-with-resend-next-auth-and-react-email-576f",
-  "publish_date": "2023-06-19",
-  "published_at": "2023-06-19T13:53:35Z"
- },
- {
-  "id": 1509191,
-  "title": "5 React Libraries to Level Up your Projects in 2023",
-  "description": "TL;DR   In this article we'll look at 5 libraries that can positively impact your React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YFooh7A0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72p5oekd6233eap8xyjb.jpg",
-  "slug": "5-react-libraries-to-level-up-your-projects-in-2023-3d5i",
-  "url": "https://dev.to/livecycle/5-react-libraries-to-level-up-your-projects-in-2023-3d5i",
-  "publish_date": "2023-06-19",
-  "published_at": "2023-06-19T08:26:07Z"
- },
- {
-  "id": 1509182,
-  "title": "Building a Vision Transformer from Scratch in PyTorch 🔥",
-  "description": "Introduction   In recent years, the field of computer vision has been revolutionized by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e_KwJ4b7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6d56iiikf7u674m7axvg.jpeg",
-  "slug": "building-a-vision-transformer-from-scratch-in-pytorch-1m1b",
-  "url": "https://dev.to/akshayballal/building-a-vision-transformer-from-scratch-in-pytorch-1m1b",
-  "publish_date": "2023-06-19",
-  "published_at": "2023-06-19T08:15:57Z"
- },
- {
-  "id": 1509115,
-  "title": "Good practices and Design Patterns for Vue Composables",
-  "description": "I recently had a great discussion with my team at Vue Storefront about patterns for writing Vue...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cDjW-iu9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/upn3a55d6w3zln17k1fq.png",
-  "slug": "good-practices-and-design-patterns-for-vue-composables-24lk",
-  "url": "https://dev.to/jacobandrewsky/good-practices-and-design-patterns-for-vue-composables-24lk",
-  "publish_date": "2023-06-19",
-  "published_at": "2023-06-19T07:11:53Z"
  }
 ]
