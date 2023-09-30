@@ -1,5 +1,55 @@
 [
  {
+  "id": 1615757,
+  "title": "Featured Mod of the Month: Pradumna Saraf",
+  "description": "In this series, we shine a spotlight 🔦 on the different DEV moderators — Trusted Members and Tag Mods...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8t97qoWg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vygzobnej3pw79pkvd91.jpeg",
+  "slug": "featured-mod-of-the-month-pradumna-saraf-e7j",
+  "url": "https://dev.to/devteam/featured-mod-of-the-month-pradumna-saraf-e7j",
+  "publish_date": "2023-09-29",
+  "published_at": "2023-09-29T16:17:09Z"
+ },
+ {
+  "id": 1611428,
+  "title": "Código Limpo - Intermédio",
+  "description": "Trarei um artigo resumindo os capítulos do nível intermediário do Código limpo. Focando no Capítulo...",
+  "cover_image": "",
+  "slug": "codigo-limpo-intermedio-44gp",
+  "url": "https://dev.to/loremimpsu/codigo-limpo-intermedio-44gp",
+  "publish_date": "2023-09-29",
+  "published_at": "2023-09-29T14:05:08Z"
+ },
+ {
+  "id": 1615284,
+  "title": "Rewrite styled-components in ReactJS with just 60 lines of JavaScript code",
+  "description": "\"styled-components\" is a library I really like for writing CSS in React. After a few days of research...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tvgLYSE8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2emt4n8cszaul7mxeens.png",
+  "slug": "rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb",
+  "url": "https://dev.to/ducga1998/rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb",
+  "publish_date": "2023-09-29",
+  "published_at": "2023-09-29T08:33:39Z"
+ },
+ {
+  "id": 1615255,
+  "title": "😯 gRPC vs REST - A Brief Comparison",
+  "description": "Author: Deborah Emeni           Introduction   In this modern age, building applications with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wwGzsDaA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7wwovkd56zhmuki7y200.png",
+  "slug": "grpc-vs-rest-a-brief-comparison-4p8b",
+  "url": "https://dev.to/refine/grpc-vs-rest-a-brief-comparison-4p8b",
+  "publish_date": "2023-09-29",
+  "published_at": "2023-09-29T08:15:43Z"
+ },
+ {
+  "id": 1615253,
+  "title": "DEV: Followers != Readers",
+  "description": "Some dev.to analytics. There's a curios lack of correlation between followers and readers at dev.to....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BFRqfKiJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqytydh39ha5o0hmw06e.jpg",
+  "slug": "dev-followers-readers-3da2",
+  "url": "https://dev.to/maximsaplin/dev-followers-readers-3da2",
+  "publish_date": "2023-09-29",
+  "published_at": "2023-09-29T08:14:26Z"
+ },
+ {
   "id": 1614936,
   "title": "A base de Redux Toolkit e React Redux",
   "description": "Está querendo aprender Redux num ambiente js ou react e ainda não sabe por onde começar?  Neste...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/igorboky/converting-from-a-developer-to-a-product-founder-in-10-years-55gh",
   "publish_date": "2023-06-21",
   "published_at": "2023-06-21T10:58:18Z"
- },
- {
-  "id": 1509547,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-5368",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5368",
-  "publish_date": "2023-06-20",
-  "published_at": "2023-06-20T14:56:21Z"
- },
- {
-  "id": 1510595,
-  "title": "The best light/dark mode theme toggle in JavaScript",
-  "description": "Learn how to build The Ultimate Theme Toggle™️ for your website using JavaScript, CSS custom...",
-  "cover_image": "",
-  "slug": "the-best-lightdark-mode-theme-toggle-in-javascript-368f",
-  "url": "https://dev.to/whitep4nth3r/the-best-lightdark-mode-theme-toggle-in-javascript-368f",
-  "publish_date": "2023-06-20",
-  "published_at": "2023-06-20T11:01:16Z"
- },
- {
-  "id": 1508815,
-  "title": "Learn serverless on AWS step-by-step - SQS",
-  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fVjBQh_---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/sqs/assets/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-sqs-26c8",
-  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sqs-26c8",
-  "publish_date": "2023-06-20",
-  "published_at": "2023-06-20T09:30:46Z"
- },
- {
-  "id": 1510402,
-  "title": "A-Z: MongoDB Cheat Sheet🌱",
-  "description": "Definitions 📖🌳    What is MongoDB?    MongoDB is a document database with the scalability...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--D4H7uHl6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yrikqesprn85cp3rjsw7.png",
-  "slug": "mongodb-cheat-sheet-1a6a",
-  "url": "https://dev.to/burakboduroglu/mongodb-cheat-sheet-1a6a",
-  "publish_date": "2023-06-20",
-  "published_at": "2023-06-20T08:31:32Z"
- },
- {
-  "id": 1510187,
-  "title": "Style Position Fixed in a better way",
-  "description": "The CSS property position: fixed has become widely popular due to its ability to provide developers...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QL6CudVa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sx55j5nzeizij3lnio58.png",
-  "slug": "style-position-fixed-in-a-better-way-169g",
-  "url": "https://dev.to/integridsolutions/style-position-fixed-in-a-better-way-169g",
-  "publish_date": "2023-06-20",
-  "published_at": "2023-06-20T04:28:43Z"
  }
 ]
