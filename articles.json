@@ -1,5 +1,55 @@
 [
  {
+  "id": 1616832,
+  "title": "Markdown",
+  "description": "Apesar de ser algo relativamente simples, o markdown ainda é um mistério para muitas pessoas, fazendo...",
+  "cover_image": "",
+  "slug": "markdown-lp5",
+  "url": "https://dev.to/dntfindmel_/markdown-lp5",
+  "publish_date": "2023-09-30",
+  "published_at": "2023-09-30T20:47:32Z"
+ },
+ {
+  "id": 1616495,
+  "title": "🔥Hacktoberfest 2023! let's gooo 🚀",
+  "description": "We're thrilled to announce that Firecamp is diving headfirst into the open-source frenzy of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ArML1LtE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hemlh9vwowzxhy12duct.png",
+  "slug": "firecamp-is-participating-in-hacktoberfest-2023-245h",
+  "url": "https://dev.to/firecampdev/firecamp-is-participating-in-hacktoberfest-2023-245h",
+  "publish_date": "2023-09-30",
+  "published_at": "2023-09-30T12:12:11Z"
+ },
+ {
+  "id": 1616492,
+  "title": "Data Science for Beginners: 2023 - 2024 Complete Roadmap",
+  "description": "Data Science is a field of study involving statistical tools and techniques to extract meaningful...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tGbVhdp2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whpinqv15nzo6uq8ty6k.JPG",
+  "slug": "data-science-for-beginners-2023-2024-complete-roadmap-23dn",
+  "url": "https://dev.to/k_ndrick/data-science-for-beginners-2023-2024-complete-roadmap-23dn",
+  "publish_date": "2023-09-30",
+  "published_at": "2023-09-30T12:03:19Z"
+ },
+ {
+  "id": 1613107,
+  "title": "Hacktoberfest 2023 registrations start! - The complete guide to win a T Shirt, Learn and Contribute.",
+  "description": "Just like the last 10 years, the tradition of hacktoberfest continues - an amazing celebration of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Wa7qG_YA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ocorg6k2bwl732y0ib37.png",
+  "slug": "hacktoberfest-2023-registrations-start-the-complete-guide-to-win-a-t-shirt-learn-and-contribute-32lg",
+  "url": "https://dev.to/collectivhq/hacktoberfest-2023-registrations-start-the-complete-guide-to-win-a-t-shirt-learn-and-contribute-32lg",
+  "publish_date": "2023-09-30",
+  "published_at": "2023-09-30T10:48:05Z"
+ },
+ {
+  "id": 1616224,
+  "title": "Do GitHub stars ⭐️ = Money 💰?",
+  "description": "Novu got 20k stars in one year, but what about customers?   Many open-source...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nEZRnj9_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wbq4qrpyt4uec1fcfifv.png",
+  "slug": "do-github-stars-money--348a",
+  "url": "https://dev.to/github20k/do-github-stars-money--348a",
+  "publish_date": "2023-09-30",
+  "published_at": "2023-09-30T06:52:55Z"
+ },
+ {
   "id": 1615757,
   "title": "Featured Mod of the Month: Pradumna Saraf",
   "description": "In this series, we shine a spotlight 🔦 on the different DEV moderators — Trusted Members and Tag Mods...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/evaluating-apache-apisix-vs-spring-cloud-gateway-2ca7",
   "publish_date": "2023-06-22",
   "published_at": "2023-06-22T09:02:00Z"
- },
- {
-  "id": 1510711,
-  "title": "Announcing the refine + DEV Hackathon!",
-  "description": "Join us for this opportunity to build an awesome application with refine while earning some great prizes. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IqWhPpGg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rydbxl5l0jv8z9pemfqk.jpg",
-  "slug": "announcing-the-refine-dev-hackathon-29fn",
-  "url": "https://dev.to/devteam/announcing-the-refine-dev-hackathon-29fn",
-  "publish_date": "2023-06-21",
-  "published_at": "2023-06-21T19:33:30Z"
- },
- {
-  "id": 1512213,
-  "title": "Open standards, trust, and Google",
-  "description": "We should build and use software that uses open standards, and be careful about the companies in which we place our trust.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PLxUqnRt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1617752357354-e2fb98083392%3Fixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D%26auto%3Dformat%26fit%3Dcrop%26w%3D1934%26q%3D80",
-  "slug": "open-standards-trust-and-google-4e22",
-  "url": "https://dev.to/cassidoo/open-standards-trust-and-google-4e22",
-  "publish_date": "2023-06-21",
-  "published_at": "2023-06-21T16:40:36Z"
- },
- {
-  "id": 1511941,
-  "title": "Open Source 101: A Beginner's Guide to Getting Started",
-  "description": " Learn the fundamentals of open source development, from choosing projects to making contributions, in this comprehensive beginner's guide. Support open source innovation with OpenSauced.pizza.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Pxeaevf6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ieh05eifaetb0e8myge8.png",
-  "slug": "open-source-101-a-beginners-guide-to-getting-started-37fb",
-  "url": "https://dev.to/opensauced/open-source-101-a-beginners-guide-to-getting-started-37fb",
-  "publish_date": "2023-06-21",
-  "published_at": "2023-06-21T12:38:20Z"
- },
- {
-  "id": 1504674,
-  "title": "Top 10 Websites Every Developer Needs to Know About",
-  "description": "In this article, I'll share some of the best websites that can help you in your day-to-day work....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--J5zShafr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t1172j3h0ni64lfvsr6m.png",
-  "slug": "top-10-websites-every-developer-needs-to-know-about-f5j",
-  "url": "https://dev.to/j471n/top-10-websites-every-developer-needs-to-know-about-f5j",
-  "publish_date": "2023-06-21",
-  "published_at": "2023-06-21T12:00:00Z"
- },
- {
-  "id": 1511793,
-  "title": "Converting from a Developer to a Product Founder in 10 years",
-  "description": "A little story of a workaholic entrepreneur switching from a developer to a product founder in 10...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M9g1cnfr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xs1zrg8xk6ueamdjs9uw.png",
-  "slug": "converting-from-a-developer-to-a-product-founder-in-10-years-55gh",
-  "url": "https://dev.to/igorboky/converting-from-a-developer-to-a-product-founder-in-10-years-55gh",
-  "publish_date": "2023-06-21",
-  "published_at": "2023-06-21T10:58:18Z"
  }
 ]
