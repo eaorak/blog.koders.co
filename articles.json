@@ -1,5 +1,55 @@
 [
  {
+  "id": 1617284,
+  "title": "The Art of Code Review and Why You Need It",
+  "description": "Code reviewing is an art. Although most companies conduct code reviews, only a few of them fully...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DtxUqJ0f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s4ejsomkws915lxv6dq8.png",
+  "slug": "the-art-of-code-review-and-why-you-need-it-4b9m",
+  "url": "https://dev.to/perssondennis/the-art-of-code-review-and-why-you-need-it-4b9m",
+  "publish_date": "2023-10-01",
+  "published_at": "2023-10-01T14:37:58Z"
+ },
+ {
+  "id": 1616718,
+  "title": "Accessible* ANIMATED Accordion: in pure CSS??? No way! 😱",
+  "description": "A few days ago I designed an accordion in 1 minute, 5 minutes and 10 minutes that was far more...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yz-KN8cE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iksnh9esg5kp277mjfvw.jpg",
+  "slug": "accessible-animated-accordion-in-pure-css-no-way-5980",
+  "url": "https://dev.to/grahamthedev/accessible-animated-accordion-in-pure-css-no-way-5980",
+  "publish_date": "2023-10-01",
+  "published_at": "2023-10-01T14:02:48Z"
+ },
+ {
+  "id": 1616708,
+  "title": "Entendendo Algoritmos - Introdução",
+  "description": "Este texto é direcionado a galera iniciante que vai acompanhar a leitura mas não possui conhecimento...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6hOejR4w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdwwvsh738kia0cul2pj.png",
+  "slug": "entendendo-algoritmos-introducao-53f0",
+  "url": "https://dev.to/loremimpsu/entendendo-algoritmos-introducao-53f0",
+  "publish_date": "2023-10-01",
+  "published_at": "2023-10-01T13:53:41Z"
+ },
+ {
+  "id": 1616337,
+  "title": "💌 Safe message sending script in Telegram with just 49 lines of code? Really?",
+  "description": "Mass messaging in messengers is always a challenging task that's hard to solve effectively. I won't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RiM0Dqfx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hsirmqzgcj71c08sqhir.png",
+  "slug": "safe-message-sending-script-in-telegram-with-just-49-lines-of-code-really-18jf",
+  "url": "https://dev.to/sevapp/safe-message-sending-script-in-telegram-with-just-49-lines-of-code-really-18jf",
+  "publish_date": "2023-10-01",
+  "published_at": "2023-10-01T12:05:37Z"
+ },
+ {
+  "id": 1615780,
+  "title": "💻🎃 Hacktoberfest 2023 is Here!",
+  "description": "The wait is over! Hacktoberfest 2023 has officially begun, and we couldn't be more excited....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RmY6Zrlb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpa62sv1woh39hd65bcs.jpg",
+  "slug": "hacktoberfest-2023-is-here-58bo",
+  "url": "https://dev.to/devteam/hacktoberfest-2023-is-here-58bo",
+  "publish_date": "2023-10-01",
+  "published_at": "2023-10-01T07:00:00Z"
+ },
+ {
   "id": 1616832,
   "title": "Markdown",
   "description": "Apesar de ser algo relativamente simples, o markdown ainda é um mistério para muitas pessoas, fazendo...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/managing-ai-powered-java-app-with-api-management-12d1",
   "publish_date": "2023-06-23",
   "published_at": "2023-06-23T07:06:58Z"
- },
- {
-  "id": 1513552,
-  "title": "Demystifying Data Pipelines: A Guide for Developers on AWS",
-  "description": "In the era of big data and analytics, organizations are increasingly relying on robust and efficient...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RGukhWUq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q2r8as4r289olbapt95g.png",
-  "slug": "demystifying-data-pipelines-a-guide-for-developers-on-aws-3ok7",
-  "url": "https://dev.to/aditmodi/demystifying-data-pipelines-a-guide-for-developers-on-aws-3ok7",
-  "publish_date": "2023-06-22",
-  "published_at": "2023-06-22T17:30:09Z"
- },
- {
-  "id": 1513162,
-  "title": "Things you might not know about Next Image",
-  "description": "If you've worked with Next.js, it's likely that you've come across Next Image component. This...",
-  "cover_image": "",
-  "slug": "things-you-might-not-know-about-next-image-5go8",
-  "url": "https://dev.to/alex_barashkov/things-you-might-not-know-about-next-image-5go8",
-  "publish_date": "2023-06-22",
-  "published_at": "2023-06-22T13:31:19Z"
- },
- {
-  "id": 1513236,
-  "title": "Implementing Flexible Authorization in RedwoodJS Projects",
-  "description": "RedwoodJS is an opinionated full-stack framework for building modern web applications. It makes some...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LZDIGP66--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6nyy159m8uavwz0xslw5.png",
-  "slug": "implementing-flexible-authorization-in-redwoodjs-projects-49j7",
-  "url": "https://dev.to/zenstack/implementing-flexible-authorization-in-redwoodjs-projects-49j7",
-  "publish_date": "2023-06-22",
-  "published_at": "2023-06-22T13:28:15Z"
- },
- {
-  "id": 1513095,
-  "title": "5 AI development tools you should know about",
-  "description": "TL;DR   OpenAI have made AI development accessible to the masses, but in many cases, to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IeoOQ_fe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bvfv9vbv81xw2susuxrh.jpg",
-  "slug": "5-ai-development-tools-you-should-know-about-59ld",
-  "url": "https://dev.to/livecycle/5-ai-development-tools-you-should-know-about-59ld",
-  "publish_date": "2023-06-22",
-  "published_at": "2023-06-22T11:51:18Z"
- },
- {
-  "id": 1506662,
-  "title": "Evaluating Apache APISIX vs. Spring Cloud Gateway",
-  "description": "Given the number of API Gateways available on the market, I'm regularly asked which is better. Better...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a2Xbp8cF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cwtyzdq38tm5a62p0i3p.jpg",
-  "slug": "evaluating-apache-apisix-vs-spring-cloud-gateway-2ca7",
-  "url": "https://dev.to/apisix/evaluating-apache-apisix-vs-spring-cloud-gateway-2ca7",
-  "publish_date": "2023-06-22",
-  "published_at": "2023-06-22T09:02:00Z"
  }
 ]
