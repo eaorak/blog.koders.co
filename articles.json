@@ -1,5 +1,55 @@
 [
  {
+  "id": 1627083,
+  "title": "Internet And Shadow Groups",
+  "description": "A story-telling experiment in which we explore the world of a fictional planet and the rise of its civilization.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3cJZTbbN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a1natkr5diwg04yetyj7.png",
+  "slug": "internet-and-shadow-groups-14bo",
+  "url": "https://dev.to/sarthology/internet-and-shadow-groups-14bo",
+  "publish_date": "2023-10-07",
+  "published_at": "2023-10-07T15:10:06Z"
+ },
+ {
+  "id": 1626993,
+  "title": "How to Make CRUD app in JavaScript",
+  "description": "In this tutorial, we'll be creating a CRUD (Create, Read, Update, Delete) note taking app using...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mr9YHHfe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zl4cubmn3wr2nnge57j8.png",
+  "slug": "how-to-make-crud-app-in-javascript-27je",
+  "url": "https://dev.to/codewithsadee/how-to-make-crud-app-in-javascript-27je",
+  "publish_date": "2023-10-07",
+  "published_at": "2023-10-07T12:49:45Z"
+ },
+ {
+  "id": 1626760,
+  "title": "Top Web Development Tips Every Developer Should Know in 2024",
+  "description": "Hey there, if you're diving into the web development and you're a seasoned developer or just starting...",
+  "cover_image": "",
+  "slug": "top-web-development-tips-every-developer-should-know-in-2024-2fi6",
+  "url": "https://dev.to/dhruvjoshi9/top-web-development-tips-every-developer-should-know-in-2024-2fi6",
+  "publish_date": "2023-10-07",
+  "published_at": "2023-10-07T06:39:32Z"
+ },
+ {
+  "id": 1335408,
+  "title": "My Journey to 12 AWS Certifications: Turning Dreams into Reality",
+  "description": "In the whirlwind of today's rapidly changing world, it's all too easy to get swept up in the daily...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGlUoR5y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ycfsv3pz6bsyiaye956e.png",
+  "slug": "my-journey-to-12-aws-certifications-turning-dreams-into-reality-1dpg",
+  "url": "https://dev.to/aditmodi/my-journey-to-12-aws-certifications-turning-dreams-into-reality-1dpg",
+  "publish_date": "2023-10-07",
+  "published_at": "2023-10-07T05:58:53Z"
+ },
+ {
+  "id": 1626630,
+  "title": "Microtask Queue + RxJS + Angular",
+  "description": "The What, When, and Why     When working with Angular, you can experience complex mechanisms...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nedBZTG2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k9o4id8c6ow3yli6779r.png",
+  "slug": "microtask-queue-rxjs-angular-38ah",
+  "url": "https://dev.to/this-is-angular/microtask-queue-rxjs-angular-38ah",
+  "publish_date": "2023-10-07",
+  "published_at": "2023-10-07T05:04:44Z"
+ },
+ {
   "id": 1626016,
   "title": "🙈 Beginner's Guide to React Query",
   "description": "Author: Marvel Ken           Introduction   Step into the world of web development, where...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/sticky-sessions-with-apache-apisix-3l03",
   "publish_date": "2023-06-29",
   "published_at": "2023-06-29T09:09:00Z"
- },
- {
-  "id": 1519588,
-  "title": "20 C# Interview Questions (for Experienced) 2023",
-  "description": "Hey C# Developer! Do you know where you are? Yes, on Dev.to but more specifically. That’s right!...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YNiV9X8Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cwdsocfnzthssuatp4u8.png",
-  "slug": "20-c-interview-questions-for-experienced-2023-1hl6",
-  "url": "https://dev.to/bytehide/20-c-interview-questions-for-experienced-2023-1hl6",
-  "publish_date": "2023-06-28",
-  "published_at": "2023-06-28T14:21:46Z"
- },
- {
-  "id": 1375405,
-  "title": "Handle optional input parameters in AWS Step Functions without Lambda",
-  "description": "TL;DR  If you want to apply data processing to an input object in your state machine without the well...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qijXLSlC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/123cmhi9afz1yp9csxfe.png",
-  "slug": "handle-optional-input-parameters-in-aws-step-functions-without-lambda-424m",
-  "url": "https://dev.to/kumo/handle-optional-input-parameters-in-aws-step-functions-without-lambda-424m",
-  "publish_date": "2023-06-28",
-  "published_at": "2023-06-28T14:15:57Z"
- },
- {
-  "id": 1519579,
-  "title": "Build Your Own Personal Twitter Agent 🧠🐦⛓ with LangChain",
-  "description": "TL;DR   LangChain, ChatGPT, and other emerging technology have made it possible to build...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zd4IPwuA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0p102dla1mf9xsow3gnz.png",
-  "slug": "build-your-own-personal-twitter-agent-with-langchain-32n3",
-  "url": "https://dev.to/wasp/build-your-own-personal-twitter-agent-with-langchain-32n3",
-  "publish_date": "2023-06-28",
-  "published_at": "2023-06-28T12:59:38Z"
- },
- {
-  "id": 1519323,
-  "title": "Simplifying preview environments for everyone",
-  "description": "Every open source project has a story.   There’s almost always an interesting motivation behind it, a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wMobb56V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bl4po39qrouvnp0rzp93.jpg",
-  "slug": "simplifying-preview-environments-for-everyone-5aij",
-  "url": "https://dev.to/livecycle/simplifying-preview-environments-for-everyone-5aij",
-  "publish_date": "2023-06-28",
-  "published_at": "2023-06-28T11:34:52Z"
- },
- {
-  "id": 1515623,
-  "title": "Deploy a NEXT.js app for FREE on AWS with SST",
-  "description": "TL;DR   What is SST ?   SST is an IaC framework built on the AWS CDK, it allows you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MEucdjRe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/sst/deploy-next/assets/cover.png",
-  "slug": "deploy-a-nextjs-app-for-free-on-aws-with-sst-3g28",
-  "url": "https://dev.to/kumo/deploy-a-nextjs-app-for-free-on-aws-with-sst-3g28",
-  "publish_date": "2023-06-28",
-  "published_at": "2023-06-28T09:02:01Z"
  }
 ]
