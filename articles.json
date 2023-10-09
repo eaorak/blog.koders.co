@@ -1,5 +1,55 @@
 [
  {
+  "id": 1627679,
+  "title": "How to Cut Your Data Analysis Costs With esProc SPL",
+  "description": "Imagine having a data analysis engine like esProc SPL that can really cut down on your application...",
+  "cover_image": "",
+  "slug": "how-to-cut-your-data-analysis-costs-with-esproc-spl-6fj",
+  "url": "https://dev.to/grayhat/how-to-cut-your-data-analysis-costs-with-esproc-spl-6fj",
+  "publish_date": "2023-10-08",
+  "published_at": "2023-10-08T14:54:52Z"
+ },
+ {
+  "id": 1627540,
+  "title": "Building a Tkinter GUI Application from Scratch with Python",
+  "description": "Tkinter is a powerful yet easy-to-use graphical user interface (GUI) toolkit that comes included with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZgeUxMn6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c6o6fr9a5lt0fm43qwcf.png",
+  "slug": "building-a-tkinter-gui-application-from-scratch-2lok",
+  "url": "https://dev.to/scofieldidehen/building-a-tkinter-gui-application-from-scratch-2lok",
+  "publish_date": "2023-10-08",
+  "published_at": "2023-10-08T08:30:24Z"
+ },
+ {
+  "id": 1627486,
+  "title": "Mastering ROUGE Matrix: Your Guide to Large Language Model Evaluation for Summarization with Examples",
+  "description": "Introduction   In this article, we will start discussing everything you might want to learn...",
+  "cover_image": "",
+  "slug": "mastering-rouge-matrix-your-guide-to-large-language-model-evaluation-for-summarization-with-examples-jjg",
+  "url": "https://dev.to/aws-builders/mastering-rouge-matrix-your-guide-to-large-language-model-evaluation-for-summarization-with-examples-jjg",
+  "publish_date": "2023-10-08",
+  "published_at": "2023-10-08T06:05:52Z"
+ },
+ {
+  "id": 1627296,
+  "title": "Effects of listening 🎧 to music while coding",
+  "description": "\"Do you listen to music 🎵 while coding?\"  I was asked this question recently by a friend of...",
+  "cover_image": "",
+  "slug": "effects-of-listening-to-music-while-coding-43ag",
+  "url": "https://dev.to/michthebrandofficial/effects-of-listening-to-music-while-coding-43ag",
+  "publish_date": "2023-10-08",
+  "published_at": "2023-10-08T06:01:00Z"
+ },
+ {
+  "id": 1627378,
+  "title": "Understanding Web Workers: What Are They and How Can They Enhance Your Web Apps",
+  "description": "JavaScript is the language of the web, offering developers a plethora of features to craft...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S2HrgzOF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ka22fj7ttb34m465r8b3.png",
+  "slug": "understanding-web-workers-what-are-they-and-how-can-they-enhance-your-web-apps-3i50",
+  "url": "https://dev.to/gervaisamoah/understanding-web-workers-what-are-they-and-how-can-they-enhance-your-web-apps-3i50",
+  "publish_date": "2023-10-08",
+  "published_at": "2023-10-08T00:56:58Z"
+ },
+ {
   "id": 1627083,
   "title": "Internet And Shadow Groups",
   "description": "A story-telling experiment in which we explore the world of a fictional planet and the rise of its civilization.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aws-builders/language-whisperer-aiml-transformer-tools-hackathon-i9a",
   "publish_date": "2023-06-30",
   "published_at": "2023-06-30T04:28:09Z"
- },
- {
-  "id": 1521208,
-  "title": "Using Metlo to Secure My Personal Finance App",
-  "description": "I’ve been developing a personal finance app focused on user budgeting and tracking spending habits in...",
-  "cover_image": "",
-  "slug": "using-metlo-to-secure-my-personal-finance-app-5d2g",
-  "url": "https://dev.to/sushilkattel/using-metlo-to-secure-my-personal-finance-app-5d2g",
-  "publish_date": "2023-06-29",
-  "published_at": "2023-06-29T18:43:16Z"
- },
- {
-  "id": 1521207,
-  "title": "What can you build with Wasp - the fastest way to develop React \u0026 Node.js apps 🐝 🚀",
-  "description": "Welcome to the 3rd day of our Launch Week #3 - Community Day! Our community is the most important...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PBotfuES--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxoqfpl8jywxzif039sa.png",
-  "slug": "what-can-you-build-with-wasp-the-fastest-way-to-develop-react-nodejs-apps-275b",
-  "url": "https://dev.to/wasp/what-can-you-build-with-wasp-the-fastest-way-to-develop-react-nodejs-apps-275b",
-  "publish_date": "2023-06-29",
-  "published_at": "2023-06-29T18:35:46Z"
- },
- {
-  "id": 1521131,
-  "title": "With GitHub apparently down right now...",
-  "description": "... I asked ChatGPT to write a poem about the situation     In the land of code where logic's the...",
-  "cover_image": "",
-  "slug": "with-github-apparently-down-right-now-on2",
-  "url": "https://dev.to/ben/with-github-apparently-down-right-now-on2",
-  "publish_date": "2023-06-29",
-  "published_at": "2023-06-29T17:50:19Z"
- },
- {
-  "id": 1520489,
-  "title": "Highlight Your Open Source Contributions",
-  "description": "Having a portfolio of work to lean on is critical in this job market. The challenge folks face is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ta1DIBkK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/styyxtn5f7abufe75rjv.png",
-  "slug": "highlight-your-open-source-contribution-4chd",
-  "url": "https://dev.to/opensauced/highlight-your-open-source-contribution-4chd",
-  "publish_date": "2023-06-29",
-  "published_at": "2023-06-29T15:07:58Z"
- },
- {
-  "id": 1518442,
-  "title": "Sticky sessions with Apache APISIX",
-  "description": "Sticky sessions, also known as session affinity, is a mechanism by which a routing component that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---CKfJe1l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qpz2ygkc56xb9ynrqzsx.jpg",
-  "slug": "sticky-sessions-with-apache-apisix-3l03",
-  "url": "https://dev.to/apisix/sticky-sessions-with-apache-apisix-3l03",
-  "publish_date": "2023-06-29",
-  "published_at": "2023-06-29T09:09:00Z"
  }
 ]
