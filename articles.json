@@ -1,5 +1,55 @@
 [
  {
+  "id": 1630345,
+  "title": "Drizzle or Prisma? I Built an App Twice to Find Out Which Is Better",
+  "description": "For TypeScript lovers, Prisma has been the perfect solution for building database-centric...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vs1EOtLB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbmwky173wto6z6m1xl.png",
+  "slug": "drizzle-or-prisma-i-built-an-app-twice-to-find-out-which-is-better-1f82",
+  "url": "https://dev.to/zenstack/drizzle-or-prisma-i-built-an-app-twice-to-find-out-which-is-better-1f82",
+  "publish_date": "2023-10-10",
+  "published_at": "2023-10-10T17:40:59Z"
+ },
+ {
+  "id": 1602968,
+  "title": "Feature flags implementation in Nest.js 😻",
+  "description": "😵 The issue   As a web developer, you know that it's important to be able to deploy new...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MsBa6RK7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5m04v48rceryjr2zd0ce.png",
+  "slug": "feature-flags-implementation-in-nestjs-3o6o",
+  "url": "https://dev.to/ed_lcrt/feature-flags-implementation-in-nestjs-3o6o",
+  "publish_date": "2023-10-10",
+  "published_at": "2023-10-10T13:13:26Z"
+ },
+ {
+  "id": 1629904,
+  "title": "Implement Google Auth with AWS Lambda and Supabase in 30 minutes",
+  "description": "Google auth is hard to implement…   In today's world, authentication with Google and other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dAlaMhpa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jcgy27uj1ydy543rvy4s.png",
+  "slug": "implement-google-auth-with-aws-lambda-and-supabase-in-30-minutes-p15",
+  "url": "https://dev.to/slsbytheodo/implement-google-auth-with-aws-lambda-and-supabase-in-30-minutes-p15",
+  "publish_date": "2023-10-10",
+  "published_at": "2023-10-10T12:20:13Z"
+ },
+ {
+  "id": 1628866,
+  "title": "Creating a hackathon winning AI based app in a weekend using Supabase, OpenAI, \u0026 Next.js",
+  "description": "Back in April 2023, Supabase announced it's AI themed hackathon for Launch Week 7 - there were a lot...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lI2mGsun--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c3s7is2jelnggjzhemp9.png",
+  "slug": "creating-a-hackathon-winning-ai-based-app-in-a-weekend-using-supabase-openai-nextjs-2pe7",
+  "url": "https://dev.to/asheeshh/creating-a-hackathon-winning-ai-based-app-in-a-weekend-using-supabase-openai-nextjs-2pe7",
+  "publish_date": "2023-10-10",
+  "published_at": "2023-10-10T07:17:29Z"
+ },
+ {
+  "id": 1629230,
+  "title": "Criando Exceptions para impressionar no Teste Técnico",
+  "description": "Exceptions sempre vai ser um assunto constante quando o tópico for Orientação à Objetos e hoje vamos...",
+  "cover_image": "",
+  "slug": "criando-exceptions-para-impressionar-no-teste-tecnico-2nie",
+  "url": "https://dev.to/he4rt/criando-exceptions-para-impressionar-no-teste-tecnico-2nie",
+  "publish_date": "2023-10-10",
+  "published_at": "2023-10-10T01:03:22Z"
+ },
+ {
   "id": 1624535,
   "title": "How we deprecated two successful projects and joined forces to create an even more successful one",
   "description": "We had two large clients requesting to integrate our ML pipelines with their backend using Apache...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/christinec_dev/lets-learn-godot-4-by-making-an-rpg-part-14-enemy-shooting-dealing-damage-2540",
   "publish_date": "2023-07-02",
   "published_at": "2023-07-02T03:11:00Z"
- },
- {
-  "id": 1523135,
-  "title": "Experiment Tracking and Hyperparameter Tuning with TensorBoard in PyTorch 🔥",
-  "description": "Introduction   Tracking Experiments and Tuning Hyperparameters with TensorBoard in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MIfj7-ku--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/42yxbn8s5daknmfwmgiu.jpeg",
-  "slug": "experiment-tracking-and-hyperparameter-tuning-with-tensorboard-in-pytorch-402j",
-  "url": "https://dev.to/akshayballal/experiment-tracking-and-hyperparameter-tuning-with-tensorboard-in-pytorch-402j",
-  "publish_date": "2023-07-01",
-  "published_at": "2023-07-01T17:13:39Z"
- },
- {
-  "id": 1522922,
-  "title": "Angular is getting New Template Syntax",
-  "description": "New Template Syntax, Built-In Control Flow, a farewell to structural directives? Not a lot has been...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jHfZAAEx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hwbqo0uas7ql6n1s1mip.jpg",
-  "slug": "angular-is-getting-new-template-syntax-4naf",
-  "url": "https://dev.to/this-is-angular/angular-is-getting-new-template-syntax-4naf",
-  "publish_date": "2023-07-01",
-  "published_at": "2023-07-01T10:44:51Z"
- },
- {
-  "id": 1522805,
-  "title": "ChatGPT.js Powerful Client side JavaScript Library For ChatGPT",
-  "description": "chatgpt.js is a powerful JavaScript library that allows for super easy interaction w/ the ChatGPT...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0D4lon6p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/elaggmocxfnlaz0j1c7v.png",
-  "slug": "chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik",
-  "url": "https://dev.to/farhadi/chatgptjs-powerful-client-side-javascript-library-for-chatgpt-5aik",
-  "publish_date": "2023-07-01",
-  "published_at": "2023-07-01T07:35:42Z"
- },
- {
-  "id": 1520749,
-  "title": "Top 10 Android Projects For Beginners To Do and Boost Your Resume",
-  "description": "Are you an aspiring Android developer looking to enhance your skills and make your resume stand out?...",
-  "cover_image": "",
-  "slug": "top-10-android-projects-for-beginners-to-do-and-boost-your-resume-2me3",
-  "url": "https://dev.to/dhruvjoshi9/top-10-android-projects-for-beginners-to-do-and-boost-your-resume-2me3",
-  "publish_date": "2023-07-01",
-  "published_at": "2023-07-01T04:51:36Z"
- },
- {
-  "id": 1522683,
-  "title": "Let's Talk About Node Packages",
-  "description": "I made a video I want to share with you all, but I know you aren't in DEV to watch videos, so under...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JTNkGLlW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1ij90bqr9vu02uybb3pf.jpg",
-  "slug": "lets-talk-about-node-packages-21bh",
-  "url": "https://dev.to/lukeshiru/lets-talk-about-node-packages-21bh",
-  "publish_date": "2023-07-01",
-  "published_at": "2023-07-01T03:45:59Z"
  }
 ]
