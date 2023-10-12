@@ -1,5 +1,55 @@
 [
  {
+  "id": 1630122,
+  "title": "Deep Dive into API Testing - Boost your experience with Postman - Part I",
+  "description": "Did you ever used Postman and though: \"God, this is boring\" when need to validate any request, or,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bxSxJ3kY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/db3jyk4awzlozkcf8dps.png",
+  "slug": "deep-dive-into-api-testing-boost-your-experience-with-postman-part-i-3jgk",
+  "url": "https://dev.to/m4rri4nne/deep-dive-into-api-testing-boost-your-experience-with-postman-part-i-3jgk",
+  "publish_date": "2023-10-11",
+  "published_at": "2023-10-11T19:34:06Z"
+ },
+ {
+  "id": 1627788,
+  "title": "Your full guide to contributing to SWIRL 🌌",
+  "description": "Hello Devs,  The team at Swirl has created this amazing guide which contains all the relevant...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RfvESnF0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s7k3xxbu9yhq3fevza8z.png",
+  "slug": "your-full-guide-to-contributing-to-swirl-256f",
+  "url": "https://dev.to/swirl/your-full-guide-to-contributing-to-swirl-256f",
+  "publish_date": "2023-10-11",
+  "published_at": "2023-10-11T13:30:00Z"
+ },
+ {
+  "id": 1630857,
+  "title": "🤯 Get visibility on X (Twitter): Schedule your posts with NextJS 🚀🚀",
+  "description": "TL;DR   In this tutorial, you will learn how to create an X (Twitter) post scheduler...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H1anA_wV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/680cykzrps5kotw8k72s.gif",
+  "slug": "get-visibility-on-x-twitter-schedule-your-posts-with-nextjs-225g",
+  "url": "https://dev.to/triggerdotdev/get-visibility-on-x-twitter-schedule-your-posts-with-nextjs-225g",
+  "publish_date": "2023-10-11",
+  "published_at": "2023-10-11T12:55:25Z"
+ },
+ {
+  "id": 1631352,
+  "title": "Why Naming is #1 Skill for Writing Clean Code 🧼🧑‍💻",
+  "description": "In stories, you will often find the motif of a powerful demon that can be controlled only by knowing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K47gs8hY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3hk5zjp8r70dagl1j63u.gif",
+  "slug": "why-naming-is-1-skill-for-writing-clean-code-4a5p",
+  "url": "https://dev.to/wasp/why-naming-is-1-skill-for-writing-clean-code-4a5p",
+  "publish_date": "2023-10-11",
+  "published_at": "2023-10-11T12:46:36Z"
+ },
+ {
+  "id": 1629922,
+  "title": "Deploy a Lambda with a static IP for FREE 💸",
+  "description": "A step-by-step guide and code snippets to assign a static IP to an AWS Lambda for free using the AWS CDK by extracting the Elastic Network Interface ID",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---bXO14HS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/guillaumeduboc/articles/master/blog-posts/free-static-ip/assets/cover.png",
+  "slug": "deploy-a-lambda-with-a-static-ip-for-free-4e0l",
+  "url": "https://dev.to/slsbytheodo/deploy-a-lambda-with-a-static-ip-for-free-4e0l",
+  "publish_date": "2023-10-11",
+  "published_at": "2023-10-11T08:52:55Z"
+ },
+ {
   "id": 1630345,
   "title": "Drizzle or Prisma? I Built an App Twice to Find Out Which Is Better",
   "description": "For TypeScript lovers, Prisma has been the perfect solution for building database-centric...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/polterguy/have-chatgpt-browse-the-web-2gl7",
   "publish_date": "2023-07-03",
   "published_at": "2023-07-03T11:28:07Z"
- },
- {
-  "id": 1523835,
-  "title": "Dhiwise and Locofy: The Best AI Design To Code Converters",
-  "description": "Building applications and web-based programs got a big boost as Ai converter plugins such as Locofy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XSdIqet2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7p2v5dofocqk6h15ax6.jpg",
-  "slug": "dhiwise-and-locofy-the-best-ai-design-to-code-converters-4i46",
-  "url": "https://dev.to/scofieldidehen/dhiwise-and-locofy-the-best-ai-design-to-code-converters-4i46",
-  "publish_date": "2023-07-02",
-  "published_at": "2023-07-02T14:18:57Z"
- },
- {
-  "id": 1523746,
-  "title": "Restaurant Mobile App using flutter",
-  "description": "UI credits :...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S1DGs08F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/voa2hjfz4altxz4em0p7.png",
-  "slug": "restaurant-mobile-app-ui-design-5gg7",
-  "url": "https://dev.to/realnamehidden1_61/restaurant-mobile-app-ui-design-5gg7",
-  "publish_date": "2023-07-02",
-  "published_at": "2023-07-02T12:07:05Z"
- },
- {
-  "id": 1523737,
-  "title": "Top Cloud Base Tricks Every DevOps Must Know",
-  "description": "Cloud computing has become essential in creating and implementing software in today's quickly...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7MuFmcMe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b41n6kfxmjk77d6e0fu5.jpg",
-  "slug": "top-cloud-base-tricks-every-devops-must-know-1b01",
-  "url": "https://dev.to/scofieldidehen/top-cloud-base-tricks-every-devops-must-know-1b01",
-  "publish_date": "2023-07-02",
-  "published_at": "2023-07-02T11:31:51Z"
- },
- {
-  "id": 1523684,
-  "title": "Top 5 Shopify SEO Apps (2023)",
-  "description": "You’ve painstakingly curated an exceptional product selection, crafted engaging content for your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zwxqinrs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/44zw0g30rajqaxclmfjs.png",
-  "slug": "top-5-shopify-seo-apps-2023-3dn7",
-  "url": "https://dev.to/gloriamaldonado/top-5-shopify-seo-apps-2023-3dn7",
-  "publish_date": "2023-07-02",
-  "published_at": "2023-07-02T10:21:10Z"
- },
- {
-  "id": 1512066,
-  "title": "Let’s Learn Godot 4 by Making an RPG — Part 14: Enemy Shooting \u0026 Dealing Damage🤠",
-  "description": "It won’t be fair if the player is the only entity in our game that can deal damage. That would make...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VzR4Ng0s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3s33k9ung5cjcl0lpsq7.png",
-  "slug": "lets-learn-godot-4-by-making-an-rpg-part-14-enemy-shooting-dealing-damage-2540",
-  "url": "https://dev.to/christinec_dev/lets-learn-godot-4-by-making-an-rpg-part-14-enemy-shooting-dealing-damage-2540",
-  "publish_date": "2023-07-02",
-  "published_at": "2023-07-02T03:11:00Z"
  }
 ]
