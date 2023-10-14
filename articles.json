@@ -1,5 +1,55 @@
 [
  {
+  "id": 1633898,
+  "title": "⚡⚡ 7 Open Source Repositories That Will Make You 90% Smarter 😎",
+  "description": "In the bustling world of tech, it's easy to get caught up in the hype around the biggest names....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZxkJa2P8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jm1jt0lla95yuf3yi12c.gif",
+  "slug": "7-repositories-that-will-make-you-90-smarter-2jb3",
+  "url": "https://dev.to/nathan_tarbert/7-repositories-that-will-make-you-90-smarter-2jb3",
+  "publish_date": "2023-10-13",
+  "published_at": "2023-10-13T18:16:18Z"
+ },
+ {
+  "id": 1633237,
+  "title": "Thinking Locally with Signals",
+  "description": "As the creator of SolidJS, I was very influenced by React when designing the library. Despite what...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rkNlCZsl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d8r3g07up6jmjm3jdv3h.jpg",
+  "slug": "thinking-locally-with-signals-3b7h",
+  "url": "https://dev.to/this-is-learning/thinking-locally-with-signals-3b7h",
+  "publish_date": "2023-10-13",
+  "published_at": "2023-10-13T17:16:23Z"
+ },
+ {
+  "id": 1633679,
+  "title": "Community Contributor Spotlight: @ktmouk",
+  "description": "DEV is built on Forem, our open-source community platform, that’s available for anyone to use to help...",
+  "cover_image": "",
+  "slug": "community-contributor-spotlight-ktmouk-2e9n",
+  "url": "https://dev.to/devteam/community-contributor-spotlight-ktmouk-2e9n",
+  "publish_date": "2023-10-13",
+  "published_at": "2023-10-13T15:12:20Z"
+ },
+ {
+  "id": 1632901,
+  "title": "🧠 An AI / neural network...in vanilla JS! 😱 With no libraries! 🤯",
+  "description": "Have you ever tried to actually build a neural network? No, neither have I...until today!  In this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nhpKsB_---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v3tu54ik0i5yr1nqe72b.jpg",
+  "slug": "a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92",
+  "url": "https://dev.to/grahamthedev/a-noob-learns-ai-my-first-neural-networkin-vanilla-jswith-no-libraries-1f92",
+  "publish_date": "2023-10-13",
+  "published_at": "2023-10-13T08:33:10Z"
+ },
+ {
+  "id": 1633334,
+  "title": "JavaScript Shorthand Techniques",
+  "description": "In today's fast-paced world of web development, efficiency and readability are essential. Have you...",
+  "cover_image": "",
+  "slug": "javascript-shorthand-techniques-23lk",
+  "url": "https://dev.to/shriharimurali/javascript-shorthand-techniques-23lk",
+  "publish_date": "2023-10-13",
+  "published_at": "2023-10-13T04:41:37Z"
+ },
+ {
   "id": 1632826,
   "title": "🎃 The Hacktoberfest challenge giving physical merch prizes 🧢",
   "description": "Hey friends 👋  There is a new Pull Request competition in town and there is some neat merch behind!...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/madsstoumann/re-creating-a-japanese-fireworks-catalog-from-1883-in-css-83j",
   "publish_date": "2023-07-05",
   "published_at": "2023-07-05T07:08:21Z"
- },
- {
-  "id": 1513500,
-  "title": "🦄 Building a pricing page with NextJS 🤯 🤯",
-  "description": "TL;DR   In this article, we will build a page with multiple pricing tiers. Visitors can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bkzKFcIy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/edgkw0iwpblkl5pq3329.png",
-  "slug": "building-a-pricing-page-with-nextjs-1b1f",
-  "url": "https://dev.to/github20k/building-a-pricing-page-with-nextjs-1b1f",
-  "publish_date": "2023-07-04",
-  "published_at": "2023-07-04T11:34:40Z"
- },
- {
-  "id": 1525791,
-  "title": "You can NOT and should NOT stop procrastinating",
-  "description": "Procrastination has such an universally bad reputation that one has to wonder why it exists in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wbotNUhD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4bunxl2hfm2cuyxkf91a.jpg",
-  "slug": "you-can-not-and-should-not-stop-procrasting-2ooh",
-  "url": "https://dev.to/jmfayard/you-can-not-and-should-not-stop-procrasting-2ooh",
-  "publish_date": "2023-07-04",
-  "published_at": "2023-07-04T11:30:00Z"
- },
- {
-  "id": 1515615,
-  "title": "Learn serverless on AWS step-by-step - SQL with Aurora",
-  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2VGNqSjh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/aurora/assets/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1",
-  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sql-with-aurora-5hn1",
-  "publish_date": "2023-07-04",
-  "published_at": "2023-07-04T09:01:31Z"
- },
- {
-  "id": 1525525,
-  "title": "Streamlining Form Validation in Your Javascript Stack",
-  "description": "Modern web applications often intensively deal with accepting and storing user-generated data. The...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dyaad2hg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/245bl6ba28qkga0dyxtc.png",
-  "slug": "streamlining-form-validation-in-your-javascript-stack-15ep",
-  "url": "https://dev.to/zenstack/streamlining-form-validation-in-your-javascript-stack-15ep",
-  "publish_date": "2023-07-04",
-  "published_at": "2023-07-04T06:15:46Z"
- },
- {
-  "id": 1525524,
-  "title": "Git Fundamentals for Developers",
-  "description": "In the fast-paced world of software development, effective version control is essential for...",
-  "cover_image": "",
-  "slug": "git-fundamentals-for-developers-2m7f",
-  "url": "https://dev.to/scofieldidehen/git-fundamentals-for-developers-2m7f",
-  "publish_date": "2023-07-04",
-  "published_at": "2023-07-04T06:02:44Z"
  }
 ]
