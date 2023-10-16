@@ -1,5 +1,55 @@
 [
  {
+  "id": 1635461,
+  "title": "Chapter 3: Three Worlds",
+  "description": "A story-telling experiment in which we explore the world of a fictional planet and the rise of its civilization.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zmddciN4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p53b6og7h9vr2l6i7n4p.png",
+  "slug": "chapter-3-three-worlds-1kad",
+  "url": "https://dev.to/sarthology/chapter-3-three-worlds-1kad",
+  "publish_date": "2023-10-15",
+  "published_at": "2023-10-15T18:23:10Z"
+ },
+ {
+  "id": 1635329,
+  "title": "Build a GraphQL API and deploy it in minutes with Encore 🚀",
+  "description": "TL;DR   This guide shows how to build a GraphQL API with Encore. It implements a backend for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RrqP5haQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rsq9f8hq6i7x5oakipy2.png",
+  "slug": "build-a-graphql-api-and-deploy-it-in-minutes-with-encore-41ih",
+  "url": "https://dev.to/encore/build-a-graphql-api-and-deploy-it-in-minutes-with-encore-41ih",
+  "publish_date": "2023-10-15",
+  "published_at": "2023-10-15T13:10:22Z"
+ },
+ {
+  "id": 1634888,
+  "title": "JavaScript First, Then TypeScript",
+  "description": "A recent trend has shaken up the JavaScript-TypeScript community: the anti-build-step movement. In this article, however, I will not argue whether TypeScript is still relevant today. Instead, I reflect on my own journey of stepping away from TypeScript—but for a completely different reason: consumer semantics!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YJY32A45--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4puzsf0q9v6qw4b4lwir.png",
+  "slug": "javascript-first-then-typescript-10bg",
+  "url": "https://dev.to/somedood/javascript-first-then-typescript-10bg",
+  "publish_date": "2023-10-15",
+  "published_at": "2023-10-15T12:38:52Z"
+ },
+ {
+  "id": 1635310,
+  "title": "From Lab to Live: Implementing Open-Source AI Models for Real-Time Unsupervised Anomaly Detection in Images",
+  "description": "The journey of taking an open-source artificial intelligence (AI) model from a laboratory setting to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zQp0paJn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d9xks1imvt9tttp8ykqa.png",
+  "slug": "from-lab-to-live-implementing-open-source-ai-models-for-real-time-unsupervised-anomaly-detection-in-images-2h18",
+  "url": "https://dev.to/reductstore/from-lab-to-live-implementing-open-source-ai-models-for-real-time-unsupervised-anomaly-detection-in-images-2h18",
+  "publish_date": "2023-10-15",
+  "published_at": "2023-10-15T12:07:28Z"
+ },
+ {
+  "id": 1631474,
+  "title": "Running Swirl Search🌌in an instant on Gitpod🌐💻and GitHub Codespaces🌩️🚀",
+  "description": "Hello folks,  Let me quickly introduce you guys about Swirl before we start.           What is...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bJzlYs-c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1fvxtgp2ce4q0ldx0hsd.png",
+  "slug": "running-swirl-searchin-an-instant-on-gitpodand-github-codespaces-l86",
+  "url": "https://dev.to/svamshi/running-swirl-searchin-an-instant-on-gitpodand-github-codespaces-l86",
+  "publish_date": "2023-10-15",
+  "published_at": "2023-10-15T06:51:40Z"
+ },
+ {
   "id": 1618281,
   "title": "Full Stack Application with Bun, Appwrite And NextJS",
   "description": "You might have heard of Bun and Appwrite recently.   Bun is a new, faster alternative to NodeJS and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073",
   "publish_date": "2023-07-07",
   "published_at": "2023-07-07T03:20:11Z"
- },
- {
-  "id": 1524831,
-  "title": "How to Rename API Gateway Path Parameters on AWS",
-  "description": "Renaming a path parameter in AWS API Gateway can be a complex task, whether you're working with a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OE4y0dwY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1iquuoaebmldm28nc5bh.png",
-  "slug": "how-to-rename-api-gateway-path-parameters-on-aws-20fa",
-  "url": "https://dev.to/kumo/how-to-rename-api-gateway-path-parameters-on-aws-20fa",
-  "publish_date": "2023-07-06",
-  "published_at": "2023-07-06T12:54:49Z"
- },
- {
-  "id": 1528080,
-  "title": "Renaming Git Commit Messages: A Quick and Easy Guide",
-  "description": "In Git, it's common to realize that the last commit message needs modification. Whether it's a typo...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BMQK5Br8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/grzwqes0tgsuyu6l5tqm.png",
-  "slug": "renaming-git-commit-messages-a-quick-and-easy-guide-1an8",
-  "url": "https://dev.to/pradumnasaraf/renaming-git-commit-messages-a-quick-and-easy-guide-1an8",
-  "publish_date": "2023-07-06",
-  "published_at": "2023-07-06T11:55:43Z"
- },
- {
-  "id": 1520594,
-  "title": "Sticky sessions with Apache APISIX - the demo",
-  "description": "Last week, we described the concept behind sticky sessions: you forward a request to the same...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--U4J8X8xs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j4uay8mwighnxvmc6j57.jpg",
-  "slug": "sticky-sessions-with-apache-apisix-the-demo-2j8g",
-  "url": "https://dev.to/apisix/sticky-sessions-with-apache-apisix-the-demo-2j8g",
-  "publish_date": "2023-07-06",
-  "published_at": "2023-07-06T09:02:00Z"
- },
- {
-  "id": 1527706,
-  "title": "Daxus - A New Server State Management Library for React",
-  "description": "Previously, I named the package React Server Model, but I wasn't quite satisfied with the name. The...",
-  "cover_image": "",
-  "slug": "daxus-is-published-3acd",
-  "url": "https://dev.to/jason89521/daxus-is-published-3acd",
-  "publish_date": "2023-07-06",
-  "published_at": "2023-07-06T03:38:21Z"
- },
- {
-  "id": 1512082,
-  "title": "Let’s Learn Godot 4 by Making an RPG — Part 18: Scene Transitions \u0026 Day-Night Cycle🤠",
-  "description": "After a long day of shooting bad guys and completing quests, our player deserves to go home and take...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LppEJ1T2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/59uiy4ch2lzet56jetqc.png",
-  "slug": "lets-learn-godot-4-by-making-an-rpg-part-18-scene-transitions-day-night-cycle-4mnm",
-  "url": "https://dev.to/christinec_dev/lets-learn-godot-4-by-making-an-rpg-part-18-scene-transitions-day-night-cycle-4mnm",
-  "publish_date": "2023-07-06",
-  "published_at": "2023-07-06T03:13:00Z"
  }
 ]
