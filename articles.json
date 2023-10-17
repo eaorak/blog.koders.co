@@ -1,5 +1,55 @@
 [
  {
+  "id": 1635052,
+  "title": "Boost your experience with Postman - Part II",
+  "description": "Keep going in our studies using Postman, in this article, we will do an pratical example, how we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nZ8T03NX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ujcyqr8p9k494m53k32i.png",
+  "slug": "boost-your-experience-with-postman-part-ii-5cde",
+  "url": "https://dev.to/m4rri4nne/boost-your-experience-with-postman-part-ii-5cde",
+  "publish_date": "2023-10-16",
+  "published_at": "2023-10-16T15:02:16Z"
+ },
+ {
+  "id": 1635526,
+  "title": "Contribute to Swirl this Hacktoberfest. Win Swags up to $100",
+  "description": "Hacktoberfest is halfway over, but you can still contribute to Swirl and win some swags.   We've seen...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nNpvjZpt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgbbk3hmctfk55mvsacz.png",
+  "slug": "contribute-to-swirl-this-hacktoberfest-win-swags-up-to-100-40ii",
+  "url": "https://dev.to/swirl/contribute-to-swirl-this-hacktoberfest-win-swags-up-to-100-40ii",
+  "publish_date": "2023-10-16",
+  "published_at": "2023-10-16T13:33:37Z"
+ },
+ {
+  "id": 1636236,
+  "title": "Announcing Wasp Launch Week #4: Waspolution + win swag! 👕🐝",
+  "description": "The beginning of October was both the craziest and busiest time we've ever had at Wasp - we ended up...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--N_iWW7bV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/grceyqn3w3vkaukvo48u.png",
+  "slug": "announcing-wasp-launch-week-4-waspolution-win-swag-4i85",
+  "url": "https://dev.to/wasp/announcing-wasp-launch-week-4-waspolution-win-swag-4i85",
+  "publish_date": "2023-10-16",
+  "published_at": "2023-10-16T13:13:53Z"
+ },
+ {
+  "id": 1635319,
+  "title": "How to monitor your requests between multiple applications... 🤔",
+  "description": "TL;DR   Imagine that you are sending an HTTP request from one app; this one sends it to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W5N_tmOp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o792gk0o6b8250gtrg7l.gif",
+  "slug": "how-to-monitor-your-requests-between-multiple-applications-4fi8",
+  "url": "https://dev.to/odigos/how-to-monitor-your-requests-between-multiple-applications-4fi8",
+  "publish_date": "2023-10-16",
+  "published_at": "2023-10-16T11:20:53Z"
+ },
+ {
+  "id": 1635196,
+  "title": "✨ 8 components to become a React master 🧙‍♂️ 🪄",
+  "description": "TL;DR   I have gathered React components you can use to build the ultimate website.  Each...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hliOraJZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2v0u8yk251o503mrwxw4.gif",
+  "slug": "8-components-to-become-a-react-master-2ee4",
+  "url": "https://dev.to/github20k/8-components-to-become-a-react-master-2ee4",
+  "publish_date": "2023-10-16",
+  "published_at": "2023-10-16T05:47:29Z"
+ },
+ {
   "id": 1635461,
   "title": "Chapter 3: Three Worlds",
   "description": "A story-telling experiment in which we explore the world of a fictional planet and the rise of its civilization.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/femi_dev/how-to-prevent-unnecessary-react-component-re-rendering-3c08",
   "publish_date": "2023-07-08",
   "published_at": "2023-07-08T05:48:48Z"
- },
- {
-  "id": 1529349,
-  "title": "Why OpenAI removed Web Browsing from ChatGPT",
-  "description": "The same day we connected our ChatGPT chatbots to the internet, OpenAI disconnected ChatGPT from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fZ9vYsok--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j7fzjmbhuegf8jfrtiz8.png",
-  "slug": "why-openai-removed-web-browsing-from-chatgpt-3cil",
-  "url": "https://dev.to/polterguy/why-openai-removed-web-browsing-from-chatgpt-3cil",
-  "publish_date": "2023-07-07",
-  "published_at": "2023-07-07T14:21:56Z"
- },
- {
-  "id": 1528282,
-  "title": "Is Lighthouse a misleading performance tool?",
-  "description": "Google calls Lighthouse \"an open-source, automated tool for improving the quality of web pages\". It...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RnPp40nj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.roboleary.net/assets/img/blog/2023-07-06-lighthouse-misleading/cover.webp",
-  "slug": "is-lighthouse-a-misleading-performance-tool-4b14",
-  "url": "https://dev.to/robole/is-lighthouse-a-misleading-performance-tool-4b14",
-  "publish_date": "2023-07-07",
-  "published_at": "2023-07-07T10:00:00Z"
- },
- {
-  "id": 1517755,
-  "title": "What was your win this week?",
-  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-4cj7",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-4cj7",
-  "publish_date": "2023-07-07",
-  "published_at": "2023-07-07T09:30:00Z"
- },
- {
-  "id": 1528825,
-  "title": "Integrating Jest Testing into an Existing Vue 3 Project with ViteJs",
-  "description": "In my recent experience, I faced the challenge of integrating the Jest testing framework into an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HsQMAsNu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk8vycfryt31mh9tkzoe.png",
-  "slug": "integrating-jest-testing-into-an-existing-vue-3-project-with-vitejs-3m13",
-  "url": "https://dev.to/integridsolutions/integrating-jest-testing-into-an-existing-vue-3-project-with-vitejs-3m13",
-  "publish_date": "2023-07-07",
-  "published_at": "2023-07-07T04:54:50Z"
- },
- {
-  "id": 1528766,
-  "title": "Understanding DOM Manipulation with JavaScript",
-  "description": "Document Object Model or DOM is a programming interface that allows JavaScript to manipulate elements...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xzdwmKT3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rk6mlcp7fwmpi5zu7gtk.jpg",
-  "slug": "understanding-dom-manipulation-with-javascript-5073",
-  "url": "https://dev.to/scofieldidehen/understanding-dom-manipulation-with-javascript-5073",
-  "publish_date": "2023-07-07",
-  "published_at": "2023-07-07T03:20:11Z"
  }
 ]
