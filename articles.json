@@ -1,5 +1,55 @@
 [
  {
+  "id": 1636209,
+  "title": "Erros comuns de iniciantes em ReactJS",
+  "description": "Ao longo de nosso tempo de estudo, percebemos que o React possui uma série de detalhes que nos pegam...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a7Y1k2Fb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ojcmwwl4akscd30nusmn.png",
+  "slug": "erros-comuns-de-iniciantes-em-reactjs-1fla",
+  "url": "https://dev.to/m1guelsb/erros-comuns-de-iniciantes-em-reactjs-1fla",
+  "publish_date": "2023-10-18",
+  "published_at": "2023-10-18T20:03:18Z"
+ },
+ {
+  "id": 1638876,
+  "title": "WYSIWYG for MDX?! Introducing Vrite's Hybrid Editor",
+  "description": "You might be familiar with so-called What You See Is What You Get (WYSIWYG) or Rich Text editors....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IujQAeQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://assets.vrite.io/6409e82d7dfc74cef7a72e0d/aWm7nN-QBBhdzhsDaHyww.png",
+  "slug": "wysiwyg-for-mdx-introducing-vrites-hybrid-editor-4j13",
+  "url": "https://dev.to/vrite/wysiwyg-for-mdx-introducing-vrites-hybrid-editor-4j13",
+  "publish_date": "2023-10-18",
+  "published_at": "2023-10-18T16:01:57Z"
+ },
+ {
+  "id": 1638526,
+  "title": "Fault Tolerance in Distributed Systems: Strategies and Case Studies",
+  "description": "The complex technological web that supports our daily lives has grown into a vast network of...",
+  "cover_image": "",
+  "slug": "fault-tolerance-in-distributed-systems-strategies-and-case-studies-29d2",
+  "url": "https://dev.to/nekto0n/fault-tolerance-in-distributed-systems-strategies-and-case-studies-29d2",
+  "publish_date": "2023-10-18",
+  "published_at": "2023-10-18T11:31:56Z"
+ },
+ {
+  "id": 1638505,
+  "title": "🚨Big News! Renaming: TW Elements is the new name of the game, TWE for short! 🚨",
+  "description": "TW Elements is the new name of the game, TWE for short  After our first Stable Version and its...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5WttdnyC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aflj6m5wai7h2tskhr0p.png",
+  "slug": "big-news-renaming-tw-elements-is-the-new-name-of-the-game-twe-for-short-1hpl",
+  "url": "https://dev.to/mdbootstrap/big-news-renaming-tw-elements-is-the-new-name-of-the-game-twe-for-short-1hpl",
+  "publish_date": "2023-10-18",
+  "published_at": "2023-10-18T10:52:23Z"
+ },
+ {
+  "id": 1638127,
+  "title": "Escreva o melhor markdown que você ja fez com esses 5 snippets",
+  "description": "Sumário    Âncora interativa Compatibilidade de navegador Imagem de destaque Accordion...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6LMpdB2o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wce5rhm39i3lk7y8e4bp.png",
+  "slug": "escreva-o-melhor-markdown-que-voce-ja-fez-com-esses-5-snippets-3fni",
+  "url": "https://dev.to/lixeletto/escreva-o-melhor-markdown-que-voce-ja-fez-com-esses-5-snippets-3fni",
+  "publish_date": "2023-10-18",
+  "published_at": "2023-10-18T03:51:25Z"
+ },
+ {
   "id": 1637574,
   "title": "24 Open-Source Projects for Developers in 2023 🔥👍",
   "description": "Open-source projects are playgrounds of innovation, collaboration, and creativity. It's a hub where...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/appwrite/appwrite-cloud-hackathon-winners-announced-2ej1",
   "publish_date": "2023-07-10",
   "published_at": "2023-07-10T08:28:19Z"
- },
- {
-  "id": 1531016,
-  "title": "Why Server Components - A Brief History of Web",
-  "description": "According to Stack Overflow survey 2023, Next.js is now the third most desired web framework, and the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZUeV5eZu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xlctwxqrha7iypejk8fc.png",
-  "slug": "why-server-components-a-brief-history-of-web-198h",
-  "url": "https://dev.to/perssondennis/why-server-components-a-brief-history-of-web-198h",
-  "publish_date": "2023-07-09",
-  "published_at": "2023-07-09T14:37:03Z"
- },
- {
-  "id": 1531172,
-  "title": "AINIRO Oracle, the Cut the Crap Search Engine",
-  "description": "I spent a couple of hours today and yesterday and created AINIRO Oracle, the Cut The Crap Search...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zFqbYixF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5o8l6gwvym1glh9rx9b.jpg",
-  "slug": "ainiro-oracle-the-cut-the-crap-search-engine-5ng",
-  "url": "https://dev.to/polterguy/ainiro-oracle-the-cut-the-crap-search-engine-5ng",
-  "publish_date": "2023-07-09",
-  "published_at": "2023-07-09T13:28:21Z"
- },
- {
-  "id": 1530957,
-  "title": "Image gallery with smooth hover effect",
-  "description": "We made a Image gallery with smooth hover effect in Pure CSS            Thanks for Reading ❤️! Check...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JqDI8cLD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j5c1ouq9xi9w06rm5nq1.png",
-  "slug": "image-gallery-with-smooth-hover-effect-116b",
-  "url": "https://dev.to/jon_snow789/image-gallery-with-smooth-hover-effect-116b",
-  "publish_date": "2023-07-09",
-  "published_at": "2023-07-09T08:02:52Z"
- },
- {
-  "id": 1529717,
-  "title": "Coding Problem Interview Series: How to Implement Bubble Sort?",
-  "description": "📣 Calling experienced devs and recent interviewees! Join the \"Coding Problem Interview Series\" to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cOgBUM-J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xadpu4luthp6cd2vjeb2.png",
-  "slug": "coding-problem-interview-series-how-to-implement-bubble-sort-n16",
-  "url": "https://dev.to/codenewbieteam/coding-problem-interview-series-how-to-implement-bubble-sort-n16",
-  "publish_date": "2023-07-09",
-  "published_at": "2023-07-09T07:00:00Z"
- },
- {
-  "id": 1530768,
-  "title": "Is the AI Hype Over? OpenAI's ChatGPT Code Interpreter Takes Center Stage",
-  "description": "Greetings, friends! Ready to have your minds blown? Let's dive headfirst into the thrilling world of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F8vXLM34--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8i3shhdfjhswxr3dmfyb.jpeg",
-  "slug": "is-the-ai-hype-over-openais-chatgpt-code-interpreter-takes-center-stage-3362",
-  "url": "https://dev.to/mitchiemt11/is-the-ai-hype-over-openais-chatgpt-code-interpreter-takes-center-stage-3362",
-  "publish_date": "2023-07-09",
-  "published_at": "2023-07-09T02:07:06Z"
  }
 ]
