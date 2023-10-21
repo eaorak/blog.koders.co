@@ -1,5 +1,55 @@
 [
  {
+  "id": 1624113,
+  "title": "What was your win this week?",
+  "description": "Hey peeps 🙌  Hope you all had a wonderful week.  Looking back on this past week, what was something...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1w9p428N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ni9vau8zh69fdjmff003.jpg",
+  "slug": "what-was-your-win-this-week-lba",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-lba",
+  "publish_date": "2023-10-20",
+  "published_at": "2023-10-20T12:00:00Z"
+ },
+ {
+  "id": 1640673,
+  "title": "Build an Event-Driven Uptime Monitor in Go 🚀",
+  "description": "TL;DR   This guide shows you how to build an uptime monitoring tool using Go and Encore. Get...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u6Aib-v2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ximgtk0v9fjezy3r52pr.png",
+  "slug": "building-an-event-driven-uptime-monitor-in-go-3jdd",
+  "url": "https://dev.to/encore/building-an-event-driven-uptime-monitor-in-go-3jdd",
+  "publish_date": "2023-10-20",
+  "published_at": "2023-10-20T09:20:46Z"
+ },
+ {
+  "id": 1640642,
+  "title": "5 JavaScript Project Ideas Beyond TODO Apps.",
+  "description": "Tired of building Todo apps?  ✨ 5 JavaScript project ideas beyond TODO apps.  These projects will...",
+  "cover_image": "",
+  "slug": "5-javascript-project-ideas-beyond-todo-apps-h9h",
+  "url": "https://dev.to/swastikyadav/5-javascript-project-ideas-beyond-todo-apps-h9h",
+  "publish_date": "2023-10-20",
+  "published_at": "2023-10-20T08:18:22Z"
+ },
+ {
+  "id": 1624597,
+  "title": "How APISIX protects against the OWASP top 10 API security threats",
+  "description": "With the increasing usage and reliance on APIs in today's interconnected digital landscape, security...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--58LrxLye--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bjo85w9ri40nxtiqu1qh.png",
+  "slug": "how-apisix-protects-against-the-owasp-top-10-api-security-threats-3pj3",
+  "url": "https://dev.to/apisix/how-apisix-protects-against-the-owasp-top-10-api-security-threats-3pj3",
+  "publish_date": "2023-10-20",
+  "published_at": "2023-10-20T07:56:17Z"
+ },
+ {
+  "id": 1640575,
+  "title": "🐋 How to use the Docker Exec command?",
+  "description": "Author: Muhammad Khabbab          Introduction   Docker has evolved into a critical tool in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MrV9-TxD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rdgi799kgb08w4w7z6kx.png",
+  "slug": "how-to-use-the-docker-exec-command-46e9",
+  "url": "https://dev.to/refine/how-to-use-the-docker-exec-command-46e9",
+  "publish_date": "2023-10-20",
+  "published_at": "2023-10-20T07:10:20Z"
+ },
+ {
   "id": 1639846,
   "title": "🏆 🏆 Top 6 Open Source Repositories for Web Developers - ⭐ Most rated by community",
   "description": "I've compiled a list of the top 6 open source repositories for web developers based on GitHub Stars,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kumo/learn-30-serverless-best-practices-with-sls-mentor-cnj",
   "publish_date": "2023-07-12",
   "published_at": "2023-07-12T08:34:51Z"
- },
- {
-  "id": 1533568,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-40ll",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-40ll",
-  "publish_date": "2023-07-11",
-  "published_at": "2023-07-11T15:50:33Z"
- },
- {
-  "id": 1533512,
-  "title": "GPT Web App Generator - Let AI create a full-stack React \u0026 Node.js codebase based on your description 🤖🤯",
-  "description": "This project started out as an experiment - we were interested if, given a short description, GPT can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kkIVxrTn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/92krlai4tqd02uaz6sfc.png",
-  "slug": "gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39",
-  "url": "https://dev.to/wasp/gpt-web-app-generator-let-ai-create-a-full-stack-react-nodejs-codebase-based-on-your-description-2g39",
-  "publish_date": "2023-07-11",
-  "published_at": "2023-07-11T14:11:53Z"
- },
- {
-  "id": 1531336,
-  "title": "🫰Clickvote: Open-source upvotes, likes, and reviews to any context 🔥",
-  "description": "TL;DR   I built an open-source app to add upvote, like, and reviews anywhere. And while it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--b4x2aLpC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbrcguz6q2dhsvgiphpt.gif",
-  "slug": "clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9",
-  "url": "https://dev.to/github20k/clickvote-open-source-upvotes-likes-and-reviews-to-any-context-3ef9",
-  "publish_date": "2023-07-11",
-  "published_at": "2023-07-11T11:58:18Z"
- },
- {
-  "id": 1533315,
-  "title": "Deploy Preview Environments to Any Kubernetes Cluster with Preevy",
-  "description": "What?   We're excited to announce that Preevy can now deploy your preview environments to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---aOEogZ3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sy7pcak1j4d8jyac5vlu.jpg",
-  "slug": "deploy-preview-environments-to-any-kubernetes-cluster-with-preevy-34k5",
-  "url": "https://dev.to/livecycle/deploy-preview-environments-to-any-kubernetes-cluster-with-preevy-34k5",
-  "publish_date": "2023-07-11",
-  "published_at": "2023-07-11T11:39:51Z"
- },
- {
-  "id": 1532706,
-  "title": "How I get better feedback on my PRs (and how you can, too)",
-  "description": "This article is a guide that will show you how you can set yourself up to get better feedback on every pull request, and make your development and deployment workflow a lot faster.",
-  "cover_image": "",
-  "slug": "how-i-get-better-feedback-on-my-prs-and-how-you-can-too-hd5",
-  "url": "https://dev.to/noahflk/how-i-get-better-feedback-on-my-prs-and-how-you-can-too-hd5",
-  "publish_date": "2023-07-11",
-  "published_at": "2023-07-11T11:03:15Z"
  }
 ]
