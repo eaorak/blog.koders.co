@@ -1,5 +1,55 @@
 [
  {
+  "id": 1642065,
+  "title": "Making Sense of Version Control — Git vs GitHub",
+  "description": "As a developer just starting out, I remember being so confused by version control and the difference...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yhbI2GCJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbk9poc1fegcbqjmcgbu.png",
+  "slug": "making-sense-of-version-control-git-vs-github-1ekn",
+  "url": "https://dev.to/jaimaldullat/making-sense-of-version-control-git-vs-github-1ekn",
+  "publish_date": "2023-10-21",
+  "published_at": "2023-10-21T16:15:54Z"
+ },
+ {
+  "id": 1641912,
+  "title": "Accelerate Your Career 👩🏻‍💻 by Contributing to these 9 Repositories 🔥",
+  "description": "Explore these nine repositories to stand out in different areas of software development. Go from...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1zJJcuUN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0pavkqhlcmn9qu6yeq7s.gif",
+  "slug": "accelerate-your-career-by-contributing-to-these-9-repositories-28e3",
+  "url": "https://dev.to/swirl/accelerate-your-career-by-contributing-to-these-9-repositories-28e3",
+  "publish_date": "2023-10-21",
+  "published_at": "2023-10-21T15:47:39Z"
+ },
+ {
+  "id": 1641981,
+  "title": "How to Install and Set Up a Ghost Blog on AWS Lightsail - Step by Step Tutorial",
+  "description": "Welcome to this step-by-step tutorial on how to install and set up a Ghost blog on AWS Lightsail....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o69TTniW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/by375g5il2dr6rasmza3.png",
+  "slug": "how-to-install-and-set-up-a-ghost-blog-on-aws-lightsail-step-by-step-tutorial-48kf",
+  "url": "https://dev.to/devarshishimpi/how-to-install-and-set-up-a-ghost-blog-on-aws-lightsail-step-by-step-tutorial-48kf",
+  "publish_date": "2023-10-21",
+  "published_at": "2023-10-21T14:14:20Z"
+ },
+ {
+  "id": 1640425,
+  "title": "📊 How To Display An In-App Survey In Next.js 13 With Supabase And Formbricks 🤝🛠️",
+  "description": "Once a user has successfully completed the signup process for your application, you might consider...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ds_EaUZ0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tbk90xomj3vklzwxxf4j.png",
+  "slug": "how-to-display-an-in-app-survey-in-nextjs-13-with-supabase-and-formbricks-1d9n",
+  "url": "https://dev.to/formbricks/how-to-display-an-in-app-survey-in-nextjs-13-with-supabase-and-formbricks-1d9n",
+  "publish_date": "2023-10-21",
+  "published_at": "2023-10-21T12:01:53Z"
+ },
+ {
+  "id": 1641778,
+  "title": "What Is LangChain? Unlocking the Potential of LLMs",
+  "description": "LangChain is an open-source framework crafted to ease the development of applications that leverage...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xLvMU_sa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/07b9pwng5s1aogn64z7u.png",
+  "slug": "what-is-langchain-unlocking-the-potential-of-llms-olg",
+  "url": "https://dev.to/dariubs/what-is-langchain-unlocking-the-potential-of-llms-olg",
+  "publish_date": "2023-10-21",
+  "published_at": "2023-10-21T08:35:10Z"
+ },
+ {
   "id": 1624113,
   "title": "What was your win this week?",
   "description": "Hey peeps 🙌  Hope you all had a wonderful week.  Looking back on this past week, what was something...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/durgesh4993/7-best-websites-every-developer-should-bookmark-in-2023-31mg",
   "publish_date": "2023-07-13",
   "published_at": "2023-07-13T03:02:14Z"
- },
- {
-  "id": 1514951,
-  "title": "Top 20 Must-Know Tips for Web Accessibility",
-  "description": "Table of content    1 - Learn how to use a screen reader   Most commonly used keys      2 - Gain good...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Uap-EgHX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2qtxk4xlyejgitf5709p.jpg",
-  "slug": "top-20-must-know-tips-for-web-accessibility-452",
-  "url": "https://dev.to/this-is-learning/top-20-must-know-tips-for-web-accessibility-452",
-  "publish_date": "2023-07-12",
-  "published_at": "2023-07-12T14:55:01Z"
- },
- {
-  "id": 1534649,
-  "title": "Transition between pages smoothly with a single line of code",
-  "description": "CSS View Transitions is one of the latest additions to Chromium-based browsers, and I decided to try...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AkmZFGdJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fr1fd49lmpf1sa4r9vdq.jpg",
-  "slug": "transition-between-pages-smoothly-with-a-single-line-of-code-3cea",
-  "url": "https://dev.to/starbist/transition-between-pages-smoothly-with-a-single-line-of-code-3cea",
-  "publish_date": "2023-07-12",
-  "published_at": "2023-07-12T11:49:48Z"
- },
- {
-  "id": 1534645,
-  "title": "💨🚀 Accelerate Your Workflow with ChatGPT Prompts 📝 - Ditch the Boilerplate 📃✖️ and Eliminate Duplicates 🔄🚫",
-  "description": "Discover how ChatGPT prompts can streamline your workflow, eliminate boilerplate code and tackle code duplication. Join the discussion.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w5elPgkq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yiryrouibspl8vj6fopp.jpeg",
-  "slug": "accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14",
-  "url": "https://dev.to/renanfranca/accelerate-your-workflow-with-chatgpt-prompts-ditch-the-boilerplate-and-eliminate-duplicates-p14",
-  "publish_date": "2023-07-12",
-  "published_at": "2023-07-12T10:49:41Z"
- },
- {
-  "id": 1534561,
-  "title": "What's the Best Practice for Auth and Why",
-  "description": "You don't need to implement authentication on your own   Clerk, the drop-in authentication...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--g9PO8WW3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4k26q502z09rgt566rso.jpg",
-  "slug": "whats-the-best-practice-for-auth-and-why-3a60",
-  "url": "https://dev.to/zenstack/whats-the-best-practice-for-auth-and-why-3a60",
-  "publish_date": "2023-07-12",
-  "published_at": "2023-07-12T10:00:00Z"
- },
- {
-  "id": 1515621,
-  "title": "Learn 30 serverless best-practices with sls-mentor",
-  "description": "Your serverless app is not perfect (yet)   Are you currently learning serverless, or are you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZuSAxdCX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/sls-mentor/reporting/assets/cover-image.png",
-  "slug": "learn-30-serverless-best-practices-with-sls-mentor-cnj",
-  "url": "https://dev.to/kumo/learn-30-serverless-best-practices-with-sls-mentor-cnj",
-  "publish_date": "2023-07-12",
-  "published_at": "2023-07-12T08:34:51Z"
  }
 ]
