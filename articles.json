@@ -1,5 +1,55 @@
 [
  {
+  "id": 1642661,
+  "title": "The 20 Most Common Use Cases for JavaScript Arrays",
+  "description": "Splice, slice, pop and shift. Is the array sort method stable and not in-place? It's not easy to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JJwORXNJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jq9cvzwji5a98irbc8oi.png",
+  "slug": "the-20-most-common-use-cases-for-javascript-arrays-2j8j",
+  "url": "https://dev.to/perssondennis/the-20-most-common-use-cases-for-javascript-arrays-2j8j",
+  "publish_date": "2023-10-22",
+  "published_at": "2023-10-22T14:07:28Z"
+ },
+ {
+  "id": 1642663,
+  "title": "Intensive JSON Course: Mastering JavaScript Object Notation",
+  "description": "JSON, or JavaScript Object Notation, is a widely used format for data exchange in modern web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vZjLuH5R--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pbnj7e5iqp4t2hiveg8d.png",
+  "slug": "intensive-json-course-mastering-javascript-object-notation-49pf",
+  "url": "https://dev.to/frantchessico/intensive-json-course-mastering-javascript-object-notation-49pf",
+  "publish_date": "2023-10-22",
+  "published_at": "2023-10-22T13:03:54Z"
+ },
+ {
+  "id": 1642565,
+  "title": "Introducing Bloggy: The Open-Source Blogging Platform Built with Python and Django",
+  "description": "Today, I am excited to take a giant leap forward in my journey by open-source the codebase of my blog...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ahvrJ22X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djjung54zz5kanrsk9v2.jpeg",
+  "slug": "introducing-bloggy-the-open-source-blogging-platform-built-with-python-and-django-293e",
+  "url": "https://dev.to/nilan/introducing-bloggy-the-open-source-blogging-platform-built-with-python-and-django-293e",
+  "publish_date": "2023-10-22",
+  "published_at": "2023-10-22T09:55:16Z"
+ },
+ {
+  "id": 1637793,
+  "title": "Navigating Docker With Captains - Francesco Ciulla",
+  "description": "TL;DR   This is the first episode of \"Navigating Docker With Captains” - an exclusive series...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vWtNWyxR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4u2w7pmuvxf2b2f2z0ij.png",
+  "slug": "navigating-docker-with-captains-francesco-ciulla-4pie",
+  "url": "https://dev.to/livecycle/navigating-docker-with-captains-francesco-ciulla-4pie",
+  "publish_date": "2023-10-22",
+  "published_at": "2023-10-22T07:15:24Z"
+ },
+ {
+  "id": 1641634,
+  "title": "CatGPT - or How to Position Elements on Overlays",
+  "description": "Have you ever wondered how to display an element with an overlay while keeping it in the same...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PgUkRw4S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/10n9pycrdqlsmkmfm8p9.png",
+  "slug": "catgpt-or-how-to-position-elements-on-overlays-1c48",
+  "url": "https://dev.to/eevajonnapanula/catgpt-or-how-to-position-elements-on-overlays-1c48",
+  "publish_date": "2023-10-22",
+  "published_at": "2023-10-22T06:51:00Z"
+ },
+ {
   "id": 1642065,
   "title": "Making Sense of Version Control — Git vs GitHub",
   "description": "As a developer just starting out, I remember being so confused by version control and the difference...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5",
   "publish_date": "2023-07-14",
   "published_at": "2023-07-14T02:00:46Z"
- },
- {
-  "id": 1536128,
-  "title": "Sloan's Inbox: What's it take to go from 0 dev skills to successful game developer?",
-  "description": "Heyo! Sloan here... DEV Moderator and resident mascot 🦥  Welcome to a new installment of Sloan's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Xxfa9n1a--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6zmk2zbfgt2j019hh2kl.jpg",
-  "slug": "sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h",
-  "url": "https://dev.to/devteam/sloans-inbox-whats-it-take-to-go-from-0-dev-skills-to-successful-game-developer-60h",
-  "publish_date": "2023-07-13",
-  "published_at": "2023-07-13T14:50:02Z"
- },
- {
-  "id": 1535699,
-  "title": "7 DEVs writing quality content about your #career",
-  "description": "I don't have much time to write about careers right now but fortunately there are plenty of cool...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z49xl81Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8hwgf0u9feiwyi8k5ye9.jpg",
-  "slug": "7-devs-writing-quality-content-about-your-career-96o",
-  "url": "https://dev.to/jmfayard/7-devs-writing-quality-content-about-your-career-96o",
-  "publish_date": "2023-07-13",
-  "published_at": "2023-07-13T09:10:52Z"
- },
- {
-  "id": 1535695,
-  "title": "Serverless and event-driven design thinking",
-  "description": "How do I create and design a event-driven system? What steps do I take and how do I think. In this post I will explain my event-driven design thinking.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_yUBTYPN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://jimmydqv.com/assets/img/post-event-driven-design/event-driven-design-thinking-thumb-dev.png",
-  "slug": "serverless-and-event-driven-design-thinking-24jf",
-  "url": "https://dev.to/aws-builders/serverless-and-event-driven-design-thinking-24jf",
-  "publish_date": "2023-07-13",
-  "published_at": "2023-07-13T08:38:10Z"
- },
- {
-  "id": 1534185,
-  "title": "Appwrite is now available as a one-click app on the Akamai cloud (Linode) marketplace",
-  "description": "We have some exciting news. Appwrite, an open-source end-to-end backend server, is now available as a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qDN194Cp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/33i11dzfrkx8fsfqol57.png",
-  "slug": "appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp",
-  "url": "https://dev.to/appwrite/appwrite-is-now-available-as-a-one-click-app-on-the-akamai-cloud-linode-marketplace-5ajp",
-  "publish_date": "2023-07-13",
-  "published_at": "2023-07-13T06:44:23Z"
- },
- {
-  "id": 1535468,
-  "title": "7 Best Websites Every Developer Should Bookmark in 2023",
-  "description": "Stay ahead of the game and elevate your programming skills with this comprehensive list of the best...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--j3fC5nC4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/830pvpyn67mktg0ttt5i.jpg",
-  "slug": "7-best-websites-every-developer-should-bookmark-in-2023-31mg",
-  "url": "https://dev.to/durgesh4993/7-best-websites-every-developer-should-bookmark-in-2023-31mg",
-  "publish_date": "2023-07-13",
-  "published_at": "2023-07-13T03:02:14Z"
  }
 ]
