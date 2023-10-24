@@ -1,5 +1,55 @@
 [
  {
+  "id": 1643809,
+  "title": "pgvector vs Pinecone: cost and performance",
+  "description": "At Supabase, we believe that a combination of Postgres and pgvector serves as a better alternative to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K-Y2apXJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/osil5n801dgolxmgooxh.jpeg",
+  "slug": "pgvector-vs-pinecone-cost-and-performance-22g5",
+  "url": "https://dev.to/supabase/pgvector-vs-pinecone-cost-and-performance-22g5",
+  "publish_date": "2023-10-23",
+  "published_at": "2023-10-23T15:49:47Z"
+ },
+ {
+  "id": 1643741,
+  "title": "Supervisors - Letting things crash",
+  "description": "In the previous articles, we explored various aspects of managing processes in Elixir. From creating...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o6QDQcpB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hb5z1notq3bf1lcgzsf3.png",
+  "slug": "supervisors-letting-things-crash-1lh2",
+  "url": "https://dev.to/cherryramatis/supervisors-letting-things-crash-1lh2",
+  "publish_date": "2023-10-23",
+  "published_at": "2023-10-23T14:54:26Z"
+ },
+ {
+  "id": 1643188,
+  "title": "🔥 Top 6 monitoring tools to become a better developer 🤯 🤯",
+  "description": "TL;DR   Monitoring can be complex, especially given the number of available tools and the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2I-0mleJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sno525y3uktri2twazt9.gif",
+  "slug": "top-6-monitoring-tools-to-become-a-better-developer-4j4k",
+  "url": "https://dev.to/odigos/top-6-monitoring-tools-to-become-a-better-developer-4j4k",
+  "publish_date": "2023-10-23",
+  "published_at": "2023-10-23T11:35:41Z"
+ },
+ {
+  "id": 1643169,
+  "title": "💅 Creating Polished Content with React Markdown",
+  "description": "Author: David Omotayo           Introduction   Prior to John Gruber's invention of Markdown...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3iZ-UHhO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8uu9w8mjwk2hagpr7upk.png",
+  "slug": "creating-polished-content-with-react-markdown-3h65",
+  "url": "https://dev.to/refine/creating-polished-content-with-react-markdown-3h65",
+  "publish_date": "2023-10-23",
+  "published_at": "2023-10-23T06:15:11Z"
+ },
+ {
+  "id": 1643141,
+  "title": "🤓 The Top 10 JavaScript Tricks for Cleaner Code",
+  "description": "Hello Guys, My name is Md Taqui Imam i am a Full Stack developer And in Today post i will tell you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7cdwMBD5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lro0x5jz7o2jyphqv2zs.png",
+  "slug": "the-top-10-javascript-tricks-for-cleaner-code-422b",
+  "url": "https://dev.to/todayscode14/the-top-10-javascript-tricks-for-cleaner-code-422b",
+  "publish_date": "2023-10-23",
+  "published_at": "2023-10-23T05:28:36Z"
+ },
+ {
   "id": 1642661,
   "title": "The 20 Most Common Use Cases for JavaScript Arrays",
   "description": "Splice, slice, pop and shift. Is the array sort method stable and not in-place? It's not easy to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tanvirrahman/supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o",
   "publish_date": "2023-07-15",
   "published_at": "2023-07-15T05:19:42Z"
- },
- {
-  "id": 1536979,
-  "title": "Mobile Development Best Practices: Strategies for Building Successful Apps for Android and iOS",
-  "description": "Mobile development is exciting. It offers you the power to create something that potentially millions...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KRaSC-q---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x5b8h5taxoqc4d2yillz.png",
-  "slug": "mobile-development-best-practices-strategies-for-building-successful-apps-for-android-and-ios-bgc",
-  "url": "https://dev.to/chkon/mobile-development-best-practices-strategies-for-building-successful-apps-for-android-and-ios-bgc",
-  "publish_date": "2023-07-14",
-  "published_at": "2023-07-14T11:41:26Z"
- },
- {
-  "id": 1536855,
-  "title": "Leaked C# 12 Preview 3 Features! Worth the Wait or Not?",
-  "description": "It’s a great day to explore C# 12 Preview 3 features. We’ll be diving into interesting updates like...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7Ku5zaJm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2lfsvc554cd4vbpkgoyy.png",
-  "slug": "leaked-c-12-preview-3-features-worth-the-wait-or-not-7if",
-  "url": "https://dev.to/bytehide/leaked-c-12-preview-3-features-worth-the-wait-or-not-7if",
-  "publish_date": "2023-07-14",
-  "published_at": "2023-07-14T09:48:40Z"
- },
- {
-  "id": 1518940,
-  "title": "What was your win this week?",
-  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-13db",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-13db",
-  "publish_date": "2023-07-14",
-  "published_at": "2023-07-14T09:30:00Z"
- },
- {
-  "id": 1536626,
-  "title": "15 Advanced TypeScript Tips for Development",
-  "description": "1.Optional Chaining (?.): Optional chaining allows you to safely access nested properties or methods...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mq_e71-E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w3na00dnzqmtigth9990.png",
-  "slug": "15-advanced-typescript-tips-for-development-5ddj",
-  "url": "https://dev.to/lakshmananarumugam/15-advanced-typescript-tips-for-development-5ddj",
-  "publish_date": "2023-07-14",
-  "published_at": "2023-07-14T04:02:54Z"
- },
- {
-  "id": 1536592,
-  "title": "A Comprehensive Beginner's Guide to NPM: Simplifying Package Management",
-  "description": "In the vast landscape of web development, efficiently managing project dependencies is crucial for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_8GI6PKf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uo4zuxr510wc8o4m1dki.jpg",
-  "slug": "a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5",
-  "url": "https://dev.to/abhixsh/a-comprehensive-beginners-guide-to-npm-simplifying-package-management-57l5",
-  "publish_date": "2023-07-14",
-  "published_at": "2023-07-14T02:00:46Z"
  }
 ]
