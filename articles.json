@@ -1,5 +1,55 @@
 [
  {
+  "id": 1624915,
+  "title": "✨ The quickest way to find Hacktoberfest projects 🚀",
+  "description": "Hey friends, 👋  If you missed my previous articles, we have recently built a simple way to find all...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6pwjOZOp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vfpzvx77dvf3pptnhhg3.png",
+  "slug": "the-quickest-way-to-find-hacktoberfest-projects-1795",
+  "url": "https://dev.to/quine/the-quickest-way-to-find-hacktoberfest-projects-1795",
+  "publish_date": "2023-10-24",
+  "published_at": "2023-10-24T15:33:24Z"
+ },
+ {
+  "id": 1644553,
+  "title": "🎉 17 Javascript repositories to become the best developer in the world 🌍",
+  "description": "Become a better developer   I've curated a list of 17 GitHub repositories you should know as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VMpcTmSr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz5vlarn8uxbgbetnf5m.gif",
+  "slug": "17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3",
+  "url": "https://dev.to/triggerdotdev/17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3",
+  "publish_date": "2023-10-24",
+  "published_at": "2023-10-24T12:23:36Z"
+ },
+ {
+  "id": 1639207,
+  "title": "Compondo música com Java! É hora do Jmusic",
+  "description": "É isso mesmo que você leu, se você sempre quis compor uma música ou imaginou como fazer isso com...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5AVLkUY9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2f13qay8vlol6o1b35l4.png",
+  "slug": "compondo-musica-com-java-e-hora-do-jmusic-db",
+  "url": "https://dev.to/he4rt/compondo-musica-com-java-e-hora-do-jmusic-db",
+  "publish_date": "2023-10-24",
+  "published_at": "2023-10-24T11:56:13Z"
+ },
+ {
+  "id": 1644041,
+  "title": "How To Get Type-Safe Frontend Queries Like GraphQL Without GraphQL Using Typescript",
+  "description": "Fading of API   I previously wrote a post about the history of APIs:                        ...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WHsbei_h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hp9gw6flxjsefjb6kke0.png",
+  "slug": "how-to-get-type-safety-frontend-queries-like-graphql-without-graphql-using-typescript-1n70",
+  "url": "https://dev.to/zenstack/how-to-get-type-safety-frontend-queries-like-graphql-without-graphql-using-typescript-1n70",
+  "publish_date": "2023-10-24",
+  "published_at": "2023-10-24T09:58:16Z"
+ },
+ {
+  "id": 1644422,
+  "title": "⚡ Complete Tutorial: React Admin Panel with refine and daisyUI",
+  "description": "Author: Abdullah Numan           Introduction   In this post, we go through the process of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sZ34B8c6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hdikcejyr23r903p39dc.jpg",
+  "slug": "complete-tutorial-react-admin-panel-with-refine-and-daisyui-4h0n",
+  "url": "https://dev.to/refine/complete-tutorial-react-admin-panel-with-refine-and-daisyui-4h0n",
+  "publish_date": "2023-10-24",
+  "published_at": "2023-10-24T09:10:40Z"
+ },
+ {
   "id": 1643809,
   "title": "pgvector vs Pinecone: cost and performance",
   "description": "At Supabase, we believe that a combination of Postgres and pgvector serves as a better alternative to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd",
   "publish_date": "2023-07-16",
   "published_at": "2023-07-16T00:52:45Z"
- },
- {
-  "id": 1532648,
-  "title": "Design Patterns in PHP 8: Builder",
-  "description": "Hi! In the realm of software development, creating complex objects often feels like trying to solve a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQrquW9C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e85tpdwals9yvln641rf.jpg",
-  "slug": "design-patterns-in-php-8-builder-2ike",
-  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-builder-2ike",
-  "publish_date": "2023-07-15",
-  "published_at": "2023-07-15T13:33:31Z"
- },
- {
-  "id": 1537997,
-  "title": "How a Responsive Website Can Help Your Business Grow",
-  "description": "Having a responsive website is crucial for the growth and success of your business. With the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i9glWBFn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zeia6b3z2d2b21579yc3.jpg",
-  "slug": "how-a-responsive-website-can-help-your-business-grow-3pbl",
-  "url": "https://dev.to/berack/how-a-responsive-website-can-help-your-business-grow-3pbl",
-  "publish_date": "2023-07-15",
-  "published_at": "2023-07-15T09:17:42Z"
- },
- {
-  "id": 1537345,
-  "title": "Unsafe 'PropsWithChildren' Utility type in React TypeScript App",
-  "description": "As React developer, we are all familiar with creating components, whether as classes or functions, to...",
-  "cover_image": "",
-  "slug": "unsafe-propswithchildren-utility-type-in-react-typescript-app-3bd3",
-  "url": "https://dev.to/maafaishal/unsafe-propswithchildren-utility-type-in-react-typescript-app-3bd3",
-  "publish_date": "2023-07-15",
-  "published_at": "2023-07-15T08:15:09Z"
- },
- {
-  "id": 1517868,
-  "title": "Balancing Skills: Beyond Coding Expertise",
-  "description": "Being a well-rounded coder involves more than just technical skills. What are some non-technical...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PdGl-uZF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecdrycbshmna0nnx815o.png",
-  "slug": "balancing-skills-beyond-coding-expertise-4k93",
-  "url": "https://dev.to/devteam/balancing-skills-beyond-coding-expertise-4k93",
-  "publish_date": "2023-07-15",
-  "published_at": "2023-07-15T07:00:00Z"
- },
- {
-  "id": 1537404,
-  "title": "Supercharge Your Container Networking: Seamless Host Communication with VxLAN and Docker",
-  "description": "In this hands-on demo, we will explore how to set up communication between two hosts using Virtual...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AnyiWS-m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmmuo42tz11v4gry0sya.png",
-  "slug": "supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o",
-  "url": "https://dev.to/tanvirrahman/supercharge-your-container-networking-seamless-host-communication-with-vxlan-and-docker-39o",
-  "publish_date": "2023-07-15",
-  "published_at": "2023-07-15T05:19:42Z"
  }
 ]
