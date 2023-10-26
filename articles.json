@@ -1,5 +1,55 @@
 [
  {
+  "id": 1646131,
+  "title": "How I Built \u0026 Grew CoverLetterGPT to 5,000 Users and $200 MRR",
+  "description": "Hey, I’m Vince…     I’m a self-taught developer that changed careers during the Covid...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QGpr68Cf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/el8pkvh635xevgdnm1ma.gif",
+  "slug": "how-i-built-grew-coverlettergpt-to-5000-users-and-200-mrr-14c3",
+  "url": "https://dev.to/wasp/how-i-built-grew-coverlettergpt-to-5000-users-and-200-mrr-14c3",
+  "publish_date": "2023-10-25",
+  "published_at": "2023-10-25T14:29:12Z"
+ },
+ {
+  "id": 1645731,
+  "title": "10 typescript developers you must follow to become typescript expert in 2024",
+  "description": "Follow a TypeScript expert to get invaluable insights, best practices, and the latest trends to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lzjlDCe7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nadfkysqsbcsg30ox8oo.jpeg",
+  "slug": "10-typescript-developer-you-must-follow-to-become-typescript-expert-in-2024-5c19",
+  "url": "https://dev.to/firecampdev/10-typescript-developer-you-must-follow-to-become-typescript-expert-in-2024-5c19",
+  "publish_date": "2023-10-25",
+  "published_at": "2023-10-25T13:41:07Z"
+ },
+ {
+  "id": 1646008,
+  "title": "42 Developer Resources to Kickstart Your Coding Journey 🚀🔥",
+  "description": "In today's digital age, coding has become an essential skill that opens doors to countless...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BSvB5Kal--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0lvd16jyj74sdd9gmm2m.png",
+  "slug": "42-developer-resources-to-kickstart-your-coding-journey-1p0e",
+  "url": "https://dev.to/madza/42-developer-resources-to-kickstart-your-coding-journey-1p0e",
+  "publish_date": "2023-10-25",
+  "published_at": "2023-10-25T13:29:42Z"
+ },
+ {
+  "id": 1645850,
+  "title": "What is Retrieval Augmented Generation (RAG)? 🚀",
+  "description": "TL;DR   In this article, I’m going to talk about what RAG is and how to implement a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rEowLQI9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1u40sdvqpymajnounlrp.png",
+  "slug": "what-is-retrieval-augmented-generation-rag-4n7g",
+  "url": "https://dev.to/confidentai/what-is-retrieval-augmented-generation-rag-4n7g",
+  "publish_date": "2023-10-25",
+  "published_at": "2023-10-25T10:30:40Z"
+ },
+ {
+  "id": 1645766,
+  "title": "Anti-FAQs: Use localhost for collaboration?? Seriously?!",
+  "description": "What exactly are “Anti-FAQs”?   Regular FAQs are everywhere.   As the name suggests, it’s a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EggFudEz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wl9bt7lyla87xm5bib1z.jpg",
+  "slug": "anti-faqs-use-localhost-for-collaboration-seriously-39pm",
+  "url": "https://dev.to/livecycle/anti-faqs-use-localhost-for-collaboration-seriously-39pm",
+  "publish_date": "2023-10-25",
+  "published_at": "2023-10-25T09:43:13Z"
+ },
+ {
   "id": 1624915,
   "title": "✨ The quickest way to find Hacktoberfest projects 🚀",
   "description": "Hey friends, 👋  If you missed my previous articles, we have recently built a simple way to find all...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ocodista/o-poder-da-micro-filosofia-2i6i",
   "publish_date": "2023-07-17",
   "published_at": "2023-07-17T02:08:24Z"
- },
- {
-  "id": 1539116,
-  "title": "A Practical Guide to Metaprogramming in Python",
-  "description": "What is metaprogramming?   Metaprogramming is a programming technique where a program can...",
-  "cover_image": "",
-  "slug": "a-practical-guide-to-metaprogramming-in-python-691",
-  "url": "https://dev.to/karishmashukla/a-practical-guide-to-metaprogramming-in-python-691",
-  "publish_date": "2023-07-16",
-  "published_at": "2023-07-16T18:25:22Z"
- },
- {
-  "id": 1538793,
-  "title": "The Ethereum Virtual Machine: Fueling the Decentralized Revolution",
-  "description": "The Ethereum Virtual Machine (EVM) is at the core of the Ethereum protocol. It acts as a powerful...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zIeef4-k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7qsdq23ubxfvpuf9mobb.jpg",
-  "slug": "the-ethereum-virtual-machine-fueling-the-decentralized-revolution-4g82",
-  "url": "https://dev.to/sahil_4555/the-ethereum-virtual-machine-fueling-the-decentralized-revolution-4g82",
-  "publish_date": "2023-07-16",
-  "published_at": "2023-07-16T12:15:29Z"
- },
- {
-  "id": 1538629,
-  "title": "Building Trust in a Trustless World: Decentralized Applications Unveiled",
-  "description": "In this chapter, we'll explore decentralized applications, or DApps. They were born from Ethereum's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vxQsCI5i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4emxz0t2ic2em76k7v8t.jpg",
-  "slug": "building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk",
-  "url": "https://dev.to/sahil_4555/building-trust-in-a-trustless-world-decentralized-applications-unveiled-52nk",
-  "publish_date": "2023-07-16",
-  "published_at": "2023-07-16T04:43:45Z"
- },
- {
-  "id": 1538533,
-  "title": "RSVQuick: Online Invitation App Made Using Refine",
-  "description": "What I built   I created an online RSVP invitation application that allows users to quickly...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pRknVHKQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/be67sfg0o50cr6ffvyzd.png",
-  "slug": "rsvquick-online-invitation-app-made-using-refine-148e",
-  "url": "https://dev.to/ansellmaximilian/rsvquick-online-invitation-app-made-using-refine-148e",
-  "publish_date": "2023-07-16",
-  "published_at": "2023-07-16T02:49:46Z"
- },
- {
-  "id": 1538530,
-  "title": "Building a Progressive Web App with React",
-  "description": "Progressive web applications (PWAs) are web apps that utilize modern web capabilities and features to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--u6iDDfIm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dc03xbynb1y65pwy8xkp.png",
-  "slug": "building-a-progressive-web-app-with-react-ifd",
-  "url": "https://dev.to/elliot_brenya/building-a-progressive-web-app-with-react-ifd",
-  "publish_date": "2023-07-16",
-  "published_at": "2023-07-16T00:52:45Z"
  }
 ]
