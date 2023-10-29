@@ -1,5 +1,55 @@
 [
  {
+  "id": 1649320,
+  "title": "Roll your own auth with Rust and Protobuf",
+  "description": "Introduction   1. What is Protobuf? 2. What are you we to accomplish 3. Requirements      Get...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0NVPQEMw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ru0d1bbvhjzv2pixh0eo.png",
+  "slug": "roll-your-own-auth-with-rust-and-protobuf-24ke",
+  "url": "https://dev.to/martinp/roll-your-own-auth-with-rust-and-protobuf-24ke",
+  "publish_date": "2023-10-28",
+  "published_at": "2023-10-28T16:25:50Z"
+ },
+ {
+  "id": 1648389,
+  "title": "Why is node_modules heavier than the universe? (No seriously, why is it so big?)",
+  "description": "The problem   Have you ever faced the issue of waiting what seems to be eternity while you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xjb3PEXO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z6hhu7exb41qbdzcbzlv.jpeg",
+  "slug": "why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl",
+  "url": "https://dev.to/faizbshah/why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl",
+  "publish_date": "2023-10-28",
+  "published_at": "2023-10-28T09:11:52Z"
+ },
+ {
+  "id": 1649010,
+  "title": "Basic Pattern - Javascript Interview",
+  "description": "Example 1: Triangle Pattern - I    1 1 2 1 2 3 1 2 3 4 1 2 3 4 5  let rows = 5; // pattern variable...",
+  "cover_image": "",
+  "slug": "basic-pattern-javascript-interview-46j0",
+  "url": "https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0",
+  "publish_date": "2023-10-28",
+  "published_at": "2023-10-28T07:39:07Z"
+ },
+ {
+  "id": 1648940,
+  "title": "Perplexity in AI Models: A Simple Explanation",
+  "description": "Today I looked up what perplexity is in AI models, and basically, it means what it sounds like, how...",
+  "cover_image": "",
+  "slug": "perplexity-in-ai-models-a-simple-explanation-3in4",
+  "url": "https://dev.to/alkanet88/perplexity-in-ai-models-a-simple-explanation-3in4",
+  "publish_date": "2023-10-28",
+  "published_at": "2023-10-28T04:23:16Z"
+ },
+ {
+  "id": 1648870,
+  "title": "How and when to use keys in React",
+  "description": "When you render lists in React, you need to use keys.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_5Sxa3x1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1579728866437-6397f3d89ec3%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D2913%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
+  "slug": "how-and-when-to-use-keys-in-react-4peb",
+  "url": "https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb",
+  "publish_date": "2023-10-28",
+  "published_at": "2023-10-28T00:39:27Z"
+ },
+ {
   "id": 1648471,
   "title": "How To Find A Developer Job In 2023 (With Little Or No Experience) 🔥",
   "description": "Do you want to know a little secret?  You can get a highly paid developer job without tons of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/hoppscotch/postman-alternative-hoppscotch-open-source-self-hosted-api-development-ecosystem-9he",
   "publish_date": "2023-07-20",
   "published_at": "2023-07-20T07:09:29Z"
- },
- {
-  "id": 1542446,
-  "title": "Introducing Open Video Game Data: A new approach to evaluating games.",
-  "description": "Introduction   My friend Diego and I decided to create a non-profit site called Open Video...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CNDyX8oA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ng7j36794ou2k1ntp7z5.png",
-  "slug": "introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5",
-  "url": "https://dev.to/andredarcie/introducing-open-video-game-data-a-new-approach-to-evaluating-games-1ak5",
-  "publish_date": "2023-07-19",
-  "published_at": "2023-07-19T17:28:32Z"
- },
- {
-  "id": 1542161,
-  "title": "Criamos uma nova forma de avaliar jogos: Open Video Game Data [PT-BR]",
-  "description": "Introdução   Meu amigo Diego e eu decidimos criar um site sem fins lucrativos chamado Open...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k-fER1vq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/03xl7cqs3ccjzp4mff19.png",
-  "slug": "criamos-uma-nova-forma-de-avaliar-jogos-open-video-game-data-pt-br-49j3",
-  "url": "https://dev.to/andredarcie/criamos-uma-nova-forma-de-avaliar-jogos-open-video-game-data-pt-br-49j3",
-  "publish_date": "2023-07-19",
-  "published_at": "2023-07-19T16:19:30Z"
- },
- {
-  "id": 1509419,
-  "title": "How much does it cost to build on top of Open AI API: building👩‍💻 + covering cost💰",
-  "description": "Over the past two months, I've developed five distinct micro-products using the OpenAI API. So...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zohduHN---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gsmaazcxypl9ybyygq5l.png",
-  "slug": "how-much-does-it-cost-to-build-on-top-of-open-ai-api-building-covering-cost-4777",
-  "url": "https://dev.to/shnai0/how-much-does-it-cost-to-build-on-top-of-open-ai-api-building-covering-cost-4777",
-  "publish_date": "2023-07-19",
-  "published_at": "2023-07-19T15:57:33Z"
- },
- {
-  "id": 1542257,
-  "title": "Build your own Remote Access VPN to AWS with WireGuard and Netmaker",
-  "description": "Introduction   An AWS account typically consists of multiple VPC’s and private subnets. You...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DU--MpTP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h0heeresfsiso2y1hzco.png",
-  "slug": "build-your-own-remote-access-vpn-to-aws-with-wireguard-and-netmaker-4ak4",
-  "url": "https://dev.to/afeiszli/build-your-own-remote-access-vpn-to-aws-with-wireguard-and-netmaker-4ak4",
-  "publish_date": "2023-07-19",
-  "published_at": "2023-07-19T15:18:31Z"
- },
- {
-  "id": 1542238,
-  "title": "How to build and deploy a modern-day Next.js application",
-  "description": "Introduction   Making websites is not what it used to be. Over the past ten years, it has...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2OLM9lnN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/85vri5fry1xil0h4l77t.jpg",
-  "slug": "how-to-build-and-deploy-a-modern-day-nextjs-application-mgn",
-  "url": "https://dev.to/livecycle/how-to-build-and-deploy-a-modern-day-nextjs-application-mgn",
-  "publish_date": "2023-07-19",
-  "published_at": "2023-07-19T14:41:17Z"
  }
 ]
