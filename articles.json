@@ -1,5 +1,55 @@
 [
  {
+  "id": 1650149,
+  "title": "Deep Q Learning with PyTorch",
+  "description": "Introduction   This blog is going to be my second one on Reinforcement Learning. You can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IBpYmUp5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2kjveru95s2auc42to5c.png",
+  "slug": "deep-q-learnig-with-pytorch-5bl1",
+  "url": "https://dev.to/akshayballal/deep-q-learnig-with-pytorch-5bl1",
+  "publish_date": "2023-10-29",
+  "published_at": "2023-10-29T22:00:37Z"
+ },
+ {
+  "id": 1649709,
+  "title": "Embrace Functional Programming with /Dart 3.1/",
+  "description": "Object-Oriented Programming (OOP) has long dominated the programming world, with languages like Java...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6BjgyOYr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncelno1d22iedbz75daz.png",
+  "slug": "embrace-functional-programming-with-dart-31-42cn",
+  "url": "https://dev.to/maximsaplin/embrace-functional-programming-with-dart-31-42cn",
+  "publish_date": "2023-10-29",
+  "published_at": "2023-10-29T13:19:20Z"
+ },
+ {
+  "id": 1649829,
+  "title": "If movies were all about software development.",
+  "description": "It's Sunday, so I thought I would share some silly movie posters I have created (edited).   This is...",
+  "cover_image": "",
+  "slug": "if-movies-were-all-about-software-development-5ej5",
+  "url": "https://dev.to/grahamthedev/if-movies-were-all-about-software-development-5ej5",
+  "publish_date": "2023-10-29",
+  "published_at": "2023-10-29T12:22:14Z"
+ },
+ {
+  "id": 1649708,
+  "title": "👻 Happy Halloween Page using pure css",
+  "description": "Hey there, You are most welcome to this article. I hope you will enjoy this article. If you like this...",
+  "cover_image": "",
+  "slug": "happy-halloween-page-using-pure-css-5354",
+  "url": "https://dev.to/freecodez/happy-halloween-page-using-pure-css-5354",
+  "publish_date": "2023-10-29",
+  "published_at": "2023-10-29T07:59:57Z"
+ },
+ {
+  "id": 1649683,
+  "title": "30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎",
+  "description": "TL;DR   JavaScript has some really cool abilities that allow you to do amazing things with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--phDwHOTW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/74wwnl80am13bejjyndf.png",
+  "slug": "30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
+  "url": "https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
+  "publish_date": "2023-10-29",
+  "published_at": "2023-10-29T06:52:33Z"
+ },
+ {
   "id": 1649320,
   "title": "Roll your own auth with Rust and Protobuf",
   "description": "Introduction   1. What is Protobuf? 2. What are you we to accomplish 3. Requirements      Get...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kumo/level-up-your-aws-cdk-development-demystifying-integ-runner-and-integ-test-542j",
   "publish_date": "2023-07-21",
   "published_at": "2023-07-21T10:53:33Z"
- },
- {
-  "id": 1543358,
-  "title": "10 Portfolio Projects you can try as an entry-level Data Analyst/Scientist",
-  "description": "I hate the word newbie. If you are in a hurry, skip to the third paragraph. I always do this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--og4IDB5W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/20p1cvuazd6svb298bev.jpg",
-  "slug": "10-portfolio-projects-you-can-try-as-an-entry-level-data-analystscientist-e8e",
-  "url": "https://dev.to/durgesh4993/10-portfolio-projects-you-can-try-as-an-entry-level-data-analystscientist-e8e",
-  "publish_date": "2023-07-20",
-  "published_at": "2023-07-20T13:08:13Z"
- },
- {
-  "id": 1543354,
-  "title": "#DEVDiscuss: Package Management (NPM)",
-  "description": "image created by Margaux Peltat for the Chilled Cow YouTube channel  Time for #DEVDiscuss — right...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pm4WGR32--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4f92fzhfxojcul2gejan.jpg",
-  "slug": "devdiscuss-package-management-npm-mn9",
-  "url": "https://dev.to/devteam/devdiscuss-package-management-npm-mn9",
-  "publish_date": "2023-07-20",
-  "published_at": "2023-07-20T13:03:40Z"
- },
- {
-  "id": 1541940,
-  "title": "Design Patterns in PHP 8: Flyweight",
-  "description": "Hello, fellow developers!  Today, we're going to dive into another fascinating design pattern that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DKNuOGW9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jw6dgic5no2uxzbhmk1g.jpg",
-  "slug": "design-patterns-in-php-8-flyweight-5e0h",
-  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-flyweight-5e0h",
-  "publish_date": "2023-07-20",
-  "published_at": "2023-07-20T10:17:56Z"
- },
- {
-  "id": 1543154,
-  "title": "Refine Native",
-  "description": "What I built   I build a library for Refine that allows users to use the power of Refine to...",
-  "cover_image": "",
-  "slug": "refine-native-2p1d",
-  "url": "https://dev.to/abdellah711/refine-native-2p1d",
-  "publish_date": "2023-07-20",
-  "published_at": "2023-07-20T10:16:58Z"
- },
- {
-  "id": 1542735,
-  "title": "Postman Alternative: Hoppscotch 🛸 - open source, self hosted API Development Ecosystem",
-  "description": "Over the past week, we've observed a growing trend of people seeking alternatives to Postman, as they...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mqTjAAyq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eobfpk6g2yjb4uonw0df.png",
-  "slug": "postman-alternative-hoppscotch-open-source-self-hosted-api-development-ecosystem-9he",
-  "url": "https://dev.to/hoppscotch/postman-alternative-hoppscotch-open-source-self-hosted-api-development-ecosystem-9he",
-  "publish_date": "2023-07-20",
-  "published_at": "2023-07-20T07:09:29Z"
  }
 ]
