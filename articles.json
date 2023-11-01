@@ -1,5 +1,55 @@
 [
  {
+  "id": 1652389,
+  "title": "A 3-minute tutorial on how to make a Halloween prank on your colleagues 👻",
+  "description": "Want to surprise your friends at work? Make their working process a little bit more exciting with...",
+  "cover_image": "",
+  "slug": "a-3-minute-tutorial-on-how-to-make-a-halloween-prank-on-your-colleagues-1flk",
+  "url": "https://dev.to/juliianikitina/a-3-minute-tutorial-on-how-to-make-a-halloween-prank-on-your-colleagues-1flk",
+  "publish_date": "2023-10-31",
+  "published_at": "2023-10-31T16:23:44Z"
+ },
+ {
+  "id": 1651998,
+  "title": "🎃🦇 HTMLoween🦇🎃 HTML, CSS and JS that'll make you scream! 😱",
+  "description": "It's spooky time again! A couple of years ago I made you all recoil in horror with my Halloween...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_6ahORGn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eez5jn3vc3v3qgc8g3w4.jpg",
+  "slug": "htmloween-html-css-and-js-thatll-make-you-scream-2mad",
+  "url": "https://dev.to/grahamthedev/htmloween-html-css-and-js-thatll-make-you-scream-2mad",
+  "publish_date": "2023-10-31",
+  "published_at": "2023-10-31T12:00:12Z"
+ },
+ {
+  "id": 1651990,
+  "title": "Happy Halloween 🎃",
+  "description": "I carved this pumpkin in honor of the spookiest status code. 😱",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cjDKlWYP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k45342umt1tzusdfyyub.jpeg",
+  "slug": "happy-halloween-4g62",
+  "url": "https://dev.to/ben/happy-halloween-4g62",
+  "publish_date": "2023-10-31",
+  "published_at": "2023-10-31T11:35:36Z"
+ },
+ {
+  "id": 1624540,
+  "title": "Afraid of getting stuck? Vendor lock-in is in the small details 🔐",
+  "description": "TL;DR   In the world of observability, vendor lock-in slows progress and spikes costs....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fsGscKbs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zao4khgu08jqlit9tjqy.png",
+  "slug": "afraid-of-getting-stuck-vendor-lock-in-is-in-the-small-details-9fg",
+  "url": "https://dev.to/keephq/afraid-of-getting-stuck-vendor-lock-in-is-in-the-small-details-9fg",
+  "publish_date": "2023-10-31",
+  "published_at": "2023-10-31T10:31:11Z"
+ },
+ {
+  "id": 1651741,
+  "title": "7 Open Source AI projects to code faster in 2023 🧑‍💻🚀",
+  "description": "It's 2023. You should be at least 50% more productive than last year with all the AI tools that came...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MYgKtxyE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/drie8515e8i8xrycg8ai.png",
+  "slug": "7-open-source-ai-projects-to-code-faster-in-2023-2306",
+  "url": "https://dev.to/llmonitor/7-open-source-ai-projects-to-code-faster-in-2023-2306",
+  "publish_date": "2023-10-31",
+  "published_at": "2023-10-31T08:05:38Z"
+ },
+ {
   "id": 1650654,
   "title": "⤴️ Top 6 projects for building scalable cloud-based applications 🚀",
   "description": "TL;DR   This article lists 6 top projects for simplifying the deployment and building...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3",
   "publish_date": "2023-07-23",
   "published_at": "2023-07-23T02:56:32Z"
- },
- {
-  "id": 1545547,
-  "title": "TCP/IP Network Model💻 : Deep Dive with an example",
-  "description": "So, let's get started😃.   The TCP/IP model is a conceptual framework used for understanding and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--E0rwR1E3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecpoadl7mnh3d5afrjgs.png",
-  "slug": "tcpip-network-model-deep-dive-with-example-3j3o",
-  "url": "https://dev.to/tanishtt/tcpip-network-model-deep-dive-with-example-3j3o",
-  "publish_date": "2023-07-22",
-  "published_at": "2023-07-22T16:06:27Z"
- },
- {
-  "id": 1544942,
-  "title": "Zustand vs Redux: Choosing the Right State Management Library for Your React App",
-  "description": "Introduction to Zustand and Redux   Zustand is a lightweight state management library...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cKI9RxJg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xy6ld4yiiiztc1mzte6b.jpg",
-  "slug": "zustand-vs-redux-choosing-the-right-state-management-library-for-your-react-app-2255",
-  "url": "https://dev.to/idurar/zustand-vs-redux-choosing-the-right-state-management-library-for-your-react-app-2255",
-  "publish_date": "2023-07-22",
-  "published_at": "2023-07-22T13:00:00Z"
- },
- {
-  "id": 1545425,
-  "title": "how long does it take to learn 3d modeling",
-  "description": "Mastering the Art of 3D Modeling: How Long Does It Really Take? Are you ready to dive into the world...",
-  "cover_image": "",
-  "slug": "how-long-does-it-take-to-learn-3d-modeling-40ih",
-  "url": "https://dev.to/tech12lismel/how-long-does-it-take-to-learn-3d-modeling-40ih",
-  "publish_date": "2023-07-22",
-  "published_at": "2023-07-22T12:19:03Z"
- },
- {
-  "id": 1545159,
-  "title": "Array Strengths, Weaknesses, and Big-O Complexity Analysis",
-  "description": "Read about Array Data Structures article before reading through this article.  Arrays are fundamental...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aWbv3B9Q--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kbxetyhrsl6zzgogu4vp.png",
-  "slug": "array-strengths-weaknesses-and-big-o-complexity-analysis-4aho",
-  "url": "https://dev.to/ggorantala/array-strengths-weaknesses-and-big-o-complexity-analysis-4aho",
-  "publish_date": "2023-07-22",
-  "published_at": "2023-07-22T03:25:06Z"
- },
- {
-  "id": 1545076,
-  "title": "unleashing the messi mindset: how the soccer Legend Inspires programming success",
-  "description": "Unleashing the Messi Mindset: How the Soccer Legend Inspires Programming Success Are you ready to...",
-  "cover_image": "",
-  "slug": "unleashing-the-messi-mindset-how-the-soccer-legend-inspires-programming-success-4nac",
-  "url": "https://dev.to/tech12lismel/unleashing-the-messi-mindset-how-the-soccer-legend-inspires-programming-success-4nac",
-  "publish_date": "2023-07-22",
-  "published_at": "2023-07-22T02:56:42Z"
  }
 ]
