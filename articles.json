@@ -1,5 +1,55 @@
 [
  {
+  "id": 1650553,
+  "title": "🚀 How I built AI pictures generator in a GitHub logo style 😻 and got featured in GitHub's Twitter and Instagram 🤯",
+  "description": "Hi there 👋  My name is Igor and I really like building cool apps 🤗  A month ago I saw a very...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UHPv9cB_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5lw0fm9pxoajp05dwbyw.png",
+  "slug": "how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226",
+  "url": "https://dev.to/garrrikkotua/how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226",
+  "publish_date": "2023-11-01",
+  "published_at": "2023-11-01T16:50:41Z"
+ },
+ {
+  "id": 1653385,
+  "title": "Are Unit Tests Really Just Garbage? 💩😳",
+  "description": "I always assumed that unit tests are just part of the job. They are just there, and it's a no-brainer...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bQ0ZB509--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l861enh1wmv88hcvwr76.gif",
+  "slug": "are-unit-tests-really-just-garbage-3c3",
+  "url": "https://dev.to/nuxt-wimadev/are-unit-tests-really-just-garbage-3c3",
+  "publish_date": "2023-11-01",
+  "published_at": "2023-11-01T16:19:53Z"
+ },
+ {
+  "id": 1653325,
+  "title": "🏆 The top 3 repos from hacktoberfest you CANNOT ignore🚀",
+  "description": "tl;dr 🥇 Homebrew-core: the missing package manager for macOS (or Linux) 🥈 Homebrew-cask: A CLI...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kZObEeQm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nmjjdnaknu9eesl1l622.gif",
+  "slug": "the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb",
+  "url": "https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb",
+  "publish_date": "2023-11-01",
+  "published_at": "2023-11-01T16:02:07Z"
+ },
+ {
+  "id": 1652193,
+  "title": "24 Best Resources 🎨 For Web Developers 💻 [HTML + CSS + JavaScript] 😱",
+  "description": "TL;DR   The world of web development can be overwhelming with so many tools and resources...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CqoYx9P_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9l58nxq7p62rx51nfyue.png",
+  "slug": "24-best-resources-for-web-developers-html-css-javascript--2hog",
+  "url": "https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog",
+  "publish_date": "2023-11-01",
+  "published_at": "2023-11-01T12:18:43Z"
+ },
+ {
+  "id": 1653552,
+  "title": "Simple Screen Recorder in 20 lines of JavaScript",
+  "description": "Let's say you're fed up of the state of screen recorders' paywalls and limitations and want to go on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vLEPzmqo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l4rxd2xbto75emi5p1a7.jpg",
+  "slug": "simple-screen-recorder-in-20-lines-of-javascript-4ina",
+  "url": "https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina",
+  "publish_date": "2023-11-01",
+  "published_at": "2023-11-01T11:55:17Z"
+ },
+ {
   "id": 1652389,
   "title": "A 3-minute tutorial on how to make a Halloween prank on your colleagues 👻",
   "description": "Want to surprise your friends at work? Make their working process a little bit more exciting with...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ben/meme-monday-43eo",
   "publish_date": "2023-07-24",
   "published_at": "2023-07-24T09:45:26Z"
- },
- {
-  "id": 1546230,
-  "title": "Open-Source Site Builder - Simpllo",
-  "description": "Open-source Drag \u0026 Drop visual tool built with VanillaJs and Bootstrap5 Components",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IyHKLLTv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wxbipamauyg6viha6ot8.jpg",
-  "slug": "free-open-source-website-builder-42bc",
-  "url": "https://dev.to/sm0ke/free-open-source-website-builder-42bc",
-  "publish_date": "2023-07-23",
-  "published_at": "2023-07-23T12:01:01Z"
- },
- {
-  "id": 1546228,
-  "title": "Object-Oriented Programming (OOP) in JavaScript",
-  "description": "Let's start a journey into the world of programming with a fun analogy. Imagine you're at a bustling...",
-  "cover_image": "",
-  "slug": "object-oriented-programming-oop-in-javascript-cfm",
-  "url": "https://dev.to/diwakarkashyap/object-oriented-programming-oop-in-javascript-cfm",
-  "publish_date": "2023-07-23",
-  "published_at": "2023-07-23T11:53:57Z"
- },
- {
-  "id": 1546207,
-  "title": "Django Caching 101: Understanding the Basics and Beyond",
-  "description": "In today's world of web development, website speed and performance are paramount. Users expect...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--P0_6QtpK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jihrzg0w1h5nwl9im70y.png",
-  "slug": "django-caching-101-understanding-the-basics-and-beyond-49p",
-  "url": "https://dev.to/pragativerma18/django-caching-101-understanding-the-basics-and-beyond-49p",
-  "publish_date": "2023-07-23",
-  "published_at": "2023-07-23T11:25:44Z"
- },
- {
-  "id": 1546081,
-  "title": "SOLID: Single Responsibility Principle With Examples",
-  "description": "In this article, you will learn about the following:   What is SRP? Importance of SRP in software...",
-  "cover_image": "",
-  "slug": "solid-single-responsibility-principle-with-examples-h0f",
-  "url": "https://dev.to/ggorantala/solid-single-responsibility-principle-with-examples-h0f",
-  "publish_date": "2023-07-23",
-  "published_at": "2023-07-23T07:40:20Z"
- },
- {
-  "id": 1545950,
-  "title": "How to Add \"Install App\" Option to Your Website: Progressive Web Apps",
-  "description": "Section 1   Title: How to Add \"Install App\" Option to Your Website: Enhance User Experience...",
-  "cover_image": "",
-  "slug": "how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3",
-  "url": "https://dev.to/sh20raj/how-to-add-install-app-option-to-your-website-progressive-web-apps-4ff3",
-  "publish_date": "2023-07-23",
-  "published_at": "2023-07-23T02:56:32Z"
  }
 ]
