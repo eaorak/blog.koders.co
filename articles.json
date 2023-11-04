@@ -1,5 +1,55 @@
 [
  {
+  "id": 1656266,
+  "title": "Every GitHub Repo 404 😱",
+  "description": "This may be over by the time you read this, but every repo on GitHub appears to be 404ing right now.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7ANM9teO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kd6ab415fdo8muc3gvnp.png",
+  "slug": "every-github-repo-404-74e",
+  "url": "https://dev.to/ben/every-github-repo-404-74e",
+  "publish_date": "2023-11-03",
+  "published_at": "2023-11-03T18:56:28Z"
+ },
+ {
+  "id": 1653919,
+  "title": "Beyond Hacktoberfest🚀",
+  "description": "Ahoy There! For the past month \u0026amp; a half I've been diving into Open Source. This year I concluded...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YwG3EFuo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9hc5tvw8nbmihzdznbtk.jpeg",
+  "slug": "beyond-hacktoberfest-4815",
+  "url": "https://dev.to/siren/beyond-hacktoberfest-4815",
+  "publish_date": "2023-11-03",
+  "published_at": "2023-11-03T11:39:43Z"
+ },
+ {
+  "id": 1655639,
+  "title": "Learning Journal: Creating an App for my wedding party",
+  "description": "I created an application for my wedding party. The repository           Objective   To host a wedding...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yf4npay1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hq71cilse1uj0ft03y1t.jpg",
+  "slug": "learning-journal-creating-an-app-for-my-wedding-party-5a3f",
+  "url": "https://dev.to/hirohata/learning-journal-creating-an-app-for-my-wedding-party-5a3f",
+  "publish_date": "2023-11-03",
+  "published_at": "2023-11-03T08:45:48Z"
+ },
+ {
+  "id": 1655610,
+  "title": "Moment.js Is Now Legacy Project | Alternatives?",
+  "description": "If your project deals with complex date and time then you probably have been use to of moment.js. Be...",
+  "cover_image": "",
+  "slug": "momentjs-is-now-legacy-project-alternatives-5738",
+  "url": "https://dev.to/shameel/momentjs-is-now-legacy-project-alternatives-5738",
+  "publish_date": "2023-11-03",
+  "published_at": "2023-11-03T07:39:20Z"
+ },
+ {
+  "id": 1655509,
+  "title": "10 Tips and Tricks With JavaScript Objects",
+  "description": "An object is the basic building block of programs in JavaScript, used in building classes and complex...",
+  "cover_image": "",
+  "slug": "10-tips-and-tricks-with-javascript-objects-3al0",
+  "url": "https://dev.to/xuho/10-tips-and-tricks-with-javascript-objects-3al0",
+  "publish_date": "2023-11-03",
+  "published_at": "2023-11-03T05:10:29Z"
+ },
+ {
   "id": 1651797,
   "title": "Implementing Feature Flags with Next.js and App Router",
   "description": "Combining the power of Vercel and Flagsmith to build and deploy a config controlled application",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sns-2b46",
   "publish_date": "2023-07-26",
   "published_at": "2023-07-26T09:52:05Z"
- },
- {
-  "id": 1548494,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-3a6o",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-3a6o",
-  "publish_date": "2023-07-25",
-  "published_at": "2023-07-25T15:08:22Z"
- },
- {
-  "id": 1544597,
-  "title": "🏆 Top 5 full-stack JS frameworks in 2023 - which one should you pick for your next project? 🤔",
-  "description": "In this post, we'll explore five of the top full-stack JavaScript frameworks of 2023 that every...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a6w3mWYK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wpt80izd6kdsfzrl9njh.png",
-  "slug": "top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6",
-  "url": "https://dev.to/matijasos/top-5-full-stack-js-frameworks-in-2023-which-one-should-you-pick-for-your-next-project-2ng6",
-  "publish_date": "2023-07-25",
-  "published_at": "2023-07-25T13:00:00Z"
- },
- {
-  "id": 1548371,
-  "title": "Enhancing TypeScript's Power: Unleashing the Practical Use of Generics",
-  "description": "In this article, I will show you some real-life examples of how Generics are used, based on my own...",
-  "cover_image": "",
-  "slug": "enhancing-typescripts-power-unleashing-the-practical-use-of-generics-d45",
-  "url": "https://dev.to/ultroneoustech/enhancing-typescripts-power-unleashing-the-practical-use-of-generics-d45",
-  "publish_date": "2023-07-25",
-  "published_at": "2023-07-25T11:23:08Z"
- },
- {
-  "id": 1548001,
-  "title": "What Are SOLID Design Principles",
-  "description": "SOLID is an acronym for the first five Object-Oriented design (OOD) principles by Robert C....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--El_4L7dt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/07rpmh6l2317qeeg5p1c.png",
-  "slug": "what-are-solid-design-principles-1n22",
-  "url": "https://dev.to/ggorantala/what-are-solid-design-principles-1n22",
-  "publish_date": "2023-07-25",
-  "published_at": "2023-07-25T04:38:11Z"
- },
- {
-  "id": 1547994,
-  "title": "How To Construct An Array-Like Data Structure?",
-  "description": "You will learn to implement a custom array-like data structure and basic array operations.          ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IipG8bkA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/513ark7gef5gwlsx14ca.png",
-  "slug": "how-to-construct-an-array-like-data-structure-255k",
-  "url": "https://dev.to/ggorantala/how-to-construct-an-array-like-data-structure-255k",
-  "publish_date": "2023-07-25",
-  "published_at": "2023-07-25T04:13:32Z"
  }
 ]
