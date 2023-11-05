@@ -1,5 +1,55 @@
 [
  {
+  "id": 1656949,
+  "title": "Hate on Tailwind... I have seen that before!",
+  "description": "In 2013, a company called Facebook introduced a framework called \"React,\" which allowed developers to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hddg9436--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iwhf2iup9atske5bzbqk.png",
+  "slug": "hate-on-tailwind-i-have-seen-that-before-549i",
+  "url": "https://dev.to/nickgabe/hate-on-tailwind-i-have-seen-that-before-549i",
+  "publish_date": "2023-11-04",
+  "published_at": "2023-11-04T17:50:20Z"
+ },
+ {
+  "id": 1656835,
+  "title": "Day 81: Web Workers",
+  "description": "What are Web Workers? 🛠️   Web Workers are a browser feature that allows you to run...",
+  "cover_image": "",
+  "slug": "day-81-web-workers-4ec0",
+  "url": "https://dev.to/dhrn/day-81-web-workers-4ec0",
+  "publish_date": "2023-11-04",
+  "published_at": "2023-11-04T14:00:00Z"
+ },
+ {
+  "id": 1656625,
+  "title": "🧹🧹 Sanitizing user input with OpenAI under $1",
+  "description": "The objective of this task is to extract a person's name correctly as it appears on LinkedIn. For...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r133xWsz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nhpf3aprahhl6lmqec6w.jpg",
+  "slug": "sanitizing-any-user-input-with-openai-under-1-3ief",
+  "url": "https://dev.to/bolshchikov/sanitizing-any-user-input-with-openai-under-1-3ief",
+  "publish_date": "2023-11-04",
+  "published_at": "2023-11-04T08:03:38Z"
+ },
+ {
+  "id": 1656592,
+  "title": "Top 10 JavaScript Frameworks to Master – Which One Leads in 2023?",
+  "description": "JavaScript frameworks are like the Marvel Universe; there’s a hero for every scenario, and...",
+  "cover_image": "",
+  "slug": "top-10-javascript-frameworks-to-master-which-one-leads-in-2023-5h40",
+  "url": "https://dev.to/delia_code/top-10-javascript-frameworks-to-master-which-one-leads-in-2023-5h40",
+  "publish_date": "2023-11-04",
+  "published_at": "2023-11-04T07:05:39Z"
+ },
+ {
+  "id": 1656510,
+  "title": "My first npm package",
+  "description": "Recently, I was looking for an API that provided country and city data, but I couldn't find anything...",
+  "cover_image": "",
+  "slug": "my-first-npm-package-aae",
+  "url": "https://dev.to/rafaelmagalhaes/my-first-npm-package-aae",
+  "publish_date": "2023-11-04",
+  "published_at": "2023-11-04T03:43:10Z"
+ },
+ {
   "id": 1656266,
   "title": "Every GitHub Repo 404 😱",
   "description": "This may be over by the time you read this, but every repo on GitHub appears to be 404ing right now.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/livecycle/why-developers-should-use-preview-environments-31io",
   "publish_date": "2023-07-27",
   "published_at": "2023-07-27T07:52:00Z"
- },
- {
-  "id": 1549678,
-  "title": "Cursive - The intuitive LLM framework",
-  "description": "When interfacing with LLMs, builders often find themselves between using extremely bloated frameworks...",
-  "cover_image": "",
-  "slug": "cursive-the-intuitive-llm-framework-2b05",
-  "url": "https://dev.to/henrycunh/cursive-the-intuitive-llm-framework-2b05",
-  "publish_date": "2023-07-26",
-  "published_at": "2023-07-26T13:57:50Z"
- },
- {
-  "id": 1537426,
-  "title": "How to Change a Webpage UI with a Chrome Extension",
-  "description": "Have you ever wondered how chrome extensions can change the UI of some of your favorite websites,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_pdSAn6K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecq4mz0ip2wu89uomfgh.png",
-  "slug": "how-to-change-a-webpage-ui-with-a-chrome-extension-jn8",
-  "url": "https://dev.to/opensauced/how-to-change-a-webpage-ui-with-a-chrome-extension-jn8",
-  "publish_date": "2023-07-26",
-  "published_at": "2023-07-26T13:54:46Z"
- },
- {
-  "id": 1549567,
-  "title": "Kube or Fake: A Kubernetes Minigame",
-  "description": "Raftt is excited to announce the launch of Kube or Fake?, our latest web mini-game. In this game, you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rIvKZiTS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hp5iy7kw0980h19p8c5y.png",
-  "slug": "kube-or-fake-a-kubernetes-minigame-52jf",
-  "url": "https://dev.to/gsaraf/kube-or-fake-a-kubernetes-minigame-52jf",
-  "publish_date": "2023-07-26",
-  "published_at": "2023-07-26T12:15:02Z"
- },
- {
-  "id": 1529199,
-  "title": "How we made the new report feature of sls-mentor",
-  "description": "Feature insight: sls-mentor awesome new report",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GIxQgB0u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/QuentinNativel/articles/master/blog-posts/cli-reporting/assets/dummy-report-100.png",
-  "slug": "generate-pretty-reports-from-your-cli-tool-1m83",
-  "url": "https://dev.to/kumo/generate-pretty-reports-from-your-cli-tool-1m83",
-  "publish_date": "2023-07-26",
-  "published_at": "2023-07-26T11:51:16Z"
- },
- {
-  "id": 1515616,
-  "title": "Learn serverless on AWS step-by-step - SNS",
-  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YuIsSJwl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/sns/assets/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-sns-2b46",
-  "url": "https://dev.to/kumo/learn-serverless-on-aws-step-by-step-sns-2b46",
-  "publish_date": "2023-07-26",
-  "published_at": "2023-07-26T09:52:05Z"
  }
 ]
