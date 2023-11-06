@@ -1,5 +1,55 @@
 [
  {
+  "id": 1657531,
+  "title": "How Creating Content as a Developer Changed My Life",
+  "description": "Hello everyone, I want to encourage some of you who want to start a career in coding but find it...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PsJzM9dj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8mrkymcouz2loogxly59.png",
+  "slug": "how-creating-content-as-a-developer-changed-my-life-270e",
+  "url": "https://dev.to/chaoocharles/how-creating-content-as-a-developer-changed-my-life-270e",
+  "publish_date": "2023-11-05",
+  "published_at": "2023-11-05T15:02:47Z"
+ },
+ {
+  "id": 1645515,
+  "title": "What's New in StateAdapt 2.0.0",
+  "description": "Three weeks ago, StateAdapt released a new major version.  The main changes here is a rework of the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zNAAgfEy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s38skj9pngnrjeuu5807.png",
+  "slug": "whats-new-in-stateadapt-200-adapt-rework-42g9",
+  "url": "https://dev.to/this-is-angular/whats-new-in-stateadapt-200-adapt-rework-42g9",
+  "publish_date": "2023-11-05",
+  "published_at": "2023-11-05T13:00:00Z"
+ },
+ {
+  "id": 1657235,
+  "title": "🟢 GitHub Workflows reimagined - A visual node system for GitHub workflows",
+  "description": "Hey folks! 👋  In this blog post I would like to talk about GitHub workflows and how I believe they...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EjMVHvXL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iqkoohb46cui323b1u53.png",
+  "slug": "github-workflows-reimagined-a-visual-node-system-for-github-workflows-18a3",
+  "url": "https://dev.to/sebastianrath/github-workflows-reimagined-a-visual-node-system-for-github-workflows-18a3",
+  "publish_date": "2023-11-05",
+  "published_at": "2023-11-05T12:49:01Z"
+ },
+ {
+  "id": 1657356,
+  "title": "I built a Snake Game in React",
+  "description": "TL;DR: I built this classic \"Snake Game\" using React, HTML Canvas, and TypeScript. No third-party...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jvcrysTS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/70d2gk7bi22frn30q5qo.jpg",
+  "slug": "i-built-a-snake-game-in-react-48b6",
+  "url": "https://dev.to/menard_codes/i-built-a-snake-game-in-react-48b6",
+  "publish_date": "2023-11-05",
+  "published_at": "2023-11-05T09:46:44Z"
+ },
+ {
+  "id": 1656921,
+  "title": "[Beginner Friendly] Transform Your Web App with Formbricks Surveys: A Must-Know Guide🔥🔥🔥",
+  "description": "Welcome 👋 to this blog. In this blog we will learn how to integrate Formbricks Surveys within your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3W5j6dCD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kkao0ku5x0y8bkf0kup1.png",
+  "slug": "beginner-friendly-transform-your-web-app-with-formbricks-surveys-a-must-know-guide-3a4i",
+  "url": "https://dev.to/ankur0904/beginner-friendly-transform-your-web-app-with-formbricks-surveys-a-must-know-guide-3a4i",
+  "publish_date": "2023-11-05",
+  "published_at": "2023-11-05T06:45:03Z"
+ },
+ {
   "id": 1656949,
   "title": "Hate on Tailwind... I have seen that before!",
   "description": "In 2013, a company called Facebook introduced a framework called \"React,\" which allowed developers to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pradumnasaraf/mastering-git-shortcuts-a-guide-to-git-aliases-324j",
   "publish_date": "2023-07-28",
   "published_at": "2023-07-28T06:59:13Z"
- },
- {
-  "id": 1550865,
-  "title": "Benchmarking String Literal (\"\") vs Template Literal (``) - using Performance.now()",
-  "description": "Let's talk about String in JavaScript. There are 2 ways developers can define a string:  a. Using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YzLlXzwX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eht7bgs0rs3z00zz3dtv.png",
-  "slug": "benchmarking-string-literal-vs-template-literal-using-performancenow-49gh",
-  "url": "https://dev.to/maafaishal/benchmarking-string-literal-vs-template-literal-using-performancenow-49gh",
-  "publish_date": "2023-07-27",
-  "published_at": "2023-07-27T12:25:47Z"
- },
- {
-  "id": 1550771,
-  "title": "Debugging Simplified with console.ai()",
-  "description": "Debugging often feels to me like finding a needle in a haystack, which is why we did this new tool,...",
-  "cover_image": "",
-  "slug": "debugging-simplified-with-consoleai-5ekc",
-  "url": "https://dev.to/victorforissier/debugging-simplified-with-consoleai-5ekc",
-  "publish_date": "2023-07-27",
-  "published_at": "2023-07-27T12:13:48Z"
- },
- {
-  "id": 1544546,
-  "title": "Apache APISIX without etcd",
-  "description": "etcd is an excellent key-value distributed database used internally by Kubernetes and managed by the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--To2qFKlH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7203najy6l2dmydkdb62.jpg",
-  "slug": "apache-apisix-without-etcd-221f",
-  "url": "https://dev.to/apisix/apache-apisix-without-etcd-221f",
-  "publish_date": "2023-07-27",
-  "published_at": "2023-07-27T08:40:43Z"
- },
- {
-  "id": 1550564,
-  "title": "LLM(Large Language Models) for better developer learning of your product",
-  "description": "Developing a tech product is not just about coding and deployment. It’s about the learning journey...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-AB26nh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4ar4az25skroyri8jzeg.png",
-  "slug": "llmlarge-language-models-for-better-developer-learning-of-your-product-2aa8",
-  "url": "https://dev.to/bobur/llmlarge-language-models-for-better-developer-learning-of-your-product-2aa8",
-  "publish_date": "2023-07-27",
-  "published_at": "2023-07-27T07:59:21Z"
- },
- {
-  "id": 1550558,
-  "title": "Why Developers Should Use Preview Environments",
-  "description": "Check out the latest episode in the Open Source Cafe podcast, where Assaf Krintza (@assafkr -...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ehW9FVPE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1m75wmv8f6leym8qtcku.jpeg",
-  "slug": "why-developers-should-use-preview-environments-31io",
-  "url": "https://dev.to/livecycle/why-developers-should-use-preview-environments-31io",
-  "publish_date": "2023-07-27",
-  "published_at": "2023-07-27T07:52:00Z"
  }
 ]
