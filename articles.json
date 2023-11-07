@@ -1,5 +1,55 @@
 [
  {
+  "id": 1654768,
+  "title": "[Alien Hunter Series Pt. 1] Mastering the COBOL Programming Language",
+  "description": "The Story   The year is 2077. The soft hum of futuristic machinery is drowned out by the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BdAAad_---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f3y1jii8ysgxd1755f3y.gif",
+  "slug": "alien-hunter-series-pt-1-mastering-the-cobol-programming-language-3kmh",
+  "url": "https://dev.to/github20k/alien-hunter-series-pt-1-mastering-the-cobol-programming-language-3kmh",
+  "publish_date": "2023-11-06",
+  "published_at": "2023-11-06T16:36:25Z"
+ },
+ {
+  "id": 1658510,
+  "title": "5 Open-Source Repositories for Faster Development in Monolithic Architecture",
+  "description": "Many companies choose to level up their feature flags and come to Flagsmith because they’re moving...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--coCUczZL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5u87op71hqa6tb7kkkhc.png",
+  "slug": "5-open-source-repositories-for-faster-development-in-monolithic-architecture-52c0",
+  "url": "https://dev.to/flagsmith/5-open-source-repositories-for-faster-development-in-monolithic-architecture-52c0",
+  "publish_date": "2023-11-06",
+  "published_at": "2023-11-06T15:29:01Z"
+ },
+ {
+  "id": 1657649,
+  "title": "🕵️ 6 Top-Secret Open-Source Projects You Didn't Know About 🤔",
+  "description": "As a developer who went through a bootcamp a few years ago, I can tell you the number one subject...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IeZn0bYX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6kr15op43l79qg3yp59a.gif",
+  "slug": "6-top-secret-open-source-projects-you-didnt-know-about-291j",
+  "url": "https://dev.to/nathan_tarbert/6-top-secret-open-source-projects-you-didnt-know-about-291j",
+  "publish_date": "2023-11-06",
+  "published_at": "2023-11-06T14:11:34Z"
+ },
+ {
+  "id": 1654639,
+  "title": "💨 How to know what's going on in your cloud 🌥️⚡️",
+  "description": "TL;DR   Today, you will learn about the world of open-source observability. In this guide,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TitqS-MU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/24ckrp1lyzcxch6n412e.gif",
+  "slug": "how-to-know-whats-going-on-in-your-cloud-dn6",
+  "url": "https://dev.to/odigos/how-to-know-whats-going-on-in-your-cloud-dn6",
+  "publish_date": "2023-11-06",
+  "published_at": "2023-11-06T11:51:04Z"
+ },
+ {
+  "id": 1657979,
+  "title": "⭐ 9 Open Source tools to take your AI app to the next level 🚀🤖",
+  "description": "The AI ecosystem is booming.   If you've started building AI-powered apps, you might have missed some...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d1RlE05D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4q6idghlu7wznrxreyfj.png",
+  "slug": "10-open-source-tools-to-take-your-ai-app-to-the-next-level-59b7",
+  "url": "https://dev.to/llmonitor/10-open-source-tools-to-take-your-ai-app-to-the-next-level-59b7",
+  "publish_date": "2023-11-06",
+  "published_at": "2023-11-06T06:43:03Z"
+ },
+ {
   "id": 1657531,
   "title": "How Creating Content as a Developer Changed My Life",
   "description": "Hello everyone, I want to encourage some of you who want to start a career in coding but find it...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/haszankauna/building-a-slack-bot-in-python-146d",
   "publish_date": "2023-07-29",
   "published_at": "2023-07-29T00:57:28Z"
- },
- {
-  "id": 1552320,
-  "title": "Featured Mod of the Month: Thomas Bnt",
-  "description": "In this series, we shine a spotlight on the different DEV moderators — Trusted Members and Tag Mods —...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---6igpO2X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tef4uuh9jwfg5dpz6gzg.jpeg",
-  "slug": "featured-mod-of-the-month-thomas-bnt-4lo3",
-  "url": "https://dev.to/devteam/featured-mod-of-the-month-thomas-bnt-4lo3",
-  "publish_date": "2023-07-28",
-  "published_at": "2023-07-28T18:09:01Z"
- },
- {
-  "id": 1552213,
-  "title": "Building Resilient Systems with Idempotent APIs",
-  "description": "Networks are unreliable but our systems cannot be.            What is Idempotency?   Idempotency is...",
-  "cover_image": "",
-  "slug": "building-resilient-systems-with-idempotent-apis-5e5p",
-  "url": "https://dev.to/karishmashukla/building-resilient-systems-with-idempotent-apis-5e5p",
-  "publish_date": "2023-07-28",
-  "published_at": "2023-07-28T15:21:47Z"
- },
- {
-  "id": 1518946,
-  "title": "What was your win this week?",
-  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vsTDfqRZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyck78r593005hlbngyn.jpg",
-  "slug": "what-was-your-win-this-week-5fll",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-5fll",
-  "publish_date": "2023-07-28",
-  "published_at": "2023-07-28T09:30:00Z"
- },
- {
-  "id": 1529959,
-  "title": "Assertions: How to Assert Conditions and Types",
-  "description": "The asserts statement was introduced in TypeScript 3.7. It's a special type of function signature...",
-  "cover_image": "",
-  "slug": "assertions-how-to-assert-conditions-and-types-mep",
-  "url": "https://dev.to/zirkelc/assertions-how-to-assert-conditions-and-types-mep",
-  "publish_date": "2023-07-28",
-  "published_at": "2023-07-28T08:34:01Z"
- },
- {
-  "id": 1551687,
-  "title": "Mastering Git Shortcuts: A Guide to Git Aliases",
-  "description": "Are you tired of typing lengthy Git commands? Git aliases are here to save the day! They let you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zyu15zrt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5oib7pb2ixwqitvdux7p.png",
-  "slug": "mastering-git-shortcuts-a-guide-to-git-aliases-324j",
-  "url": "https://dev.to/pradumnasaraf/mastering-git-shortcuts-a-guide-to-git-aliases-324j",
-  "publish_date": "2023-07-28",
-  "published_at": "2023-07-28T06:59:13Z"
  }
 ]
