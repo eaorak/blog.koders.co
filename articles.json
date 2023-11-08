@@ -1,5 +1,55 @@
 [
  {
+  "id": 1659698,
+  "title": "A Complete Guide to Getting Started in Open Source",
+  "description": "Getting started in Open Source can be hard. Here's a list of resources to help you get started.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nhGHmPzV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s4scg75jzjobu10nytws.png",
+  "slug": "a-complete-guide-to-getting-started-in-open-source-2449",
+  "url": "https://dev.to/opensauced/a-complete-guide-to-getting-started-in-open-source-2449",
+  "publish_date": "2023-11-07",
+  "published_at": "2023-11-07T16:31:59Z"
+ },
+ {
+  "id": 1658201,
+  "title": "A guide to Auth \u0026 Access Control in web apps 🔐",
+  "description": "At Wasp, we are working on a config language / DSL for building web apps that integrates with React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H5VOEGdv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u32isresapnjcm31t2eu.png",
+  "slug": "a-guide-to-auth-access-control-in-web-apps-2410",
+  "url": "https://dev.to/wasp/a-guide-to-auth-access-control-in-web-apps-2410",
+  "publish_date": "2023-11-07",
+  "published_at": "2023-11-07T13:00:00Z"
+ },
+ {
+  "id": 1659293,
+  "title": "Mojo - A New Programming Language for AI",
+  "description": "What is Mojo?             Mojo is a programming language that combines the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OJYx-Ea2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y6curwghezn55t7dxukl.png",
+  "slug": "mojo-a-new-programming-language-for-ai-16n5",
+  "url": "https://dev.to/refine/mojo-a-new-programming-language-for-ai-16n5",
+  "publish_date": "2023-11-07",
+  "published_at": "2023-11-07T10:53:39Z"
+ },
+ {
+  "id": 1659278,
+  "title": "17 Essential Tools to Boost Your Productivity 🚀🔥",
+  "description": "In today's fast-paced world, there's a vast array of productivity tools at our disposal, designed to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wP48g-um--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zfzl1bmezdynbmhj5smy.png",
+  "slug": "17-essential-tools-to-boost-your-productivity-4ncl",
+  "url": "https://dev.to/madza/17-essential-tools-to-boost-your-productivity-4ncl",
+  "publish_date": "2023-11-07",
+  "published_at": "2023-11-07T10:43:39Z"
+ },
+ {
+  "id": 1659156,
+  "title": "MDB React v.7 is out!",
+  "description": "MDB React v.7 is out. Highlights:   Renamed dist output file extension from .js to .cjs Added...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CWCrBLdm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cnc339mim88df204hkbr.png",
+  "slug": "mdb-react-v7-is-out-3g09",
+  "url": "https://dev.to/mdbootstrap/mdb-react-v7-is-out-3g09",
+  "publish_date": "2023-11-07",
+  "published_at": "2023-11-07T08:09:01Z"
+ },
+ {
   "id": 1654768,
   "title": "[Alien Hunter Series Pt. 1] Mastering the COBOL Programming Language",
   "description": "The Story   The year is 2077. The soft hum of futuristic machinery is drowned out by the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/godot/godot-docs-app-your-offline-godot-engine-documentation-companion-cpe",
   "publish_date": "2023-07-31",
   "published_at": "2023-07-31T11:55:57Z"
- },
- {
-  "id": 1552987,
-  "title": "Design Patterns in PHP 8: Simple factory",
-  "description": "Hello, fellow developers!🧑🏼‍💻  Today, we're going to delve into the Simple Factory pattern. This...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_0kvn3PS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g4v2tqx3h1obq82ayzc2.jpg",
-  "slug": "design-patterns-in-php-8-simple-factory-o0l",
-  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-simple-factory-o0l",
-  "publish_date": "2023-07-29",
-  "published_at": "2023-07-29T23:04:56Z"
- },
- {
-  "id": 1553299,
-  "title": "Work Types.",
-  "description": "Many People start working but they don't know the different types of they can do, here we can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lZlcS89c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qbi3fx0mxmabh313sbkz.jpg",
-  "slug": "work-types-1564",
-  "url": "https://dev.to/hasanelsherbiny/work-types-1564",
-  "publish_date": "2023-07-29",
-  "published_at": "2023-07-29T17:20:34Z"
- },
- {
-  "id": 1553172,
-  "title": "Website cookies 🍪",
-  "description": "Hi there, My name is Wonuola; I’m a front-end developer, a podcaster, and a writer. I want to start...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QdyfSqLl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/27yfp02lmrkmkptywl5g.png",
-  "slug": "website-cookies-3l2g",
-  "url": "https://dev.to/wonuola_w/website-cookies-3l2g",
-  "publish_date": "2023-07-29",
-  "published_at": "2023-07-29T13:38:09Z"
- },
- {
-  "id": 1553083,
-  "title": "[Typia] Hidden Class Optimization of v8 Engine",
-  "description": "Preface      // RUNTIME VALIDATORS export function is\u0026lt;T\u0026gt;(input: unknown | T): input is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AKKjf45g--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zgfggvrkoj4osgtejojc.jpg",
-  "slug": "secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb",
-  "url": "https://dev.to/samchon/secret-of-typia-how-it-could-be-20000x-faster-validator-hidden-class-optimization-in-v8-engine-1mfb",
-  "publish_date": "2023-07-29",
-  "published_at": "2023-07-29T09:41:47Z"
- },
- {
-  "id": 1540249,
-  "title": "Building a Slack Bot in Python",
-  "description": "Introduction   In this article, we will be building a bot in python using the Slack API....",
-  "cover_image": "",
-  "slug": "building-a-slack-bot-in-python-146d",
-  "url": "https://dev.to/haszankauna/building-a-slack-bot-in-python-146d",
-  "publish_date": "2023-07-29",
-  "published_at": "2023-07-29T00:57:28Z"
  }
 ]
