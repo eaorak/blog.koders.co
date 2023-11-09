@@ -1,5 +1,55 @@
 [
  {
+  "id": 1660495,
+  "title": "Function Calling and Code Interpretation with OpenAI's Assistant API: A Quick and Simple Tutorial",
+  "description": "Introduction   OpenAI's devday conference made waves in the tech world as they rolled out a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B2KaBxhZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lx427h0lde3m4uf44yb8.jpg",
+  "slug": "function-calling-and-code-interpretation-with-openais-assistant-api-a-quick-and-simple-tutorial-5ce5",
+  "url": "https://dev.to/airtai/function-calling-and-code-interpretation-with-openais-assistant-api-a-quick-and-simple-tutorial-5ce5",
+  "publish_date": "2023-11-08",
+  "published_at": "2023-11-08T15:14:21Z"
+ },
+ {
+  "id": 1658720,
+  "title": "🕵️ Looking at the top 5 FREE Alternatives to Postman 🔥",
+  "description": "Hey friends 👋  This week, we're diving into the best free alternatives to POSTMAN that are perfect...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--esY8k9P0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6kivyhq8po3fzve4hate.png",
+  "slug": "looking-at-the-top-5-free-alternatives-to-postman-58jl",
+  "url": "https://dev.to/quine/looking-at-the-top-5-free-alternatives-to-postman-58jl",
+  "publish_date": "2023-11-08",
+  "published_at": "2023-11-08T15:13:19Z"
+ },
+ {
+  "id": 1659892,
+  "title": "Learn serverless on AWS step-by-step: Upload files on S3",
+  "description": "Learn how to upload files on S3 from a React application, using a Lambda function and a presigned URL",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uqVcQflt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/s3-upload/assets/cover-img.png",
+  "slug": "learn-serverless-on-aws-step-by-step-upload-files-on-s3-50d4",
+  "url": "https://dev.to/pchol22/learn-serverless-on-aws-step-by-step-upload-files-on-s3-50d4",
+  "publish_date": "2023-11-08",
+  "published_at": "2023-11-08T12:45:02Z"
+ },
+ {
+  "id": 1654973,
+  "title": "🚀Creating a resume builder with NextJS, Trigger.dev and GPT4🔥✨",
+  "description": "TL;DR   In this article, you will learn how to create a resume builder using NextJS,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mdXj3oXW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5siewgcgkqpwmlh49wx.gif",
+  "slug": "creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf",
+  "url": "https://dev.to/triggerdotdev/creating-a-resume-builder-with-nextjs-triggerdev-and-gpt4-4gmf",
+  "publish_date": "2023-11-08",
+  "published_at": "2023-11-08T12:07:21Z"
+ },
+ {
+  "id": 1660420,
+  "title": "Building a React Web App with a Go Backend",
+  "description": "This is a quick guide on how to create and deploy a web app using a React frontend and a Go backend....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zqKjbq0v--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zs9pa07allptlkodx84w.png",
+  "slug": "building-a-react-web-app-with-a-go-backend-2bdn",
+  "url": "https://dev.to/encore/building-a-react-web-app-with-a-go-backend-2bdn",
+  "publish_date": "2023-11-08",
+  "published_at": "2023-11-08T10:19:19Z"
+ },
+ {
   "id": 1659698,
   "title": "A Complete Guide to Getting Started in Open Source",
   "description": "Getting started in Open Source can be hard. Here's a list of resources to help you get started.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071",
   "publish_date": "2023-08-01",
   "published_at": "2023-08-01T11:01:18Z"
- },
- {
-  "id": 1554810,
-  "title": "Coding Education for All: Join us in supporting The Odin Project",
-  "description": "Today, we are delighted to announce a significant milestone in The Odin Project's journey – we are...",
-  "cover_image": "",
-  "slug": "coding-education-for-all-join-us-in-supporting-the-odin-project-3ilp",
-  "url": "https://dev.to/theodinproject/coding-education-for-all-join-us-in-supporting-the-odin-project-3ilp",
-  "publish_date": "2023-07-31",
-  "published_at": "2023-07-31T14:50:20Z"
- },
- {
-  "id": 1553696,
-  "title": "🔥 Building an email automation system with React Flow and Resend 🎉",
-  "description": "TL;DR   In this tutorial, you'll learn how to build an email automation system to message...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y_b8D-ga--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wu21gqvkczcec6zyk8ib.png",
-  "slug": "building-an-email-automation-system-with-react-flow-and-resend-17b5",
-  "url": "https://dev.to/novu/building-an-email-automation-system-with-react-flow-and-resend-17b5",
-  "publish_date": "2023-07-31",
-  "published_at": "2023-07-31T12:44:48Z"
- },
- {
-  "id": 1554465,
-  "title": "Building an HackerNews to Discord notification system using Node.js, node-cron and discord-notification.",
-  "description": "TL;DR   In this article I am going to show how to build a simple service which monitors our...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1h_zWh8T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d327y47e3ew6utaa0alu.png",
-  "slug": "building-an-hackernews-to-discord-notification-system-using-nodejs-node-cron-and-discord-notification-3087",
-  "url": "https://dev.to/dev_bre/building-an-hackernews-to-discord-notification-system-using-nodejs-node-cron-and-discord-notification-3087",
-  "publish_date": "2023-07-31",
-  "published_at": "2023-07-31T12:30:16Z"
- },
- {
-  "id": 1554595,
-  "title": "Demystifying NestJS WebSocket Gateways: A Step-by-Step Guide to Effective Testing",
-  "description": "Introduction   In the ever-evolving world of real-time applications, WebSocket communication...",
-  "cover_image": "",
-  "slug": "demystifying-nestjs-websocket-gateways-a-step-by-step-guide-to-effective-testing-1a1f",
-  "url": "https://dev.to/jfrancai/demystifying-nestjs-websocket-gateways-a-step-by-step-guide-to-effective-testing-1a1f",
-  "publish_date": "2023-07-31",
-  "published_at": "2023-07-31T12:10:07Z"
- },
- {
-  "id": 1554456,
-  "title": "Godot Docs App: Your Offline Godot Engine Documentation Companion!",
-  "description": "Are you a Godot Engine enthusiast, game developer, or aspiring game creator looking for a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmYuAEyS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ct9mkqqo8qsu9vx212qm.jpg",
-  "slug": "godot-docs-app-your-offline-godot-engine-documentation-companion-cpe",
-  "url": "https://dev.to/godot/godot-docs-app-your-offline-godot-engine-documentation-companion-cpe",
-  "publish_date": "2023-07-31",
-  "published_at": "2023-07-31T11:55:57Z"
  }
 ]
