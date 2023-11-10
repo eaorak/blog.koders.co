@@ -1,5 +1,55 @@
 [
  {
+  "id": 1662198,
+  "title": "ES6 Features You Didn't Know You Needed: A JavaScript Guide for Beginners",
+  "description": "The release of ECMAScript 2015, popularly known as ES6 was a defining moment in JavaScript's recent...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--64Xn7vS1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3sm73jubwy5cedsmjo5v.jpeg",
+  "slug": "es6-features-you-didnt-know-you-needed-a-javascript-guide-for-beginners-543e",
+  "url": "https://dev.to/opensign/es6-features-you-didnt-know-you-needed-a-javascript-guide-for-beginners-543e",
+  "publish_date": "2023-11-09",
+  "published_at": "2023-11-09T19:54:01Z"
+ },
+ {
+  "id": 1659489,
+  "title": "Future of AI Development: CodiumAI's VSCode extension",
+  "description": "Writing reliable and error-free code is a never-ending task in the fast-paced field of software...",
+  "cover_image": "",
+  "slug": "future-of-ai-development-codiumais-vscode-extension-36n2",
+  "url": "https://dev.to/qbentil/future-of-ai-development-codiumais-vscode-extension-36n2",
+  "publish_date": "2023-11-09",
+  "published_at": "2023-11-09T12:40:27Z"
+ },
+ {
+  "id": 1661717,
+  "title": "React Design Patterns",
+  "description": "Author: Peter Osah          Introduction:   React developers can save time and effort by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dqp05Ylg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/socf61atpni6b21f8co4.png",
+  "slug": "react-design-patterns-230o",
+  "url": "https://dev.to/refine/react-design-patterns-230o",
+  "publish_date": "2023-11-09",
+  "published_at": "2023-11-09T10:53:59Z"
+ },
+ {
+  "id": 1656693,
+  "title": "API versioning",
+  "description": "In my previous post Evolving your APIs, I mention the main API versioning approaches. During the talk...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vZDr1lRh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dofbam0bspknjxn2t14o.jpg",
+  "slug": "api-versioning-3p6p",
+  "url": "https://dev.to/apisix/api-versioning-3p6p",
+  "publish_date": "2023-11-09",
+  "published_at": "2023-11-09T09:02:00Z"
+ },
+ {
+  "id": 1661373,
+  "title": "Unlocking the Power of Open Source: How to Get Involved and Why It Matters",
+  "description": "Open source is the pulse of the modern software ecosystem. From tiny libraries to operating system...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gAZxUtOV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8dov0z0wvdf3cra4c2g7.jpeg",
+  "slug": "unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68",
+  "url": "https://dev.to/opensign/unlocking-the-power-of-open-source-how-to-get-involved-and-why-it-matters-2b68",
+  "publish_date": "2023-11-09",
+  "published_at": "2023-11-09T05:17:33Z"
+ },
+ {
   "id": 1660495,
   "title": "Function Calling and Code Interpretation with OpenAI's Assistant API: A Quick and Simple Tutorial",
   "description": "Introduction   OpenAI's devday conference made waves in the tech world as they rolled out a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8",
   "publish_date": "2023-08-02",
   "published_at": "2023-08-02T07:03:17Z"
- },
- {
-  "id": 1555891,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-5b4g",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-5b4g",
-  "publish_date": "2023-08-01",
-  "published_at": "2023-08-01T16:33:36Z"
- },
- {
-  "id": 1555217,
-  "title": "Explore Our World of Badges \u0026 Influence the Next Addition! 🏅🌟",
-  "description": "Hey there, awesome DEV Community members!  Did you know we have an array of amazing badges that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WvQ7_U83--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lc2oakqbygppjua30qra.jpg",
-  "slug": "explore-our-world-of-badges-influence-the-next-addition-1fnf",
-  "url": "https://dev.to/devteam/explore-our-world-of-badges-influence-the-next-addition-1fnf",
-  "publish_date": "2023-08-01",
-  "published_at": "2023-08-01T16:27:53Z"
- },
- {
-  "id": 1555666,
-  "title": "Tailscale vs ZeroTier",
-  "description": "Businesses have migrated towards a “remote first” and “cloud first” posture. In this world,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wG7j-f1d--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gugaoc2x2vyhmwj1wcep.png",
-  "slug": "tailscale-vs-zerotier-1m79",
-  "url": "https://dev.to/afeiszli/tailscale-vs-zerotier-1m79",
-  "publish_date": "2023-08-01",
-  "published_at": "2023-08-01T12:18:16Z"
- },
- {
-  "id": 1555670,
-  "title": "Smol AI 🐣 vs Wasp AI 🐝- Which is the Better AI Junior Developer?",
-  "description": "TL;DR   AI-assisted coding tools are on the rise. In this article, we take a deep dive into...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6ysm-w1u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ypid6vc7yfxuyxxf5t5h.png",
-  "slug": "smol-ai-vs-wasp-ai-which-is-the-better-ai-junior-developer-4fcb",
-  "url": "https://dev.to/wasp/smol-ai-vs-wasp-ai-which-is-the-better-ai-junior-developer-4fcb",
-  "publish_date": "2023-08-01",
-  "published_at": "2023-08-01T11:59:16Z"
- },
- {
-  "id": 1546282,
-  "title": "🚀 9 open-source libraries YOU HAVE to contribute to in 2023 🔥",
-  "description": "Every week I discover more and more awesome libraries that's not getting enough attention.  It's time...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---voe2LUw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vbhu2907fpwq0d64jdu9.png",
-  "slug": "9-open-source-libraries-you-have-to-contribute-to-in-2023-4071",
-  "url": "https://dev.to/github20k/9-open-source-libraries-you-have-to-contribute-to-in-2023-4071",
-  "publish_date": "2023-08-01",
-  "published_at": "2023-08-01T11:01:18Z"
  }
 ]
