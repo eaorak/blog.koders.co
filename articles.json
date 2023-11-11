@@ -1,5 +1,55 @@
 [
  {
+  "id": 1662974,
+  "title": "[Python 🐍 Mastery] Overview of Linked List in Python \u0026 Essential Linked List Operations 🛠️",
+  "description": "In the last article, we learned about Object Oriented Programming and had a mountain overview of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--epIuEQb5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxc6ivfk5qnvrvo5nf5n.gif",
+  "slug": "python-mastery-overview-of-linked-list-in-python-essential-linked-list-operations-hn3",
+  "url": "https://dev.to/swirl/python-mastery-overview-of-linked-list-in-python-essential-linked-list-operations-hn3",
+  "publish_date": "2023-11-10",
+  "published_at": "2023-11-10T17:07:32Z"
+ },
+ {
+  "id": 1663066,
+  "title": "DEV Community Contributor Spotlight: Christine Belzie",
+  "description": "DEV is a cool community because of the amazing people we have in it. There are so many different...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lnbe8F00--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x0r2nj1ycm06um2c6vev.png",
+  "slug": "dev-community-contributor-spotlight-christine-belzie-38bg",
+  "url": "https://dev.to/devteam/dev-community-contributor-spotlight-christine-belzie-38bg",
+  "publish_date": "2023-11-10",
+  "published_at": "2023-11-10T16:37:31Z"
+ },
+ {
+  "id": 1662981,
+  "title": "TW Elements new pricing plans announcement!",
+  "description": "But first things first: As you know, TWE is running on a AGPL license; A open-source license that...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6spWoH5U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vqxkjvcwkfu3qx4bhxx.png",
+  "slug": "tw-elements-new-pricing-plans-announcement-4da3",
+  "url": "https://dev.to/mz2387/tw-elements-new-pricing-plans-announcement-4da3",
+  "publish_date": "2023-11-10",
+  "published_at": "2023-11-10T14:54:53Z"
+ },
+ {
+  "id": 1662166,
+  "title": "Why is it so important to evaluate Large Language Models (LLMs)? 🤯🔥",
+  "description": "Evaluating LLMs is important, not just for deriving accurate results, but also to ensure the safety...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eKTxfkBp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5hwnarwnag32bcyuo1n.png",
+  "slug": "why-is-it-so-important-to-evaluate-large-language-models-llms-59jl",
+  "url": "https://dev.to/lucamartial/why-is-it-so-important-to-evaluate-large-language-models-llms-59jl",
+  "publish_date": "2023-11-10",
+  "published_at": "2023-11-10T12:56:35Z"
+ },
+ {
+  "id": 1662733,
+  "title": "Serverless at Scale: Lessons From 200 Million Lambda Invocations",
+  "description": "Serverless computing, with Lambda functions at the heart of it, has irrevocably changed the way we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bo-gAOZH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2iw5zfixw7ma7qzlgydu.gif",
+  "slug": "serverless-at-scale-lessons-from-200-million-lambda-invocations-46h3",
+  "url": "https://dev.to/adadot/serverless-at-scale-lessons-from-200-million-lambda-invocations-46h3",
+  "publish_date": "2023-11-10",
+  "published_at": "2023-11-10T11:15:42Z"
+ },
+ {
   "id": 1662198,
   "title": "ES6 Features You Didn't Know You Needed: A JavaScript Guide for Beginners",
   "description": "The release of ECMAScript 2015, popularly known as ES6 was a defining moment in JavaScript's recent...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/eevajonnapanula/more-accessible-graphs-with-jetpack-compose-part-2-adding-keyboard-interaction-1gpd",
   "publish_date": "2023-08-03",
   "published_at": "2023-08-03T03:04:54Z"
- },
- {
-  "id": 1555811,
-  "title": "Serialization and Deserialization in JavaScript",
-  "description": "As developers, we often hear about Serialization and Deserialization, but what do these terms really...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3KuNj6-L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4bkh6d9mapm3j2tvomaf.png",
-  "slug": "serialization-and-deserialization-in-javascript-3kdd",
-  "url": "https://dev.to/maafaishal/serialization-and-deserialization-in-javascript-3kdd",
-  "publish_date": "2023-08-02",
-  "published_at": "2023-08-02T14:03:44Z"
- },
- {
-  "id": 1552286,
-  "title": "How Open Source helped me get into the GitHub Octernships program.",
-  "description": "When I first got to know about the GitHub Octernships program, I was surprised by its focus on open...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UG09STPH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mjzhbz82jxc618nz8b45.png",
-  "slug": "how-open-source-helped-me-get-a-github-octernship-4f69",
-  "url": "https://dev.to/opensauced/how-open-source-helped-me-get-a-github-octernship-4f69",
-  "publish_date": "2023-08-02",
-  "published_at": "2023-08-02T13:02:00Z"
- },
- {
-  "id": 1556680,
-  "title": "Best CSS Animation on internet",
-  "description": "1. Animated Background with SVG in CSS   Output     Source Code                   2. CSS...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Mr3RwQ_6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ypmh5m8ici0z7akd8etb.jpg",
-  "slug": "best-css-animation-on-internet-1hd8",
-  "url": "https://dev.to/democode7451/best-css-animation-on-internet-1hd8",
-  "publish_date": "2023-08-02",
-  "published_at": "2023-08-02T11:15:48Z"
- },
- {
-  "id": 1556676,
-  "title": "Should New Developers Use AI Coding Tools?",
-  "description": "AI coding tools like GitHub Copilot, ChatGPT and similar tools took the software development world by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rbQXR7Gn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s69i88w09wfdymyc0ts5.png",
-  "slug": "should-new-developers-use-ai-coding-tools-2bfc",
-  "url": "https://dev.to/catalinpit/should-new-developers-use-ai-coding-tools-2bfc",
-  "publish_date": "2023-08-02",
-  "published_at": "2023-08-02T11:02:45Z"
- },
- {
-  "id": 1556137,
-  "title": "Chrome Debugger is easier to use than you might think",
-  "description": "Please, don’t tell me you’re still using console.log to debug your application.  Ok, everyone does...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1tJZBhea--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l959wz7npvpzvnyudvdy.png",
-  "slug": "chrome-debugger-is-easier-to-use-than-you-might-think-c8",
-  "url": "https://dev.to/this-is-learning/chrome-debugger-is-easier-to-use-than-you-might-think-c8",
-  "publish_date": "2023-08-02",
-  "published_at": "2023-08-02T07:03:17Z"
  }
 ]
