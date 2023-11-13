@@ -1,5 +1,55 @@
 [
  {
+  "id": 1663252,
+  "title": "Automating your API tests using Python and Pytest",
+  "description": "Did you ever thought how you can tests your APIs using python? In the article we will learn how we...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TPt-y4nR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mk3ipivpafhhd6p7asr3.png",
+  "slug": "automating-your-api-tests-using-python-and-pytest-23cc",
+  "url": "https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc",
+  "publish_date": "2023-11-12",
+  "published_at": "2023-11-12T18:50:49Z"
+ },
+ {
+  "id": 1664452,
+  "title": "Speed Up Hackathon Collaboration 🏃🤝",
+  "description": "The 2023 Docker AI/ML Hackathon   Docker recently completed their AI/ML Hackathon....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LC5XEsAn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/az6t0hlpt5la8j7pgr71.png",
+  "slug": "speed-up-hackathon-collaboration-2c1e",
+  "url": "https://dev.to/livecycle/speed-up-hackathon-collaboration-2c1e",
+  "publish_date": "2023-11-12",
+  "published_at": "2023-11-12T12:11:21Z"
+ },
+ {
+  "id": 1664443,
+  "title": "How to Evaluate LLM Applications",
+  "description": "ChatGPT, the leading code generator, has soared in popularity over the past year thanks to the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AGuAuzNp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mplo6fhc7w57vx2n67k.png",
+  "slug": "how-to-evaluate-llm-applications-5c92",
+  "url": "https://dev.to/guybuildingai/how-to-evaluate-llm-applications-5c92",
+  "publish_date": "2023-11-12",
+  "published_at": "2023-11-12T11:48:39Z"
+ },
+ {
+  "id": 1661922,
+  "title": "10 Useful Chrome Extensions for Web Developers",
+  "description": "Introduction   The web developer community strives to create websites that capture the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7EW8ped_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ycsu7xz0ltfcd0fm3p1.png",
+  "slug": "10-useful-chrome-extensions-for-web-developers-meg",
+  "url": "https://dev.to/this-is-learning/10-useful-chrome-extensions-for-web-developers-meg",
+  "publish_date": "2023-11-12",
+  "published_at": "2023-11-12T05:28:07Z"
+ },
+ {
+  "id": 1664212,
+  "title": "How I organize my CSS declarations 🗂️",
+  "description": "Hi folks! 👋 A while ago, I started adopting this little style convention in my CSS code, and I wanted...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qsiB41Rb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8x12lv6v117ugcwct8ci.png",
+  "slug": "how-i-organize-my-css-declarations-2d52",
+  "url": "https://dev.to/francescovetere/how-i-organize-my-css-declarations-2d52",
+  "publish_date": "2023-11-12",
+  "published_at": "2023-11-12T02:35:08Z"
+ },
+ {
   "id": 1663917,
   "title": "Secure your Web Applications with Facial Authentication",
   "description": "For the last three decades, web technology has remained relevant due to its versatile nature and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github/how-containerization-promotes-equity-in-tech-54h5",
   "publish_date": "2023-08-05",
   "published_at": "2023-08-05T00:42:47Z"
- },
- {
-  "id": 1559460,
-  "title": "Create End-to-End Channels in Rust with Ockam Routing",
-  "description": "build-trust        /          ockam                        Orchestrate...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o_T_NZJ2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cle2ag9tf9w8hu6yuuzq.png",
-  "slug": "create-end-to-end-channels-in-rust-with-ockam-routing-2740",
-  "url": "https://dev.to/build-trust/create-end-to-end-channels-in-rust-with-ockam-routing-2740",
-  "publish_date": "2023-08-04",
-  "published_at": "2023-08-04T19:49:47Z"
- },
- {
-  "id": 1559128,
-  "title": "Kumo becomes Serverless By Theodo ☁️",
-  "description": "I am thrilled to announce a significant transformation in our brand as Kumo evolves into Serverless...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--m7jsQfmJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hpamy5sdq9weodqvs2t7.png",
-  "slug": "kumo-becomes-serverless-by-theodo-5d6e",
-  "url": "https://dev.to/slsbytheodo/kumo-becomes-serverless-by-theodo-5d6e",
-  "publish_date": "2023-08-04",
-  "published_at": "2023-08-04T15:03:54Z"
- },
- {
-  "id": 1559029,
-  "title": "Understanding TypeScript “as” Keyword",
-  "description": "Overview   In TypeScript, the \"as\" keyword is used for type assertion, which allows us to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i6wpEcs7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jaha71mccl3tg1ifvxsg.png",
-  "slug": "understanding-typescript-as-keyword-11db",
-  "url": "https://dev.to/brainiacneit/understanding-typescript-as-keyword-11db",
-  "publish_date": "2023-08-04",
-  "published_at": "2023-08-04T14:18:54Z"
- },
- {
-  "id": 1558859,
-  "title": "tsParticles 2.12.0 Released",
-  "description": "tsParticles v2.12.0 Changelog            Bug Fixes    Fixed pool on particles destroyed by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ig8oQpf6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tw27udl7tg4nqde2903m.jpg",
-  "slug": "tsparticles-2120-released-hpf",
-  "url": "https://dev.to/tsparticles/tsparticles-2120-released-hpf",
-  "publish_date": "2023-08-04",
-  "published_at": "2023-08-04T08:09:23Z"
- },
- {
-  "id": 1558087,
-  "title": "Finding My Blogging Path: Lessons from My Journey",
-  "description": "If you’re starting out in writing, you probably have little idea about what to blog about and where...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lb1JHeG9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3pe8mmko8am24aezqhnp.jpg",
-  "slug": "finding-my-blogging-path-lessons-from-my-journey-31d1",
-  "url": "https://dev.to/danielrendox/finding-my-blogging-path-lessons-from-my-journey-31d1",
-  "publish_date": "2023-08-04",
-  "published_at": "2023-08-04T07:00:00Z"
  }
 ]
