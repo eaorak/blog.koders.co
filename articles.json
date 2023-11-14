@@ -1,5 +1,55 @@
 [
  {
+  "id": 1665685,
+  "title": "Compartilhando seu conhecimento com o mundo! Como escrever artigos",
+  "description": "Compartilhar conhecimento escrito é uma ótima forma de dominar um assunto específico, além de ser uma...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V8Dd6eOc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bd8lngzqqla0q7mh76yy.jpg",
+  "slug": "compartilhando-seu-conhecimento-com-o-mundo-como-escrever-artigos-5ghc",
+  "url": "https://dev.to/he4rt/compartilhando-seu-conhecimento-com-o-mundo-como-escrever-artigos-5ghc",
+  "publish_date": "2023-11-13",
+  "published_at": "2023-11-13T21:31:19Z"
+ },
+ {
+  "id": 1664805,
+  "title": "Deploy your first Node 20 Lambda function on AWS!",
+  "description": "AWS released an official Node 20 docker image for Lambda. Discover how to use it with ECR to deploy your first Node 20 Lambda function, before the managed runtime is released!",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_4xjJ6BL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/lambda-node-20/assets/cover.png",
+  "slug": "deploy-your-first-node-20-lambda-function-on-aws-2ac1",
+  "url": "https://dev.to/slsbytheodo/deploy-your-first-node-20-lambda-function-on-aws-2ac1",
+  "publish_date": "2023-11-13",
+  "published_at": "2023-11-13T12:54:47Z"
+ },
+ {
+  "id": 1662771,
+  "title": "🙌Top 10 🐍 Python libraries for any ML projects 🚀",
+  "description": "TL;DR   In this article, I’ll give you the ultimate Python libraries for any Machine...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--crFvvAfl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/45qrqmuezn96ste4aoqk.gif",
+  "slug": "top-10-python-libraries-for-any-ml-projects-3gfp",
+  "url": "https://dev.to/taipy/top-10-python-libraries-for-any-ml-projects-3gfp",
+  "publish_date": "2023-11-13",
+  "published_at": "2023-11-13T11:42:40Z"
+ },
+ {
+  "id": 1662292,
+  "title": "I have made 100+ CSS-only Ribbon Shapes | The Perfect Collection 🎀",
+  "description": "It's time for another collection! After the loaders, the hover effects, and the background patterns,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XC5FL5HA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xk4gxbqsdsa48ms2kst3.png",
+  "slug": "i-have-made-100-css-only-ribbon-shapes-the-perfect-collection-4374",
+  "url": "https://dev.to/afif/i-have-made-100-css-only-ribbon-shapes-the-perfect-collection-4374",
+  "publish_date": "2023-11-13",
+  "published_at": "2023-11-13T10:37:12Z"
+ },
+ {
+  "id": 1665040,
+  "title": "How Giskard got their first 1,200 stars!",
+  "description": "I have had the pleasure of talking to Blanca @ Marketing Manager at Giskard: a testing framework for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hXMwRdXN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0zpk04xdwtmuiwuk4y6.png",
+  "slug": "how-giskard-got-their-first-1200-stars-b8k",
+  "url": "https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k",
+  "publish_date": "2023-11-13",
+  "published_at": "2023-11-13T08:14:22Z"
+ },
+ {
   "id": 1663252,
   "title": "Automating your API tests using Python and Pytest",
   "description": "Did you ever thought how you can tests your APIs using python? In the article we will learn how we...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0",
   "publish_date": "2023-08-06",
   "published_at": "2023-08-06T00:58:37Z"
- },
- {
-  "id": 1560200,
-  "title": "CSS Animation: Card Width expand on hover",
-  "description": "In this tutorial, you will learn how to create a pure CSS card width expand animation with hover...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KJc1p5Rc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nle66glvxv4yqydusssx.gif",
-  "slug": "css-animation-card-width-expand-on-hover-me4",
-  "url": "https://dev.to/jon_snow789/css-animation-card-width-expand-on-hover-me4",
-  "publish_date": "2023-08-05",
-  "published_at": "2023-08-05T16:59:21Z"
- },
- {
-  "id": 1559947,
-  "title": "Unraveling the Magic of APIs: A Beginner's Guide to Integration Superpowers",
-  "description": "What is an API?   Imagine you have a favourite teddy bear, and you want to show it to your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PquCZelB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jxntiv5rl64i9gc8hcwh.png",
-  "slug": "unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39",
-  "url": "https://dev.to/ainasanghi/unraveling-the-magic-of-apis-a-beginners-guide-to-integration-superpowers-c39",
-  "publish_date": "2023-08-05",
-  "published_at": "2023-08-05T10:28:02Z"
- },
- {
-  "id": 1541662,
-  "title": "Monoliths vs. Microservices: Breaking Down Software Architectures",
-  "description": "In today's fast-paced and ever-evolving digital landscape, choosing the right software architecture...",
-  "cover_image": "",
-  "slug": "monoliths-vs-microservices-breaking-down-software-architectures-1keh",
-  "url": "https://dev.to/documatic/monoliths-vs-microservices-breaking-down-software-architectures-1keh",
-  "publish_date": "2023-08-05",
-  "published_at": "2023-08-05T06:08:36Z"
- },
- {
-  "id": 1559351,
-  "title": "Time Travel in React with Immer: A Step-by-Step Tutorial",
-  "description": "Overview   In the ever-evolving landscape of front-end development, the ability to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mYb9pMD9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lwcf4rat3h4it3k6huv.png",
-  "slug": "time-travel-in-react-with-immer-a-step-by-step-tutorial-201p",
-  "url": "https://dev.to/brainiacneit/time-travel-in-react-with-immer-a-step-by-step-tutorial-201p",
-  "publish_date": "2023-08-05",
-  "published_at": "2023-08-05T04:20:46Z"
- },
- {
-  "id": 1559671,
-  "title": "How containers promote equity in tech",
-  "description": "In the tech industry, we often talk a lot about diversity, equity, and inclusion. Sometimes, we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UlHkksC0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vi5yqc79jg7xebz4l6qy.png",
-  "slug": "how-containerization-promotes-equity-in-tech-54h5",
-  "url": "https://dev.to/github/how-containerization-promotes-equity-in-tech-54h5",
-  "publish_date": "2023-08-05",
-  "published_at": "2023-08-05T00:42:47Z"
  }
 ]
