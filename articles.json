@@ -1,5 +1,55 @@
 [
  {
+  "id": 1657169,
+  "title": "⚡️7 easy AI-product integrations (to keep up with the times 👴🏻👨‍🔧)",
+  "description": "TL;DR   A list of the best easy-to-build AI product integrations.   These can give your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gF8ANkqy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idkyr3pnvd6hchnqj6q3.gif",
+  "slug": "7-easy-ai-product-integrations-to-keep-up-with-the-times--1cg2",
+  "url": "https://dev.to/copilotkit/7-easy-ai-product-integrations-to-keep-up-with-the-times--1cg2",
+  "publish_date": "2023-11-14",
+  "published_at": "2023-11-14T13:51:01Z"
+ },
+ {
+  "id": 1666048,
+  "title": "🔥 Take NextJS to the next level: Create a GitHub stars monitor 🤯",
+  "description": "In this article, you will learn how to create a GitHub stars monitor to check your stars over months...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AzXmiLTz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hdkamj3u5jbavvdvbamq.gif",
+  "slug": "take-nextjs-to-the-next-level-create-a-github-stars-monitor-130a",
+  "url": "https://dev.to/triggerdotdev/take-nextjs-to-the-next-level-create-a-github-stars-monitor-130a",
+  "publish_date": "2023-11-14",
+  "published_at": "2023-11-14T12:42:30Z"
+ },
+ {
+  "id": 1663017,
+  "title": "🦁 NestJS on AWS Lambda: The Ultimate CDK Deployment Strategy for Monolithic APIs",
+  "description": "Learn how to deploy a monolithic NestJS app on AWS Lambda using Webpack and AWS CDK.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wKN8EvLO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ju2aagya3m56n0xx36l0.png",
+  "slug": "nestjs-on-aws-lambda-the-ultimate-cdk-deployment-strategy-for-monolithic-apis-380j",
+  "url": "https://dev.to/slsbytheodo/nestjs-on-aws-lambda-the-ultimate-cdk-deployment-strategy-for-monolithic-apis-380j",
+  "publish_date": "2023-11-14",
+  "published_at": "2023-11-14T12:34:57Z"
+ },
+ {
+  "id": 1665179,
+  "title": "💨 The fastest way to deploy your Javascript app to Kubernetes 🌬️ ✨",
+  "description": "TL;DR   In this tutorial, you'll learn how to deploy your first javascript application on...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yJ9qBmON--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9axdcaaowa2bnzqk2sq6.gif",
+  "slug": "the-fastest-way-to-deploy-your-javascript-app-to-kubernetes-2j33",
+  "url": "https://dev.to/odigos/the-fastest-way-to-deploy-your-javascript-app-to-kubernetes-2j33",
+  "publish_date": "2023-11-14",
+  "published_at": "2023-11-14T12:24:54Z"
+ },
+ {
+  "id": 1665849,
+  "title": "The Open-source SPL Boosts MongoDB Computing Ability",
+  "description": "MongoDB is a typical NoSQL database. Its document-oriented structure makes both storage and access...",
+  "cover_image": "",
+  "slug": "the-open-source-spl-boosts-mongodb-computing-ability-45dl",
+  "url": "https://dev.to/qbentil/the-open-source-spl-boosts-mongodb-computing-ability-45dl",
+  "publish_date": "2023-11-14",
+  "published_at": "2023-11-14T04:36:26Z"
+ },
+ {
   "id": 1665685,
   "title": "Compartilhando seu conhecimento com o mundo! Como escrever artigos",
   "description": "Compartilhar conhecimento escrito é uma ótima forma de dominar um assunto específico, além de ser uma...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/brainiacneit/differentiating-onclick-and-addeventlistener-in-javascript-30ke",
   "publish_date": "2023-08-07",
   "published_at": "2023-08-07T04:20:06Z"
- },
- {
-  "id": 1560732,
-  "title": "How has AI changed your approach to development?",
-  "description": "August 2023 check-in — what is different in your approach in the ChatGPT, Copilot, etc. era of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cpjs0baW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ol7851oxsx6zj21v7vx4.png",
-  "slug": "how-has-ai-changed-your-approach-to-development-2hk0",
-  "url": "https://dev.to/ben/how-has-ai-changed-your-approach-to-development-2hk0",
-  "publish_date": "2023-08-06",
-  "published_at": "2023-08-06T16:05:41Z"
- },
- {
-  "id": 1560720,
-  "title": "Beautify Your Git Log with a Single Command",
-  "description": "The standard git log command is functional, providing the necessary information, but it can come...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zUcvnPhe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n04rouprxjw721md9nxs.png",
-  "slug": "beautify-your-git-log-with-a-single-command-2i5",
-  "url": "https://dev.to/pradumnasaraf/beautify-your-git-log-with-a-single-command-2i5",
-  "publish_date": "2023-08-06",
-  "published_at": "2023-08-06T15:41:01Z"
- },
- {
-  "id": 1560482,
-  "title": "Web Environment Integrity: Google strikes again",
-  "description": "The Web Environment Integrity is yet another Google proposal for making the web worse for everyone...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CO8TnZHM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vc6n48xk3p8yual8gmtg.jpg",
-  "slug": "web-environment-integrity-google-strikes-again-j4a",
-  "url": "https://dev.to/voltra/web-environment-integrity-google-strikes-again-j4a",
-  "publish_date": "2023-08-06",
-  "published_at": "2023-08-06T06:51:11Z"
- },
- {
-  "id": 1559954,
-  "title": "Underrated React Hook - useSyncExternalStore",
-  "description": "Overview   Discover a hidden powerhouse in the React ecosystem: the \"useSyncExternalStore\"...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vgyXm_h7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hc8ms0a1u8uz1d7bdvzv.jpg",
-  "slug": "underrated-react-hook-usesyncexternalstore-h8h",
-  "url": "https://dev.to/brainiacneit/underrated-react-hook-usesyncexternalstore-h8h",
-  "publish_date": "2023-08-06",
-  "published_at": "2023-08-06T02:56:14Z"
- },
- {
-  "id": 1560349,
-  "title": "I used Node.js to OCR \"Meme Monday\" threads",
-  "description": "I love programming-related memes and jokes, and I'm sure you do as well. @ben's weekly \"Meme Monday\"...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ytW2QMe2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g7b2cnvd3q5zyyn1q03y.png",
-  "slug": "i-used-nodejs-to-ocr-meme-monday-threads-23o0",
-  "url": "https://dev.to/ironcladdev/i-used-nodejs-to-ocr-meme-monday-threads-23o0",
-  "publish_date": "2023-08-06",
-  "published_at": "2023-08-06T00:58:37Z"
  }
 ]
