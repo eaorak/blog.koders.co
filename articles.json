@@ -1,5 +1,55 @@
 [
  {
+  "id": 1669990,
+  "title": "DEV Community Contributor Spotlight: @joaogabriel55",
+  "description": "We like to (loudly!) remind everyone here that the DEV Community is powered by Forem, our...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yYc6ZFUb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0po6i9wdcuylkyk5fqth.png",
+  "slug": "dev-community-contributor-spotlight-joaogabriel55-2b57",
+  "url": "https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57",
+  "publish_date": "2023-11-17",
+  "published_at": "2023-11-17T17:26:48Z"
+ },
+ {
+  "id": 1669501,
+  "title": "Pesky common issues developers have with most dependencies and how MDB fixes them #2",
+  "description": "Short product lifespan  Most dependencies: Are actually usable for couple of months only, and have...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nS8O5XIy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p25lc59h6qccw6a4z9bo.png",
+  "slug": "pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-2-1g28",
+  "url": "https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-2-1g28",
+  "publish_date": "2023-11-17",
+  "published_at": "2023-11-17T15:10:56Z"
+ },
+ {
+  "id": 1667831,
+  "title": "🦓 The Zebras Guide to Showcase Markdown Images in Light \u0026 Dark 🚀",
+  "description": "Warning: Opinions expressed may not be suitable for all audiences! 😂           TL;DR   By the end of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--skidQV8J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z9wksl38m8l95bgwy8uu.gif",
+  "slug": "the-zebras-guide-to-showcase-your-images-in-light-dark-17f5",
+  "url": "https://dev.to/nathan_tarbert/the-zebras-guide-to-showcase-your-images-in-light-dark-17f5",
+  "publish_date": "2023-11-17",
+  "published_at": "2023-11-17T14:26:55Z"
+ },
+ {
+  "id": 1669566,
+  "title": "How to Use JavaScript Array Splice",
+  "description": "Introduction   Array.prototype.splice() is a JavaScript Array method that is used to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V4-cBlr---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c678pvgvvxu7ppfraj24.png",
+  "slug": "how-to-use-javascript-array-splice-1873",
+  "url": "https://dev.to/refine/how-to-use-javascript-array-splice-1873",
+  "publish_date": "2023-11-17",
+  "published_at": "2023-11-17T10:14:04Z"
+ },
+ {
+  "id": 1665679,
+  "title": "What was your win this week?",
+  "description": "Hey my peeps 👋   Hope that everybody has a wonderful weekend. 😀   Looking back on this past week,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ev_R8Usa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t826xw5bzcia6wkq2iti.jpg",
+  "slug": "what-was-your-win-this-week-2ebf",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-2ebf",
+  "publish_date": "2023-11-17",
+  "published_at": "2023-11-17T10:00:00Z"
+ },
+ {
   "id": 1668520,
   "title": "These 5 Open Source AI Startups are changing the AI Landscape",
   "description": "With the growing AI Market. We’ve got a lot of changes coming up with us.   Lately, I have been...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6",
   "publish_date": "2023-08-10",
   "published_at": "2023-08-10T02:06:47Z"
- },
- {
-  "id": 1563842,
-  "title": "Supabase Studio 3.0: AI SQL Editor, Schema Diagrams, and new Wrappers",
-  "description": "Supabase Studio 3.0 is here, with some huge new features, including a brand new Supabase AI,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZFC7OvRG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/edd4psoktbnocsxsyvv8.jpg",
-  "slug": "supabase-studio-30-ai-sql-editor-schema-diagrams-and-new-wrappers-297f",
-  "url": "https://dev.to/supabase/supabase-studio-30-ai-sql-editor-schema-diagrams-and-new-wrappers-297f",
-  "publish_date": "2023-08-09",
-  "published_at": "2023-08-09T16:30:09Z"
- },
- {
-  "id": 1563667,
-  "title": "The web is broken, and developers let it happen",
-  "description": "Do you remember the time when it used to be so simple to just open a new browser window, type a...",
-  "cover_image": "",
-  "slug": "the-web-is-broken-and-developers-let-it-happen-3cm5",
-  "url": "https://dev.to/soulwish/the-web-is-broken-and-developers-let-it-happen-3cm5",
-  "publish_date": "2023-08-09",
-  "published_at": "2023-08-09T14:00:00Z"
- },
- {
-  "id": 1563023,
-  "title": "Caching Git Repos: A Deep Dive into OpenSauced’s ‘Pizza Oven’ Service",
-  "description": "Over the last few weeks, the OpenSauced engineering team has been building a service we're calling...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tDs28Mnz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oo2d962soqerdhf015km.png",
-  "slug": "caching-git-repos-a-deep-dive-into-opensauceds-pizza-oven-service-49nf",
-  "url": "https://dev.to/opensauced/caching-git-repos-a-deep-dive-into-opensauceds-pizza-oven-service-49nf",
-  "publish_date": "2023-08-09",
-  "published_at": "2023-08-09T13:05:00Z"
- },
- {
-  "id": 1563576,
-  "title": "Build a real-time voting app with WebSockets, React \u0026 TypeScript 🔌⚡️",
-  "description": "TL;DR   WebSockets allow your app to have “real time” features, where updates are instant...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CiHCj8Cm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t0e6bz9k6mw5je5zmh6w.png",
-  "slug": "build-a-real-time-voting-app-with-websockets-react-typescript-1bm9",
-  "url": "https://dev.to/wasp/build-a-real-time-voting-app-with-websockets-react-typescript-1bm9",
-  "publish_date": "2023-08-09",
-  "published_at": "2023-08-09T12:00:00Z"
- },
- {
-  "id": 1464167,
-  "title": "How to get more suggestions from GitHub Copilot",
-  "description": "Have you ever wanted more from GitHub Copilot? Has GitHub Copilot ever made a suggestion where you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8LI7Ib84--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fs80i4c50ggexilvraxf.png",
-  "slug": "how-to-get-more-suggestions-from-github-copilot-12i2",
-  "url": "https://dev.to/github/how-to-get-more-suggestions-from-github-copilot-12i2",
-  "publish_date": "2023-08-09",
-  "published_at": "2023-08-09T07:20:54Z"
  }
 ]
