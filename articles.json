@@ -1,5 +1,55 @@
 [
  {
+  "id": 1670940,
+  "title": "A Guide to React Custom Hooks",
+  "description": "Custom Hooks in React are a powerful feature that allows us to extract component logic into reusable...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2qbqHMtl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjnhpznlxjc9uevfc79b.png",
+  "slug": "a-guide-to-react-custom-hooks-2b4h",
+  "url": "https://dev.to/rasaf_ibrahim/a-guide-to-react-custom-hooks-2b4h",
+  "publish_date": "2023-11-18",
+  "published_at": "2023-11-18T17:57:58Z"
+ },
+ {
+  "id": 1670584,
+  "title": "26 Frontend Certifications for Web Developers 🔥🔥",
+  "description": "In the dynamic landscape of web development, staying ahead is key to success. Certifications serve as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--93jCVwzT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9kb8xhjrhk51u6ybzfmu.png",
+  "slug": "26-frontend-certifications-for-web-developers-4md7",
+  "url": "https://dev.to/madza/26-frontend-certifications-for-web-developers-4md7",
+  "publish_date": "2023-11-18",
+  "published_at": "2023-11-18T10:51:06Z"
+ },
+ {
+  "id": 1670469,
+  "title": "Enhancing UX: Leveraging Nextjs Router Events for Form Manipulation",
+  "description": "Scenario 💻   When manipulating form data with a considerable number of input fields whether...",
+  "cover_image": "",
+  "slug": "enhancing-ux-leveraging-nextjs-router-events-for-form-manipulation-4nfd",
+  "url": "https://dev.to/glopgeek/enhancing-ux-leveraging-nextjs-router-events-for-form-manipulation-4nfd",
+  "publish_date": "2023-11-18",
+  "published_at": "2023-11-18T08:55:33Z"
+ },
+ {
+  "id": 1669962,
+  "title": "The CSS property you didn't know you needed 👈",
+  "description": "Hi folks! 👋 Today I wanna talk about a CSS feature that, in my opinion, doesn't get too much...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2t56xxc5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/57ywglx2pxyl0qgx8wgn.png",
+  "slug": "the-css-property-you-didnt-know-you-needed-3fk0",
+  "url": "https://dev.to/francescovetere/the-css-property-you-didnt-know-you-needed-3fk0",
+  "publish_date": "2023-11-18",
+  "published_at": "2023-11-18T07:29:04Z"
+ },
+ {
+  "id": 1670438,
+  "title": "13 Most Common JavaScript String Methods You Should Know About",
+  "description": "In JavaScript, strings are sequences of characters. JavaScript provides a rich set of methods to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zyEppBqF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfjm2b263qpug6xyjscn.png",
+  "slug": "13-most-common-javascript-string-methods-you-should-know-about-7d2",
+  "url": "https://dev.to/devshefali/13-most-common-javascript-string-methods-you-should-know-about-7d2",
+  "publish_date": "2023-11-18",
+  "published_at": "2023-11-18T06:30:26Z"
+ },
+ {
   "id": 1669990,
   "title": "DEV Community Contributor Spotlight: @joaogabriel55",
   "description": "We like to (loudly!) remind everyone here that the DEV Community is powered by Forem, our...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6",
   "publish_date": "2023-08-11",
   "published_at": "2023-08-11T02:21:49Z"
- },
- {
-  "id": 1564977,
-  "title": "Supabase Integrations Marketplace",
-  "description": "We've been running our Integrations Marketplace in “stealth mode” for about a year now. What started...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ofEQNIpI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wahrgsz7fckq37urwji7.png",
-  "slug": "supabase-integrations-marketplace-o9o",
-  "url": "https://dev.to/supabase/supabase-integrations-marketplace-o9o",
-  "publish_date": "2023-08-10",
-  "published_at": "2023-08-10T18:46:03Z"
- },
- {
-  "id": 1565029,
-  "title": "Vercel Integration and Next.js App Router Support",
-  "description": "Vercel's open source framework, Next.js, is the most popular frontend framework for Supabase...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MuNp5PYq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mszfmvrgi8wo6efbfj8h.jpeg",
-  "slug": "vercel-integration-and-nextjs-app-router-support-282g",
-  "url": "https://dev.to/supabase/vercel-integration-and-nextjs-app-router-support-282g",
-  "publish_date": "2023-08-10",
-  "published_at": "2023-08-10T18:31:13Z"
- },
- {
-  "id": 1561513,
-  "title": "Como configurar duas contas do GitHub no seu computador utilizando chaves SSH",
-  "description": "Se você chegou até aqui, é provável que tenha se deparado com um problema muito comum para vários...",
-  "cover_image": "",
-  "slug": "como-configurar-duas-contas-do-github-no-seu-computador-utilizando-chaves-ssh-e80",
-  "url": "https://dev.to/ofelipexis/como-configurar-duas-contas-do-github-no-seu-computador-utilizando-chaves-ssh-e80",
-  "publish_date": "2023-08-10",
-  "published_at": "2023-08-10T12:42:29Z"
- },
- {
-  "id": 1564551,
-  "title": "The Role of Queues in Building Efficient Distributed Applications",
-  "description": "Unlocking seamless coordination. How queues empower efficient distributed application frameworks",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NG587BtQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://static-assets.amplication.com/blog/the-role-of-queues-in-building-efficient-distributed-applications/hero.png",
-  "slug": "the-role-of-queues-in-building-efficient-distributed-applications-1i6e",
-  "url": "https://dev.to/amplication/the-role-of-queues-in-building-efficient-distributed-applications-1i6e",
-  "publish_date": "2023-08-10",
-  "published_at": "2023-08-10T08:33:05Z"
- },
- {
-  "id": 1562642,
-  "title": "Differentiating Zustand and Redux",
-  "description": "Overview   Explore the differences between Zustand and Redux, two popular state management...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i_5ZbrC4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vpj9t8qif399fwiriq35.png",
-  "slug": "differentiating-zustand-and-redux-al6",
-  "url": "https://dev.to/brainiacneit/differentiating-zustand-and-redux-al6",
-  "publish_date": "2023-08-10",
-  "published_at": "2023-08-10T02:06:47Z"
  }
 ]
