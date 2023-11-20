@@ -1,5 +1,55 @@
 [
  {
+  "id": 1671643,
+  "title": "Unique HTML Attributes You Should Know About",
+  "description": "HTML (Hypertext Markup Language) has a variety of attributes that can be used to enhance the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sUGzoovV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/peegqv6583kkmw68ynks.jpg",
+  "slug": "unique-html-attributes-you-should-know-about-57e5",
+  "url": "https://dev.to/pinky057/unique-html-attributes-you-should-know-about-57e5",
+  "publish_date": "2023-11-19",
+  "published_at": "2023-11-19T19:19:32Z"
+ },
+ {
+  "id": 1671516,
+  "title": "Junior to Senior Developer Guide: Navigating the Evolution of Your Coding Journey",
+  "description": "Embarking on the path of a junior developer is akin to stepping onto a vast and thrilling landscape...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w8avhMX0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n1vj6cd93f5mi21duzij.png",
+  "slug": "junior-to-senior-developer-guide-navigating-the-evolution-of-your-coding-journey-2fap",
+  "url": "https://dev.to/baransel/junior-to-senior-developer-guide-navigating-the-evolution-of-your-coding-journey-2fap",
+  "publish_date": "2023-11-19",
+  "published_at": "2023-11-19T15:34:05Z"
+ },
+ {
+  "id": 1671155,
+  "title": "Hi! I'm new here..",
+  "description": "I’m Ryan VerWey, a mid-level developer with a burgeoning passion in the fields of web development and...",
+  "cover_image": "",
+  "slug": "hi-im-new-here-2069",
+  "url": "https://dev.to/rverwey/hi-im-new-here-2069",
+  "publish_date": "2023-11-19",
+  "published_at": "2023-11-19T04:12:57Z"
+ },
+ {
+  "id": 1671128,
+  "title": "Como coletar e dividir pagamentos com a API do Stripe",
+  "description": "Antes de tudo: o que é o Biome?   O Biome é um marketplace de aplicações web criado por...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_kGu-WSM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3buz5j8un5pkh5sil6z5.png",
+  "slug": "como-coletar-e-dividir-pagamentos-com-a-api-do-stripe-3ee2",
+  "url": "https://dev.to/sigcoding/como-coletar-e-dividir-pagamentos-com-a-api-do-stripe-3ee2",
+  "publish_date": "2023-11-19",
+  "published_at": "2023-11-19T02:43:45Z"
+ },
+ {
+  "id": 1671127,
+  "title": "Sam Altman: Corporate Collateral Damage?",
+  "description": "My Contrarian Perspectives on Why Sam Altman was Dispensable.  See Definition of Terms \u0026amp; Acronyms...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---3tN4ftE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t1p7zwyy8kxbz4o3umga.jpg",
+  "slug": "sam-altman-corporate-collateral-damage-52oc",
+  "url": "https://dev.to/scofieldidehen/sam-altman-corporate-collateral-damage-52oc",
+  "publish_date": "2023-11-19",
+  "published_at": "2023-11-19T02:01:28Z"
+ },
+ {
   "id": 1670940,
   "title": "A Guide to React Custom Hooks",
   "description": "Custom Hooks in React are a powerful feature that allows us to extract component logic into reusable...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/catsjuice/figma-sticky-notes-10ed",
   "publish_date": "2023-08-12",
   "published_at": "2023-08-12T00:32:17Z"
- },
- {
-  "id": 1566015,
-  "title": "Supavisor: Scaling Postgres to 1 Million Connections",
-  "description": "One of the most widely-discussed shortcomings of Postgres is it's connection system. Every Postgres...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kaWds9dO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ij9cly0p0e7tv1wbo06g.jpg",
-  "slug": "supavisor-scaling-postgres-to-1-million-connections-n70",
-  "url": "https://dev.to/supabase/supavisor-scaling-postgres-to-1-million-connections-n70",
-  "publish_date": "2023-08-11",
-  "published_at": "2023-08-11T16:50:07Z"
- },
- {
-  "id": 1565626,
-  "title": "4-Day Workweek, Works!",
-  "description": "NEWSFLASH: Attracting top talent is not all about financial compensation!  So how did we get some...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YvXzouxl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8m32d5f4i8ub2na3t8zj.png",
-  "slug": "4-day-workweek-works-1eie",
-  "url": "https://dev.to/crabnebula/4-day-workweek-works-1eie",
-  "publish_date": "2023-08-11",
-  "published_at": "2023-08-11T10:23:25Z"
- },
- {
-  "id": 1556897,
-  "title": "What was your win this week?",
-  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vsTDfqRZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyck78r593005hlbngyn.jpg",
-  "slug": "what-was-your-win-this-week-366p",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-366p",
-  "publish_date": "2023-08-11",
-  "published_at": "2023-08-11T09:30:00Z"
- },
- {
-  "id": 1565551,
-  "title": "9 Best AI Design Tools for WordPress in 2023: Unlock The Power of Creativity!",
-  "description": "In the changing world of web design, Artificial Intelligence (AI) has become a game changer. It has...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H7C8HgOa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cfr5oj8pci5jj1wxv8bn.jpg",
-  "slug": "9-grand-ai-design-tools-for-wordpress-in-2023-unlock-the-power-of-creativity-4c8c",
-  "url": "https://dev.to/oyohalexandra/9-grand-ai-design-tools-for-wordpress-in-2023-unlock-the-power-of-creativity-4c8c",
-  "publish_date": "2023-08-11",
-  "published_at": "2023-08-11T08:30:20Z"
- },
- {
-  "id": 1564567,
-  "title": "State Management with RxJS and React",
-  "description": "Introduction   Building big web apps can be tricky, especially when you have lots of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nmcE403E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ouou2zk23t8tpbc30g71.png",
-  "slug": "state-management-with-rxjs-and-react-1dj6",
-  "url": "https://dev.to/brainiacneit/state-management-with-rxjs-and-react-1dj6",
-  "publish_date": "2023-08-11",
-  "published_at": "2023-08-11T02:21:49Z"
  }
 ]
