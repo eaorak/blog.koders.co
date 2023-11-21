@@ -1,5 +1,55 @@
 [
  {
+  "id": 1672480,
+  "title": "Kubectl Restart Pod",
+  "description": "Brief description of what a pod is?   In Kubernetes, a pod is the smallest...",
+  "cover_image": "",
+  "slug": "kubectl-restart-pod-608",
+  "url": "https://dev.to/refine/kubectl-restart-pod-608",
+  "publish_date": "2023-11-20",
+  "published_at": "2023-11-20T13:37:36Z"
+ },
+ {
+  "id": 1667551,
+  "title": "😂11 Fun Python libraries to make your day better☀️",
+  "description": "TL;DR   In this article, I will present 11 libraries that I had fun playing with and thought...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4PQv9Wc1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lng02bkl9qwdiae5j29v.gif",
+  "slug": "11-fun-python-libraries-to-make-your-day-better-4gpc",
+  "url": "https://dev.to/taipy/11-fun-python-libraries-to-make-your-day-better-4gpc",
+  "publish_date": "2023-11-20",
+  "published_at": "2023-11-20T12:33:01Z"
+ },
+ {
+  "id": 1668673,
+  "title": "🤓 🚀 These 6 repos will help you crush React Server Components (RSC) ✅🔥",
+  "description": "A few months ago, the React team introduced React Server Components (RSC) to the dev community. React...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--17prqbQA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ripp7jwud3f3tx1t1ag.gif",
+  "slug": "these-6-repos-will-help-you-crush-react-server-components-rsc-4c2o",
+  "url": "https://dev.to/jobenjada/these-6-repos-will-help-you-crush-react-server-components-rsc-4c2o",
+  "publish_date": "2023-11-20",
+  "published_at": "2023-11-20T11:10:53Z"
+ },
+ {
+  "id": 1671684,
+  "title": "50 ways to bring in extra cash as a developer 💰",
+  "description": "A compiled list of programming side hustle ideas to supplement your income",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eRl23Q1W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.ibb.co/DDQBHvL/developer-side-hustles.png",
+  "slug": "50-ways-to-bring-in-extra-cash-as-a-developer-19b6",
+  "url": "https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6",
+  "publish_date": "2023-11-20",
+  "published_at": "2023-11-20T10:00:00Z"
+ },
+ {
+  "id": 1672074,
+  "title": "Drones Take Flight, But Turbulence Remains",
+  "description": "Drone delivery has emerged as a promising technology to transform goods transportation and delivery...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QgMNQh6y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/50fn6zhurmhy9e6hs26j.png",
+  "slug": "drones-take-flight-but-turbulence-remains-2hna",
+  "url": "https://dev.to/ruslan7645679/drones-take-flight-but-turbulence-remains-2hna",
+  "publish_date": "2023-11-20",
+  "published_at": "2023-11-20T08:37:03Z"
+ },
+ {
   "id": 1671643,
   "title": "Unique HTML Attributes You Should Know About",
   "description": "HTML (Hypertext Markup Language) has a variety of attributes that can be used to enhance the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f",
   "publish_date": "2023-08-13",
   "published_at": "2023-08-13T00:47:05Z"
- },
- {
-  "id": 1553895,
-  "title": "🚀 Building an Invoice PDF system with React.js , Redux and Node.js",
-  "description": "Building an Invoice PDF system with React.js, Redux, and Node.js can be a complex task, but I'm here...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RXlYMOow--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ai3s7vnlgphmzj4v77u3.png",
-  "slug": "building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a",
-  "url": "https://dev.to/idurar/building-an-invoice-pdf-system-with-reactjs-redux-and-nodejs-5g1a",
-  "publish_date": "2023-08-12",
-  "published_at": "2023-08-12T11:27:19Z"
- },
- {
-  "id": 1566483,
-  "title": "The Key to Passing your AWS Solutions Architect Professional!!!",
-  "description": "Hey Folks,  It's been a while - however, I have been settling into my new role as DevOps Engineer /...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HhtPNL4X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a783conq4l1ggl99s9jh.jpeg",
-  "slug": "the-key-to-passing-your-aws-solutions-architect-professional-34a1",
-  "url": "https://dev.to/aws-builders/the-key-to-passing-your-aws-solutions-architect-professional-34a1",
-  "publish_date": "2023-08-12",
-  "published_at": "2023-08-12T08:27:46Z"
- },
- {
-  "id": 1565519,
-  "title": "Simplify Infinite Loading with React Query",
-  "description": "Introduction   Fetching data in React applications can be a challenge, especially when it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nIDfWLxj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gxcgr331hlck7a9ejg4z.png",
-  "slug": "simplify-infinite-loading-with-react-query-48oj",
-  "url": "https://dev.to/brainiacneit/simplify-infinite-loading-with-react-query-48oj",
-  "publish_date": "2023-08-12",
-  "published_at": "2023-08-12T08:26:59Z"
- },
- {
-  "id": 1566376,
-  "title": "The Ultimate Roadmap and Free Resources for Becoming a DevOps Engineer in 2023",
-  "description": "DevOps is an innovative software development methodology that aims to improve collaboration between...",
-  "cover_image": "",
-  "slug": "the-ultimate-roadmap-and-free-resources-for-becoming-a-devops-engineer-in-2023-5b8n",
-  "url": "https://dev.to/durgesh4993/the-ultimate-roadmap-and-free-resources-for-becoming-a-devops-engineer-in-2023-5b8n",
-  "publish_date": "2023-08-12",
-  "published_at": "2023-08-12T03:25:31Z"
- },
- {
-  "id": 1566295,
-  "title": "Figma sticky notes",
-  "description": "A post by Cats Juice",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fCyarNXp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8j7y2h5homjmeopo6g3j.png",
-  "slug": "figma-sticky-notes-10ed",
-  "url": "https://dev.to/catsjuice/figma-sticky-notes-10ed",
-  "publish_date": "2023-08-12",
-  "published_at": "2023-08-12T00:32:17Z"
  }
 ]
