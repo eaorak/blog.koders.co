@@ -1,5 +1,55 @@
 [
  {
+  "id": 1673781,
+  "title": "So You're Interested in Being an Open Source Maintainer",
+  "description": "Are you interested in being an open source maintainer? Whether you're starting out or looking to deepen your understanding, this blog post will give you insight into the role of open source maintainership.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---R_95mTp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uaodvroy6ndiovygy7jx.png",
+  "slug": "so-youre-interested-in-being-an-open-source-maintainer-5bb2",
+  "url": "https://dev.to/opensauced/so-youre-interested-in-being-an-open-source-maintainer-5bb2",
+  "publish_date": "2023-11-21",
+  "published_at": "2023-11-21T15:48:46Z"
+ },
+ {
+  "id": 1668068,
+  "title": "🦃 Reacts-giving: 11 react components for aspiring pros 👩🏻‍🌾🍁",
+  "description": "TL;DR   I have harvested the finest React components you can use to build a powerful web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TvVSEgZI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0fbgar2dz7cs5ex407qv.gif",
+  "slug": "reacts-giving-11-react-components-for-aspiring-pros-eck",
+  "url": "https://dev.to/copilotkit/reacts-giving-11-react-components-for-aspiring-pros-eck",
+  "publish_date": "2023-11-21",
+  "published_at": "2023-11-21T14:11:00Z"
+ },
+ {
+  "id": 1671326,
+  "title": "🚀 Top 4 ways to send notifications about new stars ⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️",
+  "description": "TL;DR   In the last article, I discussed creating a GitHub stars monitor. In this article, I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4_PD5Qe7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q24k968jmxtngqcstf9f.gif",
+  "slug": "top-4-ways-to-send-notifications-about-new-stars-1cgb",
+  "url": "https://dev.to/triggerdotdev/top-4-ways-to-send-notifications-about-new-stars-1cgb",
+  "publish_date": "2023-11-21",
+  "published_at": "2023-11-21T13:11:59Z"
+ },
+ {
+  "id": 1671303,
+  "title": "Supercharge your Windows Development: The Ultimate Guide to WSL 🚀📟",
+  "description": "Hi! I’m Boris!   I’m a software engineer working professionally in insurance, teaching other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1a1xnDKi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pie7rxtjzr9udmn3wwp6.png",
+  "slug": "supercharge-your-windows-development-the-ultimate-guide-to-wsl-195m",
+  "url": "https://dev.to/wasp/supercharge-your-windows-development-the-ultimate-guide-to-wsl-195m",
+  "publish_date": "2023-11-21",
+  "published_at": "2023-11-21T13:00:00Z"
+ },
+ {
+  "id": 1673346,
+  "title": "Optimize your JS code in 10 seconds",
+  "description": "Performance is the heartbeat of any JavaScript application, wielding a profound impact on user...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vPQNreOx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tmcf16npnqk6iwftin0h.png",
+  "slug": "optimize-your-js-code-in-10-seconds-6jb",
+  "url": "https://dev.to/mainarthur/optimize-your-js-code-in-10-seconds-6jb",
+  "publish_date": "2023-11-21",
+  "published_at": "2023-11-21T09:13:20Z"
+ },
+ {
   "id": 1672480,
   "title": "Kubectl Restart Pod",
   "description": "Brief description of what a pod is?   In Kubernetes, a pod is the smallest...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/brainiacneit/differentiating-material-and-cupertino-in-flutter-1pll",
   "publish_date": "2023-08-14",
   "published_at": "2023-08-14T03:39:35Z"
- },
- {
-  "id": 1567580,
-  "title": "Complementing exceptions - Introducing monads for error handling in ruby",
-  "description": "Have you ever considered your approach to handling exceptions? I'm referring to the method in which...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R52eBKAu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2csyj7x2y21wkrog1kog.png",
-  "slug": "complementing-exceptions-introducing-monads-on-ruby-5fip",
-  "url": "https://dev.to/cherryramatis/complementing-exceptions-introducing-monads-on-ruby-5fip",
-  "publish_date": "2023-08-13",
-  "published_at": "2023-08-13T22:03:04Z"
- },
- {
-  "id": 1567385,
-  "title": "*Beginner Friendly* Version control using `git`",
-  "description": "Introduction   Welcome 👋 to this blog. Did you hear about version control and want to learn...",
-  "cover_image": "",
-  "slug": "beginner-friendly-version-control-using-git-4m51",
-  "url": "https://dev.to/ankur0904/beginner-friendly-version-control-using-git-4m51",
-  "publish_date": "2023-08-13",
-  "published_at": "2023-08-13T17:58:17Z"
- },
- {
-  "id": 1550953,
-  "title": "Diagramming and Database Design📊🔍💡",
-  "description": "In today's data-driven world, efficient management of information is critical for the success of...",
-  "cover_image": "",
-  "slug": "diagramming-and-database-design-42ff",
-  "url": "https://dev.to/documatic/diagramming-and-database-design-42ff",
-  "publish_date": "2023-08-13",
-  "published_at": "2023-08-13T07:34:59Z"
- },
- {
-  "id": 1563531,
-  "title": "Authentication with middlewares in NextJS",
-  "description": "Overview   Hey there! Today, we're going to talk about authentication in Next.js using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--17jJe7Vg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rqmyy8g9dtyjap74tc34.png",
-  "slug": "authentication-with-middlewares-in-nextjs-279p",
-  "url": "https://dev.to/brainiacneit/authentication-with-middlewares-in-nextjs-279p",
-  "publish_date": "2023-08-13",
-  "published_at": "2023-08-13T03:14:33Z"
- },
- {
-  "id": 1567016,
-  "title": "Mocha/Chai with TypeScript (2023 update)",
-  "description": "I wrote an article in 2020 for using Mocha/Chai in a TypeScript project, that I'm using in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xv8XNUI4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1royniydr5r8jf1trp4l.jpg",
-  "slug": "mochachai-with-typescript-2023-update-281f",
-  "url": "https://dev.to/matteobruni/mochachai-with-typescript-2023-update-281f",
-  "publish_date": "2023-08-13",
-  "published_at": "2023-08-13T00:47:05Z"
  }
 ]
