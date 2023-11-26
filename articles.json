@@ -1,5 +1,55 @@
 [
  {
+  "id": 1678215,
+  "title": "How to get un-stuck while coding?",
+  "description": "Here are some things which I do to get un-stuck:    Keep the current task (which got you...",
+  "cover_image": "",
+  "slug": "how-to-get-un-stuck-while-coding-fgc",
+  "url": "https://dev.to/nandinishinduja/how-to-get-un-stuck-while-coding-fgc",
+  "publish_date": "2023-11-25",
+  "published_at": "2023-11-25T15:34:38Z"
+ },
+ {
+  "id": 1678214,
+  "title": "19 JavaScript Array Methods Everyone Needs to Know",
+  "description": "🟢 🟢 🟢            Green Methods            Adding and Removing Elements   push(): Adds one or...",
+  "cover_image": "",
+  "slug": "17-javascript-array-methods-everyone-needs-to-know-1j35",
+  "url": "https://dev.to/opensourcee/17-javascript-array-methods-everyone-needs-to-know-1j35",
+  "publish_date": "2023-11-25",
+  "published_at": "2023-11-25T15:34:01Z"
+ },
+ {
+  "id": 1676576,
+  "title": "🧙‍♂️ CSS trick: transition from height 0 to auto!",
+  "description": "If you messed around with CSS for long enough, chances are you've tried at least once to make a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aC7kT794--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hbw3847pnkekutlrzynb.png",
+  "slug": "css-trick-transition-from-height-0-to-auto-21de",
+  "url": "https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de",
+  "publish_date": "2023-11-25",
+  "published_at": "2023-11-25T09:20:53Z"
+ },
+ {
+  "id": 1677976,
+  "title": "11 Best Black Friday and Cyber Monday Offers for Developers in 2023",
+  "description": "These are the best black Friday and Cyber Monday offers developers can take in 2023",
+  "cover_image": "",
+  "slug": "11-best-black-friday-and-cyber-monday-offers-for-developers-in-2023-25fm",
+  "url": "https://dev.to/javinpaul/11-best-black-friday-and-cyber-monday-offers-for-developers-in-2023-25fm",
+  "publish_date": "2023-11-25",
+  "published_at": "2023-11-25T07:32:19Z"
+ },
+ {
+  "id": 1676666,
+  "title": ".NET 8, JIT e AOT",
+  "description": "Habemus .NET 8.   Eu acredito que esse seja o lançamento mais importante da história do .NET. Aliás...",
+  "cover_image": "",
+  "slug": "net-8-jit-e-aot-25lk",
+  "url": "https://dev.to/angelobelchior/net-8-jit-e-aot-25lk",
+  "publish_date": "2023-11-25",
+  "published_at": "2023-11-25T01:19:04Z"
+ },
+ {
   "id": 1677641,
   "title": "Swirl Security Overview",
   "description": "Understanding an Open Source Search Platform: Swirl   The team behind Swirl created a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/brainiacneit/single-page-application-authentication-and-authorization-in-agularjs-54i2",
   "publish_date": "2023-08-18",
   "published_at": "2023-08-18T01:49:39Z"
- },
- {
-  "id": 1570221,
-  "title": "Record in TypeScript: Unveiling Its Surprising Power",
-  "description": "Introduction:   TypeScript, with its robust type system, continues to offer developers an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nXqzFa0s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4qqrh7hynvxhcbo6hys6.png",
-  "slug": "record-in-typescript-unveiling-its-surprising-power-30kf",
-  "url": "https://dev.to/brainiacneit/record-in-typescript-unveiling-its-surprising-power-30kf",
-  "publish_date": "2023-08-17",
-  "published_at": "2023-08-17T14:10:02Z"
- },
- {
-  "id": 1571192,
-  "title": "Discover Simplicity and Fun in Tech with Dev Hots on LinkedIn!",
-  "description": "I'm thrilled to share some exciting news with you all. Drumroll, please… 🥁 I've launched a brand new...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OG7FBCHh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ha686yln87h8e39j9pcu.png",
-  "slug": "discover-simplicity-and-fun-in-tech-with-dev-hots-on-linkedin-51l8",
-  "url": "https://dev.to/j471n/discover-simplicity-and-fun-in-tech-with-dev-hots-on-linkedin-51l8",
-  "publish_date": "2023-08-17",
-  "published_at": "2023-08-17T12:19:56Z"
- },
- {
-  "id": 1564061,
-  "title": "Ops friendly Apache APISIX",
-  "description": "Though I always worked on the Dev side of IT, I was also interested in the Ops side. I even had a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dDkF4lPe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pfutlt6xpkhzdqbpj8gz.jpg",
-  "slug": "ops-friendly-apache-apisix-2b8c",
-  "url": "https://dev.to/apisix/ops-friendly-apache-apisix-2b8c",
-  "publish_date": "2023-08-17",
-  "published_at": "2023-08-17T09:02:00Z"
- },
- {
-  "id": 1569449,
-  "title": "OAuth2 is so complicated ... or 90 lines of code with Svelte",
-  "description": "So it's time for my first series. The idea is to show how easy, fast and secure it is to set up a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1SoEQ52S--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0tmkow9aabjes7u8ho0d.png",
-  "slug": "oauth2-is-so-complicated-or-90-lines-of-code-with-svelte-532",
-  "url": "https://dev.to/mpiorowski/oauth2-is-so-complicated-or-90-lines-of-code-with-svelte-532",
-  "publish_date": "2023-08-17",
-  "published_at": "2023-08-17T08:21:14Z"
- },
- {
-  "id": 1569868,
-  "title": "Generating Optimized Image Formats with Node.js",
-  "description": "Introduction   Images are an important part of any web application, but they can also be a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wJilP_0w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7zftq1hg9nz4y048klgk.jpg",
-  "slug": "generating-optimized-image-formats-with-nodejs-hj3",
-  "url": "https://dev.to/brainiacneit/generating-optimized-image-formats-with-nodejs-hj3",
-  "publish_date": "2023-08-17",
-  "published_at": "2023-08-17T02:24:19Z"
  }
 ]
