@@ -1,5 +1,55 @@
 [
  {
+  "id": 1680260,
+  "title": "🔥5 Must have tools to install on your Kubernetes cluster ✨️🚀",
+  "description": "TL;DR   This article lists five must-have tools for developers to install on their...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z7AyyRTn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4sqilxe8emv3s0ngzyck.gif",
+  "slug": "5-must-have-tools-to-install-on-your-kubernetes-cluster-489k",
+  "url": "https://dev.to/odigos/5-must-have-tools-to-install-on-your-kubernetes-cluster-489k",
+  "publish_date": "2023-11-27",
+  "published_at": "2023-11-27T16:21:40Z"
+ },
+ {
+  "id": 1680278,
+  "title": "How Cyclops utilizes JSON schema to deliver dynamical UI",
+  "description": "Cyclops turns complicated YAML manifests into simple and structured UIs where developers can click...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GBRUXzSl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yxllae25ubwh1ynnebey.png",
+  "slug": "how-cyclops-utilizes-json-schema-to-deliver-dynamical-ui-49e",
+  "url": "https://dev.to/cyclops-ui/how-cyclops-utilizes-json-schema-to-deliver-dynamical-ui-49e",
+  "publish_date": "2023-11-27",
+  "published_at": "2023-11-27T16:02:18Z"
+ },
+ {
+  "id": 1680129,
+  "title": "Building a cloud backend in Go using REST and PostgreSQL",
+  "description": "TL;DR   💡This guide shows you how to build and deploy and Go backend for a URL Shortener. It...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nlFO1yXx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q3seymshggr02w607dp6.png",
+  "slug": "build-a-backend-in-go-using-rest-and-postgresql-307b",
+  "url": "https://dev.to/encore/build-a-backend-in-go-using-rest-and-postgresql-307b",
+  "publish_date": "2023-11-27",
+  "published_at": "2023-11-27T15:52:14Z"
+ },
+ {
+  "id": 1679445,
+  "title": "🚀⚡New open-source⚡ VS. old open-source 🦖",
+  "description": "TD;LR   In this article, I provide alternatives to mainstream Python libraries. These...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z4gf1c_B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0kh7gk8qgd69t5wojsp3.png",
+  "slug": "new-open-source-vs-old-open-source-33k7",
+  "url": "https://dev.to/taipy/new-open-source-vs-old-open-source-33k7",
+  "publish_date": "2023-11-27",
+  "published_at": "2023-11-27T14:41:38Z"
+ },
+ {
+  "id": 1673379,
+  "title": "5 Docker Extensions to make your development life easier",
+  "description": "Docker Extensions are fairly new to the tech domain, and many people haven't explored this. I thought...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3RbfRrw9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rc37qxa7fk5wlbx6lu9f.png",
+  "slug": "5-docker-extensions-to-make-your-development-life-easier-102l",
+  "url": "https://dev.to/pradumnasaraf/5-docker-extensions-to-make-your-development-life-easier-102l",
+  "publish_date": "2023-11-27",
+  "published_at": "2023-11-27T10:44:32Z"
+ },
+ {
   "id": 1678877,
   "title": "Securely deploying Swirl in Azure.",
   "description": "This is the third blog in the series where we will be checking in with the best practices to deploy...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/scorcism/bare-metal-vs-virtual-machine-vs-containers-a7e",
   "publish_date": "2023-08-20",
   "published_at": "2023-08-20T03:27:55Z"
- },
- {
-  "id": 1573422,
-  "title": "React - Portals",
-  "description": "In the world of React, creating dynamic user interfaces is a common requirement. Sometimes, you need...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BnYt4BA6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gtgho2nv7ca0eock4ac.png",
-  "slug": "react-portals-3k2d",
-  "url": "https://dev.to/brdnicolas/react-portals-3k2d",
-  "publish_date": "2023-08-19",
-  "published_at": "2023-08-19T16:44:45Z"
- },
- {
-  "id": 1573144,
-  "title": "Service Worker Templating Language (SWTL)",
-  "description": "I've previously written about Service Worker Side Rendering (SWSR) in this blog, when I was exploring...",
-  "cover_image": "",
-  "slug": "service-worker-templating-language-swtl-47e5",
-  "url": "https://dev.to/thepassle/service-worker-templating-language-swtl-47e5",
-  "publish_date": "2023-08-19",
-  "published_at": "2023-08-19T08:27:56Z"
- },
- {
-  "id": 1573107,
-  "title": "Why choose ReactJS for web development",
-  "description": "Yesterday I had a Call with one Client. 📞  His current website is in PHP and he wants to convert it...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8_QejlBT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/absajr2uc85afid3kaf1.jpg",
-  "slug": "why-choose-reactjs-for-web-development-9mb",
-  "url": "https://dev.to/jon_snow789/why-choose-reactjs-for-web-development-9mb",
-  "publish_date": "2023-08-19",
-  "published_at": "2023-08-19T06:52:00Z"
- },
- {
-  "id": 1573109,
-  "title": "My first contribution got accepted",
-  "description": "Commencing my venture into the realm of open-source contribution, I am filled with enthusiasm...",
-  "cover_image": "",
-  "slug": "my-first-contribution-got-accepted-1bof",
-  "url": "https://dev.to/kssaiteja/my-first-contribution-got-accepted-1bof",
-  "publish_date": "2023-08-19",
-  "published_at": "2023-08-19T06:47:58Z"
- },
- {
-  "id": 1573071,
-  "title": "JavaScript in Detail",
-  "description": "JavaScript, often abbreviated as JS, is a versatile and widely used programming language that powers...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Dj4WxwaV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7k4khrfohrzdh47840z4.png",
-  "slug": "javascript-in-detail-51a4",
-  "url": "https://dev.to/scorcism/javascript-in-detail-51a4",
-  "publish_date": "2023-08-19",
-  "published_at": "2023-08-19T04:57:29Z"
  }
 ]
