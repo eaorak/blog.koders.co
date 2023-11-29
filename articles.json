@@ -1,5 +1,55 @@
 [
  {
+  "id": 1680315,
+  "title": "Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫",
+  "description": "What is Self Hosted Software?   A self-hosted project refers to software, applications, or...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r8noaZ6U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nfolzmc7aleouxjw6d1l.gif",
+  "slug": "discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc",
+  "url": "https://dev.to/srbhr/discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc",
+  "publish_date": "2023-11-28",
+  "published_at": "2023-11-28T22:00:51Z"
+ },
+ {
+  "id": 1681319,
+  "title": "✨ Train ChatGPT on your Documentation 🪄 ✨",
+  "description": "TL;DR   ChatGPT is trained until 2022.  But what if you want it to give you information...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--saGqj9M3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xiuiixo8pkj8md2vibaf.gif",
+  "slug": "train-chatgpt-on-your-documentation-1a9g",
+  "url": "https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g",
+  "publish_date": "2023-11-28",
+  "published_at": "2023-11-28T14:45:01Z"
+ },
+ {
+  "id": 1681440,
+  "title": "🛠️6 tools to kickstart your full-stack app with AI 🤖",
+  "description": "“It’s 2021, where is my flying car?” - that’s a sentence that Joel Spolsky (creator of Stack Overflow...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OWgwNDoE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t2i5f3oyhnibsu1e2x5y.png",
+  "slug": "6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3",
+  "url": "https://dev.to/matijasos/6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3",
+  "publish_date": "2023-11-28",
+  "published_at": "2023-11-28T14:32:58Z"
+ },
+ {
+  "id": 1681132,
+  "title": "#FIGMA Material Minimal Design System: Updated \u0026 Extended",
+  "description": "What is Material Minimal Design System?  The base for the MDBootstrap and TW Elements libraries, an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yQvGLI4A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yx7d2inmptj4m2a3qt1r.png",
+  "slug": "figma-material-minimal-design-system-updated-extended-1a32",
+  "url": "https://dev.to/mdbootstrap/figma-material-minimal-design-system-updated-extended-1a32",
+  "publish_date": "2023-11-28",
+  "published_at": "2023-11-28T13:37:57Z"
+ },
+ {
+  "id": 1669851,
+  "title": "Clean authorization control in serverless functions",
+  "description": "Learn to properly structure your serverless code to achieve perfect authorization through a simple example use case",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_q5wqBxl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m686i5ynnovkacvth2pz.png",
+  "slug": "clean-authorization-control-in-serverless-functions-hm9",
+  "url": "https://dev.to/slsbytheodo/clean-authorization-control-in-serverless-functions-hm9",
+  "publish_date": "2023-11-28",
+  "published_at": "2023-11-28T12:47:45Z"
+ },
+ {
   "id": 1680260,
   "title": "🔥5 Must have tools to install on your Kubernetes cluster ✨️🚀",
   "description": "TL;DR   This article lists five must-have tools for developers to install on their...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/novu/automate-memes-posting-to-your-discord-with-nodejs-and-novu-28hi",
   "publish_date": "2023-08-21",
   "published_at": "2023-08-21T12:12:54Z"
- },
- {
-  "id": 1574069,
-  "title": "How to make an impact as a developer advocate",
-  "description": "Table of Contents    Introduction Why Make an Impact as a Developer Advocate?  Tips for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4LcGvsg2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1k7z8auw3r5k1870klx.jpeg",
-  "slug": "how-to-make-an-impact-as-a-developer-advocate-1jge",
-  "url": "https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge",
-  "publish_date": "2023-08-20",
-  "published_at": "2023-08-20T17:27:45Z"
- },
- {
-  "id": 1573846,
-  "title": "React Hook: useGlobalState",
-  "description": "Sharing state between React components is crucial in most applications. With useGlobalState you can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mIKY_TU4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j7u0548rdlmzh0gzus9d.png",
-  "slug": "react-hook-useglobalstate-3c9b",
-  "url": "https://dev.to/perssondennis/react-hook-useglobalstate-3c9b",
-  "publish_date": "2023-08-20",
-  "published_at": "2023-08-20T14:35:37Z"
- },
- {
-  "id": 1573842,
-  "title": "Designing an Autocomplete UI Component 🔍",
-  "description": "In the ever-evolving landscape of web development, creating intuitive user interfaces is paramount....",
-  "cover_image": "",
-  "slug": "designing-an-autocomplete-ui-component-2fbd",
-  "url": "https://dev.to/vikas2426/designing-an-autocomplete-ui-component-2fbd",
-  "publish_date": "2023-08-20",
-  "published_at": "2023-08-20T11:55:19Z"
- },
- {
-  "id": 1573721,
-  "title": "The ChatGPT Boom is Over - FINALLY!",
-  "description": "The last 9 months we've seen a boom without historical precedence. I am of course talking about the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Fi9xDDcR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lg1goe8co6adwwdflrt7.jpeg",
-  "slug": "the-chatgpt-boom-is-over-finally-45db",
-  "url": "https://dev.to/polterguy/the-chatgpt-boom-is-over-finally-45db",
-  "publish_date": "2023-08-20",
-  "published_at": "2023-08-20T08:04:36Z"
- },
- {
-  "id": 1573624,
-  "title": "Bare Metal vs Virtual Machine vs Containers",
-  "description": "I was scrolling through yt and found an interesting channel you can follow too. This blog elaborate...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lHR4Ias6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/btnz9q4ub5sb6dw85757.png",
-  "slug": "bare-metal-vs-virtual-machine-vs-containers-a7e",
-  "url": "https://dev.to/scorcism/bare-metal-vs-virtual-machine-vs-containers-a7e",
-  "publish_date": "2023-08-20",
-  "published_at": "2023-08-20T03:27:55Z"
  }
 ]
