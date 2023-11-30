@@ -1,5 +1,55 @@
 [
  {
+  "id": 1682334,
+  "title": "🏆How to master 📊 Big Data pipelines with Taipy and PySpark 🐍",
+  "description": "This article will employ a simple example to demonstrate how we can integrate PySpark with Taipy to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2URTrZgb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hnh9gq35wxcxgsr7d9bf.png",
+  "slug": "how-to-master-big-data-pipelines-with-taipy-and-pyspark-14oe",
+  "url": "https://dev.to/taipy/how-to-master-big-data-pipelines-with-taipy-and-pyspark-14oe",
+  "publish_date": "2023-11-29",
+  "published_at": "2023-11-29T16:43:36Z"
+ },
+ {
+  "id": 1682555,
+  "title": "🚀 GITLAB ON KUBERNETES: The Ultimate Deployment Guide! 🌟",
+  "description": "TL;DR 🔍   Explore the step-by-step guide to deploying GitLab on Kubernetes, focusing on the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DM9a2uDh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hc87feu7usaxd4mf095d.gif",
+  "slug": "gitlab-on-kubernetes-the-ultimate-deployment-guide-188b",
+  "url": "https://dev.to/glasskube/gitlab-on-kubernetes-the-ultimate-deployment-guide-188b",
+  "publish_date": "2023-11-29",
+  "published_at": "2023-11-29T16:43:06Z"
+ },
+ {
+  "id": 1681634,
+  "title": "✨Be a 10X Linux User with these tools 😎💫",
+  "description": "TL;DR   This article lists six great tools for developers to install on their Linux...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mnFudikT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vilz7pmj5dfymhhidbc6.gif",
+  "slug": "be-a-10x-linux-user-with-these-tools-3g1f",
+  "url": "https://dev.to/shricodev/be-a-10x-linux-user-with-these-tools-3g1f",
+  "publish_date": "2023-11-29",
+  "published_at": "2023-11-29T12:25:09Z"
+ },
+ {
+  "id": 1658981,
+  "title": "⤴️How to build a Midjourney API with Nest.js 🚀",
+  "description": "TL;DR   In this post I will show you the architecture of building an unofficial Midjourney...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w21t42bA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6a65iw9pg2yqjnvtoycu.gif",
+  "slug": "how-to-build-unofficial-midjourney-api-with-nestjs-1lnd",
+  "url": "https://dev.to/confidentai/how-to-build-unofficial-midjourney-api-with-nestjs-1lnd",
+  "publish_date": "2023-11-29",
+  "published_at": "2023-11-29T10:59:17Z"
+ },
+ {
+  "id": 1666744,
+  "title": "Testing in Production with Canary Deployments: A How-To Guide",
+  "description": "Testing in production may not seem right, does it? 🤔  With feature flags, it’s possible. So what are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tChUEv1l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7wsvihm2zirmi5iurkc4.png",
+  "slug": "testing-in-production-with-canary-deployments-a-how-to-guide-m4g",
+  "url": "https://dev.to/pradumnasaraf/testing-in-production-with-canary-deployments-a-how-to-guide-m4g",
+  "publish_date": "2023-11-29",
+  "published_at": "2023-11-29T06:10:03Z"
+ },
+ {
   "id": 1680315,
   "title": "Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫",
   "description": "What is Self Hosted Software?   A self-hosted project refers to software, applications, or...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/wasp/outsmarting-ai-the-hack-for-generating-fully-functional-web-apps-13ja",
   "publish_date": "2023-08-22",
   "published_at": "2023-08-22T12:00:00Z"
- },
- {
-  "id": 1575111,
-  "title": "Getting Started with GitHub Copilot Chat in VSCode",
-  "description": "GitHub Copilot Chat is an extension that works in your Code Editor or IDE (VS Code or Visual Studio...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5vAnJpcF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3xgzz48fdm931ocxe2ps.png",
-  "slug": "getting-started-with-github-copilot-chat-in-vscode-174m",
-  "url": "https://dev.to/github/getting-started-with-github-copilot-chat-in-vscode-174m",
-  "publish_date": "2023-08-21",
-  "published_at": "2023-08-21T18:40:33Z"
- },
- {
-  "id": 1574799,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B29dUlL9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h1sqbspxernkz6plcfdv.png",
-  "slug": "meme-monday-4d8o",
-  "url": "https://dev.to/ben/meme-monday-4d8o",
-  "publish_date": "2023-08-21",
-  "published_at": "2023-08-21T13:20:21Z"
- },
- {
-  "id": 1567584,
-  "title": "Database 101: How does migration between databases work in the real world?",
-  "description": "Recently my new task at ScyllaDB is to study how to Migrate data between Databases and as I promised...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xpWvIUFV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mudnbbr7bcjfmj4yc6o2.png",
-  "slug": "database-101-how-does-migration-between-databases-work-in-the-real-world-24dn",
-  "url": "https://dev.to/danielhe4rt/database-101-how-does-migration-between-databases-work-in-the-real-world-24dn",
-  "publish_date": "2023-08-21",
-  "published_at": "2023-08-21T13:05:09Z"
- },
- {
-  "id": 1574520,
-  "title": "🦄 How ToolJet Gained 20,000 GitHub Stars and 400 Contributors",
-  "description": "Overview   Open source projects aim to gain momentum by attracting an ample user base and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eO9thasR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f76aejzwf4l8rirxm88y.png",
-  "slug": "how-tooljet-gained-20000-github-stars-and-400-contributors-4ee0",
-  "url": "https://dev.to/tooljet/how-tooljet-gained-20000-github-stars-and-400-contributors-4ee0",
-  "publish_date": "2023-08-21",
-  "published_at": "2023-08-21T12:48:16Z"
- },
- {
-  "id": 1574566,
-  "title": "🔥🤖 Automate MEMEs posting to your Discord with NodeJS and Novu 🚀🚀",
-  "description": "TL;DR   In this tutorial, you'll learn how to build an automated Discord bot with Novu. The...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B0FfwGje--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g8f625o2svwmqcvlfi8c.gif",
-  "slug": "automate-memes-posting-to-your-discord-with-nodejs-and-novu-28hi",
-  "url": "https://dev.to/novu/automate-memes-posting-to-your-discord-with-nodejs-and-novu-28hi",
-  "publish_date": "2023-08-21",
-  "published_at": "2023-08-21T12:12:54Z"
  }
 ]
