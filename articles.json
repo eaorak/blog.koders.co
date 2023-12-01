@@ -1,5 +1,55 @@
 [
  {
+  "id": 1684414,
+  "title": "Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”",
+  "description": "We’re thrilled to introduce a simplified pricing structure that’s not only easier to understand, but...",
+  "cover_image": "",
+  "slug": "updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa",
+  "url": "https://dev.to/clerk/updated-pricing-10000-maus-free-and-a-new-pro-plan-5gaa",
+  "publish_date": "2023-11-30",
+  "published_at": "2023-11-30T21:58:15Z"
+ },
+ {
+  "id": 1683592,
+  "title": "🎁 Shortcut to Find Open Source Projects 100x faster",
+  "description": "Today, I've got 8 ways that can help you find your dream open-source project.  Before delving into...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yRqzN9tl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f1u7o8ausg5p2xg5m5cs.png",
+  "slug": "shortcut-to-find-open-source-projects-100x-faster-3lje",
+  "url": "https://dev.to/anmolbaranwal/shortcut-to-find-open-source-projects-100x-faster-3lje",
+  "publish_date": "2023-11-30",
+  "published_at": "2023-11-30T13:43:53Z"
+ },
+ {
+  "id": 1683951,
+  "title": "5 KILLER WEBSITES FOR CODERS 💎",
+  "description": "Hey coders! I wanted to share some of the coolest websites I've found that can really save your time...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TSioJDiU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/084ycco5skhb2zxq5ubx.png",
+  "slug": "5-killer-websites-for-coders-a7",
+  "url": "https://dev.to/random_ti/5-killer-websites-for-coders-a7",
+  "publish_date": "2023-11-30",
+  "published_at": "2023-11-30T13:34:53Z"
+ },
+ {
+  "id": 1683887,
+  "title": "19 GitHub Repositories Every Developer Should Bookmark 📚👍",
+  "description": "In today's dynamic world of software development, staying up-to-date with the latest tools,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--B6S7CiCq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2ckyf2xgkxi2fcqjy1jn.png",
+  "slug": "19-github-repositories-every-developer-should-bookmark-13bd",
+  "url": "https://dev.to/madza/19-github-repositories-every-developer-should-bookmark-13bd",
+  "publish_date": "2023-11-30",
+  "published_at": "2023-11-30T12:56:33Z"
+ },
+ {
+  "id": 1677252,
+  "title": "🚀 5 PRO Tips for an Unbeatable GitHub README! 🥊",
+  "description": "Hi friends 👋  Today, let's look at how to write a KILLER GitHub README file.    The README is the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0r2BPPoH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n8unp05pan5wql7mlzv4.gif",
+  "slug": "5-pro-tips-for-an-unbeatable-readme-143i",
+  "url": "https://dev.to/quine/5-pro-tips-for-an-unbeatable-readme-143i",
+  "publish_date": "2023-11-30",
+  "published_at": "2023-11-30T11:17:12Z"
+ },
+ {
   "id": 1682334,
   "title": "🏆How to master 📊 Big Data pipelines with Taipy and PySpark 🐍",
   "description": "This article will employ a simple example to demonstrate how we can integrate PySpark with Taipy to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/koolkishan/netflix-system-design-using-aws-services-27d6",
   "publish_date": "2023-08-23",
   "published_at": "2023-08-23T06:48:31Z"
- },
- {
-  "id": 1577011,
-  "title": "Autenticação e Autorização de uma ASP .NET Web API com Keycloak",
-  "description": "Olá pessoal!  No meu primeiro artigo eu gostaria de falar um pouco sobre autenticação, autorização e...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xQ-8-p7U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qmfw9812goul42jo37mg.png",
-  "slug": "autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe",
-  "url": "https://dev.to/gloinho/autenticacao-e-autorizacao-de-uma-asp-net-web-api-com-keycloak-loe",
-  "publish_date": "2023-08-22",
-  "published_at": "2023-08-22T21:52:37Z"
- },
- {
-  "id": 1576625,
-  "title": "CSS Lube: Highly-optimized CSS Interpreter",
-  "description": "Introduction   The landscape of CSS paradigms has seen a constant evolution, marked by the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jL8Wm8AW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xitkl17vsskq85yxt1a0.gif",
-  "slug": "css-lube-highly-optimized-css-interpreter-2nl5",
-  "url": "https://dev.to/artxe2/css-lube-highly-optimized-css-interpreter-2nl5",
-  "publish_date": "2023-08-22",
-  "published_at": "2023-08-22T15:02:15Z"
- },
- {
-  "id": 1576401,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round-up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-10nm",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-10nm",
-  "publish_date": "2023-08-22",
-  "published_at": "2023-08-22T13:51:02Z"
- },
- {
-  "id": 1574853,
-  "title": "⭐5 open-source libraries you must know⭐ Week 2",
-  "description": "Hello Everyone, Welcome to Week 2 of showing and sharing new open-source projects to the community....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgtLVcIT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tflizk8duwttphvhxnt3.png",
-  "slug": "5-open-source-libraries-you-must-know-week-2-1hjg",
-  "url": "https://dev.to/idurar/5-open-source-libraries-you-must-know-week-2-1hjg",
-  "publish_date": "2023-08-22",
-  "published_at": "2023-08-22T13:00:00Z"
- },
- {
-  "id": 1576306,
-  "title": "Outsmarting AI 🤖🧠 The hack for generating fully-functional web apps",
-  "description": "TL;DR   I’m an indiehacker that likes creating lots of fun side-projects, like my SaaS app...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T3OsrsN6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/80thksmm9gv7hje7acmt.gif",
-  "slug": "outsmarting-ai-the-hack-for-generating-fully-functional-web-apps-13ja",
-  "url": "https://dev.to/wasp/outsmarting-ai-the-hack-for-generating-fully-functional-web-apps-13ja",
-  "publish_date": "2023-08-22",
-  "published_at": "2023-08-22T12:00:00Z"
  }
 ]
