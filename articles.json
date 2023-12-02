@@ -1,5 +1,55 @@
 [
  {
+  "id": 1684568,
+  "title": "TIL - Today I Learn 12-11 18-11",
+  "description": "Alvaro            Make System Under Test    O nome vem de Make System Under Test (fazer...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X248waUx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v53721x4tvsgte1h4jmv.jpg",
+  "slug": "til-today-i-learn-12-11-18-11-1mdf",
+  "url": "https://dev.to/devhat/til-today-i-learn-12-11-18-11-1mdf",
+  "publish_date": "2023-12-01",
+  "published_at": "2023-12-01T20:30:00Z"
+ },
+ {
+  "id": 1665683,
+  "title": "What was your win this week?",
+  "description": "Hey folks   Hope y'all are ready for the weekend! 🙌   Looking back on this past week, what was...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ev_R8Usa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t826xw5bzcia6wkq2iti.jpg",
+  "slug": "what-was-your-win-this-week-h04",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-h04",
+  "publish_date": "2023-12-01",
+  "published_at": "2023-12-01T14:00:00Z"
+ },
+ {
+  "id": 1684757,
+  "title": "Google's Future: A Tale of Two Ex-Googlers",
+  "description": "Recently there have been 2 curious posts retrospecting on first-hand experience in the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BWeQEbUF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/816uhhp415bpvqix34p7.png",
+  "slug": "googles-future-a-tale-of-two-ex-googlers-4i1o",
+  "url": "https://dev.to/maximsaplin/googles-future-a-tale-of-two-ex-googlers-4i1o",
+  "publish_date": "2023-12-01",
+  "published_at": "2023-12-01T06:55:55Z"
+ },
+ {
+  "id": 1684654,
+  "title": "AWS Step Functions: Using the Wait State Type",
+  "description": "Before checking out the post, I recommend first looking at: Introduction to AWS Step Functions using...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w7a-WyKJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/21e6q4wq6i118xjk0i3i.png",
+  "slug": "aws-step-functions-using-the-wait-state-type-1ab1",
+  "url": "https://dev.to/aws-builders/aws-step-functions-using-the-wait-state-type-1ab1",
+  "publish_date": "2023-12-01",
+  "published_at": "2023-12-01T04:58:13Z"
+ },
+ {
+  "id": 1684529,
+  "title": "A Year in Review: Celebrating the Virtual Coffee Community",
+  "description": "Here's what Virtual Coffee has been up to in 2023",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BXh9oYO3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2dik44bslb4j8qilhv4l.png",
+  "slug": "a-year-in-review-celebrating-the-virtual-coffee-community-4fgj",
+  "url": "https://dev.to/virtualcoffee/a-year-in-review-celebrating-the-virtual-coffee-community-4fgj",
+  "publish_date": "2023-12-01",
+  "published_at": "2023-12-01T01:18:48Z"
+ },
+ {
   "id": 1684414,
   "title": "Updated Pricing: 10,000 MAUs Free, and a new “Pro Plan”",
   "description": "We’re thrilled to introduce a simplified pricing structure that’s not only easier to understand, but...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/meatboy/how-to-update-a-few-years-old-outdated-project-in-node-and-react-31jm",
   "publish_date": "2023-08-24",
   "published_at": "2023-08-24T08:40:06Z"
- },
- {
-  "id": 1577530,
-  "title": "Tipos de dados primitivos com Java",
-  "description": "Java é uma das linguagens de programação mais utilizadas do mundo, conhecida por sua robustez,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--iVZ7qw6z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/quhua5j5qjwu2md3liqk.png",
-  "slug": "tipos-de-dados-primitivos-com-java-3o4g",
-  "url": "https://dev.to/monokai_dev/tipos-de-dados-primitivos-com-java-3o4g",
-  "publish_date": "2023-08-23",
-  "published_at": "2023-08-23T11:38:41Z"
- },
- {
-  "id": 1577446,
-  "title": "Singleton Design Pattern in C#: Full Guide",
-  "description": "Have you ever wondered how to maintain a unique instance throughout the lifecycle of an application...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yx3Qh4LZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jpl1sigm3pk8q90pwzno.png",
-  "slug": "singleton-design-pattern-in-c-full-guide-12f0",
-  "url": "https://dev.to/bytehide/singleton-design-pattern-in-c-full-guide-12f0",
-  "publish_date": "2023-08-23",
-  "published_at": "2023-08-23T10:01:24Z"
- },
- {
-  "id": 1489756,
-  "title": "Welcome Thread - v239",
-  "description": "Welcome to DEV! A thread of hellos and intros.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ToZbxUFF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gl6twd8r59cvwqlllw7.jpg",
-  "slug": "welcome-thread-v241-hoc",
-  "url": "https://dev.to/devteam/welcome-thread-v241-hoc",
-  "publish_date": "2023-08-23",
-  "published_at": "2023-08-23T09:30:00Z"
- },
- {
-  "id": 1577419,
-  "title": "This VsCode Extension is a game changer⚡",
-  "description": "Do you find it difficult to switch between tabs when seeking code assistance from ChatGPT? Have you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nq0xwPtP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e9o175b5vzgzlb88i32l.png",
-  "slug": "this-vscode-extension-is-a-game-changer-1413",
-  "url": "https://dev.to/sadeedpv/this-vscode-extension-is-a-game-changer-1413",
-  "publish_date": "2023-08-23",
-  "published_at": "2023-08-23T09:18:50Z"
- },
- {
-  "id": 1576546,
-  "title": "Netflix System Design Using AWS Services",
-  "description": "In the digital age of streaming, Netflix has revolutionized how we consume content. Behind its...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BR6rRrGl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7r1cvegluznqvazwo17s.png",
-  "slug": "netflix-system-design-using-aws-services-27d6",
-  "url": "https://dev.to/koolkishan/netflix-system-design-using-aws-services-27d6",
-  "publish_date": "2023-08-23",
-  "published_at": "2023-08-23T06:48:31Z"
  }
 ]
