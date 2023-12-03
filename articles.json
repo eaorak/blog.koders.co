@@ -1,5 +1,55 @@
 [
  {
+  "id": 1665700,
+  "title": "What you learning about this weekend? 🧠",
+  "description": "Hey there 👋  What is it that you're learning on this weekend?  Whether you're sharpening your JS...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BtB0nVMg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/occha3kmmqire7ozijg6.jpg",
+  "slug": "what-you-learning-about-this-weekend-1839",
+  "url": "https://dev.to/codenewbieteam/what-you-learning-about-this-weekend-1839",
+  "publish_date": "2023-12-02",
+  "published_at": "2023-12-02T12:30:00Z"
+ },
+ {
+  "id": 1685863,
+  "title": "🤗 Welcome to DevLetter, the coolest tech newsletter!",
+  "description": "Hi everyone, my name is Taqui and I'm a computer science student who loves learning about new...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Uy2tOj5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b7n0dje99qybnggq7jo4.gif",
+  "slug": "welcome-to-devletter-the-coolest-tech-newsletter-ec2",
+  "url": "https://dev.to/random_ti/welcome-to-devletter-the-coolest-tech-newsletter-ec2",
+  "publish_date": "2023-12-02",
+  "published_at": "2023-12-02T10:13:30Z"
+ },
+ {
+  "id": 1685753,
+  "title": "How to get motivated to code?",
+  "description": "As a software developer, we all face times of procrastination which are mainly caused by various...",
+  "cover_image": "",
+  "slug": "how-to-get-motivated-to-code-3f6j",
+  "url": "https://dev.to/nandinishinduja/how-to-get-motivated-to-code-3f6j",
+  "publish_date": "2023-12-02",
+  "published_at": "2023-12-02T06:01:07Z"
+ },
+ {
+  "id": 1685230,
+  "title": "Containerization and System Design",
+  "description": "Welcome to another installment in the System Design Series by @mukeshkuiry! Today, we're delving into...",
+  "cover_image": "",
+  "slug": "containerization-and-system-design-4dmd",
+  "url": "https://dev.to/mukeshkuiry/containerization-and-system-design-4dmd",
+  "publish_date": "2023-12-02",
+  "published_at": "2023-12-02T04:30:00Z"
+ },
+ {
+  "id": 1685255,
+  "title": "PreVue 3.0: Vue’s most visual prototyping tool yet",
+  "description": "As web developers, it’s crucial that our ideas be tangible and easily presentable. This makes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jqtCOAVP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ugej1p03w79zpjz4viq1.png",
+  "slug": "prevue-30-vues-most-visual-prototyping-tool-yet-39lh",
+  "url": "https://dev.to/greenteaisgreat/prevue-30-vues-most-visual-prototyping-tool-yet-39lh",
+  "publish_date": "2023-12-02",
+  "published_at": "2023-12-02T02:44:28Z"
+ },
+ {
   "id": 1684568,
   "title": "TIL - Today I Learn 12-11 18-11",
   "description": "Alvaro            Make System Under Test    O nome vem de Make System Under Test (fazer...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p",
   "publish_date": "2023-08-25",
   "published_at": "2023-08-25T04:27:39Z"
- },
- {
-  "id": 1573567,
-  "title": "Diving into the GitHub Octernships program with OpenSauced",
-  "description": "In my last blog post, I shared how I got selected for the GitHub Octernships program and how you can...",
-  "cover_image": "",
-  "slug": "diving-into-the-github-octernships-program-with-opensauced-1inf",
-  "url": "https://dev.to/opensauced/diving-into-the-github-octernships-program-with-opensauced-1inf",
-  "publish_date": "2023-08-24",
-  "published_at": "2023-08-24T13:08:00Z"
- },
- {
-  "id": 1578425,
-  "title": "Zero to Hero in Technical Writing: Making Consistent Income",
-  "description": "Introduction   Technical Writing is about writing articles, documentation, emails, technical...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X7wr-uv5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vps2xumiqc4afq2wea09.png",
-  "slug": "zero-to-hero-in-technical-writing-making-consistent-income-3ddi",
-  "url": "https://dev.to/surajondev/zero-to-hero-in-technical-writing-making-consistent-income-3ddi",
-  "publish_date": "2023-08-24",
-  "published_at": "2023-08-24T11:30:00Z"
- },
- {
-  "id": 1578376,
-  "title": "How I Became a Tech Conference Speaker as a Newbie \u0026 How You Can Do It Too",
-  "description": "How it started, How it's going and How you can do it too!  Hello beautiful people, 🙋‍♀️  I recently...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jF7dRWoo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecv6ecegw9g6s8e04j18.jpeg",
-  "slug": "how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too-4km8",
-  "url": "https://dev.to/eleftheriabatsou/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too-4km8",
-  "publish_date": "2023-08-24",
-  "published_at": "2023-08-24T10:31:50Z"
- },
- {
-  "id": 1578527,
-  "title": "How to grow a developer blog to 3M annual visitors? with Jakub Czakon (Neptune.ai)",
-  "description": "Welcome to another episode of The Developer-led Podcast, where we dive into the strategies modern...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LShZFi2m--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3d9plw9b35ahlc5lfep7.png",
-  "slug": "how-to-grow-a-developer-blog-to-3m-annual-visitors-with-jakub-czakon-neptuneai-29m6",
-  "url": "https://dev.to/crowddotdev/how-to-grow-a-developer-blog-to-3m-annual-visitors-with-jakub-czakon-neptuneai-29m6",
-  "publish_date": "2023-08-24",
-  "published_at": "2023-08-24T09:06:33Z"
- },
- {
-  "id": 1568055,
-  "title": "How to update a few years old outdated project in Node and React?",
-  "description": "Navigating old Node.js dependencies can be confusing. In this article, I'll share how I decoded this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tm0RSxvA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c12y89lx7uq6bagihu5u.png",
-  "slug": "how-to-update-a-few-years-old-outdated-project-in-node-and-react-31jm",
-  "url": "https://dev.to/meatboy/how-to-update-a-few-years-old-outdated-project-in-node-and-react-31jm",
-  "publish_date": "2023-08-24",
-  "published_at": "2023-08-24T08:40:06Z"
  }
 ]
