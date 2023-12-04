@@ -1,5 +1,55 @@
 [
  {
+  "id": 1686758,
+  "title": "Don't worry, I've not given up!",
+  "description": "Hi guys!!  I've just finished my first week of the Front-End Web Development bootcamp. Some of you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BqPqS1l---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b90lhbvf60u3axx2brz8.jpg",
+  "slug": "dont-worry-ive-not-given-up-5gc1",
+  "url": "https://dev.to/nicole__/dont-worry-ive-not-given-up-5gc1",
+  "publish_date": "2023-12-03",
+  "published_at": "2023-12-03T17:28:51Z"
+ },
+ {
+  "id": 1686748,
+  "title": "Pros and Cons of Remote Work",
+  "description": "As a person who works remotely for most of the month, I have observed some pros and cons of working...",
+  "cover_image": "",
+  "slug": "pros-and-cons-of-remote-work-2dl0",
+  "url": "https://dev.to/nandinishinduja/pros-and-cons-of-remote-work-2dl0",
+  "publish_date": "2023-12-03",
+  "published_at": "2023-12-03T17:08:57Z"
+ },
+ {
+  "id": 1686659,
+  "title": "How to beat impostor syndrome as a software developer?",
+  "description": "Let's be honest, if you are a software developer, you have probably felt like an impostor at least...",
+  "cover_image": "",
+  "slug": "how-to-beat-impostor-syndrome-as-a-software-developer-2f9n",
+  "url": "https://dev.to/nandinishinduja/how-to-beat-impostor-syndrome-as-a-software-developer-2f9n",
+  "publish_date": "2023-12-03",
+  "published_at": "2023-12-03T15:18:46Z"
+ },
+ {
+  "id": 1686494,
+  "title": "React Hook: useElementDimensions",
+  "description": "CSS is great, but sometimes it is not enough. Sometimes you need to know the size of CSS elements in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UeglqKaA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zk9rptf4tl3m4vtykfr6.png",
+  "slug": "react-hook-useelementdimensions-42cl",
+  "url": "https://dev.to/perssondennis/react-hook-useelementdimensions-42cl",
+  "publish_date": "2023-12-03",
+  "published_at": "2023-12-03T15:14:20Z"
+ },
+ {
+  "id": 1686546,
+  "title": "JavaScript fundamentals before learning React",
+  "description": "After all my teachings about React, be it online for a larger audience or on-site for companies...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZORHEzyp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0gzrn4is0lao3q1s2oy5.png",
+  "slug": "javascript-fundamentals-before-learning-react-1li1",
+  "url": "https://dev.to/codingcss/javascript-fundamentals-before-learning-react-1li1",
+  "publish_date": "2023-12-03",
+  "published_at": "2023-12-03T12:05:29Z"
+ },
+ {
   "id": 1665700,
   "title": "What you learning about this weekend? 🧠",
   "description": "Hey there 👋  What is it that you're learning on this weekend?  Whether you're sharpening your JS...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shameel/understanding-promise-in-javascript-45kc",
   "publish_date": "2023-08-26",
   "published_at": "2023-08-26T07:42:20Z"
- },
- {
-  "id": 1579816,
-  "title": "What to look for when hiring a new engineer for your team?",
-  "description": "During my career, I had the pleasure to interview more than 300 engineers.  Throughout my experience,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_HC2dEaP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/im4brksi6igcsfs6py4j.jpg",
-  "slug": "what-to-look-for-when-hiring-a-new-engineer-for-your-team-ndb",
-  "url": "https://dev.to/gregorojstersek/what-to-look-for-when-hiring-a-new-engineer-for-your-team-ndb",
-  "publish_date": "2023-08-25",
-  "published_at": "2023-08-25T13:42:23Z"
- },
- {
-  "id": 1579717,
-  "title": "API Integration: GraphQL vs gRPC vs REST: Which API is Right for You?",
-  "description": "APIs (Application Programming Interfaces) play an important role in enabling communication and data...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tA8xHeaH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b7q1htyq270dxir9gf7g.jpg",
-  "slug": "api-integration-graphql-vs-grpc-vs-rest-which-api-is-right-for-you-hl9",
-  "url": "https://dev.to/newsdataio/api-integration-graphql-vs-grpc-vs-rest-which-api-is-right-for-you-hl9",
-  "publish_date": "2023-08-25",
-  "published_at": "2023-08-25T10:58:15Z"
- },
- {
-  "id": 1565895,
-  "title": "What was your win this week?",
-  "description": "Looking back on this past week, what was something you were proud of accomplishing?",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vsTDfqRZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wyck78r593005hlbngyn.jpg",
-  "slug": "what-was-your-win-this-week-bbi",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-bbi",
-  "publish_date": "2023-08-25",
-  "published_at": "2023-08-25T09:30:00Z"
- },
- {
-  "id": 1575021,
-  "title": "Open Source: What’s Your Contribution?",
-  "description": "Do you actively contribute to open source projects? What motivates you to contribute, and what are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X48LFF0J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/toqxcykyqqi28584lc4f.png",
-  "slug": "open-source-whats-your-contribution-51p5",
-  "url": "https://dev.to/devteam/open-source-whats-your-contribution-51p5",
-  "publish_date": "2023-08-25",
-  "published_at": "2023-08-25T07:00:00Z"
- },
- {
-  "id": 1571293,
-  "title": "WTF Is a Vector Database: A Beginner's Guide!",
-  "description": "In the age of burgeoning data complexity and high-dimensional information, traditional databases...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-cXOkVW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v1p0o6im81aah6ajdz1b.png",
-  "slug": "wtf-is-a-vector-database-a-beginners-guide-16p",
-  "url": "https://dev.to/pavanbelagatti/wtf-is-a-vector-database-a-beginners-guide-16p",
-  "publish_date": "2023-08-25",
-  "published_at": "2023-08-25T04:27:39Z"
  }
 ]
