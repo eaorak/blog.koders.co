@@ -1,5 +1,55 @@
 [
  {
+  "id": 1688488,
+  "title": "🧙‍♂️ Generate blogs with ChatGPT assistant 🪄 ✨",
+  "description": "TL;DR   We have all seen what ChatGPT can do (it’s not new to anybody).  So many articles...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nZUYtOQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ow0niqmowt99ctqs2drb.gif",
+  "slug": "generate-blogs-with-chatgpt-assistant-1894",
+  "url": "https://dev.to/triggerdotdev/generate-blogs-with-chatgpt-assistant-1894",
+  "publish_date": "2023-12-06",
+  "published_at": "2023-12-06T15:02:29Z"
+ },
+ {
+  "id": 1688775,
+  "title": "⚡⚡ Level Up Your Cloud Experience with These 7 Open Source Projects 🌩️",
+  "description": "The seven open-source projects I will mention are not only essential tools for cloud-native...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W40__n5f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jmbmzx9lcgkmfu46pbql.gif",
+  "slug": "level-up-your-cloud-experience-with-these-7-open-source-projects-37p8",
+  "url": "https://dev.to/nathan_tarbert/level-up-your-cloud-experience-with-these-7-open-source-projects-37p8",
+  "publish_date": "2023-12-06",
+  "published_at": "2023-12-06T14:08:54Z"
+ },
+ {
+  "id": 1689041,
+  "title": "5 Serverless Best Practices to Become a Skilled Cloud Architect",
+  "description": "Discovers 5 serverless best practices that will help you build faster, cheaper, greener, more secure and stable serverless applications on AWS, using sls-mentor",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--acuOW9hY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/sls-mentor/5-best-practices/assets/cover-image.png",
+  "slug": "5-serverless-best-practices-to-become-a-skilled-cloud-architect-5dej",
+  "url": "https://dev.to/slsbytheodo/5-serverless-best-practices-to-become-a-skilled-cloud-architect-5dej",
+  "publish_date": "2023-12-06",
+  "published_at": "2023-12-06T13:58:11Z"
+ },
+ {
+  "id": 1682714,
+  "title": "Custom Fields: Give Your Customers the Fields They Need",
+  "description": "Each agency is different (think type, size, services they offer…), so they need customization options for their workflows. You can imagine it's pretty tough to model all those needs through a unified data model. If only there were a way...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ajJpXjy1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wykyzawnfphsbvf3o92p.png",
+  "slug": "custom-fields-give-your-customers-the-fields-they-need-41pi",
+  "url": "https://dev.to/productive/custom-fields-give-your-customers-the-fields-they-need-41pi",
+  "publish_date": "2023-12-06",
+  "published_at": "2023-12-06T10:20:00Z"
+ },
+ {
+  "id": 1685085,
+  "title": "Decoupling Deployment From Release With Feature Toggles",
+  "description": "Deploying new features is a nerve-racking task, but it must be done.  Here’s an issue we’ve all faced...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MDBQvoNM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gcsfbag7wmywjx6nl1du.jpg",
+  "slug": "decoupling-deployment-from-release-with-feature-toggles-7lo",
+  "url": "https://dev.to/productive/decoupling-deployment-from-release-with-feature-toggles-7lo",
+  "publish_date": "2023-12-06",
+  "published_at": "2023-12-06T09:47:41Z"
+ },
+ {
   "id": 1688705,
   "title": "🤜💥🤛 GPT-4 vs Claude-2 context recall analysis",
   "description": "In today’s rapidly advancing AI world, one of the limiting factors of modern Large Language Models...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zhukmax/design-patterns-in-php-8-abstract-factory-32d1",
   "publish_date": "2023-08-29",
   "published_at": "2023-08-29T06:45:47Z"
- },
- {
-  "id": 1582571,
-  "title": "Why Every Designer Should Consider an IQ Test: Unlocking Creative Potential",
-  "description": "The world of design is a vast and intricate space, brimming with creativity, innovation, and a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CFEz4bBb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zqzdk2mgtoj6c1f9gn9a.jpg",
-  "slug": "why-every-designer-should-consider-an-iq-test-unlocking-creative-potential-1o5i",
-  "url": "https://dev.to/alyciakyla/why-every-designer-should-consider-an-iq-test-unlocking-creative-potential-1o5i",
-  "publish_date": "2023-08-28",
-  "published_at": "2023-08-28T17:47:11Z"
- },
- {
-  "id": 1582281,
-  "title": "We Are Turning off Listings",
-  "description": "Hey folks, we wanted to let you know that we will be turning off Listings and Credits on DEV. We will...",
-  "cover_image": "",
-  "slug": "we-are-turning-off-listings-5857",
-  "url": "https://dev.to/devteam/we-are-turning-off-listings-5857",
-  "publish_date": "2023-08-28",
-  "published_at": "2023-08-28T16:44:30Z"
- },
- {
-  "id": 1532587,
-  "title": "📜 Novu's Communication Manifest: Lighting the Path to our Future 💡",
-  "description": "TL;DR   As part of our second offsite, the team at Novu created a set of principles to help...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QjNvO2jz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uvwzmur4hhu6rzj4sxii.png",
-  "slug": "novus-communication-manifest-lighting-the-path-to-our-future-2meb",
-  "url": "https://dev.to/novu/novus-communication-manifest-lighting-the-path-to-our-future-2meb",
-  "publish_date": "2023-08-28",
-  "published_at": "2023-08-28T12:13:31Z"
- },
- {
-  "id": 1582168,
-  "title": "Performance e elegância! Escrevendo uma CLI CRUD utilizando ScyllaDB e Ruby",
-  "description": "Boas pessoas desenvolvedoras precisam saber fazer CRUD não é mesmo? Então já pensou em ser capaz de...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EbFxx-sh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lmfnkb0pnvi0rkcpe979.png",
-  "slug": "performance-e-elegancia-escrevendo-uma-cli-crud-utilizando-scylladb-e-ruby-1452",
-  "url": "https://dev.to/he4rt/performance-e-elegancia-escrevendo-uma-cli-crud-utilizando-scylladb-e-ruby-1452",
-  "publish_date": "2023-08-28",
-  "published_at": "2023-08-28T11:24:53Z"
- },
- {
-  "id": 1577508,
-  "title": "📃 👀 Run in-app surveys in your web app in 10 minutes with Formbricks 🤓❤️‍🔥",
-  "description": "Did you know that in app surveys have a whopping 6-10x better conversion rate compared to those...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x_KGGlSy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bsy3amgiegpyj1rven2f.png",
-  "slug": "run-in-app-surveys-in-your-web-app-in-10-minutes-with-formbricks-37nl",
-  "url": "https://dev.to/jobenjada/run-in-app-surveys-in-your-web-app-in-10-minutes-with-formbricks-37nl",
-  "publish_date": "2023-08-28",
-  "published_at": "2023-08-28T10:33:37Z"
  }
 ]
