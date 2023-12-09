@@ -1,5 +1,55 @@
 [
  {
+  "id": 1691983,
+  "title": "Changelog: Updating the Stats Page",
+  "description": "We're working on several significant feature improvements here at DEV, including making the feed more...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2kgnTrCD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/po2yq7y6hy9r6l5964o1.png",
+  "slug": "changelog-updating-the-stats-page-dp0",
+  "url": "https://dev.to/devteam/changelog-updating-the-stats-page-dp0",
+  "publish_date": "2023-12-08",
+  "published_at": "2023-12-08T14:55:22Z"
+ },
+ {
+  "id": 1692094,
+  "title": "Faster testing with Angular and Vitest ⚡️",
+  "description": "In the Angular ecosystem, there are a few recommended tools used to run unit tests including Karma,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZB7PQ-lK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ctvhufxj3f91apaz2abf.png",
+  "slug": "faster-testing-with-angular-and-vitest-274n",
+  "url": "https://dev.to/brandontroberts/faster-testing-with-angular-and-vitest-274n",
+  "publish_date": "2023-12-08",
+  "published_at": "2023-12-08T14:40:37Z"
+ },
+ {
+  "id": 1691991,
+  "title": "Five tools to add to your K8s cluster",
+  "description": "‍ Kubernetes has become the go-to platform for managing containerized applications, offering...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9BHNH8G7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u71kab7ucqmlvjd8fba4.png",
+  "slug": "five-tools-to-add-to-your-k8s-cluster-2j89",
+  "url": "https://dev.to/cyclops-ui/five-tools-to-add-to-your-k8s-cluster-2j89",
+  "publish_date": "2023-12-08",
+  "published_at": "2023-12-08T12:46:25Z"
+ },
+ {
+  "id": 1691905,
+  "title": "The Conundrum of the \"Top X\" Articles 🤔",
+  "description": "In the vast ocean of programming and technology, we all strive to stay afloat. DEV has emerged as one...",
+  "cover_image": "",
+  "slug": "the-conundrum-of-the-top-x-articles-l55",
+  "url": "https://dev.to/rgolawski/the-conundrum-of-the-top-x-articles-l55",
+  "publish_date": "2023-12-08",
+  "published_at": "2023-12-08T10:53:36Z"
+ },
+ {
+  "id": 1691732,
+  "title": "Get started with Cerbos Hub",
+  "description": "Managing permissions and authorization for SaaS applications is a critical challenge that developers,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fHIT2Cxf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/br77q94jjxgwtd5ln3ux.png",
+  "slug": "get-started-with-cerbos-hub-8n3",
+  "url": "https://dev.to/cerbos/get-started-with-cerbos-hub-8n3",
+  "publish_date": "2023-12-08",
+  "published_at": "2023-12-08T07:12:27Z"
+ },
+ {
   "id": 1685977,
   "title": "The One Plot to Rule Them All",
   "description": "Prologue: In a Data Shire Far Away in Copenhagen     In the quiet Shire of Data Science,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nfrankel/send-your-logs-to-loki-2ko3",
   "publish_date": "2023-08-31",
   "published_at": "2023-08-31T09:02:00Z"
- },
- {
-  "id": 1583368,
-  "title": "Appwrite 1.4 Brings Command Center, AI, One-Click Migrations, and Upgraded Functions",
-  "description": "Hey there, Appwrite community! We’ve just released Appwrite 1.4 with the goals to eliminate barriers...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2NcC2IJ0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lwoyii5vb0c5a9ucu4ps.png",
-  "slug": "appwrite-14-brings-command-center-ai-one-click-migrations-and-upgraded-functions-1ch2",
-  "url": "https://dev.to/appwrite/appwrite-14-brings-command-center-ai-one-click-migrations-and-upgraded-functions-1ch2",
-  "publish_date": "2023-08-30",
-  "published_at": "2023-08-30T14:22:43Z"
- },
- {
-  "id": 1583347,
-  "title": "💡From Idea to Exit: Building and Selling an AI-powered SaaS in 5 Months 🤖💰",
-  "description": "Since the release of ChatGPT, we’ve been flooded with all possible versions of apps that use it in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lSaoSyU1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hd757dt45m41yq89omwd.png",
-  "slug": "from-idea-to-exit-building-and-selling-an-ai-powered-saas-in-5-months-27d9",
-  "url": "https://dev.to/wasp/from-idea-to-exit-building-and-selling-an-ai-powered-saas-in-5-months-27d9",
-  "publish_date": "2023-08-30",
-  "published_at": "2023-08-30T11:58:53Z"
- },
- {
-  "id": 1584397,
-  "title": "Top 5+ ReactJS UI Components Libraries for 2023",
-  "description": "As we all know, in the ever-evolving landscape of front-end frameworks, ReactJS has established...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t7rZjXXg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lbvqvw2nzc6ec68kfvzs.png",
-  "slug": "top-5-reactjs-ui-components-libraries-for-2023-4673",
-  "url": "https://dev.to/fredy/top-5-reactjs-ui-components-libraries-for-2023-4673",
-  "publish_date": "2023-08-30",
-  "published_at": "2023-08-30T11:08:49Z"
- },
- {
-  "id": 1583874,
-  "title": "css-loaders.com: The Biggest Collection of Loading Animations (more than 500 🤯)",
-  "description": "It's been a while but I finally did it. I collected all my CSS-only loaders into one unique...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ClSYgouR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/22lw2pioosgar83ux4i2.jpg",
-  "slug": "css-loaderscom-the-biggest-collection-of-loading-animations-more-than-500--23jg",
-  "url": "https://dev.to/afif/css-loaderscom-the-biggest-collection-of-loading-animations-more-than-500--23jg",
-  "publish_date": "2023-08-30",
-  "published_at": "2023-08-30T09:36:53Z"
- },
- {
-  "id": 1584029,
-  "title": "Memorization and learning to code",
-  "description": "Memorization equals learning.  For many of us, it’s how our understanding was assessed. We were...",
-  "cover_image": "",
-  "slug": "memorization-and-learning-to-code-1b6h",
-  "url": "https://dev.to/theodinproject/memorization-and-learning-to-code-1b6h",
-  "publish_date": "2023-08-30",
-  "published_at": "2023-08-30T03:03:14Z"
  }
 ]
