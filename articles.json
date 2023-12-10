@@ -1,5 +1,55 @@
 [
  {
+  "id": 1692677,
+  "title": "Adding AI ✨ To Your Enterprise with Swirl: Search Smarter, Better, and Faster ⚡️",
+  "description": "The Problem with Traditional Search   The traditional approach is the lift and shift of data...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qRql-hAF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fefrfswn8r9pwbpnzq4m.png",
+  "slug": "adding-ai-to-your-enterprise-with-swirl-search-smarter-better-and-faster-4f9b",
+  "url": "https://dev.to/swirl/adding-ai-to-your-enterprise-with-swirl-search-smarter-better-and-faster-4f9b",
+  "publish_date": "2023-12-09",
+  "published_at": "2023-12-09T14:44:48Z"
+ },
+ {
+  "id": 1691622,
+  "title": "✨23 Open-Source libraries to launch your portfolio (to the moon)🚀🚀",
+  "description": "Contributing to a great open-source library is a great way to establish a portfolio.   I've compiled...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QIo-UBP8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w08ivgkh2h6qiuvo7eg1.gif",
+  "slug": "23-open-source-libraries-to-launch-your-portfolio-to-the-moon-fe",
+  "url": "https://dev.to/copilotkit/23-open-source-libraries-to-launch-your-portfolio-to-the-moon-fe",
+  "publish_date": "2023-12-09",
+  "published_at": "2023-12-09T13:47:52Z"
+ },
+ {
+  "id": 1692735,
+  "title": "Prompt Chaining with AiConfig",
+  "description": "Introduction   In thing blog post, you will be guided with the prompt chaining techniques...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rrf_70Fk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jy79rilu0gmy25muvpjd.png",
+  "slug": "prompt-chaining-with-aiconfig-4afm",
+  "url": "https://dev.to/ranjancse/prompt-chaining-with-aiconfig-4afm",
+  "publish_date": "2023-12-09",
+  "published_at": "2023-12-09T10:28:07Z"
+ },
+ {
+  "id": 1692675,
+  "title": "I used CodiumAI's PR Agent, and I love it",
+  "description": "Recently, I started developing a PyTorch-esque library for educational purposes to know what goes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y_WiU_Hx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5vzpixh0wcmbu3ngp4p.jpg",
+  "slug": "i-used-codiumais-pr-agent-and-i-love-it-1nb8",
+  "url": "https://dev.to/akshayballal/i-used-codiumais-pr-agent-and-i-love-it-1nb8",
+  "publish_date": "2023-12-09",
+  "published_at": "2023-12-09T08:38:50Z"
+ },
+ {
+  "id": 1692461,
+  "title": "Open Source alternatives to tools you Pay for",
+  "description": "Open Source Eats the Software  I created osssoftware.org with a focus on:   Winners of PH Best dev...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gQR-5aE5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89fciero9877z86xsk55.png",
+  "slug": "open-source-alternatives-to-tools-you-pay-for-1g9c",
+  "url": "https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c",
+  "publish_date": "2023-12-09",
+  "published_at": "2023-12-09T01:20:03Z"
+ },
+ {
   "id": 1691983,
   "title": "Changelog: Updating the Stats Page",
   "description": "We're working on several significant feature improvements here at DEV, including making the feed more...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/nitdgplug/introduction-to-serverless-architecture-with-firebase-and-cloud-functions-1fko",
   "publish_date": "2023-09-01",
   "published_at": "2023-09-01T06:44:15Z"
- },
- {
-  "id": 1515617,
-  "title": "Learn serverless on AWS step-by-step - DynamoDB Streams",
-  "description": "TL;DR   In this series, I try to explain the basics of serverless on AWS, to enable you to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LmUwjnJI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/dynamodb-streams/assets/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-dynamodb-streams-21g5",
-  "url": "https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-dynamodb-streams-21g5",
-  "publish_date": "2023-08-31",
-  "published_at": "2023-08-31T12:16:50Z"
- },
- {
-  "id": 1583671,
-  "title": "Introducing Appwrite Migrations: Effortless data migration from your platforms",
-  "description": "Moving house is a chore. You have to pack, then hire a moving company, wonder if your giant sofa fits...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1d0DsDnZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l4n1s3js2ocphfe9hvzb.png",
-  "slug": "introducing-appwrite-migrations-effortless-data-migration-from-your-platforms-5dhh",
-  "url": "https://dev.to/appwrite/introducing-appwrite-migrations-effortless-data-migration-from-your-platforms-5dhh",
-  "publish_date": "2023-08-31",
-  "published_at": "2023-08-31T10:14:27Z"
- },
- {
-  "id": 1585491,
-  "title": "How to build a full-stack authentication app",
-  "description": "Most web applications need a sign-up and login feature. But for newbies, this can be challenging....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R6UbJuex--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0264jtaqdw92xaaheeig.png",
-  "slug": "how-to-build-a-full-stack-authentication-app-1cp0",
-  "url": "https://dev.to/apisix/how-to-build-a-full-stack-authentication-app-1cp0",
-  "publish_date": "2023-08-31",
-  "published_at": "2023-08-31T10:11:53Z"
- },
- {
-  "id": 1585270,
-  "title": "Introducing Hoppscotch Enterprise Edition and a plethora of features - The Hoppscotch August 2023 Release You Can't Miss!",
-  "description": "We are thrilled to reveal our Hoppscotch August Release, version 2023.8.0! Our dedicated team has...",
-  "cover_image": "",
-  "slug": "introducing-hoppscotch-enterprise-edition-and-a-plethora-of-features-the-hoppscotch-august-2023-release-you-cant-miss-hcg",
-  "url": "https://dev.to/hoppscotch/introducing-hoppscotch-enterprise-edition-and-a-plethora-of-features-the-hoppscotch-august-2023-release-you-cant-miss-hcg",
-  "publish_date": "2023-08-31",
-  "published_at": "2023-08-31T09:56:51Z"
- },
- {
-  "id": 1581341,
-  "title": "Send your logs to Loki",
-  "description": "One of my current talks focuses on Observability in general and Distributed Tracing in particular,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1FNqSr1Z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4uv6dcthxxlwv0xofu0u.jpg",
-  "slug": "send-your-logs-to-loki-2ko3",
-  "url": "https://dev.to/nfrankel/send-your-logs-to-loki-2ko3",
-  "publish_date": "2023-08-31",
-  "published_at": "2023-08-31T09:02:00Z"
  }
 ]
