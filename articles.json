@@ -1,5 +1,55 @@
 [
  {
+  "id": 1694414,
+  "title": "AI code generation vs. coding by hand - what programming is going to look like in 202X 🤖 🤔",
+  "description": "We are working on a full-stack web framework for React \u0026amp; Node.js, that uses a simple...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--h1ybxtWv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y09120ozszkidv6s12x8.png",
+  "slug": "ai-code-generation-vs-coding-by-hand-what-programming-is-going-to-look-like-in-202x-1idh",
+  "url": "https://dev.to/wasp/ai-code-generation-vs-coding-by-hand-what-programming-is-going-to-look-like-in-202x-1idh",
+  "publish_date": "2023-12-11",
+  "published_at": "2023-12-11T14:39:35Z"
+ },
+ {
+  "id": 1694306,
+  "title": "The Pipeline🛠️Repos Showdown⚔️: Python 🐍 Edition",
+  "description": "TL;DR   In the data engineering and automation ever-evolving landscape, Python has seen...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3OAhNQYI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9ndrwdcdc3544try8b1f.gif",
+  "slug": "the-pipeline-repos-showdown-python-edition-39i5",
+  "url": "https://dev.to/taipy/the-pipeline-repos-showdown-python-edition-39i5",
+  "publish_date": "2023-12-11",
+  "published_at": "2023-12-11T14:04:49Z"
+ },
+ {
+  "id": 1694172,
+  "title": "🔪 6 Killer Open-Source Libraries to Achieve AI Mastery before 2024 🔥🪄",
+  "description": "TL;DR   AI has traditionally been a very difficult field for web developers to break into......",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5ULd0CHf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jm6m55wgvf2d4ueahl5c.gif",
+  "slug": "6-killer-open-source-libraries-to-achieve-ai-mastery-before-2024-4p1c",
+  "url": "https://dev.to/confidentai/6-killer-open-source-libraries-to-achieve-ai-mastery-before-2024-4p1c",
+  "publish_date": "2023-12-11",
+  "published_at": "2023-12-11T10:41:32Z"
+ },
+ {
+  "id": 1690945,
+  "title": "👋 Why we say GOODBYE to HELM 👋",
+  "description": "TL;DR 🔍   In this blog post, we address our issues withwith Helm, a popular Kubernetes...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JaQwXFt5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/26mlcst1opgwdw9wb49l.png",
+  "slug": "why-we-say-goodbye-to-helm-3bmf",
+  "url": "https://dev.to/glasskube/why-we-say-goodbye-to-helm-3bmf",
+  "publish_date": "2023-12-11",
+  "published_at": "2023-12-11T09:47:59Z"
+ },
+ {
+  "id": 1693851,
+  "title": "🚨 🚀 25 Reasons (You MUST Know!!) Why “Listicles” Are BAD for dev.to 🤯 👿 🚨",
+  "description": "Yes, the title of this post is an example of something like one of the many so called “Listicles”...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uN40-UqT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/krpnr7kszn8yebvu8l1f.png",
+  "slug": "25-reasons-you-must-know-why-listicles-are-bad-for-devto-1hok",
+  "url": "https://dev.to/best_codes/25-reasons-you-must-know-why-listicles-are-bad-for-devto-1hok",
+  "publish_date": "2023-12-11",
+  "published_at": "2023-12-11T02:53:21Z"
+ },
+ {
   "id": 1693450,
   "title": "33 Christmas Animations to Easily Add to Your Website",
   "description": "Yes, it's already that time of year. Whether you love or hate Christmas, a small Christmas CSS...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/scofieldidehen/a-guide-to-atomic-design-with-react-components-34k1",
   "publish_date": "2023-09-03",
   "published_at": "2023-09-03T05:06:29Z"
- },
- {
-  "id": 1587777,
-  "title": "Pezzo v0.5 - Dashboards, Caching, Python Client, and More!",
-  "description": "This version brings a lot of new features and improvements to Pezzo. We're excited to share them with...",
-  "cover_image": "",
-  "slug": "pezzo-v05-dashboards-caching-python-client-and-more-2enk",
-  "url": "https://dev.to/pezzo/pezzo-v05-dashboards-caching-python-client-and-more-2enk",
-  "publish_date": "2023-09-02",
-  "published_at": "2023-09-02T17:15:53Z"
- },
- {
-  "id": 1587217,
-  "title": "Profundezas do Node.js: Explorando I/O Assíncrono",
-  "description": "Introdução Como o Node trata o Código Assíncrono  Operações Assíncronas: O que São?   Operação...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lKLHcOuF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mzqxqw5zourkqxxaf186.jpeg",
-  "slug": "profundezas-do-nodejs-explorando-io-assincrono-mim",
-  "url": "https://dev.to/ocodista/profundezas-do-nodejs-explorando-io-assincrono-mim",
-  "publish_date": "2023-09-02",
-  "published_at": "2023-09-02T13:21:27Z"
- },
- {
-  "id": 1587613,
-  "title": "Server-Side Rendering (SSR)",
-  "description": "Server-side rendering (SSR) refers to the process of rendering React components on the server before...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--68uBq63I--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6e0li25mua6g8phxls34.jpg",
-  "slug": "server-side-rendering-ssr-353e",
-  "url": "https://dev.to/scofieldidehen/server-side-rendering-ssr-353e",
-  "publish_date": "2023-09-02",
-  "published_at": "2023-09-02T12:11:24Z"
- },
- {
-  "id": 1586474,
-  "title": "Design Patterns in PHP 8: Proxy",
-  "description": "Hello, fellow developers!🧑🏼‍💻  Today, we're diving into another fascinating design pattern: the Proxy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c660JakU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wodhvkovu9gif00vr31b.jpg",
-  "slug": "design-patterns-in-php-8-proxy-58ab",
-  "url": "https://dev.to/zhukmax/design-patterns-in-php-8-proxy-58ab",
-  "publish_date": "2023-09-02",
-  "published_at": "2023-09-02T09:53:29Z"
- },
- {
-  "id": 1587378,
-  "title": "Introduction to \"Grokking the SQL Interview\" for Developers",
-  "description": "Grokking the SQL Interview questions is a specialized book for preparing SQL and Database related questions for tech interviews. ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bRGLJHeE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://public-files.gumroad.com/aovg2kd8pi71k4qezq2efvztl0bx",
-  "slug": "introduction-to-grokking-the-sql-interview-for-developers-2fhb",
-  "url": "https://dev.to/javinpaul/introduction-to-grokking-the-sql-interview-for-developers-2fhb",
-  "publish_date": "2023-09-02",
-  "published_at": "2023-09-02T05:32:32Z"
  }
 ]
