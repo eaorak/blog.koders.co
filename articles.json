@@ -1,5 +1,55 @@
 [
  {
+  "id": 1696015,
+  "title": "Edge Functions: Node and native npm compatibility",
+  "description": "We are excited to announce that Edge Functions now natively supports npm modules and Node built-in...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TTnsb0bh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vhledau9uoi5jghg3xs.png",
+  "slug": "edge-functions-node-and-native-npm-compatibility-77f",
+  "url": "https://dev.to/supabase/edge-functions-node-and-native-npm-compatibility-77f",
+  "publish_date": "2023-12-12",
+  "published_at": "2023-12-12T19:02:28Z"
+ },
+ {
+  "id": 1695807,
+  "title": "🖌️⚙️ Innovate Like Da Vinci: Blending Art and Science in Software Development",
+  "description": "We live in a bit of a crazy world nowadays! In the world of software, it's not just about fast-paced...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4hcXmZcj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3flwqxt6vz8l9wjz4h1o.jpg",
+  "slug": "innovate-like-da-vinci-blending-art-and-science-in-software-development-2b20",
+  "url": "https://dev.to/kiselitza/innovate-like-da-vinci-blending-art-and-science-in-software-development-2b20",
+  "publish_date": "2023-12-12",
+  "published_at": "2023-12-12T14:42:38Z"
+ },
+ {
+  "id": 1695201,
+  "title": "🔥 Top 12 libraries for your NextJS project 🏆",
+  "description": "I have been a full-stack developer for the last decade, building smaller projects like gitup and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zTNTxaCh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9b8cdyzavq8i52rf0rz.gif",
+  "slug": "top-12-libraries-for-your-nextjs-project-1oob",
+  "url": "https://dev.to/nevodavid/top-12-libraries-for-your-nextjs-project-1oob",
+  "publish_date": "2023-12-12",
+  "published_at": "2023-12-12T11:47:39Z"
+ },
+ {
+  "id": 1694989,
+  "title": "Climbing the AI Application Value Ladder: 🤖🪜",
+  "description": "In the whirlwind of AI advancements, it's easy to get caught up in the hype. Many companies boast...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CJc7_CNM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kaij1z6y9zg73876dnqp.jpeg",
+  "slug": "climbing-the-ai-application-value-ladder-4cf0",
+  "url": "https://dev.to/dawiddahl/climbing-the-ai-application-value-ladder-4cf0",
+  "publish_date": "2023-12-12",
+  "published_at": "2023-12-12T05:52:21Z"
+ },
+ {
+  "id": 1694897,
+  "title": "14 tips to write better Javascript",
+  "description": "Here are some of my favorite tips for writing cleaner Javascript code, skip the clever keep it...",
+  "cover_image": "",
+  "slug": "14-tips-to-write-better-javascript-gj0",
+  "url": "https://dev.to/melvinvmegen/14-tips-to-write-better-javascript-gj0",
+  "publish_date": "2023-12-12",
+  "published_at": "2023-12-12T01:56:23Z"
+ },
+ {
   "id": 1694414,
   "title": "AI code generation vs. coding by hand - what programming is going to look like in 202X 🤖 🤔",
   "description": "We are working on a full-stack web framework for React \u0026amp; Node.js, that uses a simple...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shivamblog/8-react-libraries-that-will-turn-you-into-a-dev-endgame-hero-23mo",
   "publish_date": "2023-09-04",
   "published_at": "2023-09-04T05:27:26Z"
- },
- {
-  "id": 1588475,
-  "title": "The Ultimate Emoji Cheat Sheet for Developers",
-  "description": "Emojis have become an integral part of our daily communication. They add a bit of flair and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FvRPAf8h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/454j9tvz27dc4lavkg1p.jpg",
-  "slug": "the-ultimate-emoji-cheat-sheet-for-developers-3d55",
-  "url": "https://dev.to/emojipedia/the-ultimate-emoji-cheat-sheet-for-developers-3d55",
-  "publish_date": "2023-09-03",
-  "published_at": "2023-09-03T19:06:40Z"
- },
- {
-  "id": 1588362,
-  "title": "Why every startup should be built on open-source... 🤔🤔",
-  "description": "Last year was the first time I heard of an open-source startup as SaaS. I didn’t even understand what...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EZFPG4_i--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/30uo500ajvfh3td06kp6.png",
-  "slug": "why-every-startup-should-be-built-on-open-source-2kh",
-  "url": "https://dev.to/github20k/why-every-startup-should-be-built-on-open-source-2kh",
-  "publish_date": "2023-09-03",
-  "published_at": "2023-09-03T17:32:02Z"
- },
- {
-  "id": 1588246,
-  "title": "JavaScript CONSTANTS",
-  "description": "In JavaScript, most of developers are well-known with const. It declares block-scoped local variables...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---IFTceaK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gicu8l5h0mgwnk7xhp99.png",
-  "slug": "javascript-constants-1pb0",
-  "url": "https://dev.to/maafaishal/javascript-constants-1pb0",
-  "publish_date": "2023-09-03",
-  "published_at": "2023-09-03T13:24:59Z"
- },
- {
-  "id": 1586468,
-  "title": "Javascript Essentials 🧑‍💻",
-  "description": "Introduction    Well, we all start somewhere to start learning JavaScript, I wish this kind...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LSNM2B5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cikhxmaw2liabhjj4ojp.JPG",
-  "slug": "javascript-essentials-40he",
-  "url": "https://dev.to/localhostd3veloper/javascript-essentials-40he",
-  "publish_date": "2023-09-03",
-  "published_at": "2023-09-03T12:20:13Z"
- },
- {
-  "id": 1588037,
-  "title": "A Guide to Atomic Design with React Components",
-  "description": "React has quickly become one of the most popular open-source JavaScript frameworks for building user...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EFHzoKb7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ecadw6iraoozrxyxtt32.png",
-  "slug": "a-guide-to-atomic-design-with-react-components-34k1",
-  "url": "https://dev.to/scofieldidehen/a-guide-to-atomic-design-with-react-components-34k1",
-  "publish_date": "2023-09-03",
-  "published_at": "2023-09-03T05:06:29Z"
  }
 ]
