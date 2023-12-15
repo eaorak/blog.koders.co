@@ -1,5 +1,55 @@
 [
  {
+  "id": 1698292,
+  "title": "Supabase Auth: Identity Linking, Hooks, and HaveIBeenPwned integration",
+  "description": "We're excited to announce four new features for Supabase Auth:   Identity Linking Session...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UBiUHJ1P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s3wmdbhu24v2l2edpflr.png",
+  "slug": "supabase-auth-identity-linking-hooks-and-haveibeenpwned-integration-19e1",
+  "url": "https://dev.to/supabase/supabase-auth-identity-linking-hooks-and-haveibeenpwned-integration-19e1",
+  "publish_date": "2023-12-14",
+  "published_at": "2023-12-14T20:08:18Z"
+ },
+ {
+  "id": 1696956,
+  "title": "🔥Our TOP 13 DEPLOYMENT \u0026 TEMPLATING tools for KUBERNETES 🚀",
+  "description": "TL;DR 🔍   Feeling a bit lost in the Kubernetes deployment and packaging tool jungle? Don't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--t1a4wWtm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nj3ai4ftknhz1v7uciz6.png",
+  "slug": "our-top-13-deployment-templating-tools-for-kubernetes-4mei",
+  "url": "https://dev.to/glasskube/our-top-13-deployment-templating-tools-for-kubernetes-4mei",
+  "publish_date": "2023-12-14",
+  "published_at": "2023-12-14T14:51:22Z"
+ },
+ {
+  "id": 1697816,
+  "title": "🎉Monitor your Javascript application like a pro🧙‍♂️💫",
+  "description": "TL;DR   In this tutorial, you will learn how to monitor your Javascript application with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EQX3neXw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cmb910ow7n8qghzuck22.gif",
+  "slug": "monitor-your-javascript-application-like-a-pro-581p",
+  "url": "https://dev.to/odigos/monitor-your-javascript-application-like-a-pro-581p",
+  "publish_date": "2023-12-14",
+  "published_at": "2023-12-14T12:42:56Z"
+ },
+ {
+  "id": 1692621,
+  "title": "Apache APISIX plugin priority, a leaky abstraction?",
+  "description": "Apache APISIX is an API Gateway, which builds upon the OpenResty reverse-proxy to offer a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jc9ThVuL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pgrsh18hscw3009p4u4u.jpg",
+  "slug": "apache-apisix-plugin-priority-a-leaky-abstraction-4oj1",
+  "url": "https://dev.to/apisix/apache-apisix-plugin-priority-a-leaky-abstraction-4oj1",
+  "publish_date": "2023-12-14",
+  "published_at": "2023-12-14T09:02:00Z"
+ },
+ {
+  "id": 1697436,
+  "title": "✨ Meta's StyleX - The styling system that powers Instagram",
+  "description": "Introduction   Stylex is a recent (as of Dec 2023) open-sourced CSS-in-JS solution...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YCf4hodZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m0e0p2k3uf33k12p2vnz.png",
+  "slug": "metas-stylex-the-styling-system-that-powers-instagram-25oo",
+  "url": "https://dev.to/refine/metas-stylex-the-styling-system-that-powers-instagram-25oo",
+  "publish_date": "2023-12-14",
+  "published_at": "2023-12-14T06:23:27Z"
+ },
+ {
   "id": 1696862,
   "title": "12 Senior Developer Traits Juniors Need To Master 🔥",
   "description": "The fastest way to get to the top in any field, whether it is arts, sports or software development is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/documatic/advanced-git-commands-and-workflows-a-comprehensive-guide-for-developers-5865",
   "publish_date": "2023-09-06",
   "published_at": "2023-09-06T05:51:28Z"
- },
- {
-  "id": 1590392,
-  "title": "How to Participate in Hackoberfest",
-  "description": "With Hacktoberfest coming up, this guide walks you through how to be active and successful in your open source journey this October.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5bo1rMNA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nepij6ywpyskml8rupb2.png",
-  "slug": "how-to-participate-in-hackoberfest-13hm",
-  "url": "https://dev.to/opensauced/how-to-participate-in-hackoberfest-13hm",
-  "publish_date": "2023-09-05",
-  "published_at": "2023-09-05T15:58:16Z"
- },
- {
-  "id": 1589655,
-  "title": "You might not need TypeScript Enum",
-  "description": "In TypeScript, there is a feature called Enum which is not a type-level extension of JavaScript....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--06X5Ndsf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kqbpc97bvv42shmfqgnl.png",
-  "slug": "you-might-not-need-typescript-enum-1f4n",
-  "url": "https://dev.to/maafaishal/you-might-not-need-typescript-enum-1f4n",
-  "publish_date": "2023-09-05",
-  "published_at": "2023-09-05T14:25:58Z"
- },
- {
-  "id": 1590195,
-  "title": "Introducing Rig.dev: An open-source application platform for Kubernetes",
-  "description": "Kubernetes is a bitter pill to swallow for most application developers. Here's some background on how...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dzALRHw3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x2o923t81353qmjwi2bd.png",
-  "slug": "introducing-rigdev-an-open-source-application-platform-for-kubernetes-1dge",
-  "url": "https://dev.to/rigdev/introducing-rigdev-an-open-source-application-platform-for-kubernetes-1dge",
-  "publish_date": "2023-09-05",
-  "published_at": "2023-09-05T13:46:38Z"
- },
- {
-  "id": 1577445,
-  "title": "Reacting with 💩👍🐛 to Code: How I Built a Free Extension to Add Emojis to Your VSCode",
-  "description": "Code Reactions 🚀💩  Help us with your contributions or with a ⭐ on GitHub 💚!  Install extension →     ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--uwiIwcPi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5p72x3ctsmvuldkhag4.png",
-  "slug": "reacting-with-to-code-how-i-built-a-free-extension-to-add-emojis-to-your-vscode-1mlh",
-  "url": "https://dev.to/adadot/reacting-with-to-code-how-i-built-a-free-extension-to-add-emojis-to-your-vscode-1mlh",
-  "publish_date": "2023-09-05",
-  "published_at": "2023-09-05T13:13:51Z"
- },
- {
-  "id": 1589653,
-  "title": "Uma Produtora de TV no mundo DEV!",
-  "description": "Decidi escrever esse artigo pra praticar redação e também deixar uma marca nessa plataforma que vem...",
-  "cover_image": "",
-  "slug": "-uma-produtora-de-tv-no-mundo-dev-44p3",
-  "url": "https://dev.to/acamikuro/-uma-produtora-de-tv-no-mundo-dev-44p3",
-  "publish_date": "2023-09-05",
-  "published_at": "2023-09-05T01:00:25Z"
  }
 ]
