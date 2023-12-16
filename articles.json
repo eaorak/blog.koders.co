@@ -1,5 +1,55 @@
 [
  {
+  "id": 1699048,
+  "title": "Introducing Read Replicas",
+  "description": "Today, we are launching support for Postgres Read Replicas. You can use Read Replicas...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nwkki-kJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6f336m4idgt5b9bmx1a7.png",
+  "slug": "introducing-read-replicas-4j7j",
+  "url": "https://dev.to/supabase/introducing-read-replicas-4j7j",
+  "publish_date": "2023-12-15",
+  "published_at": "2023-12-15T16:09:27Z"
+ },
+ {
+  "id": 1699025,
+  "title": "5 Open Source tools written in Golang that you should know about",
+  "description": "Most modern backend developers absolutely LOVE golang.   Developers continue to build simple, secure,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yTdrQo6e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88if5tox4oyfznc2pju4.png",
+  "slug": "5-open-source-tools-written-in-golang-that-you-should-know-about-3jad",
+  "url": "https://dev.to/digger/5-open-source-tools-written-in-golang-that-you-should-know-about-3jad",
+  "publish_date": "2023-12-15",
+  "published_at": "2023-12-15T15:23:43Z"
+ },
+ {
+  "id": 1685247,
+  "title": "🚀 Lambda Test Revolution: Master Mocking \u0026 Slash Costs with HTTP-Interceptor!",
+  "description": "Serverless lambda integration tests http intercept mock",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rk8jRemp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/MaximeVivier/Articles/master/blog-posts/lambda-http-interceptor/banner.png",
+  "slug": "lambda-test-revolution-master-mocking-slash-costs-with-http-interceptor-1i9l",
+  "url": "https://dev.to/slsbytheodo/lambda-test-revolution-master-mocking-slash-costs-with-http-interceptor-1i9l",
+  "publish_date": "2023-12-15",
+  "published_at": "2023-12-15T12:47:11Z"
+ },
+ {
+  "id": 1696689,
+  "title": "🫵 5 achievable side hustles for developers💰",
+  "description": "Hey there 👋  In your journey as a developer, the common way to make money is by securing a full-time...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9dsBO1-W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7xftwt9egmv63xkvccf.gif",
+  "slug": "5-achievable-side-hustles-for-developers-4bcg",
+  "url": "https://dev.to/quine/5-achievable-side-hustles-for-developers-4bcg",
+  "publish_date": "2023-12-15",
+  "published_at": "2023-12-15T10:54:57Z"
+ },
+ {
+  "id": 1685312,
+  "title": "A Close Call with Real-Time: How Rethinking Pub-Sub Saved the Day",
+  "description": "All of this started while I was working on our new feature -  Automations 🤖. In a nutshell,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r1bXM3hR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jw5dovmms8dcscrenkpf.png",
+  "slug": "a-close-call-with-real-time-how-rethinking-pub-sub-saved-the-day-52kp",
+  "url": "https://dev.to/productive/a-close-call-with-real-time-how-rethinking-pub-sub-saved-the-day-52kp",
+  "publish_date": "2023-12-15",
+  "published_at": "2023-12-15T08:43:10Z"
+ },
+ {
   "id": 1698292,
   "title": "Supabase Auth: Identity Linking, Hooks, and HaveIBeenPwned integration",
   "description": "We're excited to announce four new features for Supabase Auth:   Identity Linking Session...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/appwrite/serverless-your-way-unleashing-appwrite-functions-true-potential-2l4f",
   "publish_date": "2023-09-07",
   "published_at": "2023-09-07T10:20:08Z"
- },
- {
-  "id": 1590378,
-  "title": "Swirl: An open-source search engine with LLMs and ChatGPT to provide all the answers you need 🌌",
-  "description": "We need search engines with AI   Last week I had a strange problem at work to tackle. The...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--R3X1IEui--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gl3snor5rnfhni0yxz23.png",
-  "slug": "swirl-an-open-source-search-engine-with-llms-and-chatgpt-to-provide-all-the-answers-you-need-1amc",
-  "url": "https://dev.to/srbhr/swirl-an-open-source-search-engine-with-llms-and-chatgpt-to-provide-all-the-answers-you-need-1amc",
-  "publish_date": "2023-09-06",
-  "published_at": "2023-09-06T17:25:00Z"
- },
- {
-  "id": 1591352,
-  "title": "GPT Pilot - a dev tool that writes 95% of coding tasks",
-  "description": "An MVP for a scalable dev tool that writes production-ready apps from scratch as the...",
-  "cover_image": "",
-  "slug": "gpt-pilot-a-dev-tool-that-writes-95-of-coding-tasks-dem",
-  "url": "https://dev.to/zvone187/gpt-pilot-a-dev-tool-that-writes-95-of-coding-tasks-dem",
-  "publish_date": "2023-09-06",
-  "published_at": "2023-09-06T14:54:26Z"
- },
- {
-  "id": 1591172,
-  "title": "Build your own AI Meme Generator \u0026 learn how to use OpenAI's function calls ☎️",
-  "description": "Table of Contents     TL;DR   Before We Begin      Intro   Call Me, Maybe Let's...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1duHiDrS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lobpd6cfypnkaear6g6o.gif",
-  "slug": "build-your-own-ai-meme-generator-learn-how-to-use-openais-function-calls-1p21",
-  "url": "https://dev.to/wasp/build-your-own-ai-meme-generator-learn-how-to-use-openais-function-calls-1p21",
-  "publish_date": "2023-09-06",
-  "published_at": "2023-09-06T12:00:00Z"
- },
- {
-  "id": 1591041,
-  "title": "In-depth Exploration of the Fundamental Principles and Broad-Spectrum Applications of LLMs",
-  "description": "What exactly are LLMs?   Large Language Models (LLMs) are a central topic in modern machine...",
-  "cover_image": "",
-  "slug": "in-depth-exploration-of-the-fundamental-principles-and-broad-spectrum-applications-of-llms-3p90",
-  "url": "https://dev.to/ulianaev/in-depth-exploration-of-the-fundamental-principles-and-broad-spectrum-applications-of-llms-3p90",
-  "publish_date": "2023-09-06",
-  "published_at": "2023-09-06T09:10:51Z"
- },
- {
-  "id": 1582344,
-  "title": "Advanced Git Commands and Workflows: A Comprehensive Guide for Developers",
-  "description": "Introduction   In software development, Git is more than just a tool—it's an essential...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W9ktF1YO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dy2cee9q3ze4hzwj0kjf.png",
-  "slug": "advanced-git-commands-and-workflows-a-comprehensive-guide-for-developers-5865",
-  "url": "https://dev.to/documatic/advanced-git-commands-and-workflows-a-comprehensive-guide-for-developers-5865",
-  "publish_date": "2023-09-06",
-  "published_at": "2023-09-06T05:51:28Z"
  }
 ]
