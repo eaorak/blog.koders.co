@@ -1,5 +1,55 @@
 [
  {
+  "id": 1674447,
+  "title": "HTML can do this? Part 1",
+  "description": "Welcome to my HTML can do this series, part 1.  In keeping with my GitHub-Can-Do-This series, today I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9fOTBcLS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5x1vnhwah5lwpat7hw24.png",
+  "slug": "html-can-do-this-part-1-3ab2",
+  "url": "https://dev.to/yuridevat/html-can-do-this-part-1-3ab2",
+  "publish_date": "2023-12-16",
+  "published_at": "2023-12-16T15:01:00Z"
+ },
+ {
+  "id": 1699767,
+  "title": "🌟 #DEVImpact2023 Reflections",
+  "description": "Proud Moments   This year I was invited to two colleges for conducting tech workshops. One...",
+  "cover_image": "",
+  "slug": "devimpact2023-reflections-2ahb",
+  "url": "https://dev.to/nandinishinduja/devimpact2023-reflections-2ahb",
+  "publish_date": "2023-12-16",
+  "published_at": "2023-12-16T12:27:29Z"
+ },
+ {
+  "id": 1699659,
+  "title": "Kubectl Cheat Sheet - With Examples",
+  "description": "Introduction   Kubernetes is a famous container orchestration tool that is very...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W8fh0Sy5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a7q42z3i55n14hztnyhu.png",
+  "slug": "kubectl-cheat-sheet-with-examples-4e6l",
+  "url": "https://dev.to/refine/kubectl-cheat-sheet-with-examples-4e6l",
+  "publish_date": "2023-12-16",
+  "published_at": "2023-12-16T08:28:41Z"
+ },
+ {
+  "id": 1699566,
+  "title": "Why a SQL Statement Often Consists of Hundreds of Lines, Measured by KBs？",
+  "description": "Obviously, one of the original purposes of SQL is to make data query processing easy. The language...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--46eEJAz1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/537gwpt2annv8dc087i8.jpeg",
+  "slug": "why-a-sql-statement-often-consists-of-hundreds-of-lines-measured-by-kbs-35o",
+  "url": "https://dev.to/vivi9876/why-a-sql-statement-often-consists-of-hundreds-of-lines-measured-by-kbs-35o",
+  "publish_date": "2023-12-16",
+  "published_at": "2023-12-16T04:30:09Z"
+ },
+ {
+  "id": 1699547,
+  "title": "First 15 Open Source Advent projects",
+  "description": "Just 10 days to go!   We launched Open Source Advent at the begininng of this month to...",
+  "cover_image": "",
+  "slug": "first-15-open-source-advent-projects-7d",
+  "url": "https://dev.to/chrischurilo/first-15-open-source-advent-projects-7d",
+  "publish_date": "2023-12-16",
+  "published_at": "2023-12-16T03:33:41Z"
+ },
+ {
   "id": 1699048,
   "title": "Introducing Read Replicas",
   "description": "Today, we are launching support for Postgres Read Replicas. You can use Read Replicas...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/idurar/javascript-vs-typescript-going-back-to-javascript-and-stop-using-typescript-59j5",
   "publish_date": "2023-09-08",
   "published_at": "2023-09-08T00:36:08Z"
- },
- {
-  "id": 1592509,
-  "title": "Closing a chapter at GitHub",
-  "description": "Table of Contents    My journey at GitHub My next steps  What draws me to working at...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oSjr2cqk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nd9yb8wrn3cxopm6p1wx.png",
-  "slug": "closing-a-chapter-at-github-1k06",
-  "url": "https://dev.to/blackgirlbytes/closing-a-chapter-at-github-1k06",
-  "publish_date": "2023-09-07",
-  "published_at": "2023-09-07T14:50:25Z"
- },
- {
-  "id": 1592475,
-  "title": "The never-ending dilemma for backend engineers",
-  "description": "Developers face multiple challenges when building and deploying robust applications to the cloud....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--SNOycS9P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9a8iljjn7o1f6m18da7t.png",
-  "slug": "the-never-ending-dilemma-of-backend-engineers-2dhm",
-  "url": "https://dev.to/rigdev/the-never-ending-dilemma-of-backend-engineers-2dhm",
-  "publish_date": "2023-09-07",
-  "published_at": "2023-09-07T14:03:46Z"
- },
- {
-  "id": 1592013,
-  "title": "💬 Building a real-time chat with Websockets, Novel and Clerk 🚀🚀",
-  "description": "TL;DR   In this tutorial, you'll learn how to build a chat application.  On the agenda...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FoAhkFEb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pc2xcwgxd43wevlfx8pk.gif",
-  "slug": "building-a-real-time-chat-with-websockets-novel-and-clerk-40ac",
-  "url": "https://dev.to/novu/building-a-real-time-chat-with-websockets-novel-and-clerk-40ac",
-  "publish_date": "2023-09-07",
-  "published_at": "2023-09-07T13:38:54Z"
- },
- {
-  "id": 1589925,
-  "title": "Easy Dockerization with Docker init",
-  "description": "Docker Init is changing the game in how we Dockerize our application.  With docker init, we can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QVf7zQJe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0el1f6l458a8qth9cbi.png",
-  "slug": "easy-dockerization-with-docker-init-3oom",
-  "url": "https://dev.to/livecycle/easy-dockerization-with-docker-init-3oom",
-  "publish_date": "2023-09-07",
-  "published_at": "2023-09-07T12:43:47Z"
- },
- {
-  "id": 1591342,
-  "title": "Serverless your way: Unleashing Appwrite Function’s true potential",
-  "description": "After countless months of research and never-ending feedback from our community, we are excited to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ukkQK5ZM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uhrjdgi7iv2p9lqb8fvo.png",
-  "slug": "serverless-your-way-unleashing-appwrite-functions-true-potential-2l4f",
-  "url": "https://dev.to/appwrite/serverless-your-way-unleashing-appwrite-functions-true-potential-2l4f",
-  "publish_date": "2023-09-07",
-  "published_at": "2023-09-07T10:20:08Z"
  }
 ]
