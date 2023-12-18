@@ -1,5 +1,55 @@
 [
  {
+  "id": 1700479,
+  "title": "Simplify, Groupify, Conquer: The convenience of Object.GroupBy() in JavaScript",
+  "description": "It was a regular day of coding when I decided to revisit an old project of mine. As I scrolled...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z2B609H9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vvjf20gnurnuuybbjyol.png",
+  "slug": "simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5",
+  "url": "https://dev.to/subaash_b/simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5",
+  "publish_date": "2023-12-17",
+  "published_at": "2023-12-17T17:22:34Z"
+ },
+ {
+  "id": 1700326,
+  "title": "ECMAScript 2023: Fresh Goodies for JavaScript Developers",
+  "description": "Greetings, fellow code warriors! ⚔️ The JavaScript landscape is constantly evolving, and with the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EMX_0AVv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/34vlifqud4hognd7ozhd.png",
+  "slug": "dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda",
+  "url": "https://dev.to/navdeepm20/dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda",
+  "publish_date": "2023-12-17",
+  "published_at": "2023-12-17T12:56:11Z"
+ },
+ {
+  "id": 1700184,
+  "title": "The best and fastest cli generator for .ignore files",
+  "description": "I developed cli generator for .ignore files with using Golang  I want to invite you to visit my...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--13VCoR4W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fljqnnxtcn9f8u825cqq.jpg",
+  "slug": "the-best-and-fastest-cli-generator-for-ignore-files-210b",
+  "url": "https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-210b",
+  "publish_date": "2023-12-17",
+  "published_at": "2023-12-17T06:41:08Z"
+ },
+ {
+  "id": 1700113,
+  "title": "Getting started w/ Google's Gemini Pro LLM using Langchain JS",
+  "description": "Building AI-powered Applications w/ Javascript using Langchain JS for Beginners In the previous blog...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BNPddnkT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6i4caltlosji0onf8bs5.jpeg",
+  "slug": "getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1",
+  "url": "https://dev.to/oyemade/getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1",
+  "publish_date": "2023-12-17",
+  "published_at": "2023-12-17T02:10:24Z"
+ },
+ {
+  "id": 1700107,
+  "title": "Harnessing the Potential of APIs: A Deep Dive into POSTMAN API 101🌐",
+  "description": "INTRODUCTION   Today, I had the privilege of attending a POSTMAN API 101 session conducted...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bzvRoSdZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uil0jzofg1gb889ochxh.png",
+  "slug": "harnessing-the-potential-of-apis-a-deep-dive-into-postman-api-101-4n4h",
+  "url": "https://dev.to/sakeenanavi/harnessing-the-potential-of-apis-a-deep-dive-into-postman-api-101-4n4h",
+  "publish_date": "2023-12-17",
+  "published_at": "2023-12-17T01:33:03Z"
+ },
+ {
   "id": 1674447,
   "title": "HTML can do this? Part 1",
   "description": "Welcome to my HTML can do this series, part 1.  In keeping with my GitHub-Can-Do-This series, today I...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aviligonda/10-common-mistakes-in-css-532j",
   "publish_date": "2023-09-09",
   "published_at": "2023-09-09T03:22:57Z"
- },
- {
-  "id": 1591814,
-  "title": "Our Community Badges Page Just Got Better!",
-  "description": "Hey there, awesome DEV members! We have something special to share with you today. Drumroll,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K5u35nl5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v3zrygcdiiz2i548pqtv.png",
-  "slug": "our-community-badges-page-just-got-better-8c2",
-  "url": "https://dev.to/devteam/our-community-badges-page-just-got-better-8c2",
-  "publish_date": "2023-09-08",
-  "published_at": "2023-09-08T15:35:49Z"
- },
- {
-  "id": 1593010,
-  "title": "Changelog: Take control of your feed with hidden tags",
-  "description": "Hey DEV Community!  DEV is an excellent place for encountering great content of all kinds: lively...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Df7NoUIX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kg8xxjesl9cxadamwb8i.jpg",
-  "slug": "changelog-take-control-of-your-feed-with-hidden-tags-5db5",
-  "url": "https://dev.to/devteam/changelog-take-control-of-your-feed-with-hidden-tags-5db5",
-  "publish_date": "2023-09-08",
-  "published_at": "2023-09-08T15:10:34Z"
- },
- {
-  "id": 1593370,
-  "title": "Deploying Documenso with Vercel, Supabase and Resend",
-  "description": "In this article, we'll walk you through how to deploy and self-host Documenso using Vercel, Supabase,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nfyZPnEk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nwgpr90lljlsdmus3lbj.png",
-  "slug": "deploying-documenso-with-vercel-supabase-and-resend-foi",
-  "url": "https://dev.to/documenso/deploying-documenso-with-vercel-supabase-and-resend-foi",
-  "publish_date": "2023-09-08",
-  "published_at": "2023-09-08T08:18:28Z"
- },
- {
-  "id": 1593165,
-  "title": "Rust, Go, Rinha e I/O",
-  "description": "Este artigo é o início de um formato diferente de conteúdo que quero experimentar, um apanhado (ou...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7xc013Av--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j1odmmf5qhjjo7g2mq2a.png",
-  "slug": "rust-go-rinha-e-io-39o2",
-  "url": "https://dev.to/leandronsp/rust-go-rinha-e-io-39o2",
-  "publish_date": "2023-09-08",
-  "published_at": "2023-09-08T03:25:48Z"
- },
- {
-  "id": 1593089,
-  "title": "Javascript VS TypeScript : Going Back to JavaScript and stop using TypeScript",
-  "description": "In recent years, TypeScript has emerged as a popular choice for many developers due to its extra...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--smiEUYHR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gmllam4rgfyq2aq2sf2x.jpg",
-  "slug": "javascript-vs-typescript-going-back-to-javascript-and-stop-using-typescript-59j5",
-  "url": "https://dev.to/idurar/javascript-vs-typescript-going-back-to-javascript-and-stop-using-typescript-59j5",
-  "publish_date": "2023-09-08",
-  "published_at": "2023-09-08T00:36:08Z"
  }
 ]
