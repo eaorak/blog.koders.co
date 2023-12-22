@@ -1,5 +1,55 @@
 [
  {
+  "id": 1704926,
+  "title": "Managing Access Control Policies and PDPs with Cerbos Hub",
+  "description": "Previously we published the Get started with Cerbos Hub article where we covered the basics of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---AWDxtyk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fowerrcjme1pj8htr2bt.gif",
+  "slug": "managing-access-control-policies-and-pdps-with-cerbos-hub-39o3",
+  "url": "https://dev.to/cerbos/managing-access-control-policies-and-pdps-with-cerbos-hub-39o3",
+  "publish_date": "2023-12-21",
+  "published_at": "2023-12-21T15:58:04Z"
+ },
+ {
+  "id": 1704635,
+  "title": "What Will Happen to the Full-Stack Framework in the Future?",
+  "description": "Don't Reinvent the Wheel   As software developers, we are all familiar with the phrase...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OSeVkxHT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g9ut8nbwl0np5w9ba2mj.jpeg",
+  "slug": "what-will-happen-to-the-full-stack-framework-in-the-future-4c00",
+  "url": "https://dev.to/zenstack/what-will-happen-to-the-full-stack-framework-in-the-future-4c00",
+  "publish_date": "2023-12-21",
+  "published_at": "2023-12-21T12:18:43Z"
+ },
+ {
+  "id": 1702400,
+  "title": "📚 8 repos used by the top 1% of React devs 🏆",
+  "description": "Hi there 👋  Today, let's look into 8 React repos that the top 1% of developers use (and those you...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pIFRPPqI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a4q8ij6q9u10kjgucufw.gif",
+  "slug": "8-repos-used-by-the-top-1-of-react-devs-2758",
+  "url": "https://dev.to/quine/8-repos-used-by-the-top-1-of-react-devs-2758",
+  "publish_date": "2023-12-21",
+  "published_at": "2023-12-21T11:15:44Z"
+ },
+ {
+  "id": 1704526,
+  "title": "Essentials of TypeScript Classes",
+  "description": "Introduction   TypeScript supports all the features of JavaScript Class syntax...",
+  "cover_image": "",
+  "slug": "essentials-of-typescript-classes-4mi8",
+  "url": "https://dev.to/refine/essentials-of-typescript-classes-4mi8",
+  "publish_date": "2023-12-21",
+  "published_at": "2023-12-21T09:11:34Z"
+ },
+ {
+  "id": 1704497,
+  "title": "Tackling Polymorphism in Prisma",
+  "description": "Prisma is a beloved ORM for NodeJS developers. As with every popular open-source project, it has a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--loVzFggv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tmf4f8jlm9madn8ly459.png",
+  "slug": "tackling-polymorphism-in-prisma-2o0a",
+  "url": "https://dev.to/zenstack/tackling-polymorphism-in-prisma-2o0a",
+  "publish_date": "2023-12-21",
+  "published_at": "2023-12-21T08:38:05Z"
+ },
+ {
   "id": 1702042,
   "title": "🎄24 Open-Source Libraries: for your downtime holiday hacking🎅🏽🎁",
   "description": "Tis' the season of open-source ☃️  Holiday coding can be a blessed experience, and there's nothing...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bytebodger/use-cases-for-iifes-5gdg",
   "publish_date": "2023-09-13",
   "published_at": "2023-09-13T06:33:18Z"
- },
- {
-  "id": 1597906,
-  "title": "Top 7 Featured DEV Posts from the Past Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-from-the-past-week-4bfl",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-from-the-past-week-4bfl",
-  "publish_date": "2023-09-12",
-  "published_at": "2023-09-12T17:44:03Z"
- },
- {
-  "id": 1597526,
-  "title": "Our Team's Favourite Open Source Projects Right Now",
-  "description": "At Rig.dev, we love open source. It's not just about writing code; it's about sharing solutions,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fv2wE2zT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/47914ecttuhwkkkm2qtx.png",
-  "slug": "our-teams-favourite-open-source-projects-right-now-4jlc",
-  "url": "https://dev.to/rigdev/our-teams-favourite-open-source-projects-right-now-4jlc",
-  "publish_date": "2023-09-12",
-  "published_at": "2023-09-12T13:38:13Z"
- },
- {
-  "id": 1596919,
-  "title": "Build an AI Meme Generator with OpenAI's function calls, Part 2: Cron Jobs ⏰☎️",
-  "description": "TL;DR   Before We Begin      Part 2    Fetching \u0026amp; Updating Templates w/ Cron Jobs   Defining...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bewRpn1T--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oq196hqmapmopaoh5i7n.gif",
-  "slug": "build-an-ai-meme-generator-with-openais-function-calls-part-2-cron-jobs-54nm",
-  "url": "https://dev.to/wasp/build-an-ai-meme-generator-with-openais-function-calls-part-2-cron-jobs-54nm",
-  "publish_date": "2023-09-12",
-  "published_at": "2023-09-12T12:00:00Z"
- },
- {
-  "id": 1596817,
-  "title": "🛠️ 10 Exceptional Developer Tools Launched in 2023 🚀",
-  "description": "The 2023 Trends in Developer Tools   During a retrospective meeting recently, we noted that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yA_X-HGe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8m7987rsz6qti0l60v17.jpg",
-  "slug": "10-exceptional-developer-tools-launched-in-2023-42a8",
-  "url": "https://dev.to/permit_io/10-exceptional-developer-tools-launched-in-2023-42a8",
-  "publish_date": "2023-09-12",
-  "published_at": "2023-09-12T06:00:00Z"
- },
- {
-  "id": 1597386,
-  "title": "Motion - Tailwind CSS Template Builder",
-  "description": "Hi everyone!  We recently launched a new theme to Loopple, a Drag \u0026amp; Drop Website Template Builder...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ythHE6Pe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8us690l0z6ix4190ctzw.png",
-  "slug": "motion-tailwind-css-template-builder-3nm",
-  "url": "https://dev.to/rarestoma/motion-tailwind-css-template-builder-3nm",
-  "publish_date": "2023-09-12",
-  "published_at": "2023-09-12T05:10:45Z"
  }
 ]
