@@ -1,5 +1,55 @@
 [
  {
+  "id": 1705868,
+  "title": "How To Nail The Technical Interview In 2024: Step By Step Guide 🚀",
+  "description": "Could you win a game if you don’t know the rules?  Probably not.  Sadly, most software developers...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V1sut0yt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gj01iodyfvj9lkx67lo2.jpg",
+  "slug": "how-to-nail-your-next-technical-interview-in-2024-step-by-step-4jh0",
+  "url": "https://dev.to/dragosnedelcu/how-to-nail-your-next-technical-interview-in-2024-step-by-step-4jh0",
+  "publish_date": "2023-12-22",
+  "published_at": "2023-12-22T16:44:13Z"
+ },
+ {
+  "id": 1705090,
+  "title": "⭐ 6 Open-Source Vector Databases to Power Your AI App 🔗💽",
+  "description": "In the era of AI-driven applications, the ability to efficiently handle and search through vector...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FbPrtXzm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fos4ob0cdx9jm59a1rab.png",
+  "slug": "6-open-source-vector-databases-to-power-your-ai-app-o45",
+  "url": "https://dev.to/lunary/6-open-source-vector-databases-to-power-your-ai-app-o45",
+  "publish_date": "2023-12-22",
+  "published_at": "2023-12-22T14:47:41Z"
+ },
+ {
+  "id": 1705204,
+  "title": "DEV Mods' Favorites of 2023",
+  "description": "This past year we saw so many wonderful posts being shared in our community on DEV!   Thankfully,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hgvKkR2X--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oy278o0962uvxspf5qan.jpg",
+  "slug": "dev-mods-favorites-of-2023-2k3c",
+  "url": "https://dev.to/devteam/dev-mods-favorites-of-2023-2k3c",
+  "publish_date": "2023-12-22",
+  "published_at": "2023-12-22T14:00:00Z"
+ },
+ {
+  "id": 1705610,
+  "title": "TypeScript vs JavaScript - A Detailed Comparison",
+  "description": "Introduction   TypeScript is a statically typed superset of JavaScript, the...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmasB5eS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48in7p6q0390hromtzr3.jpg",
+  "slug": "typescript-vs-javascript-a-detailed-comparison-479f",
+  "url": "https://dev.to/refine/typescript-vs-javascript-a-detailed-comparison-479f",
+  "publish_date": "2023-12-22",
+  "published_at": "2023-12-22T10:16:35Z"
+ },
+ {
+  "id": 1704373,
+  "title": "Add password-less OTP based authentication to your Next.js apps using Supabase \u0026 Twilio",
+  "description": "User authentication is one of the most important aspects of a full stack app (web app / mobile app)...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--itsFtnp9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dxwz9o0pffzcul99uowp.png",
+  "slug": "add-password-less-otp-based-authentication-to-your-nextjs-apps-using-supabase-twilio-4na1",
+  "url": "https://dev.to/asheeshh/add-password-less-otp-based-authentication-to-your-nextjs-apps-using-supabase-twilio-4na1",
+  "publish_date": "2023-12-22",
+  "published_at": "2023-12-22T06:05:06Z"
+ },
+ {
   "id": 1704926,
   "title": "Managing Access Control Policies and PDPs with Cerbos Hub",
   "description": "Previously we published the Get started with Cerbos Hub article where we covered the basics of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi",
   "publish_date": "2023-09-14",
   "published_at": "2023-09-14T05:42:07Z"
- },
- {
-  "id": 1599367,
-  "title": "Tech Events are NOT as cool as you think (from an organizer perspective)",
-  "description": "Hello everyone!   My name is Keit, aka @k8dev, I'm Brazilian and, besides being a programmer, I've...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZYKdT1f0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2yofmdrh338n9pwemrs7.jpeg",
-  "slug": "tech-events-are-not-as-cool-as-you-think-from-an-organizer-perspective-2b70",
-  "url": "https://dev.to/k8adev/tech-events-are-not-as-cool-as-you-think-from-an-organizer-perspective-2b70",
-  "publish_date": "2023-09-13",
-  "published_at": "2023-09-13T18:08:10Z"
- },
- {
-  "id": 1599051,
-  "title": "Why we launched earlier than what felt comfortable",
-  "description": "It’s been 10 days since we launched Rig.dev - our open-source application platform for Kubernetes,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZnClnp-k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aviji7221s95l9de996n.png",
-  "slug": "why-we-launched-earlier-than-what-felt-comfortable-5bhm",
-  "url": "https://dev.to/rigdev/why-we-launched-earlier-than-what-felt-comfortable-5bhm",
-  "publish_date": "2023-09-13",
-  "published_at": "2023-09-13T14:00:35Z"
- },
- {
-  "id": 1597972,
-  "title": "🧭 Navigating the Open Source Landscape: ⭐Finding Your First Contribution",
-  "description": "🕵️‍♂️ Embarking on your journey and learning how to contribute to open source is an exciting step...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fDN52GeA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5tvwo65oggvj3i8uju5k.png",
-  "slug": "navigating-the-open-source-landscape-finding-your-first-contribution-3fap",
-  "url": "https://dev.to/nathan_tarbert/navigating-the-open-source-landscape-finding-your-first-contribution-3fap",
-  "publish_date": "2023-09-13",
-  "published_at": "2023-09-13T11:58:29Z"
- },
- {
-  "id": 1598128,
-  "title": "10 Open Source Alternatives To Proprietary Software",
-  "description": "We're Rig.dev, a new kid on the open-source block. We know how frustrating it can be to feel locked...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ohoXN-CC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/95cha3zua4pounf0x05i.png",
-  "slug": "10-open-source-alternatives-to-proprietary-software-34lb",
-  "url": "https://dev.to/rigdev/10-open-source-alternatives-to-proprietary-software-34lb",
-  "publish_date": "2023-09-13",
-  "published_at": "2023-09-13T07:58:40Z"
- },
- {
-  "id": 1598533,
-  "title": "Use Cases for IIFEs",
-  "description": "First, I'd like to lead this article with a confession:    Whenever I'm presented with a programming...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZHXhpvWJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bgud6ziw7jbkro90s3fb.png",
-  "slug": "use-cases-for-iifes-5gdg",
-  "url": "https://dev.to/bytebodger/use-cases-for-iifes-5gdg",
-  "publish_date": "2023-09-13",
-  "published_at": "2023-09-13T06:33:18Z"
  }
 ]
