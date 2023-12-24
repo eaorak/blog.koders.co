@@ -1,5 +1,55 @@
 [
  {
+  "id": 1706824,
+  "title": "Tech/Non-tech books which Tech people should read",
+  "description": "So what are your book recommendations for tech people? Personally, I have found it difficult to read...",
+  "cover_image": "",
+  "slug": "technon-tech-books-which-tech-people-should-read-1kh0",
+  "url": "https://dev.to/nandinishinduja/technon-tech-books-which-tech-people-should-read-1kh0",
+  "publish_date": "2023-12-23",
+  "published_at": "2023-12-23T20:42:18Z"
+ },
+ {
+  "id": 1706650,
+  "title": "Sharing a state between windows without a server",
+  "description": "Recently, there was a gif trending on social networks displaying an amazing piece of art made by...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e6j265T4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8skuyne3l6gum3eud20z.gif",
+  "slug": "sharing-a-state-between-windows-without-a-serve-23an",
+  "url": "https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an",
+  "publish_date": "2023-12-23",
+  "published_at": "2023-12-23T14:47:52Z"
+ },
+ {
+  "id": 1706588,
+  "title": "To Code and Beyond: A Neverland Adventure in Bash, Lua, Python, and Rust",
+  "description": "Prologue: Departure to Neverland   Once upon a time, in the mystical world of terminals,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qspXvyZA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6al557sxekjf4hb5u70.jpeg",
+  "slug": "to-code-and-beyond-a-neverland-adventure-in-bash-lua-python-and-rust-1jon",
+  "url": "https://dev.to/proteusiq/to-code-and-beyond-a-neverland-adventure-in-bash-lua-python-and-rust-1jon",
+  "publish_date": "2023-12-23",
+  "published_at": "2023-12-23T14:06:16Z"
+ },
+ {
+  "id": 1218875,
+  "title": "Deploy .NET Web Applications In Linux - Simple And Comprehensive Guide",
+  "description": "The Links In The Video :  Github Repository  Digital Ocean  Hostinger",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x1X7cd4V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/chblu6w7yc54x60t2d1v.png",
+  "slug": "deploy-net-web-applications-in-linux-simple-and-comprehensive-guide-10hk",
+  "url": "https://dev.to/zairiaimendev/deploy-net-web-applications-in-linux-simple-and-comprehensive-guide-10hk",
+  "publish_date": "2023-12-23",
+  "published_at": "2023-12-23T12:46:54Z"
+ },
+ {
+  "id": 1706388,
+  "title": "🔐 Session-Based vs. Token-Based Authentication: Which is better?🤔",
+  "description": "Hi fellow readers!✋ I hope you’re doing great. In this article, we will learn about session and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EajSVcvh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yq7ytx3iczwt2yhqzqen.png",
+  "slug": "session-based-vs-token-based-authentication-which-is-better-227o",
+  "url": "https://dev.to/fidalmathew/session-based-vs-token-based-authentication-which-is-better-227o",
+  "publish_date": "2023-12-23",
+  "published_at": "2023-12-23T08:21:52Z"
+ },
+ {
   "id": 1705868,
   "title": "How To Nail The Technical Interview In 2024: Step By Step Guide 🚀",
   "description": "Could you win a game if you don’t know the rules?  Probably not.  Sadly, most software developers...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/samchon/i-made-erd-and-documents-genertor-of-prisma-orm-4mgl",
   "publish_date": "2023-09-15",
   "published_at": "2023-09-15T05:54:04Z"
- },
- {
-  "id": 1600424,
-  "title": "How Rust memory management work to beginners.",
-  "description": "Do you ever thought about what happens to your RAM when you run a program? And how the ways you write...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZmnCN40y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ov930xb9wrxsu0molgzq.png",
-  "slug": "how-rust-memory-management-work-to-beginners-622",
-  "url": "https://dev.to/canhassi/how-rust-memory-management-work-to-beginners-622",
-  "publish_date": "2023-09-14",
-  "published_at": "2023-09-14T18:25:28Z"
- },
- {
-  "id": 1600403,
-  "title": "How we made our Go microservice 24x faster",
-  "description": "Using Postgres batching strategies for extreme optimization in Go services",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7uAXKYIW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ec2w5wlyras7u1g0oyq.png",
-  "slug": "how-we-made-our-go-microservice-24x-faster-5h3l",
-  "url": "https://dev.to/opensauced/how-we-made-our-go-microservice-24x-faster-5h3l",
-  "publish_date": "2023-09-14",
-  "published_at": "2023-09-14T15:34:49Z"
- },
- {
-  "id": 1576736,
-  "title": "Beyond Review Comments: Building a Friendlier Code Review Process with Code Reactions",
-  "description": "Code Reactions 🚀💩 We welcome all ideas and contributions on GitHub 💚!  Install extension →        ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Od4kgHxO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p1r0gx48j4qw2wg3hoa1.png",
-  "slug": "beyond-review-comments-building-a-friendlier-code-review-process-with-code-reactions-4job",
-  "url": "https://dev.to/adadot/beyond-review-comments-building-a-friendlier-code-review-process-with-code-reactions-4job",
-  "publish_date": "2023-09-14",
-  "published_at": "2023-09-14T12:43:58Z"
- },
- {
-  "id": 1588290,
-  "title": "Islands \u0026 Server Components \u0026 Resumability, Oh My!",
-  "description": "It is no secret that the past 2 years have seen the beginnings of a fairly dramatic change in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QaKrQFI---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0qondqnzitmxx152e3do.jpg",
-  "slug": "islands-server-components-resumability-oh-my-319d",
-  "url": "https://dev.to/this-is-learning/islands-server-components-resumability-oh-my-319d",
-  "publish_date": "2023-09-14",
-  "published_at": "2023-09-14T07:01:00Z"
- },
- {
-  "id": 1599793,
-  "title": "Update your dev.to articles into your Github profile",
-  "description": "In this article, I'll share you how to update your latest articles on dev.to into your Github...",
-  "cover_image": "",
-  "slug": "update-your-devto-articles-into-your-github-profile-4dpi",
-  "url": "https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi",
-  "publish_date": "2023-09-14",
-  "published_at": "2023-09-14T05:42:07Z"
  }
 ]
