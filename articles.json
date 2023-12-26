@@ -1,5 +1,55 @@
 [
  {
+  "id": 1705798,
+  "title": "JS Design Patterns: A Comprehensive Guide",
+  "description": "JavaScript, with its widespread adoption and versatility, has become a cornerstone of modern web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nIhGuTLl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v0e7ebslr9av7tc6fedu.png",
+  "slug": "js-design-patterns-a-comprehensive-guide-h3m",
+  "url": "https://dev.to/topefasasi/js-design-patterns-a-comprehensive-guide-h3m",
+  "publish_date": "2023-12-25",
+  "published_at": "2023-12-25T17:23:18Z"
+ },
+ {
+  "id": 1707987,
+  "title": "An alternative to form builders you pay for monthly",
+  "description": "I always wanted to build forms that match my website design in easy way, with less cost.  But...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d0a8nm_H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/93ecxa1jyjkd5h9urtap.png",
+  "slug": "an-alternative-to-form-builders-you-pay-for-monthly-1ee1",
+  "url": "https://dev.to/sididev/an-alternative-to-form-builders-you-pay-for-monthly-1ee1",
+  "publish_date": "2023-12-25",
+  "published_at": "2023-12-25T15:27:57Z"
+ },
+ {
+  "id": 1692953,
+  "title": "What's your biggest nightmare as a developer?",
+  "description": "Hey, dev's 👋  As a developer, you might have faced many challenges and frustrations in your projects....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8cssVJ6r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/os41rgciw4u5a8egf30u.gif",
+  "slug": "whats-your-biggest-nightmare-as-a-developer-49kp",
+  "url": "https://dev.to/shricodev/whats-your-biggest-nightmare-as-a-developer-49kp",
+  "publish_date": "2023-12-25",
+  "published_at": "2023-12-25T12:28:55Z"
+ },
+ {
+  "id": 1704209,
+  "title": "Top 7's Top Authors of the Year",
+  "description": "It's the last Monday of the year, and we're going to celebrate it by shining a spotlight on our...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_n08hovA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p71oomqa5c86muvtd7qd.jpg",
+  "slug": "top-7s-top-authors-of-the-year-120m",
+  "url": "https://dev.to/devteam/top-7s-top-authors-of-the-year-120m",
+  "publish_date": "2023-12-25",
+  "published_at": "2023-12-25T08:00:00Z"
+ },
+ {
+  "id": 1670121,
+  "title": "Figma to HTML: Convert designs to clean HTML code in a click",
+  "description": "Written by Vishwas Gopinath   The journey from a visual design in Figma to a fully coded website can...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---qRzkhwk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/32pyb7t11epw3j5iwec6.png",
+  "slug": "figma-to-html-convert-designs-to-clean-html-code-in-a-click-214",
+  "url": "https://dev.to/builderio/figma-to-html-convert-designs-to-clean-html-code-in-a-click-214",
+  "publish_date": "2023-12-25",
+  "published_at": "2023-12-25T07:41:50Z"
+ },
+ {
   "id": 1707484,
   "title": "Spent the weekend crafting a delightful animated card using @chakra_ui and @framer motion! 🌟✨",
   "description": "🚀 The Concept: The idea of an animated card took shape in my mind, and I couldn't wait to turn it...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/janeori/expert-css-the-cpu-hack-4ddj",
   "publish_date": "2023-09-17",
   "published_at": "2023-09-17T03:33:01Z"
- },
- {
-  "id": 1601120,
-  "title": "Throw away the \"Script\" from \"Type\"\"Script\".",
-  "description": "Before writing this article, I will first attach a post that was posted on a community a few days...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2ra1MvaH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5eejge24ma9hdliw3y5.png",
-  "slug": "throw-away-the-script-from-typescript-mn5",
-  "url": "https://dev.to/artxe2/throw-away-the-script-from-typescript-mn5",
-  "publish_date": "2023-09-16",
-  "published_at": "2023-09-16T14:03:01Z"
- },
- {
-  "id": 1602030,
-  "title": "🚀Learn Next.js 13 Within 2 Hours🚀",
-  "description": "🚀 Exciting News: Next.js 13 Workshop is Here! 🚀  Hi all,  I have been receiving a lot of requests...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xQ7lwds_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ghmfsd1ebmz84ehbh9d.png",
-  "slug": "learn-nextjs-13-within-2-hours-3i7n",
-  "url": "https://dev.to/myogeshchavan97/learn-nextjs-13-within-2-hours-3i7n",
-  "publish_date": "2023-09-16",
-  "published_at": "2023-09-16T07:14:57Z"
- },
- {
-  "id": 1602005,
-  "title": "🚀Mastering Performance Optimisation in React Applications🚀",
-  "description": "In today's fast-paced web development landscape, creating lightning-fast and highly responsive React...",
-  "cover_image": "",
-  "slug": "mastering-performance-optimisation-in-react-applications-1421",
-  "url": "https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421",
-  "publish_date": "2023-09-16",
-  "published_at": "2023-09-16T06:33:24Z"
- },
- {
-  "id": 1599615,
-  "title": "Começando com Verilog",
-  "description": "Opa, eae?   Demorou, mas chegamos a um dos posts que realmente tinha uma galera me cobrando...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--M6f8oBg4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rzetgfmwzrizg0ka1mrx.png",
-  "slug": "comecando-com-verilog-13n0",
-  "url": "https://dev.to/marlonhenq/comecando-com-verilog-13n0",
-  "publish_date": "2023-09-16",
-  "published_at": "2023-09-16T05:54:14Z"
- },
- {
-  "id": 1600950,
-  "title": "Bun hype. How we learned nothing from Yarn",
-  "description": "Here we go again, making the same mistake. I'm constantly reminded that every 5 years the amount of...",
-  "cover_image": "",
-  "slug": "bun-hype-how-we-learned-nothing-from-yarn-2n3j",
-  "url": "https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j",
-  "publish_date": "2023-09-16",
-  "published_at": "2023-09-16T02:10:39Z"
  }
 ]
