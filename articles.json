@@ -1,5 +1,55 @@
 [
  {
+  "id": 1710883,
+  "title": "I Build a GitHub Worth Estimate Generator",
+  "description": "Hellooo Developers 👋 Welcome to my another blog post .  In the fast-paced world of software...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YAC_XsNZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v61c80mmgbaj0t4fol9r.gif",
+  "slug": "i-build-a-github-worth-estimate-generator-4jjd",
+  "url": "https://dev.to/random_ti/i-build-a-github-worth-estimate-generator-4jjd",
+  "publish_date": "2023-12-28",
+  "published_at": "2023-12-28T19:05:33Z"
+ },
+ {
+  "id": 1710437,
+  "title": "How we built a Swift app that uses Rust",
+  "description": "Yesterday our team released Portals, an open source Mac app built in Swift. It uses the Ockam Rust...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v0GLotRt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ou9b0ry19zvlejfvpr2y.png",
+  "slug": "how-we-built-a-swift-app-that-uses-rust-102f",
+  "url": "https://dev.to/build-trust/how-we-built-a-swift-app-that-uses-rust-102f",
+  "publish_date": "2023-12-28",
+  "published_at": "2023-12-28T16:51:39Z"
+ },
+ {
+  "id": 1710687,
+  "title": "2024’s Tech Trend: Frontend for Backend",
+  "description": "Hey there!  We all heard about the Backend for Frontend, our BFF. It's basically a backend designed...",
+  "cover_image": "",
+  "slug": "2024-is-the-year-of-frontend-for-backend-ffb-6fg",
+  "url": "https://dev.to/opensourcee/2024-is-the-year-of-frontend-for-backend-ffb-6fg",
+  "publish_date": "2023-12-28",
+  "published_at": "2023-12-28T14:18:39Z"
+ },
+ {
+  "id": 1710156,
+  "title": "Top 10 Things to Add to Your Angular App Coding: A Recipe for Programmer Success",
+  "description": "Building an Angular app? You've chosen a powerful framework, but the magic happens in the details....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--T5Bsp1yg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dw6sps3jftqkmomrrwx5.gif",
+  "slug": "top-10-things-to-add-to-your-angular-app-coding-a-recipe-for-programmer-success-2fjg",
+  "url": "https://dev.to/dhruvjoshi9/top-10-things-to-add-to-your-angular-app-coding-a-recipe-for-programmer-success-2fjg",
+  "publish_date": "2023-12-28",
+  "published_at": "2023-12-28T04:48:50Z"
+ },
+ {
+  "id": 1710093,
+  "title": "Anouncing Interaqt: Bring Reactivity to Backend",
+  "description": "Interaqt is a project dedicated to maximizing the speed of application software development. To...",
+  "cover_image": "",
+  "slug": "anouncing-interaqt-bring-reactivity-to-backend-4n1i",
+  "url": "https://dev.to/sskyy/anouncing-interaqt-bring-reactivity-to-backend-4n1i",
+  "publish_date": "2023-12-28",
+  "published_at": "2023-12-28T02:07:25Z"
+ },
+ {
   "id": 1708903,
   "title": "5 Things Most Developers Learn Too Late ⌛",
   "description": "When I look back at my developer career in the last 10 years, going from Junior to Senior level, to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bytebase/top-postgres-gui-clients-to-master-postgres-2dba",
   "publish_date": "2023-09-20",
   "published_at": "2023-09-20T08:05:28Z"
- },
- {
-  "id": 1604875,
-  "title": "Como funcionava o famoso site do Space Jam de 1996?",
-  "description": "Esse site era genial, e permanece nos anais das coisas geniais feitas apenas com HTML e gambetagem....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yjo9nxe4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0ofg84g8kanpz105klfo.jpeg",
-  "slug": "como-funcionava-o-famoso-site-do-space-jam-de-1996-78f",
-  "url": "https://dev.to/lixeletto/como-funcionava-o-famoso-site-do-space-jam-de-1996-78f",
-  "publish_date": "2023-09-19",
-  "published_at": "2023-09-19T13:10:57Z"
- },
- {
-  "id": 1604250,
-  "title": "SAML SSO: The Missing Piece in Your Next.js App's Authentication Puzzle 🧩",
-  "description": "Find out how to complete the picture for a seamless login           TL;DR:   By the end of this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nwRkySiq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iz7h37tnwjld2d7by45x.gif",
-  "slug": "saml-sso-the-missing-piece-in-your-nextjs-apps-authentication-puzzle-3h9f",
-  "url": "https://dev.to/nathan_tarbert/saml-sso-the-missing-piece-in-your-nextjs-apps-authentication-puzzle-3h9f",
-  "publish_date": "2023-09-19",
-  "published_at": "2023-09-19T12:46:06Z"
- },
- {
-  "id": 1596597,
-  "title": "✨Your first Hacktoberfest contribution to open source in the next 10 min! [beginner edition] 🚀",
-  "description": "Hey friends 👋   Recently at quine.sh we have been cooking some pretty cool stuff which we will...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ylK_EBfS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/af5r558w5pblohlos72n.png",
-  "slug": "how-to-make-your-first-contribution-to-open-source-in-the-next-10-min-hacktoberfest-beginner-edition-1jhl",
-  "url": "https://dev.to/quine/how-to-make-your-first-contribution-to-open-source-in-the-next-10-min-hacktoberfest-beginner-edition-1jhl",
-  "publish_date": "2023-09-19",
-  "published_at": "2023-09-19T11:37:51Z"
- },
- {
-  "id": 1604795,
-  "title": "Sharing Code Snippets on Social Media, the accessible way! [Quicka11y]",
-  "description": "Welcome to the first \"quick accessibility\" post to quickly (quicka11y 😁) improve the accessibility of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oASuHHCM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ozmxou9x1j8t8cx308pi.png",
-  "slug": "sharing-code-snippets-on-social-media-the-accessible-way-quicka11y-cf",
-  "url": "https://dev.to/tota11ydev/sharing-code-snippets-on-social-media-the-accessible-way-quicka11y-cf",
-  "publish_date": "2023-09-19",
-  "published_at": "2023-09-19T11:17:08Z"
- },
- {
-  "id": 1604579,
-  "title": "5 Open-Source Projects We’re Using to Build Rig.dev",
-  "description": "One of the key elements that make our platform, Rig.dev what it is today, is our love for the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mr_nnXjq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uvjqwt7ibikh0l9p1ei0.png",
-  "slug": "5-open-source-projects-were-using-to-build-our-application-platform-for-kubernetes-489e",
-  "url": "https://dev.to/rigdev/5-open-source-projects-were-using-to-build-our-application-platform-for-kubernetes-489e",
-  "publish_date": "2023-09-19",
-  "published_at": "2023-09-19T10:17:08Z"
  }
 ]
