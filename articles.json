@@ -1,5 +1,55 @@
 [
  {
+  "id": 1709874,
+  "title": "🌟 #DEVImpact2023: My End of Year Reflections",
+  "description": "Hi friends! 👋  I can't believe that 2023 is almost come to an end. There are many ups and downs...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kAk63kdU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itfx62g2crmm3vn2hygp.png",
+  "slug": "devimpact2023-my-end-of-year-reflections-2pok",
+  "url": "https://dev.to/adiatiayu/devimpact2023-my-end-of-year-reflections-2pok",
+  "publish_date": "2023-12-29",
+  "published_at": "2023-12-29T15:39:10Z"
+ },
+ {
+  "id": 1711726,
+  "title": "Refactorización de código JavaScript para Startups: Eficiencia con Set y Map",
+  "description": "En el dinámico mundo de las startups, el código eficiente y bien estructurado es un activo muy...",
+  "cover_image": "",
+  "slug": "refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4",
+  "url": "https://dev.to/soyclaradev/refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4",
+  "publish_date": "2023-12-29",
+  "published_at": "2023-12-29T14:14:32Z"
+ },
+ {
+  "id": 1711700,
+  "title": "Casos de Uso de Arrays, Objects, Sets y Maps en Aplicaciones Modernas",
+  "description": "Para desarrolladores que buscan aplicar conceptos teóricos en situaciones reales, entender cómo se...",
+  "cover_image": "",
+  "slug": "casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1",
+  "url": "https://dev.to/soyclaradev/casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1",
+  "publish_date": "2023-12-29",
+  "published_at": "2023-12-29T13:27:59Z"
+ },
+ {
+  "id": 1711673,
+  "title": "My Mozilla contribution sprint",
+  "description": "After years of supporting Mozilla financially and spreading messages with my peers, I returned as an...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wn8E8w3c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sa170f4fofl9j0qmd4ai.png",
+  "slug": "my-mozilla-contribution-sprint-11d9",
+  "url": "https://dev.to/bogomil/my-mozilla-contribution-sprint-11d9",
+  "publish_date": "2023-12-29",
+  "published_at": "2023-12-29T12:46:39Z"
+ },
+ {
+  "id": 1711567,
+  "title": "Top 10 GitHub Repos for Open Source Food Delivery Apps",
+  "description": "The food delivery industry is booming!  In the world of technology, efficiency and convenience have...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vis31cUO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8kgntssv66rr8sojdli7.png",
+  "slug": "top-10-github-repos-for-open-source-food-delivery-apps-43b8",
+  "url": "https://dev.to/abbas_ninjascode/top-10-github-repos-for-open-source-food-delivery-apps-43b8",
+  "publish_date": "2023-12-29",
+  "published_at": "2023-12-29T11:19:49Z"
+ },
+ {
   "id": 1710883,
   "title": "I Build a GitHub Worth Estimate Generator",
   "description": "Hellooo Developers 👋 Welcome to my another blog post .  In the fast-paced world of software...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/amplication/the-complete-microservices-guide-5d64",
   "publish_date": "2023-09-21",
   "published_at": "2023-09-21T08:53:59Z"
- },
- {
-  "id": 1606113,
-  "title": "React sees a dip in downloads on npm 📉. What's going on?",
-  "description": "For those who don't know 😂 React is a JavaScript library for creating user interfaces.   React is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--l-iAIbQx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n72u7msdmflruzlsh3jc.png",
-  "slug": "react-sees-a-dip-in-downloads-on-npm-whats-going-on-ode",
-  "url": "https://dev.to/srbhr/react-sees-a-dip-in-downloads-on-npm-whats-going-on-ode",
-  "publish_date": "2023-09-20",
-  "published_at": "2023-09-20T13:18:42Z"
- },
- {
-  "id": 1515618,
-  "title": "Learn serverless on AWS step-by-step: Deploy a frontend!",
-  "description": "Learn how to deploy a frontend on AWS, and how to make it interact with your serverless backend!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VTiIZVxa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/front/assets/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-deploy-a-frontend-31a6",
-  "url": "https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-deploy-a-frontend-31a6",
-  "publish_date": "2023-09-20",
-  "published_at": "2023-09-20T12:34:08Z"
- },
- {
-  "id": 1605974,
-  "title": "Why we made our Startup Open-Source",
-  "description": "We built Rig.dev as an open-source platform from day one, and there's a good reason behind that. If...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NSYRAhGD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q3tierzurdwnbvrgnwgd.png",
-  "slug": "why-we-build-our-startup-open-source-400m",
-  "url": "https://dev.to/rigdev/why-we-build-our-startup-open-source-400m",
-  "publish_date": "2023-09-20",
-  "published_at": "2023-09-20T11:52:59Z"
- },
- {
-  "id": 1601421,
-  "title": "Search your AWS resources blazingly fast ⚡️",
-  "description": "Use the AWS search bar to find directly any of your resources at a glance",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_o5bmKN_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ChloeMouret/kumo-articles/master/blog-posts/aws-search-bar/assets/cover.png",
-  "slug": "search-your-aws-resources-blazingly-fast-42h8",
-  "url": "https://dev.to/slsbytheodo/search-your-aws-resources-blazingly-fast-42h8",
-  "publish_date": "2023-09-20",
-  "published_at": "2023-09-20T08:57:58Z"
- },
- {
-  "id": 1605809,
-  "title": "🐘Top Postgres GUI Clients to Master Postgres☄️🦖",
-  "description": "Postgres (or PostgreSQL) is one of the most advanced open-source relational databases on the market...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3Ses7U__--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xeehv47ufnhcvo5slv27.png",
-  "slug": "top-postgres-gui-clients-to-master-postgres-2dba",
-  "url": "https://dev.to/bytebase/top-postgres-gui-clients-to-master-postgres-2dba",
-  "publish_date": "2023-09-20",
-  "published_at": "2023-09-20T08:05:28Z"
  }
 ]
