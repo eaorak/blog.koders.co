@@ -1,5 +1,55 @@
 [
  {
+  "id": 1713155,
+  "title": "Regex is not your enemy",
+  "description": "One of the common subjects of IT jokes are regular expressions as \"magic\" that nobody can understand....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r-y2UaJX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/41ymdyynlerr1qa2yhnd.png",
+  "slug": "regex-is-not-your-enemy-4mgb",
+  "url": "https://dev.to/aloisseckar/regex-is-not-your-enemy-4mgb",
+  "publish_date": "2023-12-31",
+  "published_at": "2023-12-31T17:37:17Z"
+ },
+ {
+  "id": 1713094,
+  "title": "Happy New Year 🥳",
+  "description": "Hey friends 👋  I wanted to wish everyone a happy new year.  I hope that all your hard work will...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZuZi6F8u--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u9hblwu1rfzk536klhzb.gif",
+  "slug": "happy-new-year-51ff",
+  "url": "https://dev.to/fernandezbaptiste/happy-new-year-51ff",
+  "publish_date": "2023-12-31",
+  "published_at": "2023-12-31T17:11:20Z"
+ },
+ {
+  "id": 1702124,
+  "title": "Enhancing Machine Learning Models: A Deep Dive into Feature Engineering",
+  "description": "The efficacy of machine learning models heavily depends on the quality of input data and features...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3dR2i2Vw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sz5fhourqvmcn51woa44.png",
+  "slug": "enhancing-machine-learning-models-a-deep-dive-into-feature-engineering-2dh7",
+  "url": "https://dev.to/salmank/enhancing-machine-learning-models-a-deep-dive-into-feature-engineering-2dh7",
+  "publish_date": "2023-12-31",
+  "published_at": "2023-12-31T12:48:27Z"
+ },
+ {
+  "id": 1712842,
+  "title": "10 Facts Proving NFTs are Scams in 2024",
+  "description": "Two days ago, I came across this YouTube video from James Jani, where he spoke about the rise and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--949v_8YJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/52xorf65qqw28zv35rd0.png",
+  "slug": "10-facts-proving-nfts-are-scams-in-2024-1he8",
+  "url": "https://dev.to/scofieldidehen/10-facts-proving-nfts-are-scams-in-2024-1he8",
+  "publish_date": "2023-12-31",
+  "published_at": "2023-12-31T06:17:55Z"
+ },
+ {
+  "id": 1712782,
+  "title": "3 Terminal Commands to Increase Your Productivity",
+  "description": "Here are a few important shortcuts that help me be more productive throughout the day at...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jWIGyvXL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/55nbh4yadosc4mdtkfsh.png",
+  "slug": "3-terminal-commands-to-increase-your-productivity-57dm",
+  "url": "https://dev.to/pankajgupta221b/3-terminal-commands-to-increase-your-productivity-57dm",
+  "publish_date": "2023-12-31",
+  "published_at": "2023-12-31T01:44:37Z"
+ },
+ {
   "id": 1712602,
   "title": "Cheers to Craft Design: Beer CSS - A Lightweight Material Design Framework",
   "description": "Hey fellow web devs, let's talk about something refreshing in the world of CSS frameworks: Beer CSS....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lixeletto/align-e-justify-no-flexbox-e-no-grid-pra-voce-nunca-mais-confundir-17l2",
   "publish_date": "2023-09-23",
   "published_at": "2023-09-23T01:36:42Z"
- },
- {
-  "id": 1607091,
-  "title": "Hacktoberfest 2023: The Complete Guide",
-  "description": "Hacktoberfest is a great way to start with open-source development. But it can be daunting if you are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--igaq_aoN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/723s3y5aujdvqn3x7w2h.png",
-  "slug": "hacktoberfest-2023-the-complete-guide-1lkj",
-  "url": "https://dev.to/srbhr/hacktoberfest-2023-the-complete-guide-1lkj",
-  "publish_date": "2023-09-22",
-  "published_at": "2023-09-22T19:14:29Z"
- },
- {
-  "id": 1608443,
-  "title": "AWS Lambda Meets Bun through SST 🐰: Prime Time or Just Prime Hype? 🥵",
-  "description": " Step-by-step guide on deploying Bun in AWS Lambda using SST. Dive in to seamlessly integrate and test!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MHak_sGo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lffdjf8qetxnq593du9a.png",
-  "slug": "aws-lambda-meets-bun-through-sst-prime-time-or-just-prime-hype-2pb2",
-  "url": "https://dev.to/slsbytheodo/aws-lambda-meets-bun-through-sst-prime-time-or-just-prime-hype-2pb2",
-  "publish_date": "2023-09-22",
-  "published_at": "2023-09-22T15:33:22Z"
- },
- {
-  "id": 1608304,
-  "title": "Tudo que você precisa saber sobre SQL",
-  "description": "SQL é uma linguagem de manipulação e consulta de dados, que é usada em diversas ferramentas...",
-  "cover_image": "",
-  "slug": "tudo-que-voce-precisa-saber-sobre-sql-4oh2",
-  "url": "https://dev.to/1cadumagalhaes/tudo-que-voce-precisa-saber-sobre-sql-4oh2",
-  "publish_date": "2023-09-22",
-  "published_at": "2023-09-22T12:39:57Z"
- },
- {
-  "id": 1606157,
-  "title": "🔥 How To Get Juicy User Insights With In-App Pre-Churn Survey In Next.js With Formbricks 💡💬",
-  "description": "Churn surveys are a valuable tool for businesses, especially app-based businesses, to understand why...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZVYwv0T5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hhgd5x2bi5fyhgel9bs3.png",
-  "slug": "how-to-get-juicy-user-insights-with-in-app-pre-churn-survey-in-nextjs-with-formbricks-1536",
-  "url": "https://dev.to/formbricks/how-to-get-juicy-user-insights-with-in-app-pre-churn-survey-in-nextjs-with-formbricks-1536",
-  "publish_date": "2023-09-22",
-  "published_at": "2023-09-22T12:03:34Z"
- },
- {
-  "id": 1606548,
-  "title": "📢 Announcing New Local Dev Setup Options for Contributing to Forem!",
-  "description": "It's almost that time of the year again: Hacktoberfest! The month-long celebration of supporting...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JaC8qnn1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9zu9admbfeebm67slrew.jpg",
-  "slug": "announcing-new-local-dev-setup-options-for-contributing-to-forem-2p49",
-  "url": "https://dev.to/devteam/announcing-new-local-dev-setup-options-for-contributing-to-forem-2p49",
-  "publish_date": "2023-09-22",
-  "published_at": "2023-09-22T00:57:02Z"
  }
 ]
