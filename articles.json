@@ -1,5 +1,55 @@
 [
  {
+  "id": 1715147,
+  "title": "Building an AI Game Bot 🤖Using Imitation Learning and 3D Convolution ResNet",
+  "description": "Introduction   Hey guys, this article is going to be fun, and I am sure you will get to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zpxbpDb_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8xnt8ktf7op24obtqnps.jpg",
+  "slug": "building-an-ai-game-bot-using-imitation-learning-and-3d-convolution-resnet-3fe4",
+  "url": "https://dev.to/akshayballal/building-an-ai-game-bot-using-imitation-learning-and-3d-convolution-resnet-3fe4",
+  "publish_date": "2024-01-02",
+  "published_at": "2024-01-02T19:40:33Z"
+ },
+ {
+  "id": 1712667,
+  "title": "Enforcing ESLint rules: A guide to taming codebase chaos",
+  "description": "How to manage ESLint errors when introducing new rules",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_emnnhg5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/CorentinDoue/articles/master/blog-posts/eslint-disable-inserter/assets/cov.png",
+  "slug": "enforcing-eslint-rules-a-guide-to-taming-codebase-chaos-1o7m",
+  "url": "https://dev.to/theodo/enforcing-eslint-rules-a-guide-to-taming-codebase-chaos-1o7m",
+  "publish_date": "2024-01-02",
+  "published_at": "2024-01-02T15:14:53Z"
+ },
+ {
+  "id": 1714589,
+  "title": "Integrate AI Chatbot into Your App in 2024🏆🥳",
+  "description": "TL;DR   In this tutorial, you will learn how to add AI chatbot support to your Python...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a2XE_mNM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ryf9ssngpt7mj5j56yn1.gif",
+  "slug": "integrate-ai-chatbot-into-your-app-in-2024-1i3p",
+  "url": "https://dev.to/shricodev/integrate-ai-chatbot-into-your-app-in-2024-1i3p",
+  "publish_date": "2024-01-02",
+  "published_at": "2024-01-02T11:28:40Z"
+ },
+ {
+  "id": 1714409,
+  "title": "🟢 Build a Demo of Face Recognition Authentication ✨",
+  "description": "Hellooo Developers 👋 Welcome to my another blog post .  Face Recognition Authentication is the future...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1tw0dDrq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g2q6a49j5cqyze4k3mpc.gif",
+  "slug": "a-demo-of-face-recognition-authentication-in-nextjs-54g4",
+  "url": "https://dev.to/random_ti/a-demo-of-face-recognition-authentication-in-nextjs-54g4",
+  "publish_date": "2024-01-02",
+  "published_at": "2024-01-02T07:47:54Z"
+ },
+ {
+  "id": 1711576,
+  "title": "🔥 Tools I Fell in Love with ❤️",
+  "description": "As a developer, I am always on the lookout for new tools that can make my work and life easier and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kqs9wN3j--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nrobj20ox8a65iaw5eiq.jpg",
+  "slug": "tools-i-fell-in-love-with-5fm8",
+  "url": "https://dev.to/thatman/tools-i-fell-in-love-with-5fm8",
+  "publish_date": "2024-01-02",
+  "published_at": "2024-01-02T07:24:10Z"
+ },
+ {
   "id": 1709113,
   "title": "Introdução ao Protocolo IP",
   "description": "Introdução   Nesse artigo exploraremos o protocolo IP, vamos observar parte do contexto...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bytebase/top-mysql-commands-with-examples-547b",
   "publish_date": "2023-09-25",
   "published_at": "2023-09-25T06:26:12Z"
- },
- {
-  "id": 1610131,
-  "title": "HTTP Status Codes That Will Make You Think",
-  "description": "Last year, I wrote an article on how we might be using some of the HTTP status codes wrong, and this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5a8o3z12--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jm5buc0xrhj8jsvuu4oh.png",
-  "slug": "http-status-codes-that-will-make-you-think-5mc",
-  "url": "https://dev.to/pragativerma18/http-status-codes-that-will-make-you-think-5mc",
-  "publish_date": "2023-09-24",
-  "published_at": "2023-09-24T18:15:02Z"
- },
- {
-  "id": 1609589,
-  "title": "Introducing NeoHaskell: A beacon of joy in a greyed tech world",
-  "description": "Presenting NeoHaskell, an attempt to develop an optimal programming language and ecosystem that eradicates accidental complexity, either in mental form, or in code form.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GVlZFQ1p--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/em166v9ffkofkly0uevi.png",
-  "slug": "introducing-neohaskell-a-beacon-of-joy-in-a-greyed-tech-world-4f9b",
-  "url": "https://dev.to/neohaskell/introducing-neohaskell-a-beacon-of-joy-in-a-greyed-tech-world-4f9b",
-  "publish_date": "2023-09-24",
-  "published_at": "2023-09-24T15:02:07Z"
- },
- {
-  "id": 1609899,
-  "title": "Using Content Security Policy headers with React \u0026 emotion",
-  "description": "Content Security Policy (CSP) headers add another layer of security by disallowing unsafe actions,...",
-  "cover_image": "",
-  "slug": "using-content-security-policy-headers-with-react-emotion-1a0f",
-  "url": "https://dev.to/ranquild/using-content-security-policy-headers-with-react-emotion-1a0f",
-  "publish_date": "2023-09-24",
-  "published_at": "2023-09-24T12:00:07Z"
- },
- {
-  "id": 1609831,
-  "title": "Guess the JavaScript Output: Level impossible!",
-  "description": "This post is part of a series called Guess the JavaScript Output If you like to read Part 1 of the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--usgF1Psv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xyuwl0nt1n6lt0rd80ue.png",
-  "slug": "guess-the-javascript-output-level-impossible-4bp3",
-  "url": "https://dev.to/sadeedpv/guess-the-javascript-output-level-impossible-4bp3",
-  "publish_date": "2023-09-24",
-  "published_at": "2023-09-24T09:12:33Z"
- },
- {
-  "id": 1609477,
-  "title": "5 steps to build an authority for you and your repository",
-  "description": "Authority is usually addressed as a brand is a way to reach people and gain their “automatic”...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FD8CIi0M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9jjlk6huddicwnacnbrt.gif",
-  "slug": "5-steps-to-build-an-authority-for-you-and-your-repository-2m5f",
-  "url": "https://dev.to/github20k/5-steps-to-build-an-authority-for-you-and-your-repository-2m5f",
-  "publish_date": "2023-09-24",
-  "published_at": "2023-09-24T07:43:54Z"
  }
 ]
