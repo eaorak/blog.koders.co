@@ -1,5 +1,55 @@
 [
  {
+  "id": 1697845,
+  "title": "Thank you 2023, onwards to 2024",
+  "description": "Hi everyone, I hope you all had a wonderful start to the new year 2024. I postponed writing this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zf8Sci8W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3bpd1s072ibi8a9gvkc3.png",
+  "slug": "thank-you-2023-onwards-to-2024-m56",
+  "url": "https://dev.to/anuradhakumari/thank-you-2023-onwards-to-2024-m56",
+  "publish_date": "2024-01-06",
+  "published_at": "2024-01-06T13:56:04Z"
+ },
+ {
+  "id": 1718960,
+  "title": "Dependency Injection without classes",
+  "description": "Dependency Injection (DI) is a pattern that enhances the maintainability, scalability, and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gqgSyuiJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whs9fm9cw1k2vh0ktat8.png",
+  "slug": "dependency-injection-without-classes-4mch",
+  "url": "https://dev.to/cherif_b/dependency-injection-without-classes-4mch",
+  "publish_date": "2024-01-06",
+  "published_at": "2024-01-06T10:17:10Z"
+ },
+ {
+  "id": 1715237,
+  "title": "How to Create a Typewriter Effect with HTML, CSS, and JS: A Step-by-Step Guide",
+  "description": "In this article, we'll guide you through the process of building a typewriter effect step-by-step,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kx_IiRZL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ovonewl3omxq5ui4t816.jpg",
+  "slug": "how-to-create-a-typewriter-effect-with-html-css-and-js-a-step-by-step-guide-1f99",
+  "url": "https://dev.to/topefasasi/how-to-create-a-typewriter-effect-with-html-css-and-js-a-step-by-step-guide-1f99",
+  "publish_date": "2024-01-06",
+  "published_at": "2024-01-06T05:14:46Z"
+ },
+ {
+  "id": 1718270,
+  "title": "⚡Top GitHub Repositories for UI Components",
+  "description": "Hello Devs👋  In this article, I have listed top 10 GitHub repositories which helps developers to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d5QLdyW0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0pmhri0ozpw6sdg4zzx2.gif",
+  "slug": "top-github-repositories-for-ui-components-dg4",
+  "url": "https://dev.to/dev_kiran/top-github-repositories-for-ui-components-dg4",
+  "publish_date": "2024-01-06",
+  "published_at": "2024-01-06T04:31:09Z"
+ },
+ {
+  "id": 1718760,
+  "title": "Milvus Adventures Jan 5, 2023",
+  "description": "COMMUNITY ٩(＾◡＾)۶   2024 is here so join us at our next one in San Francisco is on Jan 16,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gnh8khtT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2oxf9lv8x4y0zi1zng2.jpg",
+  "slug": "milvus-adventures-jan-5-2023-24eb",
+  "url": "https://dev.to/chrischurilo/milvus-adventures-jan-5-2023-24eb",
+  "publish_date": "2024-01-06",
+  "published_at": "2024-01-06T01:05:47Z"
+ },
+ {
   "id": 1718740,
   "title": "Open Source Advent Fun Wraps Up!",
   "description": "I hope you'all got a chance to take a look at our Open Source Advent that we kicked off in December...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/maximsaplin/dev-followers-readers-3da2",
   "publish_date": "2023-09-29",
   "published_at": "2023-09-29T08:14:26Z"
- },
- {
-  "id": 1614936,
-  "title": "A base de Redux Toolkit e React Redux",
-  "description": "Está querendo aprender Redux num ambiente js ou react e ainda não sabe por onde começar?  Neste...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ILZP6OxU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/00fj2mcg5nync7lcvdbf.png",
-  "slug": "redux-toolkit-e-react-redux-2o9k",
-  "url": "https://dev.to/nickgabe/redux-toolkit-e-react-redux-2o9k",
-  "publish_date": "2023-09-28",
-  "published_at": "2023-09-28T22:08:28Z"
- },
- {
-  "id": 1608015,
-  "title": "Down the rabbit hole of an Apache APISIX plugin",
-  "description": "My demo, Evolving your APIs, features a custom Apache APISIX plugin. I believe that the process of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jBcHf7Gy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4j64eny1cm6n413tidqu.jpg",
-  "slug": "down-the-rabbit-hole-of-an-apache-apisix-plugin-5d45",
-  "url": "https://dev.to/apisix/down-the-rabbit-hole-of-an-apache-apisix-plugin-5d45",
-  "publish_date": "2023-09-28",
-  "published_at": "2023-09-28T09:02:00Z"
- },
- {
-  "id": 1614154,
-  "title": "👉 TypeScript Record Type with Examples",
-  "description": "Author: Abdullah Numan  The Record\u0026lt;\u0026gt; utility type in TypeScript is typically associated with a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--c1e-ino7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1vftrx398loawk94jumn.png",
-  "slug": "typescript-record-type-with-examples-l09",
-  "url": "https://dev.to/refine/typescript-record-type-with-examples-l09",
-  "publish_date": "2023-09-28",
-  "published_at": "2023-09-28T07:44:22Z"
- },
- {
-  "id": 1613825,
-  "title": "ChatGPT Got Internet Access!",
-  "description": "In a significant update, OpenAI has announced that ChatGPT now has the ability to browse the...",
-  "cover_image": "",
-  "slug": "chatgpt-got-internet-access-21gj",
-  "url": "https://dev.to/ananddas/chatgpt-got-internet-access-21gj",
-  "publish_date": "2023-09-28",
-  "published_at": "2023-09-28T00:53:08Z"
- },
- {
-  "id": 1613566,
-  "title": "Implementing Signals from Scratch",
-  "description": "What Are Signals?   Recently, the JavaScript community has been buzzing about signals. Their...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KRyx5zzg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/73ypa9eyf2bolpoc13kq.png",
-  "slug": "implementing-signals-from-scratch-3e4c",
-  "url": "https://dev.to/ratiu5/implementing-signals-from-scratch-3e4c",
-  "publish_date": "2023-09-28",
-  "published_at": "2023-09-28T00:45:34Z"
  }
 ]
