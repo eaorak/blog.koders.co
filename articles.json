@@ -1,5 +1,55 @@
 [
  {
+  "id": 1719744,
+  "title": "How to Make Your Awesome GitHub Profile",
+  "description": "If you're new to GitHub or have mostly worked with private GitHub repositories, chances are you don't...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F6jCmbz_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbyro9f39xdeowboserg.png",
+  "slug": "how-to-make-your-awesome-github-profile-hog",
+  "url": "https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog",
+  "publish_date": "2024-01-07",
+  "published_at": "2024-01-07T13:17:35Z"
+ },
+ {
+  "id": 1719629,
+  "title": "How to Write Scalable and Testable Laravel Production App",
+  "description": "I have been working full-time as a software engineer for a little over three years. During this...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NdZS-cb1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kn3mdmjujtgzdsunjs6c.png",
+  "slug": "how-to-write-scalable-and-testable-laravel-production-app-5d78",
+  "url": "https://dev.to/ikechukwu/how-to-write-scalable-and-testable-laravel-production-app-5d78",
+  "publish_date": "2024-01-07",
+  "published_at": "2024-01-07T08:53:37Z"
+ },
+ {
+  "id": 1719519,
+  "title": "Converting a string to Base64 manually",
+  "description": "As a web developer, you must have heard or even used Base64 encodings. Generally we convert some...",
+  "cover_image": "",
+  "slug": "converting-a-string-to-base64-manually-4ln2",
+  "url": "https://dev.to/vvkkumar06/converting-a-string-to-base64-manually-4ln2",
+  "publish_date": "2024-01-07",
+  "published_at": "2024-01-07T05:57:24Z"
+ },
+ {
+  "id": 1718712,
+  "title": "A Brief Introduction to Terraform",
+  "description": "In DevOps and cloud infrastructures, efficient management and provisioning of resources (compute,...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3hS8BPPF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3tq8fq8s498ppmtnw5hh.png",
+  "slug": "a-brief-introduction-to-terraform-fhm",
+  "url": "https://dev.to/annysah/a-brief-introduction-to-terraform-fhm",
+  "publish_date": "2024-01-07",
+  "published_at": "2024-01-07T04:59:04Z"
+ },
+ {
+  "id": 1719421,
+  "title": "Innovating Social Interaction: Introducing Storyscape",
+  "description": "Introduction   Welcome to Storyscape, a groundbreaking social media platform designed to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RAOBSW51--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h3pw3eo0lyug3gjzd6o3.png",
+  "slug": "innovating-social-interaction-introducing-storyscape-2kaa",
+  "url": "https://dev.to/ricardogesteves/innovating-social-interaction-introducing-storyscape-2kaa",
+  "publish_date": "2024-01-07",
+  "published_at": "2024-01-07T01:19:24Z"
+ },
+ {
   "id": 1697845,
   "title": "Thank you 2023, onwards to 2024",
   "description": "Hi everyone, I hope you all had a wonderful start to the new year 2024. I postponed writing this...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github20k/do-github-stars-money--348a",
   "publish_date": "2023-09-30",
   "published_at": "2023-09-30T06:52:55Z"
- },
- {
-  "id": 1615757,
-  "title": "Featured Mod of the Month: Pradumna Saraf",
-  "description": "In this series, we shine a spotlight 🔦 on the different DEV moderators — Trusted Members and Tag Mods...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8t97qoWg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vygzobnej3pw79pkvd91.jpeg",
-  "slug": "featured-mod-of-the-month-pradumna-saraf-e7j",
-  "url": "https://dev.to/devteam/featured-mod-of-the-month-pradumna-saraf-e7j",
-  "publish_date": "2023-09-29",
-  "published_at": "2023-09-29T16:17:09Z"
- },
- {
-  "id": 1611428,
-  "title": "Código Limpo - Intermédio",
-  "description": "Trarei um artigo resumindo os capítulos do nível intermediário do Código limpo. Focando no Capítulo...",
-  "cover_image": "",
-  "slug": "codigo-limpo-intermedio-44gp",
-  "url": "https://dev.to/loremimpsu/codigo-limpo-intermedio-44gp",
-  "publish_date": "2023-09-29",
-  "published_at": "2023-09-29T14:05:08Z"
- },
- {
-  "id": 1615284,
-  "title": "Rewrite styled-components in ReactJS with just 60 lines of JavaScript code",
-  "description": "\"styled-components\" is a library I really like for writing CSS in React. After a few days of research...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tvgLYSE8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2emt4n8cszaul7mxeens.png",
-  "slug": "rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb",
-  "url": "https://dev.to/ducga1998/rewrite-styled-components-in-reactjs-with-just-60-lines-of-javascript-code-25eb",
-  "publish_date": "2023-09-29",
-  "published_at": "2023-09-29T08:33:39Z"
- },
- {
-  "id": 1615255,
-  "title": "😯 gRPC vs REST - A Brief Comparison",
-  "description": "Author: Deborah Emeni           Introduction   In this modern age, building applications with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wwGzsDaA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7wwovkd56zhmuki7y200.png",
-  "slug": "grpc-vs-rest-a-brief-comparison-4p8b",
-  "url": "https://dev.to/refine/grpc-vs-rest-a-brief-comparison-4p8b",
-  "publish_date": "2023-09-29",
-  "published_at": "2023-09-29T08:15:43Z"
- },
- {
-  "id": 1615253,
-  "title": "DEV: Followers != Readers",
-  "description": "Some dev.to analytics. There's a curios lack of correlation between followers and readers at dev.to....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BFRqfKiJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vqytydh39ha5o0hmw06e.jpg",
-  "slug": "dev-followers-readers-3da2",
-  "url": "https://dev.to/maximsaplin/dev-followers-readers-3da2",
-  "publish_date": "2023-09-29",
-  "published_at": "2023-09-29T08:14:26Z"
  }
 ]
