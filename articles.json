@@ -1,5 +1,55 @@
 [
  {
+  "id": 1723288,
+  "title": "Mirrord trick to get on hackernews",
+  "description": "I had the pleasure of talking to Eyal @ CTO at Metalbear and the maintainer of Mirrord. I got some...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1EwDsfTb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wee21udaceixxiwtk7sa.gif",
+  "slug": "mirrord-trick-to-get-on-hackernews-3cpb",
+  "url": "https://dev.to/github20k/mirrord-trick-to-get-on-hackernews-3cpb",
+  "publish_date": "2024-01-10",
+  "published_at": "2024-01-10T15:22:54Z"
+ },
+ {
+  "id": 1723041,
+  "title": "🕵️‍♀️ Detect And Blur Human Faces with Ai in NextJS ✨",
+  "description": "Hellooo Developers 👋 Welcome to my another blog post.  Have you ever uploaded a photo with other...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YqD5vQvU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/02xgcjjd8bpixyuvbfcm.gif",
+  "slug": "detect-and-blur-human-faces-with-ai-in-nextjs-hg6",
+  "url": "https://dev.to/random_ti/detect-and-blur-human-faces-with-ai-in-nextjs-hg6",
+  "publish_date": "2024-01-10",
+  "published_at": "2024-01-10T14:29:36Z"
+ },
+ {
+  "id": 1723206,
+  "title": "🥇The Best Web Framework Doesn't Exist 🚫",
+  "description": "TLDR; The web app framework you choose doesn’t really matter. Well, it matters, just not as much as...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---CmNrL3w--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/83uyq4fe0dduw456moyj.png",
+  "slug": "the-best-web-framework-doesnt-exist-2aom",
+  "url": "https://dev.to/wasp/the-best-web-framework-doesnt-exist-2aom",
+  "publish_date": "2024-01-10",
+  "published_at": "2024-01-10T13:23:04Z"
+ },
+ {
+  "id": 1723207,
+  "title": "🔥 Kubernetes Enterprise: Rancher vs OpenShift vs Tanzu - Features, Evaluation \u0026 Comparison ✅",
+  "description": "TL;DR 🔍   The article provides an introduction to enterprise Kubernetes solutions, focusing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mjs1u1w0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nmpl0fhox3stl41m1nep.png",
+  "slug": "kubernetes-enterprise-rancher-vs-openshift-vs-tanzu-features-evaluation-comparison-4gc6",
+  "url": "https://dev.to/glasskube/kubernetes-enterprise-rancher-vs-openshift-vs-tanzu-features-evaluation-comparison-4gc6",
+  "publish_date": "2024-01-10",
+  "published_at": "2024-01-10T12:53:18Z"
+ },
+ {
+  "id": 1722969,
+  "title": "My new GameBoy style portfolio",
+  "description": "With great satisfaction, I am pleased to announce the launch of the first public version of my web...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IVBLjn95--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s7agu6lqrci2s9y4c1od.jpg",
+  "slug": "my-new-portfolio-1acn",
+  "url": "https://dev.to/matteosant_dev/my-new-portfolio-1acn",
+  "publish_date": "2024-01-10",
+  "published_at": "2024-01-10T09:15:23Z"
+ },
+ {
   "id": 1722214,
   "title": "️🚀🚀 3 Must Know Tools for Top DevOps Engineers 👷",
   "description": "As a DevOps engineer you must have asked this question at least once:  How do I learn so many...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/confidentai/the-one-thing-everyones-doing-wrong-with-chatgpt-3api",
   "publish_date": "2023-10-03",
   "published_at": "2023-10-03T09:08:39Z"
- },
- {
-  "id": 1617603,
-  "title": "Pattern matching - Dealing with the if statement nightmare",
-  "description": "I think we all faced(or wrote) that 20 lines of if statements to check a single variable in all the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ox9a3Y65--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/37kgycleqk5ulg4z7usm.png",
-  "slug": "pattern-matching-dealing-with-the-if-statement-nightmare-kkb",
-  "url": "https://dev.to/cherryramatis/pattern-matching-dealing-with-the-if-statement-nightmare-kkb",
-  "publish_date": "2023-10-02",
-  "published_at": "2023-10-02T17:10:21Z"
- },
- {
-  "id": 1618346,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-2jnj",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2jnj",
-  "publish_date": "2023-10-02",
-  "published_at": "2023-10-02T16:49:54Z"
- },
- {
-  "id": 1611481,
-  "title": "Boas práticas para revisão de código",
-  "description": "A revisão de código é uma atividade de extrema importância no processo de qualidade de código....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Jqc1zzX_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ovss2ljnnl2nng39d9z4.png",
-  "slug": "boas-praticas-para-revisao-de-codigo-20la",
-  "url": "https://dev.to/lorenalgm/boas-praticas-para-revisao-de-codigo-20la",
-  "publish_date": "2023-10-02",
-  "published_at": "2023-10-02T13:54:37Z"
- },
- {
-  "id": 1617226,
-  "title": "How Kubescape reached 2,000 stars in one week",
-  "description": "I recently chatted with Jonathan, VP of Marketing at Armo. We discussed how they went from a regular...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HAwrYyZM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/noxm6r0pde9nciwjgzxj.png",
-  "slug": "how-kubescape-reached-2000-stars-in-one-week-122c",
-  "url": "https://dev.to/github20k/how-kubescape-reached-2000-stars-in-one-week-122c",
-  "publish_date": "2023-10-02",
-  "published_at": "2023-10-02T11:09:06Z"
- },
- {
-  "id": 1617981,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0-GrMwIu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xhda5zpywfbe7ka4wn27.png",
-  "slug": "meme-monday-3ll2",
-  "url": "https://dev.to/ben/meme-monday-3ll2",
-  "publish_date": "2023-10-02",
-  "published_at": "2023-10-02T09:52:00Z"
  }
 ]
