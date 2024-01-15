@@ -1,5 +1,55 @@
 [
  {
+  "id": 1727312,
+  "title": "C#, Dart, TypeScript , Python: side-by-side",
+  "description": "String formating      Language Syntax Type Example Description     C# Composite...",
+  "cover_image": "",
+  "slug": "c-dart-typescript-python-side-by-side-3j34",
+  "url": "https://dev.to/maximsaplin/c-dart-typescript-python-side-by-side-3j34",
+  "publish_date": "2024-01-14",
+  "published_at": "2024-01-14T20:42:17Z"
+ },
+ {
+  "id": 1712879,
+  "title": "Why pomodoro doesn't work? Try this alternative 🍅",
+  "description": "What's Pomodoro   The Pomodoro Technique, developed by Francesco Cirillo, is a time...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ddr_iu6E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zjob6e6vrzndstoh7obq.png",
+  "slug": "why-pomodoro-doesnt-work-try-this-alternative-2no9",
+  "url": "https://dev.to/flowmodor/why-pomodoro-doesnt-work-try-this-alternative-2no9",
+  "publish_date": "2024-01-14",
+  "published_at": "2024-01-14T12:00:57Z"
+ },
+ {
+  "id": 1726728,
+  "title": "CSS Trivia: Masonry Grid Layout",
+  "description": "Pinterest's layout has always been the defining feature of the site since its inception. It has been...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e3zIpflF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mu7sc9mbppqz7aqoyb5j.png",
+  "slug": "css-trivia-masonry-grid-layout-50ck",
+  "url": "https://dev.to/irrelevantspace/css-trivia-masonry-grid-layout-50ck",
+  "publish_date": "2024-01-14",
+  "published_at": "2024-01-14T06:00:00Z"
+ },
+ {
+  "id": 1726751,
+  "title": "My first game!",
+  "description": "Battleships Ahoy!  Delighted to share my first self-made game crafted with Python and utilizing...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Oo5oWpF9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ss7f4mi5ykp0bu00jk7w.gif",
+  "slug": "my-first-game-4f63",
+  "url": "https://dev.to/kkeats9898/my-first-game-4f63",
+  "publish_date": "2024-01-14",
+  "published_at": "2024-01-14T02:40:43Z"
+ },
+ {
+  "id": 1726721,
+  "title": "10 YouTube Channels for Software Developer",
+  "description": "One way to get good at something is to watch others do it. This applies to building your...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5aqBWGyG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4dabyjbbilqwxuqbb417.jpg",
+  "slug": "10-youtube-channels-software-developer-should-follow-18p2",
+  "url": "https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2",
+  "publish_date": "2024-01-14",
+  "published_at": "2024-01-14T00:46:39Z"
+ },
+ {
   "id": 1726643,
   "title": "Understanding Async Iterators in JavaScript",
   "description": "A while ago, I made a post on my Medium that I talked all about the Iterator protocol and its user...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/this-is-angular/microtask-queue-rxjs-angular-38ah",
   "publish_date": "2023-10-07",
   "published_at": "2023-10-07T05:04:44Z"
- },
- {
-  "id": 1626016,
-  "title": "🙈 Beginner's Guide to React Query",
-  "description": "Author: Marvel Ken           Introduction   Step into the world of web development, where...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UnvFKRhL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/34icbbmxoj76dtin1oty.png",
-  "slug": "beginners-guide-to-react-query-1o27",
-  "url": "https://dev.to/refine/beginners-guide-to-react-query-1o27",
-  "publish_date": "2023-10-06",
-  "published_at": "2023-10-06T12:02:35Z"
- },
- {
-  "id": 1625795,
-  "title": "How did you switch from JavaScript to TypeScript?",
-  "description": "How did you switch from JavaScript to TypeScript? I really would love to hear how other people did...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IGgd4AaQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j9v211quodxatqnk2v6a.png",
-  "slug": "how-did-you-switch-from-javascript-to-typescript-5gja",
-  "url": "https://dev.to/catherineisonline/how-did-you-switch-from-javascript-to-typescript-5gja",
-  "publish_date": "2023-10-06",
-  "published_at": "2023-10-06T07:36:52Z"
- },
- {
-  "id": 1625791,
-  "title": "Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Next - is out.",
-  "description": "Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with...",
-  "cover_image": "",
-  "slug": "tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-next-is-out-4ibd",
-  "url": "https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-next-is-out-4ibd",
-  "publish_date": "2023-10-06",
-  "published_at": "2023-10-06T07:30:40Z"
- },
- {
-  "id": 1625789,
-  "title": "Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with Django - is out.",
-  "description": "Tailwind Elements Stable v1.0.0. - a free, open-source UI Kit with 500+ components integrated with...",
-  "cover_image": "",
-  "slug": "tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-django-is-out-56o3",
-  "url": "https://dev.to/mz2387/tailwind-elements-stable-v100-a-free-open-source-ui-kit-with-500-components-integrated-with-django-is-out-56o3",
-  "publish_date": "2023-10-06",
-  "published_at": "2023-10-06T07:23:14Z"
- },
- {
-  "id": 1625637,
-  "title": "07 Website's you will love as a dev.",
-  "description": "As a developer, discovering a comprehensive online resource hub can be quite a challenge. In this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mB1WYDBO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y4n8dnw0gh3vsn76ugh6.png",
-  "slug": "10-websites-you-will-love-as-a-dev-24p7",
-  "url": "https://dev.to/er_saifullah/10-websites-you-will-love-as-a-dev-24p7",
-  "publish_date": "2023-10-06",
-  "published_at": "2023-10-06T04:15:57Z"
  }
 ]
