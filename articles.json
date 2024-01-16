@@ -1,5 +1,55 @@
 [
  {
+  "id": 1728275,
+  "title": "🎀 Five tools to make your K8s experience more enjoyable 🎀",
+  "description": "For the uninitiated, K8s stands for Kubernetes, with the number 8 representing the eight letters...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dolBbpKc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jp4vyvqo3bo5fkz6kkp6.png",
+  "slug": "five-tools-to-make-your-k8s-experience-more-enjoyable-5d85",
+  "url": "https://dev.to/cyclops-ui/five-tools-to-make-your-k8s-experience-more-enjoyable-5d85",
+  "publish_date": "2024-01-15",
+  "published_at": "2024-01-15T16:15:59Z"
+ },
+ {
+  "id": 1728107,
+  "title": "🐍 Python Playground: 16 ways 📚 to get started",
+  "description": "TL;DR   This article is a guide designed to assist those new to Python programming with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tEt0Xh96--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/byraqw5oiy8jr892fgzs.gif",
+  "slug": "python-playground-16-ways-to-get-started-4fgg",
+  "url": "https://dev.to/taipy/python-playground-16-ways-to-get-started-4fgg",
+  "publish_date": "2024-01-15",
+  "published_at": "2024-01-15T15:29:04Z"
+ },
+ {
+  "id": 1727502,
+  "title": "I'm creating a new tech community",
+  "description": "What's up folks! I'm here to recruit the coolest people to join my new community.   Recently I...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EKGYBRh8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nwkwl4pow45ob7fstgaf.png",
+  "slug": "im-creating-a-new-tech-community-42mh",
+  "url": "https://dev.to/danielhe4rt/im-creating-a-new-tech-community-42mh",
+  "publish_date": "2024-01-15",
+  "published_at": "2024-01-15T15:01:52Z"
+ },
+ {
+  "id": 1721901,
+  "title": "Our open-source project for building AI / Data full-stack apps got funded! 🎉 🎉",
+  "description": "𝗛𝗶 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆,  We are excited to share with you this wonderful news: we completed our $5m Seed...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5i9lUTvo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x6vzcrn8e4vt8szdgtjg.png",
+  "slug": "our-open-source-project-for-building-ai-data-full-stack-apps-got-funded-4e68",
+  "url": "https://dev.to/taipy/our-open-source-project-for-building-ai-data-full-stack-apps-got-funded-4e68",
+  "publish_date": "2024-01-15",
+  "published_at": "2024-01-15T12:23:35Z"
+ },
+ {
+  "id": 1727826,
+  "title": "Optimizing SQL Queries by 23x!!!",
+  "description": "So I have been into web dev for about 3 years now and professionally for more than a year, This was...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hSIGg9vh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zimrm3fpjr7exbi68bbu.jpeg",
+  "slug": "optimizing-sql-queries-h9j",
+  "url": "https://dev.to/navneet7716/optimizing-sql-queries-h9j",
+  "publish_date": "2024-01-15",
+  "published_at": "2024-01-15T09:45:17Z"
+ },
+ {
   "id": 1727312,
   "title": "C#, Dart, TypeScript , Python: side-by-side",
   "description": "String formating      Language Syntax Type Example Description     C# Composite...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gervaisamoah/understanding-web-workers-what-are-they-and-how-can-they-enhance-your-web-apps-3i50",
   "publish_date": "2023-10-08",
   "published_at": "2023-10-08T00:56:58Z"
- },
- {
-  "id": 1627083,
-  "title": "Internet And Shadow Groups",
-  "description": "A story-telling experiment in which we explore the world of a fictional planet and the rise of its civilization.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3cJZTbbN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a1natkr5diwg04yetyj7.png",
-  "slug": "internet-and-shadow-groups-14bo",
-  "url": "https://dev.to/sarthology/internet-and-shadow-groups-14bo",
-  "publish_date": "2023-10-07",
-  "published_at": "2023-10-07T15:10:06Z"
- },
- {
-  "id": 1626993,
-  "title": "How to Make CRUD app in JavaScript",
-  "description": "In this tutorial, we'll be creating a CRUD (Create, Read, Update, Delete) note taking app using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mr9YHHfe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zl4cubmn3wr2nnge57j8.png",
-  "slug": "how-to-make-crud-app-in-javascript-27je",
-  "url": "https://dev.to/codewithsadee/how-to-make-crud-app-in-javascript-27je",
-  "publish_date": "2023-10-07",
-  "published_at": "2023-10-07T12:49:45Z"
- },
- {
-  "id": 1626760,
-  "title": "Top Web Development Tips Every Developer Should Know in 2024",
-  "description": "Hey there, if you're diving into the web development and you're a seasoned developer or just starting...",
-  "cover_image": "",
-  "slug": "top-web-development-tips-every-developer-should-know-in-2024-2fi6",
-  "url": "https://dev.to/dhruvjoshi9/top-web-development-tips-every-developer-should-know-in-2024-2fi6",
-  "publish_date": "2023-10-07",
-  "published_at": "2023-10-07T06:39:32Z"
- },
- {
-  "id": 1335408,
-  "title": "My Journey to 12 AWS Certifications: Turning Dreams into Reality",
-  "description": "In the whirlwind of today's rapidly changing world, it's all too easy to get swept up in the daily...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NGlUoR5y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ycfsv3pz6bsyiaye956e.png",
-  "slug": "my-journey-to-12-aws-certifications-turning-dreams-into-reality-1dpg",
-  "url": "https://dev.to/aditmodi/my-journey-to-12-aws-certifications-turning-dreams-into-reality-1dpg",
-  "publish_date": "2023-10-07",
-  "published_at": "2023-10-07T05:58:53Z"
- },
- {
-  "id": 1626630,
-  "title": "Microtask Queue + RxJS + Angular",
-  "description": "The What, When, and Why     When working with Angular, you can experience complex mechanisms...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nedBZTG2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k9o4id8c6ow3yli6779r.png",
-  "slug": "microtask-queue-rxjs-angular-38ah",
-  "url": "https://dev.to/this-is-angular/microtask-queue-rxjs-angular-38ah",
-  "publish_date": "2023-10-07",
-  "published_at": "2023-10-07T05:04:44Z"
  }
 ]
