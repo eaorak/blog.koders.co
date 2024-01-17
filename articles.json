@@ -1,5 +1,55 @@
 [
  {
+  "id": 1728583,
+  "title": "Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler",
+  "description": "Discover how to use AWS EventBridge Scheduler to schedule Lambda function tasks in your serverless applications. Step-by-step tutorial with code examples.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oYf1Pxx_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/scheduler/assets/cover.png",
+  "slug": "learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh",
+  "url": "https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh",
+  "publish_date": "2024-01-16",
+  "published_at": "2024-01-16T14:12:20Z"
+ },
+ {
+  "id": 1726904,
+  "title": "Variables, Shadowing, and Constants in Rust",
+  "description": "Understanding Variables in Rust   Rust is a statically and strongly typed language. This...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YcVWMI8P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rdr3k3x9ji695j9wp9yd.png",
+  "slug": "variables-shadowing-and-constants-in-rust-1fcj",
+  "url": "https://dev.to/francescoxx/variables-shadowing-and-constants-in-rust-1fcj",
+  "publish_date": "2024-01-16",
+  "published_at": "2024-01-16T14:10:06Z"
+ },
+ {
+  "id": 1715151,
+  "title": "Dead or not dead 💀 - Exploring the term and why Meteor.js is super-alive! ☄️",
+  "description": "I recently picked up a comment on Reddit that directly feeds into the never-ending \"Meteor is dead\"...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k8dFyDHH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z20wwduxfko7zghmtum4.png",
+  "slug": "dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c",
+  "url": "https://dev.to/meteor/dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c",
+  "publish_date": "2024-01-16",
+  "published_at": "2024-01-16T12:47:15Z"
+ },
+ {
+  "id": 1727386,
+  "title": "How To Handle Data With GraphQL Relay Client Schema Extensions",
+  "description": "GraphQL Relay is one of the most powerful GraphQL clients that you can found on the web environment....",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MeSfI7CB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s1p6actyu90o2efpi8w1.png",
+  "slug": "how-to-handle-data-with-graphql-relay-client-schema-extensions-4o3",
+  "url": "https://dev.to/woovi/how-to-handle-data-with-graphql-relay-client-schema-extensions-4o3",
+  "publish_date": "2024-01-16",
+  "published_at": "2024-01-16T11:00:35Z"
+ },
+ {
+  "id": 1727195,
+  "title": "14 Things To Check Before Deploying a Website 👨‍💻🔥",
+  "description": "Let's get started! 🚀   Dropping a website out into the wild web is a big deal, so making...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aH6Gd9Gy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3j0fzmbm9siz7ox5vo7s.png",
+  "slug": "14-things-to-check-before-deploying-a-website-49ee",
+  "url": "https://dev.to/arjuncodess/14-things-to-check-before-deploying-a-website-49ee",
+  "publish_date": "2024-01-16",
+  "published_at": "2024-01-16T05:25:50Z"
+ },
+ {
   "id": 1728275,
   "title": "🎀 Five tools to make your K8s experience more enjoyable 🎀",
   "description": "For the uninitiated, K8s stands for Kubernetes, with the number 8 representing the eight letters...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/refine/an-intro-to-server-components-in-react-192k",
   "publish_date": "2023-10-09",
   "published_at": "2023-10-09T07:33:29Z"
- },
- {
-  "id": 1627679,
-  "title": "How to Cut Your Data Analysis Costs With esProc SPL",
-  "description": "Imagine having a data analysis engine like esProc SPL that can really cut down on your application...",
-  "cover_image": "",
-  "slug": "how-to-cut-your-data-analysis-costs-with-esproc-spl-6fj",
-  "url": "https://dev.to/grayhat/how-to-cut-your-data-analysis-costs-with-esproc-spl-6fj",
-  "publish_date": "2023-10-08",
-  "published_at": "2023-10-08T14:54:52Z"
- },
- {
-  "id": 1627540,
-  "title": "Building a Tkinter GUI Application from Scratch with Python",
-  "description": "Tkinter is a powerful yet easy-to-use graphical user interface (GUI) toolkit that comes included with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZgeUxMn6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c6o6fr9a5lt0fm43qwcf.png",
-  "slug": "building-a-tkinter-gui-application-from-scratch-2lok",
-  "url": "https://dev.to/scofieldidehen/building-a-tkinter-gui-application-from-scratch-2lok",
-  "publish_date": "2023-10-08",
-  "published_at": "2023-10-08T08:30:24Z"
- },
- {
-  "id": 1627486,
-  "title": "Mastering ROUGE Matrix: Your Guide to Large Language Model Evaluation for Summarization with Examples",
-  "description": "Introduction   In this article, we will start discussing everything you might want to learn...",
-  "cover_image": "",
-  "slug": "mastering-rouge-matrix-your-guide-to-large-language-model-evaluation-for-summarization-with-examples-jjg",
-  "url": "https://dev.to/aws-builders/mastering-rouge-matrix-your-guide-to-large-language-model-evaluation-for-summarization-with-examples-jjg",
-  "publish_date": "2023-10-08",
-  "published_at": "2023-10-08T06:05:52Z"
- },
- {
-  "id": 1627296,
-  "title": "Effects of listening 🎧 to music while coding",
-  "description": "\"Do you listen to music 🎵 while coding?\"  I was asked this question recently by a friend of...",
-  "cover_image": "",
-  "slug": "effects-of-listening-to-music-while-coding-43ag",
-  "url": "https://dev.to/michthebrandofficial/effects-of-listening-to-music-while-coding-43ag",
-  "publish_date": "2023-10-08",
-  "published_at": "2023-10-08T06:01:00Z"
- },
- {
-  "id": 1627378,
-  "title": "Understanding Web Workers: What Are They and How Can They Enhance Your Web Apps",
-  "description": "JavaScript is the language of the web, offering developers a plethora of features to craft...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--S2HrgzOF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ka22fj7ttb34m465r8b3.png",
-  "slug": "understanding-web-workers-what-are-they-and-how-can-they-enhance-your-web-apps-3i50",
-  "url": "https://dev.to/gervaisamoah/understanding-web-workers-what-are-they-and-how-can-they-enhance-your-web-apps-3i50",
-  "publish_date": "2023-10-08",
-  "published_at": "2023-10-08T00:56:58Z"
  }
 ]
