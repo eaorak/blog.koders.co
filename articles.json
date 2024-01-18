@@ -1,5 +1,55 @@
 [
  {
+  "id": 1728075,
+  "title": "418 I'm a Teapot",
+  "description": "Believe it or not, \"418 I'm a Teapot\" is a legitimate HTTP status code, although it comes with a...",
+  "cover_image": "",
+  "slug": "418-im-a-teapot-2jf5",
+  "url": "https://dev.to/arjuncodess/418-im-a-teapot-2jf5",
+  "publish_date": "2024-01-17",
+  "published_at": "2024-01-17T15:14:02Z"
+ },
+ {
+  "id": 1732711,
+  "title": "AWS Community Builders: O que é e como se tornar [PT/BR]",
+  "description": "TL,DR: Neste artigo irei falar sobre o programa AWS Community Builders, a minha experiência nos...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sCbYFF2o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7t45wfshf6uumjbdp0k0.jpg",
+  "slug": "aws-community-builders-o-que-e-e-como-se-tornar-ptbr-3h4m",
+  "url": "https://dev.to/aws-builders/aws-community-builders-o-que-e-e-como-se-tornar-ptbr-3h4m",
+  "publish_date": "2024-01-17",
+  "published_at": "2024-01-17T15:03:44Z"
+ },
+ {
+  "id": 1732552,
+  "title": "🏞️5 beautiful open-source web apps to learn from and get inspired 🙇‍♀️💡",
+  "description": "As the title says, in this post, we'll cover open-source web apps you can learn from and use as a...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q5JrmrpV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kcrnddj5j7tr12mhm484.png",
+  "slug": "5-beautiful-open-source-web-apps-to-learn-from-and-get-inspired-280f",
+  "url": "https://dev.to/matijasos/5-beautiful-open-source-web-apps-to-learn-from-and-get-inspired-280f",
+  "publish_date": "2024-01-17",
+  "published_at": "2024-01-17T13:11:12Z"
+ },
+ {
+  "id": 1716118,
+  "title": "‼️ Top 5 Open-Source LLM Evaluation Frameworks in 2024 🎉🔥🚀",
+  "description": "TL:DR   \"I feel like there are more LLM evaluation solutions out there than there are...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hli9cR6N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lm17nmcy5mlvvui85rfo.png",
+  "slug": "-top-5-open-source-llm-evaluation-frameworks-in-2024-98m",
+  "url": "https://dev.to/guybuildingai/-top-5-open-source-llm-evaluation-frameworks-in-2024-98m",
+  "publish_date": "2024-01-17",
+  "published_at": "2024-01-17T10:24:02Z"
+ },
+ {
+  "id": 1732316,
+  "title": "Top 5+ NextJS \u0026 ReactJS Boilerplates for 2024",
+  "description": "As the web development landscape continues to evolve, NextJS remains a front-runner in the world of...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a8IlkR2G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fnoq8qt2l9esb3mqn5ra.png",
+  "slug": "top-5-nextjs-reactjs-boilerplates-for-2024-ll9",
+  "url": "https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9",
+  "publish_date": "2024-01-17",
+  "published_at": "2024-01-17T09:47:27Z"
+ },
+ {
   "id": 1728583,
   "title": "Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler",
   "description": "Discover how to use AWS EventBridge Scheduler to schedule Lambda function tasks in your serverless applications. Step-by-step tutorial with code examples.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/he4rt/criando-exceptions-para-impressionar-no-teste-tecnico-2nie",
   "publish_date": "2023-10-10",
   "published_at": "2023-10-10T01:03:22Z"
- },
- {
-  "id": 1624535,
-  "title": "How we deprecated two successful projects and joined forces to create an even more successful one",
-  "description": "We had two large clients requesting to integrate our ML pipelines with their backend using Apache...",
-  "cover_image": "",
-  "slug": "how-we-deprecated-two-successful-projects-and-joined-forces-to-create-an-even-more-successful-one-3lon",
-  "url": "https://dev.to/airtai/how-we-deprecated-two-successful-projects-and-joined-forces-to-create-an-even-more-successful-one-3lon",
-  "publish_date": "2023-10-09",
-  "published_at": "2023-10-09T17:23:10Z"
- },
- {
-  "id": 1615836,
-  "title": "[UPDATED] The DynamoDB-Toolbox v1 beta is here 🙌 All you need to know!",
-  "description": "[UPDATED] The DynamoDB-Toolbox v1 beta is here 🙌 All you need to know!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q0yHV_Xw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ThomasAribart/dev-to-articles/master/blog-posts/dynamodb-toolbox-v1-beta/dynamodb-toolbox-v1-beta.png",
-  "slug": "updated-the-dynamodb-toolbox-v1-beta-is-here-all-you-need-to-know-ep2",
-  "url": "https://dev.to/slsbytheodo/updated-the-dynamodb-toolbox-v1-beta-is-here-all-you-need-to-know-ep2",
-  "publish_date": "2023-10-09",
-  "published_at": "2023-10-09T15:22:07Z"
- },
- {
-  "id": 1628742,
-  "title": "New DynamoDB-Toolbox v1 beta: Features and breaking changes",
-  "description": "New DynamoDB-Toolbox v1 beta: Features and breaking changes",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q0yHV_Xw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/ThomasAribart/dev-to-articles/master/blog-posts/dynamodb-toolbox-v1-beta/dynamodb-toolbox-v1-beta.png",
-  "slug": "new-dynamodb-toolbox-v1-beta-features-and-breaking-changes-1ji5",
-  "url": "https://dev.to/slsbytheodo/new-dynamodb-toolbox-v1-beta-features-and-breaking-changes-1ji5",
-  "publish_date": "2023-10-09",
-  "published_at": "2023-10-09T15:22:05Z"
- },
- {
-  "id": 1628781,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6-94cHGV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-5770",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5770",
-  "publish_date": "2023-10-09",
-  "published_at": "2023-10-09T14:04:33Z"
- },
- {
-  "id": 1628411,
-  "title": "❄️ An Intro to Server Components in React",
-  "description": "Author: Peter Osah           Introduction   Recently, there has been a lot of hype and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NFz-5Qsf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mi0zzoyauyv4gssfap05.png",
-  "slug": "an-intro-to-server-components-in-react-192k",
-  "url": "https://dev.to/refine/an-intro-to-server-components-in-react-192k",
-  "publish_date": "2023-10-09",
-  "published_at": "2023-10-09T07:33:29Z"
  }
 ]
