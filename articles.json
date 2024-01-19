@@ -1,5 +1,55 @@
 [
  {
+  "id": 1733920,
+  "title": "How To Get Experience (Even When You Don’t Have Any) 💡",
+  "description": "If you are a developer looking for a job, I bet you heard this already: \"We moved forward with...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YpWvoHfA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a77atjtxbgxxdrdfrq63.png",
+  "slug": "how-to-get-experience-even-when-you-dont-have-any-2e00",
+  "url": "https://dev.to/dragosnedelcu/how-to-get-experience-even-when-you-dont-have-any-2e00",
+  "publish_date": "2024-01-18",
+  "published_at": "2024-01-18T16:21:16Z"
+ },
+ {
+  "id": 1733753,
+  "title": "Go ORMs Compared",
+  "description": "In this article, we're comparing commonly used Go ORMs to help you answer which one is suitable for...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CRPcxU2k--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c7qquaa596a4pv1mdw77.png",
+  "slug": "go-orms-compared-2c8g",
+  "url": "https://dev.to/encore/go-orms-compared-2c8g",
+  "publish_date": "2024-01-18",
+  "published_at": "2024-01-18T13:44:42Z"
+ },
+ {
+  "id": 1710177,
+  "title": "How to add the OSS Friends page to your Next.js website",
+  "description": "What you will find in this article?   In the open-source community, collaboration and...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AmbZKCmI--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ixskb7dxkyiiir7saml.png",
+  "slug": "how-to-add-the-oss-friends-page-to-your-nextjs-website-2d7h",
+  "url": "https://dev.to/mfts/how-to-add-the-oss-friends-page-to-your-nextjs-website-2d7h",
+  "publish_date": "2024-01-18",
+  "published_at": "2024-01-18T10:24:28Z"
+ },
+ {
+  "id": 1733397,
+  "title": "🐣Your First Database Schema Change in 5 Minutes with Bytebase",
+  "description": "In this tutorial, you'll use the sample databases Bytebase provides by default to get familiar with...",
+  "cover_image": "",
+  "slug": "your-first-database-schema-change-in-5-minutes-with-bytebase-44a0",
+  "url": "https://dev.to/bytebase/your-first-database-schema-change-in-5-minutes-with-bytebase-44a0",
+  "publish_date": "2024-01-18",
+  "published_at": "2024-01-18T06:42:04Z"
+ },
+ {
+  "id": 1733341,
+  "title": "Popular tag(#programming) last week top 5",
+  "description": "14 Things To Check Before Deploying a Website 👨‍💻🔥   Let's get started! 🚀  Dropping a...",
+  "cover_image": "",
+  "slug": "popular-tagprogramming-last-week-top-5-3o9",
+  "url": "https://dev.to/c4r4x35/popular-tagprogramming-last-week-top-5-3o9",
+  "publish_date": "2024-01-18",
+  "published_at": "2024-01-18T05:23:45Z"
+ },
+ {
   "id": 1728075,
   "title": "418 I'm a Teapot",
   "description": "Believe it or not, \"418 I'm a Teapot\" is a legitimate HTTP status code, although it comes with a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/slsbytheodo/deploy-a-lambda-with-a-static-ip-for-free-4e0l",
   "publish_date": "2023-10-11",
   "published_at": "2023-10-11T08:52:55Z"
- },
- {
-  "id": 1630345,
-  "title": "Drizzle or Prisma? I Built an App Twice to Find Out Which Is Better",
-  "description": "For TypeScript lovers, Prisma has been the perfect solution for building database-centric...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vs1EOtLB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lbmwky173wto6z6m1xl.png",
-  "slug": "drizzle-or-prisma-i-built-an-app-twice-to-find-out-which-is-better-1f82",
-  "url": "https://dev.to/zenstack/drizzle-or-prisma-i-built-an-app-twice-to-find-out-which-is-better-1f82",
-  "publish_date": "2023-10-10",
-  "published_at": "2023-10-10T17:40:59Z"
- },
- {
-  "id": 1602968,
-  "title": "Feature flags implementation in Nest.js 😻",
-  "description": "😵 The issue   As a web developer, you know that it's important to be able to deploy new...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MsBa6RK7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5m04v48rceryjr2zd0ce.png",
-  "slug": "feature-flags-implementation-in-nestjs-3o6o",
-  "url": "https://dev.to/ed_lcrt/feature-flags-implementation-in-nestjs-3o6o",
-  "publish_date": "2023-10-10",
-  "published_at": "2023-10-10T13:13:26Z"
- },
- {
-  "id": 1629904,
-  "title": "Implement Google Auth with AWS Lambda and Supabase in 30 minutes",
-  "description": "Google auth is hard to implement…   In today's world, authentication with Google and other...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--dAlaMhpa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jcgy27uj1ydy543rvy4s.png",
-  "slug": "implement-google-auth-with-aws-lambda-and-supabase-in-30-minutes-p15",
-  "url": "https://dev.to/slsbytheodo/implement-google-auth-with-aws-lambda-and-supabase-in-30-minutes-p15",
-  "publish_date": "2023-10-10",
-  "published_at": "2023-10-10T12:20:13Z"
- },
- {
-  "id": 1628866,
-  "title": "Creating a hackathon winning AI based app in a weekend using Supabase, OpenAI, \u0026 Next.js",
-  "description": "Back in April 2023, Supabase announced it's AI themed hackathon for Launch Week 7 - there were a lot...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lI2mGsun--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c3s7is2jelnggjzhemp9.png",
-  "slug": "creating-a-hackathon-winning-ai-based-app-in-a-weekend-using-supabase-openai-nextjs-2pe7",
-  "url": "https://dev.to/asheeshh/creating-a-hackathon-winning-ai-based-app-in-a-weekend-using-supabase-openai-nextjs-2pe7",
-  "publish_date": "2023-10-10",
-  "published_at": "2023-10-10T07:17:29Z"
- },
- {
-  "id": 1629230,
-  "title": "Criando Exceptions para impressionar no Teste Técnico",
-  "description": "Exceptions sempre vai ser um assunto constante quando o tópico for Orientação à Objetos e hoje vamos...",
-  "cover_image": "",
-  "slug": "criando-exceptions-para-impressionar-no-teste-tecnico-2nie",
-  "url": "https://dev.to/he4rt/criando-exceptions-para-impressionar-no-teste-tecnico-2nie",
-  "publish_date": "2023-10-10",
-  "published_at": "2023-10-10T01:03:22Z"
  }
 ]
