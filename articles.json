@@ -1,5 +1,55 @@
 [
  {
+  "id": 1740339,
+  "title": "Meteor is getting new docs!",
+  "description": "We are in the process of migrating documentation from the current site to the new one. You can...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7p4efn20h9kv03mt4exq.png",
+  "slug": "meteor-is-getting-new-docs-h6g",
+  "url": "https://dev.to/meteor/meteor-is-getting-new-docs-h6g",
+  "publish_date": "2024-01-24",
+  "published_at": "2024-01-24T19:13:40Z"
+ },
+ {
+  "id": 1740351,
+  "title": "Cloud, why so difficult? 🤷‍♀️",
+  "description": "A manifesto for cloud-oriented programming",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnztz1tb0j4dategg25ns.gif",
+  "slug": "cloud-why-so-difficult-3j33",
+  "url": "https://dev.to/winglang/cloud-why-so-difficult-3j33",
+  "publish_date": "2024-01-24",
+  "published_at": "2024-01-24T17:07:13Z"
+ },
+ {
+  "id": 1738350,
+  "title": "🪄Chat with your resume builder - with Next.js, OpenAI, and CopilotKit 📑✨",
+  "description": "TL;DR   In this article, you will learn how to build an AI-powered resume builder...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrds5ds6umeanfsyuyfe.gif",
+  "slug": "how-to-build-the-with-nextjs-openai-1mhb",
+  "url": "https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb",
+  "publish_date": "2024-01-24",
+  "published_at": "2024-01-24T15:28:52Z"
+ },
+ {
+  "id": 1732810,
+  "title": "Tackling Clickbait on DEV: Strategy and Technical Approach",
+  "description": "Tackling Clickbait on DEV: Our Strategy and Actions   Recently, we have implemented measures...",
+  "cover_image": "",
+  "slug": "tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9",
+  "url": "https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9",
+  "publish_date": "2024-01-24",
+  "published_at": "2024-01-24T14:34:27Z"
+ },
+ {
+  "id": 1738576,
+  "title": "18 GitHub Repositories You Need to Star Right Now! 🌟🔥",
+  "description": "Let's Get Started 🙌   GitHub, the popular online platform for software and web development...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovrws6gjp38iftrhyzwz.png",
+  "slug": "18-github-repositories-you-need-to-star-right-now-m0d",
+  "url": "https://dev.to/arjuncodess/18-github-repositories-you-need-to-star-right-now-m0d",
+  "publish_date": "2024-01-24",
+  "published_at": "2024-01-24T01:45:00Z"
+ },
+ {
   "id": 1738149,
   "title": "😎 9 Top Trending Open Source Projects to Watch for in 2024",
   "description": "As a developer, who's passionate about open source, I'm constantly watching up-and-coming projects,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github20k/8-components-to-become-a-react-master-2ee4",
   "publish_date": "2023-10-16",
   "published_at": "2023-10-16T05:47:29Z"
- },
- {
-  "id": 1635461,
-  "title": "Chapter 3: Three Worlds",
-  "description": "A story-telling experiment in which we explore the world of a fictional planet and the rise of its civilization.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zmddciN4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p53b6og7h9vr2l6i7n4p.png",
-  "slug": "chapter-3-three-worlds-1kad",
-  "url": "https://dev.to/sarthology/chapter-3-three-worlds-1kad",
-  "publish_date": "2023-10-15",
-  "published_at": "2023-10-15T18:23:10Z"
- },
- {
-  "id": 1635329,
-  "title": "Build a GraphQL API and deploy it in minutes with Encore 🚀",
-  "description": "TL;DR   This guide shows how to build a GraphQL API with Encore. It implements a backend for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RrqP5haQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rsq9f8hq6i7x5oakipy2.png",
-  "slug": "build-a-graphql-api-and-deploy-it-in-minutes-with-encore-41ih",
-  "url": "https://dev.to/encore/build-a-graphql-api-and-deploy-it-in-minutes-with-encore-41ih",
-  "publish_date": "2023-10-15",
-  "published_at": "2023-10-15T13:10:22Z"
- },
- {
-  "id": 1634888,
-  "title": "JavaScript First, Then TypeScript",
-  "description": "A recent trend has shaken up the JavaScript-TypeScript community: the anti-build-step movement. In this article, however, I will not argue whether TypeScript is still relevant today. Instead, I reflect on my own journey of stepping away from TypeScript—but for a completely different reason: consumer semantics!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YJY32A45--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4puzsf0q9v6qw4b4lwir.png",
-  "slug": "javascript-first-then-typescript-10bg",
-  "url": "https://dev.to/somedood/javascript-first-then-typescript-10bg",
-  "publish_date": "2023-10-15",
-  "published_at": "2023-10-15T12:38:52Z"
- },
- {
-  "id": 1635310,
-  "title": "From Lab to Live: Implementing Open-Source AI Models for Real-Time Unsupervised Anomaly Detection in Images",
-  "description": "The journey of taking an open-source artificial intelligence (AI) model from a laboratory setting to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zQp0paJn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d9xks1imvt9tttp8ykqa.png",
-  "slug": "from-lab-to-live-implementing-open-source-ai-models-for-real-time-unsupervised-anomaly-detection-in-images-2h18",
-  "url": "https://dev.to/reductstore/from-lab-to-live-implementing-open-source-ai-models-for-real-time-unsupervised-anomaly-detection-in-images-2h18",
-  "publish_date": "2023-10-15",
-  "published_at": "2023-10-15T12:07:28Z"
- },
- {
-  "id": 1631474,
-  "title": "Running Swirl Search🌌in an instant on Gitpod🌐💻and GitHub Codespaces🌩️🚀",
-  "description": "Hello folks,  Let me quickly introduce you guys about Swirl before we start.           What is...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bJzlYs-c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/1fvxtgp2ce4q0ldx0hsd.png",
-  "slug": "running-swirl-searchin-an-instant-on-gitpodand-github-codespaces-l86",
-  "url": "https://dev.to/svamshi/running-swirl-searchin-an-instant-on-gitpodand-github-codespaces-l86",
-  "publish_date": "2023-10-15",
-  "published_at": "2023-10-15T06:51:40Z"
  }
 ]
