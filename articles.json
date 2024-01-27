@@ -1,5 +1,55 @@
 [
  {
+  "id": 1741547,
+  "title": "How to build a WhatsApp AI assistant",
+  "description": "Introduction   In this tutorial, you’ll learn how to create an AI assistant with its own...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ryyokck1afv0tsmouob.png",
+  "slug": "how-to-build-a-whatsapp-ai-assistant-38l2",
+  "url": "https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2",
+  "publish_date": "2024-01-26",
+  "published_at": "2024-01-26T20:34:30Z"
+ },
+ {
+  "id": 1728587,
+  "title": "What was your win this week?",
+  "description": "Howdy folks! 🤠  Looking forward to your weekend? I know I am! 🙌   Looking back on this past week,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4a9p16hwa372gwfnn235.jpg",
+  "slug": "what-was-your-win-this-week-32bb",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-32bb",
+  "publish_date": "2024-01-26",
+  "published_at": "2024-01-26T13:05:00Z"
+ },
+ {
+  "id": 1739496,
+  "title": "I'm Building an AI Project: Here Are the Libraries I'm Going to Use...",
+  "description": "With the right libraries any developer can build powerful AI features into their applications (like a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe5080q3ibtmfrku612d.gif",
+  "slug": "im-building-an-ai-project-here-are-the-libraries-im-going-to-use-pd0",
+  "url": "https://dev.to/copilotkit/im-building-an-ai-project-here-are-the-libraries-im-going-to-use-pd0",
+  "publish_date": "2024-01-26",
+  "published_at": "2024-01-26T12:53:46Z"
+ },
+ {
+  "id": 1741985,
+  "title": "Apple DMA changes - for better or for worse?",
+  "description": "Yesterday (25 Jan 2024) Apple announced some major changes to iOS, Safari, and the App Store...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzcvd36cc7ycw21umvm17.png",
+  "slug": "apple-dma-changes-for-better-or-for-worse-40i1",
+  "url": "https://dev.to/aexol-studio/apple-dma-changes-for-better-or-for-worse-40i1",
+  "publish_date": "2024-01-26",
+  "published_at": "2024-01-26T10:41:32Z"
+ },
+ {
+  "id": 1741901,
+  "title": "The IT job market is tough right now. What are your best tips to create a developer portfolio ?",
+  "description": "Show your work !           The job market for developers was very tough in 2023.   It was tough...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2xtddbqoj2akdeequ10k.jpg",
+  "slug": "show-your-work-3hpg",
+  "url": "https://dev.to/jmfayard/show-your-work-3hpg",
+  "publish_date": "2024-01-26",
+  "published_at": "2024-01-26T07:56:24Z"
+ },
+ {
   "id": 1741620,
   "title": "What is a Vector Database?",
   "description": "A Vector Database is a specialized database system designed for efficiently indexing, querying, and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lixeletto/escreva-o-melhor-markdown-que-voce-ja-fez-com-esses-5-snippets-3fni",
   "publish_date": "2023-10-18",
   "published_at": "2023-10-18T03:51:25Z"
- },
- {
-  "id": 1637574,
-  "title": "24 Open-Source Projects for Developers in 2023 🔥👍",
-  "description": "Open-source projects are playgrounds of innovation, collaboration, and creativity. It's a hub where...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xPxws3-r--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/74998ffdt3doqvxtxumz.png",
-  "slug": "24-open-source-projects-for-developers-in-2023-391l",
-  "url": "https://dev.to/madza/24-open-source-projects-for-developers-in-2023-391l",
-  "publish_date": "2023-10-17",
-  "published_at": "2023-10-17T15:03:57Z"
- },
- {
-  "id": 1637234,
-  "title": "🚀 Turn your face into a super-hero with NextJS, Replicate, and Trigger.dev 🦸🏻‍♂️",
-  "description": "TL;DR   This tutorial is super fun! You'll learn how to build a web application that allows...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ySiTd3qo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lr7ntcsm4jf53lsqcr6p.png",
-  "slug": "turn-your-face-into-a-super-hero-with-nextjs-replicate-and-triggerdev-17ln",
-  "url": "https://dev.to/triggerdotdev/turn-your-face-into-a-super-hero-with-nextjs-replicate-and-triggerdev-17ln",
-  "publish_date": "2023-10-17",
-  "published_at": "2023-10-17T12:51:59Z"
- },
- {
-  "id": 1634918,
-  "title": "👥 From Candidate to Colleague: Acing a competitive Junior-level recruitment challenge📋",
-  "description": "Hello there!            TL;DR     In this article, we want to emphasize the importance of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hL_qLgjh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h2ndlrrk0qsjxc4yv1qm.gif",
-  "slug": "from-candidate-to-colleague-acing-a-competitive-junior-level-recruitment-challenge-l3k",
-  "url": "https://dev.to/wasp/from-candidate-to-colleague-acing-a-competitive-junior-level-recruitment-challenge-l3k",
-  "publish_date": "2023-10-17",
-  "published_at": "2023-10-17T12:00:00Z"
- },
- {
-  "id": 1637265,
-  "title": "An Introduction to ⚡FastAPI",
-  "description": "Author: Obisike Treause           Introduction   Since its introduction to backend...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v6ilGKTK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4okf5v9zdg4ybo04cvqy.png",
-  "slug": "an-introduction-to-fastapi-2fda",
-  "url": "https://dev.to/refine/an-introduction-to-fastapi-2fda",
-  "publish_date": "2023-10-17",
-  "published_at": "2023-10-17T10:50:46Z"
- },
- {
-  "id": 1630823,
-  "title": "Compiladores, trampolim, deque e thread pool",
-  "description": "Faz alguns dias que não escrevo. Minha rotina mudou um pouco e também tenho focado em estudar algumas...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--KTVTIyZK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fcz4fg6ag3gghqp16uwy.png",
-  "slug": "compiladores-trampolim-deque-e-thread-pool-dd1",
-  "url": "https://dev.to/leandronsp/compiladores-trampolim-deque-e-thread-pool-dd1",
-  "publish_date": "2023-10-17",
-  "published_at": "2023-10-17T06:08:01Z"
  }
 ]
