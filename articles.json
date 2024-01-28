@@ -1,5 +1,55 @@
 [
  {
+  "id": 1743101,
+  "title": "New things to become viral in Open-Source in 2024",
+  "description": "When doing open-source promotion, for me, the goal is very clear - how many people are moving to our...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F16zuxvifeb0g7obqcat9.png",
+  "slug": "new-things-to-become-viral-in-open-source-in-2024-5a89",
+  "url": "https://dev.to/github20k/new-things-to-become-viral-in-open-source-in-2024-5a89",
+  "publish_date": "2024-01-27",
+  "published_at": "2024-01-27T17:56:53Z"
+ },
+ {
+  "id": 1728580,
+  "title": "What are you learning about this weekend? 🧠",
+  "description": "Hey muh peeps!  What's everybody up to this weekend? Learning, chilling, a little bit of...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6j0gywbi5x7xtm7krq1.jpg",
+  "slug": "what-are-you-learning-about-this-weekend-3m1c",
+  "url": "https://dev.to/devteam/what-are-you-learning-about-this-weekend-3m1c",
+  "publish_date": "2024-01-27",
+  "published_at": "2024-01-27T11:00:00Z"
+ },
+ {
+  "id": 1742831,
+  "title": "Preact: Lightweight React Alternative",
+  "description": "Exploring Preact's Advantages in Performance and Size for Enhanced Web Development            What...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyq0u2qwp5880mq9pwvqd.png",
+  "slug": "preact-lightweight-react-alternative-15kn",
+  "url": "https://dev.to/codeparrot/preact-lightweight-react-alternative-15kn",
+  "publish_date": "2024-01-27",
+  "published_at": "2024-01-27T10:57:52Z"
+ },
+ {
+  "id": 1742651,
+  "title": "How to set up your own proxy server in minutes?",
+  "description": "Today, most websites track your online activities by capturing essential information such as IP...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzybn70v8dsp66zkmcjon.jpg",
+  "slug": "how-to-set-up-your-own-proxy-server-in-minutes-4ke",
+  "url": "https://dev.to/dhairyashah/how-to-set-up-your-own-proxy-server-in-minutes-4ke",
+  "publish_date": "2024-01-27",
+  "published_at": "2024-01-27T04:47:47Z"
+ },
+ {
+  "id": 1742634,
+  "title": "WebSockets Unlocked: Mastering scale of websockets",
+  "description": "Intro Hey there! 🌟 Ready to dive into the exciting world of real-time communication with WebSocket? 🚀...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzd9mg7k0wosn1axmpwq.png",
+  "slug": "websockets-unlocked-mastering-scale-of-websockets-3p54",
+  "url": "https://dev.to/raunakgurud09/websockets-unlocked-mastering-scale-of-websockets-3p54",
+  "publish_date": "2024-01-27",
+  "published_at": "2024-01-27T03:45:18Z"
+ },
+ {
   "id": 1741547,
   "title": "How to build a WhatsApp AI assistant",
   "description": "Introduction   In this tutorial, you’ll learn how to create an AI assistant with its own...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/turculaurentiu91/why-you-should-choose-htmx-for-your-next-project-o7j",
   "publish_date": "2023-10-19",
   "published_at": "2023-10-19T05:21:36Z"
- },
- {
-  "id": 1636209,
-  "title": "Erros comuns de iniciantes em ReactJS",
-  "description": "Ao longo de nosso tempo de estudo, percebemos que o React possui uma série de detalhes que nos pegam...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a7Y1k2Fb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ojcmwwl4akscd30nusmn.png",
-  "slug": "erros-comuns-de-iniciantes-em-reactjs-1fla",
-  "url": "https://dev.to/m1guelsb/erros-comuns-de-iniciantes-em-reactjs-1fla",
-  "publish_date": "2023-10-18",
-  "published_at": "2023-10-18T20:03:18Z"
- },
- {
-  "id": 1638876,
-  "title": "WYSIWYG for MDX?! Introducing Vrite's Hybrid Editor",
-  "description": "You might be familiar with so-called What You See Is What You Get (WYSIWYG) or Rich Text editors....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IujQAeQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://assets.vrite.io/6409e82d7dfc74cef7a72e0d/aWm7nN-QBBhdzhsDaHyww.png",
-  "slug": "wysiwyg-for-mdx-introducing-vrites-hybrid-editor-4j13",
-  "url": "https://dev.to/vrite/wysiwyg-for-mdx-introducing-vrites-hybrid-editor-4j13",
-  "publish_date": "2023-10-18",
-  "published_at": "2023-10-18T16:01:57Z"
- },
- {
-  "id": 1638526,
-  "title": "Fault Tolerance in Distributed Systems: Strategies and Case Studies",
-  "description": "The complex technological web that supports our daily lives has grown into a vast network of...",
-  "cover_image": "",
-  "slug": "fault-tolerance-in-distributed-systems-strategies-and-case-studies-29d2",
-  "url": "https://dev.to/nekto0n/fault-tolerance-in-distributed-systems-strategies-and-case-studies-29d2",
-  "publish_date": "2023-10-18",
-  "published_at": "2023-10-18T11:31:56Z"
- },
- {
-  "id": 1638505,
-  "title": "🚨Big News! Renaming: TW Elements is the new name of the game, TWE for short! 🚨",
-  "description": "TW Elements is the new name of the game, TWE for short  After our first Stable Version and its...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5WttdnyC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/aflj6m5wai7h2tskhr0p.png",
-  "slug": "big-news-renaming-tw-elements-is-the-new-name-of-the-game-twe-for-short-1hpl",
-  "url": "https://dev.to/mdbootstrap/big-news-renaming-tw-elements-is-the-new-name-of-the-game-twe-for-short-1hpl",
-  "publish_date": "2023-10-18",
-  "published_at": "2023-10-18T10:52:23Z"
- },
- {
-  "id": 1638127,
-  "title": "Escreva o melhor markdown que você ja fez com esses 5 snippets",
-  "description": "Sumário    Âncora interativa Compatibilidade de navegador Imagem de destaque Accordion...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6LMpdB2o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wce5rhm39i3lk7y8e4bp.png",
-  "slug": "escreva-o-melhor-markdown-que-voce-ja-fez-com-esses-5-snippets-3fni",
-  "url": "https://dev.to/lixeletto/escreva-o-melhor-markdown-que-voce-ja-fez-com-esses-5-snippets-3fni",
-  "publish_date": "2023-10-18",
-  "published_at": "2023-10-18T03:51:25Z"
  }
 ]
