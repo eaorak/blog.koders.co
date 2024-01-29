@@ -1,5 +1,55 @@
 [
  {
+  "id": 1743267,
+  "title": "Translating Database Queries",
+  "description": "Did you ever wondered a tool that can be translating many database syntax's at the same time?        ...",
+  "cover_image": "",
+  "slug": "translating-database-queries-3n0m",
+  "url": "https://dev.to/danielhe4rt/translating-database-queries-3n0m",
+  "publish_date": "2024-01-28",
+  "published_at": "2024-01-28T16:01:37Z"
+ },
+ {
+  "id": 1743638,
+  "title": "Be a inventer Not 'Frameworker'",
+  "description": "Disclaimer: These all are my opinion no need to offend   \"What I cannot create, I do not...",
+  "cover_image": "",
+  "slug": "be-a-inventer-not-frameworker-1ehk",
+  "url": "https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk",
+  "publish_date": "2024-01-28",
+  "published_at": "2024-01-28T13:56:53Z"
+ },
+ {
+  "id": 1743527,
+  "title": "Jetpack Compose Mastery Part 1: A Comprehensive Guide to Building Your First Compose Application",
+  "description": "1. Preface   As mobile application development continues to evolve, Google has introduced...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn7crxv43m9glpqiu7c42.png",
+  "slug": "jetpack-compose-mastery-part-1-a-comprehensive-guide-to-building-your-first-compose-application-jng",
+  "url": "https://dev.to/happyer/jetpack-compose-mastery-part-1-a-comprehensive-guide-to-building-your-first-compose-application-jng",
+  "publish_date": "2024-01-28",
+  "published_at": "2024-01-28T09:01:05Z"
+ },
+ {
+  "id": 1742918,
+  "title": "A Guide to Styling Tables",
+  "description": "I've recently noticed a small paradox: Many years ago – before CSS grid — we used \u0026lt;table\u0026gt;s to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6gr0wx4oitnjbbt3fgt.jpg",
+  "slug": "a-guide-to-styling-tables-28d2",
+  "url": "https://dev.to/madsstoumann/a-guide-to-styling-tables-28d2",
+  "publish_date": "2024-01-28",
+  "published_at": "2024-01-28T08:25:33Z"
+ },
+ {
+  "id": 1743342,
+  "title": "3 fundamental concepts in Javascript OOP",
+  "description": "Hi beautiful people 👋 Ever feel like your codes are a jumbled mess of spaghetti functions?  Yeah, me...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0crewnkyolul91g8j3g0.jpg",
+  "slug": "3-fundamental-concepts-in-javascript-oop-12fn",
+  "url": "https://dev.to/junlow/3-fundamental-concepts-in-javascript-oop-12fn",
+  "publish_date": "2024-01-28",
+  "published_at": "2024-01-28T02:16:00Z"
+ },
+ {
   "id": 1743101,
   "title": "New things to become viral in Open-Source in 2024",
   "description": "When doing open-source promotion, for me, the goal is very clear - how many people are moving to our...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/refine/how-to-use-the-docker-exec-command-46e9",
   "publish_date": "2023-10-20",
   "published_at": "2023-10-20T07:10:20Z"
- },
- {
-  "id": 1639846,
-  "title": "🏆 🏆 Top 6 Open Source Repositories for Web Developers - ⭐ Most rated by community",
-  "description": "I've compiled a list of the top 6 open source repositories for web developers based on GitHub Stars,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ImtwNd8c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y5r122bqdn1ele2s9nvd.png",
-  "slug": "top-6-open-source-repositories-for-web-developers-most-rated-by-community-5g2",
-  "url": "https://dev.to/necatiozmen/top-6-open-source-repositories-for-web-developers-most-rated-by-community-5g2",
-  "publish_date": "2023-10-19",
-  "published_at": "2023-10-19T14:03:58Z"
- },
- {
-  "id": 1627544,
-  "title": "🚀 10 books to achieve Javascript mastery 👨‍💻",
-  "description": "TL;DR   This article contains a list of 10 books that can take you from a Javascript newbie...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--C6egEiPN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t8pmhe48agy2j4p6t7ip.png",
-  "slug": "10-books-to-achieve-javascript-mastery-3dbj",
-  "url": "https://dev.to/novu/10-books-to-achieve-javascript-mastery-3dbj",
-  "publish_date": "2023-10-19",
-  "published_at": "2023-10-19T12:24:52Z"
- },
- {
-  "id": 1639738,
-  "title": "🐍🐍 23 Python github issues for Beginners to Foster Development into a Proficient Developer🧑‍💻 🥇",
-  "description": "TLDR   I've listed 23 python hacktoberfest issue that helps developers to contribute to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eWj3zOn5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d1p7h3fvg8s00415nj0j.gif",
-  "slug": "23-issues-to-grow-yourself-as-an-exceptional-open-source-python-expert-37nn",
-  "url": "https://dev.to/firecampdev/23-issues-to-grow-yourself-as-an-exceptional-open-source-python-expert-37nn",
-  "publish_date": "2023-10-19",
-  "published_at": "2023-10-19T12:18:49Z"
- },
- {
-  "id": 1625133,
-  "title": "👕 Last 10 years of Hacktoberfest merch, a journey through time 👀",
-  "description": "Hey friends 👋  I thought it would be cool to revisit all the Hacktoberfest tee-shirts created over...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0ukLJR-C--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eclhhw78atsoxdx0a8y7.png",
-  "slug": "last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od",
-  "url": "https://dev.to/quine/last-10-years-of-hacktoberfest-merch-a-journey-through-time-8od",
-  "publish_date": "2023-10-19",
-  "published_at": "2023-10-19T10:46:14Z"
- },
- {
-  "id": 1636528,
-  "title": "Why you should choose HTMX for your next project",
-  "description": "In this article, we will aim to understand why you should consider HTMX as a replacement for React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5YFFj_QB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gym8579nm327fj2qm6qy.png",
-  "slug": "why-you-should-choose-htmx-for-your-next-project-o7j",
-  "url": "https://dev.to/turculaurentiu91/why-you-should-choose-htmx-for-your-next-project-o7j",
-  "publish_date": "2023-10-19",
-  "published_at": "2023-10-19T05:21:36Z"
  }
 ]
