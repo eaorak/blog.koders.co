@@ -1,5 +1,55 @@
 [
  {
+  "id": 1746035,
+  "title": "Open-Source Headless CMS in 2024",
+  "description": "In the roaring digital arena of 2024, the open-source headless CMS scene isn't just evolving; it's...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqwaloyye6rjkzezfvpu7.png",
+  "slug": "open-source-headless-cms-in-2024-57ko",
+  "url": "https://dev.to/nikpoltoratsky/open-source-headless-cms-in-2024-57ko",
+  "publish_date": "2024-01-30",
+  "published_at": "2024-01-30T13:08:38Z"
+ },
+ {
+  "id": 1744860,
+  "title": "You don't need to pay for SaaS boilerplates - Open SaaS",
+  "description": "Presenting Open SaaS 🎉   We’re really excited to present Open SaaS, the totally free,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl55j25l1bipv84gp9t7x.png",
+  "slug": "you-dont-need-to-pay-for-saas-boilerplates-open-saas-56lj",
+  "url": "https://dev.to/wasp/you-dont-need-to-pay-for-saas-boilerplates-open-saas-56lj",
+  "publish_date": "2024-01-30",
+  "published_at": "2024-01-30T12:30:00Z"
+ },
+ {
+  "id": 1745804,
+  "title": "Coexistence of containers and Helm charts - OCI based registries",
+  "description": "If you are using Kubernetes, there's a fair chance you are using Helm or at least considered to. This...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgxmf2z8mo0cxnygk0eyc.jpeg",
+  "slug": "coexistence-of-containers-and-helm-charts-oci-based-registries-b6b",
+  "url": "https://dev.to/cyclops-ui/coexistence-of-containers-and-helm-charts-oci-based-registries-b6b",
+  "publish_date": "2024-01-30",
+  "published_at": "2024-01-30T10:29:53Z"
+ },
+ {
+  "id": 1710331,
+  "title": "Building a AI Assistant to chat with your documents using Next.js and OpenAI",
+  "description": "What you will find in this article?   AI is becoming a part of every aspect of our lives,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3mlgajc3k7reaetc7jla.png",
+  "slug": "building-a-ai-assistant-to-chat-with-your-documents-using-nextjs-and-openai-4ab6",
+  "url": "https://dev.to/mfts/building-a-ai-assistant-to-chat-with-your-documents-using-nextjs-and-openai-4ab6",
+  "publish_date": "2024-01-30",
+  "published_at": "2024-01-30T10:15:04Z"
+ },
+ {
+  "id": 1745479,
+  "title": "Why Do Rubber Ducks Work?",
+  "description": "Programming is often perceived by outsiders as a mysterious errand that is mechanical, highly...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyjd4j368gguu9q3r0hnc.png",
+  "slug": "why-do-rubber-ducks-work-27ia",
+  "url": "https://dev.to/zenstack/why-do-rubber-ducks-work-27ia",
+  "publish_date": "2024-01-30",
+  "published_at": "2024-01-30T05:07:37Z"
+ },
+ {
   "id": 1745233,
   "title": "Getting started with Ruby on Rails and Postgres on Supabase",
   "description": "Every Supabase project comes with a full Postgres database, a free and open source database which is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/eevajonnapanula/catgpt-or-how-to-position-elements-on-overlays-1c48",
   "publish_date": "2023-10-22",
   "published_at": "2023-10-22T06:51:00Z"
- },
- {
-  "id": 1642065,
-  "title": "Making Sense of Version Control — Git vs GitHub",
-  "description": "As a developer just starting out, I remember being so confused by version control and the difference...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yhbI2GCJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbk9poc1fegcbqjmcgbu.png",
-  "slug": "making-sense-of-version-control-git-vs-github-1ekn",
-  "url": "https://dev.to/jaimaldullat/making-sense-of-version-control-git-vs-github-1ekn",
-  "publish_date": "2023-10-21",
-  "published_at": "2023-10-21T16:15:54Z"
- },
- {
-  "id": 1641912,
-  "title": "Accelerate Your Career 👩🏻‍💻 by Contributing to these 9 Repositories 🔥",
-  "description": "Explore these nine repositories to stand out in different areas of software development. Go from...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--1zJJcuUN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0pavkqhlcmn9qu6yeq7s.gif",
-  "slug": "accelerate-your-career-by-contributing-to-these-9-repositories-28e3",
-  "url": "https://dev.to/swirl/accelerate-your-career-by-contributing-to-these-9-repositories-28e3",
-  "publish_date": "2023-10-21",
-  "published_at": "2023-10-21T15:47:39Z"
- },
- {
-  "id": 1641981,
-  "title": "How to Install and Set Up a Ghost Blog on AWS Lightsail - Step by Step Tutorial",
-  "description": "Welcome to this step-by-step tutorial on how to install and set up a Ghost blog on AWS Lightsail....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o69TTniW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/by375g5il2dr6rasmza3.png",
-  "slug": "how-to-install-and-set-up-a-ghost-blog-on-aws-lightsail-step-by-step-tutorial-48kf",
-  "url": "https://dev.to/devarshishimpi/how-to-install-and-set-up-a-ghost-blog-on-aws-lightsail-step-by-step-tutorial-48kf",
-  "publish_date": "2023-10-21",
-  "published_at": "2023-10-21T14:14:20Z"
- },
- {
-  "id": 1640425,
-  "title": "📊 How To Display An In-App Survey In Next.js 13 With Supabase And Formbricks 🤝🛠️",
-  "description": "Once a user has successfully completed the signup process for your application, you might consider...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ds_EaUZ0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tbk90xomj3vklzwxxf4j.png",
-  "slug": "how-to-display-an-in-app-survey-in-nextjs-13-with-supabase-and-formbricks-1d9n",
-  "url": "https://dev.to/formbricks/how-to-display-an-in-app-survey-in-nextjs-13-with-supabase-and-formbricks-1d9n",
-  "publish_date": "2023-10-21",
-  "published_at": "2023-10-21T12:01:53Z"
- },
- {
-  "id": 1641778,
-  "title": "What Is LangChain? Unlocking the Potential of LLMs",
-  "description": "LangChain is an open-source framework crafted to ease the development of applications that leverage...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xLvMU_sa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/07b9pwng5s1aogn64z7u.png",
-  "slug": "what-is-langchain-unlocking-the-potential-of-llms-olg",
-  "url": "https://dev.to/dariubs/what-is-langchain-unlocking-the-potential-of-llms-olg",
-  "publish_date": "2023-10-21",
-  "published_at": "2023-10-21T08:35:10Z"
  }
 ]
