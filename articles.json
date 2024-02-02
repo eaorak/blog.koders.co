@@ -1,5 +1,55 @@
 [
  {
+  "id": 1748695,
+  "title": "How to build an eCommerce website and integrating Email notification only using open source tools",
+  "description": "TL;DR   In this tutorial, you’ll learn how to build an eCommerce store that you can fully...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8v97v27bulaa121up9m1.png",
+  "slug": "how-to-build-an-ecommerce-website-and-integrating-email-notification-only-using-open-source-tools-18hi",
+  "url": "https://dev.to/osadavc/how-to-build-an-ecommerce-website-and-integrating-email-notification-only-using-open-source-tools-18hi",
+  "publish_date": "2024-02-01",
+  "published_at": "2024-02-01T15:58:06Z"
+ },
+ {
+  "id": 1747320,
+  "title": "10 Organizations to Support for Black History Month",
+  "description": "Hey y'all!  In February, DEV observes Black History Month, celebrating the contributions of the Black...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu7chu01kz10ylwub0we2.png",
+  "slug": "10-organizations-to-support-for-black-history-month-2op0",
+  "url": "https://dev.to/devteam/10-organizations-to-support-for-black-history-month-2op0",
+  "publish_date": "2024-02-01",
+  "published_at": "2024-02-01T15:15:11Z"
+ },
+ {
+  "id": 1732699,
+  "title": "Crafting Custom Platforms in a Cloudy World ☁️",
+  "description": "Crafting Custom Platforms in a Cloudy World",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvejoimndyuoljcwjjep.gif",
+  "slug": "crafting-custom-platforms-in-a-cloudy-world-3ib1",
+  "url": "https://dev.to/winglang/crafting-custom-platforms-in-a-cloudy-world-3ib1",
+  "publish_date": "2024-02-01",
+  "published_at": "2024-02-01T14:31:57Z"
+ },
+ {
+  "id": 1747798,
+  "title": "Discovery needs context",
+  "description": "When Christopher Columbus and his crew sailed to cross the Atlantic Ocean, they were not looking for...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fywj84zot9t7zus52tcdg.png",
+  "slug": "discovery-needs-context-45l",
+  "url": "https://dev.to/qdrant/discovery-needs-context-45l",
+  "publish_date": "2024-02-01",
+  "published_at": "2024-02-01T13:55:36Z"
+ },
+ {
+  "id": 1743183,
+  "title": "A complete guide to open source - 100x simpler",
+  "description": "It has been more than 500 days for me in Open Source.   I've answered 35+ discussions on GitHub...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl5wzete4rsiczmjnl46l.png",
+  "slug": "a-complete-guide-to-open-source-100x-simpler-2d6c",
+  "url": "https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c",
+  "publish_date": "2024-02-01",
+  "published_at": "2024-02-01T08:13:12Z"
+ },
+ {
   "id": 1747338,
   "title": "pgvector 0.6.0: 30x faster with parallel index builds",
   "description": "pgvector 0.6.0 was released today, with a significant improvement: parallel builds for HNSW indexes....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/refine/complete-tutorial-react-admin-panel-with-refine-and-daisyui-4h0n",
   "publish_date": "2023-10-24",
   "published_at": "2023-10-24T09:10:40Z"
- },
- {
-  "id": 1643809,
-  "title": "pgvector vs Pinecone: cost and performance",
-  "description": "At Supabase, we believe that a combination of Postgres and pgvector serves as a better alternative to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--K-Y2apXJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/osil5n801dgolxmgooxh.jpeg",
-  "slug": "pgvector-vs-pinecone-cost-and-performance-22g5",
-  "url": "https://dev.to/supabase/pgvector-vs-pinecone-cost-and-performance-22g5",
-  "publish_date": "2023-10-23",
-  "published_at": "2023-10-23T15:49:47Z"
- },
- {
-  "id": 1643741,
-  "title": "Supervisors - Letting things crash",
-  "description": "In the previous articles, we explored various aspects of managing processes in Elixir. From creating...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--o6QDQcpB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hb5z1notq3bf1lcgzsf3.png",
-  "slug": "supervisors-letting-things-crash-1lh2",
-  "url": "https://dev.to/cherryramatis/supervisors-letting-things-crash-1lh2",
-  "publish_date": "2023-10-23",
-  "published_at": "2023-10-23T14:54:26Z"
- },
- {
-  "id": 1643188,
-  "title": "🔥 Top 6 monitoring tools to become a better developer 🤯 🤯",
-  "description": "TL;DR   Monitoring can be complex, especially given the number of available tools and the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2I-0mleJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sno525y3uktri2twazt9.gif",
-  "slug": "top-6-monitoring-tools-to-become-a-better-developer-4j4k",
-  "url": "https://dev.to/odigos/top-6-monitoring-tools-to-become-a-better-developer-4j4k",
-  "publish_date": "2023-10-23",
-  "published_at": "2023-10-23T11:35:41Z"
- },
- {
-  "id": 1643169,
-  "title": "💅 Creating Polished Content with React Markdown",
-  "description": "Author: David Omotayo           Introduction   Prior to John Gruber's invention of Markdown...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3iZ-UHhO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8uu9w8mjwk2hagpr7upk.png",
-  "slug": "creating-polished-content-with-react-markdown-3h65",
-  "url": "https://dev.to/refine/creating-polished-content-with-react-markdown-3h65",
-  "publish_date": "2023-10-23",
-  "published_at": "2023-10-23T06:15:11Z"
- },
- {
-  "id": 1643141,
-  "title": "🤓 The Top 10 JavaScript Tricks for Cleaner Code",
-  "description": "Hello Guys, My name is Md Taqui Imam i am a Full Stack developer And in Today post i will tell you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7cdwMBD5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lro0x5jz7o2jyphqv2zs.png",
-  "slug": "the-top-10-javascript-tricks-for-cleaner-code-422b",
-  "url": "https://dev.to/todayscode14/the-top-10-javascript-tricks-for-cleaner-code-422b",
-  "publish_date": "2023-10-23",
-  "published_at": "2023-10-23T05:28:36Z"
  }
 ]
