@@ -1,5 +1,55 @@
 [
  {
+  "id": 1749837,
+  "title": "SOLID Principles: They're Rock-Solid for Good Reason!",
+  "description": "Just started with object-oriented programming and feeling a bit lost about SOLID? No worries, in this...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftojqcmbddqqg6152ety0.png",
+  "slug": "solid-principles-theyre-rock-solid-for-good-reason-31hn",
+  "url": "https://dev.to/lukeskw/solid-principles-theyre-rock-solid-for-good-reason-31hn",
+  "publish_date": "2024-02-02",
+  "published_at": "2024-02-02T17:22:31Z"
+ },
+ {
+  "id": 1749772,
+  "title": "FastEmbed: Fast and Lightweight Embedding Generation for Text",
+  "description": "Data Science and Machine Learning practitioners often find themselves navigating through a labyrinth...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi59lwwj93rmiy1f3b387.png",
+  "slug": "fastembed-fast-and-lightweight-embedding-generation-for-text-4i6c",
+  "url": "https://dev.to/qdrant/fastembed-fast-and-lightweight-embedding-generation-for-text-4i6c",
+  "publish_date": "2024-02-02",
+  "published_at": "2024-02-02T16:15:28Z"
+ },
+ {
+  "id": 1749554,
+  "title": "60+ Amazing Free HTML Bootstrap Starter Templates to Jumpstart Your Projects",
+  "description": "Hello everyone I'm back with some amazing resources. Check these Free HTML Bootstrap Starter...",
+  "cover_image": "",
+  "slug": "60-amazing-free-html-bootstrap-starter-templates-to-jumpstart-your-projects-35pi",
+  "url": "https://dev.to/purnimashrestha/60-amazing-free-html-bootstrap-starter-templates-to-jumpstart-your-projects-35pi",
+  "publish_date": "2024-02-02",
+  "published_at": "2024-02-02T12:04:17Z"
+ },
+ {
+  "id": 1749464,
+  "title": "Introducing Glasskube🧊 — The Missing Package Manager For Kubernetes 📦",
+  "description": "The aim of this post is to share our technical preview of how a cloud native package manager could...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftr84msof8wkjtthad8u1.png",
+  "slug": "introducing-glasskube-the-missing-package-manager-for-kubernetes-1dfi",
+  "url": "https://dev.to/glasskube/introducing-glasskube-the-missing-package-manager-for-kubernetes-1dfi",
+  "publish_date": "2024-02-02",
+  "published_at": "2024-02-02T10:19:10Z"
+ },
+ {
+  "id": 1749352,
+  "title": "Hooking-up a headless CMS to React apps",
+  "description": "Info This article shows how to hook up the React version of classical TodoMVC app to a Content...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8q6uj2xcmbz99ibxbz6q.png",
+  "slug": "hooking-up-a-headless-cms-to-react-apps-19d6",
+  "url": "https://dev.to/flotiq/hooking-up-a-headless-cms-to-react-apps-19d6",
+  "publish_date": "2024-02-02",
+  "published_at": "2024-02-02T08:31:54Z"
+ },
+ {
   "id": 1748695,
   "title": "How to build an eCommerce website and integrating Email notification only using open source tools",
   "description": "TL;DR   In this tutorial, you’ll learn how to build an eCommerce store that you can fully...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/livecycle/anti-faqs-use-localhost-for-collaboration-seriously-39pm",
   "publish_date": "2023-10-25",
   "published_at": "2023-10-25T09:43:13Z"
- },
- {
-  "id": 1624915,
-  "title": "✨ The quickest way to find Hacktoberfest projects 🚀",
-  "description": "Hey friends, 👋  If you missed my previous articles, we have recently built a simple way to find all...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6pwjOZOp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vfpzvx77dvf3pptnhhg3.png",
-  "slug": "the-quickest-way-to-find-hacktoberfest-projects-1795",
-  "url": "https://dev.to/quine/the-quickest-way-to-find-hacktoberfest-projects-1795",
-  "publish_date": "2023-10-24",
-  "published_at": "2023-10-24T15:33:24Z"
- },
- {
-  "id": 1644553,
-  "title": "🎉 17 Javascript repositories to become the best developer in the world 🌍",
-  "description": "Become a better developer   I've curated a list of 17 GitHub repositories you should know as...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VMpcTmSr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hz5vlarn8uxbgbetnf5m.gif",
-  "slug": "17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3",
-  "url": "https://dev.to/triggerdotdev/17-javascript-repositories-to-become-the-best-developer-in-the-world-15f3",
-  "publish_date": "2023-10-24",
-  "published_at": "2023-10-24T12:23:36Z"
- },
- {
-  "id": 1639207,
-  "title": "Compondo música com Java! É hora do Jmusic",
-  "description": "É isso mesmo que você leu, se você sempre quis compor uma música ou imaginou como fazer isso com...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5AVLkUY9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2f13qay8vlol6o1b35l4.png",
-  "slug": "compondo-musica-com-java-e-hora-do-jmusic-db",
-  "url": "https://dev.to/he4rt/compondo-musica-com-java-e-hora-do-jmusic-db",
-  "publish_date": "2023-10-24",
-  "published_at": "2023-10-24T11:56:13Z"
- },
- {
-  "id": 1644041,
-  "title": "How To Get Type-Safe Frontend Queries Like GraphQL Without GraphQL Using Typescript",
-  "description": "Fading of API   I previously wrote a post about the history of APIs:                        ...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WHsbei_h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hp9gw6flxjsefjb6kke0.png",
-  "slug": "how-to-get-type-safety-frontend-queries-like-graphql-without-graphql-using-typescript-1n70",
-  "url": "https://dev.to/zenstack/how-to-get-type-safety-frontend-queries-like-graphql-without-graphql-using-typescript-1n70",
-  "publish_date": "2023-10-24",
-  "published_at": "2023-10-24T09:58:16Z"
- },
- {
-  "id": 1644422,
-  "title": "⚡ Complete Tutorial: React Admin Panel with refine and daisyUI",
-  "description": "Author: Abdullah Numan           Introduction   In this post, we go through the process of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sZ34B8c6--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hdikcejyr23r903p39dc.jpg",
-  "slug": "complete-tutorial-react-admin-panel-with-refine-and-daisyui-4h0n",
-  "url": "https://dev.to/refine/complete-tutorial-react-admin-panel-with-refine-and-daisyui-4h0n",
-  "publish_date": "2023-10-24",
-  "published_at": "2023-10-24T09:10:40Z"
  }
 ]
