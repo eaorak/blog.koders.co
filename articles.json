@@ -1,5 +1,55 @@
 [
  {
+  "id": 1751485,
+  "title": "Top Soft Skills to Learn in 2024 for Career Development",
+  "description": "Whether updating your resume for job applications, looking for a promotion, or just wanting to be...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9x1zcwea2bh2lo08rmfp.png",
+  "slug": "top-soft-skills-to-learn-in-2024-for-career-development-1mhf",
+  "url": "https://dev.to/scofieldidehen/top-soft-skills-to-learn-in-2024-for-career-development-1mhf",
+  "publish_date": "2024-02-04",
+  "published_at": "2024-02-04T18:11:19Z"
+ },
+ {
+  "id": 1751345,
+  "title": "Make followers count available publicly",
+  "description": "I'm about to achieve 3k followers on the Dev.to platform, and one thing I really want is for Dev.to...",
+  "cover_image": "",
+  "slug": "make-followers-count-available-public-21j8",
+  "url": "https://dev.to/jagroop2001/make-followers-count-available-public-21j8",
+  "publish_date": "2024-02-04",
+  "published_at": "2024-02-04T14:54:19Z"
+ },
+ {
+  "id": 1750907,
+  "title": "Make your web feed easy to find, autodiscoverable even",
+  "description": "If you have a web feed, be it RSS or Atom or JSON Feed, help others discover it!  There are 2 ways to...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WwEtLBnJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://www.roboleary.net/assets/img/blog/2024-01-26-easy-discover-feed/cover.jpg",
+  "slug": "make-your-web-feed-easy-to-find-autodiscoverable-even-21dh",
+  "url": "https://dev.to/robole/make-your-web-feed-easy-to-find-autodiscoverable-even-21dh",
+  "publish_date": "2024-02-04",
+  "published_at": "2024-02-04T12:51:11Z"
+ },
+ {
+  "id": 1751230,
+  "title": "Build and Deploy Buymeacoffee with MongoDB, NodeJS, ExpressJS",
+  "description": "Welcome to our latest tutorial!  In this video, we'll guide you through the process of creating...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7cucwzt25t25ncln372s.png",
+  "slug": "build-and-deploy-buymeacoffee-with-mongodb-nodejs-expressjs-pia",
+  "url": "https://dev.to/codewithsadee/build-and-deploy-buymeacoffee-with-mongodb-nodejs-expressjs-pia",
+  "publish_date": "2024-02-04",
+  "published_at": "2024-02-04T11:23:28Z"
+ },
+ {
+  "id": 1741493,
+  "title": "Development Tools and Platforms: Open Source, SaaS, and BoxyHQ",
+  "description": "SaaS, open source, and a spotlight on BoxyHQ. How do you decide if open source products are for you?",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20n8eaonrg4m93yab2x7.png",
+  "slug": "development-tools-and-platforms-open-source-saas-and-boxyhq-383e",
+  "url": "https://dev.to/opensauced/development-tools-and-platforms-open-source-saas-and-boxyhq-383e",
+  "publish_date": "2024-02-04",
+  "published_at": "2024-02-04T09:09:00Z"
+ },
+ {
   "id": 1750686,
   "title": "Keyboard Shortcut Showdown: Mac vs. Windows",
   "description": "Get More :- https://codexdindia.blogspot.com/2024/02/keyboard-shortcut-showdown-mac-vs.html        ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/refine/using-heroicons-with-tailwindcss-4c96",
   "publish_date": "2023-10-27",
   "published_at": "2023-10-27T09:18:22Z"
- },
- {
-  "id": 1647303,
-  "title": "Is Next.js 13 + RSC a Good Choice? I Built an App Without Client-Side Javascript to Find Out",
-  "description": "Next.js 13 ignited the first wave of attention to React Server Components (RSC) around the end of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RCXxFqgL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mbq46er6cey83694bl20.png",
-  "slug": "is-nextjs-13-rsc-a-good-choice-i-built-an-app-without-client-side-javascript-to-find-out-hik",
-  "url": "https://dev.to/zenstack/is-nextjs-13-rsc-a-good-choice-i-built-an-app-without-client-side-javascript-to-find-out-hik",
-  "publish_date": "2023-10-26",
-  "published_at": "2023-10-26T13:38:09Z"
- },
- {
-  "id": 1646138,
-  "title": "🔥 9 Open-Source Repos That Will Make Your SaaS Gold 🤔",
-  "description": "Building a software-as-a-service (SaaS) from the ground up can be a time-intensive chore.  Don't...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--PC_AYxwV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u1ulum123nk2ms4rqzpk.gif",
-  "slug": "9-open-source-repos-that-will-make-your-saas-gold-54h7",
-  "url": "https://dev.to/nathan_tarbert/9-open-source-repos-that-will-make-your-saas-gold-54h7",
-  "publish_date": "2023-10-26",
-  "published_at": "2023-10-26T12:30:02Z"
- },
- {
-  "id": 1647204,
-  "title": "Bad engineers learn new skills - great engineers improve their mindset",
-  "description": "In my career, I’ve gone through many challenges:   Starting off, I struggled with writing functional...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EWMw1ZA3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cpcplpqfymlxqy6mnwg1.png",
-  "slug": "good-engineers-train-their-skills-great-engineers-train-their-mindset-21h",
-  "url": "https://dev.to/jurajmalenica/good-engineers-train-their-skills-great-engineers-train-their-mindset-21h",
-  "publish_date": "2023-10-26",
-  "published_at": "2023-10-26T12:26:39Z"
- },
- {
-  "id": 1515620,
-  "title": "Learn serverless on AWS step-by-step: Master DynamoDB!",
-  "description": "Learn how to improve your DynamoDB developer experience and become a pro! Featuring strongly typed commands and queries",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--pRAPmIhe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/ddb-toolbox/assets/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-master-dynamodb-3cki",
-  "url": "https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-master-dynamodb-3cki",
-  "publish_date": "2023-10-26",
-  "published_at": "2023-10-26T12:05:27Z"
- },
- {
-  "id": 1647198,
-  "title": "Driving Engagement and Impact: How Targeting Enhances Digital Out-of-Home Campaigns",
-  "description": "Digital out-of-home (DOOH) is a new technology that allows the use of digital signage and screens to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mmSrBLRg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/graxapzunqfaggu73djn.png",
-  "slug": "driving-engagement-and-impact-how-targeting-enhances-digital-out-of-home-campaigns-neg",
-  "url": "https://dev.to/zotkina/driving-engagement-and-impact-how-targeting-enhances-digital-out-of-home-campaigns-neg",
-  "publish_date": "2023-10-26",
-  "published_at": "2023-10-26T11:50:26Z"
  }
 ]
