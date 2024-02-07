@@ -1,5 +1,55 @@
 [
  {
+  "id": 1750586,
+  "title": "O poder do FilamentPHP",
+  "description": "Neste artigo vou apresentar uma ferramenta poderosa, incrivelmente fácil de usar e como ela pode...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd7xglmabtex7ktsvugb.png",
+  "slug": "o-poder-do-filamentphp-557h",
+  "url": "https://dev.to/adryannekelly/o-poder-do-filamentphp-557h",
+  "publish_date": "2024-02-06",
+  "published_at": "2024-02-06T22:21:59Z"
+ },
+ {
+  "id": 1753373,
+  "title": "Flight Slider in HTML + CSS",
+  "description": "I created an input range that looks like a plane flying to its destination in HTML and CSS",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ntl2uk021jiza6xaqe2.png",
+  "slug": "flight-slider-in-html-css-3024",
+  "url": "https://dev.to/alvaromontoro/flight-slider-in-html-css-3024",
+  "publish_date": "2024-02-06",
+  "published_at": "2024-02-06T15:32:46Z"
+ },
+ {
+  "id": 1751285,
+  "title": "Control flow in Rust",
+  "description": "In this lesson, we'll cover the basic control flow in Rust. We'll cover the following topics:   if...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo42urabxydnmq641qned.png",
+  "slug": "control-flow-in-rust-1fkp",
+  "url": "https://dev.to/francescoxx/control-flow-in-rust-1fkp",
+  "publish_date": "2024-02-06",
+  "published_at": "2024-02-06T14:41:00Z"
+ },
+ {
+  "id": 1749362,
+  "title": "Signals: the Do-s and the Don't-s",
+  "description": "Original cover photo by Shyam on Unsplash.  If we ask any Angular developer \"What is the hottest...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjp5q1s69cmes0gqo14hu.jpg",
+  "slug": "signals-the-do-s-and-the-dont-s-40fk",
+  "url": "https://dev.to/this-is-angular/signals-the-do-s-and-the-dont-s-40fk",
+  "publish_date": "2024-02-06",
+  "published_at": "2024-02-06T09:43:10Z"
+ },
+ {
+  "id": 1751742,
+  "title": "Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS",
+  "description": "People definitely have opinions about Tailwind. There are staunch supporters and staunch haters, but...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbkhml1iuah7nt4is2wwr.jpeg",
+  "slug": "challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc",
+  "url": "https://dev.to/opensauced/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc",
+  "publish_date": "2024-02-06",
+  "published_at": "2024-02-06T05:00:00Z"
+ },
+ {
   "id": 1752265,
   "title": "Getting Started in your Contributing Journey",
   "description": "TL;DR   In this article, you will find the key steps to starting your open-source...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
   "publish_date": "2023-10-29",
   "published_at": "2023-10-29T06:52:33Z"
- },
- {
-  "id": 1649320,
-  "title": "Roll your own auth with Rust and Protobuf",
-  "description": "Introduction   1. What is Protobuf? 2. What are you we to accomplish 3. Requirements      Get...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0NVPQEMw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ru0d1bbvhjzv2pixh0eo.png",
-  "slug": "roll-your-own-auth-with-rust-and-protobuf-24ke",
-  "url": "https://dev.to/martinp/roll-your-own-auth-with-rust-and-protobuf-24ke",
-  "publish_date": "2023-10-28",
-  "published_at": "2023-10-28T16:25:50Z"
- },
- {
-  "id": 1648389,
-  "title": "Why is node_modules heavier than the universe? (No seriously, why is it so big?)",
-  "description": "The problem   Have you ever faced the issue of waiting what seems to be eternity while you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xjb3PEXO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z6hhu7exb41qbdzcbzlv.jpeg",
-  "slug": "why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl",
-  "url": "https://dev.to/faizbshah/why-is-nodemodules-heavier-than-the-universe-no-seriously-why-is-it-so-big-12dl",
-  "publish_date": "2023-10-28",
-  "published_at": "2023-10-28T09:11:52Z"
- },
- {
-  "id": 1649010,
-  "title": "Basic Pattern - Javascript Interview",
-  "description": "Example 1: Triangle Pattern - I    1 1 2 1 2 3 1 2 3 4 1 2 3 4 5  let rows = 5; // pattern variable...",
-  "cover_image": "",
-  "slug": "basic-pattern-javascript-interview-46j0",
-  "url": "https://dev.to/zeeshanali0704/basic-pattern-javascript-interview-46j0",
-  "publish_date": "2023-10-28",
-  "published_at": "2023-10-28T07:39:07Z"
- },
- {
-  "id": 1648940,
-  "title": "Perplexity in AI Models: A Simple Explanation",
-  "description": "Today I looked up what perplexity is in AI models, and basically, it means what it sounds like, how...",
-  "cover_image": "",
-  "slug": "perplexity-in-ai-models-a-simple-explanation-3in4",
-  "url": "https://dev.to/alkanet88/perplexity-in-ai-models-a-simple-explanation-3in4",
-  "publish_date": "2023-10-28",
-  "published_at": "2023-10-28T04:23:16Z"
- },
- {
-  "id": 1648870,
-  "title": "How and when to use keys in React",
-  "description": "When you render lists in React, you need to use keys.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_5Sxa3x1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1579728866437-6397f3d89ec3%3Fauto%3Dformat%26fit%3Dcrop%26q%3D80%26w%3D2913%26ixlib%3Drb-4.0.3%26ixid%3DM3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%253D%253D",
-  "slug": "how-and-when-to-use-keys-in-react-4peb",
-  "url": "https://dev.to/cassidoo/how-and-when-to-use-keys-in-react-4peb",
-  "publish_date": "2023-10-28",
-  "published_at": "2023-10-28T00:39:27Z"
  }
 ]
