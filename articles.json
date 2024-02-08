@@ -1,5 +1,55 @@
 [
  {
+  "id": 1754800,
+  "title": "What are Vector Embeddings?",
+  "description": "Embeddings are numerical machine learning representations of the semantic of the input data. They...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn09j88qntgxzl5gxn6ns.png",
+  "slug": "what-are-vector-embeddings-24pd",
+  "url": "https://dev.to/qdrant/what-are-vector-embeddings-24pd",
+  "publish_date": "2024-02-07",
+  "published_at": "2024-02-07T17:56:15Z"
+ },
+ {
+  "id": 1754797,
+  "title": "Internationalization with i18next + react-i18n 🌎",
+  "description": "Hey, this is just a example, on my machine worked!   It's important to know how to deal with...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5275efsjrmygx92tb0hb.jpg",
+  "slug": "internationalization-with-i18next-react-i18n-4m28",
+  "url": "https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28",
+  "publish_date": "2024-02-07",
+  "published_at": "2024-02-07T17:45:53Z"
+ },
+ {
+  "id": 1754495,
+  "title": "🐱Product Hunt has become pay-to-win 💰, but you should still use it to launch your product 🚀",
+  "description": "Many of us have been launching on Product Hunt for a while, and more and more folks have started...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmwpz97kxpoh83wxzoru5.png",
+  "slug": "product-hunt-has-become-pay-to-win-but-you-should-still-use-it-to-launch-your-product-508d",
+  "url": "https://dev.to/wasp/product-hunt-has-become-pay-to-win-but-you-should-still-use-it-to-launch-your-product-508d",
+  "publish_date": "2024-02-07",
+  "published_at": "2024-02-07T15:16:54Z"
+ },
+ {
+  "id": 1746472,
+  "title": "The Developer's Toolkit: Your Essential Open-Source DevTools",
+  "description": "Every developer needs a toolkit to streamline their workflow, increase productivity, and tackle some...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkh0gb9yiltwd16bb3rm.gif",
+  "slug": "developers-toolkit-your-essential-open-source-devtools-hgc",
+  "url": "https://dev.to/winglang/developers-toolkit-your-essential-open-source-devtools-hgc",
+  "publish_date": "2024-02-07",
+  "published_at": "2024-02-07T15:09:18Z"
+ },
+ {
+  "id": 1741220,
+  "title": "Primeiros passos no Docker",
+  "description": "Desenvolvendo de forma simples e direta, é hoje que você vai começar a usar o Docker. Nada de termos...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1sjuwo0cjpfwfj8xzve3.png",
+  "slug": "primeiros-passos-no-docker-m0k",
+  "url": "https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k",
+  "publish_date": "2024-02-07",
+  "published_at": "2024-02-07T12:22:42Z"
+ },
+ {
   "id": 1750586,
   "title": "O poder do FilamentPHP",
   "description": "Neste artigo vou apresentar uma ferramenta poderosa, incrivelmente fácil de usar e como ela pode...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/davydov/why-we-should-pay-greater-attention-to-developer-experience-devx-2efh",
   "publish_date": "2023-10-30",
   "published_at": "2023-10-30T01:11:37Z"
- },
- {
-  "id": 1650149,
-  "title": "Deep Q Learning with PyTorch",
-  "description": "Introduction   This blog is going to be my second one on Reinforcement Learning. You can...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IBpYmUp5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2kjveru95s2auc42to5c.png",
-  "slug": "deep-q-learnig-with-pytorch-5bl1",
-  "url": "https://dev.to/akshayballal/deep-q-learnig-with-pytorch-5bl1",
-  "publish_date": "2023-10-29",
-  "published_at": "2023-10-29T22:00:37Z"
- },
- {
-  "id": 1649709,
-  "title": "Embrace Functional Programming with /Dart 3.1/",
-  "description": "Object-Oriented Programming (OOP) has long dominated the programming world, with languages like Java...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6BjgyOYr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ncelno1d22iedbz75daz.png",
-  "slug": "embrace-functional-programming-with-dart-31-42cn",
-  "url": "https://dev.to/maximsaplin/embrace-functional-programming-with-dart-31-42cn",
-  "publish_date": "2023-10-29",
-  "published_at": "2023-10-29T13:19:20Z"
- },
- {
-  "id": 1649829,
-  "title": "If movies were all about software development.",
-  "description": "It's Sunday, so I thought I would share some silly movie posters I have created (edited).   This is...",
-  "cover_image": "",
-  "slug": "if-movies-were-all-about-software-development-5ej5",
-  "url": "https://dev.to/grahamthedev/if-movies-were-all-about-software-development-5ej5",
-  "publish_date": "2023-10-29",
-  "published_at": "2023-10-29T12:22:14Z"
- },
- {
-  "id": 1649708,
-  "title": "👻 Happy Halloween Page using pure css",
-  "description": "Hey there, You are most welcome to this article. I hope you will enjoy this article. If you like this...",
-  "cover_image": "",
-  "slug": "happy-halloween-page-using-pure-css-5354",
-  "url": "https://dev.to/freecodez/happy-halloween-page-using-pure-css-5354",
-  "publish_date": "2023-10-29",
-  "published_at": "2023-10-29T07:59:57Z"
- },
- {
-  "id": 1649683,
-  "title": "30 Killer JavaScript One-Liners That’ll Make You Look Like a Pro 😎",
-  "description": "TL;DR   JavaScript has some really cool abilities that allow you to do amazing things with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--phDwHOTW--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/74wwnl80am13bejjyndf.png",
-  "slug": "30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
-  "url": "https://dev.to/todayscode14/30-killer-javascript-one-liners-thatll-make-you-look-like-a-pro-58el",
-  "publish_date": "2023-10-29",
-  "published_at": "2023-10-29T06:52:33Z"
  }
 ]
