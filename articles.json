@@ -1,5 +1,55 @@
 [
  {
+  "id": 1756803,
+  "title": "🔟Lesser-Used Yet Valuable HTML Tags👨‍💻",
+  "description": "Introduction ✨   HTML is fundamental to our journey as developers, serving as a cornerstone...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmtspt2wyb1g5f0ao1hw.png",
+  "slug": "lesser-used-yet-valuable-html-tags-3ndh",
+  "url": "https://dev.to/sudhil/lesser-used-yet-valuable-html-tags-3ndh",
+  "publish_date": "2024-02-09",
+  "published_at": "2024-02-09T14:17:33Z"
+ },
+ {
+  "id": 1728588,
+  "title": "What was your win this week?",
+  "description": "Hey y'all 👋  Another week down — hope it's been a good one for ya!  Looking back on this past week,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4a9p16hwa372gwfnn235.jpg",
+  "slug": "what-was-your-win-this-week-1c72",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-1c72",
+  "publish_date": "2024-02-09",
+  "published_at": "2024-02-09T12:14:00Z"
+ },
+ {
+  "id": 1756488,
+  "title": "This Week In React #173: Million, Storybook, visionOS, Expo, Conform, Next.js, Remix, Astro, Apollo, useFormStatus...",
+  "description": "Hi everyone!  This week we have many great React articles and a few interesting releases. It seems...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0gphcqy4he3cl1qhrnr.png",
+  "slug": "this-week-in-react-173-million-storybook-visionos-expo-conform-nextjs-remix-astro-apollo-useformstatus-49fj",
+  "url": "https://dev.to/sebastienlorber/this-week-in-react-173-million-storybook-visionos-expo-conform-nextjs-remix-astro-apollo-useformstatus-49fj",
+  "publish_date": "2024-02-09",
+  "published_at": "2024-02-09T08:54:27Z"
+ },
+ {
+  "id": 1756387,
+  "title": "The Front-End Development we’re used to is dying",
+  "description": "Introduction   Before the advent of SPA, web applications were typically multi-page. This...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5ezpyvlzqwg4mv7fjjno.jpeg",
+  "slug": "the-front-end-development-were-used-to-is-dying-4e19",
+  "url": "https://dev.to/misterion96/the-front-end-development-were-used-to-is-dying-4e19",
+  "publish_date": "2024-02-09",
+  "published_at": "2024-02-09T07:47:44Z"
+ },
+ {
+  "id": 962599,
+  "title": "How to create a good README.md file",
+  "description": "What is a README file?   The readme file is the first thing a user will see when viewing...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frb46gni0wl2759llb6xs.png",
+  "slug": "how-to-create-a-good-readmemd-file-4pa2",
+  "url": "https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2",
+  "publish_date": "2024-02-09",
+  "published_at": "2024-02-09T06:56:58Z"
+ },
+ {
   "id": 1755732,
   "title": "How Promoting Open-Source Can Become Problematic",
   "description": "If you have been in the open-source community lately, you know what I am talking about. The story...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina",
   "publish_date": "2023-11-01",
   "published_at": "2023-11-01T11:55:17Z"
- },
- {
-  "id": 1652389,
-  "title": "A 3-minute tutorial on how to make a Halloween prank on your colleagues 👻",
-  "description": "Want to surprise your friends at work? Make their working process a little bit more exciting with...",
-  "cover_image": "",
-  "slug": "a-3-minute-tutorial-on-how-to-make-a-halloween-prank-on-your-colleagues-1flk",
-  "url": "https://dev.to/juliianikitina/a-3-minute-tutorial-on-how-to-make-a-halloween-prank-on-your-colleagues-1flk",
-  "publish_date": "2023-10-31",
-  "published_at": "2023-10-31T16:23:44Z"
- },
- {
-  "id": 1651998,
-  "title": "🎃🦇 HTMLoween🦇🎃 HTML, CSS and JS that'll make you scream! 😱",
-  "description": "It's spooky time again! A couple of years ago I made you all recoil in horror with my Halloween...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_6ahORGn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/eez5jn3vc3v3qgc8g3w4.jpg",
-  "slug": "htmloween-html-css-and-js-thatll-make-you-scream-2mad",
-  "url": "https://dev.to/grahamthedev/htmloween-html-css-and-js-thatll-make-you-scream-2mad",
-  "publish_date": "2023-10-31",
-  "published_at": "2023-10-31T12:00:12Z"
- },
- {
-  "id": 1651990,
-  "title": "Happy Halloween 🎃",
-  "description": "I carved this pumpkin in honor of the spookiest status code. 😱",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cjDKlWYP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k45342umt1tzusdfyyub.jpeg",
-  "slug": "happy-halloween-4g62",
-  "url": "https://dev.to/ben/happy-halloween-4g62",
-  "publish_date": "2023-10-31",
-  "published_at": "2023-10-31T11:35:36Z"
- },
- {
-  "id": 1624540,
-  "title": "Afraid of getting stuck? Vendor lock-in is in the small details 🔐",
-  "description": "TL;DR   In the world of observability, vendor lock-in slows progress and spikes costs....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fsGscKbs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zao4khgu08jqlit9tjqy.png",
-  "slug": "afraid-of-getting-stuck-vendor-lock-in-is-in-the-small-details-9fg",
-  "url": "https://dev.to/keephq/afraid-of-getting-stuck-vendor-lock-in-is-in-the-small-details-9fg",
-  "publish_date": "2023-10-31",
-  "published_at": "2023-10-31T10:31:11Z"
- },
- {
-  "id": 1651741,
-  "title": "7 Open Source AI projects to code faster in 2023 🧑‍💻🚀",
-  "description": "It's 2023. You should be at least 50% more productive than last year with all the AI tools that came...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MYgKtxyE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/drie8515e8i8xrycg8ai.png",
-  "slug": "7-open-source-ai-projects-to-code-faster-in-2023-2306",
-  "url": "https://dev.to/llmonitor/7-open-source-ai-projects-to-code-faster-in-2023-2306",
-  "publish_date": "2023-10-31",
-  "published_at": "2023-10-31T08:05:38Z"
  }
 ]
