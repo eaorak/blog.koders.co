@@ -1,5 +1,55 @@
 [
  {
+  "id": 1755444,
+  "title": "Advanced End-to-End DevOps Project: Deploying A Microservices APP To AWS EKS using Terraform, Helm, Jenkins And ArgoCD (Part I)",
+  "description": "DevOps is a rapidly evolving space in the IT industry. As a DevOps engineer, it is paramount to keep...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0a62bdg02bnwbxzilfwy.png",
+  "slug": "advanced-end-to-end-devops-project-deploying-a-microservices-app-to-aws-eks-using-terraform-helm-jenkins-and-argocd-part-i-3a53",
+  "url": "https://dev.to/kelvinskell/advanced-end-to-end-devops-project-deploying-a-microservices-app-to-aws-eks-using-terraform-helm-jenkins-and-argocd-part-i-3a53",
+  "publish_date": "2024-02-10",
+  "published_at": "2024-02-10T13:11:00Z"
+ },
+ {
+  "id": 1755734,
+  "title": "ResearchHub: The GitHub of Scientific Research",
+  "description": "Explore how ResearchHub revolutionizes academic research with open access, real-time collaboration, and community engagement. ",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbwk5zggvs1z6rcd15zd.png",
+  "slug": "researchhub-the-github-of-scientific-research-fi1",
+  "url": "https://dev.to/opensauced/researchhub-the-github-of-scientific-research-fi1",
+  "publish_date": "2024-02-10",
+  "published_at": "2024-02-10T11:24:36Z"
+ },
+ {
+  "id": 1757409,
+  "title": "require Vs import: Old Vs New war in Javascript",
+  "description": "Exploring the Key Differences Between require and import   importing a module is a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pfo3ia52nzwen68ccuq.png",
+  "slug": "require-vs-import-old-vs-new-war-in-javascript-29gj",
+  "url": "https://dev.to/codeparrot/require-vs-import-old-vs-new-war-in-javascript-29gj",
+  "publish_date": "2024-02-10",
+  "published_at": "2024-02-10T09:26:19Z"
+ },
+ {
+  "id": 1728582,
+  "title": "What are you learning about this weekend? 🧠",
+  "description": "Hey folks!  What's everybody learning about this weekend?  Whether you're sharpening your JS skills,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhutpiv0ekq0ofmc3xwp5.jpg",
+  "slug": "what-are-you-learning-about-this-weekend-4na",
+  "url": "https://dev.to/devteam/what-are-you-learning-about-this-weekend-4na",
+  "publish_date": "2024-02-10",
+  "published_at": "2024-02-10T05:00:00Z"
+ },
+ {
+  "id": 1757309,
+  "title": "Understanding `this` keyword in javascript",
+  "description": "The this keyword in JavaScript is a reference to the object that is currently executing or invoking...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fulw280uks6uczn2n8uwt.png",
+  "slug": "understanding-this-keyword-in-javascript-27bp",
+  "url": "https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp",
+  "publish_date": "2024-02-10",
+  "published_at": "2024-02-10T04:48:48Z"
+ },
+ {
   "id": 1756803,
   "title": "🔟Lesser-Used Yet Valuable HTML Tags👨‍💻",
   "description": "Introduction ✨   HTML is fundamental to our journey as developers, serving as a cornerstone...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/quine/7-open-source-projects-on-product-hunt-you-cannot-miss-5bje",
   "publish_date": "2023-11-02",
   "published_at": "2023-11-02T11:28:32Z"
- },
- {
-  "id": 1650553,
-  "title": "🚀 How I built AI pictures generator in a GitHub logo style 😻 and got featured in GitHub's Twitter and Instagram 🤯",
-  "description": "Hi there 👋  My name is Igor and I really like building cool apps 🤗  A month ago I saw a very...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UHPv9cB_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5lw0fm9pxoajp05dwbyw.png",
-  "slug": "how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226",
-  "url": "https://dev.to/garrrikkotua/how-i-built-ai-pictures-generator-in-a-github-logo-style-and-got-featured-in-githubs-twitter-and-instagram-5226",
-  "publish_date": "2023-11-01",
-  "published_at": "2023-11-01T16:50:41Z"
- },
- {
-  "id": 1653385,
-  "title": "Are Unit Tests Really Just Garbage? 💩😳",
-  "description": "I always assumed that unit tests are just part of the job. They are just there, and it's a no-brainer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bQ0ZB509--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l861enh1wmv88hcvwr76.gif",
-  "slug": "are-unit-tests-really-just-garbage-3c3",
-  "url": "https://dev.to/nuxt-wimadev/are-unit-tests-really-just-garbage-3c3",
-  "publish_date": "2023-11-01",
-  "published_at": "2023-11-01T16:19:53Z"
- },
- {
-  "id": 1653325,
-  "title": "🏆 The top 3 repos from hacktoberfest you CANNOT ignore🚀",
-  "description": "tl;dr 🥇 Homebrew-core: the missing package manager for macOS (or Linux) 🥈 Homebrew-cask: A CLI...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kZObEeQm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nmjjdnaknu9eesl1l622.gif",
-  "slug": "the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb",
-  "url": "https://dev.to/quine/the-top-3-repos-from-hacktoberfest-you-cannot-ignore-3mpb",
-  "publish_date": "2023-11-01",
-  "published_at": "2023-11-01T16:02:07Z"
- },
- {
-  "id": 1652193,
-  "title": "24 Best Resources 🎨 For Web Developers 💻 [HTML + CSS + JavaScript] 😱",
-  "description": "TL;DR   The world of web development can be overwhelming with so many tools and resources...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CqoYx9P_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9l58nxq7p62rx51nfyue.png",
-  "slug": "24-best-resources-for-web-developers-html-css-javascript--2hog",
-  "url": "https://dev.to/swirl/24-best-resources-for-web-developers-html-css-javascript--2hog",
-  "publish_date": "2023-11-01",
-  "published_at": "2023-11-01T12:18:43Z"
- },
- {
-  "id": 1653552,
-  "title": "Simple Screen Recorder in 20 lines of JavaScript",
-  "description": "Let's say you're fed up of the state of screen recorders' paywalls and limitations and want to go on...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--vLEPzmqo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l4rxd2xbto75emi5p1a7.jpg",
-  "slug": "simple-screen-recorder-in-20-lines-of-javascript-4ina",
-  "url": "https://dev.to/ninofiliu/simple-screen-recorder-in-20-lines-of-javascript-4ina",
-  "publish_date": "2023-11-01",
-  "published_at": "2023-11-01T11:55:17Z"
  }
 ]
