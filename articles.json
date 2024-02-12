@@ -1,5 +1,55 @@
 [
  {
+  "id": 1758353,
+  "title": "20 JavaScript One-Liners That’ll Make You Look Like a Pro",
+  "description": "JavaScript keeps growing and growing, opening doors for new “to be tech geeks” in the market as it’s...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2odre8v75q12f1pjbm3h.jpg",
+  "slug": "20-javascript-one-liners-thatll-make-you-look-like-a-pro-24n3",
+  "url": "https://dev.to/durgesh4993/20-javascript-one-liners-thatll-make-you-look-like-a-pro-24n3",
+  "publish_date": "2024-02-11",
+  "published_at": "2024-02-11T15:38:46Z"
+ },
+ {
+  "id": 1758310,
+  "title": "7 Side Hustle Ideas for Developers",
+  "description": "Are you a software engineer looking to leverage your skills into profitable side hustles?  The...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy9pytzgnq5we2ioanv9i.jpg",
+  "slug": "7-side-hustle-ideas-for-developers-1p5l",
+  "url": "https://dev.to/durgesh4993/7-side-hustle-ideas-for-developers-1p5l",
+  "publish_date": "2024-02-11",
+  "published_at": "2024-02-11T15:14:34Z"
+ },
+ {
+  "id": 1751337,
+  "title": "Extract Data from zip folder using Python",
+  "description": "Problem Statement :   We have a zip folder link which we need to extract, keep in our...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq24hzganjncyk2amzubg.png",
+  "slug": "extract-data-from-zip-folder-using-python-4hdd",
+  "url": "https://dev.to/jagroop2001/extract-data-from-zip-folder-using-python-4hdd",
+  "publish_date": "2024-02-11",
+  "published_at": "2024-02-11T14:22:24Z"
+ },
+ {
+  "id": 1758087,
+  "title": "Skills to become a backend developer in 6 months (roadmap)",
+  "description": "Let me give you a simple🚦roadmap to know where you are and where you should go next.             ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5d0ef7e84kdhupjb3e9h.jpg",
+  "slug": "skills-to-become-a-backend-developer-in-6-months-roadmap-4li3",
+  "url": "https://dev.to/codewithshahan/skills-to-become-a-backend-developer-in-6-months-roadmap-4li3",
+  "publish_date": "2024-02-11",
+  "published_at": "2024-02-11T07:40:20Z"
+ },
+ {
+  "id": 1758020,
+  "title": "Dev.to Top Supported Embedding Liquid Syntax",
+  "description": "Dev.to supports embedding various types of content directly into your articles to enrich the reading...",
+  "cover_image": "",
+  "slug": "devto-top-liquid-syntax-2n07",
+  "url": "https://dev.to/sh20raj/devto-top-liquid-syntax-2n07",
+  "publish_date": "2024-02-11",
+  "published_at": "2024-02-11T04:25:55Z"
+ },
+ {
   "id": 1755444,
   "title": "Advanced End-to-End DevOps Project: Deploying A Microservices APP To AWS EKS using Terraform, Helm, Jenkins And ArgoCD (Part I)",
   "description": "DevOps is a rapidly evolving space in the IT industry. As a DevOps engineer, it is paramount to keep...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/xuho/10-tips-and-tricks-with-javascript-objects-3al0",
   "publish_date": "2023-11-03",
   "published_at": "2023-11-03T05:10:29Z"
- },
- {
-  "id": 1651797,
-  "title": "Implementing Feature Flags with Next.js and App Router",
-  "description": "Combining the power of Vercel and Flagsmith to build and deploy a config controlled application",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TXPXH7m_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2n1sqlqav591xvohw3ql.png",
-  "slug": "implementing-feature-flags-with-nextjs-and-app-router-1gl8",
-  "url": "https://dev.to/kylessg/implementing-feature-flags-with-nextjs-and-app-router-1gl8",
-  "publish_date": "2023-11-02",
-  "published_at": "2023-11-02T16:33:00Z"
- },
- {
-  "id": 1654913,
-  "title": "Why we replaced Pinecone with PGVector 😇",
-  "description": "Pinecone, the leading closed-source vector database provider, is known for being fast, scalable, and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--8aSfBhdT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yaot7rttdcpp0w5znyrx.png",
-  "slug": "why-we-replaced-pinecone-with-pgvector-2ofj",
-  "url": "https://dev.to/confidentai/why-we-replaced-pinecone-with-pgvector-2ofj",
-  "publish_date": "2023-11-02",
-  "published_at": "2023-11-02T14:46:11Z"
- },
- {
-  "id": 1653811,
-  "title": "😎 React App Leveled Up with SSO Auth Wizardry 🪄",
-  "description": "TL;DR   I'm Nathan and one thing I love is React development.   By the end of this tutorial,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HcFzJO8M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vxj6cuycdtibn998z9va.gif",
-  "slug": "react-app-leveled-up-with-sso-auth-wizardry-3h2",
-  "url": "https://dev.to/nathan_tarbert/react-app-leveled-up-with-sso-auth-wizardry-3h2",
-  "publish_date": "2023-11-02",
-  "published_at": "2023-11-02T13:56:16Z"
- },
- {
-  "id": 1647086,
-  "title": "How to Win Any Hackathon 🚀🤑",
-  "description": "Hackathons are a great way to learn random stuff, meet new people, and build cool projects. I met...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--FKgKReHM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uzixvifbfw2cw0mmwm10.png",
-  "slug": "how-to-win-any-hackathon-3i99",
-  "url": "https://dev.to/code42cate/how-to-win-any-hackathon-3i99",
-  "publish_date": "2023-11-02",
-  "published_at": "2023-11-02T13:46:00Z"
- },
- {
-  "id": 1596994,
-  "title": "🚀 7 Open Source Projects on Product Hunt you CANNOT miss 👀💨",
-  "description": "tl;dr    Lago: build and iterate on complex pricing  Appwrite: a backend platform  Anytype: a private...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ON5pFtOb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qvds9dmpyc36qnk6rtz0.gif",
-  "slug": "7-open-source-projects-on-product-hunt-you-cannot-miss-5bje",
-  "url": "https://dev.to/quine/7-open-source-projects-on-product-hunt-you-cannot-miss-5bje",
-  "publish_date": "2023-11-02",
-  "published_at": "2023-11-02T11:28:32Z"
  }
 ]
