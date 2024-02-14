@@ -1,5 +1,55 @@
 [
  {
+  "id": 1759379,
+  "title": "5 Ways to Skin a Lambda Function: A DevTools Comparison Guide",
+  "description": "TL;DR   As the saying goes, there are several ways to skin a cat...in the tech world, there...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7u8900rng0pb3lue4itu.gif",
+  "slug": "5-ways-to-write-a-simple-function-in-your-cloud-app-1jgl",
+  "url": "https://dev.to/winglang/5-ways-to-write-a-simple-function-in-your-cloud-app-1jgl",
+  "publish_date": "2024-02-13",
+  "published_at": "2024-02-13T19:13:13Z"
+ },
+ {
+  "id": 1760214,
+  "title": "Best Practices for Massive-Scale Deployments: Multitenancy and Custom Sharding",
+  "description": "We are seeing the topics of multitenancy and distributed deployment pop-up daily on our Discord...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F88mdctqq7cyjkusrq6px.png",
+  "slug": "best-practices-for-massive-scale-deployments-multitenancy-and-custom-sharding-1mjb",
+  "url": "https://dev.to/qdrant/best-practices-for-massive-scale-deployments-multitenancy-and-custom-sharding-1mjb",
+  "publish_date": "2024-02-13",
+  "published_at": "2024-02-13T14:53:58Z"
+ },
+ {
+  "id": 1760165,
+  "title": "How to create Supabase admin dashboard?",
+  "description": "In this article, the database meets ui!    You will find how to build an Admin Dashboard on top of...",
+  "cover_image": "",
+  "slug": "how-to-create-supabase-admin-dashboard-4glj",
+  "url": "https://dev.to/nikpoltoratsky/how-to-create-supabase-admin-dashboard-4glj",
+  "publish_date": "2024-02-13",
+  "published_at": "2024-02-13T14:36:07Z"
+ },
+ {
+  "id": 1759964,
+  "title": "Web frameworks we are most excited for in 2024",
+  "description": "Introduction   2024 is upon us, and we try to plan for the new year and think of the things...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7u94ep4stv6iz86d0kxk.png",
+  "slug": "web-frameworks-we-are-most-excited-for-in-2024-4d15",
+  "url": "https://dev.to/wasp/web-frameworks-we-are-most-excited-for-in-2024-4d15",
+  "publish_date": "2024-02-13",
+  "published_at": "2024-02-13T13:00:34Z"
+ },
+ {
+  "id": 1759892,
+  "title": "Python libraries for your DataScience CV in 2024",
+  "description": "TL;DR   In 2024, Python is still the primary language for data science thanks to its...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feunyeqd05n6bkri828l2.gif",
+  "slug": "python-libraries-for-your-datascience-cv-in-2024-5cl7",
+  "url": "https://dev.to/taipy/python-libraries-for-your-datascience-cv-in-2024-5cl7",
+  "publish_date": "2024-02-13",
+  "published_at": "2024-02-13T12:07:03Z"
+ },
+ {
   "id": 1759175,
   "title": "Introducing the Writing Debut Badge: Celebrating Your First Post on DEV!",
   "description": "Hey, all! We're so excited to unveil a brand new badge here on DEV: the Writing Debut Badge!     This...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ankur0904/beginner-friendly-transform-your-web-app-with-formbricks-surveys-a-must-know-guide-3a4i",
   "publish_date": "2023-11-05",
   "published_at": "2023-11-05T06:45:03Z"
- },
- {
-  "id": 1656949,
-  "title": "Hate on Tailwind... I have seen that before!",
-  "description": "In 2013, a company called Facebook introduced a framework called \"React,\" which allowed developers to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Hddg9436--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iwhf2iup9atske5bzbqk.png",
-  "slug": "hate-on-tailwind-i-have-seen-that-before-549i",
-  "url": "https://dev.to/nickgabe/hate-on-tailwind-i-have-seen-that-before-549i",
-  "publish_date": "2023-11-04",
-  "published_at": "2023-11-04T17:50:20Z"
- },
- {
-  "id": 1656835,
-  "title": "Day 81: Web Workers",
-  "description": "What are Web Workers? 🛠️   Web Workers are a browser feature that allows you to run...",
-  "cover_image": "",
-  "slug": "day-81-web-workers-4ec0",
-  "url": "https://dev.to/dhrn/day-81-web-workers-4ec0",
-  "publish_date": "2023-11-04",
-  "published_at": "2023-11-04T14:00:00Z"
- },
- {
-  "id": 1656625,
-  "title": "🧹🧹 Sanitizing user input with OpenAI under $1",
-  "description": "The objective of this task is to extract a person's name correctly as it appears on LinkedIn. For...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r133xWsz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nhpf3aprahhl6lmqec6w.jpg",
-  "slug": "sanitizing-any-user-input-with-openai-under-1-3ief",
-  "url": "https://dev.to/bolshchikov/sanitizing-any-user-input-with-openai-under-1-3ief",
-  "publish_date": "2023-11-04",
-  "published_at": "2023-11-04T08:03:38Z"
- },
- {
-  "id": 1656592,
-  "title": "Top 10 JavaScript Frameworks to Master – Which One Leads in 2023?",
-  "description": "JavaScript frameworks are like the Marvel Universe; there’s a hero for every scenario, and...",
-  "cover_image": "",
-  "slug": "top-10-javascript-frameworks-to-master-which-one-leads-in-2023-5h40",
-  "url": "https://dev.to/delia_code/top-10-javascript-frameworks-to-master-which-one-leads-in-2023-5h40",
-  "publish_date": "2023-11-04",
-  "published_at": "2023-11-04T07:05:39Z"
- },
- {
-  "id": 1656510,
-  "title": "My first npm package",
-  "description": "Recently, I was looking for an API that provided country and city data, but I couldn't find anything...",
-  "cover_image": "",
-  "slug": "my-first-npm-package-aae",
-  "url": "https://dev.to/rafaelmagalhaes/my-first-npm-package-aae",
-  "publish_date": "2023-11-04",
-  "published_at": "2023-11-04T03:43:10Z"
  }
 ]
