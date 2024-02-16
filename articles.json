@@ -1,5 +1,55 @@
 [
  {
+  "id": 1762622,
+  "title": "How to Use Google Gemini with Node.js",
+  "description": "Introduction   Generative AI has been a hot topic in tech over the past year. Everyone is...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwmvzhmifje726g8ohoa.png",
+  "slug": "how-to-use-google-gemini-with-nodejs-2d39",
+  "url": "https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39",
+  "publish_date": "2024-02-15",
+  "published_at": "2024-02-15T21:33:41Z"
+ },
+ {
+  "id": 1762456,
+  "title": "Streamlining Infrastructure as Code: A Guide to Terraform Automation, Collaboration, and Governance in Large Organizations",
+  "description": "Terraform/OpenTofu is the most widely adopted infrastructure as code tool that allows teams to define...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr30wjzjd144h6lzhgkwa.png",
+  "slug": "streamlining-infrastructure-as-code-a-guide-to-terraform-automation-collaboration-and-governance-in-large-organizations-lb1",
+  "url": "https://dev.to/digger/streamlining-infrastructure-as-code-a-guide-to-terraform-automation-collaboration-and-governance-in-large-organizations-lb1",
+  "publish_date": "2024-02-15",
+  "published_at": "2024-02-15T17:51:03Z"
+ },
+ {
+  "id": 1759413,
+  "title": "Understanding Statement Coverage in Software Testing",
+  "description": "Introduction   The software testing world widely utilizes statement coverage. It's a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5n4j6mibsnurkheae1kf.png",
+  "slug": "understanding-statement-coverage-in-software-testing-4enn",
+  "url": "https://dev.to/arindam_1729/understanding-statement-coverage-in-software-testing-4enn",
+  "publish_date": "2024-02-15",
+  "published_at": "2024-02-15T05:30:00Z"
+ },
+ {
+  "id": 1755967,
+  "title": "I've been using VIM for a Week - These Are My Impressions",
+  "description": "Since we are programmers, there are a lot of different things to learn. Some of these things are...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6uzct5mkc2235xpmq4pv.jpg",
+  "slug": "ive-been-using-vim-for-a-week-these-are-my-impressions-3n2d",
+  "url": "https://dev.to/lucaschitolina/ive-been-using-vim-for-a-week-these-are-my-impressions-3n2d",
+  "publish_date": "2024-02-15",
+  "published_at": "2024-02-15T00:56:50Z"
+ },
+ {
+  "id": 1761722,
+  "title": "What We Learned When We Built a Vector Database-and Our Customers Started Using It (part 1)",
+  "description": "Everyone is talking about vectors these days. Cosines, ANN searches, normalizations, sentence...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs5vnvtj8xnfbt2ab2f0p.png",
+  "slug": "what-we-learned-when-we-built-a-vector-database-and-our-customers-started-using-it-part-1-1c6h",
+  "url": "https://dev.to/datastax/what-we-learned-when-we-built-a-vector-database-and-our-customers-started-using-it-part-1-1c6h",
+  "publish_date": "2024-02-15",
+  "published_at": "2024-02-15T00:55:30Z"
+ },
+ {
   "id": 1761405,
   "title": "Transitioning From PyTorch to Burn",
   "description": "Deep learning development requires very high-level abstractions as well as extremely fast execution...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mdbootstrap/mdb-react-v7-is-out-3g09",
   "publish_date": "2023-11-07",
   "published_at": "2023-11-07T08:09:01Z"
- },
- {
-  "id": 1654768,
-  "title": "[Alien Hunter Series Pt. 1] Mastering the COBOL Programming Language",
-  "description": "The Story   The year is 2077. The soft hum of futuristic machinery is drowned out by the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BdAAad_---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/f3y1jii8ysgxd1755f3y.gif",
-  "slug": "alien-hunter-series-pt-1-mastering-the-cobol-programming-language-3kmh",
-  "url": "https://dev.to/github20k/alien-hunter-series-pt-1-mastering-the-cobol-programming-language-3kmh",
-  "publish_date": "2023-11-06",
-  "published_at": "2023-11-06T16:36:25Z"
- },
- {
-  "id": 1658510,
-  "title": "5 Open-Source Repositories for Faster Development in Monolithic Architecture",
-  "description": "Many companies choose to level up their feature flags and come to Flagsmith because they’re moving...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--coCUczZL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5u87op71hqa6tb7kkkhc.png",
-  "slug": "5-open-source-repositories-for-faster-development-in-monolithic-architecture-52c0",
-  "url": "https://dev.to/flagsmith/5-open-source-repositories-for-faster-development-in-monolithic-architecture-52c0",
-  "publish_date": "2023-11-06",
-  "published_at": "2023-11-06T15:29:01Z"
- },
- {
-  "id": 1657649,
-  "title": "🕵️ 6 Top-Secret Open-Source Projects You Didn't Know About 🤔",
-  "description": "As a developer who went through a bootcamp a few years ago, I can tell you the number one subject...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--IeZn0bYX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6kr15op43l79qg3yp59a.gif",
-  "slug": "6-top-secret-open-source-projects-you-didnt-know-about-291j",
-  "url": "https://dev.to/nathan_tarbert/6-top-secret-open-source-projects-you-didnt-know-about-291j",
-  "publish_date": "2023-11-06",
-  "published_at": "2023-11-06T14:11:34Z"
- },
- {
-  "id": 1654639,
-  "title": "💨 How to know what's going on in your cloud 🌥️⚡️",
-  "description": "TL;DR   Today, you will learn about the world of open-source observability. In this guide,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TitqS-MU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/24ckrp1lyzcxch6n412e.gif",
-  "slug": "how-to-know-whats-going-on-in-your-cloud-dn6",
-  "url": "https://dev.to/odigos/how-to-know-whats-going-on-in-your-cloud-dn6",
-  "publish_date": "2023-11-06",
-  "published_at": "2023-11-06T11:51:04Z"
- },
- {
-  "id": 1657979,
-  "title": "⭐ 9 Open Source tools to take your AI app to the next level 🚀🤖",
-  "description": "The AI ecosystem is booming.   If you've started building AI-powered apps, you might have missed some...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d1RlE05D--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4q6idghlu7wznrxreyfj.png",
-  "slug": "10-open-source-tools-to-take-your-ai-app-to-the-next-level-59b7",
-  "url": "https://dev.to/llmonitor/10-open-source-tools-to-take-your-ai-app-to-the-next-level-59b7",
-  "publish_date": "2023-11-06",
-  "published_at": "2023-11-06T06:43:03Z"
  }
 ]
