@@ -1,5 +1,55 @@
 [
  {
+  "id": 1762871,
+  "title": "Be a better developer with these Git good practices",
+  "description": "If you're a developer, you probably use the versioning system called Git on a daily basis. The use of...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc1l1cy5zy22maeslord.png",
+  "slug": "be-a-better-developer-with-these-git-good-practices-2dim",
+  "url": "https://dev.to/anthonyvii/be-a-better-developer-with-these-git-good-practices-2dim",
+  "publish_date": "2024-02-16",
+  "published_at": "2024-02-16T20:44:23Z"
+ },
+ {
+  "id": 1763309,
+  "title": "Staircase detail",
+  "description": "Prepare your favorite cup of coffee because we are about to enter the fantastic world of...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaykgdiyr12l5bt6skfb.png",
+  "slug": "staircase-detail-112g",
+  "url": "https://dev.to/kecbm/staircase-detail-112g",
+  "publish_date": "2024-02-16",
+  "published_at": "2024-02-16T16:08:41Z"
+ },
+ {
+  "id": 1762006,
+  "title": "Alternatives to Auth0 we are most excited about in 2024",
+  "description": "Hey friends 👋  Auth0 and its parent company, Okta, are what developers think of when managing user...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fycd0qre9tv95lb2mdsih.gif",
+  "slug": "alternatives-to-auth0-we-are-most-excited-about-in-2024-2b07",
+  "url": "https://dev.to/quine/alternatives-to-auth0-we-are-most-excited-about-in-2024-2b07",
+  "publish_date": "2024-02-16",
+  "published_at": "2024-02-16T12:52:17Z"
+ },
+ {
+  "id": 1762985,
+  "title": "Using Pub/Sub for event-driven Go backends",
+  "description": "Pub/Sub is a powerful building block in a backend application. It's often used for building...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F92yflcuzw199v80me8ng.png",
+  "slug": "using-pubsub-for-event-driven-go-backends-55h3",
+  "url": "https://dev.to/encore/using-pubsub-for-event-driven-go-backends-55h3",
+  "publish_date": "2024-02-16",
+  "published_at": "2024-02-16T08:30:00Z"
+ },
+ {
+  "id": 1762857,
+  "title": "Sorting Git branches",
+  "description": "If you're tired of your git branches being alphabetically sorted, you can change that!",
+  "cover_image": "",
+  "slug": "sorting-git-branches-lbp",
+  "url": "https://dev.to/cassidoo/sorting-git-branches-lbp",
+  "publish_date": "2024-02-16",
+  "published_at": "2024-02-16T05:59:16Z"
+ },
+ {
   "id": 1762622,
   "title": "How to Use Google Gemini with Node.js",
   "description": "Introduction   Generative AI has been a hot topic in tech over the past year. Everyone is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/encore/building-a-react-web-app-with-a-go-backend-2bdn",
   "publish_date": "2023-11-08",
   "published_at": "2023-11-08T10:19:19Z"
- },
- {
-  "id": 1659698,
-  "title": "A Complete Guide to Getting Started in Open Source",
-  "description": "Getting started in Open Source can be hard. Here's a list of resources to help you get started.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nhGHmPzV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s4scg75jzjobu10nytws.png",
-  "slug": "a-complete-guide-to-getting-started-in-open-source-2449",
-  "url": "https://dev.to/opensauced/a-complete-guide-to-getting-started-in-open-source-2449",
-  "publish_date": "2023-11-07",
-  "published_at": "2023-11-07T16:31:59Z"
- },
- {
-  "id": 1658201,
-  "title": "A guide to Auth \u0026 Access Control in web apps 🔐",
-  "description": "At Wasp, we are working on a config language / DSL for building web apps that integrates with React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--H5VOEGdv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u32isresapnjcm31t2eu.png",
-  "slug": "a-guide-to-auth-access-control-in-web-apps-2410",
-  "url": "https://dev.to/wasp/a-guide-to-auth-access-control-in-web-apps-2410",
-  "publish_date": "2023-11-07",
-  "published_at": "2023-11-07T13:00:00Z"
- },
- {
-  "id": 1659293,
-  "title": "Mojo - A New Programming Language for AI",
-  "description": "What is Mojo?             Mojo is a programming language that combines the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OJYx-Ea2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/y6curwghezn55t7dxukl.png",
-  "slug": "mojo-a-new-programming-language-for-ai-16n5",
-  "url": "https://dev.to/refine/mojo-a-new-programming-language-for-ai-16n5",
-  "publish_date": "2023-11-07",
-  "published_at": "2023-11-07T10:53:39Z"
- },
- {
-  "id": 1659278,
-  "title": "17 Essential Tools to Boost Your Productivity 🚀🔥",
-  "description": "In today's fast-paced world, there's a vast array of productivity tools at our disposal, designed to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wP48g-um--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zfzl1bmezdynbmhj5smy.png",
-  "slug": "17-essential-tools-to-boost-your-productivity-4ncl",
-  "url": "https://dev.to/madza/17-essential-tools-to-boost-your-productivity-4ncl",
-  "publish_date": "2023-11-07",
-  "published_at": "2023-11-07T10:43:39Z"
- },
- {
-  "id": 1659156,
-  "title": "MDB React v.7 is out!",
-  "description": "MDB React v.7 is out. Highlights:   Renamed dist output file extension from .js to .cjs Added...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CWCrBLdm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cnc339mim88df204hkbr.png",
-  "slug": "mdb-react-v7-is-out-3g09",
-  "url": "https://dev.to/mdbootstrap/mdb-react-v7-is-out-3g09",
-  "publish_date": "2023-11-07",
-  "published_at": "2023-11-07T08:09:01Z"
  }
 ]
