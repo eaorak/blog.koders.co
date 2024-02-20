@@ -1,5 +1,55 @@
 [
  {
+  "id": 1765707,
+  "title": "Documentação em toda parte",
+  "description": "Nesse texto irei comentar como o ato de documentar interfere na minha vida em vários aspectos e como...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp79qt3is8q61ratbqlrf.png",
+  "slug": "documentacao-em-toda-parte-e1m",
+  "url": "https://dev.to/beatrizoliveira/documentacao-em-toda-parte-e1m",
+  "publish_date": "2024-02-19",
+  "published_at": "2024-02-19T19:00:35Z"
+ },
+ {
+  "id": 1765741,
+  "title": "Sparse Vectors in Qdrant: Pure Vector-based Hybrid Search",
+  "description": "Think of a library with a vast index card system. Each index card only has a few keywords marked out...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmacqgn7hn8jzgztia99f.png",
+  "slug": "sparse-vectors-in-qdrant-pure-vector-based-hybrid-search-3j64",
+  "url": "https://dev.to/qdrant/sparse-vectors-in-qdrant-pure-vector-based-hybrid-search-3j64",
+  "publish_date": "2024-02-19",
+  "published_at": "2024-02-19T17:45:08Z"
+ },
+ {
+  "id": 1765730,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-ln7",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ln7",
+  "publish_date": "2024-02-19",
+  "published_at": "2024-02-19T17:28:55Z"
+ },
+ {
+  "id": 1765010,
+  "title": "What we've achieved with 1 Month of Basement Devs",
+  "description": "Running a community is a tough job, but after a few years of doing it, it becomes an easy task. This...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ebs4ktgfc9sdfzwk2q9.png",
+  "slug": "what-weve-achieved-with-1-month-of-basement-devs-3pec",
+  "url": "https://dev.to/danielhe4rt/what-weve-achieved-with-1-month-of-basement-devs-3pec",
+  "publish_date": "2024-02-19",
+  "published_at": "2024-02-19T15:29:22Z"
+ },
+ {
+  "id": 1765608,
+  "title": "Harnessing the power of GitOps with Rig",
+  "description": "GitOps has among the cloud-native community become a standard or a given for how you should manage...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0oj1wjnqis1xzr149ja.png",
+  "slug": "harnessing-the-power-of-gitops-with-rig-1aig",
+  "url": "https://dev.to/rigdev/harnessing-the-power-of-gitops-with-rig-1aig",
+  "publish_date": "2024-02-19",
+  "published_at": "2024-02-19T14:25:47Z"
+ },
+ {
   "id": 1764191,
   "title": "FAANG - Guia Descomplicado de Entrevistas - parte 2",
   "description": "Como estudar pra entrevista? Quais são as estratégias de estudos? Por onde estudar?",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jarvisscript/i-want-a-new-rubber-duck-31mb",
   "publish_date": "2023-11-11",
   "published_at": "2023-11-11T02:53:09Z"
- },
- {
-  "id": 1662974,
-  "title": "[Python 🐍 Mastery] Overview of Linked List in Python \u0026 Essential Linked List Operations 🛠️",
-  "description": "In the last article, we learned about Object Oriented Programming and had a mountain overview of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--epIuEQb5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hxc6ivfk5qnvrvo5nf5n.gif",
-  "slug": "python-mastery-overview-of-linked-list-in-python-essential-linked-list-operations-hn3",
-  "url": "https://dev.to/swirl/python-mastery-overview-of-linked-list-in-python-essential-linked-list-operations-hn3",
-  "publish_date": "2023-11-10",
-  "published_at": "2023-11-10T17:07:32Z"
- },
- {
-  "id": 1663066,
-  "title": "DEV Community Contributor Spotlight: Christine Belzie",
-  "description": "DEV is a cool community because of the amazing people we have in it. There are so many different...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Lnbe8F00--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x0r2nj1ycm06um2c6vev.png",
-  "slug": "dev-community-contributor-spotlight-christine-belzie-38bg",
-  "url": "https://dev.to/devteam/dev-community-contributor-spotlight-christine-belzie-38bg",
-  "publish_date": "2023-11-10",
-  "published_at": "2023-11-10T16:37:31Z"
- },
- {
-  "id": 1662981,
-  "title": "TW Elements new pricing plans announcement!",
-  "description": "But first things first: As you know, TWE is running on a AGPL license; A open-source license that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6spWoH5U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7vqxkjvcwkfu3qx4bhxx.png",
-  "slug": "tw-elements-new-pricing-plans-announcement-4da3",
-  "url": "https://dev.to/mz2387/tw-elements-new-pricing-plans-announcement-4da3",
-  "publish_date": "2023-11-10",
-  "published_at": "2023-11-10T14:54:53Z"
- },
- {
-  "id": 1662166,
-  "title": "Why is it so important to evaluate Large Language Models (LLMs)? 🤯🔥",
-  "description": "Evaluating LLMs is important, not just for deriving accurate results, but also to ensure the safety...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eKTxfkBp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5hwnarwnag32bcyuo1n.png",
-  "slug": "why-is-it-so-important-to-evaluate-large-language-models-llms-59jl",
-  "url": "https://dev.to/lucamartial/why-is-it-so-important-to-evaluate-large-language-models-llms-59jl",
-  "publish_date": "2023-11-10",
-  "published_at": "2023-11-10T12:56:35Z"
- },
- {
-  "id": 1662733,
-  "title": "Serverless at Scale: Lessons From 200 Million Lambda Invocations",
-  "description": "Serverless computing, with Lambda functions at the heart of it, has irrevocably changed the way we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bo-gAOZH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2iw5zfixw7ma7qzlgydu.gif",
-  "slug": "serverless-at-scale-lessons-from-200-million-lambda-invocations-46h3",
-  "url": "https://dev.to/adadot/serverless-at-scale-lessons-from-200-million-lambda-invocations-46h3",
-  "publish_date": "2023-11-10",
-  "published_at": "2023-11-10T11:15:42Z"
  }
 ]
