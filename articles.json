@@ -1,5 +1,55 @@
 [
  {
+  "id": 1764327,
+  "title": "I built an AI PowerPoint generator - here's how:(Next.js, OpenAI, CopilotKit)",
+  "description": "TL;DR   In this article, you will learn how to build an AI-powered PowerPoint application...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafza05otmtxjmtl5a5k2.gif",
+  "slug": "how-to-build-ai-powered-powerpoint-app-nextjs-openai-copilotkit-ji2",
+  "url": "https://dev.to/copilotkit/how-to-build-ai-powered-powerpoint-app-nextjs-openai-copilotkit-ji2",
+  "publish_date": "2024-02-20",
+  "published_at": "2024-02-20T15:30:56Z"
+ },
+ {
+  "id": 1766522,
+  "title": "12 things you didn't know you could do with Nextjs",
+  "description": "I've made several applications with Next.js and am truly amazed by the amount of things that we can...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzh21q3icna04djlxy3j4.png",
+  "slug": "12-things-you-didnt-know-you-could-do-with-nextjs-386b",
+  "url": "https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-nextjs-386b",
+  "publish_date": "2024-02-20",
+  "published_at": "2024-02-20T14:00:32Z"
+ },
+ {
+  "id": 1766438,
+  "title": "Hey Chads, share your Neovim and Tmux Config",
+  "description": "Hi devs, if you are a Neovim or Tmux user, or use either one of them, feel free to share your configs...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folnf5l4v23v0g9beiii6.png",
+  "slug": "hey-chads-share-your-neovim-and-tmux-config-26ap",
+  "url": "https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap",
+  "publish_date": "2024-02-20",
+  "published_at": "2024-02-20T13:57:35Z"
+ },
+ {
+  "id": 1766481,
+  "title": "10 \"hard truths\" junior developers need to hear 🗯🙉",
+  "description": "Hi, I'm Vince   Hi, I'm Vince, a worldwide educator turned web developer.     That's me in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3w0pa8uezpk3aew71a9j.png",
+  "slug": "10-hard-truths-junior-developers-need-to-hear-3j0e",
+  "url": "https://dev.to/wasp/10-hard-truths-junior-developers-need-to-hear-3j0e",
+  "publish_date": "2024-02-20",
+  "published_at": "2024-02-20T13:22:25Z"
+ },
+ {
+  "id": 1764507,
+  "title": "Building an Image Recognition Website with SvelteKit and TensorFlow.js",
+  "description": "Introduction   In this article, I'll show you how to build a simple website that allows...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkfdfwysbnn4gnnopd1qr.jpg",
+  "slug": "building-an-image-recognition-website-with-sveltekit-and-tensorflowjs-474a",
+  "url": "https://dev.to/estelle-k/building-an-image-recognition-website-with-sveltekit-and-tensorflowjs-474a",
+  "publish_date": "2024-02-20",
+  "published_at": "2024-02-20T07:39:22Z"
+ },
+ {
   "id": 1765707,
   "title": "Documentação em toda parte",
   "description": "Nesse texto irei comentar como o ato de documentar interfere na minha vida em vários aspectos e como...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/francescovetere/how-i-organize-my-css-declarations-2d52",
   "publish_date": "2023-11-12",
   "published_at": "2023-11-12T02:35:08Z"
- },
- {
-  "id": 1663917,
-  "title": "Secure your Web Applications with Facial Authentication",
-  "description": "For the last three decades, web technology has remained relevant due to its versatile nature and...",
-  "cover_image": "",
-  "slug": "secure-your-web-applications-with-facial-authentication-3gof",
-  "url": "https://dev.to/0ruko002/secure-your-web-applications-with-facial-authentication-3gof",
-  "publish_date": "2023-11-11",
-  "published_at": "2023-11-11T15:40:41Z"
- },
- {
-  "id": 1663911,
-  "title": "Weather WebAPP",
-  "description": "WeatherAPP created for Macedonia by default",
-  "cover_image": "",
-  "slug": "weather-webapp-43no",
-  "url": "https://dev.to/bekirshala/weather-webapp-43no",
-  "publish_date": "2023-11-11",
-  "published_at": "2023-11-11T15:28:22Z"
- },
- {
-  "id": 1663656,
-  "title": "3 new Open AI release, 6 November 6, 2023",
-  "description": "Create your own ChatGPT   OpenAI is rolling out the custom version of ChatGPT to create your...",
-  "cover_image": "",
-  "slug": "3-new-open-ai-release-6-november-6-2023-p0f",
-  "url": "https://dev.to/shreyvijayvargiya/3-new-open-ai-release-6-november-6-2023-p0f",
-  "publish_date": "2023-11-11",
-  "published_at": "2023-11-11T08:20:50Z"
- },
- {
-  "id": 1663522,
-  "title": "I see this MEME and i do that",
-  "description": "I see this MEME and i do that  MEME:...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oMRVFj1H--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9tgiyl60diug4r4n10j2.jpeg",
-  "slug": "i-see-this-meme-and-i-do-that-5e3",
-  "url": "https://dev.to/songtuyen97/i-see-this-meme-and-i-do-that-5e3",
-  "publish_date": "2023-11-11",
-  "published_at": "2023-11-11T04:40:54Z"
- },
- {
-  "id": 1663302,
-  "title": "I Want a New Rubber Duck",
-  "description": "\"I want a new duck. One that won't steal a beer. One that won't stick his bill in my mail. One that...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lM-ETIUs--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b1vsk9pimfm02xm3gjnv.jpg",
-  "slug": "i-want-a-new-rubber-duck-31mb",
-  "url": "https://dev.to/jarvisscript/i-want-a-new-rubber-duck-31mb",
-  "publish_date": "2023-11-11",
-  "published_at": "2023-11-11T02:53:09Z"
  }
 ]
