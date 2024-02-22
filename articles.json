@@ -1,5 +1,55 @@
 [
  {
+  "id": 1767405,
+  "title": "Prodzilla: From Zero to Prod with Rust and Shuttle",
+  "description": "I’ve been working on Prodzilla, a modern synthetic monitoring tool built in Rust. I wanted to share...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfvt3rc8ghjpht30rsn5.png",
+  "slug": "prodzilla-from-zero-to-prod-with-rust-and-shuttle-1bd6",
+  "url": "https://dev.to/codingupastorm/prodzilla-from-zero-to-prod-with-rust-and-shuttle-1bd6",
+  "publish_date": "2024-02-21",
+  "published_at": "2024-02-21T09:27:16Z"
+ },
+ {
+  "id": 1767400,
+  "title": "Understanding RAG: A Deeper Dive into the Fusion of Retrieval and Generation",
+  "description": "Retrieval-Augmented Generation (RAG) models represent a fascinating marriage of two distinct but...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmr8m287ns661ehfjv46.png",
+  "slug": "understanding-rag-a-deeper-dive-into-the-fusion-of-retrieval-and-generation-1l4b",
+  "url": "https://dev.to/portkey/understanding-rag-a-deeper-dive-into-the-fusion-of-retrieval-and-generation-1l4b",
+  "publish_date": "2024-02-21",
+  "published_at": "2024-02-21T09:22:22Z"
+ },
+ {
+  "id": 1762968,
+  "title": "Translate your App's Notification content to different languages using i18n.",
+  "description": "The beauty of the world lies in its diversity. Culture, languages, and generally our way of life...",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0YNmyCeA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://manage.novu.co/wp-content/uploads/2024/02/cover-devto-translation-management.jpg",
+  "slug": "translate-your-apps-notification-content-to-different-languages-using-i18n-41ed",
+  "url": "https://dev.to/novu/translate-your-apps-notification-content-to-different-languages-using-i18n-41ed",
+  "publish_date": "2024-02-21",
+  "published_at": "2024-02-21T09:20:16Z"
+ },
+ {
+  "id": 1745772,
+  "title": "Publish/Subscribe with Sidekiq",
+  "description": "Introduction   Our Rails application is an old monolith that relies heavily on after/before...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j7rl5yhcn64c0pignd4.jpg",
+  "slug": "publishsubscribe-with-sidekiq-3n92",
+  "url": "https://dev.to/productive/publishsubscribe-with-sidekiq-3n92",
+  "publish_date": "2024-02-21",
+  "published_at": "2024-02-21T08:00:00Z"
+ },
+ {
+  "id": 1767182,
+  "title": "Be a Better Developer with These Git Good Practices",
+  "description": "Git has become the cornerstone of modern software development, empowering teams to collaborate...",
+  "cover_image": "",
+  "slug": "be-a-better-developer-with-these-git-good-practices-13j9",
+  "url": "https://dev.to/speaklouder/be-a-better-developer-with-these-git-good-practices-13j9",
+  "publish_date": "2024-02-21",
+  "published_at": "2024-02-21T04:46:54Z"
+ },
+ {
   "id": 1764327,
   "title": "I built an AI PowerPoint generator - here's how:(Next.js, OpenAI, CopilotKit)",
   "description": "TL;DR   In this article, you will learn how to build an AI-powered PowerPoint application...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k",
   "publish_date": "2023-11-13",
   "published_at": "2023-11-13T08:14:22Z"
- },
- {
-  "id": 1663252,
-  "title": "Automating your API tests using Python and Pytest",
-  "description": "Did you ever thought how you can tests your APIs using python? In the article we will learn how we...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TPt-y4nR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mk3ipivpafhhd6p7asr3.png",
-  "slug": "automating-your-api-tests-using-python-and-pytest-23cc",
-  "url": "https://dev.to/m4rri4nne/automating-your-api-tests-using-python-and-pytest-23cc",
-  "publish_date": "2023-11-12",
-  "published_at": "2023-11-12T18:50:49Z"
- },
- {
-  "id": 1664452,
-  "title": "Speed Up Hackathon Collaboration 🏃🤝",
-  "description": "The 2023 Docker AI/ML Hackathon   Docker recently completed their AI/ML Hackathon....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LC5XEsAn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/az6t0hlpt5la8j7pgr71.png",
-  "slug": "speed-up-hackathon-collaboration-2c1e",
-  "url": "https://dev.to/livecycle/speed-up-hackathon-collaboration-2c1e",
-  "publish_date": "2023-11-12",
-  "published_at": "2023-11-12T12:11:21Z"
- },
- {
-  "id": 1664443,
-  "title": "How to Evaluate LLM Applications",
-  "description": "ChatGPT, the leading code generator, has soared in popularity over the past year thanks to the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--AGuAuzNp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5mplo6fhc7w57vx2n67k.png",
-  "slug": "how-to-evaluate-llm-applications-5c92",
-  "url": "https://dev.to/guybuildingai/how-to-evaluate-llm-applications-5c92",
-  "publish_date": "2023-11-12",
-  "published_at": "2023-11-12T11:48:39Z"
- },
- {
-  "id": 1661922,
-  "title": "10 Useful Chrome Extensions for Web Developers",
-  "description": "Introduction   The web developer community strives to create websites that capture the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--7EW8ped_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ycsu7xz0ltfcd0fm3p1.png",
-  "slug": "10-useful-chrome-extensions-for-web-developers-meg",
-  "url": "https://dev.to/this-is-learning/10-useful-chrome-extensions-for-web-developers-meg",
-  "publish_date": "2023-11-12",
-  "published_at": "2023-11-12T05:28:07Z"
- },
- {
-  "id": 1664212,
-  "title": "How I organize my CSS declarations 🗂️",
-  "description": "Hi folks! 👋 A while ago, I started adopting this little style convention in my CSS code, and I wanted...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qsiB41Rb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8x12lv6v117ugcwct8ci.png",
-  "slug": "how-i-organize-my-css-declarations-2d52",
-  "url": "https://dev.to/francescovetere/how-i-organize-my-css-declarations-2d52",
-  "publish_date": "2023-11-12",
-  "published_at": "2023-11-12T02:35:08Z"
  }
 ]
