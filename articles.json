@@ -1,5 +1,55 @@
 [
  {
+  "id": 1769228,
+  "title": "Unlocking the Power of ZAPs and their Role in Transforming Cryptocurrency Transactions",
+  "description": "We've prepared an article about ZAPs - innovative tools designed to simplify DeFi investing by...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8lp4i7243fl9qd4ym6w.jpg",
+  "slug": "unlocking-the-power-of-zaps-and-their-role-in-transforming-cryptocurrency-transactions-4j2l",
+  "url": "https://dev.to/andre_antares/unlocking-the-power-of-zaps-and-their-role-in-transforming-cryptocurrency-transactions-4j2l",
+  "publish_date": "2024-02-22",
+  "published_at": "2024-02-22T13:43:25Z"
+ },
+ {
+  "id": 1769223,
+  "title": "12 Projects to Build to Improve Your Coding Skills 👨‍💻👩‍💻",
+  "description": "This is a partnership article sponsored by BigDevSoon.  In the dynamic world of web development,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3d1ck6k1v9lnp8v53ecd.png",
+  "slug": "12-projects-to-build-to-improve-your-coding-skills-58fa",
+  "url": "https://dev.to/madza/12-projects-to-build-to-improve-your-coding-skills-58fa",
+  "publish_date": "2024-02-22",
+  "published_at": "2024-02-22T13:40:28Z"
+ },
+ {
+  "id": 1769181,
+  "title": "Código Legado: Razões para Respeitar e Valorizar",
+  "description": "Chamamos de código legado aquele que está presente na aplicação há bastante tempo. Por exemplo, o...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd8eio6gwwqzz1g950scq.png",
+  "slug": "codigo-legado-razoes-para-respeitar-e-valorizar-4e9o",
+  "url": "https://dev.to/kecbm/codigo-legado-razoes-para-respeitar-e-valorizar-4e9o",
+  "publish_date": "2024-02-22",
+  "published_at": "2024-02-22T12:33:00Z"
+ },
+ {
+  "id": 1766259,
+  "title": "Next.js 14 Booking App with Live Data Scraping using Scraping Browser",
+  "description": "Table of Contents    Introduction Tech Stack Features Setting Up the Next.js...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fix5d81168i870a9jvwr6.png",
+  "slug": "nextjs-14-booking-app-with-live-data-scraping-using-scraping-browser-610",
+  "url": "https://dev.to/kishansheth/nextjs-14-booking-app-with-live-data-scraping-using-scraping-browser-610",
+  "publish_date": "2024-02-22",
+  "published_at": "2024-02-22T10:36:10Z"
+ },
+ {
+  "id": 1768450,
+  "title": "Dear New Code School Grad",
+  "description": "Photo by RUT MIIT on Unsplash   Over the years, many people have come to me for advice on doing a...",
+  "cover_image": "",
+  "slug": "dear-new-code-school-grad-5c55",
+  "url": "https://dev.to/deeheber/dear-new-code-school-grad-5c55",
+  "publish_date": "2024-02-22",
+  "published_at": "2024-02-22T00:12:03Z"
+ },
+ {
   "id": 1767405,
   "title": "Prodzilla: From Zero to Prod with Rust and Shuttle",
   "description": "I’ve been working on Prodzilla, a modern synthetic monitoring tool built in Rust. I wanted to share...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/qbentil/the-open-source-spl-boosts-mongodb-computing-ability-45dl",
   "publish_date": "2023-11-14",
   "published_at": "2023-11-14T04:36:26Z"
- },
- {
-  "id": 1665685,
-  "title": "Compartilhando seu conhecimento com o mundo! Como escrever artigos",
-  "description": "Compartilhar conhecimento escrito é uma ótima forma de dominar um assunto específico, além de ser uma...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V8Dd6eOc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bd8lngzqqla0q7mh76yy.jpg",
-  "slug": "compartilhando-seu-conhecimento-com-o-mundo-como-escrever-artigos-5ghc",
-  "url": "https://dev.to/he4rt/compartilhando-seu-conhecimento-com-o-mundo-como-escrever-artigos-5ghc",
-  "publish_date": "2023-11-13",
-  "published_at": "2023-11-13T21:31:19Z"
- },
- {
-  "id": 1664805,
-  "title": "Deploy your first Node 20 Lambda function on AWS!",
-  "description": "AWS released an official Node 20 docker image for Lambda. Discover how to use it with ECR to deploy your first Node 20 Lambda function, before the managed runtime is released!",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_4xjJ6BL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/lambda-node-20/assets/cover.png",
-  "slug": "deploy-your-first-node-20-lambda-function-on-aws-2ac1",
-  "url": "https://dev.to/slsbytheodo/deploy-your-first-node-20-lambda-function-on-aws-2ac1",
-  "publish_date": "2023-11-13",
-  "published_at": "2023-11-13T12:54:47Z"
- },
- {
-  "id": 1662771,
-  "title": "🙌Top 10 🐍 Python libraries for any ML projects 🚀",
-  "description": "TL;DR   In this article, I’ll give you the ultimate Python libraries for any Machine...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--crFvvAfl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/45qrqmuezn96ste4aoqk.gif",
-  "slug": "top-10-python-libraries-for-any-ml-projects-3gfp",
-  "url": "https://dev.to/taipy/top-10-python-libraries-for-any-ml-projects-3gfp",
-  "publish_date": "2023-11-13",
-  "published_at": "2023-11-13T11:42:40Z"
- },
- {
-  "id": 1662292,
-  "title": "I have made 100+ CSS-only Ribbon Shapes | The Perfect Collection 🎀",
-  "description": "It's time for another collection! After the loaders, the hover effects, and the background patterns,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XC5FL5HA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xk4gxbqsdsa48ms2kst3.png",
-  "slug": "i-have-made-100-css-only-ribbon-shapes-the-perfect-collection-4374",
-  "url": "https://dev.to/afif/i-have-made-100-css-only-ribbon-shapes-the-perfect-collection-4374",
-  "publish_date": "2023-11-13",
-  "published_at": "2023-11-13T10:37:12Z"
- },
- {
-  "id": 1665040,
-  "title": "How Giskard got their first 1,200 stars!",
-  "description": "I have had the pleasure of talking to Blanca @ Marketing Manager at Giskard: a testing framework for...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hXMwRdXN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s0zpk04xdwtmuiwuk4y6.png",
-  "slug": "how-giskard-got-their-first-1200-stars-b8k",
-  "url": "https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k",
-  "publish_date": "2023-11-13",
-  "published_at": "2023-11-13T08:14:22Z"
  }
 ]
