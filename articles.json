@@ -1,5 +1,55 @@
 [
  {
+  "id": 1772641,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyyfj9xao05logpfs99xi.png",
+  "slug": "meme-monday-1k87",
+  "url": "https://dev.to/ben/meme-monday-1k87",
+  "publish_date": "2024-02-26",
+  "published_at": "2024-02-26T15:47:45Z"
+ },
+ {
+  "id": 1772481,
+  "title": "Laravel inside Rust? I have a reason for that.",
+  "description": "What's up everyone!  I've been study Rust for the last couple of months and always trying to get...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1gnba5tk7zbin8aqefb7.png",
+  "slug": "laravel-inside-rust-i-have-a-reason-for-that-ke3",
+  "url": "https://dev.to/danielhe4rt/laravel-inside-rust-i-have-a-reason-for-that-ke3",
+  "publish_date": "2024-02-26",
+  "published_at": "2024-02-26T14:22:06Z"
+ },
+ {
+  "id": 1772066,
+  "title": "Best Website to View Stock Charts in 2024",
+  "description": "In today's dynamic financial landscape, investors are constantly seeking reliable tools and resources...",
+  "cover_image": "",
+  "slug": "best-website-to-view-stock-charts-in-2024-l9p",
+  "url": "https://dev.to/s15458304scott/best-website-to-view-stock-charts-in-2024-l9p",
+  "publish_date": "2024-02-26",
+  "published_at": "2024-02-26T07:08:27Z"
+ },
+ {
+  "id": 1772065,
+  "title": "100+ FREE Resources Every Web Developer Must Try",
+  "description": "In this post, I’ll share 100+ free web development resources including APIs, hosting platforms, cheat...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxxwltehm7ungwpypu5uu.png",
+  "slug": "100-free-resources-every-web-developer-must-try-484",
+  "url": "https://dev.to/devshefali/100-free-resources-every-web-developer-must-try-484",
+  "publish_date": "2024-02-26",
+  "published_at": "2024-02-26T07:07:45Z"
+ },
+ {
+  "id": 1771932,
+  "title": "Jumblie has a database!",
+  "description": "Using the power of Supabase and Netlify Build Plugins, I was able to make Jumblie a bit cleaner under the hood!",
+  "cover_image": "",
+  "slug": "jumblie-has-a-database-40j1",
+  "url": "https://dev.to/cassidoo/jumblie-has-a-database-40j1",
+  "publish_date": "2024-02-26",
+  "published_at": "2024-02-26T03:52:57Z"
+ },
+ {
   "id": 1771782,
   "title": "From Disconnected Chaos to Unified Systems: The Evolution of Enterprise Integration",
   "description": "Introduction:   Before explaining what an ESB (Enterprise Service Bus) is, we should...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devshefali/13-most-common-javascript-string-methods-you-should-know-about-7d2",
   "publish_date": "2023-11-18",
   "published_at": "2023-11-18T06:30:26Z"
- },
- {
-  "id": 1669990,
-  "title": "DEV Community Contributor Spotlight: @joaogabriel55",
-  "description": "We like to (loudly!) remind everyone here that the DEV Community is powered by Forem, our...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yYc6ZFUb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0po6i9wdcuylkyk5fqth.png",
-  "slug": "dev-community-contributor-spotlight-joaogabriel55-2b57",
-  "url": "https://dev.to/devteam/dev-community-contributor-spotlight-joaogabriel55-2b57",
-  "publish_date": "2023-11-17",
-  "published_at": "2023-11-17T17:26:48Z"
- },
- {
-  "id": 1669501,
-  "title": "Pesky common issues developers have with most dependencies and how MDB fixes them #2",
-  "description": "Short product lifespan  Most dependencies: Are actually usable for couple of months only, and have...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nS8O5XIy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/p25lc59h6qccw6a4z9bo.png",
-  "slug": "pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-2-1g28",
-  "url": "https://dev.to/mdbootstrap/pesky-common-issues-developers-have-with-most-dependencies-and-how-mdb-fixes-them-2-1g28",
-  "publish_date": "2023-11-17",
-  "published_at": "2023-11-17T15:10:56Z"
- },
- {
-  "id": 1667831,
-  "title": "🦓 The Zebras Guide to Showcase Markdown Images in Light \u0026 Dark 🚀",
-  "description": "Warning: Opinions expressed may not be suitable for all audiences! 😂           TL;DR   By the end of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--skidQV8J--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z9wksl38m8l95bgwy8uu.gif",
-  "slug": "the-zebras-guide-to-showcase-your-images-in-light-dark-17f5",
-  "url": "https://dev.to/nathan_tarbert/the-zebras-guide-to-showcase-your-images-in-light-dark-17f5",
-  "publish_date": "2023-11-17",
-  "published_at": "2023-11-17T14:26:55Z"
- },
- {
-  "id": 1669566,
-  "title": "How to Use JavaScript Array Splice",
-  "description": "Introduction   Array.prototype.splice() is a JavaScript Array method that is used to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--V4-cBlr---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c678pvgvvxu7ppfraj24.png",
-  "slug": "how-to-use-javascript-array-splice-1873",
-  "url": "https://dev.to/refine/how-to-use-javascript-array-splice-1873",
-  "publish_date": "2023-11-17",
-  "published_at": "2023-11-17T10:14:04Z"
- },
- {
-  "id": 1665679,
-  "title": "What was your win this week?",
-  "description": "Hey my peeps 👋   Hope that everybody has a wonderful weekend. 😀   Looking back on this past week,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ev_R8Usa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t826xw5bzcia6wkq2iti.jpg",
-  "slug": "what-was-your-win-this-week-2ebf",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-2ebf",
-  "publish_date": "2023-11-17",
-  "published_at": "2023-11-17T10:00:00Z"
  }
 ]
