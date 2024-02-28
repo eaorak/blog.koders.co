@@ -1,5 +1,55 @@
 [
  {
+  "id": 1774116,
+  "title": "Mentor Matching — February 2024 🤝",
+  "description": "This monthly series is dedicated to helping mentors and mentees connect with one another. 🤜💥🤛  The...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffftdkjmm99z06bu2qggi.gif",
+  "slug": "mentor-matching-monthly-4ann",
+  "url": "https://dev.to/devteam/mentor-matching-monthly-4ann",
+  "publish_date": "2024-02-27",
+  "published_at": "2024-02-27T19:56:59Z"
+ },
+ {
+  "id": 1773550,
+  "title": "How To Create an AI Photo App with Python",
+  "description": "Let's learn how to build an image recognition application using Python and Taipy. We'll start by...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1byb3yl3xsn2aomjvz0.gif",
+  "slug": "how-to-create-an-ai-photo-app-with-python-23g8",
+  "url": "https://dev.to/taipy/how-to-create-an-ai-photo-app-with-python-23g8",
+  "publish_date": "2024-02-27",
+  "published_at": "2024-02-27T16:47:06Z"
+ },
+ {
+  "id": 1773822,
+  "title": "Psst... I can build this in a weekend!",
+  "description": "What can you really build in a weekend?  The core functionality with happy path? Probably, yes.  But...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xaeih4pid09zxaxtp1d.jpg",
+  "slug": "psst-i-can-build-this-in-a-weekend-5b45",
+  "url": "https://dev.to/shobhitic/psst-i-can-build-this-in-a-weekend-5b45",
+  "publish_date": "2024-02-27",
+  "published_at": "2024-02-27T16:10:00Z"
+ },
+ {
+  "id": 1773694,
+  "title": "Save your articles and reading list from DEV to GitHub - DevtoGitHub",
+  "description": "Can you save your articles or reading list from DEV?  Most of you would say NO. There was no way, but...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90dxgexjqlyxe6hgrifz.png",
+  "slug": "save-your-articles-and-reading-list-from-dev-to-github-devtogithub-pje",
+  "url": "https://dev.to/anmolbaranwal/save-your-articles-and-reading-list-from-dev-to-github-devtogithub-pje",
+  "publish_date": "2024-02-27",
+  "published_at": "2024-02-27T14:22:50Z"
+ },
+ {
+  "id": 1772915,
+  "title": "English for Brazilians: A Fresh Start",
+  "description": "The Journey Begins: Learning English Anew   Imagine hitting the reset button on your English...",
+  "cover_image": "",
+  "slug": "english-for-brazilians-a-fresh-start-31j8",
+  "url": "https://dev.to/juliomerisio/english-for-brazilians-a-fresh-start-31j8",
+  "publish_date": "2024-02-27",
+  "published_at": "2024-02-27T13:26:54Z"
+ },
+ {
   "id": 1772641,
   "title": "Meme Monday",
   "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/scofieldidehen/sam-altman-corporate-collateral-damage-52oc",
   "publish_date": "2023-11-19",
   "published_at": "2023-11-19T02:01:28Z"
- },
- {
-  "id": 1670940,
-  "title": "A Guide to React Custom Hooks",
-  "description": "Custom Hooks in React are a powerful feature that allows us to extract component logic into reusable...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2qbqHMtl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xjnhpznlxjc9uevfc79b.png",
-  "slug": "a-guide-to-react-custom-hooks-2b4h",
-  "url": "https://dev.to/rasaf_ibrahim/a-guide-to-react-custom-hooks-2b4h",
-  "publish_date": "2023-11-18",
-  "published_at": "2023-11-18T17:57:58Z"
- },
- {
-  "id": 1670584,
-  "title": "26 Frontend Certifications for Web Developers 🔥🔥",
-  "description": "In the dynamic landscape of web development, staying ahead is key to success. Certifications serve as...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--93jCVwzT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9kb8xhjrhk51u6ybzfmu.png",
-  "slug": "26-frontend-certifications-for-web-developers-4md7",
-  "url": "https://dev.to/madza/26-frontend-certifications-for-web-developers-4md7",
-  "publish_date": "2023-11-18",
-  "published_at": "2023-11-18T10:51:06Z"
- },
- {
-  "id": 1670469,
-  "title": "Enhancing UX: Leveraging Nextjs Router Events for Form Manipulation",
-  "description": "Scenario 💻   When manipulating form data with a considerable number of input fields whether...",
-  "cover_image": "",
-  "slug": "enhancing-ux-leveraging-nextjs-router-events-for-form-manipulation-4nfd",
-  "url": "https://dev.to/glopgeek/enhancing-ux-leveraging-nextjs-router-events-for-form-manipulation-4nfd",
-  "publish_date": "2023-11-18",
-  "published_at": "2023-11-18T08:55:33Z"
- },
- {
-  "id": 1669962,
-  "title": "The CSS property you didn't know you needed 👈",
-  "description": "Hi folks! 👋 Today I wanna talk about a CSS feature that, in my opinion, doesn't get too much...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2t56xxc5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/57ywglx2pxyl0qgx8wgn.png",
-  "slug": "the-css-property-you-didnt-know-you-needed-3fk0",
-  "url": "https://dev.to/francescovetere/the-css-property-you-didnt-know-you-needed-3fk0",
-  "publish_date": "2023-11-18",
-  "published_at": "2023-11-18T07:29:04Z"
- },
- {
-  "id": 1670438,
-  "title": "13 Most Common JavaScript String Methods You Should Know About",
-  "description": "In JavaScript, strings are sequences of characters. JavaScript provides a rich set of methods to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zyEppBqF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xfjm2b263qpug6xyjscn.png",
-  "slug": "13-most-common-javascript-string-methods-you-should-know-about-7d2",
-  "url": "https://dev.to/devshefali/13-most-common-javascript-string-methods-you-should-know-about-7d2",
-  "publish_date": "2023-11-18",
-  "published_at": "2023-11-18T06:30:26Z"
  }
 ]
