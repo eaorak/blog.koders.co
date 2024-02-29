@@ -1,5 +1,55 @@
 [
  {
+  "id": 1775179,
+  "title": "Make a RAG-Powered Web Service with Qdrant and Rust",
+  "description": "Hey there! Today, we’re going to talk about creating a web application that utilises Retrieval...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq90du7lcm0pl7d9mvwcl.png",
+  "slug": "make-a-rag-powered-web-service-with-qdrant-and-rust-45cg",
+  "url": "https://dev.to/shuttle_dev/make-a-rag-powered-web-service-with-qdrant-and-rust-45cg",
+  "publish_date": "2024-02-28",
+  "published_at": "2024-02-28T17:20:59Z"
+ },
+ {
+  "id": 1775067,
+  "title": "Refactoring a REST-based Go backend into Event-Driven using Pub/Sub",
+  "description": "In this video André shows you how to refactor a REST-based Go backend application into an...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwzmp13oy7oa34jgpee48.png",
+  "slug": "refactoring-a-rest-based-go-backend-into-event-driven-using-pubsub-433p",
+  "url": "https://dev.to/encore/refactoring-a-rest-based-go-backend-into-event-driven-using-pubsub-433p",
+  "publish_date": "2024-02-28",
+  "published_at": "2024-02-28T14:42:52Z"
+ },
+ {
+  "id": 1775026,
+  "title": "OpenCommit: feature-rich CLI to generate meaningful git commit messages now supports local models via Ollama 🤯🔫",
+  "description": "Hi  OpenCommit is a CLI to generate commit messages, you can try it right now by running npx...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyr0i81qn73jqczu3svh.png",
+  "slug": "opencommit-feature-rich-cli-to-generate-meaningful-git-commit-messages-now-supports-local-models-via-ollama-5435",
+  "url": "https://dev.to/disukharev/opencommit-feature-rich-cli-to-generate-meaningful-git-commit-messages-now-supports-local-models-via-ollama-5435",
+  "publish_date": "2024-02-28",
+  "published_at": "2024-02-28T14:01:39Z"
+ },
+ {
+  "id": 1765123,
+  "title": "Rise of Local LLMs ?",
+  "description": "Discover the exciting world of generative AI technology with our deep dive into Ollama, an open-source platform revolutionizing how we interact with AI models.",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2j4hqb4hckbg2brk35uu.png",
+  "slug": "rise-of-local-llms--21pe",
+  "url": "https://dev.to/sarthology/rise-of-local-llms--21pe",
+  "publish_date": "2024-02-28",
+  "published_at": "2024-02-28T13:30:36Z"
+ },
+ {
+  "id": 1755910,
+  "title": "I'm Building a Full-Stack App: Here Are the Libraries I'm Going to Use...",
+  "description": "There are countless frameworks and libraries that you can use to improve your full-stack...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr9c933347t7shbh8x2ik.gif",
+  "slug": "im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk",
+  "url": "https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk",
+  "publish_date": "2024-02-28",
+  "published_at": "2024-02-28T10:51:48Z"
+ },
+ {
   "id": 1774116,
   "title": "Mentor Matching — February 2024 🤝",
   "description": "This monthly series is dedicated to helping mentors and mentees connect with one another. 🤜💥🤛  The...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ruslan7645679/drones-take-flight-but-turbulence-remains-2hna",
   "publish_date": "2023-11-20",
   "published_at": "2023-11-20T08:37:03Z"
- },
- {
-  "id": 1671643,
-  "title": "Unique HTML Attributes You Should Know About",
-  "description": "HTML (Hypertext Markup Language) has a variety of attributes that can be used to enhance the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sUGzoovV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/peegqv6583kkmw68ynks.jpg",
-  "slug": "unique-html-attributes-you-should-know-about-57e5",
-  "url": "https://dev.to/pinky057/unique-html-attributes-you-should-know-about-57e5",
-  "publish_date": "2023-11-19",
-  "published_at": "2023-11-19T19:19:32Z"
- },
- {
-  "id": 1671516,
-  "title": "Junior to Senior Developer Guide: Navigating the Evolution of Your Coding Journey",
-  "description": "Embarking on the path of a junior developer is akin to stepping onto a vast and thrilling landscape...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w8avhMX0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/n1vj6cd93f5mi21duzij.png",
-  "slug": "junior-to-senior-developer-guide-navigating-the-evolution-of-your-coding-journey-2fap",
-  "url": "https://dev.to/baransel/junior-to-senior-developer-guide-navigating-the-evolution-of-your-coding-journey-2fap",
-  "publish_date": "2023-11-19",
-  "published_at": "2023-11-19T15:34:05Z"
- },
- {
-  "id": 1671155,
-  "title": "Hi! I'm new here..",
-  "description": "I’m Ryan VerWey, a mid-level developer with a burgeoning passion in the fields of web development and...",
-  "cover_image": "",
-  "slug": "hi-im-new-here-2069",
-  "url": "https://dev.to/rverwey/hi-im-new-here-2069",
-  "publish_date": "2023-11-19",
-  "published_at": "2023-11-19T04:12:57Z"
- },
- {
-  "id": 1671128,
-  "title": "Como coletar e dividir pagamentos com a API do Stripe",
-  "description": "Antes de tudo: o que é o Biome?   O Biome é um marketplace de aplicações web criado por...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_kGu-WSM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3buz5j8un5pkh5sil6z5.png",
-  "slug": "como-coletar-e-dividir-pagamentos-com-a-api-do-stripe-3ee2",
-  "url": "https://dev.to/sigcoding/como-coletar-e-dividir-pagamentos-com-a-api-do-stripe-3ee2",
-  "publish_date": "2023-11-19",
-  "published_at": "2023-11-19T02:43:45Z"
- },
- {
-  "id": 1671127,
-  "title": "Sam Altman: Corporate Collateral Damage?",
-  "description": "My Contrarian Perspectives on Why Sam Altman was Dispensable.  See Definition of Terms \u0026amp; Acronyms...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---3tN4ftE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t1p7zwyy8kxbz4o3umga.jpg",
-  "slug": "sam-altman-corporate-collateral-damage-52oc",
-  "url": "https://dev.to/scofieldidehen/sam-altman-corporate-collateral-damage-52oc",
-  "publish_date": "2023-11-19",
-  "published_at": "2023-11-19T02:01:28Z"
  }
 ]
