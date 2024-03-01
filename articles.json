@@ -1,5 +1,55 @@
 [
  {
+  "id": 1776290,
+  "title": "What I learned in 6 months of working on a CodeGen dev tool GPT Pilot",
+  "description": "For the past 6 months, I’ve been working on GPT Pilot (https://github.com/Pythagora-io/gpt-pilot) to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmj8363qcg19m8j0nj7zy.jpg",
+  "slug": "what-i-learned-in-6-months-of-working-on-a-codegen-dev-tool-gpt-pilot-4fij",
+  "url": "https://dev.to/zvone187/what-i-learned-in-6-months-of-working-on-a-codegen-dev-tool-gpt-pilot-4fij",
+  "publish_date": "2024-02-29",
+  "published_at": "2024-02-29T16:39:45Z"
+ },
+ {
+  "id": 1776279,
+  "title": "A Full Stack SaaS Template with Loco",
+  "description": "Loco is a Rust framework that aims to do it all - authentication, tasks, migrations and more. While...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdqxv50jtcdaoevau8joh.png",
+  "slug": "a-full-stack-saas-template-with-loco-43ak",
+  "url": "https://dev.to/shuttle_dev/a-full-stack-saas-template-with-loco-43ak",
+  "publish_date": "2024-02-29",
+  "published_at": "2024-02-29T16:30:19Z"
+ },
+ {
+  "id": 1775551,
+  "title": "What you need to know about software requirements",
+  "description": "Imagine that you have a client who asks you to create a web application that will provide him all the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlamq8xt85yfgfxg6atr.png",
+  "slug": "what-you-need-to-know-about-software-requirements-2hc0",
+  "url": "https://dev.to/m4rri4nne/what-you-need-to-know-about-software-requirements-2hc0",
+  "publish_date": "2024-02-29",
+  "published_at": "2024-02-29T15:08:17Z"
+ },
+ {
+  "id": 1776211,
+  "title": "Start your own (side) business with open-source in mind",
+  "description": "This month I started my own DevRel advisory business and it's super fun tbh. Such an experience...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuja11mkbejsarz8f3lty.gif",
+  "slug": "start-your-own-side-business-with-open-source-in-mind-2noe",
+  "url": "https://dev.to/developuls/start-your-own-side-business-with-open-source-in-mind-2noe",
+  "publish_date": "2024-02-29",
+  "published_at": "2024-02-29T14:55:57Z"
+ },
+ {
+  "id": 1775788,
+  "title": "What is a Product Engineer?",
+  "description": "Read the full Product Engineer Manifesto on GitHub           Not Just Coders, but Builders   Picture...",
+  "cover_image": "",
+  "slug": "what-is-a-product-engineer-1kpg",
+  "url": "https://dev.to/epilot/what-is-a-product-engineer-1kpg",
+  "publish_date": "2024-02-29",
+  "published_at": "2024-02-29T08:04:56Z"
+ },
+ {
   "id": 1775179,
   "title": "Make a RAG-Powered Web Service with Qdrant and Rust",
   "description": "Hey there! Today, we’re going to talk about creating a web application that utilises Retrieval...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mainarthur/optimize-your-js-code-in-10-seconds-6jb",
   "publish_date": "2023-11-21",
   "published_at": "2023-11-21T09:13:20Z"
- },
- {
-  "id": 1672480,
-  "title": "Kubectl Restart Pod",
-  "description": "Brief description of what a pod is?   In Kubernetes, a pod is the smallest...",
-  "cover_image": "",
-  "slug": "kubectl-restart-pod-608",
-  "url": "https://dev.to/refine/kubectl-restart-pod-608",
-  "publish_date": "2023-11-20",
-  "published_at": "2023-11-20T13:37:36Z"
- },
- {
-  "id": 1667551,
-  "title": "😂11 Fun Python libraries to make your day better☀️",
-  "description": "TL;DR   In this article, I will present 11 libraries that I had fun playing with and thought...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4PQv9Wc1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lng02bkl9qwdiae5j29v.gif",
-  "slug": "11-fun-python-libraries-to-make-your-day-better-4gpc",
-  "url": "https://dev.to/taipy/11-fun-python-libraries-to-make-your-day-better-4gpc",
-  "publish_date": "2023-11-20",
-  "published_at": "2023-11-20T12:33:01Z"
- },
- {
-  "id": 1668673,
-  "title": "🤓 🚀 These 6 repos will help you crush React Server Components (RSC) ✅🔥",
-  "description": "A few months ago, the React team introduced React Server Components (RSC) to the dev community. React...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--17prqbQA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7ripp7jwud3f3tx1t1ag.gif",
-  "slug": "these-6-repos-will-help-you-crush-react-server-components-rsc-4c2o",
-  "url": "https://dev.to/jobenjada/these-6-repos-will-help-you-crush-react-server-components-rsc-4c2o",
-  "publish_date": "2023-11-20",
-  "published_at": "2023-11-20T11:10:53Z"
- },
- {
-  "id": 1671684,
-  "title": "50 ways to bring in extra cash as a developer 💰",
-  "description": "A compiled list of programming side hustle ideas to supplement your income",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--eRl23Q1W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://i.ibb.co/DDQBHvL/developer-side-hustles.png",
-  "slug": "50-ways-to-bring-in-extra-cash-as-a-developer-19b6",
-  "url": "https://dev.to/lissy93/50-ways-to-bring-in-extra-cash-as-a-developer-19b6",
-  "publish_date": "2023-11-20",
-  "published_at": "2023-11-20T10:00:00Z"
- },
- {
-  "id": 1672074,
-  "title": "Drones Take Flight, But Turbulence Remains",
-  "description": "Drone delivery has emerged as a promising technology to transform goods transportation and delivery...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QgMNQh6y--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/50fn6zhurmhy9e6hs26j.png",
-  "slug": "drones-take-flight-but-turbulence-remains-2hna",
-  "url": "https://dev.to/ruslan7645679/drones-take-flight-but-turbulence-remains-2hna",
-  "publish_date": "2023-11-20",
-  "published_at": "2023-11-20T08:37:03Z"
  }
 ]
