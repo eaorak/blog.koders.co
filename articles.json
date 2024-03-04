@@ -1,5 +1,55 @@
 [
  {
+  "id": 1772787,
+  "title": "Um júnior e um teste técnico: The battle.",
+  "description": "Alguns dias atrás me deparei com um teste técnico e decidi fazer mesmo após já ter finalizado o...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7r7roelir0n9z6d12xyy.jpg",
+  "slug": "um-junior-e-um-teste-tecnico-the-battle-4c5b",
+  "url": "https://dev.to/clintonrocha98/um-junior-e-um-teste-tecnico-the-battle-4c5b",
+  "publish_date": "2024-03-03",
+  "published_at": "2024-03-03T18:35:04Z"
+ },
+ {
+  "id": 1778863,
+  "title": "API Testing with Cypress - Part I",
+  "description": "Did you know cypress? It's a famous framework for test automation that enables the developers, QAs...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7l861jy2zerit6vgky95.png",
+  "slug": "api-testing-with-cypress-part-i-2k3i",
+  "url": "https://dev.to/m4rri4nne/api-testing-with-cypress-part-i-2k3i",
+  "publish_date": "2024-03-03",
+  "published_at": "2024-03-03T17:29:51Z"
+ },
+ {
+  "id": 1778894,
+  "title": "Discovering Your Why: Finding Your Way to Thrive Early in Your Career",
+  "description": "Some of us seem to be born into their purpose, some find it very early in their lives and some of us...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgvx6ugtm6lo8zul8t3px.jpg",
+  "slug": "discovering-your-why-finding-your-way-to-thrive-early-in-your-career-22j7",
+  "url": "https://dev.to/alexr/discovering-your-why-finding-your-way-to-thrive-early-in-your-career-22j7",
+  "publish_date": "2024-03-03",
+  "published_at": "2024-03-03T16:00:28Z"
+ },
+ {
+  "id": 1778802,
+  "title": "Jam of Javascript : 10 days 10 projects!🔥",
+  "description": "Hey there, fellow code adventurers! 🚀 Have you ever wanted to level up your JavaScript skills while...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fscnnluiy39mfxygdyt46.jpg",
+  "slug": "jam-of-javascript-10-days-10-projects-3e5a",
+  "url": "https://dev.to/khushindpatel/jam-of-javascript-10-days-10-projects-3e5a",
+  "publish_date": "2024-03-03",
+  "published_at": "2024-03-03T13:14:03Z"
+ },
+ {
+  "id": 1778434,
+  "title": "Learn how to document JavaScript/TypeScript code using JSDoc \u0026 Typedoc",
+  "description": "In this blog, you'll learn how to document your JS/TS code, how to give more context to your...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxnx31lfni5mz3omn4jre.png",
+  "slug": "learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h",
+  "url": "https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h",
+  "publish_date": "2024-03-03",
+  "published_at": "2024-03-03T00:48:49Z"
+ },
+ {
   "id": 1745796,
   "title": "Styling Checkboxes and Switches",
   "description": "I'm probably not the only developer who's frustrated about the browser's default \u0026lt;input...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/slsbytheodo/configure-authentication-to-your-aws-account-in-your-github-actions-ci-13p3",
   "publish_date": "2023-11-24",
   "published_at": "2023-11-24T09:23:48Z"
- },
- {
-  "id": 1676735,
-  "title": "Colors in Between",
-  "description": "Looking for the ideal gradient or a flawless blend of two colors? Introducing our latest creation,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--LIrWfg0s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lyng18qp9hob3q7ceb0s.jpg",
-  "slug": "colors-in-between-3i73",
-  "url": "https://dev.to/colortools/colors-in-between-3i73",
-  "publish_date": "2023-11-23",
-  "published_at": "2023-11-23T20:30:20Z"
- },
- {
-  "id": 1666159,
-  "title": "Big data models 📊 vs. Computer memory 💾",
-  "description": "Data pipelines are the backbone of any data-intensive project. As datasets grow beyond memory size...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4WzstK9s--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgmwnnh2qqyorne8mgmh.gif",
-  "slug": "big-data-models-vs-computer-memory-4po6",
-  "url": "https://dev.to/taipy/big-data-models-vs-computer-memory-4po6",
-  "publish_date": "2023-11-23",
-  "published_at": "2023-11-23T13:15:37Z"
- },
- {
-  "id": 1676139,
-  "title": "Material Design for Bootstrap v7 is out!",
-  "description": "Some of the changes in MDB Major Release v7.0:  Breaking changes: Changed HTML init for all...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YXWFxk4F--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qh04b0kef26mamkxul87.png",
-  "slug": "material-design-for-bootstrap-v7-is-out-3p9b",
-  "url": "https://dev.to/mdbootstrap/material-design-for-bootstrap-v7-is-out-3p9b",
-  "publish_date": "2023-11-23",
-  "published_at": "2023-11-23T11:59:01Z"
- },
- {
-  "id": 1672633,
-  "title": "⚡️⚡️ 7 ML repos used by the TOP 1% of Python developers 🐉",
-  "description": "Hi there 👋  Today, let's dive into 7 ML repos that the top 1% of developers use (and those you have...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6qXFCKM---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rxgpb7feopj6v0pnbcba.gif",
-  "slug": "7-ml-repos-used-by-the-top-1-of-python-developers-based-on-real-data-30hc",
-  "url": "https://dev.to/quine/7-ml-repos-used-by-the-top-1-of-python-developers-based-on-real-data-30hc",
-  "publish_date": "2023-11-23",
-  "published_at": "2023-11-23T11:15:01Z"
- },
- {
-  "id": 1676040,
-  "title": "MDB LAST CHANCE PRE #BlackFriday2023 SALE!",
-  "description": "📢LAST CHANCE PRE #BlackFriday2023 SALE!  Claim your offer ⏳ before it is too late!  Material Design...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tjVjlgVL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a2iaxc5opxhve8etg6tf.png",
-  "slug": "mdb-last-chance-pre-blackfriday2023-sale-3a6o",
-  "url": "https://dev.to/mdbootstrap/mdb-last-chance-pre-blackfriday2023-sale-3a6o",
-  "publish_date": "2023-11-23",
-  "published_at": "2023-11-23T07:57:24Z"
  }
 ]
