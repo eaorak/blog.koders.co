@@ -1,5 +1,55 @@
 [
  {
+  "id": 1780217,
+  "title": "Some great new posts from new authors in February 💞",
+  "description": "Happy March! This is a particularly special month here at DEV so I'll just take this opportunity to...",
+  "cover_image": "",
+  "slug": "some-great-new-posts-from-new-authors-in-february-5em1",
+  "url": "https://dev.to/devteam/some-great-new-posts-from-new-authors-in-february-5em1",
+  "publish_date": "2024-03-04",
+  "published_at": "2024-03-04T20:00:17Z"
+ },
+ {
+  "id": 1780159,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-2933",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2933",
+  "publish_date": "2024-03-04",
+  "published_at": "2024-03-04T18:25:57Z"
+ },
+ {
+  "id": 1779553,
+  "title": "Do you need a Tooltip or a Speech Bubble? I have created 100 using CSS 😲",
+  "description": "It's a fact: you will need a Tooltip at least once in your front-end journey so here I am with...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhx0ts76w1qb6kmrfyw62.jpg",
+  "slug": "do-you-need-a-tooltip-or-a-speech-bubble-i-have-created-100-using-css-2l17",
+  "url": "https://dev.to/afif/do-you-need-a-tooltip-or-a-speech-bubble-i-have-created-100-using-css-2l17",
+  "publish_date": "2024-03-04",
+  "published_at": "2024-03-04T14:20:36Z"
+ },
+ {
+  "id": 1775606,
+  "title": "Meteor v3 uses express under the hood – How to use and deploy it.",
+  "description": "If you have never heard of Meteor, here is a blog post from @harryadel in which he tells a little...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8sx7txtd06qogurnk2ey.png",
+  "slug": "meteor-v3-uses-express-under-the-hood-how-to-use-and-deploy-it-5c2n",
+  "url": "https://dev.to/meteor/meteor-v3-uses-express-under-the-hood-how-to-use-and-deploy-it-5c2n",
+  "publish_date": "2024-03-04",
+  "published_at": "2024-03-04T12:15:00Z"
+ },
+ {
+  "id": 1779241,
+  "title": "👑 Top Open Source Projects of 2023 🚀",
+  "description": "Time for an End of Year Review for 2023! 🎉  AI is the keyword of 2023, but there is so much more to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiz80trdmufit0kvbkrcm.png",
+  "slug": "top-open-source-projects-of-2023-1cli",
+  "url": "https://dev.to/milasuperstar/top-open-source-projects-of-2023-1cli",
+  "publish_date": "2024-03-04",
+  "published_at": "2024-03-04T03:05:24Z"
+ },
+ {
   "id": 1772787,
   "title": "Um júnior e um teste técnico: The battle.",
   "description": "Alguns dias atrás me deparei com um teste técnico e decidi fazer mesmo após já ter finalizado o...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/angelobelchior/net-8-jit-e-aot-25lk",
   "publish_date": "2023-11-25",
   "published_at": "2023-11-25T01:19:04Z"
- },
- {
-  "id": 1677641,
-  "title": "Swirl Security Overview",
-  "description": "Understanding an Open Source Search Platform: Swirl   The team behind Swirl created a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--538iNBt---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djv96uaal5n55xr1pq95.png",
-  "slug": "swirl-security-overview-3iok",
-  "url": "https://dev.to/swirl/swirl-security-overview-3iok",
-  "publish_date": "2023-11-24",
-  "published_at": "2023-11-24T22:00:27Z"
- },
- {
-  "id": 1677326,
-  "title": "Why OpenAI Assistants is a Big Win for LLM Evaluation",
-  "description": "A week after the famous, or infamous, OpenAI Dev Day, we at Confident AI released JudgementalGPT — an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QTfkumCt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0rjb9aaz5w2e02yf8a2n.png",
-  "slug": "why-openai-assistants-is-a-big-win-for-llm-evaluation-540l",
-  "url": "https://dev.to/confidentai/why-openai-assistants-is-a-big-win-for-llm-evaluation-540l",
-  "publish_date": "2023-11-24",
-  "published_at": "2023-11-24T12:13:34Z"
- },
- {
-  "id": 1677313,
-  "title": "28h. Left: TWE Elements Up To 500$ OFF❗️",
-  "description": "Up to 500$ OFF❗️ #BlackFriday Promo  ✔️500+ #opensource components for #TailwindCSS ✔️LIFETIME...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--37ZkzdTS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/furw2eeer5j46h4ynh82.png",
-  "slug": "28h-left-twe-elements-up-to-500-off-kdf",
-  "url": "https://dev.to/mz2387/28h-left-twe-elements-up-to-500-off-kdf",
-  "publish_date": "2023-11-24",
-  "published_at": "2023-11-24T11:53:20Z"
- },
- {
-  "id": 1677158,
-  "title": "📢#BlackFriday23 LIMITED OFFER Only 117 Discounts left❗️",
-  "description": "📢#BlackFriday23 LIMITED OFFER❗️ Up to: 97% OFF Only 117 Discounts left❗️   ➕ Special Offer -...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ONyZWAzj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsjieb3wj4ko2g6tlfc3.png",
-  "slug": "blackfriday23-limited-offer-only-117-discounts-left-4gmh",
-  "url": "https://dev.to/mdbootstrap/blackfriday23-limited-offer-only-117-discounts-left-4gmh",
-  "publish_date": "2023-11-24",
-  "published_at": "2023-11-24T09:23:56Z"
- },
- {
-  "id": 1677127,
-  "title": "Configure Authentication to your AWS account in your GitHub actions CI",
-  "description": "Easily authenticate your AWS account for your CI/CD pipeline! ",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GV53YZCP--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itqggfjpavkm0g7wor7r.png",
-  "slug": "configure-authentication-to-your-aws-account-in-your-github-actions-ci-13p3",
-  "url": "https://dev.to/slsbytheodo/configure-authentication-to-your-aws-account-in-your-github-actions-ci-13p3",
-  "publish_date": "2023-11-24",
-  "published_at": "2023-11-24T09:23:48Z"
  }
 ]
