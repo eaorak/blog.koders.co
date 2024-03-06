@@ -1,5 +1,55 @@
 [
  {
+  "id": 1778875,
+  "title": "Protocols and how they work",
+  "description": "Disclaimer: This is an introductory article made by someone who's studying this subject, if you have...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy37bsem7ajktzxse8xuz.jpg",
+  "slug": "protocols-and-how-they-work-46cd",
+  "url": "https://dev.to/basementdevs/protocols-and-how-they-work-46cd",
+  "publish_date": "2024-03-05",
+  "published_at": "2024-03-05T14:15:14Z"
+ },
+ {
+  "id": 1775122,
+  "title": "🎉 Our web framework reached 9,000 stars on GitHub! ⭐️ 9️⃣0️⃣0️⃣0️⃣ ⭐️",
+  "description": "TL;DR - we reached a milestone with a web framework we created, despite all the odds! Check it out...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjgngh5frozumtqvinr0.png",
+  "slug": "our-web-framework-reached-9000-stars-on-github-9000-jij",
+  "url": "https://dev.to/wasp/our-web-framework-reached-9000-stars-on-github-9000-jij",
+  "publish_date": "2024-03-05",
+  "published_at": "2024-03-05T14:01:52Z"
+ },
+ {
+  "id": 1780841,
+  "title": "Skill issue: How to Master anything 10x faster, without looking stupid",
+  "description": "Yes, the frustration with beginners is a common sentiment, and it's natural. Don't cast blame for...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltyyw5t5cmzo10ltnn98.jpeg",
+  "slug": "skill-issue-how-to-master-anything-10x-faster-without-looking-stupid-2hj4",
+  "url": "https://dev.to/drpraze/skill-issue-how-to-master-anything-10x-faster-without-looking-stupid-2hj4",
+  "publish_date": "2024-03-05",
+  "published_at": "2024-03-05T11:48:52Z"
+ },
+ {
+  "id": 1779578,
+  "title": "Taipy 3.1: A new era of visualization and data management",
+  "description": "Hello, Dev.to community!   I'm beyond excited to share with you the latest leap forward in our...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe0lf4oojx1wljttg21mu.png",
+  "slug": "taipy-31-a-new-era-of-visualization-and-data-management-1abg",
+  "url": "https://dev.to/taipy/taipy-31-a-new-era-of-visualization-and-data-management-1abg",
+  "publish_date": "2024-03-05",
+  "published_at": "2024-03-05T10:27:50Z"
+ },
+ {
+  "id": 1780700,
+  "title": "7 Programming Languages Every Cloud Engineer Should Know in 2024!",
+  "description": "In recent years, mentoring at various coding bootcamps, I've had the unique opportunity to guide and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F45u5mnf0ob9x8hsx4qs5.gif",
+  "slug": "7-programming-languages-every-cloud-engineer-should-know-in-2024-1kcd",
+  "url": "https://dev.to/pavanbelagatti/7-programming-languages-every-cloud-engineer-should-know-in-2024-1kcd",
+  "publish_date": "2024-03-05",
+  "published_at": "2024-03-05T08:23:15Z"
+ },
+ {
   "id": 1780217,
   "title": "Some great new posts from new authors in February 💞",
   "description": "Happy March! This is a particularly special month here at DEV so I'll just take this opportunity to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/krishsharma0413/if-i-could-this-is-how-i-will-learn-python-again-1k67",
   "publish_date": "2023-11-26",
   "published_at": "2023-11-26T11:09:45Z"
- },
- {
-  "id": 1678215,
-  "title": "How to get un-stuck while coding?",
-  "description": "Here are some things which I do to get un-stuck:    Keep the current task (which got you...",
-  "cover_image": "",
-  "slug": "how-to-get-un-stuck-while-coding-fgc",
-  "url": "https://dev.to/nandinishinduja/how-to-get-un-stuck-while-coding-fgc",
-  "publish_date": "2023-11-25",
-  "published_at": "2023-11-25T15:34:38Z"
- },
- {
-  "id": 1678214,
-  "title": "19 JavaScript Array Methods Everyone Needs to Know",
-  "description": "🟢 🟢 🟢            Green Methods            Adding and Removing Elements   push(): Adds one or...",
-  "cover_image": "",
-  "slug": "17-javascript-array-methods-everyone-needs-to-know-1j35",
-  "url": "https://dev.to/opensourcee/17-javascript-array-methods-everyone-needs-to-know-1j35",
-  "publish_date": "2023-11-25",
-  "published_at": "2023-11-25T15:34:01Z"
- },
- {
-  "id": 1676576,
-  "title": "🧙‍♂️ CSS trick: transition from height 0 to auto!",
-  "description": "If you messed around with CSS for long enough, chances are you've tried at least once to make a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aC7kT794--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hbw3847pnkekutlrzynb.png",
-  "slug": "css-trick-transition-from-height-0-to-auto-21de",
-  "url": "https://dev.to/francescovetere/css-trick-transition-from-height-0-to-auto-21de",
-  "publish_date": "2023-11-25",
-  "published_at": "2023-11-25T09:20:53Z"
- },
- {
-  "id": 1677976,
-  "title": "11 Best Black Friday and Cyber Monday Offers for Developers in 2023",
-  "description": "These are the best black Friday and Cyber Monday offers developers can take in 2023",
-  "cover_image": "",
-  "slug": "11-best-black-friday-and-cyber-monday-offers-for-developers-in-2023-25fm",
-  "url": "https://dev.to/javinpaul/11-best-black-friday-and-cyber-monday-offers-for-developers-in-2023-25fm",
-  "publish_date": "2023-11-25",
-  "published_at": "2023-11-25T07:32:19Z"
- },
- {
-  "id": 1676666,
-  "title": ".NET 8, JIT e AOT",
-  "description": "Habemus .NET 8.   Eu acredito que esse seja o lançamento mais importante da história do .NET. Aliás...",
-  "cover_image": "",
-  "slug": "net-8-jit-e-aot-25lk",
-  "url": "https://dev.to/angelobelchior/net-8-jit-e-aot-25lk",
-  "publish_date": "2023-11-25",
-  "published_at": "2023-11-25T01:19:04Z"
  }
 ]
