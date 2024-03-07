@@ -1,5 +1,55 @@
 [
  {
+  "id": 1781383,
+  "title": "Ending the war or continuing it? Let's bring functional programming to OOP codebases",
+  "description": "The more time goes by, the more I become a functional programming enthusiast. With this article we'll discuss concepts around functional programming to learn in a simple way and propose those concepts to be used even in OOP land!",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9c0f3071mn57a9rjlac.png",
+  "slug": "ending-the-war-or-continuing-it-lets-bring-functional-programming-to-oop-codebases-3mhd",
+  "url": "https://dev.to/cherryramatis/ending-the-war-or-continuing-it-lets-bring-functional-programming-to-oop-codebases-3mhd",
+  "publish_date": "2024-03-06",
+  "published_at": "2024-03-06T21:01:42Z"
+ },
+ {
+  "id": 1782031,
+  "title": "Tailwind | Custom Plugins",
+  "description": "Hello all my fellow frontend, backend and fullstack developers. Today i will be showing how we can...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn6x5a983hfg2dt71bs0d.png",
+  "slug": "tailwind-custom-plugins-1159",
+  "url": "https://dev.to/shubhamtiwari909/tailwind-custom-plugins-1159",
+  "publish_date": "2024-03-06",
+  "published_at": "2024-03-06T13:15:59Z"
+ },
+ {
+  "id": 1781964,
+  "title": "Being a First-Time Mom in Developer Relations",
+  "description": "Life before the Baby   Ever since I was 17, I have lived a busy life juggling work, studies,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl23jibfctlpqlo252l33.png",
+  "slug": "being-a-first-time-mom-in-developer-relations-549n",
+  "url": "https://dev.to/vonagedev/being-a-first-time-mom-in-developer-relations-549n",
+  "publish_date": "2024-03-06",
+  "published_at": "2024-03-06T11:34:20Z"
+ },
+ {
+  "id": 1781897,
+  "title": "C++ Урок #1",
+  "description": "Привет, друзья! Если вы только начинаете свое знакомство с программированием на языке C++, то этот...",
+  "cover_image": "",
+  "slug": "c-piervyi-urok-2l46",
+  "url": "https://dev.to/islombek/c-piervyi-urok-2l46",
+  "publish_date": "2024-03-06",
+  "published_at": "2024-03-06T10:28:08Z"
+ },
+ {
+  "id": 1781061,
+  "title": "+10 Resources to Empower Women in Technology",
+  "description": "TL;DR   With March 8th coming up, it’s always a time for me to get a little reflective on my...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1mwevb2hfmoo2qyxzck.gif",
+  "slug": "10-resources-to-empower-women-in-technology-2m6n",
+  "url": "https://dev.to/marisogo/10-resources-to-empower-women-in-technology-2m6n",
+  "publish_date": "2024-03-06",
+  "published_at": "2024-03-06T09:46:35Z"
+ },
+ {
   "id": 1778875,
   "title": "Protocols and how they work",
   "description": "Disclaimer: This is an introductory article made by someone who's studying this subject, if you have...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pradumnasaraf/5-docker-extensions-to-make-your-development-life-easier-102l",
   "publish_date": "2023-11-27",
   "published_at": "2023-11-27T10:44:32Z"
- },
- {
-  "id": 1678877,
-  "title": "Securely deploying Swirl in Azure.",
-  "description": "This is the third blog in the series where we will be checking in with the best practices to deploy...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XHbZejip--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3b7jkaey968iwc30ezlc.jpg",
-  "slug": "securely-deploying-swirl-in-azure-48bn",
-  "url": "https://dev.to/swirl/securely-deploying-swirl-in-azure-48bn",
-  "publish_date": "2023-11-26",
-  "published_at": "2023-11-26T16:54:44Z"
- },
- {
-  "id": 1678835,
-  "title": "Introducing 3Engine: The No-Code Web3 Game Engine",
-  "description": "In the ever-evolving world of gaming, we are excited to introduce 3Engine, a groundbreaking no-code...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--lACOZKxq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l7zbpeow7y4iq5vhbwmc.png",
-  "slug": "introducing-3engine-the-no-code-web3-game-engine-42j1",
-  "url": "https://dev.to/3engine/introducing-3engine-the-no-code-web3-game-engine-42j1",
-  "publish_date": "2023-11-26",
-  "published_at": "2023-11-26T15:29:48Z"
- },
- {
-  "id": 1662622,
-  "title": "Implement Fallback with API Gateway",
-  "description": "API resilience is the ability of an API to fail fast or ensure that it continues to function after...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--xKUJh66L--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c22n57tiu84uzovao124.png",
-  "slug": "implement-fallback-with-api-gateway-14da",
-  "url": "https://dev.to/apisix/implement-fallback-with-api-gateway-14da",
-  "publish_date": "2023-11-26",
-  "published_at": "2023-11-26T11:53:09Z"
- },
- {
-  "id": 1678665,
-  "title": "Just starting out",
-  "description": "Hi guys!   I'm joining the community as a beginner and thought a great way to do it would be to post...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z45sYs3W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qdht75mpk9g9lcygrzaj.png",
-  "slug": "just-starting-out-4cf6",
-  "url": "https://dev.to/nicole__/just-starting-out-4cf6",
-  "publish_date": "2023-11-26",
-  "published_at": "2023-11-26T11:13:22Z"
- },
- {
-  "id": 1678662,
-  "title": "If I could, THIS is how I will learn Python again 🐍",
-  "description": "tldr; official python docs   Unlocking the door to knowledge requires the right keys: curiosity,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gTY9Huxi--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jejadul4cjl78v5z7uhf.jpg",
-  "slug": "if-i-could-this-is-how-i-will-learn-python-again-1k67",
-  "url": "https://dev.to/krishsharma0413/if-i-could-this-is-how-i-will-learn-python-again-1k67",
-  "publish_date": "2023-11-26",
-  "published_at": "2023-11-26T11:09:45Z"
  }
 ]
