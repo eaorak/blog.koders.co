@@ -1,5 +1,55 @@
 [
  {
+  "id": 1783317,
+  "title": "Starting again as a dev student and working as tech writer",
+  "description": "Hello everyone!   This is my first time writing here (and also writing about my journey as a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63czhadcg4tn691tfd1z.jpg",
+  "slug": "starting-again-as-a-dev-student-and-working-as-tech-writer-1cd1",
+  "url": "https://dev.to/_michellemello/starting-again-as-a-dev-student-and-working-as-tech-writer-1cd1",
+  "publish_date": "2024-03-07",
+  "published_at": "2024-03-07T15:09:10Z"
+ },
+ {
+  "id": 1783218,
+  "title": "How I made Infinite Craft a multiplayer game with a few lines of code",
+  "description": "Friday, 14h, I saw this game. The premisse is simple, combine the four initial elements “water”,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffpt1ibgsy7231bmbnqty.jpeg",
+  "slug": "how-i-made-infinite-craft-a-multiplayer-game-with-a-few-lines-of-code-4ne7",
+  "url": "https://dev.to/vtnorton/how-i-made-infinite-craft-a-multiplayer-game-with-a-few-lines-of-code-4ne7",
+  "publish_date": "2024-03-07",
+  "published_at": "2024-03-07T11:06:31Z"
+ },
+ {
+  "id": 1783090,
+  "title": "A different approach to developer tooling for startups",
+  "description": "Yes, your team has the experience to put together a productive developer workflow (AKA developer...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flsqw7vgbfw5wf285yslo.png",
+  "slug": "a-different-approach-to-developer-tooling-for-startups-2g1l",
+  "url": "https://dev.to/encore/a-different-approach-to-developer-tooling-for-startups-2g1l",
+  "publish_date": "2024-03-07",
+  "published_at": "2024-03-07T10:24:39Z"
+ },
+ {
+  "id": 1782265,
+  "title": "7 years on DEV!",
+  "description": "I've been on DEV 7 years! I just got the notice and the seven year badge. I was a lurker for the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04sjw7kshr0ugq6tw7da.jpg",
+  "slug": "7-years-on-dev-3ec1",
+  "url": "https://dev.to/jarvisscript/7-years-on-dev-3ec1",
+  "publish_date": "2024-03-07",
+  "published_at": "2024-03-07T06:01:18Z"
+ },
+ {
+  "id": 1782913,
+  "title": "Computer Science fundamentals are still important.",
+  "description": "I feel uncomfortable admitting that when I got my job at Microsoft in 2005, I didn't know how to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69vhj6alvdzqeqwjsgx8.jpeg",
+  "slug": "computer-science-fundamentals-are-still-important-5h5i",
+  "url": "https://dev.to/moozzyk/computer-science-fundamentals-are-still-important-5h5i",
+  "publish_date": "2024-03-07",
+  "published_at": "2024-03-07T05:49:49Z"
+ },
+ {
   "id": 1781383,
   "title": "Ending the war or continuing it? Let's bring functional programming to OOP codebases",
   "description": "The more time goes by, the more I become a functional programming enthusiast. With this article we'll discuss concepts around functional programming to learn in a simple way and propose those concepts to be used even in OOP land!",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/slsbytheodo/clean-authorization-control-in-serverless-functions-hm9",
   "publish_date": "2023-11-28",
   "published_at": "2023-11-28T12:47:45Z"
- },
- {
-  "id": 1680260,
-  "title": "🔥5 Must have tools to install on your Kubernetes cluster ✨️🚀",
-  "description": "TL;DR   This article lists five must-have tools for developers to install on their...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z7AyyRTn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4sqilxe8emv3s0ngzyck.gif",
-  "slug": "5-must-have-tools-to-install-on-your-kubernetes-cluster-489k",
-  "url": "https://dev.to/odigos/5-must-have-tools-to-install-on-your-kubernetes-cluster-489k",
-  "publish_date": "2023-11-27",
-  "published_at": "2023-11-27T16:21:40Z"
- },
- {
-  "id": 1680278,
-  "title": "How Cyclops utilizes JSON schema to deliver dynamical UI",
-  "description": "Cyclops turns complicated YAML manifests into simple and structured UIs where developers can click...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--GBRUXzSl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yxllae25ubwh1ynnebey.png",
-  "slug": "how-cyclops-utilizes-json-schema-to-deliver-dynamical-ui-49e",
-  "url": "https://dev.to/cyclops-ui/how-cyclops-utilizes-json-schema-to-deliver-dynamical-ui-49e",
-  "publish_date": "2023-11-27",
-  "published_at": "2023-11-27T16:02:18Z"
- },
- {
-  "id": 1680129,
-  "title": "Building a cloud backend in Go using REST and PostgreSQL",
-  "description": "TL;DR   💡This guide shows you how to build and deploy and Go backend for a URL Shortener. It...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nlFO1yXx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q3seymshggr02w607dp6.png",
-  "slug": "build-a-backend-in-go-using-rest-and-postgresql-307b",
-  "url": "https://dev.to/encore/build-a-backend-in-go-using-rest-and-postgresql-307b",
-  "publish_date": "2023-11-27",
-  "published_at": "2023-11-27T15:52:14Z"
- },
- {
-  "id": 1679445,
-  "title": "🚀⚡New open-source⚡ VS. old open-source 🦖",
-  "description": "TD;LR   In this article, I provide alternatives to mainstream Python libraries. These...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Z4gf1c_B--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0kh7gk8qgd69t5wojsp3.png",
-  "slug": "new-open-source-vs-old-open-source-33k7",
-  "url": "https://dev.to/taipy/new-open-source-vs-old-open-source-33k7",
-  "publish_date": "2023-11-27",
-  "published_at": "2023-11-27T14:41:38Z"
- },
- {
-  "id": 1673379,
-  "title": "5 Docker Extensions to make your development life easier",
-  "description": "Docker Extensions are fairly new to the tech domain, and many people haven't explored this. I thought...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3RbfRrw9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rc37qxa7fk5wlbx6lu9f.png",
-  "slug": "5-docker-extensions-to-make-your-development-life-easier-102l",
-  "url": "https://dev.to/pradumnasaraf/5-docker-extensions-to-make-your-development-life-easier-102l",
-  "publish_date": "2023-11-27",
-  "published_at": "2023-11-27T10:44:32Z"
  }
 ]
