@@ -1,5 +1,55 @@
 [
  {
+  "id": 1784708,
+  "title": "Qdrant 1.8.0 - Major Performance Enhancements",
+  "description": "Qdrant 1.8.0 is out!  This time around, we have focused on Qdrant's internals. Our goal was to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fox9bjhzq5zpd9rhnpdi2.png",
+  "slug": "qdrant-180-major-performance-enhancements-384o",
+  "url": "https://dev.to/qdrant/qdrant-180-major-performance-enhancements-384o",
+  "publish_date": "2024-03-08",
+  "published_at": "2024-03-08T16:41:12Z"
+ },
+ {
+  "id": 1783358,
+  "title": "🚀 High-growth repos you should contribute to this weekend 🧑‍💻",
+  "description": "Hey friends,  For this week's article, we reviewed last month's fastest-growing open-source...",
+  "cover_image": "",
+  "slug": "high-growth-repos-you-should-contribute-to-today-19n1",
+  "url": "https://dev.to/quine/high-growth-repos-you-should-contribute-to-today-19n1",
+  "publish_date": "2024-03-08",
+  "published_at": "2024-03-08T11:35:52Z"
+ },
+ {
+  "id": 1784340,
+  "title": "Engineering Bolt ⚡: #5 Friday Developer Fun 😎",
+  "description": "The wisest coding advice, code quality to the extreme 🛠️                 Join Me   Read more about...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs71duussc2rlpvx1y5ys.png",
+  "slug": "engineering-bolt-5-friday-developer-fun-4ep",
+  "url": "https://dev.to/alexr/engineering-bolt-5-friday-developer-fun-4ep",
+  "publish_date": "2024-03-08",
+  "published_at": "2024-03-08T11:03:50Z"
+ },
+ {
+  "id": 1781051,
+  "title": "Processing One Billion Rows in PHP!",
+  "description": "You may have heard of the \"The One Billion Row Challenge\" (1brc) and in case you don't, go checkout...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lgoqkfinoaze0lvjna3.png",
+  "slug": "processing-one-billion-rows-in-php-3eg0",
+  "url": "https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0",
+  "publish_date": "2024-03-08",
+  "published_at": "2024-03-08T09:27:36Z"
+ },
+ {
+  "id": 1783190,
+  "title": "Snake...in pure HTML⁉️ [no JS, no CSS, no images!!] 😱",
+  "description": "They say that some people just like chaos.   Hi there 👋🏼, I am Graham \"loves chaos\" TheDev, and this...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1zfnqp9dna5pvqflzkh.jpg",
+  "slug": "snakein-pure-html-no-js-no-css-no-images-2ccg",
+  "url": "https://dev.to/grahamthedev/snakein-pure-html-no-js-no-css-no-images-2ccg",
+  "publish_date": "2024-03-08",
+  "published_at": "2024-03-08T06:06:56Z"
+ },
+ {
   "id": 1783317,
   "title": "Starting again as a dev student and working as tech writer",
   "description": "Hello everyone!   This is my first time writing here (and also writing about my journey as a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pradumnasaraf/testing-in-production-with-canary-deployments-a-how-to-guide-m4g",
   "publish_date": "2023-11-29",
   "published_at": "2023-11-29T06:10:03Z"
- },
- {
-  "id": 1680315,
-  "title": "Discover the 9️⃣ Best Self-Hosted, Open-Source Repositories on GitHub 💫",
-  "description": "What is Self Hosted Software?   A self-hosted project refers to software, applications, or...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r8noaZ6U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nfolzmc7aleouxjw6d1l.gif",
-  "slug": "discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc",
-  "url": "https://dev.to/srbhr/discover-the-9-best-self-hosted-open-source-repositories-on-github-23oc",
-  "publish_date": "2023-11-28",
-  "published_at": "2023-11-28T22:00:51Z"
- },
- {
-  "id": 1681319,
-  "title": "✨ Train ChatGPT on your Documentation 🪄 ✨",
-  "description": "TL;DR   ChatGPT is trained until 2022.  But what if you want it to give you information...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--saGqj9M3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xiuiixo8pkj8md2vibaf.gif",
-  "slug": "train-chatgpt-on-your-documentation-1a9g",
-  "url": "https://dev.to/triggerdotdev/train-chatgpt-on-your-documentation-1a9g",
-  "publish_date": "2023-11-28",
-  "published_at": "2023-11-28T14:45:01Z"
- },
- {
-  "id": 1681440,
-  "title": "🛠️6 tools to kickstart your full-stack app with AI 🤖",
-  "description": "“It’s 2021, where is my flying car?” - that’s a sentence that Joel Spolsky (creator of Stack Overflow...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OWgwNDoE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t2i5f3oyhnibsu1e2x5y.png",
-  "slug": "6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3",
-  "url": "https://dev.to/matijasos/6-tools-to-kickstart-your-full-stack-app-with-ai-4oh3",
-  "publish_date": "2023-11-28",
-  "published_at": "2023-11-28T14:32:58Z"
- },
- {
-  "id": 1681132,
-  "title": "#FIGMA Material Minimal Design System: Updated \u0026 Extended",
-  "description": "What is Material Minimal Design System?  The base for the MDBootstrap and TW Elements libraries, an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yQvGLI4A--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yx7d2inmptj4m2a3qt1r.png",
-  "slug": "figma-material-minimal-design-system-updated-extended-1a32",
-  "url": "https://dev.to/mdbootstrap/figma-material-minimal-design-system-updated-extended-1a32",
-  "publish_date": "2023-11-28",
-  "published_at": "2023-11-28T13:37:57Z"
- },
- {
-  "id": 1669851,
-  "title": "Clean authorization control in serverless functions",
-  "description": "Learn to properly structure your serverless code to achieve perfect authorization through a simple example use case",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--_q5wqBxl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m686i5ynnovkacvth2pz.png",
-  "slug": "clean-authorization-control-in-serverless-functions-hm9",
-  "url": "https://dev.to/slsbytheodo/clean-authorization-control-in-serverless-functions-hm9",
-  "publish_date": "2023-11-28",
-  "published_at": "2023-11-28T12:47:45Z"
  }
 ]
