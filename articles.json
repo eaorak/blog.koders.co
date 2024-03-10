@@ -1,5 +1,55 @@
 [
  {
+  "id": 1784536,
+  "title": "Desenvolvendo Soft Skills",
+  "description": "Habilidades técnicas todo mundo aprende, mas o que te destaca são as habilidades não...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feosxzjlxdkcn6zmuv1jw.png",
+  "slug": "desenvolvendo-soft-skills-418",
+  "url": "https://dev.to/techinrio/desenvolvendo-soft-skills-418",
+  "publish_date": "2024-03-09",
+  "published_at": "2024-03-09T19:13:44Z"
+ },
+ {
+  "id": 1785525,
+  "title": "Tech Lead Software Setup - 2024 Edition",
+  "description": "Have you asked yourself what do you really need? Without the noise, without the hassle.  Here's     ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyrjtyhs6ks63xbcajjjg.jpg",
+  "slug": "tech-lead-software-setup-2024-edition-8lk",
+  "url": "https://dev.to/joelbonetr/tech-lead-software-setup-2024-edition-8lk",
+  "publish_date": "2024-03-09",
+  "published_at": "2024-03-09T18:08:56Z"
+ },
+ {
+  "id": 1785372,
+  "title": "🛠️How to Go from Software Engineer to AI Developer - What it means for YOU (Insider's View)🤖",
+  "description": "I recently saw a lot of headlines that said Jensen Huang proclaims: 'Don't Teach Your Kids...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fehpqid768ewvtok7eqrm.png",
+  "slug": "go-from-software-to-ai-development-what-it-means-for-you-insiders-view-1fpk",
+  "url": "https://dev.to/noberst/go-from-software-to-ai-development-what-it-means-for-you-insiders-view-1fpk",
+  "publish_date": "2024-03-09",
+  "published_at": "2024-03-09T14:20:26Z"
+ },
+ {
+  "id": 1785213,
+  "title": "⚛️ Applying Strategy Pattern in React (Part 2)",
+  "description": "In the first part, we explored the significance of the Strategy pattern in React projects and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpie39aeclxir65yy3vb.jpg",
+  "slug": "applying-design-patterns-in-react-strategy-pattern-part-2-221i",
+  "url": "https://dev.to/itswillt/applying-design-patterns-in-react-strategy-pattern-part-2-221i",
+  "publish_date": "2024-03-09",
+  "published_at": "2024-03-09T10:23:47Z"
+ },
+ {
+  "id": 1785017,
+  "title": "You might want to replace cd command with Zoxide 🎉 — a smarter and trainable cd alternative 🗂️",
+  "description": "Have you ever encountered a problem where you kept changing directories, costing you a lot of time? I...",
+  "cover_image": "",
+  "slug": "you-might-want-to-replace-cd-command-with-zoxide-a-smarter-and-trainable-cd-alternative-5b7o",
+  "url": "https://dev.to/creuserr/you-might-want-to-replace-cd-command-with-zoxide-a-smarter-and-trainable-cd-alternative-5b7o",
+  "publish_date": "2024-03-09",
+  "published_at": "2024-03-09T04:19:34Z"
+ },
+ {
   "id": 1784708,
   "title": "Qdrant 1.8.0 - Major Performance Enhancements",
   "description": "Qdrant 1.8.0 is out!  This time around, we have focused on Qdrant's internals. Our goal was to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/quine/5-pro-tips-for-an-unbeatable-readme-143i",
   "publish_date": "2023-11-30",
   "published_at": "2023-11-30T11:17:12Z"
- },
- {
-  "id": 1682334,
-  "title": "🏆How to master 📊 Big Data pipelines with Taipy and PySpark 🐍",
-  "description": "This article will employ a simple example to demonstrate how we can integrate PySpark with Taipy to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2URTrZgb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hnh9gq35wxcxgsr7d9bf.png",
-  "slug": "how-to-master-big-data-pipelines-with-taipy-and-pyspark-14oe",
-  "url": "https://dev.to/taipy/how-to-master-big-data-pipelines-with-taipy-and-pyspark-14oe",
-  "publish_date": "2023-11-29",
-  "published_at": "2023-11-29T16:43:36Z"
- },
- {
-  "id": 1682555,
-  "title": "🚀 GITLAB ON KUBERNETES: The Ultimate Deployment Guide! 🌟",
-  "description": "TL;DR 🔍   Explore the step-by-step guide to deploying GitLab on Kubernetes, focusing on the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--DM9a2uDh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hc87feu7usaxd4mf095d.gif",
-  "slug": "gitlab-on-kubernetes-the-ultimate-deployment-guide-188b",
-  "url": "https://dev.to/glasskube/gitlab-on-kubernetes-the-ultimate-deployment-guide-188b",
-  "publish_date": "2023-11-29",
-  "published_at": "2023-11-29T16:43:06Z"
- },
- {
-  "id": 1681634,
-  "title": "✨Be a 10X Linux User with these tools 😎💫",
-  "description": "TL;DR   This article lists six great tools for developers to install on their Linux...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--mnFudikT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vilz7pmj5dfymhhidbc6.gif",
-  "slug": "be-a-10x-linux-user-with-these-tools-3g1f",
-  "url": "https://dev.to/shricodev/be-a-10x-linux-user-with-these-tools-3g1f",
-  "publish_date": "2023-11-29",
-  "published_at": "2023-11-29T12:25:09Z"
- },
- {
-  "id": 1658981,
-  "title": "⤴️How to build a Midjourney API with Nest.js 🚀",
-  "description": "TL;DR   In this post I will show you the architecture of building an unofficial Midjourney...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w21t42bA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6a65iw9pg2yqjnvtoycu.gif",
-  "slug": "how-to-build-unofficial-midjourney-api-with-nestjs-1lnd",
-  "url": "https://dev.to/confidentai/how-to-build-unofficial-midjourney-api-with-nestjs-1lnd",
-  "publish_date": "2023-11-29",
-  "published_at": "2023-11-29T10:59:17Z"
- },
- {
-  "id": 1666744,
-  "title": "Testing in Production with Canary Deployments: A How-To Guide",
-  "description": "Testing in production may not seem right, does it? 🤔  With feature flags, it’s possible. So what are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--tChUEv1l--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7wsvihm2zirmi5iurkc4.png",
-  "slug": "testing-in-production-with-canary-deployments-a-how-to-guide-m4g",
-  "url": "https://dev.to/pradumnasaraf/testing-in-production-with-canary-deployments-a-how-to-guide-m4g",
-  "publish_date": "2023-11-29",
-  "published_at": "2023-11-29T06:10:03Z"
  }
 ]
