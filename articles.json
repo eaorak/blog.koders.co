@@ -1,5 +1,55 @@
 [
  {
+  "id": 1778897,
+  "title": "How Developers Can Survive AI: 3 Hidden Skills To Become Irreplaceable 🤖",
+  "description": "Imagine you spent decades improving your coding skills.  Just to see ChatGPT solving coding problems...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjg106lqmj7mqvdwq99t4.jpeg",
+  "slug": "how-developers-can-survive-ai-3-hidden-skills-to-become-irreplaceable-17c5",
+  "url": "https://dev.to/dragosnedelcu/how-developers-can-survive-ai-3-hidden-skills-to-become-irreplaceable-17c5",
+  "publish_date": "2024-03-11",
+  "published_at": "2024-03-11T19:16:10Z"
+ },
+ {
+  "id": 1786706,
+  "title": "DeFi Vaults Selection: Rivo Methodology",
+  "description": "Rivo.xyz vision is that everyone can build a DeFi yield portfolio for their needs in one place. To...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd86zk8zcbf3fwf0u1rz3.jpg",
+  "slug": "defi-vaults-selection-rivo-methodology-2nm3",
+  "url": "https://dev.to/andre_antares/defi-vaults-selection-rivo-methodology-2nm3",
+  "publish_date": "2024-03-11",
+  "published_at": "2024-03-11T09:22:39Z"
+ },
+ {
+  "id": 1765877,
+  "title": "How we handled MySQL deadlocks in Productive - Part 1",
+  "description": "Disclaimer: note that I mostly redacted product’s internal details. In places I also used simplified...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0mbiysmmmy5m3z82d7ds.jpeg",
+  "slug": "how-we-handled-mysql-deadlocks-in-productive-part-1-15ce",
+  "url": "https://dev.to/productive/how-we-handled-mysql-deadlocks-in-productive-part-1-15ce",
+  "publish_date": "2024-03-11",
+  "published_at": "2024-03-11T08:11:21Z"
+ },
+ {
+  "id": 1786521,
+  "title": "Next.js SaaS Boilerplate and Starter Kit - SaaSBold",
+  "description": "Are you tired of building SaaS apps from scratch? Want to slash development time and launch your SaaS...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faktlix9zjbpto5onve9u.png",
+  "slug": "saas-boilerplate-and-starter-kit-4c1p",
+  "url": "https://dev.to/saasboilerplate/saas-boilerplate-and-starter-kit-4c1p",
+  "publish_date": "2024-03-11",
+  "published_at": "2024-03-11T05:36:22Z"
+ },
+ {
+  "id": 1786445,
+  "title": "Type Safety in TypeScript - Unknown vs Any",
+  "description": "TypeScript is very popular because it adds static typing to JavaScript. This makes the code safer and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fukgcmgoyca2ujdcgsszh.png",
+  "slug": "type-safety-in-typescript-unknown-vs-any-55c0",
+  "url": "https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0",
+  "publish_date": "2024-03-11",
+  "published_at": "2024-03-11T03:50:42Z"
+ },
+ {
   "id": 1786176,
   "title": "The 3 Most Powerful Functions in JavaScript",
   "description": "Introduction   The map(), filter() and the reduce() are the most powerful and important...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/greenteaisgreat/prevue-30-vues-most-visual-prototyping-tool-yet-39lh",
   "publish_date": "2023-12-02",
   "published_at": "2023-12-02T02:44:28Z"
- },
- {
-  "id": 1684568,
-  "title": "TIL - Today I Learn 12-11 18-11",
-  "description": "Alvaro            Make System Under Test    O nome vem de Make System Under Test (fazer...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--X248waUx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v53721x4tvsgte1h4jmv.jpg",
-  "slug": "til-today-i-learn-12-11-18-11-1mdf",
-  "url": "https://dev.to/devhat/til-today-i-learn-12-11-18-11-1mdf",
-  "publish_date": "2023-12-01",
-  "published_at": "2023-12-01T20:30:00Z"
- },
- {
-  "id": 1665683,
-  "title": "What was your win this week?",
-  "description": "Hey folks   Hope y'all are ready for the weekend! 🙌   Looking back on this past week, what was...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ev_R8Usa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/t826xw5bzcia6wkq2iti.jpg",
-  "slug": "what-was-your-win-this-week-h04",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-h04",
-  "publish_date": "2023-12-01",
-  "published_at": "2023-12-01T14:00:00Z"
- },
- {
-  "id": 1684757,
-  "title": "Google's Future: A Tale of Two Ex-Googlers",
-  "description": "Recently there have been 2 curious posts retrospecting on first-hand experience in the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BWeQEbUF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/816uhhp415bpvqix34p7.png",
-  "slug": "googles-future-a-tale-of-two-ex-googlers-4i1o",
-  "url": "https://dev.to/maximsaplin/googles-future-a-tale-of-two-ex-googlers-4i1o",
-  "publish_date": "2023-12-01",
-  "published_at": "2023-12-01T06:55:55Z"
- },
- {
-  "id": 1684654,
-  "title": "AWS Step Functions: Using the Wait State Type",
-  "description": "Before checking out the post, I recommend first looking at: Introduction to AWS Step Functions using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--w7a-WyKJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/21e6q4wq6i118xjk0i3i.png",
-  "slug": "aws-step-functions-using-the-wait-state-type-1ab1",
-  "url": "https://dev.to/aws-builders/aws-step-functions-using-the-wait-state-type-1ab1",
-  "publish_date": "2023-12-01",
-  "published_at": "2023-12-01T04:58:13Z"
- },
- {
-  "id": 1684529,
-  "title": "A Year in Review: Celebrating the Virtual Coffee Community",
-  "description": "Here's what Virtual Coffee has been up to in 2023",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BXh9oYO3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2dik44bslb4j8qilhv4l.png",
-  "slug": "a-year-in-review-celebrating-the-virtual-coffee-community-4fgj",
-  "url": "https://dev.to/virtualcoffee/a-year-in-review-celebrating-the-virtual-coffee-community-4fgj",
-  "publish_date": "2023-12-01",
-  "published_at": "2023-12-01T01:18:48Z"
  }
 ]
