@@ -1,5 +1,55 @@
 [
  {
+  "id": 1789301,
+  "title": "Building a simple web server in Rust",
+  "description": "Building a web server with Rust doesn’t need to be complex. With frameworks like Axum, you can write...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8s8ad940qcjm00v0bq4m.png",
+  "slug": "building-a-simple-web-server-in-rust-5c57",
+  "url": "https://dev.to/shuttle_dev/building-a-simple-web-server-in-rust-5c57",
+  "publish_date": "2024-03-13",
+  "published_at": "2024-03-13T15:37:45Z"
+ },
+ {
+  "id": 1789247,
+  "title": "A Closer Look at the Ongoing DeFi Vault Revolution",
+  "description": "The decentralized finance (DeFi) ecosystem has expanded enormously over the last couple of years....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb84fx3w6bdnsbbu549to.jpg",
+  "slug": "a-closer-look-at-the-ongoing-defi-vault-revolution-3o6o",
+  "url": "https://dev.to/andre_antares/a-closer-look-at-the-ongoing-defi-vault-revolution-3o6o",
+  "publish_date": "2024-03-13",
+  "published_at": "2024-03-13T14:20:39Z"
+ },
+ {
+  "id": 1789200,
+  "title": "25 Unnoticeable Features of JavaScript",
+  "description": "Often, as developers, we write similar types of code, falling into a pattern that, while comfortable,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftx7ejsg93gcoymk4x116.png",
+  "slug": "25-unnoticeable-features-of-javascript-15l1",
+  "url": "https://dev.to/mmainulhasan/25-unnoticeable-features-of-javascript-15l1",
+  "publish_date": "2024-03-13",
+  "published_at": "2024-03-13T13:26:54Z"
+ },
+ {
+  "id": 1788285,
+  "title": "Build a Text-to-PowerPoint Application (LangChain, Next.js, \u0026 CopilotKit)",
+  "description": "TL;DR   In this article, you will learn how to build an AI-powered PowerPoint application...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fispder5fuw2mvfq19q93.gif",
+  "slug": "how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76",
+  "url": "https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76",
+  "publish_date": "2024-03-13",
+  "published_at": "2024-03-13T12:44:37Z"
+ },
+ {
+  "id": 1788921,
+  "title": "What's New in API7 Enterprise: Token Management",
+  "description": "Basic Concepts and Functions of Access Token   In modern web applications, access token is...",
+  "cover_image": "",
+  "slug": "whats-new-in-api7-enterprise-token-management-482l",
+  "url": "https://dev.to/api7/whats-new-in-api7-enterprise-token-management-482l",
+  "publish_date": "2024-03-13",
+  "published_at": "2024-03-13T08:54:42Z"
+ },
+ {
   "id": 1788284,
   "title": "Navigating the Challenges of Scaling Open Source Projects",
   "description": "Gain insights into the challenges of scaling open source projects, with solutions for comprehensive understanding, collaboration, and sustainable project development.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dev_kiran/top-5-killer-websites-for-developers-2knm",
   "publish_date": "2023-12-04",
   "published_at": "2023-12-04T10:15:43Z"
- },
- {
-  "id": 1686758,
-  "title": "Don't worry, I've not given up!",
-  "description": "Hi guys!!  I've just finished my first week of the Front-End Web Development bootcamp. Some of you...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BqPqS1l---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b90lhbvf60u3axx2brz8.jpg",
-  "slug": "dont-worry-ive-not-given-up-5gc1",
-  "url": "https://dev.to/nicole__/dont-worry-ive-not-given-up-5gc1",
-  "publish_date": "2023-12-03",
-  "published_at": "2023-12-03T17:28:51Z"
- },
- {
-  "id": 1686748,
-  "title": "Pros and Cons of Remote Work",
-  "description": "As a person who works remotely for most of the month, I have observed some pros and cons of working...",
-  "cover_image": "",
-  "slug": "pros-and-cons-of-remote-work-2dl0",
-  "url": "https://dev.to/nandinishinduja/pros-and-cons-of-remote-work-2dl0",
-  "publish_date": "2023-12-03",
-  "published_at": "2023-12-03T17:08:57Z"
- },
- {
-  "id": 1686659,
-  "title": "How to beat impostor syndrome as a software developer?",
-  "description": "Let's be honest, if you are a software developer, you have probably felt like an impostor at least...",
-  "cover_image": "",
-  "slug": "how-to-beat-impostor-syndrome-as-a-software-developer-2f9n",
-  "url": "https://dev.to/nandinishinduja/how-to-beat-impostor-syndrome-as-a-software-developer-2f9n",
-  "publish_date": "2023-12-03",
-  "published_at": "2023-12-03T15:18:46Z"
- },
- {
-  "id": 1686494,
-  "title": "React Hook: useElementDimensions",
-  "description": "CSS is great, but sometimes it is not enough. Sometimes you need to know the size of CSS elements in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UeglqKaA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zk9rptf4tl3m4vtykfr6.png",
-  "slug": "react-hook-useelementdimensions-42cl",
-  "url": "https://dev.to/perssondennis/react-hook-useelementdimensions-42cl",
-  "publish_date": "2023-12-03",
-  "published_at": "2023-12-03T15:14:20Z"
- },
- {
-  "id": 1686546,
-  "title": "JavaScript fundamentals before learning React",
-  "description": "After all my teachings about React, be it online for a larger audience or on-site for companies...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZORHEzyp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0gzrn4is0lao3q1s2oy5.png",
-  "slug": "javascript-fundamentals-before-learning-react-1li1",
-  "url": "https://dev.to/codingcss/javascript-fundamentals-before-learning-react-1li1",
-  "publish_date": "2023-12-03",
-  "published_at": "2023-12-03T12:05:29Z"
  }
 ]
