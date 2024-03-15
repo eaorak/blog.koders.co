@@ -1,5 +1,55 @@
 [
  {
+  "id": 1790697,
+  "title": "Introducing DEV Challenges",
+  "description": "We are starting something special. It’s called DEV Challenges, a new way to participate in the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8gz3p8u390nq9syn89e.jpg",
+  "slug": "introducing-dev-challenges-1mk9",
+  "url": "https://dev.to/devteam/introducing-dev-challenges-1mk9",
+  "publish_date": "2024-03-14",
+  "published_at": "2024-03-14T19:53:45Z"
+ },
+ {
+  "id": 1790542,
+  "title": "Announcing AnalogJS 1.0 🚀",
+  "description": "After many months of development and testing, we're excited to announce the 1.0 release of AnalogJS!...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F53iacqnmsdncoiz8g1gg.png",
+  "slug": "announcing-analogjs-10-19an",
+  "url": "https://dev.to/analogjs/announcing-analogjs-10-19an",
+  "publish_date": "2024-03-14",
+  "published_at": "2024-03-14T19:10:34Z"
+ },
+ {
+  "id": 1790430,
+  "title": "Grading students",
+  "description": "Prepare your favorite cup of coffee, because we are about to enter the fantastic world of Grading...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmq5qttws19muuofpm2hm.png",
+  "slug": "grading-students-5eok",
+  "url": "https://dev.to/kecbm/grading-students-5eok",
+  "publish_date": "2024-03-14",
+  "published_at": "2024-03-14T14:21:52Z"
+ },
+ {
+  "id": 1783731,
+  "title": "All the tools I need to build a perfect AI app.",
+  "description": "The world of AI has grown much in the past decade.  AI is everywhere, from voice assistants to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko14fygno7jgvo7gz8k9.gif",
+  "slug": "all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh",
+  "url": "https://dev.to/taipy/all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh",
+  "publish_date": "2024-03-14",
+  "published_at": "2024-03-14T12:09:13Z"
+ },
+ {
+  "id": 1790096,
+  "title": "3 Tips for Deploying APISIX in Kubernetes (Part 1)",
+  "description": "The era of cloud-native computing has seen widespread adoption of Kubernetes as a container...",
+  "cover_image": "",
+  "slug": "3-tips-for-deploying-apisix-in-kubernetes-part-1-2dek",
+  "url": "https://dev.to/api7/3-tips-for-deploying-apisix-in-kubernetes-part-1-2dek",
+  "publish_date": "2024-03-14",
+  "published_at": "2024-03-14T09:48:18Z"
+ },
+ {
   "id": 1789301,
   "title": "Building a simple web server in Rust",
   "description": "Building a web server with Rust doesn’t need to be complex. With frameworks like Axum, you can write...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/madza/19-essential-tools-to-improve-your-developer-workflow-4fi0",
   "publish_date": "2023-12-05",
   "published_at": "2023-12-05T09:56:19Z"
- },
- {
-  "id": 1687817,
-  "title": "100 Bucket List Ideas for Programmers",
-  "description": "Technology enthusiasts often dream big, aspiring to achieve goals that push the boundaries of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--y16DWkHM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9a46a684eivfmymqanth.png",
-  "slug": "100-bucket-list-ideas-for-programmers-506m",
-  "url": "https://dev.to/syki/100-bucket-list-ideas-for-programmers-506m",
-  "publish_date": "2023-12-04",
-  "published_at": "2023-12-04T16:56:10Z"
- },
- {
-  "id": 1687754,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RdQzN7AX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/poiawezxh9ttzvkyqx0u.png",
-  "slug": "meme-monday-12c9",
-  "url": "https://dev.to/ben/meme-monday-12c9",
-  "publish_date": "2023-12-04",
-  "published_at": "2023-12-04T15:52:21Z"
- },
- {
-  "id": 1680332,
-  "title": "✨ 7 AI Libraries EVERY Dev Needs to Know (to be a wiz)🧙‍♂️ 🪄",
-  "description": "TL;DR   These days, any dev can build powerful things with AI.  No need to be a ML expert....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--6a5Bas4h--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0cbpf6vmhafp3rp20slx.gif",
-  "slug": "7-ai-libraries-every-dev-needs-to-know-to-be-a-wiz-4lim",
-  "url": "https://dev.to/copilotkit/7-ai-libraries-every-dev-needs-to-know-to-be-a-wiz-4lim",
-  "publish_date": "2023-12-04",
-  "published_at": "2023-12-04T15:26:35Z"
- },
- {
-  "id": 1675423,
-  "title": "🏆Top 10 must-have VSCode extensions for🐍Pythonistas",
-  "description": "TL;DR   For Python developers, data scientists and analysts, using VSCode, this compilation...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--10V_BGRS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/72zag47yedpaslprb523.gif",
-  "slug": "top-10-must-have-vscode-extensions-forpythonistas-561a",
-  "url": "https://dev.to/taipy/top-10-must-have-vscode-extensions-forpythonistas-561a",
-  "publish_date": "2023-12-04",
-  "published_at": "2023-12-04T14:18:40Z"
- },
- {
-  "id": 1687241,
-  "title": "🔥Top 5 Killer Websites for Developers😎",
-  "description": "Hi Devs 👋  Today, I'll share with you the top 5 amazing websites that are helpful in your project...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s---w306xGq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0jtzhs0tge98doq0k6b.gif",
-  "slug": "top-5-killer-websites-for-developers-2knm",
-  "url": "https://dev.to/dev_kiran/top-5-killer-websites-for-developers-2knm",
-  "publish_date": "2023-12-04",
-  "published_at": "2023-12-04T10:15:43Z"
  }
 ]
