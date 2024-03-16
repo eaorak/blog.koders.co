@@ -1,5 +1,55 @@
 [
  {
+  "id": 1791560,
+  "title": "AI and the Future of Actually Getting a Job",
+  "description": "The future of employment is a broad and poignant topic these days, and although I'm optimistic in the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F20ecohef666lxco6ntv9.png",
+  "slug": "ai-and-the-future-of-actually-getting-a-job-4ei",
+  "url": "https://dev.to/ben/ai-and-the-future-of-actually-getting-a-job-4ei",
+  "publish_date": "2024-03-15",
+  "published_at": "2024-03-15T15:54:57Z"
+ },
+ {
+  "id": 1790358,
+  "title": "🚀 2023's Top Open-Source Projects on Product Hunt 🏆",
+  "description": "Hey friends,  In this week's article, we're excited to unveil the finalists of the 2023 Golden Kitty...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh7rvjh0qeeun1xqkpa4b.gif",
+  "slug": "2023s-top-open-source-projects-on-product-hunt-4ooi",
+  "url": "https://dev.to/quine/2023s-top-open-source-projects-on-product-hunt-4ooi",
+  "publish_date": "2024-03-15",
+  "published_at": "2024-03-15T14:56:21Z"
+ },
+ {
+  "id": 1782357,
+  "title": "How to add color to your Dev.to article’s code snippets",
+  "description": "Table of Contents      Flashback Method #1: Using backticks Method #2: Use CodeSnap Explore...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzn3vyws62ehyj1tmsc3d.png",
+  "slug": "how-to-add-color-to-your-devto-articles-code-snippets-1hm4",
+  "url": "https://dev.to/cbid2/how-to-add-color-to-your-devto-articles-code-snippets-1hm4",
+  "publish_date": "2024-03-15",
+  "published_at": "2024-03-15T12:00:00Z"
+ },
+ {
+  "id": 1775410,
+  "title": "What was your win this week?",
+  "description": "Hey everybody! 👋  Another week down... hope it was a good one for ya.  Looking back on this past...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqiwx7vgxivwj8ck1o9d.jpg",
+  "slug": "what-was-your-win-this-week-4pe5",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-4pe5",
+  "publish_date": "2024-03-15",
+  "published_at": "2024-03-15T09:20:00Z"
+ },
+ {
+  "id": 1791169,
+  "title": "Enhancing API Observability Series (Part 2): Log Analysis",
+  "description": "Introduction   API Observability refers to the comprehensive real-time monitoring and...",
+  "cover_image": "",
+  "slug": "enhancing-api-observability-series-part-2-log-analysis-4cka",
+  "url": "https://dev.to/apisix/enhancing-api-observability-series-part-2-log-analysis-4cka",
+  "publish_date": "2024-03-15",
+  "published_at": "2024-03-15T09:04:17Z"
+ },
+ {
   "id": 1790697,
   "title": "Introducing DEV Challenges",
   "description": "We are starting something special. It’s called DEV Challenges, a new way to participate in the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/productive/decoupling-deployment-from-release-with-feature-toggles-7lo",
   "publish_date": "2023-12-06",
   "published_at": "2023-12-06T09:47:41Z"
- },
- {
-  "id": 1688705,
-  "title": "🤜💥🤛 GPT-4 vs Claude-2 context recall analysis",
-  "description": "In today’s rapidly advancing AI world, one of the limiting factors of modern Large Language Models...",
-  "cover_image": "",
-  "slug": "gpt-4-vs-claude-2-context-recall-analysis-84g",
-  "url": "https://dev.to/zvone187/gpt-4-vs-claude-2-context-recall-analysis-84g",
-  "publish_date": "2023-12-05",
-  "published_at": "2023-12-05T15:10:48Z"
- },
- {
-  "id": 1688490,
-  "title": "Develop the right thing every time and become a 10x engineer 🏆: The art of writing RFCs 🥋",
-  "description": "Imagine you’ve been tasked to implement a crucial new feature in the product you’re working on....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yBCllyOq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h52j7hxuvvq89db1o201.png",
-  "slug": "develop-the-right-thing-every-time-and-become-a-10x-engineer-the-art-of-writing-rfcs-2mc6",
-  "url": "https://dev.to/wasp/develop-the-right-thing-every-time-and-become-a-10x-engineer-the-art-of-writing-rfcs-2mc6",
-  "publish_date": "2023-12-05",
-  "published_at": "2023-12-05T13:11:40Z"
- },
- {
-  "id": 1688527,
-  "title": "How keepHQ got their first 2,000 stars!",
-  "description": "I enjoyed talking to Tal, CEO and co-founder at Keep. It started as a CLI tool and, over time, became...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--q_gsumVX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/m42dk2e3wyafo3irz8c8.png",
-  "slug": "how-keephq-got-their-first-2000-stars-l7i",
-  "url": "https://dev.to/github20k/how-keephq-got-their-first-2000-stars-l7i",
-  "publish_date": "2023-12-05",
-  "published_at": "2023-12-05T11:51:23Z"
- },
- {
-  "id": 1688392,
-  "title": "Convert a Color – HEX, RGB, HSL, CMYK",
-  "description": "We've created an HTML color converter for you to know all of your color values, HEX, RGB, HSL, CMYK...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UWU_S9kH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gc6jhkvnqsyytepy5gho.jpg",
-  "slug": "convert-a-color-hex-rgb-hsl-cmyk-4kpf",
-  "url": "https://dev.to/colortools/convert-a-color-hex-rgb-hsl-cmyk-4kpf",
-  "publish_date": "2023-12-05",
-  "published_at": "2023-12-05T10:05:10Z"
- },
- {
-  "id": 1688389,
-  "title": "19 Essential Tools to Improve Your Developer Workflow 👍💯",
-  "description": "As developers, we navigate through a myriad of tasks, grapple with complex projects, and troubleshoot...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CkduMWds--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zvvhhx8xval37o3j4krl.png",
-  "slug": "19-essential-tools-to-improve-your-developer-workflow-4fi0",
-  "url": "https://dev.to/madza/19-essential-tools-to-improve-your-developer-workflow-4fi0",
-  "publish_date": "2023-12-05",
-  "published_at": "2023-12-05T09:56:19Z"
  }
 ]
