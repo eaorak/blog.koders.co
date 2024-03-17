@@ -1,5 +1,55 @@
 [
  {
+  "id": 1792376,
+  "title": "🧙‍♂️Master JavaScript with these 5 GitHub repositories🪄✨🚀",
+  "description": "This article contains a list of 5 GitHub repositories that are going to be useful for JavaScript...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7l2ivayfx18p2t7hvjs0.png",
+  "slug": "master-javascript-with-these-5-github-repositories-5g30",
+  "url": "https://dev.to/ziontutorial/master-javascript-with-these-5-github-repositories-5g30",
+  "publish_date": "2024-03-16",
+  "published_at": "2024-03-16T16:42:16Z"
+ },
+ {
+  "id": 1778275,
+  "title": "Copy Objects Ways in JavaScript",
+  "description": "To copy objects in JavaScript, you typically have three options: using the assignment operator (=)...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffjfrh7qsbhje1exy9p06.jpg",
+  "slug": "copy-objects-ways-in-javascript-24gj",
+  "url": "https://dev.to/fpaghar/copy-objects-ways-in-javascript-24gj",
+  "publish_date": "2024-03-16",
+  "published_at": "2024-03-16T12:59:40Z"
+ },
+ {
+  "id": 1792234,
+  "title": "Go Frameworks",
+  "description": "I recently started learning Go and found that these are the frameworks in Go:   Fiber Gin...",
+  "cover_image": "",
+  "slug": "go-frameworks-hoi",
+  "url": "https://dev.to/nandinishinduja/go-frameworks-hoi",
+  "publish_date": "2024-03-16",
+  "published_at": "2024-03-16T11:40:14Z"
+ },
+ {
+  "id": 1792228,
+  "title": "Testing Frameworks",
+  "description": "Recently I got a performance testing and unit testing task at work. And I had never done testing...",
+  "cover_image": "",
+  "slug": "testing-frameworks-29lp",
+  "url": "https://dev.to/nandinishinduja/testing-frameworks-29lp",
+  "publish_date": "2024-03-16",
+  "published_at": "2024-03-16T11:31:27Z"
+ },
+ {
+  "id": 1790230,
+  "title": "Accessibility Checks with Jetpack Compose Previews",
+  "description": "Now that Android Studio Iguana is out and stable, I wanted to write about one feature it provides and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F82p7oqqgi966aoeppmfw.png",
+  "slug": "accessibility-checks-with-jetpack-compose-previews-1fk3",
+  "url": "https://dev.to/eevajonnapanula/accessibility-checks-with-jetpack-compose-previews-1fk3",
+  "publish_date": "2024-03-16",
+  "published_at": "2024-03-16T08:17:00Z"
+ },
+ {
   "id": 1791560,
   "title": "AI and the Future of Actually Getting a Job",
   "description": "The future of employment is a broad and poignant topic these days, and although I'm optimistic in the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/aaravpatel1985/mysql-beginners-guide-4mb3",
   "publish_date": "2023-12-07",
   "published_at": "2023-12-07T04:44:51Z"
- },
- {
-  "id": 1688488,
-  "title": "🧙‍♂️ Generate blogs with ChatGPT assistant 🪄 ✨",
-  "description": "TL;DR   We have all seen what ChatGPT can do (it’s not new to anybody).  So many articles...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--nZUYtOQr--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ow0niqmowt99ctqs2drb.gif",
-  "slug": "generate-blogs-with-chatgpt-assistant-1894",
-  "url": "https://dev.to/triggerdotdev/generate-blogs-with-chatgpt-assistant-1894",
-  "publish_date": "2023-12-06",
-  "published_at": "2023-12-06T15:02:29Z"
- },
- {
-  "id": 1688775,
-  "title": "⚡⚡ Level Up Your Cloud Experience with These 7 Open Source Projects 🌩️",
-  "description": "The seven open-source projects I will mention are not only essential tools for cloud-native...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W40__n5f--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jmbmzx9lcgkmfu46pbql.gif",
-  "slug": "level-up-your-cloud-experience-with-these-7-open-source-projects-37p8",
-  "url": "https://dev.to/nathan_tarbert/level-up-your-cloud-experience-with-these-7-open-source-projects-37p8",
-  "publish_date": "2023-12-06",
-  "published_at": "2023-12-06T14:08:54Z"
- },
- {
-  "id": 1689041,
-  "title": "5 Serverless Best Practices to Become a Skilled Cloud Architect",
-  "description": "Discovers 5 serverless best practices that will help you build faster, cheaper, greener, more secure and stable serverless applications on AWS, using sls-mentor",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--acuOW9hY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/sls-mentor/5-best-practices/assets/cover-image.png",
-  "slug": "5-serverless-best-practices-to-become-a-skilled-cloud-architect-5dej",
-  "url": "https://dev.to/slsbytheodo/5-serverless-best-practices-to-become-a-skilled-cloud-architect-5dej",
-  "publish_date": "2023-12-06",
-  "published_at": "2023-12-06T13:58:11Z"
- },
- {
-  "id": 1682714,
-  "title": "Custom Fields: Give Your Customers the Fields They Need",
-  "description": "Each agency is different (think type, size, services they offer…), so they need customization options for their workflows. You can imagine it's pretty tough to model all those needs through a unified data model. If only there were a way...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ajJpXjy1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wykyzawnfphsbvf3o92p.png",
-  "slug": "custom-fields-give-your-customers-the-fields-they-need-41pi",
-  "url": "https://dev.to/productive/custom-fields-give-your-customers-the-fields-they-need-41pi",
-  "publish_date": "2023-12-06",
-  "published_at": "2023-12-06T10:20:00Z"
- },
- {
-  "id": 1685085,
-  "title": "Decoupling Deployment From Release With Feature Toggles",
-  "description": "Deploying new features is a nerve-racking task, but it must be done.  Here’s an issue we’ve all faced...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MDBQvoNM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gcsfbag7wmywjx6nl1du.jpg",
-  "slug": "decoupling-deployment-from-release-with-feature-toggles-7lo",
-  "url": "https://dev.to/productive/decoupling-deployment-from-release-with-feature-toggles-7lo",
-  "publish_date": "2023-12-06",
-  "published_at": "2023-12-06T09:47:41Z"
  }
 ]
