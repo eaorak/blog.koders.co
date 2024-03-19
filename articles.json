@@ -1,5 +1,55 @@
 [
  {
+  "id": 1794282,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-nmg",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg",
+  "publish_date": "2024-03-18",
+  "published_at": "2024-03-18T20:12:37Z"
+ },
+ {
+  "id": 1794263,
+  "title": "RAG observability in 2 lines of code with Llama Index \u0026 Langfuse",
+  "description": "Why you need observability for RAG   There are so many different ways to make RAG work for a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgxvp4zn882cn4l26xir1.png",
+  "slug": "rag-observability-in-2-lines-of-code-with-llama-index-langfuse-51pa",
+  "url": "https://dev.to/clemra/rag-observability-in-2-lines-of-code-with-llama-index-langfuse-51pa",
+  "publish_date": "2024-03-18",
+  "published_at": "2024-03-18T19:34:03Z"
+ },
+ {
+  "id": 1794006,
+  "title": "Should You Specialize Or Not? Solving A Developer's Dilemma",
+  "description": "Are you feeling stuck?   You spend hours doing courses and side projects. You go to Meetups, you read...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytuy64iqjrv7rbzov515.png",
+  "slug": "should-you-specialize-or-not-solving-a-developers-dilemma-ge7",
+  "url": "https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7",
+  "publish_date": "2024-03-18",
+  "published_at": "2024-03-18T15:44:07Z"
+ },
+ {
+  "id": 1793081,
+  "title": "Enhance Your Project Quality with These Top Python Libraries",
+  "description": "In the ever-evolving landscape of software development, Python has emerged as a language of choice...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jqvgmeatleoonfufpzv.png",
+  "slug": "enhance-your-project-quality-with-these-top-python-libraries-2ln5",
+  "url": "https://dev.to/mrkandreev/enhance-your-project-quality-with-these-top-python-libraries-2ln5",
+  "publish_date": "2024-03-18",
+  "published_at": "2024-03-18T14:15:00Z"
+ },
+ {
+  "id": 1793832,
+  "title": "Simplifying AI Integration: Insights from Taipy's Journey",
+  "description": "In the burgeoning realm of AI and data science, the journey from conception to successful...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhkr6455crpz4ixvxig2o.png",
+  "slug": "simplifying-ai-integration-insights-from-taipys-journey-31i8",
+  "url": "https://dev.to/taipy/simplifying-ai-integration-insights-from-taipys-journey-31i8",
+  "publish_date": "2024-03-18",
+  "published_at": "2024-03-18T13:32:42Z"
+ },
+ {
   "id": 1775686,
   "title": "Engenharia Reversa: Primeiro Contato - Parte 1",
   "description": "Você vai praticar engenharia reversa pela primeira vez. \"Engenharia reversa\", na área de T.I....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c",
   "publish_date": "2023-12-09",
   "published_at": "2023-12-09T01:20:03Z"
- },
- {
-  "id": 1691983,
-  "title": "Changelog: Updating the Stats Page",
-  "description": "We're working on several significant feature improvements here at DEV, including making the feed more...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--2kgnTrCD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/po2yq7y6hy9r6l5964o1.png",
-  "slug": "changelog-updating-the-stats-page-dp0",
-  "url": "https://dev.to/devteam/changelog-updating-the-stats-page-dp0",
-  "publish_date": "2023-12-08",
-  "published_at": "2023-12-08T14:55:22Z"
- },
- {
-  "id": 1692094,
-  "title": "Faster testing with Angular and Vitest ⚡️",
-  "description": "In the Angular ecosystem, there are a few recommended tools used to run unit tests including Karma,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZB7PQ-lK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ctvhufxj3f91apaz2abf.png",
-  "slug": "faster-testing-with-angular-and-vitest-274n",
-  "url": "https://dev.to/brandontroberts/faster-testing-with-angular-and-vitest-274n",
-  "publish_date": "2023-12-08",
-  "published_at": "2023-12-08T14:40:37Z"
- },
- {
-  "id": 1691991,
-  "title": "Five tools to add to your K8s cluster",
-  "description": "‍ Kubernetes has become the go-to platform for managing containerized applications, offering...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9BHNH8G7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u71kab7ucqmlvjd8fba4.png",
-  "slug": "five-tools-to-add-to-your-k8s-cluster-2j89",
-  "url": "https://dev.to/cyclops-ui/five-tools-to-add-to-your-k8s-cluster-2j89",
-  "publish_date": "2023-12-08",
-  "published_at": "2023-12-08T12:46:25Z"
- },
- {
-  "id": 1691905,
-  "title": "The Conundrum of the \"Top X\" Articles 🤔",
-  "description": "In the vast ocean of programming and technology, we all strive to stay afloat. DEV has emerged as one...",
-  "cover_image": "",
-  "slug": "the-conundrum-of-the-top-x-articles-l55",
-  "url": "https://dev.to/rgolawski/the-conundrum-of-the-top-x-articles-l55",
-  "publish_date": "2023-12-08",
-  "published_at": "2023-12-08T10:53:36Z"
- },
- {
-  "id": 1691732,
-  "title": "Get started with Cerbos Hub",
-  "description": "Managing permissions and authorization for SaaS applications is a critical challenge that developers,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fHIT2Cxf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/br77q94jjxgwtd5ln3ux.png",
-  "slug": "get-started-with-cerbos-hub-8n3",
-  "url": "https://dev.to/cerbos/get-started-with-cerbos-hub-8n3",
-  "publish_date": "2023-12-08",
-  "published_at": "2023-12-08T07:12:27Z"
  }
 ]
