@@ -1,5 +1,55 @@
 [
  {
+  "id": 1795545,
+  "title": "Adding Clerk Authentication to a NextJS App",
+  "description": "I’m the type that needs a realistic project to work on if I’m going to understand a platform.  So I...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6rwfjrunzotp58kg1yro.jpeg",
+  "slug": "adding-clerk-auth-to-a-nextjs-app-2n9c",
+  "url": "https://dev.to/brianmmdev/adding-clerk-auth-to-a-nextjs-app-2n9c",
+  "publish_date": "2024-03-19",
+  "published_at": "2024-03-19T20:15:43Z"
+ },
+ {
+  "id": 1795338,
+  "title": "What is RAG (Retrieval-Augmented Generation)?",
+  "description": "Retrieval-augmented generation (RAG) integrates external information retrieval into the process of...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu072zeli6r2f7jmpdhha.jpg",
+  "slug": "what-is-rag-understanding-retrieval-augmented-generation-534n",
+  "url": "https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n",
+  "publish_date": "2024-03-19",
+  "published_at": "2024-03-19T16:47:57Z"
+ },
+ {
+  "id": 1795284,
+  "title": "How to Build Your Open Source Dream Team: A Guide",
+  "description": "If you want to learn how to build your open source project dream team, look no further. This guide shares a checklist and questions to help you determine your needs and identify the right people.",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fov2p3p1ohqhktsd7eiof.png",
+  "slug": "how-to-build-your-open-source-dream-team-a-guide-3i90",
+  "url": "https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90",
+  "publish_date": "2024-03-19",
+  "published_at": "2024-03-19T15:37:44Z"
+ },
+ {
+  "id": 1795229,
+  "title": "Why we're changing our hiring process 🚀🎸",
+  "description": "Identifying high potential talent   The Beatles are probably one of the greatest bands to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmlpnrvrj4r6b3itmsrg.jpg",
+  "slug": "why-we-changed-our-hiring-process-at-hyperswitch-157",
+  "url": "https://dev.to/hyperswitchio/why-we-changed-our-hiring-process-at-hyperswitch-157",
+  "publish_date": "2024-03-19",
+  "published_at": "2024-03-19T15:12:15Z"
+ },
+ {
+  "id": 1795190,
+  "title": "I will always support you! Share my experience of being sexually assaulted.",
+  "description": "‼️trigger warning: This article contains images of sexist assaults.  I was sexually assaulted by...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhrjctv2uzggs02c8c33w.jpeg",
+  "slug": "i-will-always-support-you-share-my-experience-of-being-sexually-assaulted-4idd",
+  "url": "https://dev.to/rhaenyraliang/i-will-always-support-you-share-my-experience-of-being-sexually-assaulted-4idd",
+  "publish_date": "2024-03-19",
+  "published_at": "2024-03-19T13:27:45Z"
+ },
+ {
   "id": 1794282,
   "title": "Top 7 Featured DEV Posts of the Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ghulam/7-sql-coding-questions-for-data-analysts-and-data-scientists-d7d",
   "publish_date": "2023-12-10",
   "published_at": "2023-12-10T02:41:07Z"
- },
- {
-  "id": 1692677,
-  "title": "Adding AI ✨ To Your Enterprise with Swirl: Search Smarter, Better, and Faster ⚡️",
-  "description": "The Problem with Traditional Search   The traditional approach is the lift and shift of data...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qRql-hAF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fefrfswn8r9pwbpnzq4m.png",
-  "slug": "adding-ai-to-your-enterprise-with-swirl-search-smarter-better-and-faster-4f9b",
-  "url": "https://dev.to/swirl/adding-ai-to-your-enterprise-with-swirl-search-smarter-better-and-faster-4f9b",
-  "publish_date": "2023-12-09",
-  "published_at": "2023-12-09T14:44:48Z"
- },
- {
-  "id": 1691622,
-  "title": "✨23 Open-Source libraries to launch your portfolio (to the moon)🚀🚀",
-  "description": "Contributing to a great open-source library is a great way to establish a portfolio.   I've compiled...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--QIo-UBP8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w08ivgkh2h6qiuvo7eg1.gif",
-  "slug": "23-open-source-libraries-to-launch-your-portfolio-to-the-moon-fe",
-  "url": "https://dev.to/copilotkit/23-open-source-libraries-to-launch-your-portfolio-to-the-moon-fe",
-  "publish_date": "2023-12-09",
-  "published_at": "2023-12-09T13:47:52Z"
- },
- {
-  "id": 1692735,
-  "title": "Prompt Chaining with AiConfig",
-  "description": "Introduction   In thing blog post, you will be guided with the prompt chaining techniques...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Rrf_70Fk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jy79rilu0gmy25muvpjd.png",
-  "slug": "prompt-chaining-with-aiconfig-4afm",
-  "url": "https://dev.to/ranjancse/prompt-chaining-with-aiconfig-4afm",
-  "publish_date": "2023-12-09",
-  "published_at": "2023-12-09T10:28:07Z"
- },
- {
-  "id": 1692675,
-  "title": "I used CodiumAI's PR Agent, and I love it",
-  "description": "Recently, I started developing a PyTorch-esque library for educational purposes to know what goes...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Y_WiU_Hx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u5vzpixh0wcmbu3ngp4p.jpg",
-  "slug": "i-used-codiumais-pr-agent-and-i-love-it-1nb8",
-  "url": "https://dev.to/akshayballal/i-used-codiumais-pr-agent-and-i-love-it-1nb8",
-  "publish_date": "2023-12-09",
-  "published_at": "2023-12-09T08:38:50Z"
- },
- {
-  "id": 1692461,
-  "title": "Open Source alternatives to tools you Pay for",
-  "description": "Open Source Eats the Software  I created osssoftware.org with a focus on:   Winners of PH Best dev...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gQR-5aE5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/89fciero9877z86xsk55.png",
-  "slug": "open-source-alternatives-to-tools-you-pay-for-1g9c",
-  "url": "https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c",
-  "publish_date": "2023-12-09",
-  "published_at": "2023-12-09T01:20:03Z"
  }
 ]
