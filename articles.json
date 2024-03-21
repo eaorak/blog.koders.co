@@ -1,5 +1,55 @@
 [
  {
+  "id": 1795626,
+  "title": "Join Our First Community Challenge: The Frontend Challenge",
+  "description": "We are excited to launch our first official DEV Challenge: The Frontend Challenge!  Running through...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjfwaylumsyrf5t3upl4v.jpg",
+  "slug": "join-our-first-community-challenge-the-frontend-challenge-8be",
+  "url": "https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be",
+  "publish_date": "2024-03-20",
+  "published_at": "2024-03-20T17:24:48Z"
+ },
+ {
+  "id": 1796390,
+  "title": "Python for AI : Cheatlist",
+  "description": "TL;DR   Getting into AI and ML without using Python is very difficult and, might I say, say,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ryrldtyjl2tur0qdcur.gif",
+  "slug": "python-for-ai-cheatlist-33ec",
+  "url": "https://dev.to/taipy/python-for-ai-cheatlist-33ec",
+  "publish_date": "2024-03-20",
+  "published_at": "2024-03-20T16:15:40Z"
+ },
+ {
+  "id": 1795258,
+  "title": "A 100% AI-driven web dev workflow, as good as Devin: MAGE x Aider",
+  "description": "TL;DR   Devin, the self-proclaimed “first” fully autonomous software engineer just popped...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ok05j62ejzo92gp0gsk.png",
+  "slug": "a-100-ai-driven-workflow-thats-probably-as-good-as-devin-4c67",
+  "url": "https://dev.to/wasp/a-100-ai-driven-workflow-thats-probably-as-good-as-devin-4c67",
+  "publish_date": "2024-03-20",
+  "published_at": "2024-03-20T14:00:00Z"
+ },
+ {
+  "id": 1776946,
+  "title": "17 Libraries You Should Know if You Build with React",
+  "description": "TL;DR   I have gathered React libraries you should know about to build many different types...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frcniq9ik1qklt7qizb7u.gif",
+  "slug": "libraries-you-should-know-if-you-build-with-react-1807",
+  "url": "https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807",
+  "publish_date": "2024-03-20",
+  "published_at": "2024-03-20T12:36:30Z"
+ },
+ {
+  "id": 1795679,
+  "title": "Goodbye SASS 👋, welcome back native CSS",
+  "description": "Sass has established itself as a powerful preprocessor installed locally, forming the backbone of my...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsfwcuwxjbgyysk5xhzw.png",
+  "slug": "goodbye-sass-welcome-back-native-css-cf",
+  "url": "https://dev.to/karsten_biedermann/goodbye-sass-welcome-back-native-css-cf",
+  "publish_date": "2024-03-20",
+  "published_at": "2024-03-20T10:39:53Z"
+ },
+ {
   "id": 1795545,
   "title": "Adding Clerk Authentication to a NextJS App",
   "description": "I’m the type that needs a realistic project to work on if I’m going to understand a platform.  So I...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/best_codes/25-reasons-you-must-know-why-listicles-are-bad-for-devto-1hok",
   "publish_date": "2023-12-11",
   "published_at": "2023-12-11T02:53:21Z"
- },
- {
-  "id": 1693450,
-  "title": "33 Christmas Animations to Easily Add to Your Website",
-  "description": "Yes, it's already that time of year. Whether you love or hate Christmas, a small Christmas CSS...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CapXW2TS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6pkb5drd8rvla7shwr1o.png",
-  "slug": "33-christmas-animations-to-easily-add-to-your-website-48l5",
-  "url": "https://dev.to/perssondennis/33-christmas-animations-to-easily-add-to-your-website-48l5",
-  "publish_date": "2023-12-10",
-  "published_at": "2023-12-10T15:11:37Z"
- },
- {
-  "id": 1693456,
-  "title": "Building a Type-Safe Go Backend for a React Web App",
-  "description": "In this short guide we'll create and deploy a Go backend for a web app with a React frontend. We'll...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YEVKA9rx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/izpjtmgpztn8ys5axpkq.png",
-  "slug": "building-a-type-safe-go-backend-for-a-react-web-app-3hmf",
-  "url": "https://dev.to/encore/building-a-type-safe-go-backend-for-a-react-web-app-3hmf",
-  "publish_date": "2023-12-10",
-  "published_at": "2023-12-10T11:11:06Z"
- },
- {
-  "id": 1693413,
-  "title": "10 GitHub Repos to Improve as a Backend Engineer",
-  "description": "This post will cover 10 GitHub Repositories that will help you to become a better Backend...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HZzy6XCE--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/48ujkvc8h2y27pza5tb6.png",
-  "slug": "10-github-repos-to-improve-as-a-backend-engineer-4lmi",
-  "url": "https://dev.to/durgesh4993/10-github-repos-to-improve-as-a-backend-engineer-4lmi",
-  "publish_date": "2023-12-10",
-  "published_at": "2023-12-10T09:00:44Z"
- },
- {
-  "id": 1693315,
-  "title": "Simplifying ETL Pipelines with SQL: Three Tips for Data Processing",
-  "description": "Recently, I have been asked how to simplify our ETL pipeline so that customers can quickly visualize...",
-  "cover_image": "",
-  "slug": "simplifying-etl-pipelines-with-sql-three-tips-for-data-processing-4goc",
-  "url": "https://dev.to/priyagupta0112/simplifying-etl-pipelines-with-sql-three-tips-for-data-processing-4goc",
-  "publish_date": "2023-12-10",
-  "published_at": "2023-12-10T03:58:01Z"
- },
- {
-  "id": 1693297,
-  "title": "7 SQL Coding Questions for Data Analysts and Data Scientists",
-  "description": "SQL proficiency is a critical skill for data analysts and data scientists, and SQL coding interviews...",
-  "cover_image": "",
-  "slug": "7-sql-coding-questions-for-data-analysts-and-data-scientists-d7d",
-  "url": "https://dev.to/ghulam/7-sql-coding-questions-for-data-analysts-and-data-scientists-d7d",
-  "publish_date": "2023-12-10",
-  "published_at": "2023-12-10T02:41:07Z"
  }
 ]
