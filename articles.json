@@ -1,5 +1,55 @@
 [
  {
+  "id": 1797788,
+  "title": "Featured Org of the Month: Feministech",
+  "description": "In this brand-new series, we're featuring different organizations from across DEV!  We're lucky to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8kds4r0bbj0qo31dh0v.jpg",
+  "slug": "featured-org-of-the-month-feministech-39bb",
+  "url": "https://dev.to/devteam/featured-org-of-the-month-feministech-39bb",
+  "publish_date": "2024-03-22",
+  "published_at": "2024-03-22T20:06:20Z"
+ },
+ {
+  "id": 1798541,
+  "title": "The Frontend Challenge: 🍩 Donut eat my favorite snack!",
+  "description": "This is a submission for DEV Challenge v24.03.20, CSS Art: Favorite Snack.           Inspiration   I...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6x35utbp5sufsg2e4pw.jpg",
+  "slug": "the-frontend-challenge-donut-eat-my-favorite-snack-33b0",
+  "url": "https://dev.to/afif/the-frontend-challenge-donut-eat-my-favorite-snack-33b0",
+  "publish_date": "2024-03-22",
+  "published_at": "2024-03-22T19:13:56Z"
+ },
+ {
+  "id": 1797539,
+  "title": "👑 10 trending YC-backed OSS startups 🦾",
+  "description": "Hey friends, 👋  In this week's article, we're excited to unveil 10 trending YC companies to look out...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf9p1kvi076qa3c0d49u.gif",
+  "slug": "10-trending-yc-backed-oss-startups-4doc",
+  "url": "https://dev.to/quine/10-trending-yc-backed-oss-startups-4doc",
+  "publish_date": "2024-03-22",
+  "published_at": "2024-03-22T17:53:00Z"
+ },
+ {
+  "id": 1797316,
+  "title": "Tips to write automated tests with High-quality",
+  "description": "Automated tests is something very common in our days, but only write automated tests isn't enough if...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsnzoq0rmxuxrk3rljh0o.png",
+  "slug": "tips-to-write-automated-tests-with-high-quality-h8g",
+  "url": "https://dev.to/m4rri4nne/tips-to-write-automated-tests-with-high-quality-h8g",
+  "publish_date": "2024-03-22",
+  "published_at": "2024-03-22T13:27:38Z"
+ },
+ {
+  "id": 1775414,
+  "title": "What was your win this week?",
+  "description": "Hey folks! 😀  It's Friday again. Hope y'all have had a good week! 🙌  Looking back on this past week,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqiwx7vgxivwj8ck1o9d.jpg",
+  "slug": "what-was-your-win-this-week-1h57",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-1h57",
+  "publish_date": "2024-03-22",
+  "published_at": "2024-03-22T10:33:00Z"
+ },
+ {
   "id": 1797558,
   "title": "7 Tech Articles on How to Grow as Engineer",
   "description": "Here's a good list of tech articles to go over during the weekend:           Join Me   Read more...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/livecycle/how-to-get-preview-environments-for-every-pull-request-3fg0",
   "publish_date": "2023-12-13",
   "published_at": "2023-12-13T08:34:45Z"
- },
- {
-  "id": 1696015,
-  "title": "Edge Functions: Node and native npm compatibility",
-  "description": "We are excited to announce that Edge Functions now natively supports npm modules and Node built-in...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--TTnsb0bh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9vhledau9uoi5jghg3xs.png",
-  "slug": "edge-functions-node-and-native-npm-compatibility-77f",
-  "url": "https://dev.to/supabase/edge-functions-node-and-native-npm-compatibility-77f",
-  "publish_date": "2023-12-12",
-  "published_at": "2023-12-12T19:02:28Z"
- },
- {
-  "id": 1695807,
-  "title": "🖌️⚙️ Innovate Like Da Vinci: Blending Art and Science in Software Development",
-  "description": "We live in a bit of a crazy world nowadays! In the world of software, it's not just about fast-paced...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4hcXmZcj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3flwqxt6vz8l9wjz4h1o.jpg",
-  "slug": "innovate-like-da-vinci-blending-art-and-science-in-software-development-2b20",
-  "url": "https://dev.to/kiselitza/innovate-like-da-vinci-blending-art-and-science-in-software-development-2b20",
-  "publish_date": "2023-12-12",
-  "published_at": "2023-12-12T14:42:38Z"
- },
- {
-  "id": 1695201,
-  "title": "🔥 Top 12 libraries for your NextJS project 🏆",
-  "description": "I have been a full-stack developer for the last decade, building smaller projects like gitup and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zTNTxaCh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x9b8cdyzavq8i52rf0rz.gif",
-  "slug": "top-12-libraries-for-your-nextjs-project-1oob",
-  "url": "https://dev.to/nevodavid/top-12-libraries-for-your-nextjs-project-1oob",
-  "publish_date": "2023-12-12",
-  "published_at": "2023-12-12T11:47:39Z"
- },
- {
-  "id": 1694989,
-  "title": "Climbing the AI Application Value Ladder: 🤖🪜",
-  "description": "In the whirlwind of AI advancements, it's easy to get caught up in the hype. Many companies boast...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--CJc7_CNM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kaij1z6y9zg73876dnqp.jpeg",
-  "slug": "climbing-the-ai-application-value-ladder-4cf0",
-  "url": "https://dev.to/dawiddahl/climbing-the-ai-application-value-ladder-4cf0",
-  "publish_date": "2023-12-12",
-  "published_at": "2023-12-12T05:52:21Z"
- },
- {
-  "id": 1694897,
-  "title": "14 tips to write better Javascript",
-  "description": "Here are some of my favorite tips for writing cleaner Javascript code, skip the clever keep it...",
-  "cover_image": "",
-  "slug": "14-tips-to-write-better-javascript-gj0",
-  "url": "https://dev.to/melvinvmegen/14-tips-to-write-better-javascript-gj0",
-  "publish_date": "2023-12-12",
-  "published_at": "2023-12-12T01:56:23Z"
  }
 ]
