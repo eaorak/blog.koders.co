@@ -1,5 +1,55 @@
 [
  {
+  "id": 1801303,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-3hik",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hik",
+  "publish_date": "2024-03-25",
+  "published_at": "2024-03-25T19:41:21Z"
+ },
+ {
+  "id": 1786257,
+  "title": "Build a Full-Stack app using these React libraries and cloud backend.",
+  "description": "Today, we're going to learn how to build a full-stack app with Wing as a backend.    We will use...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ptyqwlcag5sjgqavvsp.gif",
+  "slug": "build-a-full-stack-app-using-these-react-libraries-and-cloud-backend-2o4b",
+  "url": "https://dev.to/winglang/build-a-full-stack-app-using-these-react-libraries-and-cloud-backend-2o4b",
+  "publish_date": "2024-03-25",
+  "published_at": "2024-03-25T13:30:03Z"
+ },
+ {
+  "id": 1800899,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn68fv9llblw1h7d01uj1.png",
+  "slug": "meme-monday-2ebl",
+  "url": "https://dev.to/ben/meme-monday-2ebl",
+  "publish_date": "2024-03-25",
+  "published_at": "2024-03-25T12:52:44Z"
+ },
+ {
+  "id": 1800811,
+  "title": "Kubectl Scale - DevOps Guide",
+  "description": "Introduction   Understanding Kubernetes Workloads  In Kubernetes, we deal with...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2hpmfoxzybpkh34816ol.png",
+  "slug": "kubectl-scale-devops-guide-4d7g",
+  "url": "https://dev.to/refine/kubectl-scale-devops-guide-4d7g",
+  "publish_date": "2024-03-25",
+  "published_at": "2024-03-25T10:56:20Z"
+ },
+ {
+  "id": 1760991,
+  "title": "Power Apps - Intakes",
+  "description": "The production journey can be a long one, and with LowCode it is often longer then the time taken to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhodf3gxr9uyo2x6fmodv.png",
+  "slug": "power-apps-intakes-55j5",
+  "url": "https://dev.to/wyattdave/power-apps-intakes-55j5",
+  "publish_date": "2024-03-25",
+  "published_at": "2024-03-25T06:59:22Z"
+ },
+ {
   "id": 1794902,
   "title": "Sorry Devin You Can't Replace our Jobs",
   "description": "Introduction   My name is Mojo, and I am an Anti Devin seasoned software engineer with over...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/chrischurilo/first-15-open-source-advent-projects-7d",
   "publish_date": "2023-12-16",
   "published_at": "2023-12-16T03:33:41Z"
- },
- {
-  "id": 1699048,
-  "title": "Introducing Read Replicas",
-  "description": "Today, we are launching support for Postgres Read Replicas. You can use Read Replicas...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Nwkki-kJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6f336m4idgt5b9bmx1a7.png",
-  "slug": "introducing-read-replicas-4j7j",
-  "url": "https://dev.to/supabase/introducing-read-replicas-4j7j",
-  "publish_date": "2023-12-15",
-  "published_at": "2023-12-15T16:09:27Z"
- },
- {
-  "id": 1699025,
-  "title": "5 Open Source tools written in Golang that you should know about",
-  "description": "Most modern backend developers absolutely LOVE golang.   Developers continue to build simple, secure,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--yTdrQo6e--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/88if5tox4oyfznc2pju4.png",
-  "slug": "5-open-source-tools-written-in-golang-that-you-should-know-about-3jad",
-  "url": "https://dev.to/digger/5-open-source-tools-written-in-golang-that-you-should-know-about-3jad",
-  "publish_date": "2023-12-15",
-  "published_at": "2023-12-15T15:23:43Z"
- },
- {
-  "id": 1685247,
-  "title": "🚀 Lambda Test Revolution: Master Mocking \u0026 Slash Costs with HTTP-Interceptor!",
-  "description": "Serverless lambda integration tests http intercept mock",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--rk8jRemp--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/MaximeVivier/Articles/master/blog-posts/lambda-http-interceptor/banner.png",
-  "slug": "lambda-test-revolution-master-mocking-slash-costs-with-http-interceptor-1i9l",
-  "url": "https://dev.to/slsbytheodo/lambda-test-revolution-master-mocking-slash-costs-with-http-interceptor-1i9l",
-  "publish_date": "2023-12-15",
-  "published_at": "2023-12-15T12:47:11Z"
- },
- {
-  "id": 1696689,
-  "title": "🫵 5 achievable side hustles for developers💰",
-  "description": "Hey there 👋  In your journey as a developer, the common way to make money is by securing a full-time...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9dsBO1-W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r7xftwt9egmv63xkvccf.gif",
-  "slug": "5-achievable-side-hustles-for-developers-4bcg",
-  "url": "https://dev.to/quine/5-achievable-side-hustles-for-developers-4bcg",
-  "publish_date": "2023-12-15",
-  "published_at": "2023-12-15T10:54:57Z"
- },
- {
-  "id": 1685312,
-  "title": "A Close Call with Real-Time: How Rethinking Pub-Sub Saved the Day",
-  "description": "All of this started while I was working on our new feature -  Automations 🤖. In a nutshell,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r1bXM3hR--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jw5dovmms8dcscrenkpf.png",
-  "slug": "a-close-call-with-real-time-how-rethinking-pub-sub-saved-the-day-52kp",
-  "url": "https://dev.to/productive/a-close-call-with-real-time-how-rethinking-pub-sub-saved-the-day-52kp",
-  "publish_date": "2023-12-15",
-  "published_at": "2023-12-15T08:43:10Z"
  }
 ]
