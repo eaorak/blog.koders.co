@@ -1,5 +1,55 @@
 [
  {
+  "id": 1795138,
+  "title": "Database for newbies: Hands On",
+  "description": "Knowing how to deal with databases are really important for every developer, so I will guide you...",
+  "cover_image": "",
+  "slug": "database-for-newbies-3a9f",
+  "url": "https://dev.to/basementdevs/database-for-newbies-3a9f",
+  "publish_date": "2024-03-26",
+  "published_at": "2024-03-26T18:00:00Z"
+ },
+ {
+  "id": 1802251,
+  "title": "Kubernetes Through the Developer's Perspective",
+  "description": "We perceive things by the way we interact with and understand them. To an infrastructure team,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiu95akh0bs40jfjzlptl.jpeg",
+  "slug": "kubernetes-through-the-developers-perspective-38lf",
+  "url": "https://dev.to/cyclops-ui/kubernetes-through-the-developers-perspective-38lf",
+  "publish_date": "2024-03-26",
+  "published_at": "2024-03-26T16:43:30Z"
+ },
+ {
+  "id": 1801066,
+  "title": "10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨",
+  "description": "It’s well-established that Discord is a great platform for Developer communities. What’s less...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhv0hx0hv9vq63g94vim7.png",
+  "slug": "10-steps-to-build-a-top-tier-discord-server-for-your-open-source-community-4cog",
+  "url": "https://dev.to/jakepage91/10-steps-to-build-a-top-tier-discord-server-for-your-open-source-community-4cog",
+  "publish_date": "2024-03-26",
+  "published_at": "2024-03-26T14:36:49Z"
+ },
+ {
+  "id": 1801911,
+  "title": "Finding the Inspiration to Build",
+  "description": "Hey, I'm Vince...     I’m a self-taught developer that changed careers during the Covid...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fns3ygfzq0jw4tcv3ixz6.png",
+  "slug": "finding-the-inspiration-to-build-3p4n",
+  "url": "https://dev.to/wasp/finding-the-inspiration-to-build-3p4n",
+  "publish_date": "2024-03-26",
+  "published_at": "2024-03-26T13:05:08Z"
+ },
+ {
+  "id": 1801698,
+  "title": "My new open-source repository to schedule all your content!",
+  "description": "Hi there, community! A few years ago, I shared my story of closing my previous startup and making it...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa1p81jf3b2q8z96fbbmo.png",
+  "slug": "my-new-open-source-repository-to-schedule-all-your-content-2f2a",
+  "url": "https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-2f2a",
+  "publish_date": "2024-03-26",
+  "published_at": "2024-03-26T08:23:14Z"
+ },
+ {
   "id": 1801303,
   "title": "Top 7 Featured DEV Posts of the Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sakeenanavi/harnessing-the-potential-of-apis-a-deep-dive-into-postman-api-101-4n4h",
   "publish_date": "2023-12-17",
   "published_at": "2023-12-17T01:33:03Z"
- },
- {
-  "id": 1674447,
-  "title": "HTML can do this? Part 1",
-  "description": "Welcome to my HTML can do this series, part 1.  In keeping with my GitHub-Can-Do-This series, today I...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--9fOTBcLS--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5x1vnhwah5lwpat7hw24.png",
-  "slug": "html-can-do-this-part-1-3ab2",
-  "url": "https://dev.to/yuridevat/html-can-do-this-part-1-3ab2",
-  "publish_date": "2023-12-16",
-  "published_at": "2023-12-16T15:01:00Z"
- },
- {
-  "id": 1699767,
-  "title": "🌟 #DEVImpact2023 Reflections",
-  "description": "Proud Moments   This year I was invited to two colleges for conducting tech workshops. One...",
-  "cover_image": "",
-  "slug": "devimpact2023-reflections-2ahb",
-  "url": "https://dev.to/nandinishinduja/devimpact2023-reflections-2ahb",
-  "publish_date": "2023-12-16",
-  "published_at": "2023-12-16T12:27:29Z"
- },
- {
-  "id": 1699659,
-  "title": "Kubectl Cheat Sheet - With Examples",
-  "description": "Introduction   Kubernetes is a famous container orchestration tool that is very...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--W8fh0Sy5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/a7q42z3i55n14hztnyhu.png",
-  "slug": "kubectl-cheat-sheet-with-examples-4e6l",
-  "url": "https://dev.to/refine/kubectl-cheat-sheet-with-examples-4e6l",
-  "publish_date": "2023-12-16",
-  "published_at": "2023-12-16T08:28:41Z"
- },
- {
-  "id": 1699566,
-  "title": "Why a SQL Statement Often Consists of Hundreds of Lines, Measured by KBs？",
-  "description": "Obviously, one of the original purposes of SQL is to make data query processing easy. The language...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--46eEJAz1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/537gwpt2annv8dc087i8.jpeg",
-  "slug": "why-a-sql-statement-often-consists-of-hundreds-of-lines-measured-by-kbs-35o",
-  "url": "https://dev.to/vivi9876/why-a-sql-statement-often-consists-of-hundreds-of-lines-measured-by-kbs-35o",
-  "publish_date": "2023-12-16",
-  "published_at": "2023-12-16T04:30:09Z"
- },
- {
-  "id": 1699547,
-  "title": "First 15 Open Source Advent projects",
-  "description": "Just 10 days to go!   We launched Open Source Advent at the begininng of this month to...",
-  "cover_image": "",
-  "slug": "first-15-open-source-advent-projects-7d",
-  "url": "https://dev.to/chrischurilo/first-15-open-source-advent-projects-7d",
-  "publish_date": "2023-12-16",
-  "published_at": "2023-12-16T03:33:41Z"
  }
 ]
