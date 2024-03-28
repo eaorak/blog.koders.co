@@ -1,5 +1,55 @@
 [
  {
+  "id": 1803134,
+  "title": "How I would learn DevOps if I could start over 🐳",
+  "description": "Hello, I am Lara. I am a senior DevOps and Cloud Engineer and Architect at EngioTech. If you wish to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsqdpg8t10nojfi60dktd.gif",
+  "slug": "how-i-would-learn-devops-if-i-could-start-over-5amp",
+  "url": "https://dev.to/larastewart_engdev/how-i-would-learn-devops-if-i-could-start-over-5amp",
+  "publish_date": "2024-03-27",
+  "published_at": "2024-03-27T13:08:28Z"
+ },
+ {
+  "id": 1802887,
+  "title": "10 Methods for Vertical Alignment Using CSS",
+  "description": "Introduction   Vertically aligning HTML contents in CSS has always been a...",
+  "cover_image": "",
+  "slug": "10-methods-for-vertical-alignment-using-css-3okc",
+  "url": "https://dev.to/refine/10-methods-for-vertical-alignment-using-css-3okc",
+  "publish_date": "2024-03-27",
+  "published_at": "2024-03-27T09:40:17Z"
+ },
+ {
+  "id": 1799114,
+  "title": "Building for Accessibility",
+  "description": "Many of us (developers) live with little to no disabilities. But can you imagine watching a movie...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfzbuoioraxn90w7e25s.png",
+  "slug": "building-for-accessibility-3gke",
+  "url": "https://dev.to/nonsoo24/building-for-accessibility-3gke",
+  "publish_date": "2024-03-27",
+  "published_at": "2024-03-27T07:46:52Z"
+ },
+ {
+  "id": 1801155,
+  "title": "Does Stress Lead to Personal Growth and Resilience?",
+  "description": "What role can stress play in personal development and resilience?   Follow the DEVteam for more...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9cilxxtnr1oecdgh45.png",
+  "slug": "does-stress-lead-to-personal-growth-and-resilience-44e0",
+  "url": "https://dev.to/devteam/does-stress-lead-to-personal-growth-and-resilience-44e0",
+  "publish_date": "2024-03-27",
+  "published_at": "2024-03-27T07:00:00Z"
+ },
+ {
+  "id": 1802545,
+  "title": "Criando um Design System reutilizável entre React e React Native com Tamagui",
+  "description": "TLDR;   Você pode conferir o repositório gerado por esse artigo clicando aqui.           🚀...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faok2ixuogxh0ryumvqq1.png",
+  "slug": "criando-um-design-system-reutilizavel-entre-react-e-react-native-com-tamagui-44pi",
+  "url": "https://dev.to/devhat/criando-um-design-system-reutilizavel-entre-react-e-react-native-com-tamagui-44pi",
+  "publish_date": "2024-03-27",
+  "published_at": "2024-03-27T00:14:50Z"
+ },
+ {
   "id": 1795138,
   "title": "Database for newbies: Hands On",
   "description": "Knowing how to deal with databases are really important for every developer, so I will guide you...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cyclops-ui/complexity-by-simplicity-a-deep-dive-into-kubernetes-components-4l59",
   "publish_date": "2023-12-18",
   "published_at": "2023-12-18T12:12:24Z"
- },
- {
-  "id": 1700479,
-  "title": "Simplify, Groupify, Conquer: The convenience of Object.GroupBy() in JavaScript",
-  "description": "It was a regular day of coding when I decided to revisit an old project of mine. As I scrolled...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--z2B609H9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vvjf20gnurnuuybbjyol.png",
-  "slug": "simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5",
-  "url": "https://dev.to/subaash_b/simplify-groupify-conquer-the-convenience-of-objectgroupby-in-javascript-2h5",
-  "publish_date": "2023-12-17",
-  "published_at": "2023-12-17T17:22:34Z"
- },
- {
-  "id": 1700326,
-  "title": "ECMAScript 2023: Fresh Goodies for JavaScript Developers",
-  "description": "Greetings, fellow code warriors! ⚔️ The JavaScript landscape is constantly evolving, and with the...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EMX_0AVv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/34vlifqud4hognd7ozhd.png",
-  "slug": "dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda",
-  "url": "https://dev.to/navdeepm20/dive-into-ecmascript-2023-fresh-goodies-for-javascript-developers-1dda",
-  "publish_date": "2023-12-17",
-  "published_at": "2023-12-17T12:56:11Z"
- },
- {
-  "id": 1700184,
-  "title": "The best and fastest cli generator for .ignore files",
-  "description": "I developed cli generator for .ignore files with using Golang  I want to invite you to visit my...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--13VCoR4W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fljqnnxtcn9f8u825cqq.jpg",
-  "slug": "the-best-and-fastest-cli-generator-for-ignore-files-210b",
-  "url": "https://dev.to/neptunsk1y/the-best-and-fastest-cli-generator-for-ignore-files-210b",
-  "publish_date": "2023-12-17",
-  "published_at": "2023-12-17T06:41:08Z"
- },
- {
-  "id": 1700113,
-  "title": "Getting started w/ Google's Gemini Pro LLM using Langchain JS",
-  "description": "Building AI-powered Applications w/ Javascript using Langchain JS for Beginners In the previous blog...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--BNPddnkT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6i4caltlosji0onf8bs5.jpeg",
-  "slug": "getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1",
-  "url": "https://dev.to/oyemade/getting-started-w-googles-gemini-pro-llm-using-langchain-js-4o1",
-  "publish_date": "2023-12-17",
-  "published_at": "2023-12-17T02:10:24Z"
- },
- {
-  "id": 1700107,
-  "title": "Harnessing the Potential of APIs: A Deep Dive into POSTMAN API 101🌐",
-  "description": "INTRODUCTION   Today, I had the privilege of attending a POSTMAN API 101 session conducted...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--bzvRoSdZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uil0jzofg1gb889ochxh.png",
-  "slug": "harnessing-the-potential-of-apis-a-deep-dive-into-postman-api-101-4n4h",
-  "url": "https://dev.to/sakeenanavi/harnessing-the-potential-of-apis-a-deep-dive-into-postman-api-101-4n4h",
-  "publish_date": "2023-12-17",
-  "published_at": "2023-12-17T01:33:03Z"
  }
 ]
