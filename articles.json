@@ -1,5 +1,55 @@
 [
  {
+  "id": 1809079,
+  "title": "Congrats to our Frontend Challenge Winners!",
+  "description": "Thank you to everyone who participated! We hope you had fun, felt challenged, and maybe added a thing or two to your professional profile.",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyld68v14yeqhrbtttthm.png",
+  "slug": "congrats-to-our-frontend-challenge-winners-2h5f",
+  "url": "https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f",
+  "publish_date": "2024-04-02",
+  "published_at": "2024-04-02T17:56:06Z"
+ },
+ {
+  "id": 1809263,
+  "title": "Google's Decision to Effectively Kill-off Small Sites",
+  "description": "I'm a relatively new blogger, having only started my blog around 6 months ago. I started my blog...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd7paxhf6v7j66phv33ui.jpg",
+  "slug": "googles-decision-to-effectively-kill-off-small-sites-28ea",
+  "url": "https://dev.to/mlaposta/googles-decision-to-effectively-kill-off-small-sites-28ea",
+  "publish_date": "2024-04-02",
+  "published_at": "2024-04-02T17:39:41Z"
+ },
+ {
+  "id": 1808990,
+  "title": "I built a top-tier Discord server for Open Source.",
+  "description": "It’s well-established that Discord is a great platform for Developer communities.  But if you are...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fodyvyjxi56sf5y8ph9f1.png",
+  "slug": "i-built-a-top-tier-discord-server-for-open-source-p25",
+  "url": "https://dev.to/glasskube/i-built-a-top-tier-discord-server-for-open-source-p25",
+  "publish_date": "2024-04-02",
+  "published_at": "2024-04-02T14:07:26Z"
+ },
+ {
+  "id": 1808955,
+  "title": "What Junior Devs Get Wrong",
+  "description": "Asking Senior Devs     We recently took to the web dev community on Reddit to ask Senior...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuzzowzli1vhqv7ubtlf.png",
+  "slug": "what-junior-devs-get-wrong-an8",
+  "url": "https://dev.to/wasp/what-junior-devs-get-wrong-an8",
+  "publish_date": "2024-04-02",
+  "published_at": "2024-04-02T12:00:00Z"
+ },
+ {
+  "id": 1808524,
+  "title": "The good, the bad and the ugly of the XZ vulnerability (CVE 2024-3094)",
+  "description": "The recent CVE 2024-3094 (the XZ vulnerability exposed by Red Hat on March 29, 2024) has sparked...",
+  "cover_image": "",
+  "slug": "the-good-the-bad-and-the-ugly-of-the-xz-vulnerability-cve-2024-3094-47la",
+  "url": "https://dev.to/craigmcl/the-good-the-bad-and-the-ugly-of-the-xz-vulnerability-cve-2024-3094-47la",
+  "publish_date": "2024-04-02",
+  "published_at": "2024-04-02T02:16:16Z"
+ },
+ {
   "id": 1808121,
   "title": "🚀 Roadmap: From Junior Software Engineer to CTO in 1 Year",
   "description": "To all aspiring tech leaders! 🎉 Ever wondered what it takes to go from a Junior Software Engineer to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lymah/tublian-internship-journey-navigating-the-internship-landscape-in-week-one-3dj7",
   "publish_date": "2023-12-24",
   "published_at": "2023-12-24T10:41:20Z"
- },
- {
-  "id": 1706824,
-  "title": "Tech/Non-tech books which Tech people should read",
-  "description": "So what are your book recommendations for tech people? Personally, I have found it difficult to read...",
-  "cover_image": "",
-  "slug": "technon-tech-books-which-tech-people-should-read-1kh0",
-  "url": "https://dev.to/nandinishinduja/technon-tech-books-which-tech-people-should-read-1kh0",
-  "publish_date": "2023-12-23",
-  "published_at": "2023-12-23T20:42:18Z"
- },
- {
-  "id": 1706650,
-  "title": "Sharing a state between windows without a server",
-  "description": "Recently, there was a gif trending on social networks displaying an amazing piece of art made by...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e6j265T4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8skuyne3l6gum3eud20z.gif",
-  "slug": "sharing-a-state-between-windows-without-a-serve-23an",
-  "url": "https://dev.to/notachraf/sharing-a-state-between-windows-without-a-serve-23an",
-  "publish_date": "2023-12-23",
-  "published_at": "2023-12-23T14:47:52Z"
- },
- {
-  "id": 1706588,
-  "title": "To Code and Beyond: A Neverland Adventure in Bash, Lua, Python, and Rust",
-  "description": "Prologue: Departure to Neverland   Once upon a time, in the mystical world of terminals,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--qspXvyZA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/u6al557sxekjf4hb5u70.jpeg",
-  "slug": "to-code-and-beyond-a-neverland-adventure-in-bash-lua-python-and-rust-1jon",
-  "url": "https://dev.to/proteusiq/to-code-and-beyond-a-neverland-adventure-in-bash-lua-python-and-rust-1jon",
-  "publish_date": "2023-12-23",
-  "published_at": "2023-12-23T14:06:16Z"
- },
- {
-  "id": 1218875,
-  "title": "Deploy .NET Web Applications In Linux - Simple And Comprehensive Guide",
-  "description": "The Links In The Video :  Github Repository  Digital Ocean  Hostinger",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--x1X7cd4V--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/chblu6w7yc54x60t2d1v.png",
-  "slug": "deploy-net-web-applications-in-linux-simple-and-comprehensive-guide-10hk",
-  "url": "https://dev.to/zairiaimendev/deploy-net-web-applications-in-linux-simple-and-comprehensive-guide-10hk",
-  "publish_date": "2023-12-23",
-  "published_at": "2023-12-23T12:46:54Z"
- },
- {
-  "id": 1706388,
-  "title": "🔐 Session-Based vs. Token-Based Authentication: Which is better?🤔",
-  "description": "Hi fellow readers!✋ I hope you’re doing great. In this article, we will learn about session and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--EajSVcvh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yq7ytx3iczwt2yhqzqen.png",
-  "slug": "session-based-vs-token-based-authentication-which-is-better-227o",
-  "url": "https://dev.to/fidalmathew/session-based-vs-token-based-authentication-which-is-better-227o",
-  "publish_date": "2023-12-23",
-  "published_at": "2023-12-23T08:21:52Z"
  }
 ]
