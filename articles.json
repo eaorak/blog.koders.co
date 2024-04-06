@@ -1,5 +1,55 @@
 [
  {
+  "id": 1812655,
+  "title": "Implementing semantic image search with Amazon Titan and Supabase Vector",
+  "description": "Amazon Bedrock is a fully managed service that offers a choice of high-performing foundation models...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyptwmf2s7tiu0o41jlx.png",
+  "slug": "implementing-semantic-image-search-with-amazon-titan-and-supabase-vector-266a",
+  "url": "https://dev.to/supabase/implementing-semantic-image-search-with-amazon-titan-and-supabase-vector-266a",
+  "publish_date": "2024-04-05",
+  "published_at": "2024-04-05T19:26:34Z"
+ },
+ {
+  "id": 1812097,
+  "title": "All MongoDB commands you need to know",
+  "description": "Introduction   Welcome to the world of MongoDB! If you're new to databases and want to learn...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foyshijlv4w5yxds6ni4h.png",
+  "slug": "all-mongodb-commands-you-need-to-know-35i7",
+  "url": "https://dev.to/madhusaini22/all-mongodb-commands-you-need-to-know-35i7",
+  "publish_date": "2024-04-05",
+  "published_at": "2024-04-05T14:56:37Z"
+ },
+ {
+  "id": 1810934,
+  "title": "8 developer tools to watch in 2024",
+  "description": "Hey friends, 👋  For this week's article, we will dive into OSS developer tools to watch in 2024! ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foelvb2bp8mtqjzt7yyn3.png",
+  "slug": "8-developer-tools-to-watch-in-2024-5b26",
+  "url": "https://dev.to/quine/8-developer-tools-to-watch-in-2024-5b26",
+  "publish_date": "2024-04-05",
+  "published_at": "2024-04-05T14:48:19Z"
+ },
+ {
+  "id": 1804341,
+  "title": "What was your win this week?",
+  "description": "Howdy! 🤠  With the first week of April under our belts, y'all got any wins to share?! 😎  Looking back...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwjyxxca8qxz6j0vc7av9.jpg",
+  "slug": "what-was-your-win-this-week-3de0",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-3de0",
+  "publish_date": "2024-04-05",
+  "published_at": "2024-04-05T11:35:00Z"
+ },
+ {
+  "id": 1812045,
+  "title": "Creating a textarea character limit indicator",
+  "description": "Introduction   Textareas are an essential tool of the web, allowing applications to collect...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjjd1h76qnws8o3c00wke.png",
+  "slug": "creating-a-textarea-character-limit-indicator-5fol",
+  "url": "https://dev.to/sarahokolo/creating-a-textarea-character-limit-indicator-5fol",
+  "publish_date": "2024-04-05",
+  "published_at": "2024-04-05T10:41:20Z"
+ },
+ {
   "id": 1810543,
   "title": "Featured Mod of the Month: Anita Olsen",
   "description": "In this series, we shine a spotlight 🔦 on the different DEV moderators — Trusted Members and Tag Mods...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/abhixsh/docker-for-the-absolute-beginner-3h1p",
   "publish_date": "2023-12-27",
   "published_at": "2023-12-27T07:39:48Z"
- },
- {
-  "id": 1709020,
-  "title": "How to get the Top Software Engineering Practices Voice Badge on LinkedIn",
-  "description": "So I recently got the Top Software Engineering Practices Voice Badge on LinkedIn and I will share...",
-  "cover_image": "",
-  "slug": "how-to-get-the-top-software-engineering-practices-voice-badge-on-linkedin-2imb",
-  "url": "https://dev.to/nandinishinduja/how-to-get-the-top-software-engineering-practices-voice-badge-on-linkedin-2imb",
-  "publish_date": "2023-12-26",
-  "published_at": "2023-12-26T20:59:46Z"
- },
- {
-  "id": 1704828,
-  "title": "Top 9 AI APIs you must try in 2024",
-  "description": "AI is at the forefront of technological innovation, transforming the way we interact with machines...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--v-bnHcJ---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2j72qx4x239hk7rwn7jw.gif",
-  "slug": "top-9-ai-apis-you-must-try-in-2024-3pma",
-  "url": "https://dev.to/firecampdev/top-9-ai-apis-you-must-try-in-2024-3pma",
-  "publish_date": "2023-12-26",
-  "published_at": "2023-12-26T14:11:55Z"
- },
- {
-  "id": 1708365,
-  "title": "Interview: Can You Stop “forEach” in JavaScript?",
-  "description": "The Saga of JavaScript's Most Persistent Loop  Interviewer: \"Can you stop a relentless forEach loop...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--OKmp7IGB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tsk1q929l6y131mrh5o0.png",
-  "slug": "interview-can-you-stop-foreach-in-javascript-57h0",
-  "url": "https://dev.to/polakshahar/interview-can-you-stop-foreach-in-javascript-57h0",
-  "publish_date": "2023-12-26",
-  "published_at": "2023-12-26T10:07:46Z"
- },
- {
-  "id": 1708417,
-  "title": "👀 Under the Hood at DevHunt 🚀",
-  "description": "The Challenge of Launching DevTools   One of the unique challenges for any DevTools company...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0SlhqJsA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4i6dt7hf52vj6k8bm9i.png",
-  "slug": "under-the-hood-at-devhunt-94j",
-  "url": "https://dev.to/livecycle/under-the-hood-at-devhunt-94j",
-  "publish_date": "2023-12-26",
-  "published_at": "2023-12-26T07:36:33Z"
- },
- {
-  "id": 1708254,
-  "title": "How to manage user authentication With React JS",
-  "description": "The management of user access stands as a pivotal aspect of web application development. In this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sh0knvRy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pk4q7ytieyh3wuqr6vo7.png",
-  "slug": "how-to-manage-user-authentication-with-react-js-3ic5",
-  "url": "https://dev.to/miracool/how-to-manage-user-authentication-with-react-js-3ic5",
-  "publish_date": "2023-12-26",
-  "published_at": "2023-12-26T01:30:11Z"
  }
 ]
