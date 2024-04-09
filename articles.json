@@ -1,5 +1,55 @@
 [
  {
+  "id": 1815492,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-3h7c",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h7c",
+  "publish_date": "2024-04-08",
+  "published_at": "2024-04-08T19:03:58Z"
+ },
+ {
+  "id": 1815005,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F59jbk0i1nz46e20h4kk4.png",
+  "slug": "meme-monday-4i84",
+  "url": "https://dev.to/ben/meme-monday-4i84",
+  "publish_date": "2024-04-08",
+  "published_at": "2024-04-08T12:09:20Z"
+ },
+ {
+  "id": 1814905,
+  "title": "Build your Web Applications Faster with Modern Build Tools",
+  "description": "Comparing Webpack, Vite, Parcel, and Snowpack            What is Building?   \"Building\" refers to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F705k21g8gj936npsig64.png",
+  "slug": "build-your-web-applications-faster-with-modern-build-tools-g2k",
+  "url": "https://dev.to/codeparrot/build-your-web-applications-faster-with-modern-build-tools-g2k",
+  "publish_date": "2024-04-08",
+  "published_at": "2024-04-08T10:20:09Z"
+ },
+ {
+  "id": 1814860,
+  "title": "How API7 Gateway Overcomes Exceptions with High Availability Strategies",
+  "description": "Building high availability of API gateways is crucial when constructing modern enterprise-level...",
+  "cover_image": "",
+  "slug": "how-api7-gateway-overcomes-exceptions-with-high-availability-strategies-34j5",
+  "url": "https://dev.to/api7/how-api7-gateway-overcomes-exceptions-with-high-availability-strategies-34j5",
+  "publish_date": "2024-04-08",
+  "published_at": "2024-04-08T09:14:55Z"
+ },
+ {
+  "id": 1809364,
+  "title": "We got 500 GitHub stars! 🤯 What's next?",
+  "description": "\"What if we built a tool that's just cool, useful, and fun to work on?\" we thought to ourselves...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd8cngxk6zpjiwyl2ie8e.png",
+  "slug": "we-got-500-github-stars-whats-next-2njc",
+  "url": "https://dev.to/maxprilutskiy/we-got-500-github-stars-whats-next-2njc",
+  "publish_date": "2024-04-08",
+  "published_at": "2024-04-08T05:38:37Z"
+ },
+ {
   "id": 1811579,
   "title": "Implementing JavaScript Concepts from Scratch",
   "description": "In this article, we explore the foundational building blocks of JavaScript by crafting several key...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/thomasbnt/my-life-update-and-the-open-source-devimpact2023-41h1",
   "publish_date": "2023-12-30",
   "published_at": "2023-12-30T01:42:52Z"
- },
- {
-  "id": 1709874,
-  "title": "🌟 #DEVImpact2023: My End of Year Reflections",
-  "description": "Hi friends! 👋  I can't believe that 2023 is almost come to an end. There are many ups and downs...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kAk63kdU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/itfx62g2crmm3vn2hygp.png",
-  "slug": "devimpact2023-my-end-of-year-reflections-2pok",
-  "url": "https://dev.to/adiatiayu/devimpact2023-my-end-of-year-reflections-2pok",
-  "publish_date": "2023-12-29",
-  "published_at": "2023-12-29T15:39:10Z"
- },
- {
-  "id": 1711726,
-  "title": "Refactorización de código JavaScript para Startups: Eficiencia con Set y Map",
-  "description": "En el dinámico mundo de las startups, el código eficiente y bien estructurado es un activo muy...",
-  "cover_image": "",
-  "slug": "refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4",
-  "url": "https://dev.to/soyclaradev/refactorizacion-de-codigo-javascript-para-startups-eficiencia-con-set-y-map-7l4",
-  "publish_date": "2023-12-29",
-  "published_at": "2023-12-29T14:14:32Z"
- },
- {
-  "id": 1711700,
-  "title": "Casos de Uso de Arrays, Objects, Sets y Maps en Aplicaciones Modernas",
-  "description": "Para desarrolladores que buscan aplicar conceptos teóricos en situaciones reales, entender cómo se...",
-  "cover_image": "",
-  "slug": "casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1",
-  "url": "https://dev.to/soyclaradev/casos-de-uso-de-arrays-objects-sets-y-maps-en-aplicaciones-modernas-54a1",
-  "publish_date": "2023-12-29",
-  "published_at": "2023-12-29T13:27:59Z"
- },
- {
-  "id": 1711673,
-  "title": "My Mozilla contribution sprint",
-  "description": "After years of supporting Mozilla financially and spreading messages with my peers, I returned as an...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--wn8E8w3c--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/sa170f4fofl9j0qmd4ai.png",
-  "slug": "my-mozilla-contribution-sprint-11d9",
-  "url": "https://dev.to/bogomil/my-mozilla-contribution-sprint-11d9",
-  "publish_date": "2023-12-29",
-  "published_at": "2023-12-29T12:46:39Z"
- },
- {
-  "id": 1711567,
-  "title": "Top 10 GitHub Repos for Open Source Food Delivery Apps",
-  "description": "The food delivery industry is booming!  In the world of technology, efficiency and convenience have...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vis31cUO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8kgntssv66rr8sojdli7.png",
-  "slug": "top-10-github-repos-for-open-source-food-delivery-apps-43b8",
-  "url": "https://dev.to/abbas_ninjascode/top-10-github-repos-for-open-source-food-delivery-apps-43b8",
-  "publish_date": "2023-12-29",
-  "published_at": "2023-12-29T11:19:49Z"
  }
 ]
