@@ -1,5 +1,55 @@
 [
  {
+  "id": 1819176,
+  "title": "Always unsubscribe. No exceptions. Debate closed.",
+  "description": "So many years with Angular.  So many years with RxJS.   Yet people still fight over \"when NOT to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiec89txb7r5rot20p1x0.jpg",
+  "slug": "always-unsubscribe-no-exceptions-debate-closed-205n",
+  "url": "https://dev.to/this-is-angular/always-unsubscribe-no-exceptions-debate-closed-205n",
+  "publish_date": "2024-04-11",
+  "published_at": "2024-04-11T21:16:37Z"
+ },
+ {
+  "id": 1818743,
+  "title": "How to build: an AI-powered blogging platform (Next.js, Langchain, \u0026 Supabase)",
+  "description": "TL;DR   In this article, you will learn how to build an AI-powered blogging platform that...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foxc1cj7cy1vbyppwes3c.gif",
+  "slug": "how-to-build-an-ai-powered-blogging-platform-nextjs-langchain-supabase-1hdp",
+  "url": "https://dev.to/copilotkit/how-to-build-an-ai-powered-blogging-platform-nextjs-langchain-supabase-1hdp",
+  "publish_date": "2024-04-11",
+  "published_at": "2024-04-11T14:18:43Z"
+ },
+ {
+  "id": 1818638,
+  "title": "React Crazy: This AI library transformed my app to the next level",
+  "description": "I have been building tons of applications. My latest one is Gitroom. It helps you to:   Schedule your...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcbweo35u0qczwuo8az4t.png",
+  "slug": "react-crazy-this-ai-library-transformed-my-app-to-the-next-level-b4i",
+  "url": "https://dev.to/github20k/react-crazy-this-ai-library-transformed-my-app-to-the-next-level-b4i",
+  "publish_date": "2024-04-11",
+  "published_at": "2024-04-11T13:08:04Z"
+ },
+ {
+  "id": 1818462,
+  "title": "Simplified Log Collection with APISIX's http-logger Plugin",
+  "description": "Introduction   In modern software development, API call logging is an indispensable part,...",
+  "cover_image": "",
+  "slug": "simplified-log-collection-with-apisixs-http-logger-plugin-2bmm",
+  "url": "https://dev.to/apisix/simplified-log-collection-with-apisixs-http-logger-plugin-2bmm",
+  "publish_date": "2024-04-11",
+  "published_at": "2024-04-11T09:26:59Z"
+ },
+ {
+  "id": 1816068,
+  "title": "Implementing the Idempotency-Key specification on Apache APISIX",
+  "description": "Last week, I wrote an analysis of the IETF Idempotency-Key specification. The specification aims to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F07cc9hmx4w0ews4r9rhn.jpg",
+  "slug": "implementing-the-idempotency-key-specification-on-apache-apisix-196m",
+  "url": "https://dev.to/apisix/implementing-the-idempotency-key-specification-on-apache-apisix-196m",
+  "publish_date": "2024-04-11",
+  "published_at": "2024-04-11T09:02:00Z"
+ },
+ {
   "id": 1817305,
   "title": "✨ AI Fairytale generator",
   "description": "This is a submission for the Cloudflare AI Challenge.           What I Built   A cool site where you...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/thatman/tools-i-fell-in-love-with-5fm8",
   "publish_date": "2024-01-02",
   "published_at": "2024-01-02T07:24:10Z"
- },
- {
-  "id": 1709113,
-  "title": "Introdução ao Protocolo IP",
-  "description": "Introdução   Nesse artigo exploraremos o protocolo IP, vamos observar parte do contexto...",
-  "cover_image": "",
-  "slug": "protocolo-ip-2200",
-  "url": "https://dev.to/bl4cktux89/protocolo-ip-2200",
-  "publish_date": "2024-01-01",
-  "published_at": "2024-01-01T15:22:48Z"
- },
- {
-  "id": 1699680,
-  "title": "Integrating AI chatbot💩 into your application in 2024 🧙🏻‍♂️🏆 is how easy? 🤔",
-  "description": "TL;DR   In this tutorial, you will learn how to add AI chatbot support to your Python...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NrNZQTZ---/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbr1yxd1sqiu07oq9egm.gif",
-  "slug": "integrating-ai-chatbot-into-your-application-in-2024-is-how-easy-147p",
-  "url": "https://dev.to/shricodev/integrating-ai-chatbot-into-your-application-in-2024-is-how-easy-147p",
-  "publish_date": "2024-01-01",
-  "published_at": "2024-01-01T12:15:00Z"
- },
- {
-  "id": 1709047,
-  "title": "New Year, New Code: #DEVResolutions2024",
-  "description": "Hello DEV Community,  It's a brand new year, and we're kicking it off in style with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--UVoegKWe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ina358zdywhjqk28but7.jpg",
-  "slug": "new-year-new-code-devresolutions2024-2e5h",
-  "url": "https://dev.to/devteam/new-year-new-code-devresolutions2024-2e5h",
-  "publish_date": "2024-01-01",
-  "published_at": "2024-01-01T08:00:00Z"
- },
- {
-  "id": 1713438,
-  "title": "🔥Top 7 Useful Tools for Developers😎",
-  "description": "Hi Devs 👋  Wish you all a Happy New Year!🎉✨  In this article I have listed some of the most useful...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WFfktM6U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/to15tjyliio1ori5vnqm.gif",
-  "slug": "top-7-useful-tools-for-developers-57fl",
-  "url": "https://dev.to/dev_kiran/top-7-useful-tools-for-developers-57fl",
-  "publish_date": "2024-01-01",
-  "published_at": "2024-01-01T07:07:17Z"
- },
- {
-  "id": 1712278,
-  "title": "The Ultimate React Reading List: Top 15 Must-Read Articles in 2024",
-  "description": "React is a popular JavaScript library for building user interfaces, and its ecosystem is constantly...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--JAJzvxdX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2kk1vth2sazaw5jhw4zl.png",
-  "slug": "the-ultimate-react-reading-list-top-15-must-read-articles-in-2024-2c3",
-  "url": "https://dev.to/kothariji/the-ultimate-react-reading-list-top-15-must-read-articles-in-2024-2c3",
-  "publish_date": "2024-01-01",
-  "published_at": "2024-01-01T05:38:34Z"
  }
 ]
