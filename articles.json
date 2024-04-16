@@ -1,5 +1,55 @@
 [
  {
+  "id": 1823534,
+  "title": "Supabase Bootstrap: the fastest way to launch a new project",
+  "description": "Supabase bootstrap is the fastest to spin up a new hosted Supabase project from existing starter...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgmb0a9ad0vkbp2g00tr.png",
+  "slug": "supabase-bootstrap-the-fastest-way-to-launch-a-new-project-56hf",
+  "url": "https://dev.to/yuricodesbot/supabase-bootstrap-the-fastest-way-to-launch-a-new-project-56hf",
+  "publish_date": "2024-04-15",
+  "published_at": "2024-04-15T17:03:43Z"
+ },
+ {
+  "id": 1823471,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-22e0",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-22e0",
+  "publish_date": "2024-04-15",
+  "published_at": "2024-04-15T14:48:42Z"
+ },
+ {
+  "id": 1816526,
+  "title": "🔥 6 Open-source Libraries You Must Know in 2024 🪄🔥",
+  "description": "Last week I have discovered some awesome libraries! Check them, use them, help them with a star...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytx7c2j6x8we5jrfqi67.png",
+  "slug": "6-open-source-libraries-you-must-know-in-2024-5dgb",
+  "url": "https://dev.to/tyaga001/6-open-source-libraries-you-must-know-in-2024-5dgb",
+  "publish_date": "2024-04-15",
+  "published_at": "2024-04-15T07:54:47Z"
+ },
+ {
+  "id": 1821315,
+  "title": "Deploying a Full Stack AWS Architecture Using Terraform: Ensuring High Availability in AWS",
+  "description": "In this blog, we will learn how to deploy autoscaling group with an application load balancer,EFS,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fods1cz4zcjj6yjxdjisp.png",
+  "slug": "deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31",
+  "url": "https://dev.to/aws-builders/deploying-a-full-stack-aws-architecture-using-terraform-ensuring-high-availability-in-aws-5h31",
+  "publish_date": "2024-04-15",
+  "published_at": "2024-04-15T03:36:18Z"
+ },
+ {
+  "id": 1822825,
+  "title": "Supermemory - ChatGPT for your bookmarks",
+  "description": "This is a submission for the Cloudflare AI Challenge.           What I Built   I built a way to build...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmryl1zhcruebamnwud7g.png",
+  "slug": "supermemory-chatgpt-for-your-bookmarks-4nc7",
+  "url": "https://dev.to/dhravya/supermemory-chatgpt-for-your-bookmarks-4nc7",
+  "publish_date": "2024-04-15",
+  "published_at": "2024-04-15T01:04:16Z"
+ },
+ {
   "id": 1820544,
   "title": "Cloudflare AI Hackathon: MedicalAI - Revolutionizing Healthcare with AI",
   "description": "This is a submission for the Cloudflare AI Challenge.           What I Built   In the fast-paced...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/chrischurilo/milvus-adventures-jan-5-2023-24eb",
   "publish_date": "2024-01-06",
   "published_at": "2024-01-06T01:05:47Z"
- },
- {
-  "id": 1718740,
-  "title": "Open Source Advent Fun Wraps Up!",
-  "description": "I hope you'all got a chance to take a look at our Open Source Advent that we kicked off in December...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XsJs0TTZ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w8clg448e1h05kfnt4bx.png",
-  "slug": "open-source-advent-fun-wraps-up-1i0d",
-  "url": "https://dev.to/chrischurilo/open-source-advent-fun-wraps-up-1i0d",
-  "publish_date": "2024-01-05",
-  "published_at": "2024-01-05T23:34:48Z"
- },
- {
-  "id": 1717845,
-  "title": "🌌 31 Open-Source Libraries + Good First Issues (to Start Your Journey) ⛰️",
-  "description": "Contributing to a great open-source library is the best way to establish your portfolio and to join...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--WLrtRXbf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ef45165r8w6zdaxlnovm.gif",
-  "slug": "31-open-source-libraries-to-kickstart-your-journey-4hhd",
-  "url": "https://dev.to/copilotkit/31-open-source-libraries-to-kickstart-your-journey-4hhd",
-  "publish_date": "2024-01-05",
-  "published_at": "2024-01-05T17:01:22Z"
- },
- {
-  "id": 1650072,
-  "title": "Ditch REST, go intent based",
-  "description": "At AlertPix we allow streamers to receive donations from their audience via Pix Instant Payment and...",
-  "cover_image": "",
-  "slug": "ditch-rest-go-intent-based-34hp",
-  "url": "https://dev.to/alertpix/ditch-rest-go-intent-based-34hp",
-  "publish_date": "2024-01-05",
-  "published_at": "2024-01-05T11:56:01Z"
- },
- {
-  "id": 1716405,
-  "title": "What was your win this week?",
-  "description": "Hey hey my peeps! 👋  Hope everybody is enjoying their Fridays! 🙌   Looking back on this past week,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hQUZN7xB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/luo0sx64k6xd8dogd3um.jpg",
-  "slug": "what-was-your-win-this-week-6l8",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-6l8",
-  "publish_date": "2024-01-05",
-  "published_at": "2024-01-05T11:00:00Z"
- },
- {
-  "id": 1717928,
-  "title": "Kubernetes CrashLoopBackOff - What is it and how to fix it?",
-  "description": "Introduction   CrashLoopBackOff is an error that appears most of the time when a...",
-  "cover_image": "",
-  "slug": "kubernetes-crashloopbackoff-what-is-it-and-how-to-fix-it-4oad",
-  "url": "https://dev.to/refine/kubernetes-crashloopbackoff-what-is-it-and-how-to-fix-it-4oad",
-  "publish_date": "2024-01-05",
-  "published_at": "2024-01-05T08:15:42Z"
  }
 ]
