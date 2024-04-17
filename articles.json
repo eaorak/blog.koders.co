@@ -1,5 +1,55 @@
 [
  {
+  "id": 1824872,
+  "title": "AI Inference now available in Supabase Edge Functions",
+  "description": "We're making it super easy to run AI models within Supabase Edge Functions. A new built-in API is...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiir81bbjc5qerjwer7f6.png",
+  "slug": "ai-inference-now-available-in-supabase-edge-functions-3ae1",
+  "url": "https://dev.to/supabase/ai-inference-now-available-in-supabase-edge-functions-3ae1",
+  "publish_date": "2024-04-16",
+  "published_at": "2024-04-16T20:27:59Z"
+ },
+ {
+  "id": 1824667,
+  "title": "Congrats to the Cloudflare AI Challenge Winners!",
+  "description": "From fake news detection to generative art to AI powered PostgreSQL, we saw some truly impressive and creative projects that we’ll be talking about for weeks to come.",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxv3z4g8nufk501he4eyl.jpg",
+  "slug": "congrats-to-the-cloudflare-ai-challenge-winners-25lm",
+  "url": "https://dev.to/devteam/congrats-to-the-cloudflare-ai-challenge-winners-25lm",
+  "publish_date": "2024-04-16",
+  "published_at": "2024-04-16T16:37:26Z"
+ },
+ {
+  "id": 1824480,
+  "title": "AI \"interviewer\"...I rarely want companies to fail but...",
+  "description": "OK, I know it has been a while since I have had a rant, I've been trying to be good OK...but this one...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faclep6h7xls2c6mqw7ye.jpg",
+  "slug": "ai-intervieweri-rarely-want-companies-to-fail-but-1j14",
+  "url": "https://dev.to/grahamthedev/ai-intervieweri-rarely-want-companies-to-fail-but-1j14",
+  "publish_date": "2024-04-16",
+  "published_at": "2024-04-16T15:16:19Z"
+ },
+ {
+  "id": 1815593,
+  "title": "🕵️‍♂️ The Art of Self-Learning: How to Teach Yourself Any Programming Concept 🤓",
+  "description": "Introduction to Self-Learning   Firstly, let me paint you the scene. You’ve heard on the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Futyycrqir0hm1lcpw732.png",
+  "slug": "the-art-of-self-learning-how-to-teach-yourself-any-programming-concept-5de4",
+  "url": "https://dev.to/wasp/the-art-of-self-learning-how-to-teach-yourself-any-programming-concept-5de4",
+  "publish_date": "2024-04-16",
+  "published_at": "2024-04-16T13:00:00Z"
+ },
+ {
+  "id": 1824192,
+  "title": "What's New in API7 Enterprise 3.2.9: Upgraded Health Check Configuration",
+  "description": "Introduction to New Health Check Features   In version 3.2.9 of API7 Enterprise, the...",
+  "cover_image": "",
+  "slug": "whats-new-in-api7-enterprise-329-upgraded-health-check-configuration-2aad",
+  "url": "https://dev.to/api7/whats-new-in-api7-enterprise-329-upgraded-health-check-configuration-2aad",
+  "publish_date": "2024-04-16",
+  "published_at": "2024-04-16T09:39:58Z"
+ },
+ {
   "id": 1823534,
   "title": "Supabase Bootstrap: the fastest way to launch a new project",
   "description": "Supabase bootstrap is the fastest to spin up a new hosted Supabase project from existing starter...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ricardogesteves/innovating-social-interaction-introducing-storyscape-2kaa",
   "publish_date": "2024-01-07",
   "published_at": "2024-01-07T01:19:24Z"
- },
- {
-  "id": 1697845,
-  "title": "Thank you 2023, onwards to 2024",
-  "description": "Hi everyone, I hope you all had a wonderful start to the new year 2024. I postponed writing this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Zf8Sci8W--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3bpd1s072ibi8a9gvkc3.png",
-  "slug": "thank-you-2023-onwards-to-2024-m56",
-  "url": "https://dev.to/anuradhakumari/thank-you-2023-onwards-to-2024-m56",
-  "publish_date": "2024-01-06",
-  "published_at": "2024-01-06T13:56:04Z"
- },
- {
-  "id": 1718960,
-  "title": "Dependency Injection without classes",
-  "description": "Dependency Injection (DI) is a pattern that enhances the maintainability, scalability, and...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gqgSyuiJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/whs9fm9cw1k2vh0ktat8.png",
-  "slug": "dependency-injection-without-classes-4mch",
-  "url": "https://dev.to/cherif_b/dependency-injection-without-classes-4mch",
-  "publish_date": "2024-01-06",
-  "published_at": "2024-01-06T10:17:10Z"
- },
- {
-  "id": 1715237,
-  "title": "How to Create a Typewriter Effect with HTML, CSS, and JS: A Step-by-Step Guide",
-  "description": "In this article, we'll guide you through the process of building a typewriter effect step-by-step,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Kx_IiRZL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ovonewl3omxq5ui4t816.jpg",
-  "slug": "how-to-create-a-typewriter-effect-with-html-css-and-js-a-step-by-step-guide-1f99",
-  "url": "https://dev.to/topefasasi/how-to-create-a-typewriter-effect-with-html-css-and-js-a-step-by-step-guide-1f99",
-  "publish_date": "2024-01-06",
-  "published_at": "2024-01-06T05:14:46Z"
- },
- {
-  "id": 1718270,
-  "title": "⚡Top GitHub Repositories for UI Components",
-  "description": "Hello Devs👋  In this article, I have listed top 10 GitHub repositories which helps developers to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--d5QLdyW0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0pmhri0ozpw6sdg4zzx2.gif",
-  "slug": "top-github-repositories-for-ui-components-dg4",
-  "url": "https://dev.to/dev_kiran/top-github-repositories-for-ui-components-dg4",
-  "publish_date": "2024-01-06",
-  "published_at": "2024-01-06T04:31:09Z"
- },
- {
-  "id": 1718760,
-  "title": "Milvus Adventures Jan 5, 2023",
-  "description": "COMMUNITY ٩(＾◡＾)۶   2024 is here so join us at our next one in San Francisco is on Jan 16,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gnh8khtT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/d2oxf9lv8x4y0zi1zng2.jpg",
-  "slug": "milvus-adventures-jan-5-2023-24eb",
-  "url": "https://dev.to/chrischurilo/milvus-adventures-jan-5-2023-24eb",
-  "publish_date": "2024-01-06",
-  "published_at": "2024-01-06T01:05:47Z"
  }
 ]
