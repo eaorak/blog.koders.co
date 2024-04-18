@@ -1,5 +1,55 @@
 [
  {
+  "id": 1825706,
+  "title": "Join Us For The Next Frontend Challenge: Earth Day Edition!",
+  "description": "We kicked off our first frontend challenge a few weeks ago with the promise that we’d run these...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femb626o0mysdsw32ox4k.png",
+  "slug": "join-us-for-the-next-frontend-challenge-earth-day-edition-52e4",
+  "url": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-earth-day-edition-52e4",
+  "publish_date": "2024-04-17",
+  "published_at": "2024-04-17T17:38:43Z"
+ },
+ {
+  "id": 1824853,
+  "title": "Join us for the Coze AI Bot Challenge: $3,000 in Prizes!",
+  "description": "We are thrilled to partner with Coze to bring the community our next AI challenge — this time, a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flox2s2e29vq74sg0xcqn.jpg",
+  "slug": "join-us-for-the-coze-ai-bot-challenge-3000-in-prizes-4dp7",
+  "url": "https://dev.to/devteam/join-us-for-the-coze-ai-bot-challenge-3000-in-prizes-4dp7",
+  "publish_date": "2024-04-17",
+  "published_at": "2024-04-17T17:08:33Z"
+ },
+ {
+  "id": 1825945,
+  "title": "Supabase Auth now supports Anonymous Sign-ins",
+  "description": "Supabase Auth now supports anonymous sign-ins, one of our most-requested features by the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Finf9ymtg5u75rggeefuk.png",
+  "slug": "supabase-auth-now-supports-anonymous-sign-ins-1j00",
+  "url": "https://dev.to/supabase/supabase-auth-now-supports-anonymous-sign-ins-1j00",
+  "publish_date": "2024-04-17",
+  "published_at": "2024-04-17T16:26:00Z"
+ },
+ {
+  "id": 1795551,
+  "title": "12 Tips from a Mid-level Developer",
+  "description": "I officially have three years of experience and a mid-level job title. My best advice has changed...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp7e6gtjjgyhn277p20t3.png",
+  "slug": "12-tips-from-a-mid-level-developer-29bk",
+  "url": "https://dev.to/abbeyperini/12-tips-from-a-mid-level-developer-29bk",
+  "publish_date": "2024-04-17",
+  "published_at": "2024-04-17T12:51:20Z"
+ },
+ {
+  "id": 1816670,
+  "title": "30+ app ideas with complete source code",
+  "description": "This is an exciting time for technological advancements.  As developers, all of us need to work on...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36i80aifmnplhnghbt1w.gif",
+  "slug": "30-app-ideas-with-complete-source-code-5f76",
+  "url": "https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76",
+  "publish_date": "2024-04-17",
+  "published_at": "2024-04-17T11:22:11Z"
+ },
+ {
   "id": 1824872,
   "title": "AI Inference now available in Supabase Edge Functions",
   "description": "We're making it super easy to run AI models within Supabase Edge Functions. A new built-in API is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/refine/using-svgs-in-react-17bg",
   "publish_date": "2024-01-08",
   "published_at": "2024-01-08T09:11:36Z"
- },
- {
-  "id": 1719744,
-  "title": "How to Make Your Awesome GitHub Profile",
-  "description": "If you're new to GitHub or have mostly worked with private GitHub repositories, chances are you don't...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--F6jCmbz_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbyro9f39xdeowboserg.png",
-  "slug": "how-to-make-your-awesome-github-profile-hog",
-  "url": "https://dev.to/kshyun28/how-to-make-your-awesome-github-profile-hog",
-  "publish_date": "2024-01-07",
-  "published_at": "2024-01-07T13:17:35Z"
- },
- {
-  "id": 1719629,
-  "title": "How to Write Scalable and Testable Laravel Production App",
-  "description": "I have been working full-time as a software engineer for a little over three years. During this...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--NdZS-cb1--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kn3mdmjujtgzdsunjs6c.png",
-  "slug": "how-to-write-scalable-and-testable-laravel-production-app-5d78",
-  "url": "https://dev.to/ikechukwu/how-to-write-scalable-and-testable-laravel-production-app-5d78",
-  "publish_date": "2024-01-07",
-  "published_at": "2024-01-07T08:53:37Z"
- },
- {
-  "id": 1719519,
-  "title": "Converting a string to Base64 manually",
-  "description": "As a web developer, you must have heard or even used Base64 encodings. Generally we convert some...",
-  "cover_image": "",
-  "slug": "converting-a-string-to-base64-manually-4ln2",
-  "url": "https://dev.to/vvkkumar06/converting-a-string-to-base64-manually-4ln2",
-  "publish_date": "2024-01-07",
-  "published_at": "2024-01-07T05:57:24Z"
- },
- {
-  "id": 1718712,
-  "title": "A Brief Introduction to Terraform",
-  "description": "In DevOps and cloud infrastructures, efficient management and provisioning of resources (compute,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3hS8BPPF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3tq8fq8s498ppmtnw5hh.png",
-  "slug": "a-brief-introduction-to-terraform-fhm",
-  "url": "https://dev.to/annysah/a-brief-introduction-to-terraform-fhm",
-  "publish_date": "2024-01-07",
-  "published_at": "2024-01-07T04:59:04Z"
- },
- {
-  "id": 1719421,
-  "title": "Innovating Social Interaction: Introducing Storyscape",
-  "description": "Introduction   Welcome to Storyscape, a groundbreaking social media platform designed to...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--RAOBSW51--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h3pw3eo0lyug3gjzd6o3.png",
-  "slug": "innovating-social-interaction-introducing-storyscape-2kaa",
-  "url": "https://dev.to/ricardogesteves/innovating-social-interaction-introducing-storyscape-2kaa",
-  "publish_date": "2024-01-07",
-  "published_at": "2024-01-07T01:19:24Z"
  }
 ]
