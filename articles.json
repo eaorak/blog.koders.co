@@ -1,5 +1,55 @@
 [
  {
+  "id": 1829284,
+  "title": "Dominando os Desafios da Programação: Um Guia para os Erros Léxicos, Sintáticos e Semânticos",
+  "description": "Na jornada rumo à excelência na programação, enfrentamos uma série de desafios que testam nossa...",
+  "cover_image": "",
+  "slug": "dominando-os-desafios-da-programacao-um-guia-para-os-erros-lexicos-sintaticos-e-semanticos-n3g",
+  "url": "https://dev.to/devsnorte/dominando-os-desafios-da-programacao-um-guia-para-os-erros-lexicos-sintaticos-e-semanticos-n3g",
+  "publish_date": "2024-04-21",
+  "published_at": "2024-04-21T15:12:16Z"
+ },
+ {
+  "id": 1829513,
+  "title": "Discussion: whats your favorite framework",
+  "description": "What is favorite framework 😍.   React, vue Or svelte 🤨  LET ME KNOW IN THE COMMENTS",
+  "cover_image": "",
+  "slug": "discussion-whats-your-favorite-framework-3jf9",
+  "url": "https://dev.to/dino2328/discussion-whats-your-favorite-framework-3jf9",
+  "publish_date": "2024-04-21",
+  "published_at": "2024-04-21T11:00:50Z"
+ },
+ {
+  "id": 1829506,
+  "title": "Difference between WHERE vs HAVING Clause in SQL",
+  "description": "While both WHERE and HAVING are used for filtering rows, condition in WHERE clause is applied before grouping of data and condition on HAVING is applied after grouping ",
+  "cover_image": "",
+  "slug": "difference-between-where-vs-having-clause-in-sql-17g5",
+  "url": "https://dev.to/somadevtoo/difference-between-where-vs-having-clause-in-sql-17g5",
+  "publish_date": "2024-04-21",
+  "published_at": "2024-04-21T10:38:07Z"
+ },
+ {
+  "id": 1829503,
+  "title": "I REDESIGNED A WEBSITE FOR MICHEAL ( SCRIPT ROBOT STUDIOS )",
+  "description": "OK, you have the best idea in the world. You executed it all perfect but one thing is lacking. Like a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl92nlj37vpswdikhh6in.png",
+  "slug": "i-redesigned-a-website-for-micheal-script-robot-studios--1g39",
+  "url": "https://dev.to/mince/i-redesigned-a-website-for-micheal-script-robot-studios--1g39",
+  "publish_date": "2024-04-21",
+  "published_at": "2024-04-21T10:22:35Z"
+ },
+ {
+  "id": 1827230,
+  "title": "WITL (A web security friend)",
+  "description": "This is a submission for the Coze AI Bot Challenge: Bot Innovator.           What I Built   WITL...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs1n2kxnyw2usswxkza09.jpeg",
+  "slug": "witl-a-web-security-friend-262h",
+  "url": "https://dev.to/sarahokolo/witl-a-web-security-friend-262h",
+  "publish_date": "2024-04-21",
+  "published_at": "2024-04-21T07:03:49Z"
+ },
+ {
   "id": 1829013,
   "title": "Karma IDS: An Intrusion Detection System using eBPF and LSTM",
   "description": "Introducing Team Marauders   Krutika Gundecha - @capture_flint on devfolio, @capture_flint...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/luciantartea/10-best-websites-for-free-html-templates-vanilla-css-3gmn",
   "publish_date": "2024-01-12",
   "published_at": "2024-01-12T09:18:23Z"
- },
- {
-  "id": 1724552,
-  "title": "✨ Top 5 Underrated Open Source Projects that no one talks about 🫵🤐",
-  "description": "TL;DR   This article lists five great projects that are not very popular that you should...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4AdOLdea--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rj12gooh0fc8fdpzztxl.gif",
-  "slug": "top-5-underrated-open-source-projects-that-no-one-talks-about-2gki",
-  "url": "https://dev.to/shricodev/top-5-underrated-open-source-projects-that-no-one-talks-about-2gki",
-  "publish_date": "2024-01-11",
-  "published_at": "2024-01-11T15:12:26Z"
- },
- {
-  "id": 1724390,
-  "title": "3 Programming Myths That Keep You Stuck, Frustrated And Underpaid",
-  "description": "What if I told you that the reason you feel stuck in your developer career has nothing to do with...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--jzPBXj5x--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qpcb7px8mzvdl1l1cqj7.png",
-  "slug": "3-programming-myths-that-keep-you-stuck-frustrated-and-underpaid-27bg",
-  "url": "https://dev.to/dragosnedelcu/3-programming-myths-that-keep-you-stuck-frustrated-and-underpaid-27bg",
-  "publish_date": "2024-01-11",
-  "published_at": "2024-01-11T12:45:44Z"
- },
- {
-  "id": 1715805,
-  "title": "💎 This week's treasure: the 5 most underrated TypeScript repos 👀",
-  "description": "Hi there 👋  For this week's analysis, we found 5 TypeScript repos adored by the top 1% of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--svp5UAof--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ebm80c04qk95dhx9wkvk.gif",
-  "slug": "this-weeks-treasure-the-5-most-underrated-typescript-repos-4eh5",
-  "url": "https://dev.to/quine/this-weeks-treasure-the-5-most-underrated-typescript-repos-4eh5",
-  "publish_date": "2024-01-11",
-  "published_at": "2024-01-11T11:10:39Z"
- },
- {
-  "id": 1709205,
-  "title": "Building background email notifications with Next.js, Resend and Trigger.dev",
-  "description": "What you will find in this article?   Email notifications are the most common way to keep...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--r6b4PPEb--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4ov5g0f9wcyi2raxt0j.gif",
-  "slug": "building-background-email-notifications-with-nextjs-resend-and-triggerdev-4cem",
-  "url": "https://dev.to/mfts/building-background-email-notifications-with-nextjs-resend-and-triggerdev-4cem",
-  "publish_date": "2024-01-11",
-  "published_at": "2024-01-11T09:58:50Z"
- },
- {
-  "id": 1723821,
-  "title": "Beyond the Lens: The Promise and Pitfalls of VR in Journalism",
-  "description": "Virtual Reality offers humanity a whole new way of experiencing and interacting with digital...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--VRn2JzwV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9lqxwhj727k14u48ch1p.jpg",
-  "slug": "beyond-the-lens-the-promise-and-pitfalls-of-vr-in-journalism-2eb2",
-  "url": "https://dev.to/andrewabramov/beyond-the-lens-the-promise-and-pitfalls-of-vr-in-journalism-2eb2",
-  "publish_date": "2024-01-11",
-  "published_at": "2024-01-11T01:15:56Z"
  }
 ]
