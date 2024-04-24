@@ -1,5 +1,55 @@
 [
  {
+  "id": 1831466,
+  "title": "🥇The first framework that lets you visualize your React/NodeJS app 🤯",
+  "description": "Visualize the Prize   Imagine you’re working on your full-stack app, and you want to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx2wctld624pqstppnc1r.png",
+  "slug": "the-first-framework-that-lets-you-visualize-your-reactnodejs-app-1d63",
+  "url": "https://dev.to/wasp/the-first-framework-that-lets-you-visualize-your-reactnodejs-app-1d63",
+  "publish_date": "2024-04-23",
+  "published_at": "2024-04-23T12:05:57Z"
+ },
+ {
+  "id": 1831327,
+  "title": "Building a self-creating website with Supabase and AI",
+  "description": "TL;DR:   Built with Supabase, Astro, Unreal Speech, Stable Diffusion, Replicate, Metropolitan Museum...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2fcvz3p9m82jg8a29ftv.png",
+  "slug": "building-a-self-creating-website-with-supabase-and-ai-5b90",
+  "url": "https://dev.to/laznic/building-a-self-creating-website-with-supabase-and-ai-5b90",
+  "publish_date": "2024-04-23",
+  "published_at": "2024-04-23T11:36:30Z"
+ },
+ {
+  "id": 1831480,
+  "title": "How to build dev.to In-App Notification System in 20 minutes",
+  "description": "dev.to is a very popular community for developers. It’s a platform for thousands of developers to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwlcnch3kod5u6t6u37fz.png",
+  "slug": "how-to-build-devto-in-app-notification-system-in-20-minutes-2m98",
+  "url": "https://dev.to/novu/how-to-build-devto-in-app-notification-system-in-20-minutes-2m98",
+  "publish_date": "2024-04-23",
+  "published_at": "2024-04-23T11:14:26Z"
+ },
+ {
+  "id": 1823747,
+  "title": "🚀 21 Tools to take your dev skills to the moon 🌝",
+  "description": "I've seen hundreds of AI tools and many of them are changing the world.  As developers, there's...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4kdfgyuaqt003xcjkpe.png",
+  "slug": "21-tools-to-take-your-dev-skills-to-the-moon-53mf",
+  "url": "https://dev.to/taipy/21-tools-to-take-your-dev-skills-to-the-moon-53mf",
+  "publish_date": "2024-04-23",
+  "published_at": "2024-04-23T09:38:05Z"
+ },
+ {
+  "id": 1815065,
+  "title": "Video encoded as emojis⁉️ Stored in a DB? 😱🤯",
+  "description": "OK, even I think I have gone too far this time!  Can we convert video to emojis (silly) and then save...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mqkrv5g9kelap3gdcln.png",
+  "slug": "video-encoded-as-emojis-stored-in-a-db-mp1",
+  "url": "https://dev.to/grahamthedev/video-encoded-as-emojis-stored-in-a-db-mp1",
+  "publish_date": "2024-04-23",
+  "published_at": "2024-04-23T08:24:56Z"
+ },
+ {
   "id": 1830865,
   "title": "Top 7 Featured DEV Posts of the Week",
   "description": "A round up of the most-read and most-loved contributions from the community this past week",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2",
   "publish_date": "2024-01-14",
   "published_at": "2024-01-14T00:46:39Z"
- },
- {
-  "id": 1726643,
-  "title": "Understanding Async Iterators in JavaScript",
-  "description": "A while ago, I made a post on my Medium that I talked all about the Iterator protocol and its user...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--kAel6PhC--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gkuol523zrfa4lz6rbqd.png",
-  "slug": "understanding-async-iterators-in-javascript-aog",
-  "url": "https://dev.to/_staticvoid/understanding-async-iterators-in-javascript-aog",
-  "publish_date": "2024-01-13",
-  "published_at": "2024-01-13T20:56:58Z"
- },
- {
-  "id": 1725899,
-  "title": "DaisyUI + Alpine.js + Codehooks.io - the simple web app trio",
-  "description": "Hello and welcome to this hands-on tutorial where we'll create a simple and interactive web app using...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gRPRhYDH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9l0lvoxd4igouuwgggur.png",
-  "slug": "daisyui-alpinejs-codehooksio-the-simple-web-app-trio-4lad",
-  "url": "https://dev.to/restdbjones/daisyui-alpinejs-codehooksio-the-simple-web-app-trio-4lad",
-  "publish_date": "2024-01-13",
-  "published_at": "2024-01-13T15:23:32Z"
- },
- {
-  "id": 1726387,
-  "title": "Discover Awesome Productivity Tools On GitHub",
-  "description": "Introducing My GitHub Repository: Awesome Productivity Tools \u0026amp; The Upcoming Productivity...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--gignpedo--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nx6lch2mkrrl0zaw168g.png",
-  "slug": "discover-awesome-productivity-tools-on-github-526k",
-  "url": "https://dev.to/stan8086/discover-awesome-productivity-tools-on-github-526k",
-  "publish_date": "2024-01-13",
-  "published_at": "2024-01-13T13:41:57Z"
- },
- {
-  "id": 1712262,
-  "title": "Detect, Defend, Prevail: Payments Fraud Detection using ML \u0026 Deepchecks",
-  "description": "If you are new to machine learning or have just started, you have come to the perfect place!!  Today,...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i76U32xm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/q5dd9j90v0kizkgsq0xw.jpg",
-  "slug": "detect-defend-prevail-payments-fraud-detection-using-ml-deepchecks-4fag",
-  "url": "https://dev.to/jagroop2001/detect-defend-prevail-payments-fraud-detection-using-ml-deepchecks-4fag",
-  "publish_date": "2024-01-13",
-  "published_at": "2024-01-13T11:14:00Z"
- },
- {
-  "id": 1716415,
-  "title": "What are you learning about this weekend? 🧠",
-  "description": "Hey hey!  What's everybody up to this weekend? Learning anything new?  Whether you're sharpening your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--HH-jGX1U--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5vlcox2jzqysn8zh8mv.jpg",
-  "slug": "what-are-you-learning-about-this-weekend-42k3",
-  "url": "https://dev.to/codenewbieteam/what-are-you-learning-about-this-weekend-42k3",
-  "publish_date": "2024-01-13",
-  "published_at": "2024-01-13T08:00:00Z"
  }
 ]
