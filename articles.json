@@ -1,5 +1,55 @@
 [
  {
+  "id": 1833120,
+  "title": "Glasskube Beta is live!",
+  "description": "Glasskube has been on a tear lately. 🚀  Having only just launched officially last February and having...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ziuc1lh9dg05idh5d9s.png",
+  "slug": "glasskube-beta-is-live-2k06",
+  "url": "https://dev.to/glasskube/glasskube-beta-is-live-2k06",
+  "publish_date": "2024-04-24",
+  "published_at": "2024-04-24T14:49:06Z"
+ },
+ {
+  "id": 1832901,
+  "title": "Skills you need as a DevRel",
+  "description": "After Covid, DevRel has been a very trending word in the tech domain and tech industry. DevRel space...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiuvmxbpiz8yj6xanur2z.png",
+  "slug": "skills-you-need-as-a-devrel-57bi",
+  "url": "https://dev.to/ayush2390/skills-you-need-as-a-devrel-57bi",
+  "publish_date": "2024-04-24",
+  "published_at": "2024-04-24T10:31:54Z"
+ },
+ {
+  "id": 1818082,
+  "title": "Approaches to Styling React Components, Best Use Cases",
+  "description": "In this article, we revisit the varied approaches for styling components in React, an extensively...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftftxqyff1n4h9e02xd9m.png",
+  "slug": "approaches-to-style-react-components-best-use-cases-4ifb",
+  "url": "https://dev.to/antonzo/approaches-to-style-react-components-best-use-cases-4ifb",
+  "publish_date": "2024-04-24",
+  "published_at": "2024-04-24T07:00:20Z"
+ },
+ {
+  "id": 1832687,
+  "title": "What are Classes and How to Use Them in JavaScript ? 🤔🤔",
+  "description": "JavaScript, prior to ES6 (ECMAScript 2015), relied on constructor functions to mimic object-oriented...",
+  "cover_image": "",
+  "slug": "what-are-classes-and-how-to-use-them-in-javascript--3hp9",
+  "url": "https://dev.to/aarushnautiyal/what-are-classes-and-how-to-use-them-in-javascript--3hp9",
+  "publish_date": "2024-04-24",
+  "published_at": "2024-04-24T06:33:02Z"
+ },
+ {
+  "id": 1832675,
+  "title": "My Favorite DevTools to Build AI/ML Applications!",
+  "description": "I come from the DevOps parts of the world and the AI/ML world was new for me until I joined my...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpde9rfnu9gfjbfe5geua.gif",
+  "slug": "my-favorite-devtools-to-build-aiml-applications-3c0c",
+  "url": "https://dev.to/pavanbelagatti/my-favorite-devtools-to-build-aiml-applications-3c0c",
+  "publish_date": "2024-04-24",
+  "published_at": "2024-04-24T06:21:11Z"
+ },
+ {
   "id": 1831466,
   "title": "🥇The first framework that lets you visualize your React/NodeJS app 🤯",
   "description": "Visualize the Prize   Imagine you’re working on your full-stack app, and you want to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/navneet7716/optimizing-sql-queries-h9j",
   "publish_date": "2024-01-15",
   "published_at": "2024-01-15T09:45:17Z"
- },
- {
-  "id": 1727312,
-  "title": "C#, Dart, TypeScript , Python: side-by-side",
-  "description": "String formating      Language Syntax Type Example Description     C# Composite...",
-  "cover_image": "",
-  "slug": "c-dart-typescript-python-side-by-side-3j34",
-  "url": "https://dev.to/maximsaplin/c-dart-typescript-python-side-by-side-3j34",
-  "publish_date": "2024-01-14",
-  "published_at": "2024-01-14T20:42:17Z"
- },
- {
-  "id": 1712879,
-  "title": "Why pomodoro doesn't work? Try this alternative 🍅",
-  "description": "What's Pomodoro   The Pomodoro Technique, developed by Francesco Cirillo, is a time...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ddr_iu6E--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zjob6e6vrzndstoh7obq.png",
-  "slug": "why-pomodoro-doesnt-work-try-this-alternative-2no9",
-  "url": "https://dev.to/flowmodor/why-pomodoro-doesnt-work-try-this-alternative-2no9",
-  "publish_date": "2024-01-14",
-  "published_at": "2024-01-14T12:00:57Z"
- },
- {
-  "id": 1726728,
-  "title": "CSS Trivia: Masonry Grid Layout",
-  "description": "Pinterest's layout has always been the defining feature of the site since its inception. It has been...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--e3zIpflF--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mu7sc9mbppqz7aqoyb5j.png",
-  "slug": "css-trivia-masonry-grid-layout-50ck",
-  "url": "https://dev.to/irrelevantspace/css-trivia-masonry-grid-layout-50ck",
-  "publish_date": "2024-01-14",
-  "published_at": "2024-01-14T06:00:00Z"
- },
- {
-  "id": 1726751,
-  "title": "My first game!",
-  "description": "Battleships Ahoy!  Delighted to share my first self-made game crafted with Python and utilizing...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Oo5oWpF9--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ss7f4mi5ykp0bu00jk7w.gif",
-  "slug": "my-first-game-4f63",
-  "url": "https://dev.to/kkeats9898/my-first-game-4f63",
-  "publish_date": "2024-01-14",
-  "published_at": "2024-01-14T02:40:43Z"
- },
- {
-  "id": 1726721,
-  "title": "10 YouTube Channels for Software Developer",
-  "description": "One way to get good at something is to watch others do it. This applies to building your...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--5aqBWGyG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4dabyjbbilqwxuqbb417.jpg",
-  "slug": "10-youtube-channels-software-developer-should-follow-18p2",
-  "url": "https://dev.to/durgesh4993/10-youtube-channels-software-developer-should-follow-18p2",
-  "publish_date": "2024-01-14",
-  "published_at": "2024-01-14T00:46:39Z"
  }
 ]
