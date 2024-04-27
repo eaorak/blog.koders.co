@@ -1,5 +1,55 @@
 [
  {
+  "id": 1833967,
+  "title": "🌱 8 seed stage OS projects you should pay attention to 👀",
+  "description": "Hey friends 👋  Every week, our team at Quine scans the open-source ecosystem for great projects to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5fnkww1shi8jtwg5dswh.gif",
+  "slug": "8-seed-round-os-projects-you-should-pay-attention-to-m2i",
+  "url": "https://dev.to/quine/8-seed-round-os-projects-you-should-pay-attention-to-m2i",
+  "publish_date": "2024-04-26",
+  "published_at": "2024-04-26T14:06:35Z"
+ },
+ {
+  "id": 1834369,
+  "title": "Shell Programming",
+  "description": "In today's rapidly evolving tech landscape, mastering the command line streamlines the development...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fza3i2duw5lezggbmvyi5.png",
+  "slug": "shell-programming-4k65",
+  "url": "https://dev.to/ollie20/shell-programming-4k65",
+  "publish_date": "2024-04-26",
+  "published_at": "2024-04-26T10:11:17Z"
+ },
+ {
+  "id": 1834995,
+  "title": "Earth Day Frontend Challenge: Where Creativity Meets the Cosmos!",
+  "description": "Discover the Beauty of Earth: Frontend Challenge!            What I Built   For the Frontend...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhyeiciwuefjwlowja11.png",
+  "slug": "earth-day-frontend-challenge-where-creativity-meets-the-cosmos-19gb",
+  "url": "https://dev.to/chintanonweb/earth-day-frontend-challenge-where-creativity-meets-the-cosmos-19gb",
+  "publish_date": "2024-04-26",
+  "published_at": "2024-04-26T09:31:49Z"
+ },
+ {
+  "id": 1834543,
+  "title": "What was your win this week?",
+  "description": "Hey! 👋  You made it. It's officially Friday. 😎  Looking back on this past week, what was something...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg69qs2cyguc1b84rkuni.jpg",
+  "slug": "what-was-your-win-this-week-2h56",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-2h56",
+  "publish_date": "2024-04-26",
+  "published_at": "2024-04-26T09:00:00Z"
+ },
+ {
+  "id": 1834732,
+  "title": "Llama 3 with Function Calling and Code Interpreter",
+  "description": "At this moment, Llama 3 is one of the most capable open-source models. In this guide, we give Llama 3...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp78ycll37fh2ys51pr0u.png",
+  "slug": "llama-3-with-function-calling-and-code-interpreter-55nb",
+  "url": "https://dev.to/tereza_tizkova/llama-3-with-function-calling-and-code-interpreter-55nb",
+  "publish_date": "2024-04-26",
+  "published_at": "2024-04-26T02:55:58Z"
+ },
+ {
   "id": 1820284,
   "title": "Hosting old Node Projects 👴🏼",
   "description": "A while ago, a friend of mine asked me to help him extend an old NodeJS project. But when we finished...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9",
   "publish_date": "2024-01-17",
   "published_at": "2024-01-17T09:47:27Z"
- },
- {
-  "id": 1728583,
-  "title": "Learn serverless on AWS step-by-step - Schedule tasks with EventBridge Scheduler",
-  "description": "Discover how to use AWS EventBridge Scheduler to schedule Lambda function tasks in your serverless applications. Step-by-step tutorial with code examples.",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--oYf1Pxx_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/pchol22/kumo-articles/master/blog-posts/learn-serverless/scheduler/assets/cover.png",
-  "slug": "learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh",
-  "url": "https://dev.to/slsbytheodo/learn-serverless-on-aws-step-by-step-schedule-tasks-with-eventbridge-scheduler-4cbh",
-  "publish_date": "2024-01-16",
-  "published_at": "2024-01-16T14:12:20Z"
- },
- {
-  "id": 1726904,
-  "title": "Variables, Shadowing, and Constants in Rust",
-  "description": "Understanding Variables in Rust   Rust is a statically and strongly typed language. This...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YcVWMI8P--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rdr3k3x9ji695j9wp9yd.png",
-  "slug": "variables-shadowing-and-constants-in-rust-1fcj",
-  "url": "https://dev.to/francescoxx/variables-shadowing-and-constants-in-rust-1fcj",
-  "publish_date": "2024-01-16",
-  "published_at": "2024-01-16T14:10:06Z"
- },
- {
-  "id": 1715151,
-  "title": "Dead or not dead 💀 - Exploring the term and why Meteor.js is super-alive! ☄️",
-  "description": "I recently picked up a comment on Reddit that directly feeds into the never-ending \"Meteor is dead\"...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--k8dFyDHH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z20wwduxfko7zghmtum4.png",
-  "slug": "dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c",
-  "url": "https://dev.to/meteor/dead-or-not-dead-exploring-the-term-and-why-meteorjs-is-super-alive-4j2c",
-  "publish_date": "2024-01-16",
-  "published_at": "2024-01-16T12:47:15Z"
- },
- {
-  "id": 1727386,
-  "title": "How To Handle Data With GraphQL Relay Client Schema Extensions",
-  "description": "GraphQL Relay is one of the most powerful GraphQL clients that you can found on the web environment....",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--MeSfI7CB--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s1p6actyu90o2efpi8w1.png",
-  "slug": "how-to-handle-data-with-graphql-relay-client-schema-extensions-4o3",
-  "url": "https://dev.to/woovi/how-to-handle-data-with-graphql-relay-client-schema-extensions-4o3",
-  "publish_date": "2024-01-16",
-  "published_at": "2024-01-16T11:00:35Z"
- },
- {
-  "id": 1727195,
-  "title": "14 Things To Check Before Deploying a Website 👨‍💻🔥",
-  "description": "Let's get started! 🚀   Dropping a website out into the wild web is a big deal, so making...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--aH6Gd9Gy--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3j0fzmbm9siz7ox5vo7s.png",
-  "slug": "14-things-to-check-before-deploying-a-website-49ee",
-  "url": "https://dev.to/arjuncodess/14-things-to-check-before-deploying-a-website-49ee",
-  "publish_date": "2024-01-16",
-  "published_at": "2024-01-16T05:25:50Z"
  }
 ]
