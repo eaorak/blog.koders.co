@@ -1,5 +1,55 @@
 [
  {
+  "id": 1834349,
+  "title": "6 Months Anniversary on DEV! 🎊",
+  "description": "Today I have been a member of the DEV community for 6 whole months! 🌟  So far I have published 22...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ivwat19je4ofdkcoipe.jpg",
+  "slug": "6-months-anniversary-on-dev-de7",
+  "url": "https://dev.to/anitaolsen/6-months-anniversary-on-dev-de7",
+  "publish_date": "2024-04-27",
+  "published_at": "2024-04-27T14:00:00Z"
+ },
+ {
+  "id": 1836123,
+  "title": "Code is craftsmanship",
+  "description": "Hey!  So, I've been thinking a lot about why we do what we do—especially when it comes to building...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw2lad0bnz3a7ulbtcjps.jpg",
+  "slug": "code-is-craftsmanship-1mb9",
+  "url": "https://dev.to/buildwebcrumbs/code-is-craftsmanship-1mb9",
+  "publish_date": "2024-04-27",
+  "published_at": "2024-04-27T13:55:24Z"
+ },
+ {
+  "id": 1835964,
+  "title": "Ansible Basics: Run Your First HelloWorld Playbook 🚀",
+  "description": "Overview 👋   In this blog post, we'll introduce Ansible, explore its core concepts, and walk...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyh9d1hubt2c0ays7arjv.png",
+  "slug": "ansible-basics-your-first-helloworld-playbook-3k6c",
+  "url": "https://dev.to/tungbq/ansible-basics-your-first-helloworld-playbook-3k6c",
+  "publish_date": "2024-04-27",
+  "published_at": "2024-04-27T09:04:35Z"
+ },
+ {
+  "id": 1825763,
+  "title": "What are you learning about this weekend? 🧠",
+  "description": "Hey everybody! 👋  Hope y'all're all having wonderful weekends.  Whether you're sharpening your JS...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F760zfq0i2pzsp314rqtf.jpg",
+  "slug": "what-are-you-learning-about-this-weekend-2ipc",
+  "url": "https://dev.to/devteam/what-are-you-learning-about-this-weekend-2ipc",
+  "publish_date": "2024-04-27",
+  "published_at": "2024-04-27T07:35:00Z"
+ },
+ {
+  "id": 1835921,
+  "title": "Top 50 System Design Interview Questions for 2024",
+  "description": "These are 50 easy to hard System design interview questions for 2024",
+  "cover_image": "",
+  "slug": "top-50-system-design-interview-questions-for-2024-5dbk",
+  "url": "https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk",
+  "publish_date": "2024-04-27",
+  "published_at": "2024-04-27T07:24:06Z"
+ },
+ {
   "id": 1833967,
   "title": "🌱 8 seed stage OS projects you should pay attention to 👀",
   "description": "Hey friends 👋  Every week, our team at Quine scans the open-source ecosystem for great projects to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/c4r4x35/popular-tagprogramming-last-week-top-5-3o9",
   "publish_date": "2024-01-18",
   "published_at": "2024-01-18T05:23:45Z"
- },
- {
-  "id": 1728075,
-  "title": "418 I'm a Teapot",
-  "description": "Believe it or not, \"418 I'm a Teapot\" is a legitimate HTTP status code, although it comes with a...",
-  "cover_image": "",
-  "slug": "418-im-a-teapot-2jf5",
-  "url": "https://dev.to/arjuncodess/418-im-a-teapot-2jf5",
-  "publish_date": "2024-01-17",
-  "published_at": "2024-01-17T15:14:02Z"
- },
- {
-  "id": 1732711,
-  "title": "AWS Community Builders: O que é e como se tornar [PT/BR]",
-  "description": "TL,DR: Neste artigo irei falar sobre o programa AWS Community Builders, a minha experiência nos...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--sCbYFF2o--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7t45wfshf6uumjbdp0k0.jpg",
-  "slug": "aws-community-builders-o-que-e-e-como-se-tornar-ptbr-3h4m",
-  "url": "https://dev.to/aws-builders/aws-community-builders-o-que-e-e-como-se-tornar-ptbr-3h4m",
-  "publish_date": "2024-01-17",
-  "published_at": "2024-01-17T15:03:44Z"
- },
- {
-  "id": 1732552,
-  "title": "🏞️5 beautiful open-source web apps to learn from and get inspired 🙇‍♀️💡",
-  "description": "As the title says, in this post, we'll cover open-source web apps you can learn from and use as a...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Q5JrmrpV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kcrnddj5j7tr12mhm484.png",
-  "slug": "5-beautiful-open-source-web-apps-to-learn-from-and-get-inspired-280f",
-  "url": "https://dev.to/matijasos/5-beautiful-open-source-web-apps-to-learn-from-and-get-inspired-280f",
-  "publish_date": "2024-01-17",
-  "published_at": "2024-01-17T13:11:12Z"
- },
- {
-  "id": 1716118,
-  "title": "‼️ Top 5 Open-Source LLM Evaluation Frameworks in 2024 🎉🔥🚀",
-  "description": "TL:DR   \"I feel like there are more LLM evaluation solutions out there than there are...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--hli9cR6N--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lm17nmcy5mlvvui85rfo.png",
-  "slug": "-top-5-open-source-llm-evaluation-frameworks-in-2024-98m",
-  "url": "https://dev.to/guybuildingai/-top-5-open-source-llm-evaluation-frameworks-in-2024-98m",
-  "publish_date": "2024-01-17",
-  "published_at": "2024-01-17T10:24:02Z"
- },
- {
-  "id": 1732316,
-  "title": "Top 5+ NextJS \u0026 ReactJS Boilerplates for 2024",
-  "description": "As the web development landscape continues to evolve, NextJS remains a front-runner in the world of...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--a8IlkR2G--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/fnoq8qt2l9esb3mqn5ra.png",
-  "slug": "top-5-nextjs-reactjs-boilerplates-for-2024-ll9",
-  "url": "https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9",
-  "publish_date": "2024-01-17",
-  "published_at": "2024-01-17T09:47:27Z"
  }
 ]
