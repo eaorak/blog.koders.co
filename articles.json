@@ -1,5 +1,55 @@
 [
  {
+  "id": 1256430,
+  "title": "So I got fired",
+  "description": "Lets talk about that",
+  "cover_image": "",
+  "slug": "so-i-got-fired-3ko5",
+  "url": "https://dev.to/darkliahos/so-i-got-fired-3ko5",
+  "publish_date": "2024-05-03",
+  "published_at": "2024-05-03T15:06:08Z"
+ },
+ {
+  "id": 1841659,
+  "title": "What are passkeys and how do they work?",
+  "description": "Passkeys are a big step towards a passwordless future.  Allowing users the ability to sign in with...",
+  "cover_image": "",
+  "slug": "what-are-passkeys-and-how-do-they-work-mgi",
+  "url": "https://dev.to/clerk/what-are-passkeys-and-how-do-they-work-mgi",
+  "publish_date": "2024-05-03",
+  "published_at": "2024-05-03T14:47:40Z"
+ },
+ {
+  "id": 1834544,
+  "title": "What was your win this week?",
+  "description": "What up y'all?!  Hope everybody has had a nice successful week. 🙌  Looking back on this past week,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg69qs2cyguc1b84rkuni.jpg",
+  "slug": "what-was-your-win-this-week-280o",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-280o",
+  "publish_date": "2024-05-03",
+  "published_at": "2024-05-03T11:06:00Z"
+ },
+ {
+  "id": 1841226,
+  "title": "Building Your WordPress Dream Home on AWS EC2: A Step-by-Step Guide with Security in Mind 🎉",
+  "description": "Building Your WordPress Dream Home on AWS EC2: A Step-by-Step Guide with Security in Mind...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdrpo0o2dw81cghlcu5e.jpg",
+  "slug": "building-your-wordpress-dream-home-on-aws-ec2-a-step-by-step-guide-with-security-in-mind-2d9k",
+  "url": "https://dev.to/abhinavk454/building-your-wordpress-dream-home-on-aws-ec2-a-step-by-step-guide-with-security-in-mind-2d9k",
+  "publish_date": "2024-05-03",
+  "published_at": "2024-05-03T07:14:57Z"
+ },
+ {
+  "id": 1841119,
+  "title": "What's new in React 19?",
+  "description": "Simplifying State Management with Actions in React 19!   Hey there, React devs! Exciting...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgviznlkpekghvkis34mh.png",
+  "slug": "whats-new-in-react-19-1od9",
+  "url": "https://dev.to/respect17/whats-new-in-react-19-1od9",
+  "publish_date": "2024-05-03",
+  "published_at": "2024-05-03T02:36:41Z"
+ },
+ {
   "id": 1832218,
   "title": "Showcase your open source project at top developer conferences in Berlin this summer 🇩🇪",
   "description": "This June and July, we are thrilled to partner with our friends at GitButler and WeAreDevelopers to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/quine/5-open-source-tools-for-effective-ml-testing-2mc4",
   "publish_date": "2024-01-25",
   "published_at": "2024-01-25T12:17:56Z"
- },
- {
-  "id": 1740339,
-  "title": "Meteor is getting new docs!",
-  "description": "We are in the process of migrating documentation from the current site to the new one. You can...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7p4efn20h9kv03mt4exq.png",
-  "slug": "meteor-is-getting-new-docs-h6g",
-  "url": "https://dev.to/meteor/meteor-is-getting-new-docs-h6g",
-  "publish_date": "2024-01-24",
-  "published_at": "2024-01-24T19:13:40Z"
- },
- {
-  "id": 1740351,
-  "title": "Cloud, why so difficult? 🤷‍♀️",
-  "description": "A manifesto for cloud-oriented programming",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnztz1tb0j4dategg25ns.gif",
-  "slug": "cloud-why-so-difficult-3j33",
-  "url": "https://dev.to/winglang/cloud-why-so-difficult-3j33",
-  "publish_date": "2024-01-24",
-  "published_at": "2024-01-24T17:07:13Z"
- },
- {
-  "id": 1738350,
-  "title": "🪄Chat with your resume builder - with Next.js, OpenAI, and CopilotKit 📑✨",
-  "description": "TL;DR   In this article, you will learn how to build an AI-powered resume builder...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsrds5ds6umeanfsyuyfe.gif",
-  "slug": "how-to-build-the-with-nextjs-openai-1mhb",
-  "url": "https://dev.to/copilotkit/how-to-build-the-with-nextjs-openai-1mhb",
-  "publish_date": "2024-01-24",
-  "published_at": "2024-01-24T15:28:52Z"
- },
- {
-  "id": 1732810,
-  "title": "Tackling Clickbait on DEV: Strategy and Technical Approach",
-  "description": "Tackling Clickbait on DEV: Our Strategy and Actions   Recently, we have implemented measures...",
-  "cover_image": "",
-  "slug": "tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9",
-  "url": "https://dev.to/devteam/tackling-clickbait-on-dev-strategy-and-technical-approach-3dh9",
-  "publish_date": "2024-01-24",
-  "published_at": "2024-01-24T14:34:27Z"
- },
- {
-  "id": 1738576,
-  "title": "18 GitHub Repositories You Need to Star Right Now! 🌟🔥",
-  "description": "Let's Get Started 🙌   GitHub, the popular online platform for software and web development...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fovrws6gjp38iftrhyzwz.png",
-  "slug": "18-github-repositories-you-need-to-star-right-now-m0d",
-  "url": "https://dev.to/arjuncodess/18-github-repositories-you-need-to-star-right-now-m0d",
-  "publish_date": "2024-01-24",
-  "published_at": "2024-01-24T01:45:00Z"
  }
 ]
