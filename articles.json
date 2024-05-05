@@ -1,5 +1,55 @@
 [
  {
+  "id": 1842568,
+  "title": "Basic Sorting Algorithms",
+  "description": "Data organization is crucial in today’s digital world. Sorting algorithms are the silent heroes...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw9cyrjl3xwqbw40uywib.jpg",
+  "slug": "basic-sorting-5h20",
+  "url": "https://dev.to/m__mdy__m/basic-sorting-5h20",
+  "publish_date": "2024-05-04",
+  "published_at": "2024-05-04T14:13:37Z"
+ },
+ {
+  "id": 1842500,
+  "title": "New AI Frontend Tool Released This Week",
+  "description": "We've opened up to the world a Frontend AI tool 👀 that we've been using internally to speed up our...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsnkfwtjmeyz0mc1mjpya.png",
+  "slug": "new-ai-frontend-tool-released-this-week-96f",
+  "url": "https://dev.to/buildwebcrumbs/new-ai-frontend-tool-released-this-week-96f",
+  "publish_date": "2024-05-04",
+  "published_at": "2024-05-04T12:58:50Z"
+ },
+ {
+  "id": 1842200,
+  "title": "Implementing 3D Graphics in React",
+  "description": "3D is an exciting area in computer science, and it could range from creating 3D shapes, vectors,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq68zilwxdckwfmvuheho.png",
+  "slug": "implementing-3d-graphics-in-react-9mg",
+  "url": "https://dev.to/markyu/implementing-3d-graphics-in-react-9mg",
+  "publish_date": "2024-05-04",
+  "published_at": "2024-05-04T05:03:36Z"
+ },
+ {
+  "id": 1842193,
+  "title": "AWS fundamental RoadMap 🎯",
+  "description": "Hello devs! 🫶🏻 Here is roadmap of AWS fundamentals, everything you need to hit your full stack...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqve4ogleu8vgpzgjbfr.jpg",
+  "slug": "aws-fundamental-roadmap-cb2",
+  "url": "https://dev.to/khushindpatel/aws-fundamental-roadmap-cb2",
+  "publish_date": "2024-05-04",
+  "published_at": "2024-05-04T04:38:29Z"
+ },
+ {
+  "id": 1842017,
+  "title": "Um Experimento Social Com Soft Skills",
+  "description": "Um Experimento Social   Olá turma, hoje eu quero contar para vocês uma das maiores lições...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgf56kag32xtr7fsyhfvr.png",
+  "slug": "um-experimento-social-com-soft-skills-328f",
+  "url": "https://dev.to/andrel/um-experimento-social-com-soft-skills-328f",
+  "publish_date": "2024-05-04",
+  "published_at": "2024-05-04T00:56:50Z"
+ },
+ {
   "id": 1256430,
   "title": "So I got fired",
   "description": "Lets talk about that",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jmfayard/show-your-work-3hpg",
   "publish_date": "2024-01-26",
   "published_at": "2024-01-26T07:56:24Z"
- },
- {
-  "id": 1741620,
-  "title": "What is a Vector Database?",
-  "description": "A Vector Database is a specialized database system designed for efficiently indexing, querying, and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnube67smeke8j7b04j77.jpg",
-  "slug": "what-is-a-vector-database-2h0b",
-  "url": "https://dev.to/qdrant/what-is-a-vector-database-2h0b",
-  "publish_date": "2024-01-25",
-  "published_at": "2024-01-25T21:29:58Z"
- },
- {
-  "id": 1741326,
-  "title": "Resume Driven Contributions",
-  "description": "10 years ago my open source journey started with an email to a maintainer because I really wanted to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqqgyd2zavnyeucxfom32.png",
-  "slug": "resume-driven-contributions-31ed",
-  "url": "https://dev.to/opensauced/resume-driven-contributions-31ed",
-  "publish_date": "2024-01-25",
-  "published_at": "2024-01-25T17:23:00Z"
- },
- {
-  "id": 1740935,
-  "title": "feat: Deploy To Cloud - Livecycle Docker Extension",
-  "description": "In our recent blog post, \"In-Flight Collaboration With The Livecycle Docker Extension,\" we introduced...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxbgjt198uzqapltdkmpm.png",
-  "slug": "feat-deploy-to-cloud-livecycle-docker-extension-3c88",
-  "url": "https://dev.to/livecycle/feat-deploy-to-cloud-livecycle-docker-extension-3c88",
-  "publish_date": "2024-01-25",
-  "published_at": "2024-01-25T13:11:12Z"
- },
- {
-  "id": 1709185,
-  "title": "Deploy a WebAssembly-powered Next.js app on Vercel serverless functions",
-  "description": "What you will find in this article?   Javascript is great but sometimes you need to run some...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvgsd6beyrgpt6ejv1ugp.png",
-  "slug": "deploy-a-webassembly-powered-nextjs-app-on-vercel-serverless-functions-20b0",
-  "url": "https://dev.to/mfts/deploy-a-webassembly-powered-nextjs-app-on-vercel-serverless-functions-20b0",
-  "publish_date": "2024-01-25",
-  "published_at": "2024-01-25T12:53:31Z"
- },
- {
-  "id": 1733966,
-  "title": "5 open source tools for effective ML Testing",
-  "description": "Hi there 👋  In this week's article, we will look into various Machine Learning testing tools.   The...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4lec8wgbgfp1c222qudo.gif",
-  "slug": "5-open-source-tools-for-effective-ml-testing-2mc4",
-  "url": "https://dev.to/quine/5-open-source-tools-for-effective-ml-testing-2mc4",
-  "publish_date": "2024-01-25",
-  "published_at": "2024-01-25T12:17:56Z"
  }
 ]
