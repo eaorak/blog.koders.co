@@ -1,5 +1,55 @@
 [
  {
+  "id": 1843130,
+  "title": "Answers to Common Next.js Questions",
+  "description": "Web development went from server rendered applications to single page applications rendered fully on...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fezqhiu2q4ef6vkrlev8r.png",
+  "slug": "answers-to-common-nextjs-questions-1oki",
+  "url": "https://dev.to/perssondennis/answers-to-common-nextjs-questions-1oki",
+  "publish_date": "2024-05-05",
+  "published_at": "2024-05-05T14:25:46Z"
+ },
+ {
+  "id": 1843176,
+  "title": "How To Reverse A Linked List Recursively In Python",
+  "description": "In Python interviews, you'll often come across questions regarding reversing linked lists. Let's...",
+  "cover_image": "",
+  "slug": "how-to-reverse-a-linked-list-recursively-in-python-4n3b",
+  "url": "https://dev.to/rk042/how-to-reverse-a-linked-list-recursively-in-python-4n3b",
+  "publish_date": "2024-05-05",
+  "published_at": "2024-05-05T11:39:54Z"
+ },
+ {
+  "id": 1843024,
+  "title": "Themed Retrospectives🎡🍄",
+  "description": "Hey there, I’m super excited to talk about something that's spiced up our retrospective meetings...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jpvozphrwsav41fwr6f.png",
+  "slug": "themed-retrospectives-2f6p",
+  "url": "https://dev.to/mattlewandowski93/themed-retrospectives-2f6p",
+  "publish_date": "2024-05-05",
+  "published_at": "2024-05-05T07:50:57Z"
+ },
+ {
+  "id": 1843007,
+  "title": "Top 20 React.JS interview questions.",
+  "description": "As a React developer, it is important to have a solid understanding of the framework's key concepts...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnwb6e8ug0g388qm7jpt9.jpg",
+  "slug": "top-20-reactjs-interview-questions-ck9",
+  "url": "https://dev.to/smalrabbi/top-20-reactjs-interview-questions-ck9",
+  "publish_date": "2024-05-05",
+  "published_at": "2024-05-05T06:14:54Z"
+ },
+ {
+  "id": 1842948,
+  "title": "Bento catalog web",
+  "description": "**           Collection of modern bento-grid components   **  Welcome to my Bento Catalog! I've...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F980nfx6hfzx4ompxcwfl.jpg",
+  "slug": "bento-catalog-web-35le",
+  "url": "https://dev.to/miguelrodriguezp99/bento-catalog-web-35le",
+  "publish_date": "2024-05-05",
+  "published_at": "2024-05-05T03:50:48Z"
+ },
+ {
   "id": 1842568,
   "title": "Basic Sorting Algorithms",
   "description": "Data organization is crucial in today’s digital world. Sorting algorithms are the silent heroes...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/raunakgurud09/websockets-unlocked-mastering-scale-of-websockets-3p54",
   "publish_date": "2024-01-27",
   "published_at": "2024-01-27T03:45:18Z"
- },
- {
-  "id": 1741547,
-  "title": "How to build a WhatsApp AI assistant",
-  "description": "Introduction   In this tutorial, you’ll learn how to create an AI assistant with its own...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ryyokck1afv0tsmouob.png",
-  "slug": "how-to-build-a-whatsapp-ai-assistant-38l2",
-  "url": "https://dev.to/ben_james/how-to-build-a-whatsapp-ai-assistant-38l2",
-  "publish_date": "2024-01-26",
-  "published_at": "2024-01-26T20:34:30Z"
- },
- {
-  "id": 1728587,
-  "title": "What was your win this week?",
-  "description": "Howdy folks! 🤠  Looking forward to your weekend? I know I am! 🙌   Looking back on this past week,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4a9p16hwa372gwfnn235.jpg",
-  "slug": "what-was-your-win-this-week-32bb",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-32bb",
-  "publish_date": "2024-01-26",
-  "published_at": "2024-01-26T13:05:00Z"
- },
- {
-  "id": 1739496,
-  "title": "I'm Building an AI Project: Here Are the Libraries I'm Going to Use...",
-  "description": "With the right libraries any developer can build powerful AI features into their applications (like a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foe5080q3ibtmfrku612d.gif",
-  "slug": "im-building-an-ai-project-here-are-the-libraries-im-going-to-use-pd0",
-  "url": "https://dev.to/copilotkit/im-building-an-ai-project-here-are-the-libraries-im-going-to-use-pd0",
-  "publish_date": "2024-01-26",
-  "published_at": "2024-01-26T12:53:46Z"
- },
- {
-  "id": 1741985,
-  "title": "Apple DMA changes - for better or for worse?",
-  "description": "Yesterday (25 Jan 2024) Apple announced some major changes to iOS, Safari, and the App Store...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzcvd36cc7ycw21umvm17.png",
-  "slug": "apple-dma-changes-for-better-or-for-worse-40i1",
-  "url": "https://dev.to/aexol-studio/apple-dma-changes-for-better-or-for-worse-40i1",
-  "publish_date": "2024-01-26",
-  "published_at": "2024-01-26T10:41:32Z"
- },
- {
-  "id": 1741901,
-  "title": "The IT job market is tough right now. What are your best tips to create a developer portfolio ?",
-  "description": "Show your work !           The job market for developers was very tough in 2023.   It was tough...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2xtddbqoj2akdeequ10k.jpg",
-  "slug": "show-your-work-3hpg",
-  "url": "https://dev.to/jmfayard/show-your-work-3hpg",
-  "publish_date": "2024-01-26",
-  "published_at": "2024-01-26T07:56:24Z"
  }
 ]
