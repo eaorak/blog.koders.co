@@ -1,5 +1,55 @@
 [
  {
+  "id": 1845131,
+  "title": "Netlify Dynamic Site Challenge : Building blob playground with Netlify Blob",
+  "description": "This is a submission for the Netlify Dynamic Site Challenge: Build with Blobs.           What I...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ikbw0qme9ne0aoc2p51.png",
+  "slug": "netlify-dynamic-site-challenge-building-blob-playground-with-netlify-blob-1im4",
+  "url": "https://dev.to/chintanonweb/netlify-dynamic-site-challenge-building-blob-playground-with-netlify-blob-1im4",
+  "publish_date": "2024-05-07",
+  "published_at": "2024-05-07T12:52:24Z"
+ },
+ {
+  "id": 1777808,
+  "title": "How To Create A Welcoming Space For New Open Source Contributors",
+  "description": "Table of contents:   Welcome Home  Strategy #1: Have Clear Documentation   Strategy #2: Show...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi61gi7e5jxkj576fg4kq.png",
+  "slug": "how-to-create-a-welcoming-space-for-new-open-source-contributors-25fd",
+  "url": "https://dev.to/opensauced/how-to-create-a-welcoming-space-for-new-open-source-contributors-25fd",
+  "publish_date": "2024-05-07",
+  "published_at": "2024-05-07T12:07:00Z"
+ },
+ {
+  "id": 1844651,
+  "title": "Build An AI-Powered Code Generator (Nextjs, CopilotKit, gemini-pro, Langchain)",
+  "description": "Introduction   Struggling with the daunting task of finding precise code solutions, I...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzjfq0y7qd87610cnxfoo.png",
+  "slug": "build-an-ai-powered-code-generator-nextjs-copilotkit-gemini-pro-langchain-44j9",
+  "url": "https://dev.to/rajanshrestha/build-an-ai-powered-code-generator-nextjs-copilotkit-gemini-pro-langchain-44j9",
+  "publish_date": "2024-05-07",
+  "published_at": "2024-05-07T11:19:54Z"
+ },
+ {
+  "id": 1829146,
+  "title": "30+ AI projects you can build today",
+  "description": "Today, we're covering 30 or more projects that you can build with AI.   All the projects are open...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvmy39l0rstllix1zyihv.gif",
+  "slug": "30-ai-libraries-you-can-use-for-your-next-project-ideas-5ded",
+  "url": "https://dev.to/copilotkit/30-ai-libraries-you-can-use-for-your-next-project-ideas-5ded",
+  "publish_date": "2024-05-07",
+  "published_at": "2024-05-07T07:07:56Z"
+ },
+ {
+  "id": 1844511,
+  "title": "Introducing a New Fullstack TypeScript DX for AWS",
+  "description": "We've heard developers voice the same pain points time and again: it's hard to integrate your app's...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsiik69tb24w1k0yu0wz6.png",
+  "slug": "introducing-a-new-fullstack-typescript-dx-for-aws-1ap9",
+  "url": "https://dev.to/aws/introducing-a-new-fullstack-typescript-dx-for-aws-1ap9",
+  "publish_date": "2024-05-07",
+  "published_at": "2024-05-07T00:38:47Z"
+ },
+ {
   "id": 1844300,
   "title": "Is the Habbo Hotel related to programming?",
   "description": "Yeah, I know, the title looks weird, but trust me! I'll show in this article that the claim totally...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ben/meme-monday-3p7n",
   "publish_date": "2024-01-29",
   "published_at": "2024-01-29T13:19:09Z"
- },
- {
-  "id": 1743267,
-  "title": "Translating Database Queries",
-  "description": "Did you ever wondered a tool that can be translating many database syntax's at the same time?        ...",
-  "cover_image": "",
-  "slug": "translating-database-queries-3n0m",
-  "url": "https://dev.to/danielhe4rt/translating-database-queries-3n0m",
-  "publish_date": "2024-01-28",
-  "published_at": "2024-01-28T16:01:37Z"
- },
- {
-  "id": 1743638,
-  "title": "Be a inventer Not 'Frameworker'",
-  "description": "Disclaimer: These all are my opinion no need to offend   \"What I cannot create, I do not...",
-  "cover_image": "",
-  "slug": "be-a-inventer-not-frameworker-1ehk",
-  "url": "https://dev.to/rudransh61/be-a-inventer-not-frameworker-1ehk",
-  "publish_date": "2024-01-28",
-  "published_at": "2024-01-28T13:56:53Z"
- },
- {
-  "id": 1743527,
-  "title": "Jetpack Compose Mastery Part 1: A Comprehensive Guide to Building Your First Compose Application",
-  "description": "1. Preface   As mobile application development continues to evolve, Google has introduced...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn7crxv43m9glpqiu7c42.png",
-  "slug": "jetpack-compose-mastery-part-1-a-comprehensive-guide-to-building-your-first-compose-application-jng",
-  "url": "https://dev.to/happyer/jetpack-compose-mastery-part-1-a-comprehensive-guide-to-building-your-first-compose-application-jng",
-  "publish_date": "2024-01-28",
-  "published_at": "2024-01-28T09:01:05Z"
- },
- {
-  "id": 1742918,
-  "title": "A Guide to Styling Tables",
-  "description": "I've recently noticed a small paradox: Many years ago – before CSS grid — we used \u0026lt;table\u0026gt;s to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6gr0wx4oitnjbbt3fgt.jpg",
-  "slug": "a-guide-to-styling-tables-28d2",
-  "url": "https://dev.to/madsstoumann/a-guide-to-styling-tables-28d2",
-  "publish_date": "2024-01-28",
-  "published_at": "2024-01-28T08:25:33Z"
- },
- {
-  "id": 1743342,
-  "title": "3 fundamental concepts in Javascript OOP",
-  "description": "Hi beautiful people 👋 Ever feel like your codes are a jumbled mess of spaghetti functions?  Yeah, me...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0crewnkyolul91g8j3g0.jpg",
-  "slug": "3-fundamental-concepts-in-javascript-oop-12fn",
-  "url": "https://dev.to/junlow/3-fundamental-concepts-in-javascript-oop-12fn",
-  "publish_date": "2024-01-28",
-  "published_at": "2024-01-28T02:16:00Z"
  }
 ]
