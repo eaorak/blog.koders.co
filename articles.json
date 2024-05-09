@@ -1,5 +1,55 @@
 [
  {
+  "id": 1846445,
+  "title": "I built 30 startups in 20 years",
+  "description": "I built 30 startups in 20 years.  VC-backed, Bootstrapped, Apps, SaaS, B2B, B2C. All mistakes I...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk6yx3j5czmpzcmnq7vnn.png",
+  "slug": "i-built-30-startups-in-20-years-3j41",
+  "url": "https://dev.to/johnrushx/i-built-30-startups-in-20-years-3j41",
+  "publish_date": "2024-05-08",
+  "published_at": "2024-05-08T15:08:01Z"
+ },
+ {
+  "id": 1846438,
+  "title": "Build a Todo Application Using ToolJet and ToolJetDB",
+  "description": "This tutorial provides a step-by-step walkthrough for creating a Todo application with ToolJet. This...",
+  "cover_image": "",
+  "slug": "build-a-todo-application-using-tooljet-and-tooljetdb-3fbp",
+  "url": "https://dev.to/asjadkhan/build-a-todo-application-using-tooljet-and-tooljetdb-3fbp",
+  "publish_date": "2024-05-08",
+  "published_at": "2024-05-08T14:59:59Z"
+ },
+ {
+  "id": 1843247,
+  "title": "Mastering SQL: Comprehensive Guide To Structured Query Language",
+  "description": "Introduction   In the previous blog article we've explored together a comprehensive guide...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi3ht0fgcfuhy4dczqhbl.png",
+  "slug": "mastering-sql-comprehensive-guide-to-structured-query-language-4gh",
+  "url": "https://dev.to/louaiboumediene/mastering-sql-comprehensive-guide-to-structured-query-language-4gh",
+  "publish_date": "2024-05-08",
+  "published_at": "2024-05-08T13:27:18Z"
+ },
+ {
+  "id": 1845244,
+  "title": "Wasp x Supabase: Smokin’ Hot Full-Stack Combo 🌶️ 🔥",
+  "description": "TL;DR: In this post I will tell you about the hyper-productive stack for painlessly building...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ofebf7u1gdfr3kiu5sn.gif",
+  "slug": "wasp-x-supabase-smokin-hot-full-stack-combo-ioe",
+  "url": "https://dev.to/wasp/wasp-x-supabase-smokin-hot-full-stack-combo-ioe",
+  "publish_date": "2024-05-08",
+  "published_at": "2024-05-08T10:38:26Z"
+ },
+ {
+  "id": 1845248,
+  "title": "How to get CMS in any Next app with one line",
+  "description": "Have you ever thought of building software that could earn a huge revenue?  That app should be very...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkwweiwv7on2g2wucac32.png",
+  "slug": "how-to-get-cms-in-any-next-app-with-one-line-2mjp",
+  "url": "https://dev.to/anmolbaranwal/how-to-get-cms-in-any-next-app-with-one-line-2mjp",
+  "publish_date": "2024-05-08",
+  "published_at": "2024-05-08T07:55:58Z"
+ },
+ {
   "id": 1845131,
   "title": "Netlify Dynamic Site Challenge : Building blob playground with Netlify Blob",
   "description": "This is a submission for the Netlify Dynamic Site Challenge: Build with Blobs.           What I...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/zenstack/why-do-rubber-ducks-work-27ia",
   "publish_date": "2024-01-30",
   "published_at": "2024-01-30T05:07:37Z"
- },
- {
-  "id": 1745233,
-  "title": "Getting started with Ruby on Rails and Postgres on Supabase",
-  "description": "Every Supabase project comes with a full Postgres database, a free and open source database which is...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd95m4yscw69ycg5aw0wj.png",
-  "slug": "getting-started-with-ruby-on-rails-and-postgres-on-supabase-1a03",
-  "url": "https://dev.to/supabase/getting-started-with-ruby-on-rails-and-postgres-on-supabase-1a03",
-  "publish_date": "2024-01-29",
-  "published_at": "2024-01-29T20:41:55Z"
- },
- {
-  "id": 1745114,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-3jad",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3jad",
-  "publish_date": "2024-01-29",
-  "published_at": "2024-01-29T19:01:13Z"
- },
- {
-  "id": 1738010,
-  "title": "Database 101: How to Model Leaderboards for 1M Player's Game.",
-  "description": "Ever wondered how a game like League of Legends, Fortnite, or even Rockband models its leaderboards?...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkm8x0xbl1fihn6jx09vm.png",
-  "slug": "database-101-how-to-model-leaderboards-for-1m-players-game-2pfa",
-  "url": "https://dev.to/danielhe4rt/database-101-how-to-model-leaderboards-for-1m-players-game-2pfa",
-  "publish_date": "2024-01-29",
-  "published_at": "2024-01-29T17:34:16Z"
- },
- {
-  "id": 1734260,
-  "title": "How We Stopped Our ClickHouse DB From Exploding",
-  "description": "Micro-batching in ClickHouse for User Segmentation   I will share some techniques for...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2psod1cv0bl1t7fm7sye.png",
-  "slug": "how-we-stopped-our-clickhouse-db-from-exploding-2969",
-  "url": "https://dev.to/dittofeed-max/how-we-stopped-our-clickhouse-db-from-exploding-2969",
-  "publish_date": "2024-01-29",
-  "published_at": "2024-01-29T17:24:23Z"
- },
- {
-  "id": 1744743,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1z315eqc1yx10mbblmwh.png",
-  "slug": "meme-monday-3p7n",
-  "url": "https://dev.to/ben/meme-monday-3p7n",
-  "publish_date": "2024-01-29",
-  "published_at": "2024-01-29T13:19:09Z"
  }
 ]
