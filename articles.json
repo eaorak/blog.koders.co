@@ -1,5 +1,55 @@
 [
  {
+  "id": 1848846,
+  "title": "10 Signs You've Been Coding Too Much",
+  "description": "A little humor for this Friday, anyone? Have you ever wondered if those hours in front of the screen...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff5vi0wvws3bwcjol804h.png",
+  "slug": "10-signs-youve-been-coding-too-much-3c0e",
+  "url": "https://dev.to/buildwebcrumbs/10-signs-youve-been-coding-too-much-3c0e",
+  "publish_date": "2024-05-10",
+  "published_at": "2024-05-10T15:07:37Z"
+ },
+ {
+  "id": 1835963,
+  "title": "Dicas e configurações para seu sistema linux",
+  "description": "Fala meu consagrado, quando eu comecei a minha jornada no linux não tinha ninguém para me ajudar e...",
+  "cover_image": "",
+  "slug": "dicas-e-configuracoes-para-seu-sistema-linux-5dll",
+  "url": "https://dev.to/devhat/dicas-e-configuracoes-para-seu-sistema-linux-5dll",
+  "publish_date": "2024-05-10",
+  "published_at": "2024-05-10T13:55:52Z"
+ },
+ {
+  "id": 1846485,
+  "title": "What was your win this week? 🙌",
+  "description": "Hi peeps!   We're officially rolling into the week.  Looking back on this past week, what was...",
+  "cover_image": "",
+  "slug": "what-was-your-win-this-week-4hnp",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-4hnp",
+  "publish_date": "2024-05-10",
+  "published_at": "2024-05-10T13:31:00Z"
+ },
+ {
+  "id": 1848690,
+  "title": "Should we be adding Keyboard Shortcuts to our websites?",
+  "description": "I remember when I was young, and sometimes the mouse would just stop working. When that happened, oh,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsy4nge09zs4x75u48oto.png",
+  "slug": "should-we-be-adding-keyboard-shortcuts-to-our-websites-16k",
+  "url": "https://dev.to/buildwebcrumbs/should-we-be-adding-keyboard-shortcuts-to-our-websites-16k",
+  "publish_date": "2024-05-10",
+  "published_at": "2024-05-10T12:22:51Z"
+ },
+ {
+  "id": 1848652,
+  "title": "Mastering S.O.L.I.D Principles in React: Easy Examples and Best Practices",
+  "description": "Single Responsibility Principle (SRP)   A component should have only one reason to change,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmm4mq2lgn6gi7vwdc3bu.png",
+  "slug": "mastering-solid-principles-in-react-easy-examples-and-best-practices-142b",
+  "url": "https://dev.to/drruvari/mastering-solid-principles-in-react-easy-examples-and-best-practices-142b",
+  "publish_date": "2024-05-10",
+  "published_at": "2024-05-10T12:17:30Z"
+ },
+ {
   "id": 1847648,
   "title": "Top 10 JavaScript Animation Libraries",
   "description": "Animation in JavaScript has advanced drastically in all directions you can imagine, from animating...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/anmolbaranwal/a-complete-guide-to-open-source-100x-simpler-2d6c",
   "publish_date": "2024-02-01",
   "published_at": "2024-02-01T08:13:12Z"
- },
- {
-  "id": 1747338,
-  "title": "pgvector 0.6.0: 30x faster with parallel index builds",
-  "description": "pgvector 0.6.0 was released today, with a significant improvement: parallel builds for HNSW indexes....",
-  "cover_image": "",
-  "slug": "pgvector-060-30x-faster-with-parallel-index-builds-i1l",
-  "url": "https://dev.to/supabase/pgvector-060-30x-faster-with-parallel-index-builds-i1l",
-  "publish_date": "2024-01-31",
-  "published_at": "2024-01-31T15:30:41Z"
- },
- {
-  "id": 1747340,
-  "title": "Typical challenges faced while setting up CI/CD for Terraform at scale",
-  "description": "Say, hypothetically, that you are a part of a startup handling payments, and after a good few months...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft5mwtnvxrq7pfz9ldwyu.png",
-  "slug": "typical-challenges-faced-while-setting-up-cicd-for-terraform-at-scale-37hn",
-  "url": "https://dev.to/digger/typical-challenges-faced-while-setting-up-cicd-for-terraform-at-scale-37hn",
-  "publish_date": "2024-01-31",
-  "published_at": "2024-01-31T15:29:55Z"
- },
- {
-  "id": 1745243,
-  "title": "Specialized Python libraries for Unique Tasks",
-  "description": "TL;DR   Python is the language of Data, ML, and AI, but Python also has various libraries...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fydkjkx9pzowkssa53y0a.gif",
-  "slug": "specialized-python-libraries-for-unique-tasks-5dgm",
-  "url": "https://dev.to/taipy/specialized-python-libraries-for-unique-tasks-5dgm",
-  "publish_date": "2024-01-31",
-  "published_at": "2024-01-31T15:06:59Z"
- },
- {
-  "id": 1747173,
-  "title": "UI for K8s - 👍🏻 / 👎🏻 ?",
-  "description": "Hi everyone 👋🏻  What are your thoughts on a UI for K8s, and what are your experiences with such...",
-  "cover_image": "",
-  "slug": "ui-for-k8s--3eoj",
-  "url": "https://dev.to/cyclops-ui/ui-for-k8s--3eoj",
-  "publish_date": "2024-01-31",
-  "published_at": "2024-01-31T12:29:29Z"
- },
- {
-  "id": 1746569,
-  "title": "Por que a sua desorganização financeira vai acabar com a sua carreira de dev!",
-  "description": "Olá, tudo bem? Eu me chamo Alex e sou um desenvolvedor focado em JS, atualmente atuo com React...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjvmeolx29wsm935m9889.png",
-  "slug": "por-que-a-sua-desorganizacao-financeira-vai-acabar-com-a-sua-carreira-de-dev-5egh",
-  "url": "https://dev.to/alexdlli/por-que-a-sua-desorganizacao-financeira-vai-acabar-com-a-sua-carreira-de-dev-5egh",
-  "publish_date": "2024-01-31",
-  "published_at": "2024-01-31T01:39:10Z"
  }
 ]
