@@ -1,5 +1,55 @@
 [
  {
+  "id": 1851480,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "A round up of the most-read and most-loved contributions from the community this past week",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-7k7",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7",
+  "publish_date": "2024-05-13",
+  "published_at": "2024-05-13T14:56:05Z"
+ },
+ {
+  "id": 1849204,
+  "title": "AI \u0026 Kubernetes",
+  "description": "Just like so many in the tech industry, Artificial Intelligence (AI) has come to the forefront in my...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytzult6v0oxodq4cok56.png",
+  "slug": "ai-kubernetes-1957",
+  "url": "https://dev.to/googlecloud/ai-kubernetes-1957",
+  "publish_date": "2024-05-13",
+  "published_at": "2024-05-13T14:35:00Z"
+ },
+ {
+  "id": 1850834,
+  "title": "Start with features, not apps",
+  "description": "Quick one: Ever thought we've been designing apps all wrong? Yup, that's right. We're like those...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy6r82s1skwgem6t5hu9w.png",
+  "slug": "start-with-features-not-apps-20oc",
+  "url": "https://dev.to/buildwebcrumbs/start-with-features-not-apps-20oc",
+  "publish_date": "2024-05-13",
+  "published_at": "2024-05-13T10:07:00Z"
+ },
+ {
+  "id": 1848920,
+  "title": "What is RocksDB (and its role in streaming)?",
+  "description": "RocksDB, a high-performance database, is a hidden gem in the tech industry, often overlooked by...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2m6c61utpkjscla20p61.png",
+  "slug": "what-is-rocksdb-and-its-role-in-streaming-3bla",
+  "url": "https://dev.to/mrkandreev/what-is-rocksdb-and-its-role-in-streaming-3bla",
+  "publish_date": "2024-05-13",
+  "published_at": "2024-05-13T08:25:51Z"
+ },
+ {
+  "id": 1850829,
+  "title": "JavaScript Objects | Complete Guide",
+  "description": "JavaScript Objects   Similar to other programming languages javascript objects is a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6o5kp8znekiu3lbjgkp.png",
+  "slug": "objects-in-js-complete-guide-3gl8",
+  "url": "https://dev.to/scorcism/objects-in-js-complete-guide-3gl8",
+  "publish_date": "2024-05-13",
+  "published_at": "2024-05-13T01:57:31Z"
+ },
+ {
   "id": 1850141,
   "title": "Unleashing the Hidden Power of HTML Forms",
   "description": "HTML forms are powerful beasts, but I feel a lot of its übercool features are often...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/opensauced/development-tools-and-platforms-open-source-saas-and-boxyhq-383e",
   "publish_date": "2024-02-04",
   "published_at": "2024-02-04T09:09:00Z"
- },
- {
-  "id": 1750686,
-  "title": "Keyboard Shortcut Showdown: Mac vs. Windows",
-  "description": "Get More :- https://codexdindia.blogspot.com/2024/02/keyboard-shortcut-showdown-mac-vs.html        ...",
-  "cover_image": "",
-  "slug": "keyboard-shortcut-showdown-mac-vs-windows-11if",
-  "url": "https://dev.to/sh20raj/keyboard-shortcut-showdown-mac-vs-windows-11if",
-  "publish_date": "2024-02-03",
-  "published_at": "2024-02-03T15:12:00Z"
- },
- {
-  "id": 1750681,
-  "title": "Mac keyboard shortcuts",
-  "description": "Mastering Efficiency: Essential Mac Shortcuts for Productivity    Get More :-...",
-  "cover_image": "",
-  "slug": "mac-keyboard-shortcuts-5gdh",
-  "url": "https://dev.to/sh20raj/mac-keyboard-shortcuts-5gdh",
-  "publish_date": "2024-02-03",
-  "published_at": "2024-02-03T15:01:16Z"
- },
- {
-  "id": 1736857,
-  "title": "Numpy Cheatsheet",
-  "description": "Numpy : Numpy is a python library which is used to perform wide variety of mathematical operations on...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz1vdebjt40lgqzqma2kl.jpg",
-  "slug": "numpy-cheetsheet-168o",
-  "url": "https://dev.to/jagroop2001/numpy-cheetsheet-168o",
-  "publish_date": "2024-02-03",
-  "published_at": "2024-02-03T12:18:11Z"
- },
- {
-  "id": 1750405,
-  "title": "Web-Based Notifications with Firebase: A Comprehensive Guide",
-  "description": "In the era of web development, user engagement plays a crucial role. One effective way to enhance...",
-  "cover_image": "",
-  "slug": "web-based-notifications-with-firebase-a-comprehensive-guide-35pf",
-  "url": "https://dev.to/madmax/web-based-notifications-with-firebase-a-comprehensive-guide-35pf",
-  "publish_date": "2024-02-03",
-  "published_at": "2024-02-03T06:55:56Z"
- },
- {
-  "id": 1750245,
-  "title": "Top 5 Productivity tools for 2024 for Developers",
-  "description": "1-Heptabase      https://heptabase.com/        Enter fullscreen mode            Exit...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk3idw88z6wfq0igig2lf.jpg",
-  "slug": "top-5-productivity-tools-for-2024-for-developers-2hhp",
-  "url": "https://dev.to/durgesh4993/top-5-productivity-tools-for-2024-for-developers-2hhp",
-  "publish_date": "2024-02-03",
-  "published_at": "2024-02-03T00:28:39Z"
  }
 ]
