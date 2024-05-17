@@ -1,5 +1,55 @@
 [
  {
+  "id": 1846625,
+  "title": "Building your own ChatGPT Graphical Client with NextJS and Wing 🤯",
+  "description": "A ChatGPT client app built with Winglang and NextJS",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvxr6ronuutg7wteue7q5.png",
+  "slug": "building-your-own-chatgpt-graphical-client-with-nextjs-and-wing-29jj",
+  "url": "https://dev.to/winglang/building-your-own-chatgpt-graphical-client-with-nextjs-and-wing-29jj",
+  "publish_date": "2024-05-16",
+  "published_at": "2024-05-16T14:56:39Z"
+ },
+ {
+  "id": 1855337,
+  "title": "Building a Personal Finance Tracker Using ToolJet",
+  "description": "Building apps on ToolJet is fast and convenient, but it gets even better when you couple it with...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsqjrlh5l355cz07w9a4o.png",
+  "slug": "building-a-personal-finance-tracker-using-tooljet-41d9",
+  "url": "https://dev.to/tooljet/building-a-personal-finance-tracker-using-tooljet-41d9",
+  "publish_date": "2024-05-16",
+  "published_at": "2024-05-16T14:10:38Z"
+ },
+ {
+  "id": 1847686,
+  "title": "7 Best Chart Libraries For Developers In 2024 🤯",
+  "description": "Many applications use charts or graphs for data visualization, which can be implemented using...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fydd0y6nbqfw07l8eerpj.png",
+  "slug": "7-best-chart-libraries-for-developers-in-2024-25he",
+  "url": "https://dev.to/latitude/7-best-chart-libraries-for-developers-in-2024-25he",
+  "publish_date": "2024-05-16",
+  "published_at": "2024-05-16T13:59:33Z"
+ },
+ {
+  "id": 1855192,
+  "title": "How To Build Your Own Newsletter App? p.1",
+  "description": "TL;DR   In this 2-part tutorial, I'll guide you through building a newsletter application...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9n0lgg4n9nxl3jfc1dwt.gif",
+  "slug": "how-to-build-your-own-newsletter-app-p1-25oh",
+  "url": "https://dev.to/novu/how-to-build-your-own-newsletter-app-p1-25oh",
+  "publish_date": "2024-05-16",
+  "published_at": "2024-05-16T11:02:07Z"
+ },
+ {
+  "id": 1854352,
+  "title": "50 Best Websites for Free HTML Templates",
+  "description": "This is a roundup of the best websites where you can find and download free HTML templates built with...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgzlwadux2dyw7lzd1ef.jpg",
+  "slug": "50-best-websites-for-free-html-templates-1i2l",
+  "url": "https://dev.to/devluc/50-best-websites-for-free-html-templates-1i2l",
+  "publish_date": "2024-05-16",
+  "published_at": "2024-05-16T06:41:51Z"
+ },
+ {
   "id": 1853135,
   "title": "Join us for the The AWS Amplify Fullstack TypeScript Challenge: $3,000 in Prizes!",
   "description": "We are thrilled to announce our first partnered challenge with AWS Amplify.   Running through May 26,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k",
   "publish_date": "2024-02-07",
   "published_at": "2024-02-07T12:22:42Z"
- },
- {
-  "id": 1750586,
-  "title": "O poder do FilamentPHP",
-  "description": "Neste artigo vou apresentar uma ferramenta poderosa, incrivelmente fácil de usar e como ela pode...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjd7xglmabtex7ktsvugb.png",
-  "slug": "o-poder-do-filamentphp-557h",
-  "url": "https://dev.to/adryannekelly/o-poder-do-filamentphp-557h",
-  "publish_date": "2024-02-06",
-  "published_at": "2024-02-06T22:21:59Z"
- },
- {
-  "id": 1753373,
-  "title": "Flight Slider in HTML + CSS",
-  "description": "I created an input range that looks like a plane flying to its destination in HTML and CSS",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ntl2uk021jiza6xaqe2.png",
-  "slug": "flight-slider-in-html-css-3024",
-  "url": "https://dev.to/alvaromontoro/flight-slider-in-html-css-3024",
-  "publish_date": "2024-02-06",
-  "published_at": "2024-02-06T15:32:46Z"
- },
- {
-  "id": 1751285,
-  "title": "Control flow in Rust",
-  "description": "In this lesson, we'll cover the basic control flow in Rust. We'll cover the following topics:   if...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo42urabxydnmq641qned.png",
-  "slug": "control-flow-in-rust-1fkp",
-  "url": "https://dev.to/francescoxx/control-flow-in-rust-1fkp",
-  "publish_date": "2024-02-06",
-  "published_at": "2024-02-06T14:41:00Z"
- },
- {
-  "id": 1749362,
-  "title": "Signals: the Do-s and the Don't-s",
-  "description": "Original cover photo by Shyam on Unsplash.  If we ask any Angular developer \"What is the hottest...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjp5q1s69cmes0gqo14hu.jpg",
-  "slug": "signals-the-do-s-and-the-dont-s-40fk",
-  "url": "https://dev.to/this-is-angular/signals-the-do-s-and-the-dont-s-40fk",
-  "publish_date": "2024-02-06",
-  "published_at": "2024-02-06T09:43:10Z"
- },
- {
-  "id": 1751742,
-  "title": "Challenging the Skeptics: Unveiling the Undeniable Goodness of Tailwind CSS",
-  "description": "People definitely have opinions about Tailwind. There are staunch supporters and staunch haters, but...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbkhml1iuah7nt4is2wwr.jpeg",
-  "slug": "challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc",
-  "url": "https://dev.to/opensauced/challenging-the-skeptics-unveiling-the-undeniable-goodness-of-tailwind-css-4doc",
-  "publish_date": "2024-02-06",
-  "published_at": "2024-02-06T05:00:00Z"
  }
 ]
