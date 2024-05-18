@@ -1,5 +1,55 @@
 [
  {
+  "id": 1856743,
+  "title": "DEV Team Update",
+  "description": "Earlier this week, we made the difficult decision to reduce the size of the DEV team.  While we’ve...",
+  "cover_image": "",
+  "slug": "dev-team-update-2age",
+  "url": "https://dev.to/devteam/dev-team-update-2age",
+  "publish_date": "2024-05-17",
+  "published_at": "2024-05-17T17:31:40Z"
+ },
+ {
+  "id": 1856554,
+  "title": "Debunking Common Kubernetes Myths",
+  "description": "Kubernetes has risen to fame over the past couple of years, transforming from a geeky buzzword into a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7kkv5z2l03qkme7you71.png",
+  "slug": "debunking-common-kubernetes-myths-1f3e",
+  "url": "https://dev.to/cyclops-ui/debunking-common-kubernetes-myths-1f3e",
+  "publish_date": "2024-05-17",
+  "published_at": "2024-05-17T13:28:46Z"
+ },
+ {
+  "id": 1846626,
+  "title": "5 trends in OS development",
+  "description": "Hey friends 👋  This week, we'll delve into projects that shed light on open-source trends.  The...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0jgqxsnz6su1or3971uu.gif",
+  "slug": "5-trends-in-os-development-387b",
+  "url": "https://dev.to/quine/5-trends-in-os-development-387b",
+  "publish_date": "2024-05-17",
+  "published_at": "2024-05-17T13:12:11Z"
+ },
+ {
+  "id": 1856349,
+  "title": "What's New in API7 Enterprise 3.2.11: Supporting SCIM and SSO Role Mapping",
+  "description": "User identity management and access control have become increasingly important with the advancement...",
+  "cover_image": "",
+  "slug": "whats-new-in-api7-enterprise-3211-supporting-scim-and-sso-role-mapping-117c",
+  "url": "https://dev.to/api7/whats-new-in-api7-enterprise-3211-supporting-scim-and-sso-role-mapping-117c",
+  "publish_date": "2024-05-17",
+  "published_at": "2024-05-17T10:06:38Z"
+ },
+ {
+  "id": 1856208,
+  "title": "5 easy tips to improve your personal website performance",
+  "description": "If you’re a developer, you need a personal website. While billionaire-owned, algorithm-based social...",
+  "cover_image": "",
+  "slug": "5-easy-tips-to-improve-your-personal-website-performance-32ng",
+  "url": "https://dev.to/whitep4nth3r/5-easy-tips-to-improve-your-personal-website-performance-32ng",
+  "publish_date": "2024-05-17",
+  "published_at": "2024-05-17T08:04:23Z"
+ },
+ {
   "id": 1846625,
   "title": "Building your own ChatGPT Graphical Client with NextJS and Wing 🤯",
   "description": "A ChatGPT client app built with Winglang and NextJS",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/alvaromontoro/css-cartoons-29bp",
   "publish_date": "2024-02-08",
   "published_at": "2024-02-08T09:00:00Z"
- },
- {
-  "id": 1754800,
-  "title": "What are Vector Embeddings?",
-  "description": "Embeddings are numerical machine learning representations of the semantic of the input data. They...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn09j88qntgxzl5gxn6ns.png",
-  "slug": "what-are-vector-embeddings-24pd",
-  "url": "https://dev.to/qdrant/what-are-vector-embeddings-24pd",
-  "publish_date": "2024-02-07",
-  "published_at": "2024-02-07T17:56:15Z"
- },
- {
-  "id": 1754797,
-  "title": "Internationalization with i18next + react-i18n 🌎",
-  "description": "Hey, this is just a example, on my machine worked!   It's important to know how to deal with...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5275efsjrmygx92tb0hb.jpg",
-  "slug": "internationalization-with-i18next-react-i18n-4m28",
-  "url": "https://dev.to/guim0/internationalization-with-i18next-react-i18n-4m28",
-  "publish_date": "2024-02-07",
-  "published_at": "2024-02-07T17:45:53Z"
- },
- {
-  "id": 1754495,
-  "title": "🐱Product Hunt has become pay-to-win 💰, but you should still use it to launch your product 🚀",
-  "description": "Many of us have been launching on Product Hunt for a while, and more and more folks have started...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmwpz97kxpoh83wxzoru5.png",
-  "slug": "product-hunt-has-become-pay-to-win-but-you-should-still-use-it-to-launch-your-product-508d",
-  "url": "https://dev.to/wasp/product-hunt-has-become-pay-to-win-but-you-should-still-use-it-to-launch-your-product-508d",
-  "publish_date": "2024-02-07",
-  "published_at": "2024-02-07T15:16:54Z"
- },
- {
-  "id": 1746472,
-  "title": "The Developer's Toolkit: Your Essential Open-Source DevTools",
-  "description": "Every developer needs a toolkit to streamline their workflow, increase productivity, and tackle some...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxkh0gb9yiltwd16bb3rm.gif",
-  "slug": "developers-toolkit-your-essential-open-source-devtools-hgc",
-  "url": "https://dev.to/winglang/developers-toolkit-your-essential-open-source-devtools-hgc",
-  "publish_date": "2024-02-07",
-  "published_at": "2024-02-07T15:09:18Z"
- },
- {
-  "id": 1741220,
-  "title": "Primeiros passos no Docker",
-  "description": "Desenvolvendo de forma simples e direta, é hoje que você vai começar a usar o Docker. Nada de termos...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1sjuwo0cjpfwfj8xzve3.png",
-  "slug": "primeiros-passos-no-docker-m0k",
-  "url": "https://dev.to/clintonrocha98/primeiros-passos-no-docker-m0k",
-  "publish_date": "2024-02-07",
-  "published_at": "2024-02-07T12:22:42Z"
  }
 ]
