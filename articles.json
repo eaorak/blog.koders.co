@@ -1,5 +1,55 @@
 [
  {
+  "id": 1855527,
+  "title": "Difference between GraphQL, REST, and gRPC",
+  "description": "What is the difference btween GraphQL, REST, and gRPC for System Design interviews. ",
+  "cover_image": "",
+  "slug": "difference-between-graphql-rest-and-grpc-58bl",
+  "url": "https://dev.to/somadevtoo/difference-between-graphql-rest-and-grpc-58bl",
+  "publish_date": "2024-05-19",
+  "published_at": "2024-05-19T09:41:20Z"
+ },
+ {
+  "id": 1858198,
+  "title": "Rio: WebApps in pure Python. No JavaScript, HTML and CSS needed!",
+  "description": "Hi everyone! We're excited to announce that our reactive web UI framework is now public. This project...",
+  "cover_image": "",
+  "slug": "rio-webapps-in-pure-python-no-javascript-html-and-css-needed-hhh",
+  "url": "https://dev.to/sn3llius/rio-webapps-in-pure-python-no-javascript-html-and-css-needed-hhh",
+  "publish_date": "2024-05-19",
+  "published_at": "2024-05-19T09:37:32Z"
+ },
+ {
+  "id": 1858145,
+  "title": "Day 6: Advanced React Concepts",
+  "description": "Welcome to Day 6 of our React.js learning journey! Today, we'll delve into some advanced concepts in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc01odqmoyuhcou5lkhjk.png",
+  "slug": "day-6-advanced-react-concepts-4co4",
+  "url": "https://dev.to/dipakahirav/day-6-advanced-react-concepts-4co4",
+  "publish_date": "2024-05-19",
+  "published_at": "2024-05-19T07:57:05Z"
+ },
+ {
+  "id": 1858125,
+  "title": "Langchain: Data Protection",
+  "description": "In today's world, data privacy is very important, especially when working with large language models...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5yz4r87nfm5lal8b1xm.png",
+  "slug": "langchain-data-protection-op9",
+  "url": "https://dev.to/rutamstwt/langchain-data-protection-op9",
+  "publish_date": "2024-05-19",
+  "published_at": "2024-05-19T06:27:41Z"
+ },
+ {
+  "id": 1858122,
+  "title": "Side Hustle Ideas for Developers in 2024",
+  "description": "Are you a software engineer eager to turn your skills into profitable side hustles?   The...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjnqnkth1mkxy4skoscx7.png",
+  "slug": "side-hustle-ideas-for-developers-in-2024-jh5",
+  "url": "https://dev.to/lilxyzz/side-hustle-ideas-for-developers-in-2024-jh5",
+  "publish_date": "2024-05-19",
+  "published_at": "2024-05-19T06:22:51Z"
+ },
+ {
   "id": 1857689,
   "title": "I created an Open Source Custom Code Editor",
   "description": "Hey Everyone 👋  I'm excited to announce my open-source custom code editor!  🎉  This editor is...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp",
   "publish_date": "2024-02-10",
   "published_at": "2024-02-10T04:48:48Z"
- },
- {
-  "id": 1756803,
-  "title": "🔟Lesser-Used Yet Valuable HTML Tags👨‍💻",
-  "description": "Introduction ✨   HTML is fundamental to our journey as developers, serving as a cornerstone...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzmtspt2wyb1g5f0ao1hw.png",
-  "slug": "lesser-used-yet-valuable-html-tags-3ndh",
-  "url": "https://dev.to/sudhil/lesser-used-yet-valuable-html-tags-3ndh",
-  "publish_date": "2024-02-09",
-  "published_at": "2024-02-09T14:17:33Z"
- },
- {
-  "id": 1728588,
-  "title": "What was your win this week?",
-  "description": "Hey y'all 👋  Another week down — hope it's been a good one for ya!  Looking back on this past week,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4a9p16hwa372gwfnn235.jpg",
-  "slug": "what-was-your-win-this-week-1c72",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-1c72",
-  "publish_date": "2024-02-09",
-  "published_at": "2024-02-09T12:14:00Z"
- },
- {
-  "id": 1756488,
-  "title": "This Week In React #173: Million, Storybook, visionOS, Expo, Conform, Next.js, Remix, Astro, Apollo, useFormStatus...",
-  "description": "Hi everyone!  This week we have many great React articles and a few interesting releases. It seems...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy0gphcqy4he3cl1qhrnr.png",
-  "slug": "this-week-in-react-173-million-storybook-visionos-expo-conform-nextjs-remix-astro-apollo-useformstatus-49fj",
-  "url": "https://dev.to/sebastienlorber/this-week-in-react-173-million-storybook-visionos-expo-conform-nextjs-remix-astro-apollo-useformstatus-49fj",
-  "publish_date": "2024-02-09",
-  "published_at": "2024-02-09T08:54:27Z"
- },
- {
-  "id": 1756387,
-  "title": "The Front-End Development we’re used to is dying",
-  "description": "Introduction   Before the advent of SPA, web applications were typically multi-page. This...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5ezpyvlzqwg4mv7fjjno.jpeg",
-  "slug": "the-front-end-development-were-used-to-is-dying-4e19",
-  "url": "https://dev.to/misterion96/the-front-end-development-were-used-to-is-dying-4e19",
-  "publish_date": "2024-02-09",
-  "published_at": "2024-02-09T07:47:44Z"
- },
- {
-  "id": 962599,
-  "title": "How to create a good README.md file",
-  "description": "What is a README file?   The readme file is the first thing a user will see when viewing...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frb46gni0wl2759llb6xs.png",
-  "slug": "how-to-create-a-good-readmemd-file-4pa2",
-  "url": "https://dev.to/yuridevat/how-to-create-a-good-readmemd-file-4pa2",
-  "publish_date": "2024-02-09",
-  "published_at": "2024-02-09T06:56:58Z"
  }
 ]
