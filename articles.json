@@ -1,5 +1,55 @@
 [
  {
+  "id": 1859709,
+  "title": "BEAM VM The good, the bad and the ugly",
+  "description": "A BEAM é uma VM que está sendo muito falada ultimamente com o advento de novas tecnologias como gleam...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozw9qu9r965rd8xzz092.png",
+  "slug": "beam-vm-the-good-the-bad-and-the-ugly-9d6",
+  "url": "https://dev.to/cherryramatis/beam-vm-the-good-the-bad-and-the-ugly-9d6",
+  "publish_date": "2024-05-20",
+  "published_at": "2024-05-20T22:14:04Z"
+ },
+ {
+  "id": 1846401,
+  "title": "I'm Building an AI-Powered Blog: Here's How...",
+  "description": "The AI era is upon us. To get ahead as devs, it's great to have some AI-powered projects in your...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F09os8iaf4tzo79s7z02s.gif",
+  "slug": "im-building-an-ai-powered-blog-nextjs-langchain-supabase-5145",
+  "url": "https://dev.to/copilotkit/im-building-an-ai-powered-blog-nextjs-langchain-supabase-5145",
+  "publish_date": "2024-05-20",
+  "published_at": "2024-05-20T14:11:44Z"
+ },
+ {
+  "id": 1855482,
+  "title": "Meet Codiumate - Your coding Agent🤖",
+  "description": "Hello Devs👋   Nowadays AI is everywhere and AI technologies have become increasingly integrated into...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65np0y4223y3rf0o79vq.png",
+  "slug": "meet-codiumate-your-coding-agent-47ie",
+  "url": "https://dev.to/dev_kiran/meet-codiumate-your-coding-agent-47ie",
+  "publish_date": "2024-05-20",
+  "published_at": "2024-05-20T11:34:06Z"
+ },
+ {
+  "id": 1857214,
+  "title": "I am suitable for the job but unsure why I can't get it! 😕",
+  "description": "In 2020, I had just closed my previous startup and got tired of my part-time job at a project...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftna57m2zefijsypw3614.png",
+  "slug": "i-am-suitable-for-the-job-but-unsure-why-i-cant-get-it-5eg4",
+  "url": "https://dev.to/github20k/i-am-suitable-for-the-job-but-unsure-why-i-cant-get-it-5eg4",
+  "publish_date": "2024-05-20",
+  "published_at": "2024-05-20T10:41:17Z"
+ },
+ {
+  "id": 1855451,
+  "title": "Why nobody grows up wanting to be a DevOps engineer",
+  "description": "When I look at younger generations that didn’t grow up largely offline like I did, I feel slightly...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24xseimjmll52868pbje.png",
+  "slug": "why-nobody-grows-up-wanting-to-be-a-devops-engineer-2jli",
+  "url": "https://dev.to/glasskube/why-nobody-grows-up-wanting-to-be-a-devops-engineer-2jli",
+  "publish_date": "2024-05-20",
+  "published_at": "2024-05-20T09:12:21Z"
+ },
+ {
   "id": 1855527,
   "title": "Difference between GraphQL, REST, and gRPC",
   "description": "What is the difference btween GraphQL, REST, and gRPC for System Design interviews. ",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sh20raj/devto-top-liquid-syntax-2n07",
   "publish_date": "2024-02-11",
   "published_at": "2024-02-11T04:25:55Z"
- },
- {
-  "id": 1755444,
-  "title": "Advanced End-to-End DevOps Project: Deploying A Microservices APP To AWS EKS using Terraform, Helm, Jenkins And ArgoCD (Part I)",
-  "description": "DevOps is a rapidly evolving space in the IT industry. As a DevOps engineer, it is paramount to keep...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0a62bdg02bnwbxzilfwy.png",
-  "slug": "advanced-end-to-end-devops-project-deploying-a-microservices-app-to-aws-eks-using-terraform-helm-jenkins-and-argocd-part-i-3a53",
-  "url": "https://dev.to/kelvinskell/advanced-end-to-end-devops-project-deploying-a-microservices-app-to-aws-eks-using-terraform-helm-jenkins-and-argocd-part-i-3a53",
-  "publish_date": "2024-02-10",
-  "published_at": "2024-02-10T13:11:00Z"
- },
- {
-  "id": 1755734,
-  "title": "ResearchHub: The GitHub of Scientific Research",
-  "description": "Explore how ResearchHub revolutionizes academic research with open access, real-time collaboration, and community engagement. ",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdbwk5zggvs1z6rcd15zd.png",
-  "slug": "researchhub-the-github-of-scientific-research-fi1",
-  "url": "https://dev.to/opensauced/researchhub-the-github-of-scientific-research-fi1",
-  "publish_date": "2024-02-10",
-  "published_at": "2024-02-10T11:24:36Z"
- },
- {
-  "id": 1757409,
-  "title": "require Vs import: Old Vs New war in Javascript",
-  "description": "Exploring the Key Differences Between require and import   importing a module is a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3pfo3ia52nzwen68ccuq.png",
-  "slug": "require-vs-import-old-vs-new-war-in-javascript-29gj",
-  "url": "https://dev.to/codeparrot/require-vs-import-old-vs-new-war-in-javascript-29gj",
-  "publish_date": "2024-02-10",
-  "published_at": "2024-02-10T09:26:19Z"
- },
- {
-  "id": 1728582,
-  "title": "What are you learning about this weekend? 🧠",
-  "description": "Hey folks!  What's everybody learning about this weekend?  Whether you're sharpening your JS skills,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhutpiv0ekq0ofmc3xwp5.jpg",
-  "slug": "what-are-you-learning-about-this-weekend-4na",
-  "url": "https://dev.to/devteam/what-are-you-learning-about-this-weekend-4na",
-  "publish_date": "2024-02-10",
-  "published_at": "2024-02-10T05:00:00Z"
- },
- {
-  "id": 1757309,
-  "title": "Understanding `this` keyword in javascript",
-  "description": "The this keyword in JavaScript is a reference to the object that is currently executing or invoking...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fulw280uks6uczn2n8uwt.png",
-  "slug": "understanding-this-keyword-in-javascript-27bp",
-  "url": "https://dev.to/codeparrot/understanding-this-keyword-in-javascript-27bp",
-  "publish_date": "2024-02-10",
-  "published_at": "2024-02-10T04:48:48Z"
  }
 ]
