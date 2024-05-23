@@ -1,5 +1,55 @@
 [
  {
+  "id": 1862083,
+  "title": "Mastering React: A Deep Dive into Memoization and Component Optimization",
+  "description": "Hello Everyone, السلام عليكم و رحمة الله و بركاته,  As mentioned Before, we will go through each note...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzqwab77pivufpsfl2nd2.png",
+  "slug": "mastering-react-a-deep-dive-into-memoization-and-component-optimization-675",
+  "url": "https://dev.to/bilelsalemdev/mastering-react-a-deep-dive-into-memoization-and-component-optimization-675",
+  "publish_date": "2024-05-22",
+  "published_at": "2024-05-22T20:08:06Z"
+ },
+ {
+  "id": 1861781,
+  "title": "Learning AI and Understanding its Implications: CodeNewbie Podcast S27E8",
+  "description": "This week on the podcast we welcomed on @integerman, AI Specialist at Leading EDJE. @saronyitbarek...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi9qychme9cegozlj3d31.jpg",
+  "slug": "learning-ai-and-understanding-its-implications-codenewbie-podcast-s27e8-j9h",
+  "url": "https://dev.to/codenewbieteam/learning-ai-and-understanding-its-implications-codenewbie-podcast-s27e8-j9h",
+  "publish_date": "2024-05-22",
+  "published_at": "2024-05-22T15:01:16Z"
+ },
+ {
+  "id": 1861506,
+  "title": "Optimizing Costs in DevOps: Migrating a Kubernetes App from Amazon to Digital Ocean",
+  "description": "Discover how we successfully migrated our Kubernetes application from Amazon to Digital Ocean, and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnk252s5hrwcfgthpn0jw.png",
+  "slug": "optimizing-costs-in-devops-migrating-a-kubernetes-app-from-amazon-to-digital-ocean-3k90",
+  "url": "https://dev.to/fively/optimizing-costs-in-devops-migrating-a-kubernetes-app-from-amazon-to-digital-ocean-3k90",
+  "publish_date": "2024-05-22",
+  "published_at": "2024-05-22T10:50:01Z"
+ },
+ {
+  "id": 1861481,
+  "title": "Payment form components coded with Tailwind CSS and Flowbite",
+  "description": "E-commerce is a growing part of the modern web and we as developers and designers need to find...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxhzoawc422f1hvr285gj.png",
+  "slug": "payment-form-components-coded-with-tailwind-css-and-flowbite-3e3m",
+  "url": "https://dev.to/themesberg/payment-form-components-coded-with-tailwind-css-and-flowbite-3e3m",
+  "publish_date": "2024-05-22",
+  "published_at": "2024-05-22T10:19:32Z"
+ },
+ {
+  "id": 1861448,
+  "title": "RUST Programming Full Course 2024",
+  "description": "Hey everyone,  I'm thrilled to announce the launch of my brand-new Rust programming full course on...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffnmpfm5ov837ad6go6s1.png",
+  "slug": "rust-programming-full-course-2024-2jen",
+  "url": "https://dev.to/bekbrace/rust-programming-full-course-2024-2jen",
+  "publish_date": "2024-05-22",
+  "published_at": "2024-05-22T10:14:20Z"
+ },
+ {
   "id": 1837887,
   "title": "25 projects that you can build with Python and AI",
   "description": "Today, we are covering 25 side projects that you can build using Python and AI models.  Most of the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/taipy/python-libraries-for-your-datascience-cv-in-2024-5cl7",
   "publish_date": "2024-02-13",
   "published_at": "2024-02-13T12:07:03Z"
- },
- {
-  "id": 1759175,
-  "title": "Introducing the Writing Debut Badge: Celebrating Your First Post on DEV!",
-  "description": "Hey, all! We're so excited to unveil a brand new badge here on DEV: the Writing Debut Badge!     This...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiezp1q6nhst02nk8ooso.jpg",
-  "slug": "introducing-the-writing-debut-badge-celebrating-your-first-post-on-dev-331l",
-  "url": "https://dev.to/devteam/introducing-the-writing-debut-badge-celebrating-your-first-post-on-dev-331l",
-  "publish_date": "2024-02-12",
-  "published_at": "2024-02-12T19:17:32Z"
- },
- {
-  "id": 1759356,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-3180",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3180",
-  "publish_date": "2024-02-12",
-  "published_at": "2024-02-12T18:06:33Z"
- },
- {
-  "id": 1759078,
-  "title": "🛠️ 7 React Projects to Build in 2024",
-  "description": "To be confident with using React, you need to build real-world projects.   But what projects are...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcg7t26wbu1dr0xvlovn8.png",
-  "slug": "7-react-projects-to-build-in-2024-1mhd",
-  "url": "https://dev.to/codebootcamp/7-react-projects-to-build-in-2024-1mhd",
-  "publish_date": "2024-02-12",
-  "published_at": "2024-02-12T13:04:31Z"
- },
- {
-  "id": 1756565,
-  "title": "What's new in Novu 0.23?",
-  "description": "TL;DR: All you need to know about the latest Novu 0.23.0 release. Translation management, Performance...",
-  "cover_image": "",
-  "slug": "whats-new-in-novu-023-cfa",
-  "url": "https://dev.to/novu/whats-new-in-novu-023-cfa",
-  "publish_date": "2024-02-12",
-  "published_at": "2024-02-12T11:33:46Z"
- },
- {
-  "id": 1617699,
-  "title": "Goodbye Electron. Hello Tauri!",
-  "description": "Utilize the Rust-powered backend framework paired with a React frontend to offer an awesome...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmb2dgi7ztkt59c7zdcz.jpeg",
-  "slug": "goodbye-electron-hello-tauri-26d5",
-  "url": "https://dev.to/dedsyn4ps3/goodbye-electron-hello-tauri-26d5",
-  "publish_date": "2024-02-12",
-  "published_at": "2024-02-12T01:21:24Z"
  }
 ]
