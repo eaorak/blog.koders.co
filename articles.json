@@ -1,5 +1,55 @@
 [
  {
+  "id": 1862673,
+  "title": "HTML Tags You Might Not Know About",
+  "description": "Hello Devs👋  In this post, I will share some new and helpful html tags which are added in HTML5 to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flacjekq0z9hivujceera.gif",
+  "slug": "html-tags-you-might-not-know-about-3gk7",
+  "url": "https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7",
+  "publish_date": "2024-05-23",
+  "published_at": "2024-05-23T15:44:50Z"
+ },
+ {
+  "id": 1862682,
+  "title": "Create a Weather App using ToolJet and OpenWeatherMap API",
+  "description": "Introduction   In this tutorial, we will create a weather app using ToolJet and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs20hcz7jsq97cc0slzbc.png",
+  "slug": "create-a-weather-app-using-tooljet-and-openweathermap-api-3cfm",
+  "url": "https://dev.to/tooljet/create-a-weather-app-using-tooljet-and-openweathermap-api-3cfm",
+  "publish_date": "2024-05-23",
+  "published_at": "2024-05-23T13:07:01Z"
+ },
+ {
+  "id": 1862499,
+  "title": "Wheel of Fortune with CSS",
+  "description": "A \"Wheel of Fortune\" component just popped up in my feed. I always spin, but never win! Anyway, this...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frsy67j5uc9urx4h9vnms.jpg",
+  "slug": "wheel-of-fortune-with-css-p-pi-1ne9",
+  "url": "https://dev.to/madsstoumann/wheel-of-fortune-with-css-p-pi-1ne9",
+  "publish_date": "2024-05-23",
+  "published_at": "2024-05-23T08:21:31Z"
+ },
+ {
+  "id": 1861207,
+  "title": "Tracking Celebrity Flights in Python!",
+  "description": "Hello, everyone!   In this basic tutorial, I will be demonstrating how to develop a flight...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fijq7osbxrxtyi5thu8wu.jpeg",
+  "slug": "tracking-celebrity-flights-in-python-1m86",
+  "url": "https://dev.to/digitalizedsnake/tracking-celebrity-flights-in-python-1m86",
+  "publish_date": "2024-05-23",
+  "published_at": "2024-05-23T04:44:50Z"
+ },
+ {
+  "id": 1862304,
+  "title": "Why you should not be using AI as a writing assistant",
+  "description": "TLDR: Who wants to read something written by a bot? People want to read what you wrote, not what a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqd78kofqp01xqf5ot5d.jpeg",
+  "slug": "why-you-should-not-be-using-ai-as-a-writing-assistant-2b0e",
+  "url": "https://dev.to/kurealnum/why-you-should-not-be-using-ai-as-a-writing-assistant-2b0e",
+  "publish_date": "2024-05-23",
+  "published_at": "2024-05-23T02:25:58Z"
+ },
+ {
   "id": 1862083,
   "title": "Mastering React: A Deep Dive into Memoization and Component Optimization",
   "description": "Hello Everyone, السلام عليكم و رحمة الله و بركاته,  As mentioned Before, we will go through each note...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dmrompav/do-comment-your-ts-code-1bl4",
   "publish_date": "2024-02-14",
   "published_at": "2024-02-14T04:26:32Z"
- },
- {
-  "id": 1759379,
-  "title": "5 Ways to Skin a Lambda Function: A DevTools Comparison Guide",
-  "description": "TL;DR   As the saying goes, there are several ways to skin a cat...in the tech world, there...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7u8900rng0pb3lue4itu.gif",
-  "slug": "5-ways-to-write-a-simple-function-in-your-cloud-app-1jgl",
-  "url": "https://dev.to/winglang/5-ways-to-write-a-simple-function-in-your-cloud-app-1jgl",
-  "publish_date": "2024-02-13",
-  "published_at": "2024-02-13T19:13:13Z"
- },
- {
-  "id": 1760214,
-  "title": "Best Practices for Massive-Scale Deployments: Multitenancy and Custom Sharding",
-  "description": "We are seeing the topics of multitenancy and distributed deployment pop-up daily on our Discord...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F88mdctqq7cyjkusrq6px.png",
-  "slug": "best-practices-for-massive-scale-deployments-multitenancy-and-custom-sharding-1mjb",
-  "url": "https://dev.to/qdrant/best-practices-for-massive-scale-deployments-multitenancy-and-custom-sharding-1mjb",
-  "publish_date": "2024-02-13",
-  "published_at": "2024-02-13T14:53:58Z"
- },
- {
-  "id": 1760165,
-  "title": "How to create Supabase admin dashboard?",
-  "description": "In this article, the database meets ui!    You will find how to build an Admin Dashboard on top of...",
-  "cover_image": "",
-  "slug": "how-to-create-supabase-admin-dashboard-4glj",
-  "url": "https://dev.to/nikpoltoratsky/how-to-create-supabase-admin-dashboard-4glj",
-  "publish_date": "2024-02-13",
-  "published_at": "2024-02-13T14:36:07Z"
- },
- {
-  "id": 1759964,
-  "title": "Web frameworks we are most excited for in 2024",
-  "description": "Introduction   2024 is upon us, and we try to plan for the new year and think of the things...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7u94ep4stv6iz86d0kxk.png",
-  "slug": "web-frameworks-we-are-most-excited-for-in-2024-4d15",
-  "url": "https://dev.to/wasp/web-frameworks-we-are-most-excited-for-in-2024-4d15",
-  "publish_date": "2024-02-13",
-  "published_at": "2024-02-13T13:00:34Z"
- },
- {
-  "id": 1759892,
-  "title": "Python libraries for your DataScience CV in 2024",
-  "description": "TL;DR   In 2024, Python is still the primary language for data science thanks to its...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feunyeqd05n6bkri828l2.gif",
-  "slug": "python-libraries-for-your-datascience-cv-in-2024-5cl7",
-  "url": "https://dev.to/taipy/python-libraries-for-your-datascience-cv-in-2024-5cl7",
-  "publish_date": "2024-02-13",
-  "published_at": "2024-02-13T12:07:03Z"
  }
 ]
