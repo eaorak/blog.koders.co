@@ -1,5 +1,55 @@
 [
  {
+  "id": 1864075,
+  "title": "Is Kubernetes a database? CRDs explained in five minutes",
+  "description": "When you touch on containerized apps today, Kubernetes usually comes up as their orchestrator. Sure,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk09kkzv5c4tj7flhmtb.png",
+  "slug": "is-kubernetes-a-database-crds-explained-in-three-minutes-361d",
+  "url": "https://dev.to/cyclops-ui/is-kubernetes-a-database-crds-explained-in-three-minutes-361d",
+  "publish_date": "2024-05-24",
+  "published_at": "2024-05-24T14:37:10Z"
+ },
+ {
+  "id": 1862848,
+  "title": "5 exciting open-source launches you might have missed",
+  "description": "Hey friends 👋  Every week, our team at Quine scans the open-source ecosystem for great projects to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6czew7xia6l8irfjgxpj.gif",
+  "slug": "5-exciting-open-source-releases-you-might-have-missed-5gg6",
+  "url": "https://dev.to/quine/5-exciting-open-source-releases-you-might-have-missed-5gg6",
+  "publish_date": "2024-05-24",
+  "published_at": "2024-05-24T14:02:00Z"
+ },
+ {
+  "id": 1860139,
+  "title": "How we saved our partners 💵$460,000 and 2,5 months⏰ of work",
+  "description": "In 2022, I worked on a data science project for a retailer. The project was to predict cashflows...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1m1jqw9i2aoscstcmzto.png",
+  "slug": "how-we-saved-our-partners-460000-and-25-months-of-work-40kg",
+  "url": "https://dev.to/taipy/how-we-saved-our-partners-460000-and-25-months-of-work-40kg",
+  "publish_date": "2024-05-24",
+  "published_at": "2024-05-24T09:16:35Z"
+ },
+ {
+  "id": 1855452,
+  "title": "Make naked websites look great with matcha.css!",
+  "description": "Have you ever contemplated the bareness of starting from a \"blank page\" when beginning a new web...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivsygiubvfu4y1li5mu9.png",
+  "slug": "make-naked-websites-look-great-with-matchacss-4ng7",
+  "url": "https://dev.to/lowlighter/make-naked-websites-look-great-with-matchacss-4ng7",
+  "publish_date": "2024-05-24",
+  "published_at": "2024-05-24T09:11:00Z"
+ },
+ {
+  "id": 1863756,
+  "title": "Building Agentic RAG with Rust, OpenAI \u0026 Qdrant",
+  "description": "Hey there! In this article, we're gonna talk about building an agentic RAG workflow with Rust! We'll...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frhditur68qxn1pr3ewp4.png",
+  "slug": "building-agentic-rag-with-rust-openai-qdrant-3bjd",
+  "url": "https://dev.to/shuttle_dev/building-agentic-rag-with-rust-openai-qdrant-3bjd",
+  "publish_date": "2024-05-24",
+  "published_at": "2024-05-24T08:58:09Z"
+ },
+ {
   "id": 1862673,
   "title": "HTML Tags You Might Not Know About",
   "description": "Hello Devs👋  In this post, I will share some new and helpful html tags which are added in HTML5 to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/datastax/what-we-learned-when-we-built-a-vector-database-and-our-customers-started-using-it-part-1-1c6h",
   "publish_date": "2024-02-15",
   "published_at": "2024-02-15T00:55:30Z"
- },
- {
-  "id": 1761405,
-  "title": "Transitioning From PyTorch to Burn",
-  "description": "Deep learning development requires very high-level abstractions as well as extremely fast execution...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7h5n7okaxcwaqt382b9u.png",
-  "slug": "transitioning-from-pytorch-to-burn-45m",
-  "url": "https://dev.to/laggui/transitioning-from-pytorch-to-burn-45m",
-  "publish_date": "2024-02-14",
-  "published_at": "2024-02-14T19:27:59Z"
- },
- {
-  "id": 1760644,
-  "title": "Visualize your AWS app like never before with sls-mentor",
-  "description": "Your serverless app like you've never seen it before with sls-mentor   Ever dreamed of being...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4jx5bx756utckz0mml5v.gif",
-  "slug": "visualize-your-aws-app-like-never-before-with-sls-mentor-2j3l",
-  "url": "https://dev.to/slsbytheodo/visualize-your-aws-app-like-never-before-with-sls-mentor-2j3l",
-  "publish_date": "2024-02-14",
-  "published_at": "2024-02-14T12:33:19Z"
- },
- {
-  "id": 1760535,
-  "title": "Introducing Tempo • A new date library for JavaScript (and TypeScript).",
-  "description": "TLDR; Checkout the Tempo docs.  Working with dates and time is one of JavaScript’s weakest points....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvp1a719cgp2itkjcz5cw.jpg",
-  "slug": "introducing-tempo-a-new-date-library-for-javascript-and-typescript-359a",
-  "url": "https://dev.to/justinschroeder/introducing-tempo-a-new-date-library-for-javascript-and-typescript-359a",
-  "publish_date": "2024-02-14",
-  "published_at": "2024-02-14T10:00:00Z"
- },
- {
-  "id": 1747427,
-  "title": "Who's Your DEValentine? Spread the Love! 💖\"",
-  "description": "This Valentine's Day, let's celebrate our DEValentines! Tag a colleague, friend, or someone on DEV...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft56k5s0uyiyk7kbc94z0.png",
-  "slug": "whos-your-devalentine-spread-the-love--1i20",
-  "url": "https://dev.to/devteam/whos-your-devalentine-spread-the-love--1i20",
-  "publish_date": "2024-02-14",
-  "published_at": "2024-02-14T08:00:00Z"
- },
- {
-  "id": 1760448,
-  "title": "DO comment your TS code",
-  "description": "Once, while creating a module of code that is complex in its logic, I noticed that I wasn't following...",
-  "cover_image": "",
-  "slug": "do-comment-your-ts-code-1bl4",
-  "url": "https://dev.to/dmrompav/do-comment-your-ts-code-1bl4",
-  "publish_date": "2024-02-14",
-  "published_at": "2024-02-14T04:26:32Z"
  }
 ]
