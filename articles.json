@@ -1,5 +1,55 @@
 [
  {
+  "id": 1865059,
+  "title": "Frontend resources! 🚀",
+  "description": "🚀 Supercharge Your Development with These Resources! 🚀  👋 Hello everyone! 👋  I'm thrilled to share...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3067fr7vwrpla5tuqh4a.jpg",
+  "slug": "frontend-resources-1dl4",
+  "url": "https://dev.to/miguelrodriguezp99/frontend-resources-1dl4",
+  "publish_date": "2024-05-25",
+  "published_at": "2024-05-25T16:33:01Z"
+ },
+ {
+  "id": 1864710,
+  "title": "How to build an HTML to PDF app in 5 minutes",
+  "description": "Today, I will explain how to create an app to convert HTML into PDFs with just a simple logic....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foaztt0zc6n54mnpkwfyi.gif",
+  "slug": "how-to-build-an-html-to-pdf-app-in-5-minutes-92e",
+  "url": "https://dev.to/anmolbaranwal/how-to-build-an-html-to-pdf-app-in-5-minutes-92e",
+  "publish_date": "2024-05-25",
+  "published_at": "2024-05-25T09:33:23Z"
+ },
+ {
+  "id": 1864660,
+  "title": "Don't use Typescript if your project is small",
+  "description": "TypeScript is a super-charged version of JavaScript that adds static typing. This means you define...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybdghqd6e25349nkl2jp.jpg",
+  "slug": "dont-use-typescript-if-your-project-is-small-4fmp",
+  "url": "https://dev.to/homayunmmdy/dont-use-typescript-if-your-project-is-small-4fmp",
+  "publish_date": "2024-05-25",
+  "published_at": "2024-05-25T07:24:12Z"
+ },
+ {
+  "id": 1821926,
+  "title": "AWS Network Challenge 1: Deploy Web App to EC2 / Two-Tier VPC Architecture",
+  "description": "About the Challenge   I manage a team of cloud developers, and one of the first things I...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9keq22s5euhyd5rn4k57.jpg",
+  "slug": "aws-network-challenge-1-deploy-application-in-ec2-on-two-tier-vpc-architecture-135i",
+  "url": "https://dev.to/aws-builders/aws-network-challenge-1-deploy-application-in-ec2-on-two-tier-vpc-architecture-135i",
+  "publish_date": "2024-05-25",
+  "published_at": "2024-05-25T03:19:16Z"
+ },
+ {
+  "id": 1852600,
+  "title": "Construindo um web server em Assembly x86, parte V, finalmente o server",
+  "description": "No artigo anterior, passamos pelos fundamentos de Assembly, onde foi possível entender alguns...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwirhzxduc15u5h6xinkk.png",
+  "slug": "construindo-um-web-server-em-assembly-x86-parte-v-finalmente-o-server-9e5",
+  "url": "https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-v-finalmente-o-server-9e5",
+  "publish_date": "2024-05-25",
+  "published_at": "2024-05-25T00:14:20Z"
+ },
+ {
   "id": 1864075,
   "title": "Is Kubernetes a database? CRDs explained in five minutes",
   "description": "When you touch on containerized apps today, Kubernetes usually comes up as their orchestrator. Sure,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cassidoo/sorting-git-branches-lbp",
   "publish_date": "2024-02-16",
   "published_at": "2024-02-16T05:59:16Z"
- },
- {
-  "id": 1762622,
-  "title": "How to Use Google Gemini with Node.js",
-  "description": "Introduction   Generative AI has been a hot topic in tech over the past year. Everyone is...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcwmvzhmifje726g8ohoa.png",
-  "slug": "how-to-use-google-gemini-with-nodejs-2d39",
-  "url": "https://dev.to/arindam_1729/how-to-use-google-gemini-with-nodejs-2d39",
-  "publish_date": "2024-02-15",
-  "published_at": "2024-02-15T21:33:41Z"
- },
- {
-  "id": 1762456,
-  "title": "Streamlining Infrastructure as Code: A Guide to Terraform Automation, Collaboration, and Governance in Large Organizations",
-  "description": "Terraform/OpenTofu is the most widely adopted infrastructure as code tool that allows teams to define...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr30wjzjd144h6lzhgkwa.png",
-  "slug": "streamlining-infrastructure-as-code-a-guide-to-terraform-automation-collaboration-and-governance-in-large-organizations-lb1",
-  "url": "https://dev.to/digger/streamlining-infrastructure-as-code-a-guide-to-terraform-automation-collaboration-and-governance-in-large-organizations-lb1",
-  "publish_date": "2024-02-15",
-  "published_at": "2024-02-15T17:51:03Z"
- },
- {
-  "id": 1759413,
-  "title": "Understanding Statement Coverage in Software Testing",
-  "description": "Introduction   The software testing world widely utilizes statement coverage. It's a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5n4j6mibsnurkheae1kf.png",
-  "slug": "understanding-statement-coverage-in-software-testing-4enn",
-  "url": "https://dev.to/arindam_1729/understanding-statement-coverage-in-software-testing-4enn",
-  "publish_date": "2024-02-15",
-  "published_at": "2024-02-15T05:30:00Z"
- },
- {
-  "id": 1755967,
-  "title": "I've been using VIM for a Week - These Are My Impressions",
-  "description": "Since we are programmers, there are a lot of different things to learn. Some of these things are...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6uzct5mkc2235xpmq4pv.jpg",
-  "slug": "ive-been-using-vim-for-a-week-these-are-my-impressions-3n2d",
-  "url": "https://dev.to/lucaschitolina/ive-been-using-vim-for-a-week-these-are-my-impressions-3n2d",
-  "publish_date": "2024-02-15",
-  "published_at": "2024-02-15T00:56:50Z"
- },
- {
-  "id": 1761722,
-  "title": "What We Learned When We Built a Vector Database-and Our Customers Started Using It (part 1)",
-  "description": "Everyone is talking about vectors these days. Cosines, ANN searches, normalizations, sentence...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs5vnvtj8xnfbt2ab2f0p.png",
-  "slug": "what-we-learned-when-we-built-a-vector-database-and-our-customers-started-using-it-part-1-1c6h",
-  "url": "https://dev.to/datastax/what-we-learned-when-we-built-a-vector-database-and-our-customers-started-using-it-part-1-1c6h",
-  "publish_date": "2024-02-15",
-  "published_at": "2024-02-15T00:55:30Z"
  }
 ]
