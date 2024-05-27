@@ -1,5 +1,55 @@
 [
  {
+  "id": 1865497,
+  "title": "Making Your GitHub Readme Profile Stand Out",
+  "description": "In this article, I like to share with you how to make your GitHub Readme profile pop and stand out...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyllqmzt8ea2dgeaelgl.png",
+  "slug": "making-your-github-readme-profile-stand-out-4m52",
+  "url": "https://dev.to/raielly/making-your-github-readme-profile-stand-out-4m52",
+  "publish_date": "2024-05-26",
+  "published_at": "2024-05-26T10:50:58Z"
+ },
+ {
+  "id": 1864937,
+  "title": "9 Caching Strategies for System Design Interviews",
+  "description": "9 Caching strategies every Software Engineers Should learn for System Design Interviews. ",
+  "cover_image": "",
+  "slug": "9-caching-strategies-for-system-design-interviews-369g",
+  "url": "https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g",
+  "publish_date": "2024-05-26",
+  "published_at": "2024-05-26T08:29:21Z"
+ },
+ {
+  "id": 1865361,
+  "title": "Amazon Macie to detect sensitive data from your S3 Buckets",
+  "description": "Leaking data or sensitive information exposure can lead to many insecurities to your organization...",
+  "cover_image": "",
+  "slug": "amazon-macie-to-detect-sensitive-data-from-s3-buckets-1eol",
+  "url": "https://dev.to/asankab/amazon-macie-to-detect-sensitive-data-from-s3-buckets-1eol",
+  "publish_date": "2024-05-26",
+  "published_at": "2024-05-26T07:58:55Z"
+ },
+ {
+  "id": 1865417,
+  "title": "python command isn't working and python3 working on mac",
+  "description": "On macOS, it is common to have multiple versions of Python installed, leading to confusion between...",
+  "cover_image": "",
+  "slug": "python-command-isnt-working-and-python3-working-on-mac-39nc",
+  "url": "https://dev.to/sh20raj/python-command-isnt-working-and-python3-working-on-mac-39nc",
+  "publish_date": "2024-05-26",
+  "published_at": "2024-05-26T06:21:17Z"
+ },
+ {
+  "id": 1865282,
+  "title": "Best sites to practice your programming logic 💻",
+  "description": "Hello everyone! Here are some of the best options (in my opinion) to practice and improve your...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdynkgtj4n1xlhby10mn4.png",
+  "slug": "best-sites-to-practice-your-programming-logic-4pgc",
+  "url": "https://dev.to/miguelrodriguezp99/best-sites-to-practice-your-programming-logic-4pgc",
+  "publish_date": "2024-05-26",
+  "published_at": "2024-05-26T00:53:51Z"
+ },
+ {
   "id": 1865059,
   "title": "Frontend resources! 🚀",
   "description": "🚀 Supercharge Your Development with These Resources! 🚀  👋 Hello everyone! 👋  I'm thrilled to share...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/hugaomarques/faang-guia-descomplicado-de-entrevistas-parte-1-3di0",
   "publish_date": "2024-02-17",
   "published_at": "2024-02-17T00:36:35Z"
- },
- {
-  "id": 1762871,
-  "title": "Be a better developer with these Git good practices",
-  "description": "If you're a developer, you probably use the versioning system called Git on a daily basis. The use of...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcc1l1cy5zy22maeslord.png",
-  "slug": "be-a-better-developer-with-these-git-good-practices-2dim",
-  "url": "https://dev.to/anthonyvii/be-a-better-developer-with-these-git-good-practices-2dim",
-  "publish_date": "2024-02-16",
-  "published_at": "2024-02-16T20:44:23Z"
- },
- {
-  "id": 1763309,
-  "title": "Staircase detail",
-  "description": "Prepare your favorite cup of coffee because we are about to enter the fantastic world of...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkaykgdiyr12l5bt6skfb.png",
-  "slug": "staircase-detail-112g",
-  "url": "https://dev.to/kecbm/staircase-detail-112g",
-  "publish_date": "2024-02-16",
-  "published_at": "2024-02-16T16:08:41Z"
- },
- {
-  "id": 1762006,
-  "title": "Alternatives to Auth0 we are most excited about in 2024",
-  "description": "Hey friends 👋  Auth0 and its parent company, Okta, are what developers think of when managing user...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fycd0qre9tv95lb2mdsih.gif",
-  "slug": "alternatives-to-auth0-we-are-most-excited-about-in-2024-2b07",
-  "url": "https://dev.to/quine/alternatives-to-auth0-we-are-most-excited-about-in-2024-2b07",
-  "publish_date": "2024-02-16",
-  "published_at": "2024-02-16T12:52:17Z"
- },
- {
-  "id": 1762985,
-  "title": "Using Pub/Sub for event-driven Go backends",
-  "description": "Pub/Sub is a powerful building block in a backend application. It's often used for building...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F92yflcuzw199v80me8ng.png",
-  "slug": "using-pubsub-for-event-driven-go-backends-55h3",
-  "url": "https://dev.to/encore/using-pubsub-for-event-driven-go-backends-55h3",
-  "publish_date": "2024-02-16",
-  "published_at": "2024-02-16T08:30:00Z"
- },
- {
-  "id": 1762857,
-  "title": "Sorting Git branches",
-  "description": "If you're tired of your git branches being alphabetically sorted, you can change that!",
-  "cover_image": "",
-  "slug": "sorting-git-branches-lbp",
-  "url": "https://dev.to/cassidoo/sorting-git-branches-lbp",
-  "publish_date": "2024-02-16",
-  "published_at": "2024-02-16T05:59:16Z"
  }
 ]
