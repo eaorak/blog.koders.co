@@ -1,5 +1,55 @@
 [
  {
+  "id": 1869393,
+  "title": "Join us for the next Frontend Challenge: June Edition",
+  "description": "The wait is over! We are back with another Frontend Challenge.   Running through June 09, Frontend...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwpl3b0e6ppy455rrmaul.png",
+  "slug": "join-us-for-the-next-frontend-challenge-june-edition-3ngl",
+  "url": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-june-edition-3ngl",
+  "publish_date": "2024-05-29",
+  "published_at": "2024-05-29T18:15:05Z"
+ },
+ {
+  "id": 1868881,
+  "title": "Why Theo is Wrong \u0026 We'll Get a Laravel for JavaScript",
+  "description": "JavaScript's Need for a Full-stack Framework   “Why Don't We Have A Laravel For...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftgxf90vno3718kaqp1ez.png",
+  "slug": "why-we-dont-have-a-laravel-for-javascript-yet-45bi",
+  "url": "https://dev.to/wasp/why-we-dont-have-a-laravel-for-javascript-yet-45bi",
+  "publish_date": "2024-05-29",
+  "published_at": "2024-05-29T13:15:57Z"
+ },
+ {
+  "id": 1867709,
+  "title": "How to build: a To-Do list app with an embedded AI copilot (Next.js, GPT4, \u0026 CopilotKit)",
+  "description": "TL;DR   A to-do list is a classic project for every dev. In today's world it is great to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj5ha1ty5cu203to1ma04.gif",
+  "slug": "how-to-build-an-ai-powered-to-do-list-nextjs-gpt4-copilotkit-20i4",
+  "url": "https://dev.to/copilotkit/how-to-build-an-ai-powered-to-do-list-nextjs-gpt4-copilotkit-20i4",
+  "publish_date": "2024-05-29",
+  "published_at": "2024-05-29T12:22:46Z"
+ },
+ {
+  "id": 1868717,
+  "title": "18 Open-Source Projects Every React Developer Should Bookmark 🔥👍",
+  "description": "In the ever-evolving landscape of web development, React developers often find themselves navigating...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fippv5wsa9f8tvi4biees.png",
+  "slug": "18-open-source-projects-every-react-developer-should-bookmark-12nd",
+  "url": "https://dev.to/madza/18-open-source-projects-every-react-developer-should-bookmark-12nd",
+  "publish_date": "2024-05-29",
+  "published_at": "2024-05-29T08:55:26Z"
+ },
+ {
+  "id": 1868702,
+  "title": "How To Use ChatGPT To Skyrocket Your Engineering Team's Productivity",
+  "description": "The pressure to deliver high-quality software at breakneck speed is a reality every engineering team...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn88o9mjy1a1fymxgdci1.jpg",
+  "slug": "how-to-use-chatgpt-to-skyrocket-your-engineering-teams-productivity-186b",
+  "url": "https://dev.to/middleware/how-to-use-chatgpt-to-skyrocket-your-engineering-teams-productivity-186b",
+  "publish_date": "2024-05-29",
+  "published_at": "2024-05-29T08:47:06Z"
+ },
+ {
   "id": 1868039,
   "title": "Congrats to the The AWS Amplify Fullstack TypeScript Challenge Winners!",
   "description": "WOW! We are so impressed with everyone that submitted to The AWS Amplify Fullstack TypeScript...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/estelle-k/building-an-image-recognition-website-with-sveltekit-and-tensorflowjs-474a",
   "publish_date": "2024-02-20",
   "published_at": "2024-02-20T07:39:22Z"
- },
- {
-  "id": 1765707,
-  "title": "Documentação em toda parte",
-  "description": "Nesse texto irei comentar como o ato de documentar interfere na minha vida em vários aspectos e como...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp79qt3is8q61ratbqlrf.png",
-  "slug": "documentacao-em-toda-parte-e1m",
-  "url": "https://dev.to/beatrizoliveira/documentacao-em-toda-parte-e1m",
-  "publish_date": "2024-02-19",
-  "published_at": "2024-02-19T19:00:35Z"
- },
- {
-  "id": 1765741,
-  "title": "Sparse Vectors in Qdrant: Pure Vector-based Hybrid Search",
-  "description": "Think of a library with a vast index card system. Each index card only has a few keywords marked out...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmacqgn7hn8jzgztia99f.png",
-  "slug": "sparse-vectors-in-qdrant-pure-vector-based-hybrid-search-3j64",
-  "url": "https://dev.to/qdrant/sparse-vectors-in-qdrant-pure-vector-based-hybrid-search-3j64",
-  "publish_date": "2024-02-19",
-  "published_at": "2024-02-19T17:45:08Z"
- },
- {
-  "id": 1765730,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-ln7",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-ln7",
-  "publish_date": "2024-02-19",
-  "published_at": "2024-02-19T17:28:55Z"
- },
- {
-  "id": 1765010,
-  "title": "What we've achieved with 1 Month of Basement Devs",
-  "description": "Running a community is a tough job, but after a few years of doing it, it becomes an easy task. This...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ebs4ktgfc9sdfzwk2q9.png",
-  "slug": "what-weve-achieved-with-1-month-of-basement-devs-3pec",
-  "url": "https://dev.to/danielhe4rt/what-weve-achieved-with-1-month-of-basement-devs-3pec",
-  "publish_date": "2024-02-19",
-  "published_at": "2024-02-19T15:29:22Z"
- },
- {
-  "id": 1765608,
-  "title": "Harnessing the power of GitOps with Rig",
-  "description": "GitOps has among the cloud-native community become a standard or a given for how you should manage...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw0oj1wjnqis1xzr149ja.png",
-  "slug": "harnessing-the-power-of-gitops-with-rig-1aig",
-  "url": "https://dev.to/rigdev/harnessing-the-power-of-gitops-with-rig-1aig",
-  "publish_date": "2024-02-19",
-  "published_at": "2024-02-19T14:25:47Z"
  }
 ]
