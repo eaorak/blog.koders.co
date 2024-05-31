@@ -1,5 +1,55 @@
 [
  {
+  "id": 1870579,
+  "title": "Implementing Semantic Caching using Qdrant and Rust",
+  "description": "Hello world! Today we're going to learn about semantic caching with Qdrant, in Rust. By the end of...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl07e2kbyx9to8arh8k7k.png",
+  "slug": "implementing-semantic-caching-using-qdrant-and-rust-4nbj",
+  "url": "https://dev.to/shuttle_dev/implementing-semantic-caching-using-qdrant-and-rust-4nbj",
+  "publish_date": "2024-05-30",
+  "published_at": "2024-05-30T15:49:45Z"
+ },
+ {
+  "id": 1870413,
+  "title": "When to Dockerize vs. When to use ModelKit",
+  "description": "ML development can often be a cumbersome and iterative process, with many open source tools, built to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0ol8ghukhbqrf3d2h12i.jpg",
+  "slug": "when-to-dockerize-vs-when-to-use-modelkit-4mbj",
+  "url": "https://dev.to/kitops/when-to-dockerize-vs-when-to-use-modelkit-4mbj",
+  "publish_date": "2024-05-30",
+  "published_at": "2024-05-30T14:00:11Z"
+ },
+ {
+  "id": 1870389,
+  "title": "Building a SQL Query Generator Using ToolJet + Gemini API",
+  "description": "Introduction   This tutorial will guide you through the process of building an AI-driven SQL...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fusgegr6num830cxn04nw.png",
+  "slug": "building-a-sql-query-generator-using-tooljet-gemini-api-4lo9",
+  "url": "https://dev.to/tooljet/building-a-sql-query-generator-using-tooljet-gemini-api-4lo9",
+  "publish_date": "2024-05-30",
+  "published_at": "2024-05-30T13:03:44Z"
+ },
+ {
+  "id": 1870341,
+  "title": "Implementing Role Based Access Control in SvelteKit",
+  "description": "Table Of Contents    Understanding Role-Based Access Control (RBAC) Setting Up the SvelteKit...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcrennv4cyqm9jiebz4xr.png",
+  "slug": "implementing-role-based-access-control-in-sveltekit-56hf",
+  "url": "https://dev.to/permify/implementing-role-based-access-control-in-sveltekit-56hf",
+  "publish_date": "2024-05-30",
+  "published_at": "2024-05-30T11:43:46Z"
+ },
+ {
+  "id": 1869743,
+  "title": "5 Cheap Ways to Host Postgres",
+  "description": "Hetzner, Sliplane, Render, Github, DigitalOcean - Picking a hosting provider for your Postgres...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd5s18fz86goaw8wq4rmq.png",
+  "slug": "5-cheap-ways-to-host-postgres-2mal",
+  "url": "https://dev.to/code42cate/5-cheap-ways-to-host-postgres-2mal",
+  "publish_date": "2024-05-30",
+  "published_at": "2024-05-30T09:11:42Z"
+ },
+ {
   "id": 1869393,
   "title": "Join us for the next Frontend Challenge: June Edition",
   "description": "The wait is over! We are back with another Frontend Challenge.   Running through June 09, Frontend...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/speaklouder/be-a-better-developer-with-these-git-good-practices-13j9",
   "publish_date": "2024-02-21",
   "published_at": "2024-02-21T04:46:54Z"
- },
- {
-  "id": 1764327,
-  "title": "I built an AI PowerPoint generator - here's how:(Next.js, OpenAI, CopilotKit)",
-  "description": "TL;DR   In this article, you will learn how to build an AI-powered PowerPoint application...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fafza05otmtxjmtl5a5k2.gif",
-  "slug": "how-to-build-ai-powered-powerpoint-app-nextjs-openai-copilotkit-ji2",
-  "url": "https://dev.to/copilotkit/how-to-build-ai-powered-powerpoint-app-nextjs-openai-copilotkit-ji2",
-  "publish_date": "2024-02-20",
-  "published_at": "2024-02-20T15:30:56Z"
- },
- {
-  "id": 1766522,
-  "title": "12 things you didn't know you could do with Nextjs",
-  "description": "I've made several applications with Next.js and am truly amazed by the amount of things that we can...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzh21q3icna04djlxy3j4.png",
-  "slug": "12-things-you-didnt-know-you-could-do-with-nextjs-386b",
-  "url": "https://dev.to/anmolbaranwal/12-things-you-didnt-know-you-could-do-with-nextjs-386b",
-  "publish_date": "2024-02-20",
-  "published_at": "2024-02-20T14:00:32Z"
- },
- {
-  "id": 1766438,
-  "title": "Hey Chads, share your Neovim and Tmux Config",
-  "description": "Hi devs, if you are a Neovim or Tmux user, or use either one of them, feel free to share your configs...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Folnf5l4v23v0g9beiii6.png",
-  "slug": "hey-chads-share-your-neovim-and-tmux-config-26ap",
-  "url": "https://dev.to/shricodev/hey-chads-share-your-neovim-and-tmux-config-26ap",
-  "publish_date": "2024-02-20",
-  "published_at": "2024-02-20T13:57:35Z"
- },
- {
-  "id": 1766481,
-  "title": "10 \"hard truths\" junior developers need to hear 🗯🙉",
-  "description": "Hi, I'm Vince   Hi, I'm Vince, a worldwide educator turned web developer.     That's me in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3w0pa8uezpk3aew71a9j.png",
-  "slug": "10-hard-truths-junior-developers-need-to-hear-3j0e",
-  "url": "https://dev.to/wasp/10-hard-truths-junior-developers-need-to-hear-3j0e",
-  "publish_date": "2024-02-20",
-  "published_at": "2024-02-20T13:22:25Z"
- },
- {
-  "id": 1764507,
-  "title": "Building an Image Recognition Website with SvelteKit and TensorFlow.js",
-  "description": "Introduction   In this article, I'll show you how to build a simple website that allows...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkfdfwysbnn4gnnopd1qr.jpg",
-  "slug": "building-an-image-recognition-website-with-sveltekit-and-tensorflowjs-474a",
-  "url": "https://dev.to/estelle-k/building-an-image-recognition-website-with-sveltekit-and-tensorflowjs-474a",
-  "publish_date": "2024-02-20",
-  "published_at": "2024-02-20T07:39:22Z"
  }
 ]
