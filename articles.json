@@ -1,5 +1,55 @@
 [
  {
+  "id": 1872199,
+  "title": "Why My Rubber Duck Quit on Me: A Developer’s Tale",
+  "description": "It's no secret that we developers sometimes talk to our rubber ducks as part of the \"rubber duck...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2jaacrdr7zol3zk3z07u.jpg",
+  "slug": "why-my-rubber-duck-quit-on-me-a-developers-tale-3op4",
+  "url": "https://dev.to/buildwebcrumbs/why-my-rubber-duck-quit-on-me-a-developers-tale-3op4",
+  "publish_date": "2024-05-31",
+  "published_at": "2024-05-31T15:37:41Z"
+ },
+ {
+  "id": 1869410,
+  "title": "Share Your Experience Loudly and Often",
+  "description": "From the outside, it may seem like the person on the stage has something special that inherently...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffexwj9xmu5878ov7697p.jpg",
+  "slug": "share-your-experience-loudly-and-often-36ah",
+  "url": "https://dev.to/abbeyperini/share-your-experience-loudly-and-often-36ah",
+  "publish_date": "2024-05-31",
+  "published_at": "2024-05-31T11:43:24Z"
+ },
+ {
+  "id": 1870487,
+  "title": "5 Open-Source Discoveries 🎁",
+  "description": "Hey friends 👋  Each week, our team at Quine explores the open-source ecosystem and features...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8wmexr2gnafpnu77rto5.gif",
+  "slug": "5-open-source-discoveries-2b3l",
+  "url": "https://dev.to/quine/5-open-source-discoveries-2b3l",
+  "publish_date": "2024-05-31",
+  "published_at": "2024-05-31T10:30:57Z"
+ },
+ {
+  "id": 1846496,
+  "title": "What was your win this week? 🙌",
+  "description": "Heyo! 👋  Looking back on this past week, what was something you were proud of accomplishing?  All...",
+  "cover_image": "",
+  "slug": "what-was-your-win-this-week-2kji",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-2kji",
+  "publish_date": "2024-05-31",
+  "published_at": "2024-05-31T07:47:00Z"
+ },
+ {
+  "id": 1870385,
+  "title": "Open AI with Vercel: Solution to Gateway Timeouts",
+  "description": "Vercel and OpenAI: Not a Perfect Match.   Vercel is great for starting small projects quickly and for...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbpgymscbo6t5lw8lpww.png",
+  "slug": "open-ai-with-vercel-a-way-around-gateway-timeouts-1ec9",
+  "url": "https://dev.to/buildwebcrumbs/open-ai-with-vercel-a-way-around-gateway-timeouts-1ec9",
+  "publish_date": "2024-05-31",
+  "published_at": "2024-05-31T00:24:28Z"
+ },
+ {
   "id": 1870579,
   "title": "Implementing Semantic Caching using Qdrant and Rust",
   "description": "Hello world! Today we're going to learn about semantic caching with Qdrant, in Rust. By the end of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/deeheber/dear-new-code-school-grad-5c55",
   "publish_date": "2024-02-22",
   "published_at": "2024-02-22T00:12:03Z"
- },
- {
-  "id": 1767405,
-  "title": "Prodzilla: From Zero to Prod with Rust and Shuttle",
-  "description": "I’ve been working on Prodzilla, a modern synthetic monitoring tool built in Rust. I wanted to share...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsfvt3rc8ghjpht30rsn5.png",
-  "slug": "prodzilla-from-zero-to-prod-with-rust-and-shuttle-1bd6",
-  "url": "https://dev.to/codingupastorm/prodzilla-from-zero-to-prod-with-rust-and-shuttle-1bd6",
-  "publish_date": "2024-02-21",
-  "published_at": "2024-02-21T09:27:16Z"
- },
- {
-  "id": 1767400,
-  "title": "Understanding RAG: A Deeper Dive into the Fusion of Retrieval and Generation",
-  "description": "Retrieval-Augmented Generation (RAG) models represent a fascinating marriage of two distinct but...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmr8m287ns661ehfjv46.png",
-  "slug": "understanding-rag-a-deeper-dive-into-the-fusion-of-retrieval-and-generation-1l4b",
-  "url": "https://dev.to/portkey/understanding-rag-a-deeper-dive-into-the-fusion-of-retrieval-and-generation-1l4b",
-  "publish_date": "2024-02-21",
-  "published_at": "2024-02-21T09:22:22Z"
- },
- {
-  "id": 1762968,
-  "title": "Translate your App's Notification content to different languages using i18n.",
-  "description": "The beauty of the world lies in its diversity. Culture, languages, and generally our way of life...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--0YNmyCeA--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://manage.novu.co/wp-content/uploads/2024/02/cover-devto-translation-management.jpg",
-  "slug": "translate-your-apps-notification-content-to-different-languages-using-i18n-41ed",
-  "url": "https://dev.to/novu/translate-your-apps-notification-content-to-different-languages-using-i18n-41ed",
-  "publish_date": "2024-02-21",
-  "published_at": "2024-02-21T09:20:16Z"
- },
- {
-  "id": 1745772,
-  "title": "Publish/Subscribe with Sidekiq",
-  "description": "Introduction   Our Rails application is an old monolith that relies heavily on after/before...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7j7rl5yhcn64c0pignd4.jpg",
-  "slug": "publishsubscribe-with-sidekiq-3n92",
-  "url": "https://dev.to/productive/publishsubscribe-with-sidekiq-3n92",
-  "publish_date": "2024-02-21",
-  "published_at": "2024-02-21T08:00:00Z"
- },
- {
-  "id": 1767182,
-  "title": "Be a Better Developer with These Git Good Practices",
-  "description": "Git has become the cornerstone of modern software development, empowering teams to collaborate...",
-  "cover_image": "",
-  "slug": "be-a-better-developer-with-these-git-good-practices-13j9",
-  "url": "https://dev.to/speaklouder/be-a-better-developer-with-these-git-good-practices-13j9",
-  "publish_date": "2024-02-21",
-  "published_at": "2024-02-21T04:46:54Z"
  }
 ]
