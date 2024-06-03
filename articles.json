@@ -1,5 +1,55 @@
 [
  {
+  "id": 1861926,
+  "title": "11-20 Сustom Utility Types for TypeScript Projects",
+  "description": "In the second part of our exploration into TypeScript development, we introduce ten more custom...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs2ayg5s0kyba73986dnr.png",
+  "slug": "11-20-sustom-utility-types-for-typescript-projects-2bg5",
+  "url": "https://dev.to/antonzo/11-20-sustom-utility-types-for-typescript-projects-2bg5",
+  "publish_date": "2024-06-02",
+  "published_at": "2024-06-02T18:45:21Z"
+ },
+ {
+  "id": 1873573,
+  "title": "Write SOLID React Hooks",
+  "description": "SOLID is one of the more commonly used design patterns. It's commonly used in many languages and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbv0lw9f81zes10etk7vm.png",
+  "slug": "write-solid-react-hooks-436o",
+  "url": "https://dev.to/perssondennis/write-solid-react-hooks-436o",
+  "publish_date": "2024-06-02",
+  "published_at": "2024-06-02T14:40:00Z"
+ },
+ {
+  "id": 1872035,
+  "title": "21 VS Code Extensions To Boost Your Productivity",
+  "description": "Hello Devs👋  As developers, we spend most of our time in VS Code. In this post, I will be sharing...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl13xx8lzyvqwws62sav.gif",
+  "slug": "21-vs-code-extensions-to-boost-your-productivity-1fil",
+  "url": "https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil",
+  "publish_date": "2024-06-02",
+  "published_at": "2024-06-02T10:38:47Z"
+ },
+ {
+  "id": 1873482,
+  "title": "8 Best Books to Learn System Design in 2024",
+  "description": "My favorite books to learn System design and Software architecture.",
+  "cover_image": "",
+  "slug": "8-best-books-to-learn-system-design-in-2024-15p",
+  "url": "https://dev.to/javinpaul/8-best-books-to-learn-system-design-in-2024-15p",
+  "publish_date": "2024-06-02",
+  "published_at": "2024-06-02T05:20:40Z"
+ },
+ {
+  "id": 1873470,
+  "title": "The best personal Note-taking app 📙 Fast 🚀 Secure 🔐 and Free 💯",
+  "description": "Hello everyone, about a month ago, I shared my intention to develop a note-taking app, and today I am...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5700hhluq1jq1awi2c5x.jpg",
+  "slug": "the-best-personal-note-taking-app-fast-secure-and-free-257k",
+  "url": "https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k",
+  "publish_date": "2024-06-02",
+  "published_at": "2024-06-02T04:41:59Z"
+ },
+ {
   "id": 1872875,
   "title": "I'm New To Flutter.",
   "description": "\"Welcome to the world of Flutter!\"   If you're reading this, chances are you're curious...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/stanleyogada/lite-neovim-distro-a-blazing-fast-lightweight-neovim-setup-7fm",
   "publish_date": "2024-02-24",
   "published_at": "2024-02-24T00:44:13Z"
- },
- {
-  "id": 1743605,
-  "title": "Genesis of a Framework: Unveiling the Meteor Story",
-  "description": "Given Meteor has been around for almost 11 years now, I think it's important to document its early...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwqllftghc34zo6752ih4.png",
-  "slug": "genesis-of-a-framework-unveiling-the-meteor-story-50dd",
-  "url": "https://dev.to/meteor/genesis-of-a-framework-unveiling-the-meteor-story-50dd",
-  "publish_date": "2024-02-23",
-  "published_at": "2024-02-23T16:23:55Z"
- },
- {
-  "id": 1770316,
-  "title": "Interested in Contributing to Open Source? Here's What You Need to Know",
-  "description": "Have you ever thought of contributing to open source? If you are here, you probably did 😄  For a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8th0j191k3fekppps7s5.jpeg",
-  "slug": "interested-in-contributing-to-open-source-heres-what-you-need-to-know-g1c",
-  "url": "https://dev.to/cyclops-ui/interested-in-contributing-to-open-source-heres-what-you-need-to-know-g1c",
-  "publish_date": "2024-02-23",
-  "published_at": "2024-02-23T16:08:30Z"
- },
- {
-  "id": 1770281,
-  "title": "NoSQL Postgres: Add MongoDB compatibility to your Supabase projects with FerretDB",
-  "description": "FerretDB is an open source document database that adds MongoDB compatibility to other database...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2say89adjwecequscidz.png",
-  "slug": "nosql-postgres-add-mongodb-compatibility-to-your-supabase-projects-with-ferretdb-3bfm",
-  "url": "https://dev.to/supabase/nosql-postgres-add-mongodb-compatibility-to-your-supabase-projects-with-ferretdb-3bfm",
-  "publish_date": "2024-02-23",
-  "published_at": "2024-02-23T15:16:08Z"
- },
- {
-  "id": 1769623,
-  "title": "Our favourite open-source customer data platforms",
-  "description": "Hey friends 👋  Segment is a Customer Data Platform also known as CDP.   The main objective behind...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flsxogltedf3tf6mifbvn.gif",
-  "slug": "our-5-favourite-open-source-customer-data-platform-2klb",
-  "url": "https://dev.to/quine/our-5-favourite-open-source-customer-data-platform-2klb",
-  "publish_date": "2024-02-23",
-  "published_at": "2024-02-23T14:44:53Z"
- },
- {
-  "id": 1770209,
-  "title": "The world's first directory for dev content creators",
-  "description": "Introducing influencer.dev   Let's start from the end - I've launched a platform called...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbsbmxqhbffj7rt591meg.png",
-  "slug": "the-worlds-first-directory-for-dev-content-creators-p77",
-  "url": "https://dev.to/zevireinitz/the-worlds-first-directory-for-dev-content-creators-p77",
-  "publish_date": "2024-02-23",
-  "published_at": "2024-02-23T12:43:59Z"
  }
 ]
