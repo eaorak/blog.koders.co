@@ -1,5 +1,55 @@
 [
  {
+  "id": 1879309,
+  "title": "10 Open Source Tools for Building MLOps Pipelines",
+  "description": "Contrary to traditional software projects, building an ML project is an iterative process and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faagon22n3wyaqyri0xrg.png",
+  "slug": "10-open-source-tools-for-building-mlops-pipelines-4mp",
+  "url": "https://dev.to/kitops/10-open-source-tools-for-building-mlops-pipelines-4mp",
+  "publish_date": "2024-06-06",
+  "published_at": "2024-06-06T13:49:36Z"
+ },
+ {
+  "id": 1879294,
+  "title": "O Poder das Tarefas: Como Pequenas Entregas Levam a Grandes Resultados",
+  "description": "No mercado de tecnologia, chamamos de task uma tarefa a ser realizada. Ela contém a descrição do...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkxyrtrxdd2q4h41bevdg.png",
+  "slug": "o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6",
+  "url": "https://dev.to/kecbm/o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6",
+  "publish_date": "2024-06-06",
+  "published_at": "2024-06-06T13:35:01Z"
+ },
+ {
+  "id": 1879290,
+  "title": "Building an Intelligent Reimbursement Tracking App using OCR with Gemini API + ToolJet 🚀",
+  "description": "Introduction   This tutorial will guide you through building an intelligent reimbursement...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdz8542zj9p2vq1n1oiq5.png",
+  "slug": "building-an-intelligent-reimbursement-tracking-app-using-ocr-with-tooljet-gemini-api-9kb",
+  "url": "https://dev.to/tooljet/building-an-intelligent-reimbursement-tracking-app-using-ocr-with-tooljet-gemini-api-9kb",
+  "publish_date": "2024-06-06",
+  "published_at": "2024-06-06T13:25:06Z"
+ },
+ {
+  "id": 1877087,
+  "title": "Not 💩, here's how to write actually good commit messages (hint: It's not just adding commit-lint)",
+  "description": "Update build file Fixes dependency array Refactor Fix tests  The most famous: Update README.md...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp9dow0gwlo49dgfjtk8r.png",
+  "slug": "not-heres-how-to-write-actually-good-commit-messages-hint-its-not-just-adding-commit-lint-j2i",
+  "url": "https://dev.to/middleware/not-heres-how-to-write-actually-good-commit-messages-hint-its-not-just-adding-commit-lint-j2i",
+  "publish_date": "2024-06-06",
+  "published_at": "2024-06-06T10:01:04Z"
+ },
+ {
+  "id": 1878712,
+  "title": "Essential Git Commands for Beginners",
+  "description": "Git is an essential platform for version control and collaboration in software development. It...",
+  "cover_image": "",
+  "slug": "essential-github-commands-for-beginners-34ia",
+  "url": "https://dev.to/vyan/essential-github-commands-for-beginners-34ia",
+  "publish_date": "2024-06-06",
+  "published_at": "2024-06-06T04:03:42Z"
+ },
+ {
   "id": 1870649,
   "title": "List of 50+ organizations on DEV creating valuable content",
   "description": "It is hard to find organizations on DEV, and I've noticed that they don't receive followers that...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/copilotkit/im-building-a-full-stack-app-here-are-the-libraries-im-going-to-use-51nk",
   "publish_date": "2024-02-28",
   "published_at": "2024-02-28T10:51:48Z"
- },
- {
-  "id": 1774116,
-  "title": "Mentor Matching — February 2024 🤝",
-  "description": "This monthly series is dedicated to helping mentors and mentees connect with one another. 🤜💥🤛  The...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffftdkjmm99z06bu2qggi.gif",
-  "slug": "mentor-matching-monthly-4ann",
-  "url": "https://dev.to/devteam/mentor-matching-monthly-4ann",
-  "publish_date": "2024-02-27",
-  "published_at": "2024-02-27T19:56:59Z"
- },
- {
-  "id": 1773550,
-  "title": "How To Create an AI Photo App with Python",
-  "description": "Let's learn how to build an image recognition application using Python and Taipy. We'll start by...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb1byb3yl3xsn2aomjvz0.gif",
-  "slug": "how-to-create-an-ai-photo-app-with-python-23g8",
-  "url": "https://dev.to/taipy/how-to-create-an-ai-photo-app-with-python-23g8",
-  "publish_date": "2024-02-27",
-  "published_at": "2024-02-27T16:47:06Z"
- },
- {
-  "id": 1773822,
-  "title": "Psst... I can build this in a weekend!",
-  "description": "What can you really build in a weekend?  The core functionality with happy path? Probably, yes.  But...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xaeih4pid09zxaxtp1d.jpg",
-  "slug": "psst-i-can-build-this-in-a-weekend-5b45",
-  "url": "https://dev.to/shobhitic/psst-i-can-build-this-in-a-weekend-5b45",
-  "publish_date": "2024-02-27",
-  "published_at": "2024-02-27T16:10:00Z"
- },
- {
-  "id": 1773694,
-  "title": "Save your articles and reading list from DEV to GitHub - DevtoGitHub",
-  "description": "Can you save your articles or reading list from DEV?  Most of you would say NO. There was no way, but...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F90dxgexjqlyxe6hgrifz.png",
-  "slug": "save-your-articles-and-reading-list-from-dev-to-github-devtogithub-pje",
-  "url": "https://dev.to/anmolbaranwal/save-your-articles-and-reading-list-from-dev-to-github-devtogithub-pje",
-  "publish_date": "2024-02-27",
-  "published_at": "2024-02-27T14:22:50Z"
- },
- {
-  "id": 1772915,
-  "title": "English for Brazilians: A Fresh Start",
-  "description": "The Journey Begins: Learning English Anew   Imagine hitting the reset button on your English...",
-  "cover_image": "",
-  "slug": "english-for-brazilians-a-fresh-start-31j8",
-  "url": "https://dev.to/juliomerisio/english-for-brazilians-a-fresh-start-31j8",
-  "publish_date": "2024-02-27",
-  "published_at": "2024-02-27T13:26:54Z"
  }
 ]
