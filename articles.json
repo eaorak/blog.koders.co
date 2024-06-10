@@ -1,5 +1,55 @@
 [
  {
+  "id": 1882251,
+  "title": "Improving Developer Productivity With Pieces",
+  "description": "Introduction   Hello everyone! Recently, I got introduced to a developer tool from a Twitter...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcl8yo5byfnz37ynq01wm.png",
+  "slug": "improving-developer-productivity-with-pieces-if3",
+  "url": "https://dev.to/olibhiaghosh/improving-developer-productivity-with-pieces-if3",
+  "publish_date": "2024-06-09",
+  "published_at": "2024-06-09T17:32:56Z"
+ },
+ {
+  "id": 1882230,
+  "title": "Frontend Challenge | Best Beaches in the World!",
+  "description": "This is a submission for Frontend Challenge v24.04.17, CSS Art: June.  🌴🏖️ Welcome to My June CSS...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fin6aqx31tjua1javqlxr.png",
+  "slug": "frontend-challenge-best-beaches-in-the-world-ddg",
+  "url": "https://dev.to/hikolakita/frontend-challenge-best-beaches-in-the-world-ddg",
+  "publish_date": "2024-06-09",
+  "published_at": "2024-06-09T17:13:22Z"
+ },
+ {
+  "id": 1877693,
+  "title": "Advice for Intermediate developers",
+  "description": "Prologue   I wrote this blog five years ago when I was a junior developer. The tips I shared...",
+  "cover_image": "",
+  "slug": "advice-for-intermediate-developers-4777",
+  "url": "https://dev.to/rampa2510/advice-for-intermediate-developers-4777",
+  "publish_date": "2024-06-09",
+  "published_at": "2024-06-09T15:50:55Z"
+ },
+ {
+  "id": 1882025,
+  "title": "I’ve worked in IT for over 10 years. Here are 5 things I wish I knew when I started",
+  "description": "Hello, dear Dev.to community. I need to get some things off my chest, so here I am, hoping to share...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flxid8vdw7mct22d33mh8.png",
+  "slug": "ive-worked-in-it-for-over-10-years-here-are-5-things-i-wish-i-knew-when-i-started-43pe",
+  "url": "https://dev.to/vorniches/ive-worked-in-it-for-over-10-years-here-are-5-things-i-wish-i-knew-when-i-started-43pe",
+  "publish_date": "2024-06-09",
+  "published_at": "2024-06-09T12:22:22Z"
+ },
+ {
+  "id": 1867387,
+  "title": "Database Sharding for System Design Interview",
+  "description": "A complete guide of database sharding for system design, why use it and how it works for your system design interview.",
+  "cover_image": "",
+  "slug": "database-sharding-for-system-design-interview-1k6b",
+  "url": "https://dev.to/somadevtoo/database-sharding-for-system-design-interview-1k6b",
+  "publish_date": "2024-06-09",
+  "published_at": "2024-06-09T08:05:27Z"
+ },
+ {
   "id": 1880558,
   "title": "MT-Bench: Comparing different LLM Judges",
   "description": "By default, MT-Bench uses OpenAI as a service provider with a gpt-4 model ID, which is a vanilla...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/speaklouder/how-to-implement-sharding-in-mongodb-koe",
   "publish_date": "2024-03-02",
   "published_at": "2024-03-02T04:31:21Z"
- },
- {
-  "id": 1777233,
-  "title": "Time conversion",
-  "description": "Prepare your favorite cup of coffee because we are about to enter the fantastic world of Time...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc7fl9g8ocdu711wglrh3.png",
-  "slug": "time-conversion-383d",
-  "url": "https://dev.to/kecbm/time-conversion-383d",
-  "publish_date": "2024-03-01",
-  "published_at": "2024-03-01T14:10:36Z"
- },
- {
-  "id": 1775333,
-  "title": "31 Women in Tech Content Creators to Follow Now",
-  "description": "I work as a developer advocate and as part of my job, I will often be asked by people in our...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv9j2h83ya2t0ljdbsbqd.jpg",
-  "slug": "31-women-in-tech-content-creators-to-follow-now-4642",
-  "url": "https://dev.to/amandamartindev/31-women-in-tech-content-creators-to-follow-now-4642",
-  "publish_date": "2024-03-01",
-  "published_at": "2024-03-01T13:30:00Z"
- },
- {
-  "id": 1775150,
-  "title": "A Love Letter to the Underrepresented in Tech",
-  "description": "Dear \"Underrepresented,\"  In my dreams, you are fully represented - unabashedly you. Never need to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3l9g3p84n69o6miz8muu.png",
-  "slug": "a-love-letter-to-the-underrepresented-in-tech-4jj3",
-  "url": "https://dev.to/abbeyperini/a-love-letter-to-the-underrepresented-in-tech-4jj3",
-  "publish_date": "2024-03-01",
-  "published_at": "2024-03-01T12:58:28Z"
- },
- {
-  "id": 1776231,
-  "title": "Here are the open-source startups YC invested in 2024",
-  "description": "Hey friends 👋  In today's article, we will dive into the open-source startups YC has invested in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcpvydvjqudep7es0we53.gif",
-  "slug": "here-are-the-open-source-startups-yc-invested-in-2024-5b3m",
-  "url": "https://dev.to/quine/here-are-the-open-source-startups-yc-invested-in-2024-5b3m",
-  "publish_date": "2024-03-01",
-  "published_at": "2024-03-01T11:26:48Z"
- },
- {
-  "id": 1768427,
-  "title": "we_coded 2024! Empowering Change for Gender Equity in Tech 🔥💪🏽",
-  "description": "Everyone! we_coded is back, and we are excited to celebrate with you for the entire month of...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp7ylkdjiwggd3q4jaci7.jpg",
-  "slug": "wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj",
-  "url": "https://dev.to/devteam/wecoded-2024-empowering-change-for-gender-equity-in-tech-30nj",
-  "publish_date": "2024-03-01",
-  "published_at": "2024-03-01T08:00:00Z"
  }
 ]
