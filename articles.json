@@ -1,5 +1,55 @@
 [
  {
+  "id": 1883182,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm24zddvttq0aiu5fsb35.png",
+  "slug": "meme-monday-13l3",
+  "url": "https://dev.to/ben/meme-monday-13l3",
+  "publish_date": "2024-06-10",
+  "published_at": "2024-06-10T11:49:26Z"
+ },
+ {
+  "id": 1880830,
+  "title": "Going from SDE1 to SDE2, and beyond! 🚀 What it actually takes.",
+  "description": "\"I'm good at writing code. Just this month I shipped 11 PRs! I even updated most of my tickets on...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F414km87bw9mrgd83jcio.png",
+  "slug": "going-from-sde1-to-sde2-and-beyond-what-it-actually-takes-1cld",
+  "url": "https://dev.to/middleware/going-from-sde1-to-sde2-and-beyond-what-it-actually-takes-1cld",
+  "publish_date": "2024-06-10",
+  "published_at": "2024-06-10T11:10:21Z"
+ },
+ {
+  "id": 1882923,
+  "title": "Glasskube reaches 1k stars 🌟",
+  "description": "I was trying to thinking of sayings or mantra’s ambitious people repeat to themselves to keep...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa61yodtax6q5k4z98why.png",
+  "slug": "glasskube-reaches-1k-stars-o5j",
+  "url": "https://dev.to/glasskube/glasskube-reaches-1k-stars-o5j",
+  "publish_date": "2024-06-10",
+  "published_at": "2024-06-10T09:04:10Z"
+ },
+ {
+  "id": 1873006,
+  "title": "Let's Talk About Dataverse Low-Code Plugins",
+  "description": "If you haven't heard about Dataverse Low-Code plugins let me catch you up.  For starters plugins are...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkxhy6pzfdlq0llpyn6t.png",
+  "slug": "lets-talk-about-dataverse-low-code-plugins-4im2",
+  "url": "https://dev.to/wyattdave/lets-talk-about-dataverse-low-code-plugins-4im2",
+  "publish_date": "2024-06-10",
+  "published_at": "2024-06-10T05:51:01Z"
+ },
+ {
+  "id": 1880237,
+  "title": "Building a Bulletproof CI/CD Pipeline: A Comprehensive Guide",
+  "description": "Welcome Aboard Week 2 of DevSecOps in 5: Your Ticket to Secure Development Superpowers! _Hey there,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98w65wwomjpz2q20zcb7.jpg",
+  "slug": "building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3",
+  "url": "https://dev.to/gauri1504/building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3",
+  "publish_date": "2024-06-10",
+  "published_at": "2024-06-10T03:49:00Z"
+ },
+ {
   "id": 1882251,
   "title": "Improving Developer Productivity With Pieces",
   "description": "Introduction   Hello everyone! Recently, I got introduced to a developer tool from a Twitter...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h",
   "publish_date": "2024-03-03",
   "published_at": "2024-03-03T00:48:49Z"
- },
- {
-  "id": 1745796,
-  "title": "Styling Checkboxes and Switches",
-  "description": "I'm probably not the only developer who's frustrated about the browser's default \u0026lt;input...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc52r9opsue15pwyyfyn4.jpg",
-  "slug": "styling-checkboxes-and-switches-pf0",
-  "url": "https://dev.to/madsstoumann/styling-checkboxes-and-switches-pf0",
-  "publish_date": "2024-03-02",
-  "published_at": "2024-03-02T13:33:18Z"
- },
- {
-  "id": 1778050,
-  "title": "Why Vite is the best? Advanced Features of Vite",
-  "description": "Learn about advanced features of Vite and how it can revolutionize your frontend development.   ite...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd95y9g4ib9ub8m7pvm6g.png",
-  "slug": "why-vite-is-the-best-advanced-features-of-vite-3hp6",
-  "url": "https://dev.to/codeparrot/why-vite-is-the-best-advanced-features-of-vite-3hp6",
-  "publish_date": "2024-03-02",
-  "published_at": "2024-03-02T11:07:45Z"
- },
- {
-  "id": 1777609,
-  "title": "How to Set Up Your Environment for Enabling SharePoint Embedded in 5 Simple Steps",
-  "description": "Microsoft instructions might be a bit unclear as it releases documentation at the same time...",
-  "cover_image": "",
-  "slug": "how-to-set-up-your-environment-for-enabling-sharepoint-embedded-in-5-simple-steps-2c9d",
-  "url": "https://dev.to/jaloplo/how-to-set-up-your-environment-for-enabling-sharepoint-embedded-in-5-simple-steps-2c9d",
-  "publish_date": "2024-03-02",
-  "published_at": "2024-03-02T11:00:00Z"
- },
- {
-  "id": 1777962,
-  "title": "Deployment vs StatefulSet vs DaemonSet: Navigating Kubernetes Workloads 🚀",
-  "description": "Introduction   Managing pods in Kubernetes presents challenges due to their ephemeral...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnntrpj6rsxliceqgphs.jpeg",
-  "slug": "deployment-vs-statefulset-vs-daemonset-navigating-kubernetes-workloads-190j",
-  "url": "https://dev.to/sre_panchanan/deployment-vs-statefulset-vs-daemonset-navigating-kubernetes-workloads-190j",
-  "publish_date": "2024-03-02",
-  "published_at": "2024-03-02T09:41:27Z"
- },
- {
-  "id": 1777829,
-  "title": "How to Implement Sharding in MongoDB",
-  "description": "In the realm of database management, scaling is a fundamental challenge. As data grows, so do the...",
-  "cover_image": "",
-  "slug": "how-to-implement-sharding-in-mongodb-koe",
-  "url": "https://dev.to/speaklouder/how-to-implement-sharding-in-mongodb-koe",
-  "publish_date": "2024-03-02",
-  "published_at": "2024-03-02T04:31:21Z"
  }
 ]
