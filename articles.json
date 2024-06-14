@@ -1,5 +1,55 @@
 [
  {
+  "id": 1887403,
+  "title": "Design Pattern #2 - Facade Pattern",
+  "description": "Let’s continue our quest on learning new the trending design patterns for front-end developers....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3alzejsponr1hi0y4czo.png",
+  "slug": "design-pattern-2-facade-pattern-1dhl",
+  "url": "https://dev.to/superviz/design-pattern-2-facade-pattern-1dhl",
+  "publish_date": "2024-06-13",
+  "published_at": "2024-06-13T14:49:55Z"
+ },
+ {
+  "id": 1887229,
+  "title": "Build an AI Business Proposal Writer Using Gemini API and ToolJet in 10 minutes 🚀",
+  "description": "In this tutorial, we'll guide you through the process of creating an AI Business Proposal Writer...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcs06bknr8bf8xea0549o.png",
+  "slug": "build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j",
+  "url": "https://dev.to/tooljet/build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j",
+  "publish_date": "2024-06-13",
+  "published_at": "2024-06-13T13:03:15Z"
+ },
+ {
+  "id": 1887224,
+  "title": "Deep learning with cats",
+  "description": "This is a submission for DEV Computer Science Challenge v24.06.12: One Byte Explainer.          ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1hqayrv7d4h9dsskh083.jpg",
+  "slug": "deep-learning-with-cats-5ae1",
+  "url": "https://dev.to/mishmanners/deep-learning-with-cats-5ae1",
+  "publish_date": "2024-06-13",
+  "published_at": "2024-06-13T12:51:06Z"
+ },
+ {
+  "id": 1864159,
+  "title": "Top 10 common errors I wish I hadn’t made using SQS",
+  "description": "Common errors using SQS and how to solves them",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yvcuy3sQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/CorentinDoue/articles/master/blog-posts/swarmion-sqs-contract/assets/cov.png",
+  "slug": "top-10-common-errors-i-wish-i-hadnt-made-using-sqs-3jg2",
+  "url": "https://dev.to/slsbytheodo/top-10-common-errors-i-wish-i-hadnt-made-using-sqs-3jg2",
+  "publish_date": "2024-06-13",
+  "published_at": "2024-06-13T11:56:11Z"
+ },
+ {
+  "id": 1886634,
+  "title": "How to Test Local Website on Mobile Devices",
+  "description": "During the building of a website, developers often need to test whether their site is responsive,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94udw22mmt9hg51o6zye.jpg",
+  "slug": "how-to-test-local-website-on-mobile-devices-2p69",
+  "url": "https://dev.to/codingnepal/how-to-test-local-website-on-mobile-devices-2p69",
+  "publish_date": "2024-06-13",
+  "published_at": "2024-06-13T07:45:28Z"
+ },
+ {
   "id": 1884551,
   "title": "Introducing Our First Computer Science Challenge!",
   "description": "In celebration of Pride Month, we are excited to introduce our first Computer Science Challenge in...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/marisogo/10-resources-to-empower-women-in-technology-2m6n",
   "publish_date": "2024-03-06",
   "published_at": "2024-03-06T09:46:35Z"
- },
- {
-  "id": 1778875,
-  "title": "Protocols and how they work",
-  "description": "Disclaimer: This is an introductory article made by someone who's studying this subject, if you have...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy37bsem7ajktzxse8xuz.jpg",
-  "slug": "protocols-and-how-they-work-46cd",
-  "url": "https://dev.to/basementdevs/protocols-and-how-they-work-46cd",
-  "publish_date": "2024-03-05",
-  "published_at": "2024-03-05T14:15:14Z"
- },
- {
-  "id": 1775122,
-  "title": "🎉 Our web framework reached 9,000 stars on GitHub! ⭐️ 9️⃣0️⃣0️⃣0️⃣ ⭐️",
-  "description": "TL;DR - we reached a milestone with a web framework we created, despite all the odds! Check it out...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpjgngh5frozumtqvinr0.png",
-  "slug": "our-web-framework-reached-9000-stars-on-github-9000-jij",
-  "url": "https://dev.to/wasp/our-web-framework-reached-9000-stars-on-github-9000-jij",
-  "publish_date": "2024-03-05",
-  "published_at": "2024-03-05T14:01:52Z"
- },
- {
-  "id": 1780841,
-  "title": "Skill issue: How to Master anything 10x faster, without looking stupid",
-  "description": "Yes, the frustration with beginners is a common sentiment, and it's natural. Don't cast blame for...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fltyyw5t5cmzo10ltnn98.jpeg",
-  "slug": "skill-issue-how-to-master-anything-10x-faster-without-looking-stupid-2hj4",
-  "url": "https://dev.to/drpraze/skill-issue-how-to-master-anything-10x-faster-without-looking-stupid-2hj4",
-  "publish_date": "2024-03-05",
-  "published_at": "2024-03-05T11:48:52Z"
- },
- {
-  "id": 1779578,
-  "title": "Taipy 3.1: A new era of visualization and data management",
-  "description": "Hello, Dev.to community!   I'm beyond excited to share with you the latest leap forward in our...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe0lf4oojx1wljttg21mu.png",
-  "slug": "taipy-31-a-new-era-of-visualization-and-data-management-1abg",
-  "url": "https://dev.to/taipy/taipy-31-a-new-era-of-visualization-and-data-management-1abg",
-  "publish_date": "2024-03-05",
-  "published_at": "2024-03-05T10:27:50Z"
- },
- {
-  "id": 1780700,
-  "title": "7 Programming Languages Every Cloud Engineer Should Know in 2024!",
-  "description": "In recent years, mentoring at various coding bootcamps, I've had the unique opportunity to guide and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F45u5mnf0ob9x8hsx4qs5.gif",
-  "slug": "7-programming-languages-every-cloud-engineer-should-know-in-2024-1kcd",
-  "url": "https://dev.to/pavanbelagatti/7-programming-languages-every-cloud-engineer-should-know-in-2024-1kcd",
-  "publish_date": "2024-03-05",
-  "published_at": "2024-03-05T08:23:15Z"
  }
 ]
