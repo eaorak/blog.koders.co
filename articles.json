@@ -1,5 +1,55 @@
 [
  {
+  "id": 1889716,
+  "title": "Mastering Clean Code: Essential Practices for Developers",
+  "description": "Clean code is the cornerstone of every successful software project. As a developer, your ability to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fitm3rdf3es991t5t106u.png",
+  "slug": "mastering-clean-code-essential-practices-for-developers-1287",
+  "url": "https://dev.to/mahabubr/mastering-clean-code-essential-practices-for-developers-1287",
+  "publish_date": "2024-06-15",
+  "published_at": "2024-06-15T16:56:04Z"
+ },
+ {
+  "id": 1889615,
+  "title": "Must-Have Software for macOS Developers in 2024",
+  "description": "Here’s a summary of essential software for MacOS development. All of these tools are free, and most...",
+  "cover_image": "",
+  "slug": "must-have-software-for-macos-developers-in-2024-3885",
+  "url": "https://dev.to/lunamiller/must-have-software-for-macos-developers-in-2024-3885",
+  "publish_date": "2024-06-15",
+  "published_at": "2024-06-15T14:43:05Z"
+ },
+ {
+  "id": 1889491,
+  "title": "How to Easily Add Translations to Your React Apps with i18next",
+  "description": "Multilingual support is a crucial aspect of modern web applications. By providing translations in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkhjwm90o9gm4jyk1ermy.png",
+  "slug": "how-to-easily-add-translations-to-your-react-apps-with-i18next-66h",
+  "url": "https://dev.to/codeparrot/how-to-easily-add-translations-to-your-react-apps-with-i18next-66h",
+  "publish_date": "2024-06-15",
+  "published_at": "2024-06-15T11:07:10Z"
+ },
+ {
+  "id": 1889483,
+  "title": "React Firebase Auth Template (With Protected Routes)",
+  "description": "TLDR: got tired of setting up this lightweight stack over and over again for some clients so i made a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqa4gpzxcsdff75yxy957.png",
+  "slug": "react-firebase-auth-template-with-protected-routes-1974",
+  "url": "https://dev.to/mmvergara/react-firebase-auth-template-with-protected-routes-1974",
+  "publish_date": "2024-06-15",
+  "published_at": "2024-06-15T10:43:24Z"
+ },
+ {
+  "id": 1889453,
+  "title": "The Azure Hub ☁️ Your Azure learning resources 📚",
+  "description": "Greetings 👋   Hi there! Tung Leo here. Previously, I've published The AWS Hub ☁️ Your new...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3vmbzn6q3a7oity9hojp.png",
+  "slug": "the-azure-hub-your-azure-learning-resources-3b6n",
+  "url": "https://dev.to/tungbq/the-azure-hub-your-azure-learning-resources-3b6n",
+  "publish_date": "2024-06-15",
+  "published_at": "2024-06-15T09:58:47Z"
+ },
+ {
   "id": 1887426,
   "title": "🙅 Why I don't use AI as my copilot 🤖",
   "description": "Jesus, take the wheel. 🚗 And Github Copilot, take the IDE. 💻  Github says, 92% of US devs are using...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/grahamthedev/snakein-pure-html-no-js-no-css-no-images-2ccg",
   "publish_date": "2024-03-08",
   "published_at": "2024-03-08T06:06:56Z"
- },
- {
-  "id": 1783317,
-  "title": "Starting again as a dev student and working as tech writer",
-  "description": "Hello everyone!   This is my first time writing here (and also writing about my journey as a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F63czhadcg4tn691tfd1z.jpg",
-  "slug": "starting-again-as-a-dev-student-and-working-as-tech-writer-1cd1",
-  "url": "https://dev.to/_michellemello/starting-again-as-a-dev-student-and-working-as-tech-writer-1cd1",
-  "publish_date": "2024-03-07",
-  "published_at": "2024-03-07T15:09:10Z"
- },
- {
-  "id": 1783218,
-  "title": "How I made Infinite Craft a multiplayer game with a few lines of code",
-  "description": "Friday, 14h, I saw this game. The premisse is simple, combine the four initial elements “water”,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffpt1ibgsy7231bmbnqty.jpeg",
-  "slug": "how-i-made-infinite-craft-a-multiplayer-game-with-a-few-lines-of-code-4ne7",
-  "url": "https://dev.to/vtnorton/how-i-made-infinite-craft-a-multiplayer-game-with-a-few-lines-of-code-4ne7",
-  "publish_date": "2024-03-07",
-  "published_at": "2024-03-07T11:06:31Z"
- },
- {
-  "id": 1783090,
-  "title": "A different approach to developer tooling for startups",
-  "description": "Yes, your team has the experience to put together a productive developer workflow (AKA developer...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flsqw7vgbfw5wf285yslo.png",
-  "slug": "a-different-approach-to-developer-tooling-for-startups-2g1l",
-  "url": "https://dev.to/encore/a-different-approach-to-developer-tooling-for-startups-2g1l",
-  "publish_date": "2024-03-07",
-  "published_at": "2024-03-07T10:24:39Z"
- },
- {
-  "id": 1782265,
-  "title": "7 years on DEV!",
-  "description": "I've been on DEV 7 years! I just got the notice and the seven year badge. I was a lurker for the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F04sjw7kshr0ugq6tw7da.jpg",
-  "slug": "7-years-on-dev-3ec1",
-  "url": "https://dev.to/jarvisscript/7-years-on-dev-3ec1",
-  "publish_date": "2024-03-07",
-  "published_at": "2024-03-07T06:01:18Z"
- },
- {
-  "id": 1782913,
-  "title": "Computer Science fundamentals are still important.",
-  "description": "I feel uncomfortable admitting that when I got my job at Microsoft in 2005, I didn't know how to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F69vhj6alvdzqeqwjsgx8.jpeg",
-  "slug": "computer-science-fundamentals-are-still-important-5h5i",
-  "url": "https://dev.to/moozzyk/computer-science-fundamentals-are-still-important-5h5i",
-  "publish_date": "2024-03-07",
-  "published_at": "2024-03-07T05:49:49Z"
  }
 ]
