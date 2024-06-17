@@ -1,5 +1,55 @@
 [
  {
+  "id": 1890479,
+  "title": "What I Discovered About Making Great Widgets: Insights From 100+ Real Users",
+  "description": "We want to help people read more from their to-read pile with minimal effort using our product, ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6xc9hdfid0fz2tma5yqp.png",
+  "slug": "what-i-discovered-about-making-great-widgets-insights-from-100-real-users-1ml3",
+  "url": "https://dev.to/lincemathew/what-i-discovered-about-making-great-widgets-insights-from-100-real-users-1ml3",
+  "publish_date": "2024-06-16",
+  "published_at": "2024-06-16T17:45:35Z"
+ },
+ {
+  "id": 1890312,
+  "title": "Difoosion, a Simple Web-Interface for Stable Diffusion Models",
+  "description": "With Stable Diffusion 3 freshly released, I thought it would be nice to make a simple Web-Interface...",
+  "cover_image": "",
+  "slug": "difoosion-a-simple-web-interface-for-stable-diffusion-models-dd2",
+  "url": "https://dev.to/sn3llius/difoosion-a-simple-web-interface-for-stable-diffusion-models-dd2",
+  "publish_date": "2024-06-16",
+  "published_at": "2024-06-16T13:46:40Z"
+ },
+ {
+  "id": 1890211,
+  "title": "Twilio Challenge: Language Translator via Twilio Functions, WhatsApp, \u0026 OpenAI",
+  "description": "This is a submission for Twilio Challenge v24.06.12           What I Built   As an avid translator...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F464egh5hbp7r5zwk0mh1.png",
+  "slug": "twilio-challenge-language-translator-via-twilio-functions-whatsapp-openai-5hmc",
+  "url": "https://dev.to/adityaoberai/twilio-challenge-language-translator-via-twilio-functions-whatsapp-openai-5hmc",
+  "publish_date": "2024-06-16",
+  "published_at": "2024-06-16T13:28:03Z"
+ },
+ {
+  "id": 1890130,
+  "title": "Let's practice writing clean, reusable components in react",
+  "description": "🔑 Key Concepts   What are reusable React components? Think of them as building...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom2et68nebqtzc5ymoqm.png",
+  "slug": "lets-practice-clean-reusable-components-in-react-5flj",
+  "url": "https://dev.to/codewithshahan/lets-practice-clean-reusable-components-in-react-5flj",
+  "publish_date": "2024-06-16",
+  "published_at": "2024-06-16T07:23:49Z"
+ },
+ {
+  "id": 1850651,
+  "title": "Dealing with Unicode string, done right and better.",
+  "description": "Have you ever heard of Grapheme Cluster? `unicode-segmenter` is a lightweight solution for it.",
+  "cover_image": "",
+  "slug": "dealing-with-unicode-string-done-right-and-better-2nei",
+  "url": "https://dev.to/cometkim/dealing-with-unicode-string-done-right-and-better-2nei",
+  "publish_date": "2024-06-16",
+  "published_at": "2024-06-16T02:59:00Z"
+ },
+ {
   "id": 1889716,
   "title": "Mastering Clean Code: Essential Practices for Developers",
   "description": "Clean code is the cornerstone of every successful software project. As a developer, your ability to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/creuserr/you-might-want-to-replace-cd-command-with-zoxide-a-smarter-and-trainable-cd-alternative-5b7o",
   "publish_date": "2024-03-09",
   "published_at": "2024-03-09T04:19:34Z"
- },
- {
-  "id": 1784708,
-  "title": "Qdrant 1.8.0 - Major Performance Enhancements",
-  "description": "Qdrant 1.8.0 is out!  This time around, we have focused on Qdrant's internals. Our goal was to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fox9bjhzq5zpd9rhnpdi2.png",
-  "slug": "qdrant-180-major-performance-enhancements-384o",
-  "url": "https://dev.to/qdrant/qdrant-180-major-performance-enhancements-384o",
-  "publish_date": "2024-03-08",
-  "published_at": "2024-03-08T16:41:12Z"
- },
- {
-  "id": 1783358,
-  "title": "🚀 High-growth repos you should contribute to this weekend 🧑‍💻",
-  "description": "Hey friends,  For this week's article, we reviewed last month's fastest-growing open-source...",
-  "cover_image": "",
-  "slug": "high-growth-repos-you-should-contribute-to-today-19n1",
-  "url": "https://dev.to/quine/high-growth-repos-you-should-contribute-to-today-19n1",
-  "publish_date": "2024-03-08",
-  "published_at": "2024-03-08T11:35:52Z"
- },
- {
-  "id": 1784340,
-  "title": "Engineering Bolt ⚡: #5 Friday Developer Fun 😎",
-  "description": "The wisest coding advice, code quality to the extreme 🛠️                 Join Me   Read more about...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs71duussc2rlpvx1y5ys.png",
-  "slug": "engineering-bolt-5-friday-developer-fun-4ep",
-  "url": "https://dev.to/alexr/engineering-bolt-5-friday-developer-fun-4ep",
-  "publish_date": "2024-03-08",
-  "published_at": "2024-03-08T11:03:50Z"
- },
- {
-  "id": 1781051,
-  "title": "Processing One Billion Rows in PHP!",
-  "description": "You may have heard of the \"The One Billion Row Challenge\" (1brc) and in case you don't, go checkout...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5lgoqkfinoaze0lvjna3.png",
-  "slug": "processing-one-billion-rows-in-php-3eg0",
-  "url": "https://dev.to/realflowcontrol/processing-one-billion-rows-in-php-3eg0",
-  "publish_date": "2024-03-08",
-  "published_at": "2024-03-08T09:27:36Z"
- },
- {
-  "id": 1783190,
-  "title": "Snake...in pure HTML⁉️ [no JS, no CSS, no images!!] 😱",
-  "description": "They say that some people just like chaos.   Hi there 👋🏼, I am Graham \"loves chaos\" TheDev, and this...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1zfnqp9dna5pvqflzkh.jpg",
-  "slug": "snakein-pure-html-no-js-no-css-no-images-2ccg",
-  "url": "https://dev.to/grahamthedev/snakein-pure-html-no-js-no-css-no-images-2ccg",
-  "publish_date": "2024-03-08",
-  "published_at": "2024-03-08T06:06:56Z"
  }
 ]
