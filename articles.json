@@ -1,5 +1,55 @@
 [
  {
+  "id": 1892688,
+  "title": "Developer Updates - May 2024",
+  "description": "Supabase underwent Consolidation Month™ to focus on initiatives that improve the stability,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr1jf1zxt0lz4h132ot3x.png",
+  "slug": "developer-updates-may-2024-34ki",
+  "url": "https://dev.to/supabase/developer-updates-may-2024-34ki",
+  "publish_date": "2024-06-18",
+  "published_at": "2024-06-18T17:21:59Z"
+ },
+ {
+  "id": 1892634,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa559w1dw8ilprw3uqovq.jpeg",
+  "slug": "top-7-featured-dev-posts-of-the-week-1368",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-1368",
+  "publish_date": "2024-06-18",
+  "published_at": "2024-06-18T15:33:16Z"
+ },
+ {
+  "id": 1892598,
+  "title": "Combining Node.js with Async Rust for remarkable performance",
+  "description": "Last month we announced that Encore.ts — an Open Source backend framework for TypeScript — is...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1hczul1mcfljuglmtlsx.png",
+  "slug": "combining-nodejs-with-async-rust-for-remarkable-performance-5605",
+  "url": "https://dev.to/encore/combining-nodejs-with-async-rust-for-remarkable-performance-5605",
+  "publish_date": "2024-06-18",
+  "published_at": "2024-06-18T15:14:50Z"
+ },
+ {
+  "id": 1892389,
+  "title": "Building a SQL Report Generator using Gemini AI + ToolJet",
+  "description": "Introduction   This tutorial will guide you through the process of building an AI-driven SQL...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg9sv38437hmz3h4jfnr1.png",
+  "slug": "building-a-sql-report-generator-using-gemini-ai-tooljet-424p",
+  "url": "https://dev.to/tooljet/building-a-sql-report-generator-using-gemini-ai-tooljet-424p",
+  "publish_date": "2024-06-18",
+  "published_at": "2024-06-18T13:00:56Z"
+ },
+ {
+  "id": 1888857,
+  "title": "25 funded projects you can contribute in open source",
+  "description": "The reputation of funded projects is very strong because they have secured substantial funds and are...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fckg1kysf7suhypv1r6bq.png",
+  "slug": "25-funded-projects-you-can-contribute-in-open-source-40lh",
+  "url": "https://dev.to/taipy/25-funded-projects-you-can-contribute-in-open-source-40lh",
+  "publish_date": "2024-06-18",
+  "published_at": "2024-06-18T12:49:28Z"
+ },
+ {
   "id": 1891505,
   "title": "Master The Behavioral Interview: 5 Effective Storytelling Frameworks",
   "description": "The highre up you go in terms of seniority, the more important are behavioral interviews for geting...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sachinchaurasiya/type-safety-in-typescript-unknown-vs-any-55c0",
   "publish_date": "2024-03-11",
   "published_at": "2024-03-11T03:50:42Z"
- },
- {
-  "id": 1786176,
-  "title": "The 3 Most Powerful Functions in JavaScript",
-  "description": "Introduction   The map(), filter() and the reduce() are the most powerful and important...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft9bkouspnmynzav4tc6g.png",
-  "slug": "the-3-most-powerful-functions-in-javascript-2bog",
-  "url": "https://dev.to/swapnoneel123/the-3-most-powerful-functions-in-javascript-2bog",
-  "publish_date": "2024-03-10",
-  "published_at": "2024-03-10T17:53:37Z"
- },
- {
-  "id": 1786164,
-  "title": "12 Tips for Acing MAANG Software Engineering Interviews",
-  "description": "Landing a software engineering role at a tech giant like Meta, Amazon, Apple, Netflix, or Google...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkrdydbo3nk1z2pqhnr05.jpg",
-  "slug": "12-tips-for-acing-maang-software-engineering-interviews-4kge",
-  "url": "https://dev.to/alexr/12-tips-for-acing-maang-software-engineering-interviews-4kge",
-  "publish_date": "2024-03-10",
-  "published_at": "2024-03-10T17:16:53Z"
- },
- {
-  "id": 1786128,
-  "title": "Create a Discord bot with NodeJS",
-  "description": "Introduction   We, developers always love to play with APIs to automate our boring...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsp6nd2nh8b5u0743gh0p.png",
-  "slug": "create-a-discord-bot-with-nodejs-i5p",
-  "url": "https://dev.to/arindam_1729/create-a-discord-bot-with-nodejs-i5p",
-  "publish_date": "2024-03-10",
-  "published_at": "2024-03-10T15:59:13Z"
- },
- {
-  "id": 1785889,
-  "title": "Getting started as a backend developer: A beginner’s guide",
-  "description": "Getting started in anything these days is usually hard for beginners than people actually realize....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffhrvzg1kub1y1c3o12xh.jpg",
-  "slug": "getting-started-as-a-backend-developer-a-beginners-guide-4kpg",
-  "url": "https://dev.to/codelikesuraj/getting-started-as-a-backend-developer-a-beginners-guide-4kpg",
-  "publish_date": "2024-03-10",
-  "published_at": "2024-03-10T10:03:30Z"
- },
- {
-  "id": 1785883,
-  "title": "Deep Dive into C++20 Coroutines",
-  "description": "1. Preface   Coroutines are a programming paradigm that allows the execution of functions to...",
-  "cover_image": "",
-  "slug": "deep-dive-into-c20-coroutines-k97",
-  "url": "https://dev.to/happyer/deep-dive-into-c20-coroutines-k97",
-  "publish_date": "2024-03-10",
-  "published_at": "2024-03-10T09:28:53Z"
  }
 ]
