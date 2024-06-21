@@ -1,5 +1,55 @@
 [
  {
+  "id": 1894859,
+  "title": "A importância da Comunicação para uma pessoa desenvolvedora",
+  "description": "Para ser um profissional do mercado de tecnologia é necessário desenvolver hard skills, que são...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3cfea0b30r08tpm6g18p.png",
+  "slug": "a-importancia-da-comunicacao-para-uma-pessoa-desenvolvedora-4349",
+  "url": "https://dev.to/kecbm/a-importancia-da-comunicacao-para-uma-pessoa-desenvolvedora-4349",
+  "publish_date": "2024-06-20",
+  "published_at": "2024-06-20T14:16:06Z"
+ },
+ {
+  "id": 1894853,
+  "title": "Design Pattern #3 - Observer Pattern",
+  "description": "Continuing our quest into trending design patterns for front-end developers, we follow up our first...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bic405vaixlk6stbqax.png",
+  "slug": "design-pattern-3-observer-pattern-36eo",
+  "url": "https://dev.to/superviz/design-pattern-3-observer-pattern-36eo",
+  "publish_date": "2024-06-20",
+  "published_at": "2024-06-20T13:57:55Z"
+ },
+ {
+  "id": 1894806,
+  "title": "Create a QR Code Generator Using ToolJet and Python in 5 Minutes! 🛠️",
+  "description": "This quick tutorial will guide you through the steps to create a QR Code Generator application using...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fevt7jg7oinj4es9kz2gz.png",
+  "slug": "create-a-qr-code-generator-using-tooljet-and-python-in-5-minutes-19m6",
+  "url": "https://dev.to/tooljet/create-a-qr-code-generator-using-tooljet-and-python-in-5-minutes-19m6",
+  "publish_date": "2024-06-20",
+  "published_at": "2024-06-20T13:04:57Z"
+ },
+ {
+  "id": 1894703,
+  "title": "Mega footer component examples coded with Tailwind CSS and Flowbite",
+  "description": "Hey developers!  Today I want to show you a couple of components and website sections that we've...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ni3cf9eeoq03fjchykw.png",
+  "slug": "mega-footer-component-examples-coded-with-tailwind-css-and-flowbite-3ldl",
+  "url": "https://dev.to/themesberg/mega-footer-component-examples-coded-with-tailwind-css-and-flowbite-3ldl",
+  "publish_date": "2024-06-20",
+  "published_at": "2024-06-20T11:17:50Z"
+ },
+ {
+  "id": 1890795,
+  "title": "Exploring the full potential of the Logto Management API",
+  "description": "In this article, we will reemphasize the definition of the Logto Management API, explain how it...",
+  "cover_image": "",
+  "slug": "exploring-the-full-potential-of-the-logto-management-api-3c8m",
+  "url": "https://dev.to/logto/exploring-the-full-potential-of-the-logto-management-api-3c8m",
+  "publish_date": "2024-06-20",
+  "published_at": "2024-06-20T01:34:43Z"
+ },
+ {
   "id": 1893576,
   "title": "5 Reasons Why Your Side Projects Fail to Make Money And How to Avoid Them",
   "description": "Introduction     Hello there! If you're like many aspiring entrepreneurs (including me),...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/api7/whats-new-in-api7-enterprise-token-management-482l",
   "publish_date": "2024-03-13",
   "published_at": "2024-03-13T08:54:42Z"
- },
- {
-  "id": 1788284,
-  "title": "Navigating the Challenges of Scaling Open Source Projects",
-  "description": "Gain insights into the challenges of scaling open source projects, with solutions for comprehensive understanding, collaboration, and sustainable project development.",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftbtx0fg356gp7e8g5i3r.png",
-  "slug": "navigating-the-challenges-of-scaling-open-source-projects-11h2",
-  "url": "https://dev.to/opensauced/navigating-the-challenges-of-scaling-open-source-projects-11h2",
-  "publish_date": "2024-03-12",
-  "published_at": "2024-03-12T17:28:39Z"
- },
- {
-  "id": 1788187,
-  "title": "From Beginner to Master: The Path to Becoming a PHP Guru",
-  "description": "Embarking on the PHP Adventure     As someone who aspires to become a PHP guru, just like...",
-  "cover_image": "",
-  "slug": "from-beginner-to-master-the-path-to-becoming-a-php-guru-33am",
-  "url": "https://dev.to/hikarimaeda/from-beginner-to-master-the-path-to-becoming-a-php-guru-33am",
-  "publish_date": "2024-03-12",
-  "published_at": "2024-03-12T15:21:39Z"
- },
- {
-  "id": 1787811,
-  "title": "Python libraries you need to know in 2024",
-  "description": "TL;DR   Are you getting into Python?  It’s a jungle!  You have libraries just about anything...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl7cbzc0n9zclvt3nb6fq.gif",
-  "slug": "python-libraries-you-need-to-know-in-2024-37ka",
-  "url": "https://dev.to/taipy/python-libraries-you-need-to-know-in-2024-37ka",
-  "publish_date": "2024-03-12",
-  "published_at": "2024-03-12T13:46:51Z"
- },
- {
-  "id": 1787128,
-  "title": "How to Create an Admin Panel for Your PostgreSQL Database on Railway Cloud",
-  "description": "Creating an effective admin panel for your PostgreSQL database hosted on Railway Cloud can...",
-  "cover_image": "",
-  "slug": "how-to-create-an-admin-panel-for-your-postgresql-database-on-railway-cloud-1gib",
-  "url": "https://dev.to/nikpoltoratsky/how-to-create-an-admin-panel-for-your-postgresql-database-on-railway-cloud-1gib",
-  "publish_date": "2024-03-12",
-  "published_at": "2024-03-12T13:27:27Z"
- },
- {
-  "id": 1787382,
-  "title": "How to Never Forget: Mastering the Art of Retaining Knowledge",
-  "description": "This article comes from a YouTube video titled I learned a system for remembering everything by Matt...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuksjdavmzwahmhziubx1.png",
-  "slug": "how-to-never-forget-mastering-the-art-of-retaining-knowledge-531h",
-  "url": "https://dev.to/yanpi/how-to-never-forget-mastering-the-art-of-retaining-knowledge-531h",
-  "publish_date": "2024-03-12",
-  "published_at": "2024-03-12T00:05:47Z"
  }
 ]
