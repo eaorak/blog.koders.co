@@ -1,5 +1,55 @@
 [
  {
+  "id": 1895785,
+  "title": "Why CLIs are STILL important",
+  "description": "Command Line Interfaces (CLIs) seem old-fashioned in the age of graphical user interfaces (GUIs) and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8hmyu44mhe777jglikz0.jpeg",
+  "slug": "why-clis-are-still-important-425a",
+  "url": "https://dev.to/cyclops-ui/why-clis-are-still-important-425a",
+  "publish_date": "2024-06-21",
+  "published_at": "2024-06-21T12:00:00Z"
+ },
+ {
+  "id": 1887745,
+  "title": "Criando aplicação multi-idioma no Flutter",
+  "description": "Neste artigo, vou guiá-lo passo a passo sobre como implementar um seletor de idioma moderno e...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fot7b6xphyb9g6gko9c1e.jpg",
+  "slug": "criando-aplicacao-multi-idioma-no-flutter-3jao",
+  "url": "https://dev.to/adryannekelly/criando-aplicacao-multi-idioma-no-flutter-3jao",
+  "publish_date": "2024-06-21",
+  "published_at": "2024-06-21T11:28:53Z"
+ },
+ {
+  "id": 1764057,
+  "title": "Micro-frontend architecture alongside Vue 3 migration",
+  "description": "Introduction   The micro-frontend architecture can resolve many issues with your frontend...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa0vg4148wlfiv4jnfxma.png",
+  "slug": "micro-frontend-architecture-alongside-vue-3-migration-2b2j",
+  "url": "https://dev.to/zenika/micro-frontend-architecture-alongside-vue-3-migration-2b2j",
+  "publish_date": "2024-06-21",
+  "published_at": "2024-06-21T08:45:29Z"
+ },
+ {
+  "id": 1895626,
+  "title": "Bit Wars: 32-bit vs 64-bit Systems Explained",
+  "description": "This is a submission for DEV Computer Science Challenge v24.06.12: One Byte Explainer.          ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2For5i5ggujwzwny5lmbun.jpg",
+  "slug": "bit-wars-32-bit-vs-64-bit-systems-explained-511a",
+  "url": "https://dev.to/shravan20/bit-wars-32-bit-vs-64-bit-systems-explained-511a",
+  "publish_date": "2024-06-21",
+  "published_at": "2024-06-21T06:26:27Z"
+ },
+ {
+  "id": 1895442,
+  "title": "OAuth 2.1 is Here: What You Need to Know",
+  "description": "Since the initial release of OAuth 2.0, the internet has evolved significantly. Security threats have...",
+  "cover_image": "",
+  "slug": "oauth-21-is-here-what-you-need-to-know-28b8",
+  "url": "https://dev.to/logto/oauth-21-is-here-what-you-need-to-know-28b8",
+  "publish_date": "2024-06-21",
+  "published_at": "2024-06-21T02:45:09Z"
+ },
+ {
   "id": 1894859,
   "title": "A importância da Comunicação para uma pessoa desenvolvedora",
   "description": "Para ser um profissional do mercado de tecnologia é necessário desenvolver hard skills, que são...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/api7/3-tips-for-deploying-apisix-in-kubernetes-part-1-2dek",
   "publish_date": "2024-03-14",
   "published_at": "2024-03-14T09:48:18Z"
- },
- {
-  "id": 1789301,
-  "title": "Building a simple web server in Rust",
-  "description": "Building a web server with Rust doesn’t need to be complex. With frameworks like Axum, you can write...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8s8ad940qcjm00v0bq4m.png",
-  "slug": "building-a-simple-web-server-in-rust-5c57",
-  "url": "https://dev.to/shuttle_dev/building-a-simple-web-server-in-rust-5c57",
-  "publish_date": "2024-03-13",
-  "published_at": "2024-03-13T15:37:45Z"
- },
- {
-  "id": 1789247,
-  "title": "A Closer Look at the Ongoing DeFi Vault Revolution",
-  "description": "The decentralized finance (DeFi) ecosystem has expanded enormously over the last couple of years....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb84fx3w6bdnsbbu549to.jpg",
-  "slug": "a-closer-look-at-the-ongoing-defi-vault-revolution-3o6o",
-  "url": "https://dev.to/andre_antares/a-closer-look-at-the-ongoing-defi-vault-revolution-3o6o",
-  "publish_date": "2024-03-13",
-  "published_at": "2024-03-13T14:20:39Z"
- },
- {
-  "id": 1789200,
-  "title": "25 Unnoticeable Features of JavaScript",
-  "description": "Often, as developers, we write similar types of code, falling into a pattern that, while comfortable,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftx7ejsg93gcoymk4x116.png",
-  "slug": "25-unnoticeable-features-of-javascript-15l1",
-  "url": "https://dev.to/mmainulhasan/25-unnoticeable-features-of-javascript-15l1",
-  "publish_date": "2024-03-13",
-  "published_at": "2024-03-13T13:26:54Z"
- },
- {
-  "id": 1788285,
-  "title": "Build a Text-to-PowerPoint Application (LangChain, Next.js, \u0026 CopilotKit)",
-  "description": "TL;DR   In this article, you will learn how to build an AI-powered PowerPoint application...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fispder5fuw2mvfq19q93.gif",
-  "slug": "how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76",
-  "url": "https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76",
-  "publish_date": "2024-03-13",
-  "published_at": "2024-03-13T12:44:37Z"
- },
- {
-  "id": 1788921,
-  "title": "What's New in API7 Enterprise: Token Management",
-  "description": "Basic Concepts and Functions of Access Token   In modern web applications, access token is...",
-  "cover_image": "",
-  "slug": "whats-new-in-api7-enterprise-token-management-482l",
-  "url": "https://dev.to/api7/whats-new-in-api7-enterprise-token-management-482l",
-  "publish_date": "2024-03-13",
-  "published_at": "2024-03-13T08:54:42Z"
  }
 ]
