@@ -1,5 +1,55 @@
 [
  {
+  "id": 1897009,
+  "title": "Build A CSS Word Search Game In ... CSS!",
+  "description": "I've heard it so many times: CSS is not a programming language — or — why do it in CSS, when you can...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyw2xs2gpqepe8cgo0tob.png",
+  "slug": "build-a-css-word-search-game-in-css-10d1",
+  "url": "https://dev.to/madsstoumann/build-a-css-word-search-game-in-css-10d1",
+  "publish_date": "2024-06-22",
+  "published_at": "2024-06-22T12:59:57Z"
+ },
+ {
+  "id": 1896616,
+  "title": "7 Use Cases for Javascript Proxies 🧙",
+  "description": "JavaScript's Proxy object is a useful tool that opens up a world of possibilities, allowing you to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgg2mqq64hvym0ogrpa2m.png",
+  "slug": "7-use-cases-for-javascript-proxies-3b29",
+  "url": "https://dev.to/mattlewandowski93/7-use-cases-for-javascript-proxies-3b29",
+  "publish_date": "2024-06-22",
+  "published_at": "2024-06-22T09:18:53Z"
+ },
+ {
+  "id": 1895978,
+  "title": "iScan-U : Your Smart Eco-Friendly Connection Ally",
+  "description": "Many businesses rely on printed business cards for marketing and networking and about 27 million...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaqewi4f3m3ckvyiedfs.png",
+  "slug": "iscan-u-your-smart-eco-friendly-connection-ally-pfd",
+  "url": "https://dev.to/ronlin1/iscan-u-your-smart-eco-friendly-connection-ally-pfd",
+  "publish_date": "2024-06-22",
+  "published_at": "2024-06-22T07:10:46Z"
+ },
+ {
+  "id": 1895523,
+  "title": "5 Reasons Why You Are Losing Hackathons",
+  "description": "I love hackathons. Since 2020, I’ve participated in over 10 and won around $65,000 in team and solo...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1uhhozvi4myxiawtj39.png",
+  "slug": "5-reasons-why-you-are-losing-hackathons-4k70",
+  "url": "https://dev.to/code42cate/5-reasons-why-you-are-losing-hackathons-4k70",
+  "publish_date": "2024-06-22",
+  "published_at": "2024-06-22T05:25:42Z"
+ },
+ {
+  "id": 1896548,
+  "title": "Filtering in JOIN or WHERE in MySQL: Differences and Performance Impact",
+  "description": "📑 About   The decision of where to apply a filter in an SQL query, either in JOIN or WHERE,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmczkifxzaiv52mnvwjk.jpg",
+  "slug": "filtering-in-join-or-where-in-mysql-differences-and-performance-impact-1a4g",
+  "url": "https://dev.to/robertoumbelino/filtering-in-join-or-where-in-mysql-differences-and-performance-impact-1a4g",
+  "publish_date": "2024-06-22",
+  "published_at": "2024-06-22T02:08:00Z"
+ },
+ {
   "id": 1895785,
   "title": "Why CLIs are STILL important",
   "description": "Command Line Interfaces (CLIs) seem old-fashioned in the age of graphical user interfaces (GUIs) and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/enhancing-api-observability-series-part-2-log-analysis-4cka",
   "publish_date": "2024-03-15",
   "published_at": "2024-03-15T09:04:17Z"
- },
- {
-  "id": 1790697,
-  "title": "Introducing DEV Challenges",
-  "description": "We are starting something special. It’s called DEV Challenges, a new way to participate in the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8gz3p8u390nq9syn89e.jpg",
-  "slug": "introducing-dev-challenges-1mk9",
-  "url": "https://dev.to/devteam/introducing-dev-challenges-1mk9",
-  "publish_date": "2024-03-14",
-  "published_at": "2024-03-14T19:53:45Z"
- },
- {
-  "id": 1790542,
-  "title": "Announcing AnalogJS 1.0 🚀",
-  "description": "After many months of development and testing, we're excited to announce the 1.0 release of AnalogJS!...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F53iacqnmsdncoiz8g1gg.png",
-  "slug": "announcing-analogjs-10-19an",
-  "url": "https://dev.to/analogjs/announcing-analogjs-10-19an",
-  "publish_date": "2024-03-14",
-  "published_at": "2024-03-14T19:10:34Z"
- },
- {
-  "id": 1790430,
-  "title": "Grading students",
-  "description": "Prepare your favorite cup of coffee, because we are about to enter the fantastic world of Grading...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmq5qttws19muuofpm2hm.png",
-  "slug": "grading-students-5eok",
-  "url": "https://dev.to/kecbm/grading-students-5eok",
-  "publish_date": "2024-03-14",
-  "published_at": "2024-03-14T14:21:52Z"
- },
- {
-  "id": 1783731,
-  "title": "All the tools I need to build a perfect AI app.",
-  "description": "The world of AI has grown much in the past decade.  AI is everywhere, from voice assistants to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko14fygno7jgvo7gz8k9.gif",
-  "slug": "all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh",
-  "url": "https://dev.to/taipy/all-the-tools-i-need-to-build-a-perfect-ai-app-2oeh",
-  "publish_date": "2024-03-14",
-  "published_at": "2024-03-14T12:09:13Z"
- },
- {
-  "id": 1790096,
-  "title": "3 Tips for Deploying APISIX in Kubernetes (Part 1)",
-  "description": "The era of cloud-native computing has seen widespread adoption of Kubernetes as a container...",
-  "cover_image": "",
-  "slug": "3-tips-for-deploying-apisix-in-kubernetes-part-1-2dek",
-  "url": "https://dev.to/api7/3-tips-for-deploying-apisix-in-kubernetes-part-1-2dek",
-  "publish_date": "2024-03-14",
-  "published_at": "2024-03-14T09:48:18Z"
  }
 ]
