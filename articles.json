@@ -1,5 +1,55 @@
 [
  {
+  "id": 1875668,
+  "title": "Join us for the Wix Studio Challenge with Special Guest Judge Ania Kubów: $3,000 in Prizes!",
+  "description": "We are so excited to announce our first partnered challenge with Wix.  Running through July 07, the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv8vfdvpqozr6h7ctfo6k.png",
+  "slug": "join-us-for-the-wix-studio-challenge-with-special-guest-judge-ania-kubow-3000-in-prizes-3ial",
+  "url": "https://dev.to/devteam/join-us-for-the-wix-studio-challenge-with-special-guest-judge-ania-kubow-3000-in-prizes-3ial",
+  "publish_date": "2024-06-26",
+  "published_at": "2024-06-26T16:16:40Z"
+ },
+ {
+  "id": 1900511,
+  "title": "Build an AI-Powered Resume \u0026 Cover Letter Generator (CopilotKit, LangChain, Tavily \u0026 Next.js)",
+  "description": "TL;DR   Building a great project is the best resume for an aspiring developer.   Well, today...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frmvh78daphmvuug765tj.gif",
+  "slug": "build-an-ai-powered-resume-cover-letter-generator-copilotkit-langchain-tavily-nextjs-1nkc",
+  "url": "https://dev.to/copilotkit/build-an-ai-powered-resume-cover-letter-generator-copilotkit-langchain-tavily-nextjs-1nkc",
+  "publish_date": "2024-06-26",
+  "published_at": "2024-06-26T13:40:20Z"
+ },
+ {
+  "id": 1900975,
+  "title": "Watercooler Wednesday",
+  "description": "General discussion thread about... Whatever. What's new in your life?  Hobbies, interests, games,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbnmgywbuiocd80cww2kt.png",
+  "slug": "watercooler-wednesday-4mm9",
+  "url": "https://dev.to/ben/watercooler-wednesday-4mm9",
+  "publish_date": "2024-06-26",
+  "published_at": "2024-06-26T06:30:07Z"
+ },
+ {
+  "id": 1900901,
+  "title": "Why single sign-on (SSO) is better",
+  "description": "Single sign-on (SSO) is a great way to simplify the authentication model and improve the user...",
+  "cover_image": "",
+  "slug": "why-single-sign-on-sso-is-better-4maf",
+  "url": "https://dev.to/logto/why-single-sign-on-sso-is-better-4maf",
+  "publish_date": "2024-06-26",
+  "published_at": "2024-06-26T05:57:49Z"
+ },
+ {
+  "id": 1900640,
+  "title": "Why AI Won’t Replace Programmers, Probably",
+  "description": "AI will doom us all! Or not?     Artificial Intelligence (AI) has taken the world by storm....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwx3osradjwycwd0m2ksj.jpeg",
+  "slug": "why-ai-wont-replace-programmers-probably-bj7",
+  "url": "https://dev.to/salladshooter/why-ai-wont-replace-programmers-probably-bj7",
+  "publish_date": "2024-06-26",
+  "published_at": "2024-06-26T00:47:00Z"
+ },
+ {
   "id": 1900452,
   "title": "Congrats to the Twilio Challenge Winners!",
   "description": "We're thrilled to announce the winners of the Twilio Challenge!  From competitive trivia games to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rhaenyraliang/i-will-always-support-you-share-my-experience-of-being-sexually-assaulted-4idd",
   "publish_date": "2024-03-19",
   "published_at": "2024-03-19T13:27:45Z"
- },
- {
-  "id": 1794282,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-nmg",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-nmg",
-  "publish_date": "2024-03-18",
-  "published_at": "2024-03-18T20:12:37Z"
- },
- {
-  "id": 1794263,
-  "title": "RAG observability in 2 lines of code with Llama Index \u0026 Langfuse",
-  "description": "Why you need observability for RAG   There are so many different ways to make RAG work for a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgxvp4zn882cn4l26xir1.png",
-  "slug": "rag-observability-in-2-lines-of-code-with-llama-index-langfuse-51pa",
-  "url": "https://dev.to/clemra/rag-observability-in-2-lines-of-code-with-llama-index-langfuse-51pa",
-  "publish_date": "2024-03-18",
-  "published_at": "2024-03-18T19:34:03Z"
- },
- {
-  "id": 1794006,
-  "title": "Should You Specialize Or Not? Solving A Developer's Dilemma",
-  "description": "Are you feeling stuck?   You spend hours doing courses and side projects. You go to Meetups, you read...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytuy64iqjrv7rbzov515.png",
-  "slug": "should-you-specialize-or-not-solving-a-developers-dilemma-ge7",
-  "url": "https://dev.to/dragosnedelcu/should-you-specialize-or-not-solving-a-developers-dilemma-ge7",
-  "publish_date": "2024-03-18",
-  "published_at": "2024-03-18T15:44:07Z"
- },
- {
-  "id": 1793081,
-  "title": "Enhance Your Project Quality with These Top Python Libraries",
-  "description": "In the ever-evolving landscape of software development, Python has emerged as a language of choice...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3jqvgmeatleoonfufpzv.png",
-  "slug": "enhance-your-project-quality-with-these-top-python-libraries-2ln5",
-  "url": "https://dev.to/mrkandreev/enhance-your-project-quality-with-these-top-python-libraries-2ln5",
-  "publish_date": "2024-03-18",
-  "published_at": "2024-03-18T14:15:00Z"
- },
- {
-  "id": 1793832,
-  "title": "Simplifying AI Integration: Insights from Taipy's Journey",
-  "description": "In the burgeoning realm of AI and data science, the journey from conception to successful...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhkr6455crpz4ixvxig2o.png",
-  "slug": "simplifying-ai-integration-insights-from-taipys-journey-31i8",
-  "url": "https://dev.to/taipy/simplifying-ai-integration-insights-from-taipys-journey-31i8",
-  "publish_date": "2024-03-18",
-  "published_at": "2024-03-18T13:32:42Z"
  }
 ]
