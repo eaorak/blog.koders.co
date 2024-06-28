@@ -1,5 +1,55 @@
 [
  {
+  "id": 1902696,
+  "title": "What plugins do you dream of?",
+  "description": "At Webcrumbs our goal is to revolutionize the way developers create and use plugins, offering a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5bw0pql1f44a67fjo39.png",
+  "slug": "what-plugins-do-you-dream-of-2cac",
+  "url": "https://dev.to/buildwebcrumbs/what-plugins-do-you-dream-of-2cac",
+  "publish_date": "2024-06-27",
+  "published_at": "2024-06-27T14:03:58Z"
+ },
+ {
+  "id": 1901095,
+  "title": "Why and how you should rate-limit your API",
+  "description": "Opening the gates   This is it. Your shiny new product is ready to be released to the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fghchavlvamju8f69h6ov.png",
+  "slug": "why-and-how-you-should-rate-limit-your-api-2o7d",
+  "url": "https://dev.to/systemglitch/why-and-how-you-should-rate-limit-your-api-2o7d",
+  "publish_date": "2024-06-27",
+  "published_at": "2024-06-27T14:00:03Z"
+ },
+ {
+  "id": 1902593,
+  "title": "Build an AI BPMN Diagram Analyzer using ToolJet 🛠️",
+  "description": "In this tutorial, we'll create a BPMN Diagram Analyzer application using ToolJet. This app allows...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd3nla6virava9tapecy5.png",
+  "slug": "build-an-ai-bpmn-diagram-analyzer-using-tooljet-2b00",
+  "url": "https://dev.to/tooljet/build-an-ai-bpmn-diagram-analyzer-using-tooljet-2b00",
+  "publish_date": "2024-06-27",
+  "published_at": "2024-06-27T13:12:06Z"
+ },
+ {
+  "id": 1902283,
+  "title": "100 FREE Frontend Challenges",
+  "description": "Introduction   In the spirit of building strong habits and the #100DaysOfCode idea, we...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Favh7ik84iq0w7sanb8ga.jpg",
+  "slug": "100-free-frontend-challenges-3f0",
+  "url": "https://dev.to/bigsondev/100-free-frontend-challenges-3f0",
+  "publish_date": "2024-06-27",
+  "published_at": "2024-06-27T13:00:00Z"
+ },
+ {
+  "id": 1902518,
+  "title": "Understanding APIs: 10 API Concepts and Examples",
+  "description": "As a developer or a person in tech, you are likely to have heard of \"APIs.” Hearing this term may get...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frl620xxagcw92i4jfn5j.png",
+  "slug": "understanding-apis-10-api-concepts-and-examples-23cn",
+  "url": "https://dev.to/latitude/understanding-apis-10-api-concepts-and-examples-23cn",
+  "publish_date": "2024-06-27",
+  "published_at": "2024-06-27T12:59:58Z"
+ },
+ {
   "id": 1875668,
   "title": "Join us for the Wix Studio Challenge with Special Guest Judge Ania Kubów: $3,000 in Prizes!",
   "description": "We are so excited to announce our first partnered challenge with Wix.  Running through July 07, the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/karsten_biedermann/goodbye-sass-welcome-back-native-css-cf",
   "publish_date": "2024-03-20",
   "published_at": "2024-03-20T10:39:53Z"
- },
- {
-  "id": 1795545,
-  "title": "Adding Clerk Authentication to a NextJS App",
-  "description": "I’m the type that needs a realistic project to work on if I’m going to understand a platform.  So I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6rwfjrunzotp58kg1yro.jpeg",
-  "slug": "adding-clerk-auth-to-a-nextjs-app-2n9c",
-  "url": "https://dev.to/brianmmdev/adding-clerk-auth-to-a-nextjs-app-2n9c",
-  "publish_date": "2024-03-19",
-  "published_at": "2024-03-19T20:15:43Z"
- },
- {
-  "id": 1795338,
-  "title": "What is RAG (Retrieval-Augmented Generation)?",
-  "description": "Retrieval-augmented generation (RAG) integrates external information retrieval into the process of...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu072zeli6r2f7jmpdhha.jpg",
-  "slug": "what-is-rag-understanding-retrieval-augmented-generation-534n",
-  "url": "https://dev.to/qdrant/what-is-rag-understanding-retrieval-augmented-generation-534n",
-  "publish_date": "2024-03-19",
-  "published_at": "2024-03-19T16:47:57Z"
- },
- {
-  "id": 1795284,
-  "title": "How to Build Your Open Source Dream Team: A Guide",
-  "description": "If you want to learn how to build your open source project dream team, look no further. This guide shares a checklist and questions to help you determine your needs and identify the right people.",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fov2p3p1ohqhktsd7eiof.png",
-  "slug": "how-to-build-your-open-source-dream-team-a-guide-3i90",
-  "url": "https://dev.to/opensauced/how-to-build-your-open-source-dream-team-a-guide-3i90",
-  "publish_date": "2024-03-19",
-  "published_at": "2024-03-19T15:37:44Z"
- },
- {
-  "id": 1795229,
-  "title": "Why we're changing our hiring process 🚀🎸",
-  "description": "Identifying high potential talent   The Beatles are probably one of the greatest bands to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgmlpnrvrj4r6b3itmsrg.jpg",
-  "slug": "why-we-changed-our-hiring-process-at-hyperswitch-157",
-  "url": "https://dev.to/hyperswitchio/why-we-changed-our-hiring-process-at-hyperswitch-157",
-  "publish_date": "2024-03-19",
-  "published_at": "2024-03-19T15:12:15Z"
- },
- {
-  "id": 1795190,
-  "title": "I will always support you! Share my experience of being sexually assaulted.",
-  "description": "‼️trigger warning: This article contains images of sexist assaults.  I was sexually assaulted by...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhrjctv2uzggs02c8c33w.jpeg",
-  "slug": "i-will-always-support-you-share-my-experience-of-being-sexually-assaulted-4idd",
-  "url": "https://dev.to/rhaenyraliang/i-will-always-support-you-share-my-experience-of-being-sexually-assaulted-4idd",
-  "publish_date": "2024-03-19",
-  "published_at": "2024-03-19T13:27:45Z"
  }
 ]
