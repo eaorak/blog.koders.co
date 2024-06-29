@@ -1,5 +1,55 @@
 [
  {
+  "id": 1902482,
+  "title": "How Generative AI is impacting Developer Productivity?",
+  "description": "Ever since ChatGPT has been introduced, internet and tech community have been going gaga, and nothing...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F525kqpypexk97f5xove2.png",
+  "slug": "how-generative-ai-is-impacting-developer-productivity-33fl",
+  "url": "https://dev.to/middleware/how-generative-ai-is-impacting-developer-productivity-33fl",
+  "publish_date": "2024-06-28",
+  "published_at": "2024-06-28T14:36:25Z"
+ },
+ {
+  "id": 1904100,
+  "title": "How we tamed Node.js event loop lag: a deepdive",
+  "description": "The following is a tale of how we discovered and fixed a variety of reliability and performance...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1llih1dqeyieea4s0zis.jpg",
+  "slug": "how-we-tamed-nodejs-event-loop-lag-a-deepdive-422k",
+  "url": "https://dev.to/triggerdotdev/how-we-tamed-nodejs-event-loop-lag-a-deepdive-422k",
+  "publish_date": "2024-06-28",
+  "published_at": "2024-06-28T13:30:00Z"
+ },
+ {
+  "id": 1904091,
+  "title": "Design Pattern #4 - Publisher/Subscriber Pattern",
+  "description": "In the previously article of this series I covered about the Observer Pattern. Today, I want to share...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgjbjfnor20jy8uudvwf.png",
+  "slug": "design-pattern-4-publishersubscriber-pattern-4jg9",
+  "url": "https://dev.to/superviz/design-pattern-4-publishersubscriber-pattern-4jg9",
+  "publish_date": "2024-06-28",
+  "published_at": "2024-06-28T12:21:32Z"
+ },
+ {
+  "id": 1903135,
+  "title": "“Good Commit” vs “Your Commit”: How to Write a Perfect Git Commit Message",
+  "description": "\"A good commit shows whether a developer is a good collaborator.\" — Peter Hutterer, Linux.  Years...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F15kmvy2zhillpgedxaf5.png",
+  "slug": "good-commit-vs-your-commit-how-to-write-a-perfect-git-commit-message-59ol",
+  "url": "https://dev.to/safdarali/good-commit-vs-your-commit-how-to-write-a-perfect-git-commit-message-59ol",
+  "publish_date": "2024-06-28",
+  "published_at": "2024-06-28T01:51:00Z"
+ },
+ {
+  "id": 1903384,
+  "title": "Comprehensive React.js Cheatsheet for Developers",
+  "description": "React.js has become a cornerstone in modern web development for building dynamic and high-performance...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F10tat8mhtehsyh7mg837.png",
+  "slug": "comprehensive-reactjs-cheatsheet-for-developers-17e4",
+  "url": "https://dev.to/raajaryan/comprehensive-reactjs-cheatsheet-for-developers-17e4",
+  "publish_date": "2024-06-28",
+  "published_at": "2024-06-28T01:26:54Z"
+ },
+ {
   "id": 1902696,
   "title": "What plugins do you dream of?",
   "description": "At Webcrumbs our goal is to revolutionize the way developers create and use plugins, offering a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/milasuperstar/underrated-open-source-projects-you-should-know-about-4ne9",
   "publish_date": "2024-03-21",
   "published_at": "2024-03-21T05:30:25Z"
- },
- {
-  "id": 1795626,
-  "title": "Join Our First Community Challenge: The Frontend Challenge",
-  "description": "We are excited to launch our first official DEV Challenge: The Frontend Challenge!  Running through...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjfwaylumsyrf5t3upl4v.jpg",
-  "slug": "join-our-first-community-challenge-the-frontend-challenge-8be",
-  "url": "https://dev.to/devteam/join-our-first-community-challenge-the-frontend-challenge-8be",
-  "publish_date": "2024-03-20",
-  "published_at": "2024-03-20T17:24:48Z"
- },
- {
-  "id": 1796390,
-  "title": "Python for AI : Cheatlist",
-  "description": "TL;DR   Getting into AI and ML without using Python is very difficult and, might I say, say,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ryrldtyjl2tur0qdcur.gif",
-  "slug": "python-for-ai-cheatlist-33ec",
-  "url": "https://dev.to/taipy/python-for-ai-cheatlist-33ec",
-  "publish_date": "2024-03-20",
-  "published_at": "2024-03-20T16:15:40Z"
- },
- {
-  "id": 1795258,
-  "title": "A 100% AI-driven web dev workflow, as good as Devin: MAGE x Aider",
-  "description": "TL;DR   Devin, the self-proclaimed “first” fully autonomous software engineer just popped...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ok05j62ejzo92gp0gsk.png",
-  "slug": "a-100-ai-driven-workflow-thats-probably-as-good-as-devin-4c67",
-  "url": "https://dev.to/wasp/a-100-ai-driven-workflow-thats-probably-as-good-as-devin-4c67",
-  "publish_date": "2024-03-20",
-  "published_at": "2024-03-20T14:00:00Z"
- },
- {
-  "id": 1776946,
-  "title": "17 Libraries You Should Know if You Build with React",
-  "description": "TL;DR   I have gathered React libraries you should know about to build many different types...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frcniq9ik1qklt7qizb7u.gif",
-  "slug": "libraries-you-should-know-if-you-build-with-react-1807",
-  "url": "https://dev.to/copilotkit/libraries-you-should-know-if-you-build-with-react-1807",
-  "publish_date": "2024-03-20",
-  "published_at": "2024-03-20T12:36:30Z"
- },
- {
-  "id": 1795679,
-  "title": "Goodbye SASS 👋, welcome back native CSS",
-  "description": "Sass has established itself as a powerful preprocessor installed locally, forming the backbone of my...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsfwcuwxjbgyysk5xhzw.png",
-  "slug": "goodbye-sass-welcome-back-native-css-cf",
-  "url": "https://dev.to/karsten_biedermann/goodbye-sass-welcome-back-native-css-cf",
-  "publish_date": "2024-03-20",
-  "published_at": "2024-03-20T10:39:53Z"
  }
 ]
