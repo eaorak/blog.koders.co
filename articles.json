@@ -1,5 +1,55 @@
 [
  {
+  "id": 1906772,
+  "title": "Is Your Sidebar Hurting Your UX? Our Redesign Journey to Effortless Navigation",
+  "description": "Have you ever felt frustrated navigating a website with a clunky sidebar? We hear you. At Hexmos,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttnw0g2aud4hlu3zt6pf.png",
+  "slug": "is-your-sidebar-hurting-your-ux-our-redesign-journey-to-effortless-navigation-391d",
+  "url": "https://dev.to/ganesh-kumar/is-your-sidebar-hurting-your-ux-our-redesign-journey-to-effortless-navigation-391d",
+  "publish_date": "2024-06-30",
+  "published_at": "2024-06-30T16:41:00Z"
+ },
+ {
+  "id": 1906605,
+  "title": "Use XDebug for PHP Project Debugging",
+  "description": "XDebug is an indispensable debugging tool in PHP development, offering powerful features for...",
+  "cover_image": "",
+  "slug": "use-xdebug-for-php-project-debugging-2i4o",
+  "url": "https://dev.to/servbay/use-xdebug-for-php-project-debugging-2i4o",
+  "publish_date": "2024-06-30",
+  "published_at": "2024-06-30T13:22:46Z"
+ },
+ {
+  "id": 1894521,
+  "title": "✨ Do this first if you are using an Auth Provider 🧙‍♂️ 🫵",
+  "description": "In this article, I will show you how you can safely backup your users data in your own database when...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccsc1b5miw46t6vwftew.gif",
+  "slug": "do-this-first-if-you-are-using-an-auth-provider-1ndo",
+  "url": "https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo",
+  "publish_date": "2024-06-30",
+  "published_at": "2024-06-30T13:16:24Z"
+ },
+ {
+  "id": 1906383,
+  "title": "window.ai - running AI LOCALLY from DevTools! 🤯",
+  "description": "On-device AI in the browser is here - kinda.  It is currently in Chrome canary which means, it will...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpo125x3otykjtmtjkxwf.jpg",
+  "slug": "windowai-running-ai-locally-from-devtools-202j",
+  "url": "https://dev.to/grahamthedev/windowai-running-ai-locally-from-devtools-202j",
+  "publish_date": "2024-06-30",
+  "published_at": "2024-06-30T08:17:39Z"
+ },
+ {
+  "id": 1906260,
+  "title": "7 Best Practices for ReactJS Development in 2024",
+  "description": "Modern web development has made ReactJS an essential tool, enabling developers to create dynamic and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz2hsv27obmmzmblaox3n.png",
+  "slug": "7-best-practices-for-reactjs-development-in-2024-1a6e",
+  "url": "https://dev.to/vyan/7-best-practices-for-reactjs-development-in-2024-1a6e",
+  "publish_date": "2024-06-30",
+  "published_at": "2024-06-30T02:08:26Z"
+ },
+ {
   "id": 1906084,
   "title": "Add Art to your Agile Retrospectives 🧑‍🎨🎨",
   "description": "Hey there 👋 Are your retrospectives starting to feel a bit stale? Well, it's time to grab your...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/m__mdy__m/polymorphism-in-javascript-3l84",
   "publish_date": "2024-03-23",
   "published_at": "2024-03-23T01:36:31Z"
- },
- {
-  "id": 1797788,
-  "title": "Featured Org of the Month: Feministech",
-  "description": "In this brand-new series, we're featuring different organizations from across DEV!  We're lucky to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8kds4r0bbj0qo31dh0v.jpg",
-  "slug": "featured-org-of-the-month-feministech-39bb",
-  "url": "https://dev.to/devteam/featured-org-of-the-month-feministech-39bb",
-  "publish_date": "2024-03-22",
-  "published_at": "2024-03-22T20:06:20Z"
- },
- {
-  "id": 1798541,
-  "title": "The Frontend Challenge: 🍩 Donut eat my favorite snack!",
-  "description": "This is a submission for DEV Challenge v24.03.20, CSS Art: Favorite Snack.           Inspiration   I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6x35utbp5sufsg2e4pw.jpg",
-  "slug": "the-frontend-challenge-donut-eat-my-favorite-snack-33b0",
-  "url": "https://dev.to/afif/the-frontend-challenge-donut-eat-my-favorite-snack-33b0",
-  "publish_date": "2024-03-22",
-  "published_at": "2024-03-22T19:13:56Z"
- },
- {
-  "id": 1797539,
-  "title": "👑 10 trending YC-backed OSS startups 🦾",
-  "description": "Hey friends, 👋  In this week's article, we're excited to unveil 10 trending YC companies to look out...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyf9p1kvi076qa3c0d49u.gif",
-  "slug": "10-trending-yc-backed-oss-startups-4doc",
-  "url": "https://dev.to/quine/10-trending-yc-backed-oss-startups-4doc",
-  "publish_date": "2024-03-22",
-  "published_at": "2024-03-22T17:53:00Z"
- },
- {
-  "id": 1797316,
-  "title": "Tips to write automated tests with High-quality",
-  "description": "Automated tests is something very common in our days, but only write automated tests isn't enough if...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsnzoq0rmxuxrk3rljh0o.png",
-  "slug": "tips-to-write-automated-tests-with-high-quality-h8g",
-  "url": "https://dev.to/m4rri4nne/tips-to-write-automated-tests-with-high-quality-h8g",
-  "publish_date": "2024-03-22",
-  "published_at": "2024-03-22T13:27:38Z"
- },
- {
-  "id": 1775414,
-  "title": "What was your win this week?",
-  "description": "Hey folks! 😀  It's Friday again. Hope y'all have had a good week! 🙌  Looking back on this past week,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqiwx7vgxivwj8ck1o9d.jpg",
-  "slug": "what-was-your-win-this-week-1h57",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-1h57",
-  "publish_date": "2024-03-22",
-  "published_at": "2024-03-22T10:33:00Z"
  }
 ]
