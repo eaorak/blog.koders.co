@@ -1,5 +1,55 @@
 [
  {
+  "id": 1904513,
+  "title": "Log and trace management made easy. Quickwit Integration via Glasskube",
+  "description": "Distributed application troubleshooting can be a nightmare. Unless you have the budget for expensive...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wfiu06vxc4f5ylwqk2.png",
+  "slug": "log-and-trace-management-made-easy-quickwit-integration-via-glasskube-2hg2",
+  "url": "https://dev.to/glasskube/log-and-trace-management-made-easy-quickwit-integration-via-glasskube-2hg2",
+  "publish_date": "2024-07-01",
+  "published_at": "2024-07-01T12:14:52Z"
+ },
+ {
+  "id": 1907466,
+  "title": "PDF Hell and Practical RAG Applications",
+  "description": "If you have tried to extract text from PDFs you would have come across a myriad of complications...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftcz0cy031ghhnji9gn9t.png",
+  "slug": "pdf-hell-and-practical-rag-applications-api",
+  "url": "https://dev.to/arun_venkataswamy/pdf-hell-and-practical-rag-applications-api",
+  "publish_date": "2024-07-01",
+  "published_at": "2024-07-01T11:01:34Z"
+ },
+ {
+  "id": 1865858,
+  "title": "15 amazing things you can do with simple JavaScript 🤯",
+  "description": "I love JavaScript because it's full of surprises and is used for so many amazing things.   Many...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F445qmtczsqgd4536xqg3.png",
+  "slug": "15-amazing-things-you-can-do-with-simple-javascript-g88",
+  "url": "https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88",
+  "publish_date": "2024-07-01",
+  "published_at": "2024-07-01T10:55:38Z"
+ },
+ {
+  "id": 1901318,
+  "title": "How to - Process CSV in Power Automate",
+  "description": "Its still crazy to me that Microsoft did not create an out of the box action to process a csv (or...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmqkg5rn4vx7c7sqy05v.png",
+  "slug": "how-to-process-csv-in-power-automate-535f",
+  "url": "https://dev.to/wyattdave/how-to-process-csv-in-power-automate-535f",
+  "publish_date": "2024-07-01",
+  "published_at": "2024-07-01T06:01:14Z"
+ },
+ {
+  "id": 1907144,
+  "title": "Why TypeScript is Transforming Modern Web Development",
+  "description": "🚀 TypeScript: A Game-Changer for Modern Web Development 🚀  As web development evolves, so do the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2c0sjyt49oicvv6q22dh.png",
+  "slug": "why-typescript-is-transforming-modern-web-development-372",
+  "url": "https://dev.to/cristain/why-typescript-is-transforming-modern-web-development-372",
+  "publish_date": "2024-07-01",
+  "published_at": "2024-07-01T05:10:48Z"
+ },
+ {
   "id": 1906772,
   "title": "Is Your Sidebar Hurting Your UX? Our Redesign Journey to Effortless Navigation",
   "description": "Have you ever felt frustrated navigating a website with a clunky sidebar? We hear you. At Hexmos,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lilxyzz/incredible-javascript-animation-libraries-30on",
   "publish_date": "2024-03-24",
   "published_at": "2024-03-24T06:00:00Z"
- },
- {
-  "id": 1799684,
-  "title": "Glam My Markup✨: Breezy Camp",
-  "description": "This is a submission for DEV Challenge v24.03.20, Glam Up My Markup: Camp Activities           What I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcafzunl6nv421maq9q3q.png",
-  "slug": "glam-my-markup-breezy-camp-1gam",
-  "url": "https://dev.to/sarahokolo/glam-my-markup-breezy-camp-1gam",
-  "publish_date": "2024-03-23",
-  "published_at": "2024-03-23T19:26:09Z"
- },
- {
-  "id": 1799428,
-  "title": "DEV Challenge v24.03.20, Glam Up My Markup: Camp Activities",
-  "description": "This is a submission for DEV Challenge v24.03.20, Glam Up My Markup: Camp Activities           What I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpimhhx9rgwvlgkh38ceb.png",
-  "slug": "dev-challenge-v240320-glam-up-my-markup-camp-activities-1e83",
-  "url": "https://dev.to/sergimiral/dev-challenge-v240320-glam-up-my-markup-camp-activities-1e83",
-  "publish_date": "2024-03-23",
-  "published_at": "2024-03-23T13:24:46Z"
- },
- {
-  "id": 1799345,
-  "title": "40+ Design Tools in One - 😱 A Gem For Web Developer \u0026 Designers",
-  "description": "Hello👋 Developers! Welcome to My Another Blog Post.  It's me Md Taqui Imam and it's been along that...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft3zokjcte47zobs915x1.gif",
-  "slug": "all-in-one-design-tools-a-gem-for-web-developer-designers-23g8",
-  "url": "https://dev.to/random_ti/all-in-one-design-tools-a-gem-for-web-developer-designers-23g8",
-  "publish_date": "2024-03-23",
-  "published_at": "2024-03-23T11:17:51Z"
- },
- {
-  "id": 1799294,
-  "title": "Removing my Shadow Ban on DEV",
-  "description": "Lately, I have been testing my new Gitroom platform scheduler tool to post into DEV to and other...",
-  "cover_image": "",
-  "slug": "removing-my-shadow-ban-on-dev-3615",
-  "url": "https://dev.to/nevodavid/removing-my-shadow-ban-on-dev-3615",
-  "publish_date": "2024-03-23",
-  "published_at": "2024-03-23T08:53:08Z"
- },
- {
-  "id": 1799087,
-  "title": "Polymorphism in Javascript",
-  "description": "Summary:   Polymorphism is a fundamental concept in object-oriented programming (OOP)...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0f9b2vwt6pzjd2r4ea4a.jpg",
-  "slug": "polymorphism-in-javascript-3l84",
-  "url": "https://dev.to/m__mdy__m/polymorphism-in-javascript-3l84",
-  "publish_date": "2024-03-23",
-  "published_at": "2024-03-23T01:36:31Z"
  }
 ]
