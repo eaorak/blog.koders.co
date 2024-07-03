@@ -1,5 +1,55 @@
 [
  {
+  "id": 1908974,
+  "title": "Building a Regex Generator with Gemini AI and ToolJet ⚙️",
+  "description": "Introduction   This tutorial will guide you through the process of building an AI-powered...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo7on0d6mntj6sftp8auz.png",
+  "slug": "building-a-regex-generator-with-gemini-ai-and-tooljet-43ng",
+  "url": "https://dev.to/tooljet/building-a-regex-generator-with-gemini-ai-and-tooljet-43ng",
+  "publish_date": "2024-07-02",
+  "published_at": "2024-07-02T13:02:20Z"
+ },
+ {
+  "id": 1908668,
+  "title": "useActionState — A New Hook in React 🎉",
+  "description": "Hello Developers 👋,   It’s me your friend Md Taqui Imam, and today I’m going to explain a new and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfgvf4pchn5ehyc3u57s.jpg",
+  "slug": "useactionstate-a-new-hook-in-react-5blm",
+  "url": "https://dev.to/random_ti/useactionstate-a-new-hook-in-react-5blm",
+  "publish_date": "2024-07-02",
+  "published_at": "2024-07-02T09:21:23Z"
+ },
+ {
+  "id": 1908428,
+  "title": "Farewell MongoDB: 5 reasons why you only need PostgreSQL",
+  "description": "Discuss the reasons why you should consider PostgreSQL over MongoDB for your next project.           ...",
+  "cover_image": "",
+  "slug": "farewell-mongodb-5-reasons-why-you-only-need-postgresql-31l9",
+  "url": "https://dev.to/logto/farewell-mongodb-5-reasons-why-you-only-need-postgresql-31l9",
+  "publish_date": "2024-07-02",
+  "published_at": "2024-07-02T05:39:35Z"
+ },
+ {
+  "id": 1908416,
+  "title": "The Productivity apps I use in 2024",
+  "description": "Cassidy's current \"stack\" of task-tracking, calendar, and note-taking apps",
+  "cover_image": "",
+  "slug": "the-productivity-apps-i-use-in-2024-41h5",
+  "url": "https://dev.to/cassidoo/the-productivity-apps-i-use-in-2024-41h5",
+  "publish_date": "2024-07-02",
+  "published_at": "2024-07-02T05:11:02Z"
+ },
+ {
+  "id": 1908369,
+  "title": "How to Deploy a React App to GitHub Pages",
+  "description": "How to Deploy a React App to GitHub Pages   Deploying a React app to GitHub Pages is a great...",
+  "cover_image": "",
+  "slug": "how-to-deploy-a-react-app-to-github-pages-29li",
+  "url": "https://dev.to/sh20raj/how-to-deploy-a-react-app-to-github-pages-29li",
+  "publish_date": "2024-07-02",
+  "published_at": "2024-07-02T03:07:38Z"
+ },
+ {
   "id": 1904513,
   "title": "Log and trace management made easy. Quickwit Integration via Glasskube",
   "description": "Distributed application troubleshooting can be a nightmare. Unless you have the budget for expensive...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/wyattdave/power-apps-intakes-55j5",
   "publish_date": "2024-03-25",
   "published_at": "2024-03-25T06:59:22Z"
- },
- {
-  "id": 1794902,
-  "title": "Sorry Devin You Can't Replace our Jobs",
-  "description": "Introduction   My name is Mojo, and I am an Anti Devin seasoned software engineer with over...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5woon48jiwrmii05l1gw.png",
-  "slug": "sorry-devin-you-cant-replace-our-jobs-192b",
-  "url": "https://dev.to/codewithshahan/sorry-devin-you-cant-replace-our-jobs-192b",
-  "publish_date": "2024-03-24",
-  "published_at": "2024-03-24T18:39:52Z"
- },
- {
-  "id": 1800128,
-  "title": "Redis reborn, a new chapter begins",
-  "description": "Redis has made a significant decision to adopt dual source-available licensing, announced by Rowan...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgd6xhbsx8vh999nmn20d.png",
-  "slug": "redis-reborn-a-new-chapter-begins-5f3g",
-  "url": "https://dev.to/mitchiemt11/redis-reborn-a-new-chapter-begins-5f3g",
-  "publish_date": "2024-03-24",
-  "published_at": "2024-03-24T13:23:24Z"
- },
- {
-  "id": 1800016,
-  "title": "Binary Il - Convert URLs to Il and Secure it - Redirect It 🚀",
-  "description": "Elevate Your URLs with the \"URL to Il Converter\" by Binary...",
-  "cover_image": "",
-  "slug": "binary-il-convert-urls-to-il-and-secure-it-redirect-it-fp0",
-  "url": "https://dev.to/sh20raj/binary-il-convert-urls-to-il-and-secure-it-redirect-it-fp0",
-  "publish_date": "2024-03-24",
-  "published_at": "2024-03-24T09:43:51Z"
- },
- {
-  "id": 1799950,
-  "title": "NVIDIA Just Launched FREE Courses in AI 🎓📚",
-  "description": "NVIDIA, the company that is at the 🫀 of the AI revolution, recently made learning Artificial...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpn1nx16iz9g69701o63j.png",
-  "slug": "nvidia-just-launched-free-courses-in-ai-47ef",
-  "url": "https://dev.to/arjuncodess/nvidia-just-launched-free-courses-in-ai-47ef",
-  "publish_date": "2024-03-24",
-  "published_at": "2024-03-24T07:30:00Z"
- },
- {
-  "id": 1799893,
-  "title": "Incredible JavaScript Animation Libraries",
-  "description": "Overview   JavaScript animation libraries have emerged as essential tools for developers...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyq042ie808v44o1hrsoq.png",
-  "slug": "incredible-javascript-animation-libraries-30on",
-  "url": "https://dev.to/lilxyzz/incredible-javascript-animation-libraries-30on",
-  "publish_date": "2024-03-24",
-  "published_at": "2024-03-24T06:00:00Z"
  }
 ]
