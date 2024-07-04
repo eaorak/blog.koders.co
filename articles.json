@@ -1,5 +1,55 @@
 [
  {
+  "id": 1894728,
+  "title": "6 ways to turn your browser into super-debug-hero (ft. node.js + next.js!)",
+  "description": "Unlike some of my other posts, this one is going to be straight-forward.  I'll cover some of the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy6a28jeu9eclawqcut7c.png",
+  "slug": "6-ways-to-turn-your-browser-into-super-debug-hero-ft-nodejs-nextjs-36c3",
+  "url": "https://dev.to/middleware/6-ways-to-turn-your-browser-into-super-debug-hero-ft-nodejs-nextjs-36c3",
+  "publish_date": "2024-07-03",
+  "published_at": "2024-07-03T16:10:36Z"
+ },
+ {
+  "id": 1910003,
+  "title": "Part 1: What is Clean Architecture?",
+  "description": "Understanding Clean Architecture   Clean Architecture is a software design philosophy...",
+  "cover_image": "",
+  "slug": "part-1-what-is-clean-architecture-4bn1",
+  "url": "https://dev.to/moh_moh701/part-1-what-is-clean-architecture-4bn1",
+  "publish_date": "2024-07-03",
+  "published_at": "2024-07-03T10:41:39Z"
+ },
+ {
+  "id": 1909962,
+  "title": "Building and Selling a GPT Wrapper SaaS in 5 Months",
+  "description": "Since the release of ChatGPT, we’ve been flooded with all possible versions of apps that use it in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6hcsdjqu16nstqlqwz2t.png",
+  "slug": "building-and-selling-a-gpt-wrapper-saas-in-5-months-1i6h",
+  "url": "https://dev.to/wasp/building-and-selling-a-gpt-wrapper-saas-in-5-months-1i6h",
+  "publish_date": "2024-07-03",
+  "published_at": "2024-07-03T10:12:17Z"
+ },
+ {
+  "id": 1907813,
+  "title": "Powerful AI Tools You Should Know",
+  "description": "Hello  Devs👋  Nowadays there are many AI tools available to boost your productivity but finding the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft8ywdub8qz2jcdig9b3c.gif",
+  "slug": "powerful-ai-tools-you-should-know-1gf1",
+  "url": "https://dev.to/dev_kiran/powerful-ai-tools-you-should-know-1gf1",
+  "publish_date": "2024-07-03",
+  "published_at": "2024-07-03T07:19:17Z"
+ },
+ {
+  "id": 1909787,
+  "title": "Mythbusting DOM: Was DOM Invented Alongside HTML?",
+  "description": "There is a common belief that the DOM emerged simultaneously with HTML and has always been an...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fju5gdx5rhg95b3a6u0rm.jpg",
+  "slug": "mythbusting-dom-was-dom-invented-alongside-html-3fme",
+  "url": "https://dev.to/babichweb/mythbusting-dom-was-dom-invented-alongside-html-3fme",
+  "publish_date": "2024-07-03",
+  "published_at": "2024-07-03T07:15:24Z"
+ },
+ {
   "id": 1908974,
   "title": "Building a Regex Generator with Gemini AI and ToolJet ⚙️",
   "description": "Introduction   This tutorial will guide you through the process of building an AI-powered...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-2f2a",
   "publish_date": "2024-03-26",
   "published_at": "2024-03-26T08:23:14Z"
- },
- {
-  "id": 1801303,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-3hik",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hik",
-  "publish_date": "2024-03-25",
-  "published_at": "2024-03-25T19:41:21Z"
- },
- {
-  "id": 1786257,
-  "title": "Build a Full-Stack app using these React libraries and cloud backend.",
-  "description": "Today, we're going to learn how to build a full-stack app with Wing as a backend.    We will use...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2ptyqwlcag5sjgqavvsp.gif",
-  "slug": "build-a-full-stack-app-using-these-react-libraries-and-cloud-backend-2o4b",
-  "url": "https://dev.to/winglang/build-a-full-stack-app-using-these-react-libraries-and-cloud-backend-2o4b",
-  "publish_date": "2024-03-25",
-  "published_at": "2024-03-25T13:30:03Z"
- },
- {
-  "id": 1800899,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn68fv9llblw1h7d01uj1.png",
-  "slug": "meme-monday-2ebl",
-  "url": "https://dev.to/ben/meme-monday-2ebl",
-  "publish_date": "2024-03-25",
-  "published_at": "2024-03-25T12:52:44Z"
- },
- {
-  "id": 1800811,
-  "title": "Kubectl Scale - DevOps Guide",
-  "description": "Introduction   Understanding Kubernetes Workloads  In Kubernetes, we deal with...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2hpmfoxzybpkh34816ol.png",
-  "slug": "kubectl-scale-devops-guide-4d7g",
-  "url": "https://dev.to/refine/kubectl-scale-devops-guide-4d7g",
-  "publish_date": "2024-03-25",
-  "published_at": "2024-03-25T10:56:20Z"
- },
- {
-  "id": 1760991,
-  "title": "Power Apps - Intakes",
-  "description": "The production journey can be a long one, and with LowCode it is often longer then the time taken to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhodf3gxr9uyo2x6fmodv.png",
-  "slug": "power-apps-intakes-55j5",
-  "url": "https://dev.to/wyattdave/power-apps-intakes-55j5",
-  "publish_date": "2024-03-25",
-  "published_at": "2024-03-25T06:59:22Z"
  }
 ]
