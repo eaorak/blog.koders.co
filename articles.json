@@ -1,5 +1,55 @@
 [
  {
+  "id": 1911624,
+  "title": "Pessoas desenvolvedoras precisam estudar todos os dias",
+  "description": "A tecnologia está tão presente em nossas vidas que passamos a considerá-la como um item essencial....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiwg8d8vcl82v29jdrhg3.png",
+  "slug": "pessoas-desenvolvedoras-precisam-estudar-todos-os-dias-5dea",
+  "url": "https://dev.to/kecbm/pessoas-desenvolvedoras-precisam-estudar-todos-os-dias-5dea",
+  "publish_date": "2024-07-04",
+  "published_at": "2024-07-04T13:51:06Z"
+ },
+ {
+  "id": 1911564,
+  "title": "5 ways to skip QA approval forever!",
+  "description": "3 days of planning, 5 days of execution and then the whole work gets stuck for weeks on QA. On the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa47ihizhdmzhxt8dorz8.png",
+  "slug": "5-ways-to-skip-qa-approval-forever-9b6",
+  "url": "https://dev.to/middleware/5-ways-to-skip-qa-approval-forever-9b6",
+  "publish_date": "2024-07-04",
+  "published_at": "2024-07-04T13:07:39Z"
+ },
+ {
+  "id": 1911546,
+  "title": "Build an HTML To Markdown Converter using ToolJet📋",
+  "description": "In this tutorial, we will walk through the steps to build an HTML to Markdown Converter using...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7h2brs4m67objavyf31h.png",
+  "slug": "build-an-html-to-markdown-converter-using-tooljet-4p7h",
+  "url": "https://dev.to/tooljet/build-an-html-to-markdown-converter-using-tooljet-4p7h",
+  "publish_date": "2024-07-04",
+  "published_at": "2024-07-04T13:05:46Z"
+ },
+ {
+  "id": 1911286,
+  "title": "10000 Followers... Thank you!",
+  "description": "Hi Beautiful Dev community, I'm Antonio, CEO \u0026amp; Founder at Litlyx.  I wanted to say a big to all...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fayyrgcfqph4anthmmm6f.jpg",
+  "slug": "10000-followers-thank-you-4c03",
+  "url": "https://dev.to/litlyx/10000-followers-thank-you-4c03",
+  "publish_date": "2024-07-04",
+  "published_at": "2024-07-04T12:13:32Z"
+ },
+ {
+  "id": 1909371,
+  "title": "Welcome to JavaScript: From Novice to Expert",
+  "description": "Hello and welcome,  JavaScript friends! 🚀  If you're ready to dive into the world of coding, or just...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdqkby3rimh10sw3ye374.png",
+  "slug": "welcome-to-javascript-from-novice-to-expert-38fh",
+  "url": "https://dev.to/buildwebcrumbs/welcome-to-javascript-from-novice-to-expert-38fh",
+  "publish_date": "2024-07-04",
+  "published_at": "2024-07-04T09:00:00Z"
+ },
+ {
   "id": 1894728,
   "title": "6 ways to turn your browser into super-debug-hero (ft. node.js + next.js!)",
   "description": "Unlike some of my other posts, this one is going to be straight-forward.  I'll cover some of the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devhat/criando-um-design-system-reutilizavel-entre-react-e-react-native-com-tamagui-44pi",
   "publish_date": "2024-03-27",
   "published_at": "2024-03-27T00:14:50Z"
- },
- {
-  "id": 1795138,
-  "title": "Database for newbies: Hands On",
-  "description": "Knowing how to deal with databases are really important for every developer, so I will guide you...",
-  "cover_image": "",
-  "slug": "database-for-newbies-3a9f",
-  "url": "https://dev.to/basementdevs/database-for-newbies-3a9f",
-  "publish_date": "2024-03-26",
-  "published_at": "2024-03-26T18:00:00Z"
- },
- {
-  "id": 1802251,
-  "title": "Kubernetes Through the Developer's Perspective",
-  "description": "We perceive things by the way we interact with and understand them. To an infrastructure team,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiu95akh0bs40jfjzlptl.jpeg",
-  "slug": "kubernetes-through-the-developers-perspective-38lf",
-  "url": "https://dev.to/cyclops-ui/kubernetes-through-the-developers-perspective-38lf",
-  "publish_date": "2024-03-26",
-  "published_at": "2024-03-26T16:43:30Z"
- },
- {
-  "id": 1801066,
-  "title": "10 Steps to Build a Top-Tier Discord Server for Your Open Source Community. ✨",
-  "description": "It’s well-established that Discord is a great platform for Developer communities. What’s less...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhv0hx0hv9vq63g94vim7.png",
-  "slug": "10-steps-to-build-a-top-tier-discord-server-for-your-open-source-community-4cog",
-  "url": "https://dev.to/jakepage91/10-steps-to-build-a-top-tier-discord-server-for-your-open-source-community-4cog",
-  "publish_date": "2024-03-26",
-  "published_at": "2024-03-26T14:36:49Z"
- },
- {
-  "id": 1801911,
-  "title": "Finding the Inspiration to Build",
-  "description": "Hey, I'm Vince...     I’m a self-taught developer that changed careers during the Covid...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fns3ygfzq0jw4tcv3ixz6.png",
-  "slug": "finding-the-inspiration-to-build-3p4n",
-  "url": "https://dev.to/wasp/finding-the-inspiration-to-build-3p4n",
-  "publish_date": "2024-03-26",
-  "published_at": "2024-03-26T13:05:08Z"
- },
- {
-  "id": 1801698,
-  "title": "My new open-source repository to schedule all your content!",
-  "description": "Hi there, community! A few years ago, I shared my story of closing my previous startup and making it...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa1p81jf3b2q8z96fbbmo.png",
-  "slug": "my-new-open-source-repository-to-schedule-all-your-content-2f2a",
-  "url": "https://dev.to/github20k/my-new-open-source-repository-to-schedule-all-your-content-2f2a",
-  "publish_date": "2024-03-26",
-  "published_at": "2024-03-26T08:23:14Z"
  }
 ]
