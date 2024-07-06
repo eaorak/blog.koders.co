@@ -1,5 +1,55 @@
 [
  {
+  "id": 1912663,
+  "title": "How I stopped my procrastination: Insights into developer mindset",
+  "description": "You’ve been at your job for years, you know how to write code good enough to get you by comfortably,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvg014dc8svq0jqljobd8.png",
+  "slug": "how-i-stopped-my-procrastination-insights-into-developer-mindset-23hl",
+  "url": "https://dev.to/middleware/how-i-stopped-my-procrastination-insights-into-developer-mindset-23hl",
+  "publish_date": "2024-07-05",
+  "published_at": "2024-07-05T17:33:52Z"
+ },
+ {
+  "id": 1912738,
+  "title": "What the Helm?!",
+  "description": "Kubernetes applications rarely (if ever) consist of a single resource. In a basic example, you have a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1llh3jtwsfjs29v3kukb.jpg",
+  "slug": "what-the-helm-155f",
+  "url": "https://dev.to/cyclops-ui/what-the-helm-155f",
+  "publish_date": "2024-07-05",
+  "published_at": "2024-07-05T12:16:59Z"
+ },
+ {
+  "id": 1896002,
+  "title": "Pieces is the only AI tool you need to be a 10x developer🤯",
+  "description": "ChatGPT is boring and we all know it but I've something exciting that can take your dev skills to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkzg2obh73l06yvbq1gpk.png",
+  "slug": "pieces-is-the-only-ai-tool-you-need-to-be-a-10x-developer-13le",
+  "url": "https://dev.to/anmolbaranwal/pieces-is-the-only-ai-tool-you-need-to-be-a-10x-developer-13le",
+  "publish_date": "2024-07-05",
+  "published_at": "2024-07-05T09:07:18Z"
+ },
+ {
+  "id": 1912318,
+  "title": "How I send a personal message (incl. follow ups) to 100's of sign-ups with this $5 tool",
+  "description": "As Formbricks matures, I’m less involved in building the product and instead focus on selling...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmf85u428yrapedkk3y61.png",
+  "slug": "how-i-send-a-personal-message-incl-follow-ups-to-100s-of-sign-ups-with-this-5-tool-32dl",
+  "url": "https://dev.to/jobenjada/how-i-send-a-personal-message-incl-follow-ups-to-100s-of-sign-ups-with-this-5-tool-32dl",
+  "publish_date": "2024-07-05",
+  "published_at": "2024-07-05T06:31:02Z"
+ },
+ {
+  "id": 1910440,
+  "title": "Mastering npm: A Comprehensive Guide to Package Management",
+  "description": "Ah, npm – the Node Package Manager. For web developers, it's like that quirky old friend who's...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqa1w5zj67c2pmq8mz5xg.png",
+  "slug": "mastering-npm-a-comprehensive-guide-to-package-management-3h0m",
+  "url": "https://dev.to/chiragagg5k/mastering-npm-a-comprehensive-guide-to-package-management-3h0m",
+  "publish_date": "2024-07-05",
+  "published_at": "2024-07-05T04:44:09Z"
+ },
+ {
   "id": 1911624,
   "title": "Pessoas desenvolvedoras precisam estudar todos os dias",
   "description": "A tecnologia está tão presente em nossas vidas que passamos a considerá-la como um item essencial....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rani4849/top-5-best-courses-for-administrator-by-microsoft-with-certificate-19n9",
   "publish_date": "2024-03-28",
   "published_at": "2024-03-28T00:18:52Z"
- },
- {
-  "id": 1803134,
-  "title": "How I would learn DevOps if I could start over 🐳",
-  "description": "Hello, I am Lara. I am a senior DevOps and Cloud Engineer and Architect at EngioTech. If you wish to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsqdpg8t10nojfi60dktd.gif",
-  "slug": "how-i-would-learn-devops-if-i-could-start-over-5amp",
-  "url": "https://dev.to/larastewart_engdev/how-i-would-learn-devops-if-i-could-start-over-5amp",
-  "publish_date": "2024-03-27",
-  "published_at": "2024-03-27T13:08:28Z"
- },
- {
-  "id": 1802887,
-  "title": "10 Methods for Vertical Alignment Using CSS",
-  "description": "Introduction   Vertically aligning HTML contents in CSS has always been a...",
-  "cover_image": "",
-  "slug": "10-methods-for-vertical-alignment-using-css-3okc",
-  "url": "https://dev.to/refine/10-methods-for-vertical-alignment-using-css-3okc",
-  "publish_date": "2024-03-27",
-  "published_at": "2024-03-27T09:40:17Z"
- },
- {
-  "id": 1799114,
-  "title": "Building for Accessibility",
-  "description": "Many of us (developers) live with little to no disabilities. But can you imagine watching a movie...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpfzbuoioraxn90w7e25s.png",
-  "slug": "building-for-accessibility-3gke",
-  "url": "https://dev.to/nonsoo24/building-for-accessibility-3gke",
-  "publish_date": "2024-03-27",
-  "published_at": "2024-03-27T07:46:52Z"
- },
- {
-  "id": 1801155,
-  "title": "Does Stress Lead to Personal Growth and Resilience?",
-  "description": "What role can stress play in personal development and resilience?   Follow the DEVteam for more...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m9cilxxtnr1oecdgh45.png",
-  "slug": "does-stress-lead-to-personal-growth-and-resilience-44e0",
-  "url": "https://dev.to/devteam/does-stress-lead-to-personal-growth-and-resilience-44e0",
-  "publish_date": "2024-03-27",
-  "published_at": "2024-03-27T07:00:00Z"
- },
- {
-  "id": 1802545,
-  "title": "Criando um Design System reutilizável entre React e React Native com Tamagui",
-  "description": "TLDR;   Você pode conferir o repositório gerado por esse artigo clicando aqui.           🚀...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faok2ixuogxh0ryumvqq1.png",
-  "slug": "criando-um-design-system-reutilizavel-entre-react-e-react-native-com-tamagui-44pi",
-  "url": "https://dev.to/devhat/criando-um-design-system-reutilizavel-entre-react-e-react-native-com-tamagui-44pi",
-  "publish_date": "2024-03-27",
-  "published_at": "2024-03-27T00:14:50Z"
  }
 ]
