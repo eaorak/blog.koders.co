@@ -1,5 +1,55 @@
 [
  {
+  "id": 1913561,
+  "title": "System Design Basics - Caching",
+  "description": "The ultimate guide on caching for System Design interviews",
+  "cover_image": "",
+  "slug": "system-design-basics-caching-4fge",
+  "url": "https://dev.to/somadevtoo/system-design-basics-caching-4fge",
+  "publish_date": "2024-07-06",
+  "published_at": "2024-07-06T09:39:44Z"
+ },
+ {
+  "id": 1913507,
+  "title": "Day 26 of 30 of JavaScript",
+  "description": "Hey reader👋 Hope you are doing well😊 In the last post we have talked about Event Loop. In this post...",
+  "cover_image": "",
+  "slug": "day-26-of-30-of-javascript-2dfb",
+  "url": "https://dev.to/akshat0610/day-26-of-30-of-javascript-2dfb",
+  "publish_date": "2024-07-06",
+  "published_at": "2024-07-06T08:37:49Z"
+ },
+ {
+  "id": 1913470,
+  "title": "How LinkedIn Uses Kafka, Samza and RocksDB to Smartly Route Notifications?",
+  "description": "LinkedIn understands the importance of staying connected within your professional network, even when...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbj735wzxwtin0rh4bki5.png",
+  "slug": "how-linkedin-uses-kafka-samza-and-rocksdb-to-smartly-route-notifications-1352",
+  "url": "https://dev.to/nikl/how-linkedin-uses-kafka-samza-and-rocksdb-to-smartly-route-notifications-1352",
+  "publish_date": "2024-07-06",
+  "published_at": "2024-07-06T07:11:55Z"
+ },
+ {
+  "id": 1913347,
+  "title": "Avoid These 4 Common useState Mistakes in React",
+  "description": "In the world of React development, useState is a powerful and commonly used hook for managing state...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkszlmwj7wfi0wkbermvl.jpeg",
+  "slug": "avoid-these-4-common-usestate-mistakes-in-react-8j5",
+  "url": "https://dev.to/vyan/avoid-these-4-common-usestate-mistakes-in-react-8j5",
+  "publish_date": "2024-07-06",
+  "published_at": "2024-07-06T03:13:59Z"
+ },
+ {
+  "id": 1913269,
+  "title": "Mastering Number Systems: Binary, Decimal, Hexadecimal, and More",
+  "description": "In the realm of computer science and mathematics, number systems play a pivotal role in how we...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwvgobbzdmb9txi2pesk0.jpg",
+  "slug": "understanding-number-systems-binary-decimal-hexadecimal-and-beyond-55i4",
+  "url": "https://dev.to/m__mdy__m/understanding-number-systems-binary-decimal-hexadecimal-and-beyond-55i4",
+  "publish_date": "2024-07-06",
+  "published_at": "2024-07-06T00:10:55Z"
+ },
+ {
   "id": 1912663,
   "title": "How I stopped my procrastination: Insights into developer mindset",
   "description": "You’ve been at your job for years, you know how to write code good enough to get you by comfortably,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/apisix/navigating-identity-authentication-from-ldap-to-modern-protocols-4dha",
   "publish_date": "2024-03-29",
   "published_at": "2024-03-29T01:34:04Z"
- },
- {
-  "id": 1804660,
-  "title": "A Goodbye to Tech",
-  "description": "I tried.  I really tried.  In 2016, I graduated with a degree in Web Design and Development, knowing...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4mpgvgy9do1yzcx4mpve.jpeg",
-  "slug": "a-goodbye-to-tech-41gh",
-  "url": "https://dev.to/cat/a-goodbye-to-tech-41gh",
-  "publish_date": "2024-03-28",
-  "published_at": "2024-03-28T19:03:30Z"
- },
- {
-  "id": 1798583,
-  "title": "Apache APISIX North America Tour",
-  "description": "Once in a while, I write non-technical blog posts when I've something worth sharing. Today, I'd like...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0uo8psmjvlzrq31uykgs.jpg",
-  "slug": "apache-apisix-north-america-tour-56gp",
-  "url": "https://dev.to/apisix/apache-apisix-north-america-tour-56gp",
-  "publish_date": "2024-03-28",
-  "published_at": "2024-03-28T09:02:00Z"
- },
- {
-  "id": 1803788,
-  "title": "⚛️ Explaining React's Types",
-  "description": "React's type system, when used with TypeScript, provides developers with a robust framework for...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fun734bgtkxq2fwtng3qr.png",
-  "slug": "explaining-reacts-types-940",
-  "url": "https://dev.to/itswillt/explaining-reacts-types-940",
-  "publish_date": "2024-03-28",
-  "published_at": "2024-03-28T04:57:09Z"
- },
- {
-  "id": 1803650,
-  "title": "Top 5 Best Courses for administrator by Microsoft with certificate",
-  "description": "Microsoft 365 Certified: Administrator Expert   Certification details If you’re an...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbp0i1jzl6odqn69gco98.png",
-  "slug": "top-5-best-courses-for-administrator-by-microsoft-with-certificate-5ebl",
-  "url": "https://dev.to/ananya748/top-5-best-courses-for-administrator-by-microsoft-with-certificate-5ebl",
-  "publish_date": "2024-03-28",
-  "published_at": "2024-03-28T00:22:40Z"
- },
- {
-  "id": 1803648,
-  "title": "Top 5 Best Courses for administrator by Microsoft with certificate",
-  "description": "Microsoft 365 Certified: Administrator Expert   Certification details If you’re an...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm1cywhhpu3uqtel2h82y.png",
-  "slug": "top-5-best-courses-for-administrator-by-microsoft-with-certificate-19n9",
-  "url": "https://dev.to/rani4849/top-5-best-courses-for-administrator-by-microsoft-with-certificate-19n9",
-  "publish_date": "2024-03-28",
-  "published_at": "2024-03-28T00:18:52Z"
  }
 ]
