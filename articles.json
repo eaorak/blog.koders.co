@@ -1,5 +1,55 @@
 [
  {
+  "id": 1915753,
+  "title": "How to turn a Jupyter Notebook into a deployable artifact",
+  "description": "One of the most difficult challenges for a machine learning engineering team is efficiently bringing...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk101lnmrswlzr5krb41w.png",
+  "slug": "how-to-turn-a-jupyter-notebook-into-a-deployable-artifact-2jdl",
+  "url": "https://dev.to/kitops/how-to-turn-a-jupyter-notebook-into-a-deployable-artifact-2jdl",
+  "publish_date": "2024-07-08",
+  "published_at": "2024-07-08T12:37:32Z"
+ },
+ {
+  "id": 1915506,
+  "title": "Amazon Software Engineer Levels: Roles and Expectations [With Salary]",
+  "description": "Amazon SDE Career Ladder: A Comprehensive Overview   Amazon, one of the most innovative and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7w85lpsjiexynq2wn8bv.jpeg",
+  "slug": "amazon-software-engineer-levels-roles-and-expectations-with-salary-1017",
+  "url": "https://dev.to/alexr/amazon-software-engineer-levels-roles-and-expectations-with-salary-1017",
+  "publish_date": "2024-07-08",
+  "published_at": "2024-07-08T09:46:47Z"
+ },
+ {
+  "id": 1915448,
+  "title": "50 basic Linux commands",
+  "description": "Certainly! Here are 50 basic Linux commands that are useful for navigating and managing your...",
+  "cover_image": "",
+  "slug": "50-basic-linux-commands-42dg",
+  "url": "https://dev.to/dev-nnamdi/50-basic-linux-commands-42dg",
+  "publish_date": "2024-07-08",
+  "published_at": "2024-07-08T08:50:26Z"
+ },
+ {
+  "id": 1893556,
+  "title": "Advanced Dockerfile Directives",
+  "description": "In this post, we are going to discuss more advanced Dockerfile directives. These directives can be...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fud6oyinws6xha4i4f179.png",
+  "slug": "advanced-dockerfile-directives-193f",
+  "url": "https://dev.to/kalkwst/advanced-dockerfile-directives-193f",
+  "publish_date": "2024-07-08",
+  "published_at": "2024-07-08T06:25:58Z"
+ },
+ {
+  "id": 1915174,
+  "title": "The React useRef Hook: Not Just for DOM Elements",
+  "description": "In this post, we'll cover what the useRef hook is, some examples of how it can be used, and when you...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxllbi42t0tt7qanarqac.png",
+  "slug": "the-react-useref-hook-not-just-for-html-elements-3cf3",
+  "url": "https://dev.to/opensauced/the-react-useref-hook-not-just-for-html-elements-3cf3",
+  "publish_date": "2024-07-08",
+  "published_at": "2024-07-08T04:38:17Z"
+ },
+ {
   "id": 1913561,
   "title": "System Design Basics - Caching",
   "description": "The ultimate guide on caching for System Design interviews",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gambhirsharma/dev-coffee-2c8o",
   "publish_date": "2024-03-30",
   "published_at": "2024-03-30T03:32:10Z"
- },
- {
-  "id": 1805548,
-  "title": "My First Six Months as a Staff Developer Advocate at TBD",
-  "description": "Table of Contents    Undervaluing Myself The Epiphany Self-Doubt Happiness TBD’s...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjh1ofdrnzu12mwj5ea7.png",
-  "slug": "my-first-six-months-as-a-staff-developer-advocate-at-tbd-4l82",
-  "url": "https://dev.to/blackgirlbytes/my-first-six-months-as-a-staff-developer-advocate-at-tbd-4l82",
-  "publish_date": "2024-03-29",
-  "published_at": "2024-03-29T18:29:27Z"
- },
- {
-  "id": 1804355,
-  "title": "🌟 6 OSS startups offering smoother paths for contributors 🧑‍💻",
-  "description": "Hey friends! 👋  For this week's article, we will dive into 6 OSS startups offering smoother paths for...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fekmbqvzh1mz2mijhzuio.gif",
-  "slug": "6-oss-startups-offering-smoother-paths-for-contributors-39l5",
-  "url": "https://dev.to/quine/6-oss-startups-offering-smoother-paths-for-contributors-39l5",
-  "publish_date": "2024-03-29",
-  "published_at": "2024-03-29T18:10:31Z"
- },
- {
-  "id": 1804328,
-  "title": "What was your win this week?",
-  "description": "Hi everybody! 👋  Another week down, hope you each had a good one! 😎  Looking back on this past week,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwjyxxca8qxz6j0vc7av9.jpg",
-  "slug": "what-was-your-win-this-week-13ld",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-13ld",
-  "publish_date": "2024-03-29",
-  "published_at": "2024-03-29T11:00:00Z"
- },
- {
-  "id": 1804303,
-  "title": "What Do You Remember about the Early Days of webdev and HTML?",
-  "description": "For some of our more seasoned devs: what memories or experiences do you have from the early days of...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2q3pebw4bxltdxbdcnw6.png",
-  "slug": "what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0",
-  "url": "https://dev.to/devteam/what-do-you-remember-about-the-early-days-of-webdev-and-html-57d0",
-  "publish_date": "2024-03-29",
-  "published_at": "2024-03-29T07:00:00Z"
- },
- {
-  "id": 1804892,
-  "title": "Navigating Identity Authentication: From LDAP to Modern Protocols",
-  "description": "When constructing the identity authentication mechanism for network applications, engineers face...",
-  "cover_image": "",
-  "slug": "navigating-identity-authentication-from-ldap-to-modern-protocols-4dha",
-  "url": "https://dev.to/apisix/navigating-identity-authentication-from-ldap-to-modern-protocols-4dha",
-  "publish_date": "2024-03-29",
-  "published_at": "2024-03-29T01:34:04Z"
  }
 ]
