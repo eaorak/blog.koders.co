@@ -1,5 +1,55 @@
 [
  {
+  "id": 1921403,
+  "title": "The Terraform Getting Started Guide 🚀",
+  "description": "As a DevOps engineers, our daily routine often revolves around deploying and managing infrastructure....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2uxcmgpxssifi7v8yq9b.png",
+  "slug": "the-terraform-getting-started-guide-3oe2",
+  "url": "https://dev.to/tungbq/the-terraform-getting-started-guide-3oe2",
+  "publish_date": "2024-07-12",
+  "published_at": "2024-07-12T16:51:41Z"
+ },
+ {
+  "id": 1902967,
+  "title": "What was your win this week?",
+  "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsqri8jbfaqpbqz0672p0.jpeg",
+  "slug": "what-was-your-win-this-week-2gej",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-2gej",
+  "publish_date": "2024-07-12",
+  "published_at": "2024-07-12T13:41:00Z"
+ },
+ {
+  "id": 1920864,
+  "title": "What is GitHub Copilot: detailed overview",
+  "description": "This post is a quick overview of an Abto Software blog article.  Artificial intelligence along with...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feqigtgfds9kpscc2vsaq.png",
+  "slug": "what-is-github-copilot-detailed-overview-20pk",
+  "url": "https://dev.to/abtosoftware/what-is-github-copilot-detailed-overview-20pk",
+  "publish_date": "2024-07-12",
+  "published_at": "2024-07-12T09:49:45Z"
+ },
+ {
+  "id": 1920850,
+  "title": "A New AI Tool for my Rust Open Source Project",
+  "description": "Recently, I became curious about Pieces, a developer tool. Since I started a new open-source project,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fihl88f2itj6t7ms00jpm.png",
+  "slug": "a-new-ai-tool-for-my-rust-open-source-project-5c52",
+  "url": "https://dev.to/francescoxx/a-new-ai-tool-for-my-rust-open-source-project-5c52",
+  "publish_date": "2024-07-12",
+  "published_at": "2024-07-12T09:41:32Z"
+ },
+ {
+  "id": 1920423,
+  "title": "Understanding Vite Flow and Structure in a React Project",
+  "description": "When working with React, Vite offers a streamlined development experience with a few key differences...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzw0dpfvo9lc2zkvpdgtj.png",
+  "slug": "understanding-vite-flow-and-structure-in-a-react-project-2e84",
+  "url": "https://dev.to/vyan/understanding-vite-flow-and-structure-in-a-react-project-2e84",
+  "publish_date": "2024-07-12",
+  "published_at": "2024-07-12T03:01:52Z"
+ },
+ {
   "id": 1920049,
   "title": "🔴 Realtime Responsive Chat App with React, Node.js, Socket.io and MongoDB with Group Chats and File Uploads",
   "description": "Features of the Realtime Responsive Chat App   ✅ Frontend: Built with React ⚛️  ✅ UI...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ananya748/microsoft-authentication-library-modules-1hep",
   "publish_date": "2024-04-03",
   "published_at": "2024-04-03T00:31:06Z"
- },
- {
-  "id": 1809079,
-  "title": "Congrats to our Frontend Challenge Winners!",
-  "description": "Thank you to everyone who participated! We hope you had fun, felt challenged, and maybe added a thing or two to your professional profile.",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyld68v14yeqhrbtttthm.png",
-  "slug": "congrats-to-our-frontend-challenge-winners-2h5f",
-  "url": "https://dev.to/devteam/congrats-to-our-frontend-challenge-winners-2h5f",
-  "publish_date": "2024-04-02",
-  "published_at": "2024-04-02T17:56:06Z"
- },
- {
-  "id": 1809263,
-  "title": "Google's Decision to Effectively Kill-off Small Sites",
-  "description": "I'm a relatively new blogger, having only started my blog around 6 months ago. I started my blog...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd7paxhf6v7j66phv33ui.jpg",
-  "slug": "googles-decision-to-effectively-kill-off-small-sites-28ea",
-  "url": "https://dev.to/mlaposta/googles-decision-to-effectively-kill-off-small-sites-28ea",
-  "publish_date": "2024-04-02",
-  "published_at": "2024-04-02T17:39:41Z"
- },
- {
-  "id": 1808990,
-  "title": "I built a top-tier Discord server for Open Source.",
-  "description": "It’s well-established that Discord is a great platform for Developer communities.  But if you are...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fodyvyjxi56sf5y8ph9f1.png",
-  "slug": "i-built-a-top-tier-discord-server-for-open-source-p25",
-  "url": "https://dev.to/glasskube/i-built-a-top-tier-discord-server-for-open-source-p25",
-  "publish_date": "2024-04-02",
-  "published_at": "2024-04-02T14:07:26Z"
- },
- {
-  "id": 1808955,
-  "title": "What Junior Devs Get Wrong",
-  "description": "Asking Senior Devs     We recently took to the web dev community on Reddit to ask Senior...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmuzzowzli1vhqv7ubtlf.png",
-  "slug": "what-junior-devs-get-wrong-an8",
-  "url": "https://dev.to/wasp/what-junior-devs-get-wrong-an8",
-  "publish_date": "2024-04-02",
-  "published_at": "2024-04-02T12:00:00Z"
- },
- {
-  "id": 1808524,
-  "title": "The good, the bad and the ugly of the XZ vulnerability (CVE 2024-3094)",
-  "description": "The recent CVE 2024-3094 (the XZ vulnerability exposed by Red Hat on March 29, 2024) has sparked...",
-  "cover_image": "",
-  "slug": "the-good-the-bad-and-the-ugly-of-the-xz-vulnerability-cve-2024-3094-47la",
-  "url": "https://dev.to/craigmcl/the-good-the-bad-and-the-ugly-of-the-xz-vulnerability-cve-2024-3094-47la",
-  "publish_date": "2024-04-02",
-  "published_at": "2024-04-02T02:16:16Z"
  }
 ]
