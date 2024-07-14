@@ -1,5 +1,55 @@
 [
  {
+  "id": 1922666,
+  "title": "Persistence Pays Off: React Components with Local Storage Sync 🔄🦸🏻‍♂️",
+  "description": "Have you ever spent minutes creating the perfect response only to lose it all with a misclick or...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ya3il8yds5uf37chibn.png",
+  "slug": "persistence-pays-off-react-components-with-local-storage-sync-2bfk",
+  "url": "https://dev.to/mattlewandowski93/persistence-pays-off-react-components-with-local-storage-sync-2bfk",
+  "publish_date": "2024-07-13",
+  "published_at": "2024-07-13T22:21:57Z"
+ },
+ {
+  "id": 1921933,
+  "title": "Pics Shade Image Offload + Optimize + Resize wordpress plugin",
+  "description": "Pics Shade Image Offload + Optimize + Resize wordpress plugin            Introduction   Are...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5xfur9k5r42ubareju97.png",
+  "slug": "pics-shade-image-offload-optimize-resize-wordpress-plugin-1fg0",
+  "url": "https://dev.to/sh20raj/pics-shade-image-offload-optimize-resize-wordpress-plugin-1fg0",
+  "publish_date": "2024-07-13",
+  "published_at": "2024-07-13T05:11:08Z"
+ },
+ {
+  "id": 1920966,
+  "title": "How Elite Engg. Teams Deploy 208X More Frequently Compared to Us Mere Mortals?",
+  "description": "Yes, you read the title right! 🤯  Elite engineering teams deploy 208 times more frequently than their...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcymbgzb6k3j61a9vw94p.png",
+  "slug": "how-elite-engg-teams-deploy-208x-more-frequently-compared-to-us-mere-mortals-1gjp",
+  "url": "https://dev.to/middleware/how-elite-engg-teams-deploy-208x-more-frequently-compared-to-us-mere-mortals-1gjp",
+  "publish_date": "2024-07-13",
+  "published_at": "2024-07-13T04:16:17Z"
+ },
+ {
+  "id": 1921907,
+  "title": "How to Create and Publish a WordPress Plugin",
+  "description": "How to Create and Publish a WordPress Plugin   Creating and publishing a WordPress plugin...",
+  "cover_image": "",
+  "slug": "how-to-create-and-publish-a-wordpress-plugin-3bbi",
+  "url": "https://dev.to/sh20raj/how-to-create-and-publish-a-wordpress-plugin-3bbi",
+  "publish_date": "2024-07-13",
+  "published_at": "2024-07-13T03:31:01Z"
+ },
+ {
+  "id": 1921868,
+  "title": "Crafting React Components: Readability, Reusability, and Efficiency",
+  "description": "In the world of React, writing components is an art. It’s not just about making them work — it’s...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvv9cter16lrs206xtvvu.jpg",
+  "slug": "crafting-react-components-readability-reusability-and-efficiency-6a1",
+  "url": "https://dev.to/vyan/crafting-react-components-readability-reusability-and-efficiency-6a1",
+  "publish_date": "2024-07-13",
+  "published_at": "2024-07-13T03:04:53Z"
+ },
+ {
   "id": 1921403,
   "title": "The Terraform Getting Started Guide 🚀",
   "description": "As a DevOps engineers, our daily routine often revolves around deploying and managing infrastructure....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/copilotkit/i-created-a-v0-clone-with-nextjs-gpt4-copilotkit-3cmb",
   "publish_date": "2024-04-04",
   "published_at": "2024-04-04T09:54:07Z"
- },
- {
-  "id": 1809513,
-  "title": "Join us for the Cloudflare AI Challenge: $3,000 in Prizes!",
-  "description": "We are so excited to be partnering with Cloudflare for the second DEV Challenge — with cash prizes...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn59ze0ihggwhx662h3sj.jpg",
-  "slug": "join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99",
-  "url": "https://dev.to/devteam/join-us-for-the-cloudflare-ai-challenge-3000-in-prizes-5f99",
-  "publish_date": "2024-04-03",
-  "published_at": "2024-04-03T17:21:07Z"
- },
- {
-  "id": 1806213,
-  "title": "21 AI Tools that are changing the World",
-  "description": "The world is full of promising AI tools like Sora, ChatGPT, and more coming along the way.   I've...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp0date9d0pby8054ndb0.gif",
-  "slug": "21-ai-tools-that-are-changing-the-world-1o54",
-  "url": "https://dev.to/taipy/21-ai-tools-that-are-changing-the-world-1o54",
-  "publish_date": "2024-04-03",
-  "published_at": "2024-04-03T08:44:36Z"
- },
- {
-  "id": 1809509,
-  "title": "Microsoft Authentication Library Modules",
-  "description": "Explore the Microsoft identity platform   Learn the core features and functionality of the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0tjb4gm81htuv34te1ll.png",
-  "slug": "microsoft-authentication-library-modules-5alg",
-  "url": "https://dev.to/rani4849/microsoft-authentication-library-modules-5alg",
-  "publish_date": "2024-04-03",
-  "published_at": "2024-04-03T00:36:48Z"
- },
- {
-  "id": 1809505,
-  "title": "Microsoft Authentication Library Modules",
-  "description": "Explore the Microsoft identity platform   Learn the core features and functionality of the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27krurz46b3mjcwn2jjn.png",
-  "slug": "microsoft-authentication-library-modules-4acp",
-  "url": "https://dev.to/radhika59/microsoft-authentication-library-modules-4acp",
-  "publish_date": "2024-04-03",
-  "published_at": "2024-04-03T00:33:09Z"
- },
- {
-  "id": 1809504,
-  "title": "Microsoft Authentication Library Modules",
-  "description": "Explore the Microsoft identity platform   Learn the core features and functionality of the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0b504cj68vx0j05kcfvx.png",
-  "slug": "microsoft-authentication-library-modules-1hep",
-  "url": "https://dev.to/ananya748/microsoft-authentication-library-modules-1hep",
-  "publish_date": "2024-04-03",
-  "published_at": "2024-04-03T00:31:06Z"
  }
 ]
