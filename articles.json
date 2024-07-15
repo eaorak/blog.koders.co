@@ -1,5 +1,55 @@
 [
  {
+  "id": 1922972,
+  "title": "✨Top 9 Open-Source Hidden Gems🤯",
+  "description": "Hello Devs👋  In this article I will be sharing some amazing open-source projects I've found that can...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmnbs9kzqp2beb3kvcyr.gif",
+  "slug": "top-9-open-source-hidden-gems-56d9",
+  "url": "https://dev.to/dev_kiran/top-9-open-source-hidden-gems-56d9",
+  "publish_date": "2024-07-14",
+  "published_at": "2024-07-14T14:48:36Z"
+ },
+ {
+  "id": 1922513,
+  "title": "How to 10x downsize fonts - Building a font optimizer",
+  "description": "I was using fonts wrong.  I usually got most of my fonts from Google Fonts.   For a long time, I just...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiqqufz0evl11flx1crws.png",
+  "slug": "how-to-10x-downsize-fonts-29nl",
+  "url": "https://dev.to/wimadev/how-to-10x-downsize-fonts-29nl",
+  "publish_date": "2024-07-14",
+  "published_at": "2024-07-14T09:41:12Z"
+ },
+ {
+  "id": 1919534,
+  "title": "19 Microservices Patterns for System Design Interviews",
+  "description": "These are the common patterns for Microservice architecture which developer should learn for System Design interviews. ",
+  "cover_image": "",
+  "slug": "19-microservices-patterns-for-system-design-interviews-3o39",
+  "url": "https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39",
+  "publish_date": "2024-07-14",
+  "published_at": "2024-07-14T09:36:37Z"
+ },
+ {
+  "id": 1922941,
+  "title": "Vivaldi Browser: Must-have extensions for developers",
+  "description": "Having the right tools can help a lot in web development. Vivaldi is flexible and customizable, which...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvq51zdcdx2yh92l4vcmr.png",
+  "slug": "vivaldi-browser-must-have-extensions-for-developers-30f4",
+  "url": "https://dev.to/qostya/vivaldi-browser-must-have-extensions-for-developers-30f4",
+  "publish_date": "2024-07-14",
+  "published_at": "2024-07-14T07:19:25Z"
+ },
+ {
+  "id": 1922814,
+  "title": "Mastering NestJS: Building Robust Applications with Core Concepts",
+  "description": "NestJS is a powerful framework that allows building various types of applications, including APIs,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpdszpocez4nogof0o5kc.png",
+  "slug": "mastering-nestjs-building-robust-applications-with-core-concepts-5gm3",
+  "url": "https://dev.to/vyan/mastering-nestjs-building-robust-applications-with-core-concepts-5gm3",
+  "publish_date": "2024-07-14",
+  "published_at": "2024-07-14T03:09:26Z"
+ },
+ {
   "id": 1922666,
   "title": "Persistence Pays Off: React Components with Local Storage Sync 🔄🦸🏻‍♂️",
   "description": "Have you ever spent minutes creating the perfect response only to lose it all with a misclick or...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sarahokolo/creating-a-textarea-character-limit-indicator-5fol",
   "publish_date": "2024-04-05",
   "published_at": "2024-04-05T10:41:20Z"
- },
- {
-  "id": 1810543,
-  "title": "Featured Mod of the Month: Anita Olsen",
-  "description": "In this series, we shine a spotlight 🔦 on the different DEV moderators — Trusted Members and Tag Mods...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv8tcsluxwurp6ox8ekw5.jpeg",
-  "slug": "featured-mod-of-the-month-anita-olsen-10jn",
-  "url": "https://dev.to/devteam/featured-mod-of-the-month-anita-olsen-10jn",
-  "publish_date": "2024-04-04",
-  "published_at": "2024-04-04T14:31:56Z"
- },
- {
-  "id": 1811177,
-  "title": "Como um Portfólio Pode Impulsionar sua Carreira",
-  "description": "O portfólio é um cartão de visitas para que as pessoas te conheçam. Ser uma pessoa desenvolvedora...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3fa3xnmvw94xl0gik48h.png",
-  "slug": "como-um-portfolio-pode-impulsionar-sua-carreira-5dk6",
-  "url": "https://dev.to/kecbm/como-um-portfolio-pode-impulsionar-sua-carreira-5dk6",
-  "publish_date": "2024-04-04",
-  "published_at": "2024-04-04T13:38:57Z"
- },
- {
-  "id": 1811032,
-  "title": "I sold my startup because of bugs: I wish I had this serverless repository!",
-  "description": "In 2021, I built a startup called Linvo, a LinkedIn automation tool. It generated good money but also...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fikv2vuehxrwp6k8nhyl3.png",
-  "slug": "i-sold-my-startup-because-of-bugs-i-wish-i-had-this-serverless-repository-4l3a",
-  "url": "https://dev.to/github20k/i-sold-my-startup-because-of-bugs-i-wish-i-had-this-serverless-repository-4l3a",
-  "publish_date": "2024-04-04",
-  "published_at": "2024-04-04T11:00:03Z"
- },
- {
-  "id": 1800309,
-  "title": "7 Best Python Visualization Libraries for 2024",
-  "description": "Many new contacts in my LinkedIn network are asking me for some resources to begin their data science...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fve55dzhh1jb4d6a8e8qj.png",
-  "slug": "7-best-python-visualization-libraries-for-2024-5h9f",
-  "url": "https://dev.to/taipy/7-best-python-visualization-libraries-for-2024-5h9f",
-  "publish_date": "2024-04-04",
-  "published_at": "2024-04-04T10:21:40Z"
- },
- {
-  "id": 1801130,
-  "title": "I created a v0.dev clone with Next.js, GPT4 \u0026 CopilotKit",
-  "description": "TL;DR   In this article, you will learn how to build a clone of Vercel's V0.dev. This is an...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpiqt8pmyt296nncsf9gq.gif",
-  "slug": "i-created-a-v0-clone-with-nextjs-gpt4-copilotkit-3cmb",
-  "url": "https://dev.to/copilotkit/i-created-a-v0-clone-with-nextjs-gpt4-copilotkit-3cmb",
-  "publish_date": "2024-04-04",
-  "published_at": "2024-04-04T09:54:07Z"
  }
 ]
