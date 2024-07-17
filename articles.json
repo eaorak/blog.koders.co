@@ -1,5 +1,55 @@
 [
  {
+  "id": 1925812,
+  "title": "Congrats to the Wix Studio Challenge Winners!",
+  "description": "From eCommerce sites with gaming elements to customizable sneakers to AI-assisted shopping...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdt971htus7au2zxdhq6q.png",
+  "slug": "congrats-to-the-wix-studio-challenge-winners-1d23",
+  "url": "https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23",
+  "publish_date": "2024-07-16",
+  "published_at": "2024-07-16T19:07:27Z"
+ },
+ {
+  "id": 1920415,
+  "title": "How to build a Perplexity-like Chatbot in Slack?",
+  "description": "TL;DR   I spend a lot of time on Slack and often need deep-researched information. For this,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuy8zc5v6fsfl2ehi4g8.gif",
+  "slug": "how-to-build-a-perplexity-like-chatbot-in-slack-533j",
+  "url": "https://dev.to/composiodev/how-to-build-a-perplexity-like-chatbot-in-slack-533j",
+  "publish_date": "2024-07-16",
+  "published_at": "2024-07-16T17:17:09Z"
+ },
+ {
+  "id": 1925570,
+  "title": "Tools to ease collaboration between data scientists and application developers",
+  "description": "As a CTO or an Engineering Manager, you will often face problems with your data scientists and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmgtch2i2q19slq8lia.jpg",
+  "slug": "tools-to-ease-collaboration-between-data-scientists-and-application-developers-5ad8",
+  "url": "https://dev.to/kitops/tools-to-ease-collaboration-between-data-scientists-and-application-developers-5ad8",
+  "publish_date": "2024-07-16",
+  "published_at": "2024-07-16T14:22:13Z"
+ },
+ {
+  "id": 1922251,
+  "title": "Best Architecture for Your Next Project, Framework Doesn’t Matter! 🎉",
+  "description": "Table of Contents    How Simple Engineering Works What Happens When We Decide to Scale or...",
+  "cover_image": "",
+  "slug": "best-architecture-for-your-next-project-framework-doesnt-matter-29em",
+  "url": "https://dev.to/middleware/best-architecture-for-your-next-project-framework-doesnt-matter-29em",
+  "publish_date": "2024-07-16",
+  "published_at": "2024-07-16T14:08:14Z"
+ },
+ {
+  "id": 1922344,
+  "title": "Building a Modular Decoupled Backend using a Monorepo",
+  "description": "There are a lot of articles about why you should decouple your backend to move faster, but very few...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5zg3j209bm0wkjsvvyq2.png",
+  "slug": "building-a-modular-decoupled-backend-using-a-monorepo-2fik",
+  "url": "https://dev.to/woovi/building-a-modular-decoupled-backend-using-a-monorepo-2fik",
+  "publish_date": "2024-07-16",
+  "published_at": "2024-07-16T11:55:36Z"
+ },
+ {
   "id": 1924534,
   "title": "ChatPlus is an Open Source PWA that provides the experience of using a mobile app.",
   "description": "Brief ChatPlus Overview 💬✨🤩   ChatPlus is a progressive web application created using React,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/arindam_1729/5-developer-communities-you-must-join-in-2024-2afa",
   "publish_date": "2024-04-07",
   "published_at": "2024-04-07T03:25:11Z"
- },
- {
-  "id": 1811188,
-  "title": "🚀 My Cloudflare AI Challenge Submission: Story and Image Generator",
-  "description": "Hey there, fellow developers!  🌟 I'm happy to present my submission for the Cloudflare AI Challenge:...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F312kkdki0dk0eipn12v8.png",
-  "slug": "my-cloudflare-ai-challenge-submission-story-and-image-generator-4fc3",
-  "url": "https://dev.to/bobbyiliev/my-cloudflare-ai-challenge-submission-story-and-image-generator-4fc3",
-  "publish_date": "2024-04-06",
-  "published_at": "2024-04-06T17:19:30Z"
- },
- {
-  "id": 1813360,
-  "title": "Blockchain explained easy",
-  "description": "You've probably heard about blockchain, right? It can seem pretty confusing though.. Don't worry...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqrhclqe57c9x5yj3903.jpg",
-  "slug": "blockchain-explained-easy-399m",
-  "url": "https://dev.to/greengeko/blockchain-explained-easy-399m",
-  "publish_date": "2024-04-06",
-  "published_at": "2024-04-06T17:15:19Z"
- },
- {
-  "id": 1813005,
-  "title": "Fetch API Fun: Beginner's Guide to Web Requests 🔎🌐",
-  "description": "Interacting with external APIs, or Application Programming Interfaces, has become an essential skill...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9vjricdojkztimipei4.png",
-  "slug": "fetch-api-fun-beginners-guide-to-web-requests-22od",
-  "url": "https://dev.to/arjuncodess/fetch-api-fun-beginners-guide-to-web-requests-22od",
-  "publish_date": "2024-04-06",
-  "published_at": "2024-04-06T16:44:36Z"
- },
- {
-  "id": 1813164,
-  "title": "A Beginner's Guide to Tree-sitter",
-  "description": "Navigating through extensive or complex code can be challenging, but Tree-sitter is here to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fehra2lwjzlbcnif5kmzt.png",
-  "slug": "understanding-code-structure-a-beginners-guide-to-tree-sitter-3bbc",
-  "url": "https://dev.to/shreshthgoyal/understanding-code-structure-a-beginners-guide-to-tree-sitter-3bbc",
-  "publish_date": "2024-04-06",
-  "published_at": "2024-04-06T11:46:29Z"
- },
- {
-  "id": 1813162,
-  "title": "21 HTML Tips You Must Know About",
-  "description": "In this post, I’ll share 21 HTML Tips with code snippets that can boost your coding skills.  Let’s...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fghs6kydy3oq8obvzg45x.png",
-  "slug": "21-html-tips-you-must-know-about-55j7",
-  "url": "https://dev.to/devshefali/21-html-tips-you-must-know-about-55j7",
-  "publish_date": "2024-04-06",
-  "published_at": "2024-04-06T11:40:18Z"
  }
 ]
