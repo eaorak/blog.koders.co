@@ -1,5 +1,55 @@
 [
  {
+  "id": 1928247,
+  "title": "Updates to the Node course: PostgreSQL, Prisma and more!",
+  "description": "We've heard your feedback on Discord and GitHub, and we're thrilled to announce the first set of...",
+  "cover_image": "",
+  "slug": "updates-to-the-node-course-postgresql-prisma-and-more-4dl3",
+  "url": "https://dev.to/theodinproject/updates-to-the-node-course-postgresql-prisma-and-more-4dl3",
+  "publish_date": "2024-07-18",
+  "published_at": "2024-07-18T19:08:58Z"
+ },
+ {
+  "id": 1926788,
+  "title": "13 Hidden Open-source Libraries to Become an AI Wizard 🧙‍♂️🪄",
+  "description": "I have been building AI applications for the past 4 years and contributing to major AI tooling...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg4vo4h82a1wfaj58via3.gif",
+  "slug": "13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9",
+  "url": "https://dev.to/composiodev/13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9",
+  "publish_date": "2024-07-18",
+  "published_at": "2024-07-18T13:55:20Z"
+ },
+ {
+  "id": 1919704,
+  "title": "Advanced URL rewriting with Apache APISIX",
+  "description": "I spoke at Swiss PgDay in Switzerland in late June. The talk was about how to create a no-code API...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F215cxs6woyltg4rkyz0r.jpg",
+  "slug": "advanced-url-rewriting-with-apache-apisix-31ij",
+  "url": "https://dev.to/apisix/advanced-url-rewriting-with-apache-apisix-31ij",
+  "publish_date": "2024-07-18",
+  "published_at": "2024-07-18T09:02:00Z"
+ },
+ {
+  "id": 1919603,
+  "title": "Leaving Uber in 2022 was the best thing I did for myself 🚶💼",
+  "description": "tl;dr 📖   I had a cushy job at Uber—decent work, great people. But the red tape was...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvrcx2wkn2agqt5ykt1wp.png",
+  "slug": "leaving-uber-in-2022-was-the-best-thing-i-did-for-myself-4kf9",
+  "url": "https://dev.to/middleware/leaving-uber-in-2022-was-the-best-thing-i-did-for-myself-4kf9",
+  "publish_date": "2024-07-18",
+  "published_at": "2024-07-18T07:01:52Z"
+ },
+ {
+  "id": 1927315,
+  "title": "Building a Secure Employee Dashboard with Facial Authentication: A Comprehensive Next.js Tutorial",
+  "description": "Are you ready to revolutionize your workplace management? In this comprehensive tutorial, we're...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ffh7lm3259hqplb42fg.png",
+  "slug": "building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
+  "url": "https://dev.to/vyan/building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
+  "publish_date": "2024-07-18",
+  "published_at": "2024-07-18T02:29:04Z"
+ },
+ {
   "id": 1924949,
   "title": "Build an AI-powered Social Media Post Scheduler (Twitter API, Next.js \u0026 Copilotkit)",
   "description": "TL;DR   In this tutorial, you will learn how to build an AI-powered social media content...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-i-introducao-14p5",
   "publish_date": "2024-04-09",
   "published_at": "2024-04-09T03:51:43Z"
- },
- {
-  "id": 1815492,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-3h7c",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h7c",
-  "publish_date": "2024-04-08",
-  "published_at": "2024-04-08T19:03:58Z"
- },
- {
-  "id": 1815005,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F59jbk0i1nz46e20h4kk4.png",
-  "slug": "meme-monday-4i84",
-  "url": "https://dev.to/ben/meme-monday-4i84",
-  "publish_date": "2024-04-08",
-  "published_at": "2024-04-08T12:09:20Z"
- },
- {
-  "id": 1814905,
-  "title": "Build your Web Applications Faster with Modern Build Tools",
-  "description": "Comparing Webpack, Vite, Parcel, and Snowpack            What is Building?   \"Building\" refers to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F705k21g8gj936npsig64.png",
-  "slug": "build-your-web-applications-faster-with-modern-build-tools-g2k",
-  "url": "https://dev.to/codeparrot/build-your-web-applications-faster-with-modern-build-tools-g2k",
-  "publish_date": "2024-04-08",
-  "published_at": "2024-04-08T10:20:09Z"
- },
- {
-  "id": 1814860,
-  "title": "How API7 Gateway Overcomes Exceptions with High Availability Strategies",
-  "description": "Building high availability of API gateways is crucial when constructing modern enterprise-level...",
-  "cover_image": "",
-  "slug": "how-api7-gateway-overcomes-exceptions-with-high-availability-strategies-34j5",
-  "url": "https://dev.to/api7/how-api7-gateway-overcomes-exceptions-with-high-availability-strategies-34j5",
-  "publish_date": "2024-04-08",
-  "published_at": "2024-04-08T09:14:55Z"
- },
- {
-  "id": 1809364,
-  "title": "We got 500 GitHub stars! 🤯 What's next?",
-  "description": "\"What if we built a tool that's just cool, useful, and fun to work on?\" we thought to ourselves...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd8cngxk6zpjiwyl2ie8e.png",
-  "slug": "we-got-500-github-stars-whats-next-2njc",
-  "url": "https://dev.to/maxprilutskiy/we-got-500-github-stars-whats-next-2njc",
-  "publish_date": "2024-04-08",
-  "published_at": "2024-04-08T05:38:37Z"
  }
 ]
