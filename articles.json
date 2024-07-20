@@ -1,5 +1,55 @@
 [
  {
+  "id": 1929125,
+  "title": "🎡 Enhancing CyclopsUI: Modernizing the Node Details Page with Ant-D!",
+  "description": "🥽 Introduction   Cyclops is an advanced monitoring tool designed to streamline Kubernetes...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc9zva3hdh8mpb13ms3ti.png",
+  "slug": "enhancing-cyclops-modernizing-the-node-details-page-with-ant-d-pca",
+  "url": "https://dev.to/arnavk-09/enhancing-cyclops-modernizing-the-node-details-page-with-ant-d-pca",
+  "publish_date": "2024-07-19",
+  "published_at": "2024-07-19T14:38:30Z"
+ },
+ {
+  "id": 1902974,
+  "title": "What was your win this week?",
+  "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4wrfzn2ejpna8ixn56kg.jpeg",
+  "slug": "what-was-your-win-this-week-3cke",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-3cke",
+  "publish_date": "2024-07-19",
+  "published_at": "2024-07-19T12:00:00Z"
+ },
+ {
+  "id": 1928499,
+  "title": "The fastest way to build an authentication system",
+  "description": "Slash authentication setup time to under one hour with Logto! With no-code integration, a free...",
+  "cover_image": "",
+  "slug": "the-fastest-way-to-build-an-authentication-system-6o6",
+  "url": "https://dev.to/logto/the-fastest-way-to-build-an-authentication-system-6o6",
+  "publish_date": "2024-07-19",
+  "published_at": "2024-07-19T03:38:38Z"
+ },
+ {
+  "id": 1928482,
+  "title": "Mastering Git: 30 Essential Commands Every Developer Should Know",
+  "description": "GitHub is an indispensable tool for developers worldwide. Mastering Git commands is crucial to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd5cpmiyjh4z59hg6egj7.png",
+  "slug": "mastering-github-30-essential-commands-every-developer-should-know-51nn",
+  "url": "https://dev.to/vyan/mastering-github-30-essential-commands-every-developer-should-know-51nn",
+  "publish_date": "2024-07-19",
+  "published_at": "2024-07-19T03:04:20Z"
+ },
+ {
+  "id": 1928480,
+  "title": "Enhancing OIDC security with demonstrating proof of possession (DPoP)",
+  "description": "Explore how Demonstrating Proof of Possession (DPoP) enhances the security of OpenID Connect (OIDC)...",
+  "cover_image": "",
+  "slug": "enhancing-oidc-security-with-demonstrating-proof-of-possession-dpop-24j4",
+  "url": "https://dev.to/logto/enhancing-oidc-security-with-demonstrating-proof-of-possession-dpop-24j4",
+  "publish_date": "2024-07-19",
+  "published_at": "2024-07-19T02:54:52Z"
+ },
+ {
   "id": 1928247,
   "title": "Updates to the Node course: PostgreSQL, Prisma and more!",
   "description": "We've heard your feedback on Discord and GitHub, and we're thrilled to announce the first set of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devsnorte/desenvolvendo-um-widget-de-upload-com-flutter-54oi",
   "publish_date": "2024-04-10",
   "published_at": "2024-04-10T05:09:49Z"
- },
- {
-  "id": 1815592,
-  "title": "Share the Love and Earn Some Badges! ❤️",
-  "description": "We're back with another badge release!   This time around, we have three new badges to introduce, all...",
-  "cover_image": "",
-  "slug": "share-the-love-and-earn-some-badges-55hf",
-  "url": "https://dev.to/devteam/share-the-love-and-earn-some-badges-55hf",
-  "publish_date": "2024-04-09",
-  "published_at": "2024-04-09T19:59:53Z"
- },
- {
-  "id": 1815452,
-  "title": "A Love Letter to Gen Z from Gen Y: Understanding React's Evolution",
-  "description": "Now, before I get cancelled, let me explain 😅 I'm on the cusp of the boundary between Gen Y and Gen Z...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsdkmi35dnuzdogti505.jpg",
-  "slug": "a-love-letter-to-gen-z-from-gen-y-understanding-reacts-evolution-4abm",
-  "url": "https://dev.to/anishamalde/a-love-letter-to-gen-z-from-gen-y-understanding-reacts-evolution-4abm",
-  "publish_date": "2024-04-09",
-  "published_at": "2024-04-09T10:57:18Z"
- },
- {
-  "id": 1815994,
-  "title": "The Ultimate Guide to Laravel Reverb: Real-Time Notifications",
-  "description": "You learned a lot about using Laravel Reverb in the first part of this guide. Now, you’ll learn how...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft3num1mmmr2yoxmukivo.jpg",
-  "slug": "the-ultimate-guide-to-laravel-reverb-real-time-notifications-48h4",
-  "url": "https://dev.to/novu/the-ultimate-guide-to-laravel-reverb-real-time-notifications-48h4",
-  "publish_date": "2024-04-09",
-  "published_at": "2024-04-09T10:18:00Z"
- },
- {
-  "id": 1814983,
-  "title": "11 Python Newsletters You Need to Subscribe to in 2024",
-  "description": "In the ever-evolving world of technology 🚀, staying updated with the latest trends, libraries, and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7vxbw3de59sndjozaq0.gif",
-  "slug": "11-python-newsletters-you-need-to-subscribe-to-in-2024-3d33",
-  "url": "https://dev.to/taipy/11-python-newsletters-you-need-to-subscribe-to-in-2024-3d33",
-  "publish_date": "2024-04-09",
-  "published_at": "2024-04-09T08:37:22Z"
- },
- {
-  "id": 1797802,
-  "title": "Construindo um web server em Assembly x86, parte I, introdução",
-  "description": "Assembly.   Para alguns, um monstrinho. Pra outros, algo antiquado. Mas pra quem tem curiosidade em...",
-  "cover_image": "",
-  "slug": "construindo-um-web-server-em-assembly-x86-parte-i-introducao-14p5",
-  "url": "https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-i-introducao-14p5",
-  "publish_date": "2024-04-09",
-  "published_at": "2024-04-09T03:51:43Z"
  }
 ]
