@@ -1,5 +1,55 @@
 [
  {
+  "id": 1932002,
+  "title": "20 Life hacks for DevOps Engineers",
+  "description": "Tricks of the trade, hacks, trade secrets, cheat sheets, best practices, call them what you will....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtap9pdk7qdwi4pwa41a.png",
+  "slug": "20-life-hacks-for-devops-engineers-3dn7",
+  "url": "https://dev.to/glasskube/20-life-hacks-for-devops-engineers-3dn7",
+  "publish_date": "2024-07-23",
+  "published_at": "2024-07-23T09:29:37Z"
+ },
+ {
+  "id": 1927655,
+  "title": "Goodbye Webflow, Hello Our Shiny New Website",
+  "description": "“That's it! I'm done with Webflow! It's been nothing but a nightmare. We're moving to a headless CMS,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpcr58bt6xxb20id57nk.png",
+  "slug": "goodbye-webflow-hello-our-shiny-new-website-1m31",
+  "url": "https://dev.to/zerodays/goodbye-webflow-hello-our-shiny-new-website-1m31",
+  "publish_date": "2024-07-23",
+  "published_at": "2024-07-23T06:38:25Z"
+ },
+ {
+  "id": 1932636,
+  "title": "POST only? Let's end this absurd API design debate",
+  "description": "Debunking the \"POST only\" API myth, explaining why it stems from a misunderstanding of API design...",
+  "cover_image": "",
+  "slug": "post-only-lets-end-this-absurd-api-design-debate-3a0k",
+  "url": "https://dev.to/logto/post-only-lets-end-this-absurd-api-design-debate-3a0k",
+  "publish_date": "2024-07-23",
+  "published_at": "2024-07-23T06:21:54Z"
+ },
+ {
+  "id": 1932608,
+  "title": "Webhooks vs. polling",
+  "description": "This article will compare webhooks vs. polling, analyze the advantages and disadvantages of each...",
+  "cover_image": "",
+  "slug": "webhooks-vs-polling-37d1",
+  "url": "https://dev.to/logto/webhooks-vs-polling-37d1",
+  "publish_date": "2024-07-23",
+  "published_at": "2024-07-23T05:25:52Z"
+ },
+ {
+  "id": 1932540,
+  "title": "Mastering React Router DOM: Your Guide to Building Slick Single-Page Apps",
+  "description": "Hey there, React enthusiasts! 👋 Ready to dive into the world of smooth, seamless navigation in your...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frfck0f1v4cfbfd9h874l.jpg",
+  "slug": "mastering-react-router-dom-your-guide-to-building-slick-single-page-apps-5g3o",
+  "url": "https://dev.to/vyan/mastering-react-router-dom-your-guide-to-building-slick-single-page-apps-5g3o",
+  "publish_date": "2024-07-23",
+  "published_at": "2024-07-23T03:43:12Z"
+ },
+ {
   "id": 1926628,
   "title": "Design System no Flutter",
   "description": "O desenvolvimento de aplicativos móveis eficazes requer não apenas uma base sólida em termos de...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sh20raj/css-text-handling-text-overflow-overflow-wrap-and-more-3k8d",
   "publish_date": "2024-04-14",
   "published_at": "2024-04-14T05:01:35Z"
- },
- {
-  "id": 1821027,
-  "title": "The Essential Docker Commands 🐳",
-  "description": "Introduction 👋    Docker has rapidly become the de facto standard for containerizing...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmjbxhgeuywp7dhu2xidc.png",
-  "slug": "the-essential-docker-commands-1c23",
-  "url": "https://dev.to/tungbq/the-essential-docker-commands-1c23",
-  "publish_date": "2024-04-13",
-  "published_at": "2024-04-13T18:44:31Z"
- },
- {
-  "id": 1821026,
-  "title": "Litoco AI: Link to Content - Cloudflare AI Challenge Submission",
-  "description": "This is a submission for the Cloudflare AI Challenge.           What I Built   This project uses...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5r5s2t5cv3f5ktl3wruj.png",
-  "slug": "litoco-ai-link-to-content-cloudflare-ai-challenge-submission-2m9h",
-  "url": "https://dev.to/srx9/litoco-ai-link-to-content-cloudflare-ai-challenge-submission-2m9h",
-  "publish_date": "2024-04-13",
-  "published_at": "2024-04-13T18:11:13Z"
- },
- {
-  "id": 1820830,
-  "title": "I've created yet another JavaScript framework",
-  "description": "It's 2024 and you've created yet another JavaScript framework. Seriously man!  When talking about...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm519qkjxv32n7tdi7sn5.jpg",
-  "slug": "ive-created-yet-another-javascript-framework-5c5o",
-  "url": "https://dev.to/lamnhan/ive-created-yet-another-javascript-framework-5c5o",
-  "publish_date": "2024-04-13",
-  "published_at": "2024-04-13T13:57:46Z"
- },
- {
-  "id": 1820744,
-  "title": "5 things you should avoid in your dev journey",
-  "description": "Being a developer in this market is tough. 🥲 It is a marathon, not a quick run. It comes with many...",
-  "cover_image": "",
-  "slug": "5-things-you-should-avoid-doing-as-a-developer-1kff",
-  "url": "https://dev.to/ale3oula/5-things-you-should-avoid-doing-as-a-developer-1kff",
-  "publish_date": "2024-04-13",
-  "published_at": "2024-04-13T11:32:38Z"
- },
- {
-  "id": 1820705,
-  "title": "Upload File in NextJS without any Library 🌟",
-  "description": "🌟 Upload File in NextJS without any Library 🌟  So you're working on a Next.js project and need to...",
-  "cover_image": "",
-  "slug": "upload-file-in-nextjs-without-any-library-18cp",
-  "url": "https://dev.to/sh20raj/upload-file-in-nextjs-without-any-library-18cp",
-  "publish_date": "2024-04-13",
-  "published_at": "2024-04-13T10:17:06Z"
  }
 ]
