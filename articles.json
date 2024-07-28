@@ -1,5 +1,55 @@
 [
  {
+  "id": 1938324,
+  "title": "Building a Terabox Video player online with download option || Scraping APIs",
+  "description": "A post by Sh Raj",
+  "cover_image": "",
+  "slug": "building-a-terabox-video-player-online-with-download-option-scraping-apis-lpn",
+  "url": "https://dev.to/sh20raj/building-a-terabox-video-player-online-with-download-option-scraping-apis-lpn",
+  "publish_date": "2024-07-27",
+  "published_at": "2024-07-27T14:40:07Z"
+ },
+ {
+  "id": 1938206,
+  "title": "10 Projects to master Frontend \u0026 Web Development",
+  "description": "Introduction   Learning by hands-on code from day 1 is one of the coolest methods of getting...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65dk4ktsv9gf9rmrnbrx.jpg",
+  "slug": "10-projects-to-master-frontend-web-development-acm",
+  "url": "https://dev.to/bigsondev/10-projects-to-master-frontend-web-development-acm",
+  "publish_date": "2024-07-27",
+  "published_at": "2024-07-27T12:11:00Z"
+ },
+ {
+  "id": 1938082,
+  "title": "Building Chat App Simplified",
+  "description": "Note: For a detailed walkthrough of building a comprehensive chat application schema, including...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwegmwbhdswdmt8dc67fd.jpg",
+  "slug": "building-chat-app-simplified-5cfe",
+  "url": "https://dev.to/vaishnavsherla/building-chat-app-simplified-5cfe",
+  "publish_date": "2024-07-27",
+  "published_at": "2024-07-27T08:24:33Z"
+ },
+ {
+  "id": 1937024,
+  "title": "Verify IDs with DOCSCAN API and Next.js",
+  "description": "Identity is an important aspect of the digital space. Making sure that users are who they claim to be...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwe93eos7bf8a35p98bv5.png",
+  "slug": "verify-ids-with-docscan-api-and-nextjs-1keb",
+  "url": "https://dev.to/envitab/verify-ids-with-docscan-api-and-nextjs-1keb",
+  "publish_date": "2024-07-27",
+  "published_at": "2024-07-27T06:29:25Z"
+ },
+ {
+  "id": 1937880,
+  "title": "React 19: A Game-Changer for Modern Web Development",
+  "description": "Introduction   React, the popular JavaScript library for building user interfaces, is about...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko42x3apigcvt27hdf3p.jpg",
+  "slug": "react-19-a-game-changer-for-modern-web-development-1bih",
+  "url": "https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih",
+  "publish_date": "2024-07-27",
+  "published_at": "2024-07-27T03:06:21Z"
+ },
+ {
   "id": 1922613,
   "title": "Practical Guide to Creating a Design System",
   "description": "We are going to provide a step-by-step on how to create a Design System for your Product.          ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/dhodvogner/earth-day-celebration-landing-page-submission-4ad5",
   "publish_date": "2024-04-18",
   "published_at": "2024-04-18T08:25:58Z"
- },
- {
-  "id": 1825706,
-  "title": "Join Us For The Next Frontend Challenge: Earth Day Edition!",
-  "description": "We kicked off our first frontend challenge a few weeks ago with the promise that we’d run these...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Femb626o0mysdsw32ox4k.png",
-  "slug": "join-us-for-the-next-frontend-challenge-earth-day-edition-52e4",
-  "url": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-earth-day-edition-52e4",
-  "publish_date": "2024-04-17",
-  "published_at": "2024-04-17T17:38:43Z"
- },
- {
-  "id": 1824853,
-  "title": "Join us for the Coze AI Bot Challenge: $3,000 in Prizes!",
-  "description": "We are thrilled to partner with Coze to bring the community our next AI challenge — this time, a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flox2s2e29vq74sg0xcqn.jpg",
-  "slug": "join-us-for-the-coze-ai-bot-challenge-3000-in-prizes-4dp7",
-  "url": "https://dev.to/devteam/join-us-for-the-coze-ai-bot-challenge-3000-in-prizes-4dp7",
-  "publish_date": "2024-04-17",
-  "published_at": "2024-04-17T17:08:33Z"
- },
- {
-  "id": 1825945,
-  "title": "Supabase Auth now supports Anonymous Sign-ins",
-  "description": "Supabase Auth now supports anonymous sign-ins, one of our most-requested features by the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Finf9ymtg5u75rggeefuk.png",
-  "slug": "supabase-auth-now-supports-anonymous-sign-ins-1j00",
-  "url": "https://dev.to/supabase/supabase-auth-now-supports-anonymous-sign-ins-1j00",
-  "publish_date": "2024-04-17",
-  "published_at": "2024-04-17T16:26:00Z"
- },
- {
-  "id": 1795551,
-  "title": "12 Tips from a Mid-level Developer",
-  "description": "I officially have three years of experience and a mid-level job title. My best advice has changed...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp7e6gtjjgyhn277p20t3.png",
-  "slug": "12-tips-from-a-mid-level-developer-29bk",
-  "url": "https://dev.to/abbeyperini/12-tips-from-a-mid-level-developer-29bk",
-  "publish_date": "2024-04-17",
-  "published_at": "2024-04-17T12:51:20Z"
- },
- {
-  "id": 1816670,
-  "title": "30+ app ideas with complete source code",
-  "description": "This is an exciting time for technological advancements.  As developers, all of us need to work on...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36i80aifmnplhnghbt1w.gif",
-  "slug": "30-app-ideas-with-complete-source-code-5f76",
-  "url": "https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76",
-  "publish_date": "2024-04-17",
-  "published_at": "2024-04-17T11:22:11Z"
  }
 ]
