@@ -1,5 +1,55 @@
 [
  {
+  "id": 1935130,
+  "title": "Cancer Sucks",
+  "description": "I've been trying to decide what to write for six weeks now. Some days, the struggle was thinking...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F930or3zmkxz7qfrrw3w7.png",
+  "slug": "cancer-sucks-1e2i",
+  "url": "https://dev.to/abbeyperini/cancer-sucks-1e2i",
+  "publish_date": "2024-07-29",
+  "published_at": "2024-07-29T14:09:38Z"
+ },
+ {
+  "id": 1940007,
+  "title": "Introduction to Feature Flagging: A Beginner's Guide",
+  "description": "TL;DR   In this article, you’ll learn the fundamentals of feature flagging, its benefits,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9iboior3vbgeg6qawyf3.png",
+  "slug": "introduction-to-feature-flagging-a-beginners-guide-4o9c",
+  "url": "https://dev.to/flipt/introduction-to-feature-flagging-a-beginners-guide-4o9c",
+  "publish_date": "2024-07-29",
+  "published_at": "2024-07-29T12:55:13Z"
+ },
+ {
+  "id": 1939909,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr5s1otwuh9lnb85lf87z.png",
+  "slug": "meme-monday-2484",
+  "url": "https://dev.to/ben/meme-monday-2484",
+  "publish_date": "2024-07-29",
+  "published_at": "2024-07-29T11:03:09Z"
+ },
+ {
+  "id": 1939577,
+  "title": "Overcoming Hard Rate Limits: Efficient Rate Limiting with Token Bucketing and Redis",
+  "description": "As a developer, dealing with external integrations often presents challenges, especially when those...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzftqplzk4tzy9uocnb01.png",
+  "slug": "overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb",
+  "url": "https://dev.to/middleware/overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb",
+  "publish_date": "2024-07-29",
+  "published_at": "2024-07-29T06:53:11Z"
+ },
+ {
+  "id": 1923393,
+  "title": "17 Most Powerful AI Tools for Developers",
+  "description": "There are countless AI tools but only a few can actually improve the daily life of...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg7bmjvgeegkyctcajl1.png",
+  "slug": "17-most-powerful-ai-tools-for-developers-e6n",
+  "url": "https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n",
+  "publish_date": "2024-07-29",
+  "published_at": "2024-07-29T06:32:11Z"
+ },
+ {
   "id": 1926432,
   "title": "🤖Dueling AIs: Questioning and Answering with Language Models🚀",
   "description": "You've probably asked a question to a language model before and then had it give you an answer. After...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/digitalizedsnake/how-my-open-source-tool-got-100-stars-in-4-days-3g01",
   "publish_date": "2024-04-20",
   "published_at": "2024-04-20T04:19:39Z"
- },
- {
-  "id": 1828120,
-  "title": "Supabase Security Advisor \u0026 Performance Advisor",
-  "description": "We're dropping some handy tools in Supabase Studio this week to help with security and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzb89lds6cxf826684s5l.png",
-  "slug": "supabase-security-advisor-performance-advisor-8o8",
-  "url": "https://dev.to/supabase/supabase-security-advisor-performance-advisor-8o8",
-  "publish_date": "2024-04-19",
-  "published_at": "2024-04-19T16:19:14Z"
- },
- {
-  "id": 1826917,
-  "title": "Your weekly discovery of new open-source tools ⚒️👇",
-  "description": "Hey friends, 👋  For this week's article, we will discuss some of the open-source projects launched on...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftke6izi2ltlbbdf5bst3.gif",
-  "slug": "your-weekly-discovery-of-new-open-source-tools-27fm",
-  "url": "https://dev.to/quine/your-weekly-discovery-of-new-open-source-tools-27fm",
-  "publish_date": "2024-04-19",
-  "published_at": "2024-04-19T15:05:54Z"
- },
- {
-  "id": 1804359,
-  "title": "What was your win this week?",
-  "description": "Yo! 🙌  The weekend is officially here. Hope y'all all collectively had a good week! 🤜💥🤛  Looking back...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwjyxxca8qxz6j0vc7av9.jpg",
-  "slug": "what-was-your-win-this-week-2l0b",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-2l0b",
-  "publish_date": "2024-04-19",
-  "published_at": "2024-04-19T14:00:00Z"
- },
- {
-  "id": 1827859,
-  "title": "Yes I Hit 10000 Total Post Views on DEV 💥",
-  "description": "Greetings 👋   I'm excited to share that I've just hit 10,000 post views  on dev.to 🔥   I've...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuavlcjbwnquvd6ryn9ab.png",
-  "slug": "yes-i-have-my-first-10000-total-post-views-on-dev-5711",
-  "url": "https://dev.to/tungbq/yes-i-have-my-first-10000-total-post-views-on-dev-5711",
-  "publish_date": "2024-04-19",
-  "published_at": "2024-04-19T12:13:40Z"
- },
- {
-  "id": 1827860,
-  "title": "KitOps: The Bridge Between AI/ML Models and DevOps",
-  "description": "Yesterday, Brad Micklea, Jozu CEO and KitOps maintainer, was a guest on the Partially Redacted...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq2sn190dgdqvu53ac42q.png",
-  "slug": "streamlining-aiml-deployment-with-jozu-model-kits-innovations-and-future-directions-41ae",
-  "url": "https://dev.to/kitops/streamlining-aiml-deployment-with-jozu-model-kits-innovations-and-future-directions-41ae",
-  "publish_date": "2024-04-19",
-  "published_at": "2024-04-19T11:17:18Z"
  }
 ]
