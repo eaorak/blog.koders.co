@@ -1,5 +1,55 @@
 [
  {
+  "id": 1942487,
+  "title": "9 Must-Know Open-source JavaScript Libraries for Mastering AI Development 🧙✨",
+  "description": "I've been developing in Python and JavaScript, working on AI and non-AI projects, for quite some time...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foqqjyqb1om2i1848fuhz.gif",
+  "slug": "9-must-know-open-source-javascript-libraries-for-mastering-ai-development-2i9m",
+  "url": "https://dev.to/composiodev/9-must-know-open-source-javascript-libraries-for-mastering-ai-development-2i9m",
+  "publish_date": "2024-07-31",
+  "published_at": "2024-07-31T15:47:43Z"
+ },
+ {
+  "id": 1942457,
+  "title": "Using Postman For API Documentation: All You Need To Know",
+  "description": "In my previous article, Docs As Code: The Best Guide For Technical Writers, I talked about the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq4t5kljz0y76z3asil2o.png",
+  "slug": "using-postman-for-api-documentation-all-you-need-to-know-2ap9",
+  "url": "https://dev.to/dumebii/using-postman-for-api-documentation-all-you-need-to-know-2ap9",
+  "publish_date": "2024-07-31",
+  "published_at": "2024-07-31T12:48:50Z"
+ },
+ {
+  "id": 1942195,
+  "title": "Monorepo VS Polyrepo",
+  "description": "The question of whether to maintain your codebase as monorepo or polyrepo has become even more...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwo2p6svultp78igk0fqn.jpg",
+  "slug": "monorepo-vs-polyrepo-j9",
+  "url": "https://dev.to/giteden/monorepo-vs-polyrepo-j9",
+  "publish_date": "2024-07-31",
+  "published_at": "2024-07-31T10:25:48Z"
+ },
+ {
+  "id": 1941933,
+  "title": "Frontend Challenge: I have *had* it with these motherfriggin' *crickets* on this motherfriggin' *field*!",
+  "description": "This is a submission for Frontend Challenge v24.07.24, Glam Up My Markup: Recreation           What I...",
+  "cover_image": "",
+  "slug": "fighting-friggin-crickets-for-fun-and-profit-1pn7",
+  "url": "https://dev.to/horaceshmorace/fighting-friggin-crickets-for-fun-and-profit-1pn7",
+  "publish_date": "2024-07-31",
+  "published_at": "2024-07-31T04:21:32Z"
+ },
+ {
+  "id": 1941899,
+  "title": "Stop drawing ERD, but just auto-generate by `prisma-markdown`",
+  "description": "Preface   Automatic markdown documents generator for Prisma.   Github Repository Generated...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr4ighb7rmvdrcayx9rmg.png",
+  "slug": "stop-drawing-erd-but-just-auto-generate-by-prisma-markdown-3ckj",
+  "url": "https://dev.to/samchon/stop-drawing-erd-but-just-auto-generate-by-prisma-markdown-3ckj",
+  "publish_date": "2024-07-31",
+  "published_at": "2024-07-31T03:19:46Z"
+ },
+ {
   "id": 1939839,
   "title": "I built an AI Programmer to Automate Resolving GitHub Issues 🤯",
   "description": "At Composio, we've been diligently working on a rapidly growing repository over the past few...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa",
   "publish_date": "2024-04-22",
   "published_at": "2024-04-22T07:00:00Z"
- },
- {
-  "id": 1829284,
-  "title": "Dominando os Desafios da Programação: Um Guia para os Erros Léxicos, Sintáticos e Semânticos",
-  "description": "Na jornada rumo à excelência na programação, enfrentamos uma série de desafios que testam nossa...",
-  "cover_image": "",
-  "slug": "dominando-os-desafios-da-programacao-um-guia-para-os-erros-lexicos-sintaticos-e-semanticos-n3g",
-  "url": "https://dev.to/devsnorte/dominando-os-desafios-da-programacao-um-guia-para-os-erros-lexicos-sintaticos-e-semanticos-n3g",
-  "publish_date": "2024-04-21",
-  "published_at": "2024-04-21T15:12:16Z"
- },
- {
-  "id": 1829513,
-  "title": "Discussion: whats your favorite framework",
-  "description": "What is favorite framework 😍.   React, vue Or svelte 🤨  LET ME KNOW IN THE COMMENTS",
-  "cover_image": "",
-  "slug": "discussion-whats-your-favorite-framework-3jf9",
-  "url": "https://dev.to/dino2328/discussion-whats-your-favorite-framework-3jf9",
-  "publish_date": "2024-04-21",
-  "published_at": "2024-04-21T11:00:50Z"
- },
- {
-  "id": 1829506,
-  "title": "Difference between WHERE vs HAVING Clause in SQL",
-  "description": "While both WHERE and HAVING are used for filtering rows, condition in WHERE clause is applied before grouping of data and condition on HAVING is applied after grouping ",
-  "cover_image": "",
-  "slug": "difference-between-where-vs-having-clause-in-sql-17g5",
-  "url": "https://dev.to/somadevtoo/difference-between-where-vs-having-clause-in-sql-17g5",
-  "publish_date": "2024-04-21",
-  "published_at": "2024-04-21T10:38:07Z"
- },
- {
-  "id": 1829503,
-  "title": "I REDESIGNED A WEBSITE FOR MICHEAL ( SCRIPT ROBOT STUDIOS )",
-  "description": "OK, you have the best idea in the world. You executed it all perfect but one thing is lacking. Like a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl92nlj37vpswdikhh6in.png",
-  "slug": "i-redesigned-a-website-for-micheal-script-robot-studios--1g39",
-  "url": "https://dev.to/mince/i-redesigned-a-website-for-micheal-script-robot-studios--1g39",
-  "publish_date": "2024-04-21",
-  "published_at": "2024-04-21T10:22:35Z"
- },
- {
-  "id": 1827230,
-  "title": "WITL (A web security friend)",
-  "description": "This is a submission for the Coze AI Bot Challenge: Bot Innovator.           What I Built   WITL...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs1n2kxnyw2usswxkza09.jpeg",
-  "slug": "witl-a-web-security-friend-262h",
-  "url": "https://dev.to/sarahokolo/witl-a-web-security-friend-262h",
-  "publish_date": "2024-04-21",
-  "published_at": "2024-04-21T07:03:49Z"
  }
 ]
