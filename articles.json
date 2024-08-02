@@ -1,5 +1,55 @@
 [
  {
+  "id": 1943711,
+  "title": "10 Open Source MLOps Projects You Didn’t Know About",
+  "description": "Don’t repeat yourself is a fundamental principle in computer science. As such, software engineers...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjz8g5wwrqgdpl8ziovqs.jpg",
+  "slug": "10-open-source-mlops-projects-you-didnt-know-about-5bf5",
+  "url": "https://dev.to/kitops/10-open-source-mlops-projects-you-didnt-know-about-5bf5",
+  "publish_date": "2024-08-01",
+  "published_at": "2024-08-01T13:03:37Z"
+ },
+ {
+  "id": 1943708,
+  "title": "Vite vs NextJs: which frontend framework is for you?",
+  "description": "Vite vs Nextjs is a comparison of two popular frontend frameworks that offer different approaches to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuejsuahdlna8szkz49op.png",
+  "slug": "vite-vs-nextjs-which-frontend-framework-is-for-you-1ejp",
+  "url": "https://dev.to/codeparrot/vite-vs-nextjs-which-frontend-framework-is-for-you-1ejp",
+  "publish_date": "2024-08-01",
+  "published_at": "2024-08-01T13:02:35Z"
+ },
+ {
+  "id": 1942901,
+  "title": "The End of Google URL Shortener and breaks 4.6 BILLION URLs!",
+  "description": "Introduction   The innovations Google has brought to the table, from Chrome to the Google...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22wdls1686okctvetmdq.png",
+  "slug": "the-end-of-google-url-shortener-and-breaks-46-billion-urls-4o1",
+  "url": "https://dev.to/devarshishimpi/the-end-of-google-url-shortener-and-breaks-46-billion-urls-4o1",
+  "publish_date": "2024-08-01",
+  "published_at": "2024-08-01T11:18:20Z"
+ },
+ {
+  "id": 1936185,
+  "title": "Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡",
+  "description": "Prompt engineering is one of the best places to start in this era of AI.  Understanding the core...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgo3gtn5u85lkwwpb3mxe.png",
+  "slug": "prompt-engineering-for-developers-11-concepts-and-examples-in0",
+  "url": "https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0",
+  "publish_date": "2024-08-01",
+  "published_at": "2024-08-01T10:00:13Z"
+ },
+ {
+  "id": 1938332,
+  "title": "Free tier API with Apache APISIX",
+  "description": "Lots of service providers offer a free tier of their service. The idea is to let you kick their...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fft981tahocjw591ekh86.jpg",
+  "slug": "free-tier-api-with-apache-apisix-5cgo",
+  "url": "https://dev.to/apisix/free-tier-api-with-apache-apisix-5cgo",
+  "publish_date": "2024-08-01",
+  "published_at": "2024-08-01T09:02:00Z"
+ },
+ {
   "id": 1942487,
   "title": "9 Must-Know Open-source JavaScript Libraries for Mastering AI Development 🧙✨",
   "description": "I've been developing in Python and JavaScript, working on AI and non-AI projects, for quite some time...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/grahamthedev/video-encoded-as-emojis-stored-in-a-db-mp1",
   "publish_date": "2024-04-23",
   "published_at": "2024-04-23T08:24:56Z"
- },
- {
-  "id": 1830865,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-55po",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55po",
-  "publish_date": "2024-04-22",
-  "published_at": "2024-04-22T20:42:13Z"
- },
- {
-  "id": 1830459,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsk2yyps1qnzwyj19perv.png",
-  "slug": "meme-monday-47e2",
-  "url": "https://dev.to/ben/meme-monday-47e2",
-  "publish_date": "2024-04-22",
-  "published_at": "2024-04-22T13:03:15Z"
- },
- {
-  "id": 1829862,
-  "title": "css-shape.com: The Ultimate Collection of CSS-only Shapes ⚡️",
-  "description": "Are you searching for a CSS Shape? Look no further! I have collected all1 of them into one...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp67oymutul179zo1sw88.jpg",
-  "slug": "css-shapecom-the-ultimate-collection-of-css-only-shapes-52p5",
-  "url": "https://dev.to/afif/css-shapecom-the-ultimate-collection-of-css-only-shapes-52p5",
-  "publish_date": "2024-04-22",
-  "published_at": "2024-04-22T11:17:29Z"
- },
- {
-  "id": 1775376,
-  "title": "Music Monday — What are you listening to? (Music Videos Edition)",
-  "description": "cover image source: Giphy  Continuing our visual voyage through music, I wanna turn our attention to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3v8ke41b0qkgvu5yj6rf.gif",
-  "slug": "music-monday-what-are-you-listening-to-music-videos-edition-15g5",
-  "url": "https://dev.to/devteam/music-monday-what-are-you-listening-to-music-videos-edition-15g5",
-  "publish_date": "2024-04-22",
-  "published_at": "2024-04-22T10:20:00Z"
- },
- {
-  "id": 1828408,
-  "title": "How Are You Celebrating Earth Day? 🌱💧",
-  "description": "Celebrating Earth Day can be meaningful and impactful. How are you planning to celebrate this...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9cilp9awvc9h18wzqm5q.png",
-  "slug": "how-are-you-celebrating-earth-day-29aa",
-  "url": "https://dev.to/devteam/how-are-you-celebrating-earth-day-29aa",
-  "publish_date": "2024-04-22",
-  "published_at": "2024-04-22T07:00:00Z"
  }
 ]
