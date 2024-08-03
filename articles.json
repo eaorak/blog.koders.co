@@ -1,5 +1,55 @@
 [
  {
+  "id": 1945186,
+  "title": "Testing Staging and Production environments in Playwright",
+  "description": "When testing a website, you may need to test it across different environments, such as development,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl9a75j7a3ooz5mjmw3gl.png",
+  "slug": "testing-staging-and-production-environments-in-playwright-3p8b",
+  "url": "https://dev.to/playwright/testing-staging-and-production-environments-in-playwright-3p8b",
+  "publish_date": "2024-08-02",
+  "published_at": "2024-08-02T11:18:41Z"
+ },
+ {
+  "id": 1944548,
+  "title": "Personal access tokens, machine-to-machine authentication, and API Keys definition and their real-world scenarios",
+  "description": "Learn the differences between Personal Access Tokens (PATs), Machine-to-Machine (M2M) authentication,...",
+  "cover_image": "",
+  "slug": "personal-access-tokens-machine-to-machine-authentication-and-api-keys-definition-and-their-real-world-scenarios-2m1",
+  "url": "https://dev.to/logto/personal-access-tokens-machine-to-machine-authentication-and-api-keys-definition-and-their-real-world-scenarios-2m1",
+  "publish_date": "2024-08-02",
+  "published_at": "2024-08-02T05:57:40Z"
+ },
+ {
+  "id": 1944459,
+  "title": "Mastering Next.js: The Ultimate Guide to Structuring Large-Scale Projects in 2024",
+  "description": "Introduction: Taming the Next.js Jungle   Hey there, code wranglers and Next.js enthusiasts!...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rko89f8059337eqchw2.jpg",
+  "slug": "mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e",
+  "url": "https://dev.to/vyan/mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e",
+  "publish_date": "2024-08-02",
+  "published_at": "2024-08-02T04:28:09Z"
+ },
+ {
+  "id": 1944384,
+  "title": "Little tricks to improve your customer onboarding experience",
+  "description": "Learn how to enhance the user sign-up experience with Logto authentication parameters.     At Logto,...",
+  "cover_image": "",
+  "slug": "little-tricks-to-improve-your-customer-onboarding-experience-40bn",
+  "url": "https://dev.to/logto/little-tricks-to-improve-your-customer-onboarding-experience-40bn",
+  "publish_date": "2024-08-02",
+  "published_at": "2024-08-02T02:11:16Z"
+ },
+ {
+  "id": 1944366,
+  "title": "Use React.lazy with confidence: A safe way to load components when iterating fast",
+  "description": "React.lazy is a great way to load components on demand and improve the performance of your app....",
+  "cover_image": "",
+  "slug": "use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh",
+  "url": "https://dev.to/logto/use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh",
+  "publish_date": "2024-08-02",
+  "published_at": "2024-08-02T01:37:19Z"
+ },
+ {
   "id": 1943711,
   "title": "10 Open Source MLOps Projects You Didn’t Know About",
   "description": "Don’t repeat yourself is a fundamental principle in computer science. As such, software engineers...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/pavanbelagatti/my-favorite-devtools-to-build-aiml-applications-3c0c",
   "publish_date": "2024-04-24",
   "published_at": "2024-04-24T06:21:11Z"
- },
- {
-  "id": 1831466,
-  "title": "🥇The first framework that lets you visualize your React/NodeJS app 🤯",
-  "description": "Visualize the Prize   Imagine you’re working on your full-stack app, and you want to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx2wctld624pqstppnc1r.png",
-  "slug": "the-first-framework-that-lets-you-visualize-your-reactnodejs-app-1d63",
-  "url": "https://dev.to/wasp/the-first-framework-that-lets-you-visualize-your-reactnodejs-app-1d63",
-  "publish_date": "2024-04-23",
-  "published_at": "2024-04-23T12:05:57Z"
- },
- {
-  "id": 1831327,
-  "title": "Building a self-creating website with Supabase and AI",
-  "description": "TL;DR:   Built with Supabase, Astro, Unreal Speech, Stable Diffusion, Replicate, Metropolitan Museum...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2fcvz3p9m82jg8a29ftv.png",
-  "slug": "building-a-self-creating-website-with-supabase-and-ai-5b90",
-  "url": "https://dev.to/laznic/building-a-self-creating-website-with-supabase-and-ai-5b90",
-  "publish_date": "2024-04-23",
-  "published_at": "2024-04-23T11:36:30Z"
- },
- {
-  "id": 1831480,
-  "title": "How to build dev.to In-App Notification System in 20 minutes",
-  "description": "dev.to is a very popular community for developers. It’s a platform for thousands of developers to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwlcnch3kod5u6t6u37fz.png",
-  "slug": "how-to-build-devto-in-app-notification-system-in-20-minutes-2m98",
-  "url": "https://dev.to/novu/how-to-build-devto-in-app-notification-system-in-20-minutes-2m98",
-  "publish_date": "2024-04-23",
-  "published_at": "2024-04-23T11:14:26Z"
- },
- {
-  "id": 1823747,
-  "title": "🚀 21 Tools to take your dev skills to the moon 🌝",
-  "description": "I've seen hundreds of AI tools and many of them are changing the world.  As developers, there's...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4kdfgyuaqt003xcjkpe.png",
-  "slug": "21-tools-to-take-your-dev-skills-to-the-moon-53mf",
-  "url": "https://dev.to/taipy/21-tools-to-take-your-dev-skills-to-the-moon-53mf",
-  "publish_date": "2024-04-23",
-  "published_at": "2024-04-23T09:38:05Z"
- },
- {
-  "id": 1815065,
-  "title": "Video encoded as emojis⁉️ Stored in a DB? 😱🤯",
-  "description": "OK, even I think I have gone too far this time!  Can we convert video to emojis (silly) and then save...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9mqkrv5g9kelap3gdcln.png",
-  "slug": "video-encoded-as-emojis-stored-in-a-db-mp1",
-  "url": "https://dev.to/grahamthedev/video-encoded-as-emojis-stored-in-a-db-mp1",
-  "publish_date": "2024-04-23",
-  "published_at": "2024-04-23T08:24:56Z"
  }
 ]
