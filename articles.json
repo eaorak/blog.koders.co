@@ -1,5 +1,55 @@
 [
  {
+  "id": 1946320,
+  "title": "🙅 Why Hating TypeScript in 2024 Doesn't Make Sense",
+  "description": "I've been seeing this trend lately: more and more developers bashing TypeScript. The gripes range...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fono42tpryhsryvmaogek.png",
+  "slug": "why-hating-typescript-in-2024-doesnt-make-sense-44e",
+  "url": "https://dev.to/middleware/why-hating-typescript-in-2024-doesnt-make-sense-44e",
+  "publish_date": "2024-08-04",
+  "published_at": "2024-08-04T17:32:32Z"
+ },
+ {
+  "id": 1938866,
+  "title": "Create Your Own AI Discord Bot with Julep",
+  "description": "Having a Discord bot for your server that interacts with users and resolves their queries on your...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd8qxtfohwu8p963tl7a3.png",
+  "slug": "create-your-own-ai-discord-bot-with-julep-58lf",
+  "url": "https://dev.to/julep/create-your-own-ai-discord-bot-with-julep-58lf",
+  "publish_date": "2024-08-04",
+  "published_at": "2024-08-04T13:30:35Z"
+ },
+ {
+  "id": 1947218,
+  "title": "Rio: WebApps in pure Python — Technical Description",
+  "description": "We  recently launched Rio (https://github.com/rio-labs/rio), our new framework designed to help you...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F92928mt5tvn6i75qwm2i.png",
+  "slug": "rio-webapps-in-pure-python-technical-description-60",
+  "url": "https://dev.to/p4nd4no/rio-webapps-in-pure-python-technical-description-60",
+  "publish_date": "2024-08-04",
+  "published_at": "2024-08-04T11:12:44Z"
+ },
+ {
+  "id": 1947192,
+  "title": "Data Structure and Algorithm Basics - Big(O) Notations",
+  "description": "These are essential Big(O) notation every software engineer and developer should know",
+  "cover_image": "",
+  "slug": "data-structure-and-algorithm-basics-bigo-notations-5ak",
+  "url": "https://dev.to/somadevtoo/data-structure-and-algorithm-basics-bigo-notations-5ak",
+  "publish_date": "2024-08-04",
+  "published_at": "2024-08-04T10:25:03Z"
+ },
+ {
+  "id": 1946983,
+  "title": "9 Must-Try React UI Component Libraries for Stunning Web Apps in 2024",
+  "description": "Are you ready to supercharge your React development in 2024? Whether you're building a sleek startup...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5hv8axjpny1i5ou6yiit.jpg",
+  "slug": "9-must-try-react-ui-component-libraries-for-stunning-web-apps-in-2024-p7j",
+  "url": "https://dev.to/vyan/9-must-try-react-ui-component-libraries-for-stunning-web-apps-in-2024-p7j",
+  "publish_date": "2024-08-04",
+  "published_at": "2024-08-04T04:25:18Z"
+ },
+ {
   "id": 1945738,
   "title": "My HNG Journey. Stage Four: Mastering Multi-Environment Deployments: A Deep Dive into CI/CD with Next.js, Docker, and Nginx",
   "description": "In Stage Four of my HNG journey, we were grouped into teams, some teams deployed and maintained...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/tereza_tizkova/llama-3-with-function-calling-and-code-interpreter-55nb",
   "publish_date": "2024-04-26",
   "published_at": "2024-04-26T02:55:58Z"
- },
- {
-  "id": 1820284,
-  "title": "Hosting old Node Projects 👴🏼",
-  "description": "A while ago, a friend of mine asked me to help him extend an old NodeJS project. But when we finished...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7no77vln7k6fkt50m9b1.jpg",
-  "slug": "hosting-old-node-projects-3cgl",
-  "url": "https://dev.to/nuxt-wimadev/hosting-old-node-projects-3cgl",
-  "publish_date": "2024-04-25",
-  "published_at": "2024-04-25T15:54:09Z"
- },
- {
-  "id": 1834309,
-  "title": "Como Cultivar Empatia com os Colegas da Squad: Dicas para um Ambiente de Trabalho Saudável",
-  "description": "Squad é o nome que damos ao time de tecnologia, que geralmente é composto por uma liderança,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F27xsei1sws1g16ga7z7i.png",
-  "slug": "como-cultivar-empatia-com-os-colegas-da-squad-dicas-para-um-ambiente-de-trabalho-saudavel-3fkj",
-  "url": "https://dev.to/kecbm/como-cultivar-empatia-com-os-colegas-da-squad-dicas-para-um-ambiente-de-trabalho-saudavel-3fkj",
-  "publish_date": "2024-04-25",
-  "published_at": "2024-04-25T15:29:04Z"
- },
- {
-  "id": 1834109,
-  "title": "The never-ending all-in-one software game...",
-  "description": "Beware of the never-ending board game with all-in-one platforms... Comment below if you've already...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhg7fptvnyei0kfid1mxb.jpg",
-  "slug": "the-never-ending-all-in-one-platform-game-9cb",
-  "url": "https://dev.to/buildwebcrumbs/the-never-ending-all-in-one-platform-game-9cb",
-  "publish_date": "2024-04-25",
-  "published_at": "2024-04-25T13:28:54Z"
- },
- {
-  "id": 1817078,
-  "title": "I fine-tuned my model on a new programming language. You can do it too! 🚀",
-  "description": "I have been using OpenAI ChatGPT-4 for a while now. I don't have a lot of bad stuff to say about...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfcxqxqiber1abxf89sq.png",
-  "slug": "i-fine-tuned-my-model-on-a-new-programming-language-you-can-do-it-too-449",
-  "url": "https://dev.to/github20k/i-fine-tuned-my-model-on-a-new-programming-language-you-can-do-it-too-449",
-  "publish_date": "2024-04-25",
-  "published_at": "2024-04-25T12:31:00Z"
- },
- {
-  "id": 1833802,
-  "title": "How to have AI onboard your users (Next.js, OpenAI, CopilotKit)",
-  "description": "TL;DR   In this article, you'll learn how to build an AI-powered campaign manager...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8e1yhkjfjlxvetwrg11r.gif",
-  "slug": "build-an-ai-powered-campaign-manager-nextjs-openai-copilotkit-59ii",
-  "url": "https://dev.to/copilotkit/build-an-ai-powered-campaign-manager-nextjs-openai-copilotkit-59ii",
-  "publish_date": "2024-04-25",
-  "published_at": "2024-04-25T09:38:35Z"
  }
 ]
