@@ -1,5 +1,55 @@
 [
  {
+  "id": 1948092,
+  "title": "8 Developer Tools You Should Try in 2024",
+  "description": "We, Developers, always try to use tools that can streamline our workflow and boost our...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz21l3b031jaox5raxlp6.png",
+  "slug": "8-developer-tools-you-should-try-in-2024-b8c",
+  "url": "https://dev.to/arindam_1729/8-developer-tools-you-should-try-in-2024-b8c",
+  "publish_date": "2024-08-05",
+  "published_at": "2024-08-05T19:57:33Z"
+ },
+ {
+  "id": 1945206,
+  "title": "Lighthouse vs. PageSpeed Insights: The Lack of Correlation",
+  "description": "What's the problem?   Have you ever run PageSpeed Insights (PSI) on your website only to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh353gfvvv3tmpdcnli52.png",
+  "slug": "lighthouse-vs-pagespeed-insights-the-lack-of-correlation-26d4",
+  "url": "https://dev.to/zerodays/lighthouse-vs-pagespeed-insights-the-lack-of-correlation-26d4",
+  "publish_date": "2024-08-05",
+  "published_at": "2024-08-05T12:23:00Z"
+ },
+ {
+  "id": 1948104,
+  "title": "Introducing AutoMQ: a cloud-native replacement of Apache Kafka",
+  "description": "Author: Xinyu Zhou, AutoMQ CTO   In the world of data, the need for efficient, reliable, and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Freflo1n6hy2yu66p30c1.png",
+  "slug": "introducing-automq-a-cloud-native-replacement-of-apache-kafka-kkc",
+  "url": "https://dev.to/automq/introducing-automq-a-cloud-native-replacement-of-apache-kafka-kkc",
+  "publish_date": "2024-08-05",
+  "published_at": "2024-08-05T07:40:14Z"
+ },
+ {
+  "id": 1948034,
+  "title": "The Ultimate Guide to Web Authentication: Comparing Session, JWT, SSO, and OAuth 2.0 in 2024",
+  "description": "Are you struggling to choose the right authentication method for your web application? You're not...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiswkkeklg40rw3ablm7w.jpg",
+  "slug": "the-ultimate-guide-to-web-authentication-comparing-session-jwt-sso-and-oauth-20-in-2024-2og0",
+  "url": "https://dev.to/vyan/the-ultimate-guide-to-web-authentication-comparing-session-jwt-sso-and-oauth-20-in-2024-2og0",
+  "publish_date": "2024-08-05",
+  "published_at": "2024-08-05T06:07:44Z"
+ },
+ {
+  "id": 1947922,
+  "title": "Mastering JavaScript and DOM Manipulation",
+  "description": "In this Lab, you'll step into the world of web development through the eyes of Alex, a budding web developer tasked with creating a dynamic personal finance tracker. To build a user-friendly application that allows users to input and track their daily expenses and income. The goal is clear - to develop an interface that's both intuitive and engaging, ensuring users can easily manage their finances without any hassle. This project not only aims to simplify personal finance management but also to introduce you to the fundamental concepts of JavaScript and DOM manipulation.",
+  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--i3CLIEn2--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://images.unsplash.com/photo-1610576660726-1b2704ee0550%3Fixid%3DM3w2MjA5Njl8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjI4MjgyODZ8%26ixlib%3Drb-4.0.3%3Ffm%3Djpg%26w%3D1000%26h%3D420%26fit%3Dcrop",
+  "slug": "mastering-javascript-and-dom-manipulation-3e3e",
+  "url": "https://dev.to/labex/mastering-javascript-and-dom-manipulation-3e3e",
+  "publish_date": "2024-08-05",
+  "published_at": "2024-08-05T03:24:47Z"
+ },
+ {
   "id": 1946320,
   "title": "🙅 Why Hating TypeScript in 2024 Doesn't Make Sense",
   "description": "I've been seeing this trend lately: more and more developers bashing TypeScript. The gripes range...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/somadevtoo/top-50-system-design-interview-questions-for-2024-5dbk",
   "publish_date": "2024-04-27",
   "published_at": "2024-04-27T07:24:06Z"
- },
- {
-  "id": 1833967,
-  "title": "🌱 8 seed stage OS projects you should pay attention to 👀",
-  "description": "Hey friends 👋  Every week, our team at Quine scans the open-source ecosystem for great projects to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5fnkww1shi8jtwg5dswh.gif",
-  "slug": "8-seed-round-os-projects-you-should-pay-attention-to-m2i",
-  "url": "https://dev.to/quine/8-seed-round-os-projects-you-should-pay-attention-to-m2i",
-  "publish_date": "2024-04-26",
-  "published_at": "2024-04-26T14:06:35Z"
- },
- {
-  "id": 1834369,
-  "title": "Shell Programming",
-  "description": "In today's rapidly evolving tech landscape, mastering the command line streamlines the development...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fza3i2duw5lezggbmvyi5.png",
-  "slug": "shell-programming-4k65",
-  "url": "https://dev.to/ollie20/shell-programming-4k65",
-  "publish_date": "2024-04-26",
-  "published_at": "2024-04-26T10:11:17Z"
- },
- {
-  "id": 1834995,
-  "title": "Earth Day Frontend Challenge: Where Creativity Meets the Cosmos!",
-  "description": "Discover the Beauty of Earth: Frontend Challenge!            What I Built   For the Frontend...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyhyeiciwuefjwlowja11.png",
-  "slug": "earth-day-frontend-challenge-where-creativity-meets-the-cosmos-19gb",
-  "url": "https://dev.to/chintanonweb/earth-day-frontend-challenge-where-creativity-meets-the-cosmos-19gb",
-  "publish_date": "2024-04-26",
-  "published_at": "2024-04-26T09:31:49Z"
- },
- {
-  "id": 1834543,
-  "title": "What was your win this week?",
-  "description": "Hey! 👋  You made it. It's officially Friday. 😎  Looking back on this past week, what was something...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg69qs2cyguc1b84rkuni.jpg",
-  "slug": "what-was-your-win-this-week-2h56",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-2h56",
-  "publish_date": "2024-04-26",
-  "published_at": "2024-04-26T09:00:00Z"
- },
- {
-  "id": 1834732,
-  "title": "Llama 3 with Function Calling and Code Interpreter",
-  "description": "At this moment, Llama 3 is one of the most capable open-source models. In this guide, we give Llama 3...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp78ycll37fh2ys51pr0u.png",
-  "slug": "llama-3-with-function-calling-and-code-interpreter-55nb",
-  "url": "https://dev.to/tereza_tizkova/llama-3-with-function-calling-and-code-interpreter-55nb",
-  "publish_date": "2024-04-26",
-  "published_at": "2024-04-26T02:55:58Z"
  }
 ]
