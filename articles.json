@@ -1,5 +1,55 @@
 [
  {
+  "id": 1955729,
+  "title": "TailGrids React: 600+ Tailwind CSS React UI Components",
+  "description": "We’re excited to introduce TailGrids React, your new go-to toolkit for easily building stunning,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3z2jhf6rk1o18fvzzzfb.png",
+  "slug": "tailgrids-react-600-tailwind-css-react-ui-components-n6c",
+  "url": "https://dev.to/tailwindcss/tailgrids-react-600-tailwind-css-react-ui-components-n6c",
+  "publish_date": "2024-08-11",
+  "published_at": "2024-08-11T20:47:36Z"
+ },
+ {
+  "id": 1955522,
+  "title": "Dear developers ...",
+  "description": "Dear developers,  After 10 years in the software development world, I’ve learned a thing or two—some...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1f42513r97a7hei20oo.png",
+  "slug": "dear-developers--4101",
+  "url": "https://dev.to/harimanok/dear-developers--4101",
+  "publish_date": "2024-08-11",
+  "published_at": "2024-08-11T15:14:51Z"
+ },
+ {
+  "id": 1954314,
+  "title": "How to Scrape Data From a Page With Infinite Scroll! ♾️",
+  "description": "Web scraping can get challenging when dealing with dynamically loaded content. Modern websites often...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybv2hn836hfzqj3728vz.jpg",
+  "slug": "how-to-scrape-data-from-a-page-with-infinite-scroll-2enk",
+  "url": "https://dev.to/karanrathod316/how-to-scrape-data-from-a-page-with-infinite-scroll-2enk",
+  "publish_date": "2024-08-11",
+  "published_at": "2024-08-11T08:07:18Z"
+ },
+ {
+  "id": 1954345,
+  "title": "How CORS actually works behind the scenes",
+  "description": "Cross-Origin Resource Sharing (CORS) is a crucial security mechanism implemented by web browsers to...",
+  "cover_image": "",
+  "slug": "how-cors-actually-works-behind-the-scenes-5304",
+  "url": "https://dev.to/shanu001x/how-cors-actually-works-behind-the-scenes-5304",
+  "publish_date": "2024-08-11",
+  "published_at": "2024-08-11T06:30:00Z"
+ },
+ {
+  "id": 1955030,
+  "title": "GitOps: The Game-Changer in Software Delivery and Infrastructure Management",
+  "description": "Are you tired of juggling multiple tools and processes to manage your software deployments? Enter...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F87orbjhvip791g9tx8jp.png",
+  "slug": "gitops-the-game-changer-in-software-delivery-and-infrastructure-management-3ibd",
+  "url": "https://dev.to/vyan/gitops-the-game-changer-in-software-delivery-and-infrastructure-management-3ibd",
+  "publish_date": "2024-08-11",
+  "published_at": "2024-08-11T04:09:01Z"
+ },
+ {
   "id": 1953572,
   "title": "Building a Scalable Notifications and Alerting System 🔥🚀",
   "description": "Table of Contents:    Introduction The Idea Application Flow Assumptions Low Level...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shubhambattoo/you-dont-need-dotenv-9",
   "publish_date": "2024-05-02",
   "published_at": "2024-05-02T08:02:12Z"
- },
- {
-  "id": 1839850,
-  "title": "Local simulation of serverless function concurrency",
-  "description": "Wing newsletter and changelog",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnmmvbj1n7wth2lp0xem7.png",
-  "slug": "inflight-magazine-no-9-4fdh",
-  "url": "https://dev.to/winglang/inflight-magazine-no-9-4fdh",
-  "publish_date": "2024-05-01",
-  "published_at": "2024-05-01T18:09:20Z"
- },
- {
-  "id": 1839835,
-  "title": "Some great first posts from new authors in April 💞",
-  "description": "Happy May!   I'm continuing my new monthly habit where I take a look at posts published by new...",
-  "cover_image": "",
-  "slug": "some-great-first-posts-from-new-authors-in-march-21o0",
-  "url": "https://dev.to/jess/some-great-first-posts-from-new-authors-in-march-21o0",
-  "publish_date": "2024-05-01",
-  "published_at": "2024-05-01T17:38:16Z"
- },
- {
-  "id": 1838949,
-  "title": "Featured Org of the Month: Green Software Foundation",
-  "description": "We're back with another entry in our new series Featured Org of the Month! Below we interview the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkqerbtwtradgxrfg2uzn.jpg",
-  "slug": "featured-org-of-the-month-green-software-foundation-41a3",
-  "url": "https://dev.to/devteam/featured-org-of-the-month-green-software-foundation-41a3",
-  "publish_date": "2024-05-01",
-  "published_at": "2024-05-01T15:35:26Z"
- },
- {
-  "id": 1834289,
-  "title": "Join us for the Netlify Dynamic Site Challenge: $3,000 in Prizes!",
-  "description": "Certify your skills, win cash prizes, and gain experience with Netlify’s new Agnostic Platform Primitives.",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flbcz1t2nzsbn3ygf1jx3.jpg",
-  "slug": "join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn",
-  "url": "https://dev.to/devteam/join-us-for-the-netlify-dynamic-site-challenge-3000-in-prizes-3mfn",
-  "publish_date": "2024-05-01",
-  "published_at": "2024-05-01T14:37:57Z"
- },
- {
-  "id": 1839380,
-  "title": "Bra Asks Yuhang Jia: Saying Goodbye to \"Artificial Stupidity\"? AI Training Data Providers Rectify the Names of AI",
-  "description": "Guest: Yuhang Jia Yuhang Jia, the general Manager at Cloud Testing Service (CTS), has extensive...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs302zixolj509q0kl7f0.png",
-  "slug": "bra-asks-yuhang-jia-saying-goodbye-to-artificial-stupidity-ai-training-data-providers-rectify-the-names-of-ai-4862",
-  "url": "https://dev.to/naizhao/bra-asks-yuhang-jia-saying-goodbye-to-artificial-stupidity-ai-training-data-providers-rectify-the-names-of-ai-4862",
-  "publish_date": "2024-05-01",
-  "published_at": "2024-05-01T08:45:59Z"
  }
 ]
