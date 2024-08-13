@@ -1,5 +1,55 @@
 [
  {
+  "id": 1956846,
+  "title": "Configuring Multiple Ports With Nginx Reverse Proxies on the Same Domain",
+  "description": "Recently, while working on one of the projects, I was stuck in a situation where I wanted to run two...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fooznm9neldudwr7r7y53.png",
+  "slug": "configuring-multiple-ports-with-nginx-reverse-proxies-on-the-same-domain-57ga",
+  "url": "https://dev.to/aws-builders/configuring-multiple-ports-with-nginx-reverse-proxies-on-the-same-domain-57ga",
+  "publish_date": "2024-08-12",
+  "published_at": "2024-08-12T18:25:59Z"
+ },
+ {
+  "id": 1956620,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj7txnjum21zr5mamacpg.png",
+  "slug": "meme-monday-el7",
+  "url": "https://dev.to/ben/meme-monday-el7",
+  "publish_date": "2024-08-12",
+  "published_at": "2024-08-12T14:49:16Z"
+ },
+ {
+  "id": 1956355,
+  "title": "DocOps For Beginners: All You Need To Know",
+  "description": "Going ahead with my drive for professional development, I  am taking a deeper dive into Documentation...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawup5hk84cier82yu43e.png",
+  "slug": "docops-for-beginners-all-you-need-to-know-2ldh",
+  "url": "https://dev.to/dumebii/docops-for-beginners-all-you-need-to-know-2ldh",
+  "publish_date": "2024-08-12",
+  "published_at": "2024-08-12T11:11:22Z"
+ },
+ {
+  "id": 1954021,
+  "title": "I Built an Event Scheduler in NodeJs using Google Calendar API 🚀",
+  "description": "Introduction   Since COVID, my calendar has been full of stand-ups, team meetings, and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuuiumwi68jlfkadb7xt.gif",
+  "slug": "i-built-an-event-scheduler-in-nodejs-using-google-calendar-api-4c5b",
+  "url": "https://dev.to/arindam_1729/i-built-an-event-scheduler-in-nodejs-using-google-calendar-api-4c5b",
+  "publish_date": "2024-08-12",
+  "published_at": "2024-08-12T05:51:45Z"
+ },
+ {
+  "id": 1955889,
+  "title": "Unlocking the Power of Google OAuth 2.0 with Passport.js: A Step-by-Step Guide",
+  "description": "Hey there, fellow developers! 👋 Are you ready to level up your authentication game? Today, we're...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1r21qlatvjgfdoslvqh.png",
+  "slug": "unlocking-the-power-of-google-oauth-20-with-passportjs-a-step-by-step-guide-2409",
+  "url": "https://dev.to/vyan/unlocking-the-power-of-google-oauth-20-with-passportjs-a-step-by-step-guide-2409",
+  "publish_date": "2024-08-12",
+  "published_at": "2024-08-12T03:10:27Z"
+ },
+ {
   "id": 1955729,
   "title": "TailGrids React: 600+ Tailwind CSS React UI Components",
   "description": "We’re excited to introduce TailGrids React, your new go-to toolkit for easily building stunning,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/respect17/whats-new-in-react-19-1od9",
   "publish_date": "2024-05-03",
   "published_at": "2024-05-03T02:36:41Z"
- },
- {
-  "id": 1832218,
-  "title": "Showcase your open source project at top developer conferences in Berlin this summer 🇩🇪",
-  "description": "This June and July, we are thrilled to partner with our friends at GitButler and WeAreDevelopers to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuhcfbu3yjog6n9bcsogh.png",
-  "slug": "showcase-your-open-source-project-at-top-developer-conferences-in-berlin-this-summer-5aki",
-  "url": "https://dev.to/github/showcase-your-open-source-project-at-top-developer-conferences-in-berlin-this-summer-5aki",
-  "publish_date": "2024-05-02",
-  "published_at": "2024-05-02T16:55:16Z"
- },
- {
-  "id": 1840077,
-  "title": "How Open Source can make you code better",
-  "description": "Hey there! 👋🏼  If you've ever wondered how you can get better at coding and maybe even have a bit...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcuqv2cx0bgcfrm9zuo0r.png",
-  "slug": "how-open-source-can-make-you-code-better-42nf",
-  "url": "https://dev.to/buildwebcrumbs/how-open-source-can-make-you-code-better-42nf",
-  "publish_date": "2024-05-02",
-  "published_at": "2024-05-02T14:13:25Z"
- },
- {
-  "id": 1839088,
-  "title": "Entendendo State Pattern - Flutter",
-  "description": "No universo Flutter, encontramos diversas formas de lidar com gerência de estado e de aplicar as...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxqf43trbg7blt8fhce6.png",
-  "slug": "entendendo-state-pattern-flutter-3anp",
-  "url": "https://dev.to/adryannekelly/entendendo-state-pattern-flutter-3anp",
-  "publish_date": "2024-05-02",
-  "published_at": "2024-05-02T12:09:50Z"
- },
- {
-  "id": 1835962,
-  "title": "🕸️ Web development trends we will see in 2024 👀",
-  "description": "As we're already chugging along into the new year, it's the perfect time to take a look into what...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxtcxp1e7fj2sdm2trsgy.jpg",
-  "slug": "web-development-trends-we-will-see-in-2024-55pi",
-  "url": "https://dev.to/wasp/web-development-trends-we-will-see-in-2024-55pi",
-  "publish_date": "2024-05-02",
-  "published_at": "2024-05-02T11:56:14Z"
- },
- {
-  "id": 1840327,
-  "title": "You don't need dotenv.",
-  "description": "Environment variables are very important while developing with Node.js, it essentially allows your...",
-  "cover_image": "",
-  "slug": "you-dont-need-dotenv-9",
-  "url": "https://dev.to/shubhambattoo/you-dont-need-dotenv-9",
-  "publish_date": "2024-05-02",
-  "published_at": "2024-05-02T08:02:12Z"
  }
 ]
