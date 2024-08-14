@@ -1,5 +1,55 @@
 [
  {
+  "id": 1958139,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyuxqb5x40xuhr35ytwo5.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-3hng",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hng",
+  "publish_date": "2024-08-13",
+  "published_at": "2024-08-13T18:28:07Z"
+ },
+ {
+  "id": 1957902,
+  "title": "🚀 Have you ever made or discovered a useful library? Share it! ✨",
+  "description": "Hey everyone! 👋 Let's have some fun sharing cool code libraries we've made or discovered recently....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3rxkg365jzbm1djw9q5.png",
+  "slug": "have-you-every-made-a-library-share-it-a15",
+  "url": "https://dev.to/best_codes/have-you-every-made-a-library-share-it-a15",
+  "publish_date": "2024-08-13",
+  "published_at": "2024-08-13T14:06:55Z"
+ },
+ {
+  "id": 1956727,
+  "title": "✨I Built an AI Bot Under 65 Lines of Code That Checks My New Emails and Send People Invites📧🚀",
+  "description": "Lately, my calendar has become so hectic that I could really use some help managing it. In fact, I...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bc7i3qmxpacqno4qd6c.gif",
+  "slug": "i-built-an-ai-bot-under-65-lines-of-code-that-checks-my-new-emails-and-send-people-invites-ghh",
+  "url": "https://dev.to/composiodev/i-built-an-ai-bot-under-65-lines-of-code-that-checks-my-new-emails-and-send-people-invites-ghh",
+  "publish_date": "2024-08-13",
+  "published_at": "2024-08-13T13:33:09Z"
+ },
+ {
+  "id": 1957351,
+  "title": "Introducing Dev Encyclopedia: A \"Wikipedia\", but for developers",
+  "description": "Hello fellow developers!  Have you ever been stuck with technical jargon, concepts, or tool names?...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn96pc0ompd7o8oaigney.png",
+  "slug": "introducing-dev-encyclopedia-a-wikipedia-but-for-developers-268e",
+  "url": "https://dev.to/buzzpy/introducing-dev-encyclopedia-a-wikipedia-but-for-developers-268e",
+  "publish_date": "2024-08-13",
+  "published_at": "2024-08-13T05:47:55Z"
+ },
+ {
+  "id": 1957190,
+  "title": "7 Free APIs for Your Next Projects",
+  "description": "1. Mapbox API Example   Mapbox offers comprehensive tools and accurate location data that...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8vklufcxx8wshfa09u1n.png",
+  "slug": "7-free-apis-for-your-next-projects-50n3",
+  "url": "https://dev.to/vyan/7-free-apis-for-your-next-projects-50n3",
+  "publish_date": "2024-08-13",
+  "published_at": "2024-08-13T04:20:31Z"
+ },
+ {
   "id": 1956846,
   "title": "Configuring Multiple Ports With Nginx Reverse Proxies on the Same Domain",
   "description": "Recently, while working on one of the projects, I was stuck in a situation where I wanted to run two...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/andrel/um-experimento-social-com-soft-skills-328f",
   "publish_date": "2024-05-04",
   "published_at": "2024-05-04T00:56:50Z"
- },
- {
-  "id": 1256430,
-  "title": "So I got fired",
-  "description": "Lets talk about that",
-  "cover_image": "",
-  "slug": "so-i-got-fired-3ko5",
-  "url": "https://dev.to/darkliahos/so-i-got-fired-3ko5",
-  "publish_date": "2024-05-03",
-  "published_at": "2024-05-03T15:06:08Z"
- },
- {
-  "id": 1841659,
-  "title": "What are passkeys and how do they work?",
-  "description": "Passkeys are a big step towards a passwordless future.  Allowing users the ability to sign in with...",
-  "cover_image": "",
-  "slug": "what-are-passkeys-and-how-do-they-work-mgi",
-  "url": "https://dev.to/clerk/what-are-passkeys-and-how-do-they-work-mgi",
-  "publish_date": "2024-05-03",
-  "published_at": "2024-05-03T14:47:40Z"
- },
- {
-  "id": 1834544,
-  "title": "What was your win this week?",
-  "description": "What up y'all?!  Hope everybody has had a nice successful week. 🙌  Looking back on this past week,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg69qs2cyguc1b84rkuni.jpg",
-  "slug": "what-was-your-win-this-week-280o",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-280o",
-  "publish_date": "2024-05-03",
-  "published_at": "2024-05-03T11:06:00Z"
- },
- {
-  "id": 1841226,
-  "title": "Building Your WordPress Dream Home on AWS EC2: A Step-by-Step Guide with Security in Mind 🎉",
-  "description": "Building Your WordPress Dream Home on AWS EC2: A Step-by-Step Guide with Security in Mind...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbdrpo0o2dw81cghlcu5e.jpg",
-  "slug": "building-your-wordpress-dream-home-on-aws-ec2-a-step-by-step-guide-with-security-in-mind-2d9k",
-  "url": "https://dev.to/abhinavk454/building-your-wordpress-dream-home-on-aws-ec2-a-step-by-step-guide-with-security-in-mind-2d9k",
-  "publish_date": "2024-05-03",
-  "published_at": "2024-05-03T07:14:57Z"
- },
- {
-  "id": 1841119,
-  "title": "What's new in React 19?",
-  "description": "Simplifying State Management with Actions in React 19!   Hey there, React devs! Exciting...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgviznlkpekghvkis34mh.png",
-  "slug": "whats-new-in-react-19-1od9",
-  "url": "https://dev.to/respect17/whats-new-in-react-19-1od9",
-  "publish_date": "2024-05-03",
-  "published_at": "2024-05-03T02:36:41Z"
  }
 ]
