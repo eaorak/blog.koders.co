@@ -1,5 +1,55 @@
 [
  {
+  "id": 1959372,
+  "title": "DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres",
+  "description": "At DEV, our commitment to open-source development drives our decision-making process, especially...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfzgngtt9u3hn9awtetl.png",
+  "slug": "dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845",
+  "url": "https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845",
+  "publish_date": "2024-08-14",
+  "published_at": "2024-08-14T16:33:23Z"
+ },
+ {
+  "id": 1946974,
+  "title": "How I Upped My Frontend Game with Generative UI 🧑‍💻🌠",
+  "description": "TL;DR   In this tutorial, you'll learn what Generative UI is and how to use it to provide a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2xek2kawnye324arbc37.gif",
+  "slug": "how-i-upped-my-frontend-game-with-generative-ui-4fhc",
+  "url": "https://dev.to/copilotkit/how-i-upped-my-frontend-game-with-generative-ui-4fhc",
+  "publish_date": "2024-08-14",
+  "published_at": "2024-08-14T12:06:41Z"
+ },
+ {
+  "id": 1958945,
+  "title": "How to Translate Your Next.js App in 5 Minutes With Crowdin",
+  "description": "For the majority of websites using content management systems such as Webflow or WordPress,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fliu4w4wdkgeikbmwefaq.png",
+  "slug": "how-to-translate-your-nextjs-app-in-5-minutes-with-crowdin-1pe0",
+  "url": "https://dev.to/zerodays/how-to-translate-your-nextjs-app-in-5-minutes-with-crowdin-1pe0",
+  "publish_date": "2024-08-14",
+  "published_at": "2024-08-14T11:00:48Z"
+ },
+ {
+  "id": 1951390,
+  "title": "7 Steps To Become A Prompt Engineer",
+  "description": "Introduction   Hello there, dear reader! If you’re looking for an article where you’ll...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lc1k8ggpzbko9x3mpm9.png",
+  "slug": "7-steps-to-become-a-prompt-engineer-4am8",
+  "url": "https://dev.to/latitude/7-steps-to-become-a-prompt-engineer-4am8",
+  "publish_date": "2024-08-14",
+  "published_at": "2024-08-14T09:40:42Z"
+ },
+ {
+  "id": 1958804,
+  "title": "How to let ChatGPT call functions in your app",
+  "description": "You can now give OpenAI access to your app’s APIs when answering prompts. This means, with just a few...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudonirq21lqe3oqc1r71.png",
+  "slug": "how-to-let-chatgpt-call-functions-in-your-app-27j8",
+  "url": "https://dev.to/encore/how-to-let-chatgpt-call-functions-in-your-app-27j8",
+  "publish_date": "2024-08-14",
+  "published_at": "2024-08-14T09:05:21Z"
+ },
+ {
   "id": 1958139,
   "title": "Top 7 Featured DEV Posts of the Week",
   "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/miguelrodriguezp99/bento-catalog-web-35le",
   "publish_date": "2024-05-05",
   "published_at": "2024-05-05T03:50:48Z"
- },
- {
-  "id": 1842568,
-  "title": "Basic Sorting Algorithms",
-  "description": "Data organization is crucial in today’s digital world. Sorting algorithms are the silent heroes...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw9cyrjl3xwqbw40uywib.jpg",
-  "slug": "basic-sorting-5h20",
-  "url": "https://dev.to/m__mdy__m/basic-sorting-5h20",
-  "publish_date": "2024-05-04",
-  "published_at": "2024-05-04T14:13:37Z"
- },
- {
-  "id": 1842500,
-  "title": "New AI Frontend Tool Released This Week",
-  "description": "We've opened up to the world a Frontend AI tool 👀 that we've been using internally to speed up our...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsnkfwtjmeyz0mc1mjpya.png",
-  "slug": "new-ai-frontend-tool-released-this-week-96f",
-  "url": "https://dev.to/buildwebcrumbs/new-ai-frontend-tool-released-this-week-96f",
-  "publish_date": "2024-05-04",
-  "published_at": "2024-05-04T12:58:50Z"
- },
- {
-  "id": 1842200,
-  "title": "Implementing 3D Graphics in React",
-  "description": "3D is an exciting area in computer science, and it could range from creating 3D shapes, vectors,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq68zilwxdckwfmvuheho.png",
-  "slug": "implementing-3d-graphics-in-react-9mg",
-  "url": "https://dev.to/markyu/implementing-3d-graphics-in-react-9mg",
-  "publish_date": "2024-05-04",
-  "published_at": "2024-05-04T05:03:36Z"
- },
- {
-  "id": 1842193,
-  "title": "AWS fundamental RoadMap 🎯",
-  "description": "Hello devs! 🫶🏻 Here is roadmap of AWS fundamentals, everything you need to hit your full stack...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbqve4ogleu8vgpzgjbfr.jpg",
-  "slug": "aws-fundamental-roadmap-cb2",
-  "url": "https://dev.to/khushindpatel/aws-fundamental-roadmap-cb2",
-  "publish_date": "2024-05-04",
-  "published_at": "2024-05-04T04:38:29Z"
- },
- {
-  "id": 1842017,
-  "title": "Um Experimento Social Com Soft Skills",
-  "description": "Um Experimento Social   Olá turma, hoje eu quero contar para vocês uma das maiores lições...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgf56kag32xtr7fsyhfvr.png",
-  "slug": "um-experimento-social-com-soft-skills-328f",
-  "url": "https://dev.to/andrel/um-experimento-social-com-soft-skills-328f",
-  "publish_date": "2024-05-04",
-  "published_at": "2024-05-04T00:56:50Z"
  }
 ]
