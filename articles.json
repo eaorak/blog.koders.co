@@ -1,5 +1,55 @@
 [
  {
+  "id": 1963557,
+  "title": "I got tired of solving issues over GitHub, so I created my own AI bot... 🤔",
+  "description": "TL;DR   In this article, you will build an AI coder to fix your GitHub codebase's...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsj7bf8ntf10ht1p80j5a.gif",
+  "slug": "i-got-tired-of-solving-issues-over-github-so-i-created-my-own-ai-bot-1m0i",
+  "url": "https://dev.to/composiodev/i-got-tired-of-solving-issues-over-github-so-i-created-my-own-ai-bot-1m0i",
+  "publish_date": "2024-08-19",
+  "published_at": "2024-08-19T13:19:53Z"
+ },
+ {
+  "id": 1964840,
+  "title": "Next.js + tRPC: Best practices for dApp development. Issuing new Assets + Freighter Wallet integration",
+  "description": "This is a submission for the Build Better on Stellar: Smart Contract Challenge : Create a Tutorial   ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjnnvqnrvh3gitlglztk.png",
+  "slug": "nextjs-trpc-best-practices-for-dapp-development-issuing-new-assets-freighter-wallet-integration-1jk6",
+  "url": "https://dev.to/jose_carlostoscano_3bb03/nextjs-trpc-best-practices-for-dapp-development-issuing-new-assets-freighter-wallet-integration-1jk6",
+  "publish_date": "2024-08-19",
+  "published_at": "2024-08-19T06:37:43Z"
+ },
+ {
+  "id": 1964834,
+  "title": "7 Essential React Tricks Every Beginner Should Master in 2024",
+  "description": "Are you just starting your journey with React? You're in for an exciting ride! React has...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc9mk8r4aci83lm6m7dp0.png",
+  "slug": "7-essential-react-tricks-every-beginner-should-master-in-2024-1kap",
+  "url": "https://dev.to/vyan/7-essential-react-tricks-every-beginner-should-master-in-2024-1kap",
+  "publish_date": "2024-08-19",
+  "published_at": "2024-08-19T06:30:31Z"
+ },
+ {
+  "id": 1959139,
+  "title": "How to Create Your Own Form with Power Automate",
+  "description": "I would say 99% of all Power Automate developers have worked with the MS forms connector. Gathering...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl9sqb602hxyb68rqyjn0.png",
+  "slug": "how-to-create-your-own-form-with-power-automate-4546",
+  "url": "https://dev.to/wyattdave/how-to-create-your-own-form-with-power-automate-4546",
+  "publish_date": "2024-08-19",
+  "published_at": "2024-08-19T05:47:18Z"
+ },
+ {
+  "id": 1964627,
+  "title": "Hermes: Decentralized Perpetual Exchange on Stellar",
+  "description": "This is a submission for the Build Better on Stellar: Smart Contract Challenge : Build a dApp       ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq6h38adviz76eua0ze7e.png",
+  "slug": "hermes-decentralized-perpetual-exchange-on-stellar-2l12",
+  "url": "https://dev.to/notishansingh/hermes-decentralized-perpetual-exchange-on-stellar-2l12",
+  "publish_date": "2024-08-19",
+  "published_at": "2024-08-19T00:37:29Z"
+ },
+ {
   "id": 1963136,
   "title": "🚀 Transform Ubuntu with These GNOME Tweaks! 🔥",
   "description": "Ubuntu Unleashed, Part 3: GNOME Tweaks and Extensions   Welcome back to the Ubuntu Unleashed...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/drruvari/mastering-solid-principles-in-react-easy-examples-and-best-practices-142b",
   "publish_date": "2024-05-10",
   "published_at": "2024-05-10T12:17:30Z"
- },
- {
-  "id": 1847648,
-  "title": "Top 10 JavaScript Animation Libraries",
-  "description": "Animation in JavaScript has advanced drastically in all directions you can imagine, from animating...",
-  "cover_image": "",
-  "slug": "top-10-javascript-animation-libraries-1km7",
-  "url": "https://dev.to/bybydev/top-10-javascript-animation-libraries-1km7",
-  "publish_date": "2024-05-09",
-  "published_at": "2024-05-09T14:19:43Z"
- },
- {
-  "id": 1847644,
-  "title": "MongoDB vs RabbitMQ: Choosing the Right Data Solution for your project",
-  "description": "I have recently started writing a lot of cloud-related articles. This is one of them.   In software...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj4ju9v33gcya9w60ctng.png",
-  "slug": "mongodb-vs-rabbitmq-choosing-the-right-data-solution-for-your-project-2fjo",
-  "url": "https://dev.to/dumebii/mongodb-vs-rabbitmq-choosing-the-right-data-solution-for-your-project-2fjo",
-  "publish_date": "2024-05-09",
-  "published_at": "2024-05-09T14:09:29Z"
- },
- {
-  "id": 1847545,
-  "title": "Create an AI Chart Generator Using ToolJet and OpenAI",
-  "description": "In this byte-sized tutorial, we will build an AI Chart Generator using ToolJet and OpenAI. The chart...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0cnq79fsz1wy9zwdh4b4.png",
-  "slug": "create-an-ai-chart-generator-using-tooljet-and-openai-2l9",
-  "url": "https://dev.to/tooljet/create-an-ai-chart-generator-using-tooljet-and-openai-2l9",
-  "publish_date": "2024-05-09",
-  "published_at": "2024-05-09T13:25:38Z"
- },
- {
-  "id": 1847555,
-  "title": "I Made a Free Tool to Know My Stargazers 🌟",
-  "description": "I have been thinking about the people supporting our repo lately. Every new stargazer means a lot to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnyd3kwisg5sz5kavb4ak.png",
-  "slug": "i-made-a-free-tool-to-know-my-stargazers-10l2",
-  "url": "https://dev.to/latitude/i-made-a-free-tool-to-know-my-stargazers-10l2",
-  "publish_date": "2024-05-09",
-  "published_at": "2024-05-09T12:53:55Z"
- },
- {
-  "id": 1846437,
-  "title": "Optimizing React Table Rendering By 160x !!!",
-  "description": "React is \"generally\" a performant framework.. notice the \"\" on generally, Yeah that is because at...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faw1i3stfoggaajc8gecn.png",
-  "slug": "optimizing-react-table-rendering-by-160x--5g3c",
-  "url": "https://dev.to/navneet7716/optimizing-react-table-rendering-by-160x--5g3c",
-  "publish_date": "2024-05-09",
-  "published_at": "2024-05-09T04:20:34Z"
  }
 ]
