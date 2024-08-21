@@ -1,5 +1,55 @@
 [
  {
+  "id": 1966698,
+  "title": "Shepherd: Guide your users with a new JavaScript library",
+  "description": "\"A person who protects, guides, or watches over a sheep or flocks of sheep is called a Shepherd\". But...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpejxxo0p421ihxnnkss8.gif",
+  "slug": "devs-shepherding-with-shepherd-1jl2",
+  "url": "https://dev.to/rohan_sharma/devs-shepherding-with-shepherd-1jl2",
+  "publish_date": "2024-08-20",
+  "published_at": "2024-08-20T13:47:45Z"
+ },
+ {
+  "id": 1965872,
+  "title": "How To Add Auth With Lucia To Your React/Next.js App - A Step By Step Guide",
+  "description": "Although authentication is one of the most common web app features, there are so many different ways...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ugqsevpzw1yh8g3ezr3.png",
+  "slug": "how-to-add-auth-with-lucia-to-your-reactnextjs-app-a-step-by-step-guide-114e",
+  "url": "https://dev.to/wasp/how-to-add-auth-with-lucia-to-your-reactnextjs-app-a-step-by-step-guide-114e",
+  "publish_date": "2024-08-20",
+  "published_at": "2024-08-20T12:11:19Z"
+ },
+ {
+  "id": 1966281,
+  "title": "Deploy Your Express Backend in Vercel for Free 🚀⚡",
+  "description": "Introduction   Have you ever struggled with deploying your backend application?  Don't worry...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvy906s51a356m8amkrzt.png",
+  "slug": "deploy-your-express-backend-in-vercel-for-free-1321",
+  "url": "https://dev.to/arindam_1729/deploy-your-express-backend-in-vercel-for-free-1321",
+  "publish_date": "2024-08-20",
+  "published_at": "2024-08-20T11:56:22Z"
+ },
+ {
+  "id": 1966446,
+  "title": "Bye Bye, Try-Catch Blocks: Meet JavaScript's Safe Assignment Operator Proposal😉",
+  "description": "Introduction   JavaScript error handling is about to get a major upgrade. The new ECMAScript...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2m4efkbmn6t8ciyplclf.png",
+  "slug": "bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-1j7",
+  "url": "https://dev.to/dharamgfx/bye-bye-try-catch-blocks-meet-javascripts-safe-assignment-operator-proposal-1j7",
+  "publish_date": "2024-08-20",
+  "published_at": "2024-08-20T10:34:06Z"
+ },
+ {
+  "id": 1966051,
+  "title": "Mastering SOLID Principles in React: Elevating Your Code Quality",
+  "description": "When it comes to developing robust, maintainable, and scalable React applications, applying SOLID...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyrywgcdnlazut04gu5k2.png",
+  "slug": "mastering-solid-principles-in-react-elevating-your-code-quality-2c6h",
+  "url": "https://dev.to/vyan/mastering-solid-principles-in-react-elevating-your-code-quality-2c6h",
+  "publish_date": "2024-08-20",
+  "published_at": "2024-08-20T04:28:19Z"
+ },
+ {
   "id": 1963557,
   "title": "I got tired of solving issues over GitHub, so I created my own AI bot... 🤔",
   "description": "TL;DR   In this article, you will build an AI coder to fix your GitHub codebase's...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mattlewandowski93/netlify-image-game-1pk0",
   "publish_date": "2024-05-11",
   "published_at": "2024-05-11T04:45:18Z"
- },
- {
-  "id": 1848846,
-  "title": "10 Signs You've Been Coding Too Much",
-  "description": "A little humor for this Friday, anyone? Have you ever wondered if those hours in front of the screen...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff5vi0wvws3bwcjol804h.png",
-  "slug": "10-signs-youve-been-coding-too-much-3c0e",
-  "url": "https://dev.to/buildwebcrumbs/10-signs-youve-been-coding-too-much-3c0e",
-  "publish_date": "2024-05-10",
-  "published_at": "2024-05-10T15:07:37Z"
- },
- {
-  "id": 1835963,
-  "title": "Dicas e configurações para seu sistema linux",
-  "description": "Fala meu consagrado, quando eu comecei a minha jornada no linux não tinha ninguém para me ajudar e...",
-  "cover_image": "",
-  "slug": "dicas-e-configuracoes-para-seu-sistema-linux-5dll",
-  "url": "https://dev.to/devhat/dicas-e-configuracoes-para-seu-sistema-linux-5dll",
-  "publish_date": "2024-05-10",
-  "published_at": "2024-05-10T13:55:52Z"
- },
- {
-  "id": 1846485,
-  "title": "What was your win this week? 🙌",
-  "description": "Hi peeps!   We're officially rolling into the week.  Looking back on this past week, what was...",
-  "cover_image": "",
-  "slug": "what-was-your-win-this-week-4hnp",
-  "url": "https://dev.to/devteam/what-was-your-win-this-week-4hnp",
-  "publish_date": "2024-05-10",
-  "published_at": "2024-05-10T13:31:00Z"
- },
- {
-  "id": 1848690,
-  "title": "Should we be adding Keyboard Shortcuts to our websites?",
-  "description": "I remember when I was young, and sometimes the mouse would just stop working. When that happened, oh,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsy4nge09zs4x75u48oto.png",
-  "slug": "should-we-be-adding-keyboard-shortcuts-to-our-websites-16k",
-  "url": "https://dev.to/buildwebcrumbs/should-we-be-adding-keyboard-shortcuts-to-our-websites-16k",
-  "publish_date": "2024-05-10",
-  "published_at": "2024-05-10T12:22:51Z"
- },
- {
-  "id": 1848652,
-  "title": "Mastering S.O.L.I.D Principles in React: Easy Examples and Best Practices",
-  "description": "Single Responsibility Principle (SRP)   A component should have only one reason to change,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmm4mq2lgn6gi7vwdc3bu.png",
-  "slug": "mastering-solid-principles-in-react-easy-examples-and-best-practices-142b",
-  "url": "https://dev.to/drruvari/mastering-solid-principles-in-react-easy-examples-and-best-practices-142b",
-  "publish_date": "2024-05-10",
-  "published_at": "2024-05-10T12:17:30Z"
  }
 ]
