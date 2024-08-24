@@ -1,5 +1,55 @@
 [
  {
+  "id": 1971152,
+  "title": "Introducing Log Drains",
+  "description": "Supabase is releasing Log Drains for all Team and Enterprise users.  With Log Drains, developers can...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1mas8jxyc0fyrmiukog5.png",
+  "slug": "introducing-log-drains-1il8",
+  "url": "https://dev.to/supabase/introducing-log-drains-1il8",
+  "publish_date": "2024-08-23",
+  "published_at": "2024-08-23T19:24:09Z"
+ },
+ {
+  "id": 1966618,
+  "title": "5 Neuro-Hacks to Supercharge Your Focus",
+  "description": "Ever find yourself staring blankly at the screen, wondering why your brain refuses to cooperate?...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhvfpsor0e3gp6hesywy8.png",
+  "slug": "5-neuro-hacks-to-supercharge-your-focus-4795",
+  "url": "https://dev.to/middleware/5-neuro-hacks-to-supercharge-your-focus-4795",
+  "publish_date": "2024-08-23",
+  "published_at": "2024-08-23T18:48:44Z"
+ },
+ {
+  "id": 1970123,
+  "title": "The rise of self-hosted PaaS — is $5 VPS all you need?",
+  "description": "There's a little trend going on over at the developer community on X, jokingly called \"$5 VPS\" —...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh58fos7ddpxxf2i8wek.png",
+  "slug": "the-rise-of-self-hosted-paas-is-5-vps-all-you-need-55no",
+  "url": "https://dev.to/zeropsio/the-rise-of-self-hosted-paas-is-5-vps-all-you-need-55no",
+  "publish_date": "2024-08-23",
+  "published_at": "2024-08-23T06:08:12Z"
+ },
+ {
+  "id": 1970008,
+  "title": "Mastering React Router Hooks: A Comprehensive Guide",
+  "description": "React Router is an essential library for handling navigation in React applications. With the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuwoa7lvdwqnphcj0a968.jpg",
+  "slug": "mastering-react-router-hooks-a-comprehensive-guide-1o50",
+  "url": "https://dev.to/fullstackdevelper/mastering-react-router-hooks-a-comprehensive-guide-1o50",
+  "publish_date": "2024-08-23",
+  "published_at": "2024-08-23T03:43:21Z"
+ },
+ {
+  "id": 1970007,
+  "title": "Mastering React Router Hooks: A Comprehensive Guide",
+  "description": "React Router is an essential library for handling navigation in React applications. With the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fykbeznqukszou3dh0zwg.jpg",
+  "slug": "mastering-react-router-hooks-a-comprehensive-guide-4hm",
+  "url": "https://dev.to/vyan/mastering-react-router-hooks-a-comprehensive-guide-4hm",
+  "publish_date": "2024-08-23",
+  "published_at": "2024-08-23T03:41:52Z"
+ },
+ {
   "id": 1966645,
   "title": "Top 10 Tips to Get Started with Open Source and GSoC",
   "description": "During my sophomore year, I was applying for internships daily but had no luck. Then, I read a blog...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mattlewandowski93/arrayreduce-is-goated-1f1j",
   "publish_date": "2024-05-14",
   "published_at": "2024-05-14T08:00:41Z"
- },
- {
-  "id": 1851480,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "A round up of the most-read and most-loved contributions from the community this past week",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fizn8hfzc0bhki5h4cu15.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-7k7",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-7k7",
-  "publish_date": "2024-05-13",
-  "published_at": "2024-05-13T14:56:05Z"
- },
- {
-  "id": 1849204,
-  "title": "AI \u0026 Kubernetes",
-  "description": "Just like so many in the tech industry, Artificial Intelligence (AI) has come to the forefront in my...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fytzult6v0oxodq4cok56.png",
-  "slug": "ai-kubernetes-1957",
-  "url": "https://dev.to/googlecloud/ai-kubernetes-1957",
-  "publish_date": "2024-05-13",
-  "published_at": "2024-05-13T14:35:00Z"
- },
- {
-  "id": 1850834,
-  "title": "Start with features, not apps",
-  "description": "Quick one: Ever thought we've been designing apps all wrong? Yup, that's right. We're like those...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy6r82s1skwgem6t5hu9w.png",
-  "slug": "start-with-features-not-apps-20oc",
-  "url": "https://dev.to/buildwebcrumbs/start-with-features-not-apps-20oc",
-  "publish_date": "2024-05-13",
-  "published_at": "2024-05-13T10:07:00Z"
- },
- {
-  "id": 1848920,
-  "title": "What is RocksDB (and its role in streaming)?",
-  "description": "RocksDB, a high-performance database, is a hidden gem in the tech industry, often overlooked by...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2m6c61utpkjscla20p61.png",
-  "slug": "what-is-rocksdb-and-its-role-in-streaming-3bla",
-  "url": "https://dev.to/mrkandreev/what-is-rocksdb-and-its-role-in-streaming-3bla",
-  "publish_date": "2024-05-13",
-  "published_at": "2024-05-13T08:25:51Z"
- },
- {
-  "id": 1850829,
-  "title": "JavaScript Objects | Complete Guide",
-  "description": "JavaScript Objects   Similar to other programming languages javascript objects is a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6o5kp8znekiu3lbjgkp.png",
-  "slug": "objects-in-js-complete-guide-3gl8",
-  "url": "https://dev.to/scorcism/objects-in-js-complete-guide-3gl8",
-  "publish_date": "2024-05-13",
-  "published_at": "2024-05-13T01:57:31Z"
  }
 ]
