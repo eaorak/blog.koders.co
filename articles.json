@@ -1,5 +1,55 @@
 [
  {
+  "id": 1974187,
+  "title": "pg_graphql 1.5.7: pagination and multi-tenancy support",
+  "description": "What's new in pg_graphql 1.5.7   Since our last check-in on pg_graphql there have been a few...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff1lh2o9wheh9upnyrcyk.png",
+  "slug": "pggraphql-157-pagination-and-multi-tenancy-support-2je8",
+  "url": "https://dev.to/supabase/pggraphql-157-pagination-and-multi-tenancy-support-2je8",
+  "publish_date": "2024-08-26",
+  "published_at": "2024-08-26T17:34:24Z"
+ },
+ {
+  "id": 1973801,
+  "title": "Storefront hero sections for e-commerce built with Tailwind CSS and Flowbite",
+  "description": "Hey devs 👋  Today I would like to show you a couple of new components that we have built using...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsckgim5g041whcxo1jeo.png",
+  "slug": "storefront-hero-sections-for-e-commerce-built-with-tailwind-css-and-flowbite-3j8j",
+  "url": "https://dev.to/themesberg/storefront-hero-sections-for-e-commerce-built-with-tailwind-css-and-flowbite-3j8j",
+  "publish_date": "2024-08-26",
+  "published_at": "2024-08-26T13:38:57Z"
+ },
+ {
+  "id": 1973614,
+  "title": "Hash Map using Javascript",
+  "description": "Introduction    A Hash Map, also known as a Hash Table, is a data structure that implements...",
+  "cover_image": "",
+  "slug": "hash-map-using-javascript-5d03",
+  "url": "https://dev.to/ashutoshsarangi/hash-map-using-javascript-5d03",
+  "publish_date": "2024-08-26",
+  "published_at": "2024-08-26T11:54:59Z"
+ },
+ {
+  "id": 1973296,
+  "title": "🚀 Most Useful React Hooks for Your Next Project 🚀",
+  "description": "React hooks have revolutionized how we write components in React, making our code more readable,...",
+  "cover_image": "",
+  "slug": "most-useful-react-hooks-for-your-next-project-2l4i",
+  "url": "https://dev.to/vyan/most-useful-react-hooks-for-your-next-project-2l4i",
+  "publish_date": "2024-08-26",
+  "published_at": "2024-08-26T07:02:36Z"
+ },
+ {
+  "id": 1973263,
+  "title": "End-to-End DevOps Project: Building, Deploying, and Monitoring a Full-Stack Application",
+  "description": "Table of Contents    Introduction Project Overview Prerequisites  Step 1: Infrastructure...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuud1jfgtckfxxgd4wyto.png",
+  "slug": "end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako",
+  "url": "https://dev.to/prodevopsguytech/end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako",
+  "publish_date": "2024-08-26",
+  "published_at": "2024-08-26T06:07:32Z"
+ },
+ {
   "id": 1972652,
   "title": "The Solar System in CSS",
   "description": "The Solar System has been done in CSS a lot of times — just search Codepen! So why do it...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/whitep4nth3r/5-easy-tips-to-improve-your-personal-website-performance-32ng",
   "publish_date": "2024-05-17",
   "published_at": "2024-05-17T08:04:23Z"
- },
- {
-  "id": 1846625,
-  "title": "Building your own ChatGPT Graphical Client with NextJS and Wing 🤯",
-  "description": "A ChatGPT client app built with Winglang and NextJS",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvxr6ronuutg7wteue7q5.png",
-  "slug": "building-your-own-chatgpt-graphical-client-with-nextjs-and-wing-29jj",
-  "url": "https://dev.to/winglang/building-your-own-chatgpt-graphical-client-with-nextjs-and-wing-29jj",
-  "publish_date": "2024-05-16",
-  "published_at": "2024-05-16T14:56:39Z"
- },
- {
-  "id": 1855337,
-  "title": "Building a Personal Finance Tracker Using ToolJet",
-  "description": "Building apps on ToolJet is fast and convenient, but it gets even better when you couple it with...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsqjrlh5l355cz07w9a4o.png",
-  "slug": "building-a-personal-finance-tracker-using-tooljet-41d9",
-  "url": "https://dev.to/tooljet/building-a-personal-finance-tracker-using-tooljet-41d9",
-  "publish_date": "2024-05-16",
-  "published_at": "2024-05-16T14:10:38Z"
- },
- {
-  "id": 1847686,
-  "title": "7 Best Chart Libraries For Developers In 2024 🤯",
-  "description": "Many applications use charts or graphs for data visualization, which can be implemented using...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fydd0y6nbqfw07l8eerpj.png",
-  "slug": "7-best-chart-libraries-for-developers-in-2024-25he",
-  "url": "https://dev.to/latitude/7-best-chart-libraries-for-developers-in-2024-25he",
-  "publish_date": "2024-05-16",
-  "published_at": "2024-05-16T13:59:33Z"
- },
- {
-  "id": 1855192,
-  "title": "How To Build Your Own Newsletter App? p.1",
-  "description": "TL;DR   In this 2-part tutorial, I'll guide you through building a newsletter application...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9n0lgg4n9nxl3jfc1dwt.gif",
-  "slug": "how-to-build-your-own-newsletter-app-p1-25oh",
-  "url": "https://dev.to/novu/how-to-build-your-own-newsletter-app-p1-25oh",
-  "publish_date": "2024-05-16",
-  "published_at": "2024-05-16T11:02:07Z"
- },
- {
-  "id": 1854352,
-  "title": "50 Best Websites for Free HTML Templates",
-  "description": "This is a roundup of the best websites where you can find and download free HTML templates built with...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxgzlwadux2dyw7lzd1ef.jpg",
-  "slug": "50-best-websites-for-free-html-templates-1i2l",
-  "url": "https://dev.to/devluc/50-best-websites-for-free-html-templates-1i2l",
-  "publish_date": "2024-05-16",
-  "published_at": "2024-05-16T06:41:51Z"
  }
 ]
