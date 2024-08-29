@@ -1,5 +1,55 @@
 [
  {
+  "id": 1959209,
+  "title": "🚀How I integrated an AI copilot into Dub.co (in a few minutes)🤖✨",
+  "description": "In this article, you'll learn how to add an AI copilot to Dub.co, an open-source link management...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjqpkf6kbxd7gsyz8swz.gif",
+  "slug": "how-i-integrated-an-ai-copilot-into-dubco-3lkj",
+  "url": "https://dev.to/copilotkit/how-i-integrated-an-ai-copilot-into-dubco-3lkj",
+  "publish_date": "2024-08-28",
+  "published_at": "2024-08-28T14:01:29Z"
+ },
+ {
+  "id": 1977101,
+  "title": "Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪",
+  "description": "Introduction: What’s Cooking in Express.js? 👀👩🏻‍🍳   If you’ve spent any time in the Node.js...",
+  "cover_image": "",
+  "slug": "mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
+  "url": "https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
+  "publish_date": "2024-08-28",
+  "published_at": "2024-08-28T06:54:33Z"
+ },
+ {
+  "id": 1976988,
+  "title": "6 Must-Know JavaScript ES13 Features for Modern Development 🚀",
+  "description": "JavaScript continues to evolve, and with the release of ES13, the language has become even more...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fka8gtdyerhzgh5dl9zql.jpg",
+  "slug": "6-must-know-javascript-es13-features-for-modern-development-4jha",
+  "url": "https://dev.to/vyan/6-must-know-javascript-es13-features-for-modern-development-4jha",
+  "publish_date": "2024-08-28",
+  "published_at": "2024-08-28T04:45:37Z"
+ },
+ {
+  "id": 1976745,
+  "title": "Color palette in branding: How Logto generate a custom color scheme for your brand",
+  "description": "How audiences perceive a brand is strongly influenced by color psychology. By using a carefully...",
+  "cover_image": "",
+  "slug": "color-palette-in-branding-how-logto-generate-a-custom-color-scheme-for-your-brand-404j",
+  "url": "https://dev.to/logto/color-palette-in-branding-how-logto-generate-a-custom-color-scheme-for-your-brand-404j",
+  "publish_date": "2024-08-28",
+  "published_at": "2024-08-28T01:05:15Z"
+ },
+ {
+  "id": 1976728,
+  "title": "Create a remark plugin to extract MDX reading time",
+  "description": "A guide to create a remark plugin to make the reading time data available when importing MDX files as...",
+  "cover_image": "",
+  "slug": "create-a-remark-plugin-to-extract-mdx-reading-time-5d2h",
+  "url": "https://dev.to/logto/create-a-remark-plugin-to-extract-mdx-reading-time-5d2h",
+  "publish_date": "2024-08-28",
+  "published_at": "2024-08-28T00:09:20Z"
+ },
+ {
   "id": 1971038,
   "title": "Congrats to the Build Better on Stellar: Smart Contract Challenge Winners!",
   "description": "We are SO excited to announce the winners of the Build Better on Stellar: Smart Contract Challenge...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lilxyzz/side-hustle-ideas-for-developers-in-2024-jh5",
   "publish_date": "2024-05-19",
   "published_at": "2024-05-19T06:22:51Z"
- },
- {
-  "id": 1857689,
-  "title": "I created an Open Source Custom Code Editor",
-  "description": "Hey Everyone 👋  I'm excited to announce my open-source custom code editor!  🎉  This editor is...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzxvuk00zbjk1n53wc8jr.jpg",
-  "slug": "i-created-an-open-source-custom-code-editor-f7",
-  "url": "https://dev.to/dhanushnehru/i-created-an-open-source-custom-code-editor-f7",
-  "publish_date": "2024-05-18",
-  "published_at": "2024-05-18T15:30:17Z"
- },
- {
-  "id": 1857627,
-  "title": "Compare two strings ignoring case in JavaScript",
-  "description": "Strings are one of the most common data types in JavaScript, used to represent text and characters....",
-  "cover_image": "",
-  "slug": "compare-two-strings-ignoring-case-in-javascript-4gjo",
-  "url": "https://dev.to/bybydev/compare-two-strings-ignoring-case-in-javascript-4gjo",
-  "publish_date": "2024-05-18",
-  "published_at": "2024-05-18T14:07:26Z"
- },
- {
-  "id": 1857514,
-  "title": "Next Js TopLoader :- Add TopLoader to NextJS App Router",
-  "description": "Source :- https://www.npmjs.com/package/nextjs-toploader                   Next Js TopLoader    A...",
-  "cover_image": "",
-  "slug": "next-js-toploader-add-toploader-to-nextjs-app-router-1m8g",
-  "url": "https://dev.to/sh20raj/next-js-toploader-add-toploader-to-nextjs-app-router-1m8g",
-  "publish_date": "2024-05-18",
-  "published_at": "2024-05-18T10:37:47Z"
- },
- {
-  "id": 1857376,
-  "title": "How TypeScript Type Predicates Enhance Code Safety",
-  "description": "TypeScript's type predicates are a powerful feature that improves type safety and makes code more...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxi6a5fff3b9g16xtj3jd.png",
-  "slug": "how-typescript-type-predicates-enhance-code-safety-19o2",
-  "url": "https://dev.to/sachinchaurasiya/how-typescript-type-predicates-enhance-code-safety-19o2",
-  "publish_date": "2024-05-18",
-  "published_at": "2024-05-18T07:25:45Z"
- },
- {
-  "id": 1857196,
-  "title": "Preview of PHP 8.4 New Features",
-  "description": "New Features in PHP 8.4   PHP 8.4 is set to be released on November 21, 2024. It will...",
-  "cover_image": "",
-  "slug": "preview-of-php-84-new-features-5551",
-  "url": "https://dev.to/servbay/preview-of-php-84-new-features-5551",
-  "publish_date": "2024-05-18",
-  "published_at": "2024-05-18T04:26:28Z"
  }
 ]
