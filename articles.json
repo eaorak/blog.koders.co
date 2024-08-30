@@ -1,5 +1,55 @@
 [
  {
+  "id": 1978964,
+  "title": "13 open-source tools that will make you 99% more likely to land any AI job 🪄✨",
+  "description": "I’ve been in the AI space for quite some time, back when the top language models were BERT and T5....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7qvapg340r375pzmywst.gif",
+  "slug": "13-open-source-tools-that-will-make-you-99-more-likely-to-land-any-ai-job-3049",
+  "url": "https://dev.to/composiodev/13-open-source-tools-that-will-make-you-99-more-likely-to-land-any-ai-job-3049",
+  "publish_date": "2024-08-29",
+  "published_at": "2024-08-29T14:48:54Z"
+ },
+ {
+  "id": 1979021,
+  "title": "Introducing DEV++",
+  "description": "I'd like to tell you about a new membership you can take advantage of through DEV — and lock in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F00s8uctceo8kh9mndajn.png",
+  "slug": "introducing-dev-2k6d",
+  "url": "https://dev.to/devteam/introducing-dev-2k6d",
+  "publish_date": "2024-08-29",
+  "published_at": "2024-08-29T14:45:59Z"
+ },
+ {
+  "id": 1978789,
+  "title": "Build An Audio Transcriber and Analyzer using ToolJet and OpenAI",
+  "description": "In this hands-on tutorial, we’ll learn how to build a powerful audio transcriber and analyzer using...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmnzmkh7r30ux5qbfu1ez.png",
+  "slug": "build-an-audio-transcriber-and-analyzer-using-tooljet-and-openai-1109",
+  "url": "https://dev.to/tooljet/build-an-audio-transcriber-and-analyzer-using-tooljet-and-openai-1109",
+  "publish_date": "2024-08-29",
+  "published_at": "2024-08-29T12:00:00Z"
+ },
+ {
+  "id": 1978162,
+  "title": "Hidden cost of frontend frameworks",
+  "description": "We all want our sites to look attractive and feel fast and responsive across a multitude of devices...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvhysr81w4unae6k84421.png",
+  "slug": "hidden-cost-of-frontend-frameworks-5pi",
+  "url": "https://dev.to/_manonbox_/hidden-cost-of-frontend-frameworks-5pi",
+  "publish_date": "2024-08-29",
+  "published_at": "2024-08-29T07:30:00Z"
+ },
+ {
+  "id": 1978427,
+  "title": "Types of Middleware: The Different Flavors 😋",
+  "description": "After reading last post let's see types of middleware in ExpressJs ,Middleware comes in different...",
+  "cover_image": "",
+  "slug": "types-of-middleware-the-different-flavors-171a",
+  "url": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-171a",
+  "publish_date": "2024-08-29",
+  "published_at": "2024-08-29T05:34:36Z"
+ },
+ {
   "id": 1959209,
   "title": "🚀How I integrated an AI copilot into Dub.co (in a few minutes)🤖✨",
   "description": "In this article, you'll learn how to add an AI copilot to Dub.co, an open-source link management...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/glasskube/why-nobody-grows-up-wanting-to-be-a-devops-engineer-2jli",
   "publish_date": "2024-05-20",
   "published_at": "2024-05-20T09:12:21Z"
- },
- {
-  "id": 1855527,
-  "title": "Difference between GraphQL, REST, and gRPC",
-  "description": "What is the difference btween GraphQL, REST, and gRPC for System Design interviews. ",
-  "cover_image": "",
-  "slug": "difference-between-graphql-rest-and-grpc-58bl",
-  "url": "https://dev.to/somadevtoo/difference-between-graphql-rest-and-grpc-58bl",
-  "publish_date": "2024-05-19",
-  "published_at": "2024-05-19T09:41:20Z"
- },
- {
-  "id": 1858198,
-  "title": "Rio: WebApps in pure Python. No JavaScript, HTML and CSS needed!",
-  "description": "Hi everyone! We're excited to announce that our reactive web UI framework is now public. This project...",
-  "cover_image": "",
-  "slug": "rio-webapps-in-pure-python-no-javascript-html-and-css-needed-hhh",
-  "url": "https://dev.to/sn3llius/rio-webapps-in-pure-python-no-javascript-html-and-css-needed-hhh",
-  "publish_date": "2024-05-19",
-  "published_at": "2024-05-19T09:37:32Z"
- },
- {
-  "id": 1858145,
-  "title": "Day 6: Advanced React Concepts",
-  "description": "Welcome to Day 6 of our React.js learning journey! Today, we'll delve into some advanced concepts in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc01odqmoyuhcou5lkhjk.png",
-  "slug": "day-6-advanced-react-concepts-4co4",
-  "url": "https://dev.to/dipakahirav/day-6-advanced-react-concepts-4co4",
-  "publish_date": "2024-05-19",
-  "published_at": "2024-05-19T07:57:05Z"
- },
- {
-  "id": 1858125,
-  "title": "Langchain: Data Protection",
-  "description": "In today's world, data privacy is very important, especially when working with large language models...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb5yz4r87nfm5lal8b1xm.png",
-  "slug": "langchain-data-protection-op9",
-  "url": "https://dev.to/rutamstwt/langchain-data-protection-op9",
-  "publish_date": "2024-05-19",
-  "published_at": "2024-05-19T06:27:41Z"
- },
- {
-  "id": 1858122,
-  "title": "Side Hustle Ideas for Developers in 2024",
-  "description": "Are you a software engineer eager to turn your skills into profitable side hustles?   The...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjnqnkth1mkxy4skoscx7.png",
-  "slug": "side-hustle-ideas-for-developers-in-2024-jh5",
-  "url": "https://dev.to/lilxyzz/side-hustle-ideas-for-developers-in-2024-jh5",
-  "publish_date": "2024-05-19",
-  "published_at": "2024-05-19T06:22:51Z"
  }
 ]
