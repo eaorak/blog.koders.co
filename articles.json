@@ -1,5 +1,55 @@
 [
  {
+  "id": 1980590,
+  "title": "Integrating AI Code Review into your DevOps pipeline",
+  "description": "GitHub is the central hub for countless Open-source projects. However, for repository maintainers, a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdvl7y2od57meahgmbgnt.gif",
+  "slug": "integrating-ai-code-review-into-your-devops-pipeline-20fc",
+  "url": "https://dev.to/coderabbitai/integrating-ai-code-review-into-your-devops-pipeline-20fc",
+  "publish_date": "2024-08-30",
+  "published_at": "2024-08-30T14:06:36Z"
+ },
+ {
+  "id": 1980487,
+  "title": "Static Websites vs. Dynamic Websites: Understanding the Key Differences 🚀",
+  "description": "When embarking on a web development project, one of the first decisions you'll need to make is...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7ml60p0s8pbr11bxo1n2.jpg",
+  "slug": "static-websites-vs-dynamic-websites-understanding-the-key-differences-lcd",
+  "url": "https://dev.to/vyan/static-websites-vs-dynamic-websites-understanding-the-key-differences-lcd",
+  "publish_date": "2024-08-30",
+  "published_at": "2024-08-30T11:25:26Z"
+ },
+ {
+  "id": 1979478,
+  "title": "Faster Pages with React ✨",
+  "description": "Photo by Mathew Schwartz on Unsplash  This is the story of our homepage make over to reach a solid...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff7n3zh5decdmyg09r2hl.jpg",
+  "slug": "faster-pages-with-react-h8j",
+  "url": "https://dev.to/smapiot/faster-pages-with-react-h8j",
+  "publish_date": "2024-08-30",
+  "published_at": "2024-08-30T08:17:31Z"
+ },
+ {
+  "id": 1979303,
+  "title": "Wasp: The JavaScript Answer to Django for Web Development",
+  "description": "Wasp v Django: Building a full stack application just got a lot easier   Hey, I’m Sam, a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fui517crggk6tio7sdz7z.png",
+  "slug": "wasp-the-javascript-answer-to-django-for-web-development-199m",
+  "url": "https://dev.to/wasp/wasp-the-javascript-answer-to-django-for-web-development-199m",
+  "publish_date": "2024-08-30",
+  "published_at": "2024-08-30T07:56:24Z"
+ },
+ {
+  "id": 1979592,
+  "title": "Building an AI Engineering Manager with GitHub and Middleware HQ",
+  "description": "\"Wouldn't it be great if at the start of each week, you could have a tiny little assistant tell you...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhzeu8nqzzilieszdn44d.png",
+  "slug": "building-an-ai-engineering-manager-with-github-and-middleware-hq-3cbn",
+  "url": "https://dev.to/middleware/building-an-ai-engineering-manager-with-github-and-middleware-hq-3cbn",
+  "publish_date": "2024-08-30",
+  "published_at": "2024-08-30T03:28:24Z"
+ },
+ {
   "id": 1978964,
   "title": "13 open-source tools that will make you 99% more likely to land any AI job 🪄✨",
   "description": "I’ve been in the AI space for quite some time, back when the top language models were BERT and T5....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/srbhr/search-will-be-the-future-of-llm-and-ai-applications-26fl",
   "publish_date": "2024-05-21",
   "published_at": "2024-05-21T10:56:26Z"
- },
- {
-  "id": 1859709,
-  "title": "BEAM VM The good, the bad and the ugly",
-  "description": "A BEAM é uma VM que está sendo muito falada ultimamente com o advento de novas tecnologias como gleam...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozw9qu9r965rd8xzz092.png",
-  "slug": "beam-vm-the-good-the-bad-and-the-ugly-9d6",
-  "url": "https://dev.to/cherryramatis/beam-vm-the-good-the-bad-and-the-ugly-9d6",
-  "publish_date": "2024-05-20",
-  "published_at": "2024-05-20T22:14:04Z"
- },
- {
-  "id": 1846401,
-  "title": "I'm Building an AI-Powered Blog: Here's How...",
-  "description": "The AI era is upon us. To get ahead as devs, it's great to have some AI-powered projects in your...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F09os8iaf4tzo79s7z02s.gif",
-  "slug": "im-building-an-ai-powered-blog-nextjs-langchain-supabase-5145",
-  "url": "https://dev.to/copilotkit/im-building-an-ai-powered-blog-nextjs-langchain-supabase-5145",
-  "publish_date": "2024-05-20",
-  "published_at": "2024-05-20T14:11:44Z"
- },
- {
-  "id": 1855482,
-  "title": "Meet Codiumate - Your coding Agent🤖",
-  "description": "Hello Devs👋   Nowadays AI is everywhere and AI technologies have become increasingly integrated into...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65np0y4223y3rf0o79vq.png",
-  "slug": "meet-codiumate-your-coding-agent-47ie",
-  "url": "https://dev.to/dev_kiran/meet-codiumate-your-coding-agent-47ie",
-  "publish_date": "2024-05-20",
-  "published_at": "2024-05-20T11:34:06Z"
- },
- {
-  "id": 1857214,
-  "title": "I am suitable for the job but unsure why I can't get it! 😕",
-  "description": "In 2020, I had just closed my previous startup and got tired of my part-time job at a project...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftna57m2zefijsypw3614.png",
-  "slug": "i-am-suitable-for-the-job-but-unsure-why-i-cant-get-it-5eg4",
-  "url": "https://dev.to/github20k/i-am-suitable-for-the-job-but-unsure-why-i-cant-get-it-5eg4",
-  "publish_date": "2024-05-20",
-  "published_at": "2024-05-20T10:41:17Z"
- },
- {
-  "id": 1855451,
-  "title": "Why nobody grows up wanting to be a DevOps engineer",
-  "description": "When I look at younger generations that didn’t grow up largely offline like I did, I feel slightly...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F24xseimjmll52868pbje.png",
-  "slug": "why-nobody-grows-up-wanting-to-be-a-devops-engineer-2jli",
-  "url": "https://dev.to/glasskube/why-nobody-grows-up-wanting-to-be-a-devops-engineer-2jli",
-  "publish_date": "2024-05-20",
-  "published_at": "2024-05-20T09:12:21Z"
  }
 ]
