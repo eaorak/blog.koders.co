@@ -1,5 +1,55 @@
 [
  {
+  "id": 1981153,
+  "title": "⚡👨‍💻 Quantum Computers — How Will They Change the Future?",
+  "description": "Imagine a computer so powerful it could crack any code, simulate molecules with incredible accuracy,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F35lnkgbxcf9tlfwwrjq4.png",
+  "slug": "quantum-computers-how-will-they-change-the-future-20k9",
+  "url": "https://dev.to/best_codes/quantum-computers-how-will-they-change-the-future-20k9",
+  "publish_date": "2024-08-31",
+  "published_at": "2024-08-31T14:00:00Z"
+ },
+ {
+  "id": 1981526,
+  "title": "AWS DevOps Project: Advanced Automated CI/CD Pipeline with Infrastructure as Code, Microservices, Service Mesh, and Monitoring",
+  "description": "Introduction   In this advanced AWS DevOps project, we will build a sophisticated CI/CD...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6x79fxplof7whedfsbt7.png",
+  "slug": "aws-devops-project-advanced-automated-cicd-pipeline-with-infrastructure-as-code-microservices-service-mesh-and-monitoring-3o13",
+  "url": "https://dev.to/prodevopsguytech/aws-devops-project-advanced-automated-cicd-pipeline-with-infrastructure-as-code-microservices-service-mesh-and-monitoring-3o13",
+  "publish_date": "2024-08-31",
+  "published_at": "2024-08-31T11:34:08Z"
+ },
+ {
+  "id": 1981433,
+  "title": "How to implement a Distributed Lock using Redis",
+  "description": "I am Dumb   Well, whenever we work in our local system everything works as butter. That is...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsw1riaessbzb2h301tp.png",
+  "slug": "how-to-implement-a-distributed-lock-using-redis-he",
+  "url": "https://dev.to/lovepreetsingh/how-to-implement-a-distributed-lock-using-redis-he",
+  "publish_date": "2024-08-31",
+  "published_at": "2024-08-31T09:55:27Z"
+ },
+ {
+  "id": 1981383,
+  "title": "Obsidian: The All-in-One Knowledge Management Tool for Efficient Information Organization",
+  "description": "In the ever-evolving landscape of knowledge management and productivity tools, Obsidian has emerged...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4q0x7j8topefv1qy27mt.png",
+  "slug": "obsidian-the-all-in-one-knowledge-management-tool-for-efficient-information-organization-1ep3",
+  "url": "https://dev.to/stan8086/obsidian-the-all-in-one-knowledge-management-tool-for-efficient-information-organization-1ep3",
+  "publish_date": "2024-08-31",
+  "published_at": "2024-08-31T08:45:30Z"
+ },
+ {
+  "id": 1981291,
+  "title": "Spring Certification is Free of Mandatory Training Again !!",
+  "description": "You can now give Spring certification exam without any mandatory training on Vmware website",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8o7na4u2kugs6udep5y4.png",
+  "slug": "spring-certification-is-free-of-mandatory-training-again--2o9j",
+  "url": "https://dev.to/javinpaul/spring-certification-is-free-of-mandatory-training-again--2o9j",
+  "publish_date": "2024-08-31",
+  "published_at": "2024-08-31T06:29:41Z"
+ },
+ {
   "id": 1980590,
   "title": "Integrating AI Code Review into your DevOps pipeline",
   "description": "GitHub is the central hub for countless Open-source projects. However, for repository maintainers, a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/bekbrace/rust-programming-full-course-2024-2jen",
   "publish_date": "2024-05-22",
   "published_at": "2024-05-22T10:14:20Z"
- },
- {
-  "id": 1837887,
-  "title": "25 projects that you can build with Python and AI",
-  "description": "Today, we are covering 25 side projects that you can build using Python and AI models.  Most of the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftdvllel2i9j8xspvotao.png",
-  "slug": "25-projects-that-you-can-build-with-python-and-ai-12i9",
-  "url": "https://dev.to/taipy/25-projects-that-you-can-build-with-python-and-ai-12i9",
-  "publish_date": "2024-05-21",
-  "published_at": "2024-05-21T13:59:32Z"
- },
- {
-  "id": 1744666,
-  "title": "Building A ChatGPT Wizard with MistralAI Using Taipy",
-  "description": "TL; DR   Let's learn how to build a simple chatbot using the Taipy GUI library and the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuzktuvnkmiky8xuvndiz.png",
-  "slug": "building-a-chatgpt-wizard-with-mistralai-using-taipy-54na",
-  "url": "https://dev.to/taipy/building-a-chatgpt-wizard-with-mistralai-using-taipy-54na",
-  "publish_date": "2024-05-21",
-  "published_at": "2024-05-21T13:58:23Z"
- },
- {
-  "id": 1860417,
-  "title": "Build an Employee Engagement Survey Dashboard using ToolJet",
-  "description": "Introduction   Employee engagement is a critical factor in the success of any organization....",
-  "cover_image": "",
-  "slug": "build-an-employee-engagement-survey-dashboard-using-tooljet-5bed",
-  "url": "https://dev.to/tooljet/build-an-employee-engagement-survey-dashboard-using-tooljet-5bed",
-  "publish_date": "2024-05-21",
-  "published_at": "2024-05-21T13:03:24Z"
- },
- {
-  "id": 1860338,
-  "title": "How To Get a Web Developer Job in 2024 (without dying inside) 🧑‍💻💀",
-  "description": "Hey, I'm Vince...     I’m a self-taught developer that changed careers during the Covid...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg1s9oy4i7nq94q467zzo.png",
-  "slug": "how-to-get-a-web-developer-job-in-2024-without-dying-inside-eo8",
-  "url": "https://dev.to/wasp/how-to-get-a-web-developer-job-in-2024-without-dying-inside-eo8",
-  "publish_date": "2024-05-21",
-  "published_at": "2024-05-21T12:00:00Z"
- },
- {
-  "id": 1860245,
-  "title": "Search will be the future of LLM and AI Applications.",
-  "description": "While checking LinkedIn, an interesting article came onto my feed. It was titled “Every LLM Company...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fozk1i1ggmj5o4hth5uud.jpg",
-  "slug": "search-will-be-the-future-of-llm-and-ai-applications-26fl",
-  "url": "https://dev.to/srbhr/search-will-be-the-future-of-llm-and-ai-applications-26fl",
-  "publish_date": "2024-05-21",
-  "published_at": "2024-05-21T10:56:26Z"
  }
 ]
