@@ -1,5 +1,55 @@
 [
  {
+  "id": 1984093,
+  "title": "Understanding the Linux Filesystem: An In-Depth Guide for DevOps Engineers",
+  "description": "The Linux filesystem is the foundation of any Linux-based operating system. It dictates how files are...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F36s5e5ndif607o4ssz2o.png",
+  "slug": "understanding-the-linux-filesystem-an-in-depth-guide-for-devops-engineers-ona",
+  "url": "https://dev.to/prodevopsguytech/understanding-the-linux-filesystem-an-in-depth-guide-for-devops-engineers-ona",
+  "publish_date": "2024-09-02",
+  "published_at": "2024-09-02T13:56:28Z"
+ },
+ {
+  "id": 1983415,
+  "title": "Comparing The Top React Frameworks",
+  "description": "Introduction   When learning React, we all start with the CRA(create-react-app) library. It...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48qwka1uhs7ymn3g3ws4.png",
+  "slug": "comparing-the-top-cra-alternatives-9cg",
+  "url": "https://dev.to/surajondev/comparing-the-top-cra-alternatives-9cg",
+  "publish_date": "2024-09-02",
+  "published_at": "2024-09-02T11:30:00Z"
+ },
+ {
+  "id": 1977335,
+  "title": "Power Apps and Yaml",
+  "description": "Its been around for a while now and was one of the things I was most excited about from Build back in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffymp2rt9j5qk6xhnlyc3.png",
+  "slug": "power-apps-and-yaml-5f3a",
+  "url": "https://dev.to/wyattdave/power-apps-and-yaml-5f3a",
+  "publish_date": "2024-09-02",
+  "published_at": "2024-09-02T06:12:02Z"
+ },
+ {
+  "id": 1983422,
+  "title": "MailTales - Make Emails Fun Again!",
+  "description": "This is a submission for the Nylas Challenge: AI Expedition \u0026amp; Galaxy Brain           What I Built...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flx3e5ot91n09hsm5i2ay.png",
+  "slug": "mailtales-make-emails-fun-again-5d9l",
+  "url": "https://dev.to/mtwn105/mailtales-make-emails-fun-again-5d9l",
+  "publish_date": "2024-09-02",
+  "published_at": "2024-09-02T05:56:50Z"
+ },
+ {
+  "id": 1983388,
+  "title": "How I Built an AI-Powered Email Manager After Nearly Missing a Deadline",
+  "description": "This is a submission for the Nylas Challenge: AI Expedition.           What I Built and Why   I built...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F77io5le2fiommdta7mjn.png",
+  "slug": "how-i-built-an-ai-powered-email-manager-after-nearly-missing-a-deadline-44cn",
+  "url": "https://dev.to/sneha11/how-i-built-an-ai-powered-email-manager-after-nearly-missing-a-deadline-44cn",
+  "publish_date": "2024-09-02",
+  "published_at": "2024-09-02T03:02:12Z"
+ },
+ {
   "id": 1981281,
   "title": "Neon Meets `create-t3-app`: The PostgreSQL Solution for Modern Developers",
   "description": "This is a submission for the Neon Open Source Starter Kit Challenge : Ultimate Starter Kit          ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/shuttle_dev/building-agentic-rag-with-rust-openai-qdrant-3bjd",
   "publish_date": "2024-05-24",
   "published_at": "2024-05-24T08:58:09Z"
- },
- {
-  "id": 1862673,
-  "title": "HTML Tags You Might Not Know About",
-  "description": "Hello Devs👋  In this post, I will share some new and helpful html tags which are added in HTML5 to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flacjekq0z9hivujceera.gif",
-  "slug": "html-tags-you-might-not-know-about-3gk7",
-  "url": "https://dev.to/dev_kiran/html-tags-you-might-not-know-about-3gk7",
-  "publish_date": "2024-05-23",
-  "published_at": "2024-05-23T15:44:50Z"
- },
- {
-  "id": 1862682,
-  "title": "Create a Weather App using ToolJet and OpenWeatherMap API",
-  "description": "Introduction   In this tutorial, we will create a weather app using ToolJet and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs20hcz7jsq97cc0slzbc.png",
-  "slug": "create-a-weather-app-using-tooljet-and-openweathermap-api-3cfm",
-  "url": "https://dev.to/tooljet/create-a-weather-app-using-tooljet-and-openweathermap-api-3cfm",
-  "publish_date": "2024-05-23",
-  "published_at": "2024-05-23T13:07:01Z"
- },
- {
-  "id": 1862499,
-  "title": "Wheel of Fortune with CSS",
-  "description": "A \"Wheel of Fortune\" component just popped up in my feed. I always spin, but never win! Anyway, this...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frsy67j5uc9urx4h9vnms.jpg",
-  "slug": "wheel-of-fortune-with-css-p-pi-1ne9",
-  "url": "https://dev.to/madsstoumann/wheel-of-fortune-with-css-p-pi-1ne9",
-  "publish_date": "2024-05-23",
-  "published_at": "2024-05-23T08:21:31Z"
- },
- {
-  "id": 1861207,
-  "title": "Tracking Celebrity Flights in Python!",
-  "description": "Hello, everyone!   In this basic tutorial, I will be demonstrating how to develop a flight...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fijq7osbxrxtyi5thu8wu.jpeg",
-  "slug": "tracking-celebrity-flights-in-python-1m86",
-  "url": "https://dev.to/digitalizedsnake/tracking-celebrity-flights-in-python-1m86",
-  "publish_date": "2024-05-23",
-  "published_at": "2024-05-23T04:44:50Z"
- },
- {
-  "id": 1862304,
-  "title": "Why you should not be using AI as a writing assistant",
-  "description": "TLDR: Who wants to read something written by a bot? People want to read what you wrote, not what a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcqd78kofqp01xqf5ot5d.jpeg",
-  "slug": "why-you-should-not-be-using-ai-as-a-writing-assistant-2b0e",
-  "url": "https://dev.to/kurealnum/why-you-should-not-be-using-ai-as-a-writing-assistant-2b0e",
-  "publish_date": "2024-05-23",
-  "published_at": "2024-05-23T02:25:58Z"
  }
 ]
