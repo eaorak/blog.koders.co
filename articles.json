@@ -1,5 +1,55 @@
 [
  {
+  "id": 1979264,
+  "title": "Congrats to the Nylas Challenge Winners!",
+  "description": "It is time. We are so excited to announce the winners of the Nylas Challenge!  From forest fire...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbpj7dxqjq8dkwjb4s8g.png",
+  "slug": "congrats-to-the-nylas-challenge-winners-2kic",
+  "url": "https://dev.to/devteam/congrats-to-the-nylas-challenge-winners-2kic",
+  "publish_date": "2024-09-03",
+  "published_at": "2024-09-03T16:10:55Z"
+ },
+ {
+  "id": 1979275,
+  "title": "Congrats to the Neon Open Source Starter Kit Challenge Winners!",
+  "description": "We are excited to announce the winners of the Neon Open Source Starter Kit Challenge today.   The...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw31swlcgp3w6l25foegr.png",
+  "slug": "congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p",
+  "url": "https://dev.to/devteam/congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p",
+  "publish_date": "2024-09-03",
+  "published_at": "2024-09-03T16:10:03Z"
+ },
+ {
+  "id": 1985327,
+  "title": "I saved 30 hours of coding with this search tool that chats with codebases at 91% accuracy! 🤯",
+  "description": "TL;DR   I was recently assigned a challenging project that involved working with an existing...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6nnof9f9nkdd6jw6j7f.gif",
+  "slug": "i-saved-30-hours-of-coding-with-this-search-tool-that-chats-with-codebases-at-91-accuracy-419l",
+  "url": "https://dev.to/composiodev/i-saved-30-hours-of-coding-with-this-search-tool-that-chats-with-codebases-at-91-accuracy-419l",
+  "publish_date": "2024-09-03",
+  "published_at": "2024-09-03T14:48:34Z"
+ },
+ {
+  "id": 1985022,
+  "title": "Add an authorization layer to your app with Permit.io🔏 in a few minutes ⏱️",
+  "description": "Struggling with writing permissions and authorization codes?? Feeling sad for you man! I was too...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fia2flbsp55kw50lrdg.png",
+  "slug": "add-an-authorization-layer-to-your-app-with-permitio-in-a-few-minutes-32d6",
+  "url": "https://dev.to/rohan_sharma/add-an-authorization-layer-to-your-app-with-permitio-in-a-few-minutes-32d6",
+  "publish_date": "2024-09-03",
+  "published_at": "2024-09-03T08:20:49Z"
+ },
+ {
+  "id": 1982262,
+  "title": "How I built my open-source Social media scheduling tool... 🤯",
+  "description": "I published Postiz, my open-source social media scheduling tool, on Reddit, and received much...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlkmtn2fe9mkd1dvm97e.gif",
+  "slug": "how-i-built-my-open-source-social-media-scheduling-tool-dih",
+  "url": "https://dev.to/nevodavid/how-i-built-my-open-source-social-media-scheduling-tool-dih",
+  "publish_date": "2024-09-03",
+  "published_at": "2024-09-03T06:44:21Z"
+ },
+ {
   "id": 1984093,
   "title": "Understanding the Linux Filesystem: An In-Depth Guide for DevOps Engineers",
   "description": "The Linux filesystem is the foundation of any Linux-based operating system. It dictates how files are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-v-finalmente-o-server-9e5",
   "publish_date": "2024-05-25",
   "published_at": "2024-05-25T00:14:20Z"
- },
- {
-  "id": 1864075,
-  "title": "Is Kubernetes a database? CRDs explained in five minutes",
-  "description": "When you touch on containerized apps today, Kubernetes usually comes up as their orchestrator. Sure,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgk09kkzv5c4tj7flhmtb.png",
-  "slug": "is-kubernetes-a-database-crds-explained-in-three-minutes-361d",
-  "url": "https://dev.to/cyclops-ui/is-kubernetes-a-database-crds-explained-in-three-minutes-361d",
-  "publish_date": "2024-05-24",
-  "published_at": "2024-05-24T14:37:10Z"
- },
- {
-  "id": 1862848,
-  "title": "5 exciting open-source launches you might have missed",
-  "description": "Hey friends 👋  Every week, our team at Quine scans the open-source ecosystem for great projects to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6czew7xia6l8irfjgxpj.gif",
-  "slug": "5-exciting-open-source-releases-you-might-have-missed-5gg6",
-  "url": "https://dev.to/quine/5-exciting-open-source-releases-you-might-have-missed-5gg6",
-  "publish_date": "2024-05-24",
-  "published_at": "2024-05-24T14:02:00Z"
- },
- {
-  "id": 1860139,
-  "title": "How we saved our partners 💵$460,000 and 2,5 months⏰ of work",
-  "description": "In 2022, I worked on a data science project for a retailer. The project was to predict cashflows...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1m1jqw9i2aoscstcmzto.png",
-  "slug": "how-we-saved-our-partners-460000-and-25-months-of-work-40kg",
-  "url": "https://dev.to/taipy/how-we-saved-our-partners-460000-and-25-months-of-work-40kg",
-  "publish_date": "2024-05-24",
-  "published_at": "2024-05-24T09:16:35Z"
- },
- {
-  "id": 1855452,
-  "title": "Make naked websites look great with matcha.css!",
-  "description": "Have you ever contemplated the bareness of starting from a \"blank page\" when beginning a new web...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivsygiubvfu4y1li5mu9.png",
-  "slug": "make-naked-websites-look-great-with-matchacss-4ng7",
-  "url": "https://dev.to/lowlighter/make-naked-websites-look-great-with-matchacss-4ng7",
-  "publish_date": "2024-05-24",
-  "published_at": "2024-05-24T09:11:00Z"
- },
- {
-  "id": 1863756,
-  "title": "Building Agentic RAG with Rust, OpenAI \u0026 Qdrant",
-  "description": "Hey there! In this article, we're gonna talk about building an agentic RAG workflow with Rust! We'll...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frhditur68qxn1pr3ewp4.png",
-  "slug": "building-agentic-rag-with-rust-openai-qdrant-3bjd",
-  "url": "https://dev.to/shuttle_dev/building-agentic-rag-with-rust-openai-qdrant-3bjd",
-  "publish_date": "2024-05-24",
-  "published_at": "2024-05-24T08:58:09Z"
  }
 ]
