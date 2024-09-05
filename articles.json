@@ -1,5 +1,55 @@
 [
  {
+  "id": 1979231,
+  "title": "Join us for the next Frontend Challenge: Space Edition 👾🪐👽",
+  "description": "We just launched a new Frontend Challenge!  Running through September 15, Frontend Challenge: Space...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fomin6j0xmiilcsfy872m.png",
+  "slug": "join-us-for-the-next-frontend-challenge-space-edition-2d9g",
+  "url": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-space-edition-2d9g",
+  "publish_date": "2024-09-04",
+  "published_at": "2024-09-04T16:02:17Z"
+ },
+ {
+  "id": 1986883,
+  "title": "Encore.ts — 17x Faster cold starts than NestJS \u0026 Fastify",
+  "description": "A couple of months ago we released Encore.ts — an Open Source backend framework for...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmpimvav6a2d8uusffz7t.png",
+  "slug": "encorets-17x-faster-cold-starts-than-nestjs-fastify-27cg",
+  "url": "https://dev.to/encore/encorets-17x-faster-cold-starts-than-nestjs-fastify-27cg",
+  "publish_date": "2024-09-04",
+  "published_at": "2024-09-04T15:13:29Z"
+ },
+ {
+  "id": 1986798,
+  "title": "Turn DevOps to MLOps Pipelines With This Open-Source Tool",
+  "description": "It’s scary to learn that over 80% of machine learning[ML] model deployment procedures. Even among...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcvztaqi7l0tjzhrq6fb3.jpg",
+  "slug": "turn-devops-to-mlops-pipelines-with-this-open-source-tool-3ehc",
+  "url": "https://dev.to/kitops/turn-devops-to-mlops-pipelines-with-this-open-source-tool-3ehc",
+  "publish_date": "2024-09-04",
+  "published_at": "2024-09-04T13:25:25Z"
+ },
+ {
+  "id": 1970417,
+  "title": "Dockerizing a Golang API with MySQL and adding Docker Compose Support",
+  "description": "Developing and testing APIs locally connected to a database is no joke. The database often becomes a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fucpxcqkjhe4q78mnkzii.png",
+  "slug": "dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1",
+  "url": "https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1",
+  "publish_date": "2024-09-04",
+  "published_at": "2024-09-04T07:04:33Z"
+ },
+ {
+  "id": 1986353,
+  "title": "Eureka and Consul - Service Discovery Tools",
+  "description": "Two common service discovery tools that you might have implemented in a Spring Boot microservice...",
+  "cover_image": "",
+  "slug": "eureka-and-consul-service-discovery-tools-inc",
+  "url": "https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc",
+  "publish_date": "2024-09-04",
+  "published_at": "2024-09-04T06:44:28Z"
+ },
+ {
   "id": 1979264,
   "title": "Congrats to the Nylas Challenge Winners!",
   "description": "It is time. We are so excited to announce the winners of the Nylas Challenge!  From forest fire...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/miguelrodriguezp99/best-sites-to-practice-your-programming-logic-4pgc",
   "publish_date": "2024-05-26",
   "published_at": "2024-05-26T00:53:51Z"
- },
- {
-  "id": 1865059,
-  "title": "Frontend resources! 🚀",
-  "description": "🚀 Supercharge Your Development with These Resources! 🚀  👋 Hello everyone! 👋  I'm thrilled to share...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3067fr7vwrpla5tuqh4a.jpg",
-  "slug": "frontend-resources-1dl4",
-  "url": "https://dev.to/miguelrodriguezp99/frontend-resources-1dl4",
-  "publish_date": "2024-05-25",
-  "published_at": "2024-05-25T16:33:01Z"
- },
- {
-  "id": 1864710,
-  "title": "How to build an HTML to PDF app in 5 minutes",
-  "description": "Today, I will explain how to create an app to convert HTML into PDFs with just a simple logic....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foaztt0zc6n54mnpkwfyi.gif",
-  "slug": "how-to-build-an-html-to-pdf-app-in-5-minutes-92e",
-  "url": "https://dev.to/anmolbaranwal/how-to-build-an-html-to-pdf-app-in-5-minutes-92e",
-  "publish_date": "2024-05-25",
-  "published_at": "2024-05-25T09:33:23Z"
- },
- {
-  "id": 1864660,
-  "title": "Don't use Typescript if your project is small",
-  "description": "TypeScript is a super-charged version of JavaScript that adds static typing. This means you define...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fybdghqd6e25349nkl2jp.jpg",
-  "slug": "dont-use-typescript-if-your-project-is-small-4fmp",
-  "url": "https://dev.to/homayunmmdy/dont-use-typescript-if-your-project-is-small-4fmp",
-  "publish_date": "2024-05-25",
-  "published_at": "2024-05-25T07:24:12Z"
- },
- {
-  "id": 1821926,
-  "title": "AWS Network Challenge 1: Deploy Web App to EC2 / Two-Tier VPC Architecture",
-  "description": "About the Challenge   I manage a team of cloud developers, and one of the first things I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9keq22s5euhyd5rn4k57.jpg",
-  "slug": "aws-network-challenge-1-deploy-application-in-ec2-on-two-tier-vpc-architecture-135i",
-  "url": "https://dev.to/aws-builders/aws-network-challenge-1-deploy-application-in-ec2-on-two-tier-vpc-architecture-135i",
-  "publish_date": "2024-05-25",
-  "published_at": "2024-05-25T03:19:16Z"
- },
- {
-  "id": 1852600,
-  "title": "Construindo um web server em Assembly x86, parte V, finalmente o server",
-  "description": "No artigo anterior, passamos pelos fundamentos de Assembly, onde foi possível entender alguns...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwirhzxduc15u5h6xinkk.png",
-  "slug": "construindo-um-web-server-em-assembly-x86-parte-v-finalmente-o-server-9e5",
-  "url": "https://dev.to/leandronsp/construindo-um-web-server-em-assembly-x86-parte-v-finalmente-o-server-9e5",
-  "publish_date": "2024-05-25",
-  "published_at": "2024-05-25T00:14:20Z"
  }
 ]
