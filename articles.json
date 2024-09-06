@@ -1,5 +1,55 @@
 [
  {
+  "id": 1988531,
+  "title": "3 New frontend libraries 🎨",
+  "description": "Presenting 3 Amazing Component Libraries You Might Not Know About   In this post, I want to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F48s92sna5cm2nax2hyui.png",
+  "slug": "3-new-frontend-libraries-436n",
+  "url": "https://dev.to/therextordcs/3-new-frontend-libraries-436n",
+  "publish_date": "2024-09-05",
+  "published_at": "2024-09-05T21:43:53Z"
+ },
+ {
+  "id": 1988141,
+  "title": "New DEV++ Deal: 25% Off Scrimba Pro",
+  "description": "In case you missed it, we rolled out DEV++ last week.                                                ...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcjd0bjxs2ikdy9yi76e2.png",
+  "slug": "new-dev-deal-25-off-scrimba-pro-3eed",
+  "url": "https://dev.to/devteam/new-dev-deal-25-off-scrimba-pro-3eed",
+  "publish_date": "2024-09-05",
+  "published_at": "2024-09-05T15:10:05Z"
+ },
+ {
+  "id": 1987687,
+  "title": "9 open-source gems to become the ultimate developer🔥 🚀",
+  "description": "TL;DR   For me, AI is everywhere. But sometimes, it's hard to understand what a fun project...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fibv5cp72xewcimtdrr8v.gif",
+  "slug": "9-open-source-gems-to-become-the-ultimate-developer-2oj9",
+  "url": "https://dev.to/nevodavid/9-open-source-gems-to-become-the-ultimate-developer-2oj9",
+  "publish_date": "2024-09-05",
+  "published_at": "2024-09-05T13:48:57Z"
+ },
+ {
+  "id": 1936180,
+  "title": "How to Build Frontend Apps 10x Faster",
+  "description": "We have all been there when the backend isn't ready with APIs so the frontend developers manually...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5ov27va8loank4fl1plk.png",
+  "slug": "how-to-build-frontend-apps-10x-faster-36ib",
+  "url": "https://dev.to/requestly/how-to-build-frontend-apps-10x-faster-36ib",
+  "publish_date": "2024-09-05",
+  "published_at": "2024-09-05T10:29:20Z"
+ },
+ {
+  "id": 1987790,
+  "title": "Top 3 Open-Source Events that will make your October memorable!",
+  "description": "October is often called the month of Techies. It brings many joys in a programmer's life through the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkphf9licy288wq0i183e.gif",
+  "slug": "top-3-open-source-events-that-will-make-your-october-memorable-4hce",
+  "url": "https://dev.to/rohan_sharma/top-3-open-source-events-that-will-make-your-october-memorable-4hce",
+  "publish_date": "2024-09-05",
+  "published_at": "2024-09-05T09:39:54Z"
+ },
+ {
   "id": 1979231,
   "title": "Join us for the next Frontend Challenge: Space Edition 👾🪐👽",
   "description": "We just launched a new Frontend Challenge!  Running through September 15, Frontend Challenge: Space...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/thegeekyamit/recruitify-where-talent-meets-opportunity-1185",
   "publish_date": "2024-05-27",
   "published_at": "2024-05-27T05:33:59Z"
- },
- {
-  "id": 1865497,
-  "title": "Making Your GitHub Readme Profile Stand Out",
-  "description": "In this article, I like to share with you how to make your GitHub Readme profile pop and stand out...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzyllqmzt8ea2dgeaelgl.png",
-  "slug": "making-your-github-readme-profile-stand-out-4m52",
-  "url": "https://dev.to/raielly/making-your-github-readme-profile-stand-out-4m52",
-  "publish_date": "2024-05-26",
-  "published_at": "2024-05-26T10:50:58Z"
- },
- {
-  "id": 1864937,
-  "title": "9 Caching Strategies for System Design Interviews",
-  "description": "9 Caching strategies every Software Engineers Should learn for System Design Interviews. ",
-  "cover_image": "",
-  "slug": "9-caching-strategies-for-system-design-interviews-369g",
-  "url": "https://dev.to/somadevtoo/9-caching-strategies-for-system-design-interviews-369g",
-  "publish_date": "2024-05-26",
-  "published_at": "2024-05-26T08:29:21Z"
- },
- {
-  "id": 1865361,
-  "title": "Amazon Macie to detect sensitive data from your S3 Buckets",
-  "description": "Leaking data or sensitive information exposure can lead to many insecurities to your organization...",
-  "cover_image": "",
-  "slug": "amazon-macie-to-detect-sensitive-data-from-s3-buckets-1eol",
-  "url": "https://dev.to/asankab/amazon-macie-to-detect-sensitive-data-from-s3-buckets-1eol",
-  "publish_date": "2024-05-26",
-  "published_at": "2024-05-26T07:58:55Z"
- },
- {
-  "id": 1865417,
-  "title": "python command isn't working and python3 working on mac",
-  "description": "On macOS, it is common to have multiple versions of Python installed, leading to confusion between...",
-  "cover_image": "",
-  "slug": "python-command-isnt-working-and-python3-working-on-mac-39nc",
-  "url": "https://dev.to/sh20raj/python-command-isnt-working-and-python3-working-on-mac-39nc",
-  "publish_date": "2024-05-26",
-  "published_at": "2024-05-26T06:21:17Z"
- },
- {
-  "id": 1865282,
-  "title": "Best sites to practice your programming logic 💻",
-  "description": "Hello everyone! Here are some of the best options (in my opinion) to practice and improve your...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdynkgtj4n1xlhby10mn4.png",
-  "slug": "best-sites-to-practice-your-programming-logic-4pgc",
-  "url": "https://dev.to/miguelrodriguezp99/best-sites-to-practice-your-programming-logic-4pgc",
-  "publish_date": "2024-05-26",
-  "published_at": "2024-05-26T00:53:51Z"
  }
 ]
