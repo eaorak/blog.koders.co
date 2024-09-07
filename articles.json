@@ -1,5 +1,55 @@
 [
  {
+  "id": 1989494,
+  "title": "Have You Heard of Swagger Documents?",
+  "description": "Swagger documents are incredibly helpful **for anyone working with APIs. They simplify the process of...",
+  "cover_image": "",
+  "slug": "have-you-heard-of-swagger-documents-4a6n",
+  "url": "https://dev.to/ejime_oghenefejiro_f906bc/have-you-heard-of-swagger-documents-4a6n",
+  "publish_date": "2024-09-06",
+  "published_at": "2024-09-06T16:23:08Z"
+ },
+ {
+  "id": 1989378,
+  "title": "Building a Personal Finance App with Arcjet",
+  "description": "These days, we live in a more security-focused environment where applications and platforms need to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faa5ws2k799a2q46cdztw.png",
+  "slug": "building-a-personal-finance-app-with-arcjet-5c38",
+  "url": "https://dev.to/andrewbaisden/building-a-personal-finance-app-with-arcjet-5c38",
+  "publish_date": "2024-09-06",
+  "published_at": "2024-09-06T14:04:38Z"
+ },
+ {
+  "id": 1989097,
+  "title": "1417 Open Source alternatives to tools you pay for",
+  "description": "I made a 100% free directory for open source and self-hosted tools. Enjoy saving your hard-earned...",
+  "cover_image": "",
+  "slug": "1417-open-source-alternatives-to-tools-you-pay-for-5g49",
+  "url": "https://dev.to/johnrushx/1417-open-source-alternatives-to-tools-you-pay-for-5g49",
+  "publish_date": "2024-09-06",
+  "published_at": "2024-09-06T10:06:52Z"
+ },
+ {
+  "id": 1970774,
+  "title": "What was your win this week?",
+  "description": "👋👋👋👋  Looking back on your week -- what was something you're proud of?  All wins count -- big or...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6a9w22eb6wr88mvfct1.jpg",
+  "slug": "what-was-your-win-this-week-6ae",
+  "url": "https://dev.to/devteam/what-was-your-win-this-week-6ae",
+  "publish_date": "2024-09-06",
+  "published_at": "2024-09-06T04:00:00Z"
+ },
+ {
+  "id": 1987312,
+  "title": "Release Radar · August 2024: Major updates from the open source community",
+  "description": "As winter comes to a close in the Southern Hemisphere ❄️, and summer ends in the North ☀️, developers...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foosdiopd653frd26i6lb.png",
+  "slug": "release-radar-august-2024-major-updates-from-the-open-source-community-54mo",
+  "url": "https://dev.to/mishmanners/release-radar-august-2024-major-updates-from-the-open-source-community-54mo",
+  "publish_date": "2024-09-06",
+  "published_at": "2024-09-06T00:32:34Z"
+ },
+ {
   "id": 1988531,
   "title": "3 New frontend libraries 🎨",
   "description": "Presenting 3 Amazing Component Libraries You Might Not Know About   In this post, I want to...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rolfstreefkerk/how-to-deploy-your-own-website-on-aws-1l05",
   "publish_date": "2024-05-28",
   "published_at": "2024-05-28T03:36:21Z"
- },
- {
-  "id": 1866781,
-  "title": "O nascimento da linguagem de programação Java",
-  "description": "No artigo a seguir, vou abordar o seguinte tema: A nascimento da linguagem de programação Java, a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3qgkm2kf18r8ed0h0vf2.png",
-  "slug": "o-nascimento-da-linguagem-de-programacao-java-2him",
-  "url": "https://dev.to/ujs74wiop6/o-nascimento-da-linguagem-de-programacao-java-2him",
-  "publish_date": "2024-05-27",
-  "published_at": "2024-05-27T17:11:34Z"
- },
- {
-  "id": 1866640,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs8isusspnsro0c9elo45.png",
-  "slug": "meme-monday-4l95",
-  "url": "https://dev.to/ben/meme-monday-4l95",
-  "publish_date": "2024-05-27",
-  "published_at": "2024-05-27T14:03:42Z"
- },
- {
-  "id": 1861880,
-  "title": "Kubernetes fail compilation: but they keep getting worse",
-  "description": "I’ve never been a big gambler. I might have placed a small bet in the past to spice up a Super Bowl...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftrlgk1t25fbqjh654upx.png",
-  "slug": "kubernetes-fail-compilation-but-they-keep-getting-worse-12n2",
-  "url": "https://dev.to/glasskube/kubernetes-fail-compilation-but-they-keep-getting-worse-12n2",
-  "publish_date": "2024-05-27",
-  "published_at": "2024-05-27T10:00:50Z"
- },
- {
-  "id": 1866100,
-  "title": "Build Nuxt authentication with Logto",
-  "description": "Learn how to build a user authentication flow with Nuxt by integrating Logto SDK.              Get...",
-  "cover_image": "",
-  "slug": "build-nuxt-authentication-with-logto-5g9h",
-  "url": "https://dev.to/logto/build-nuxt-authentication-with-logto-5g9h",
-  "publish_date": "2024-05-27",
-  "published_at": "2024-05-27T06:34:29Z"
- },
- {
-  "id": 1865855,
-  "title": "Recruitify - Where Talent Meets Opportunity",
-  "description": "This is a submission for the The AWS Amplify Fullstack TypeScript Challenge            What I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjn9duc9rypc23y2cfyfn.png",
-  "slug": "recruitify-where-talent-meets-opportunity-1185",
-  "url": "https://dev.to/thegeekyamit/recruitify-where-talent-meets-opportunity-1185",
-  "publish_date": "2024-05-27",
-  "published_at": "2024-05-27T05:33:59Z"
  }
 ]
