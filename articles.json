@@ -1,5 +1,55 @@
 [
  {
+  "id": 1992552,
+  "title": "HTTP Cookies Demystified: A Web Developer's Guide",
+  "description": "Understanding HTTP Cookies in Web Development   In this article, we'll explore the ins and...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab790xmsl102jhifj89c.PNG",
+  "slug": "http-cookies-demystified-a-web-developers-guide-5e2d",
+  "url": "https://dev.to/hinedy/http-cookies-demystified-a-web-developers-guide-5e2d",
+  "publish_date": "2024-09-08",
+  "published_at": "2024-09-08T21:49:47Z"
+ },
+ {
+  "id": 1992173,
+  "title": "Por que é necessário Codar Fofo?",
+  "description": "A necessidade de qualidade de software é um tópico de debate em quase todas as áreas de...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzevywmmoqeafhtbiti1.jpeg",
+  "slug": "por-que-e-necessario-codar-fofo-4p6h",
+  "url": "https://dev.to/loremimpsu/por-que-e-necessario-codar-fofo-4p6h",
+  "publish_date": "2024-09-08",
+  "published_at": "2024-09-08T19:20:07Z"
+ },
+ {
+  "id": 1992254,
+  "title": "Python Library that auto-solves TikTok's captchas and lets you upload/schedule videos with TikTok sounds and hashtags",
+  "description": "I released my first python library recently, it is mostly playwright based code but also uses a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmz6ujvmwptl6rbe6qt9v.jpg",
+  "slug": "python-library-that-auto-solves-tiktoks-captchas-and-lets-you-uploadschedule-videos-with-tiktok-sounds-and-hashtags-5h4f",
+  "url": "https://dev.to/haziq_exe/python-library-that-auto-solves-tiktoks-captchas-and-lets-you-uploadschedule-videos-with-tiktok-sounds-and-hashtags-5h4f",
+  "publish_date": "2024-09-08",
+  "published_at": "2024-09-08T17:29:11Z"
+ },
+ {
+  "id": 1991868,
+  "title": "10 Chrome extension to make you 10x webdeveloper",
+  "description": "In webdevelopment, having the right tools at your disposal can make a significant difference in your...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp27tgw2y48higr8bohio.png",
+  "slug": "10-chrome-extension-to-make-you-10x-webdeveloper-4im9",
+  "url": "https://dev.to/paul_freeman/10-chrome-extension-to-make-you-10x-webdeveloper-4im9",
+  "publish_date": "2024-09-08",
+  "published_at": "2024-09-08T10:59:50Z"
+ },
+ {
+  "id": 1991850,
+  "title": "Frontend Dev + Data Structures \u0026 Algorithms: How DSA Can Power Your React App ⚡",
+  "description": "Frontend focused interviews often don’t care about DSA at all.  And for those of us that remember...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivfpbxw46rklqj40wtqy.png",
+  "slug": "frontend-dev-data-structures-algorithms-how-dsa-can-power-your-react-app-491a",
+  "url": "https://dev.to/jayantbh/frontend-dev-data-structures-algorithms-how-dsa-can-power-your-react-app-491a",
+  "publish_date": "2024-09-08",
+  "published_at": "2024-09-08T09:01:48Z"
+ },
+ {
   "id": 1990888,
   "title": "Secure your app in a few lines of code using Arcjet! ✈️",
   "description": "Hi there! I belong to the 21st century. Oh, wait! You too?? Then you must be using something to add...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/code42cate/5-cheap-ways-to-host-postgres-2mal",
   "publish_date": "2024-05-30",
   "published_at": "2024-05-30T09:11:42Z"
- },
- {
-  "id": 1869393,
-  "title": "Join us for the next Frontend Challenge: June Edition",
-  "description": "The wait is over! We are back with another Frontend Challenge.   Running through June 09, Frontend...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwpl3b0e6ppy455rrmaul.png",
-  "slug": "join-us-for-the-next-frontend-challenge-june-edition-3ngl",
-  "url": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-june-edition-3ngl",
-  "publish_date": "2024-05-29",
-  "published_at": "2024-05-29T18:15:05Z"
- },
- {
-  "id": 1868881,
-  "title": "Why Theo is Wrong \u0026 We'll Get a Laravel for JavaScript",
-  "description": "JavaScript's Need for a Full-stack Framework   “Why Don't We Have A Laravel For...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftgxf90vno3718kaqp1ez.png",
-  "slug": "why-we-dont-have-a-laravel-for-javascript-yet-45bi",
-  "url": "https://dev.to/wasp/why-we-dont-have-a-laravel-for-javascript-yet-45bi",
-  "publish_date": "2024-05-29",
-  "published_at": "2024-05-29T13:15:57Z"
- },
- {
-  "id": 1867709,
-  "title": "How to build: a To-Do list app with an embedded AI copilot (Next.js, GPT4, \u0026 CopilotKit)",
-  "description": "TL;DR   A to-do list is a classic project for every dev. In today's world it is great to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj5ha1ty5cu203to1ma04.gif",
-  "slug": "how-to-build-an-ai-powered-to-do-list-nextjs-gpt4-copilotkit-20i4",
-  "url": "https://dev.to/copilotkit/how-to-build-an-ai-powered-to-do-list-nextjs-gpt4-copilotkit-20i4",
-  "publish_date": "2024-05-29",
-  "published_at": "2024-05-29T12:22:46Z"
- },
- {
-  "id": 1868717,
-  "title": "18 Open-Source Projects Every React Developer Should Bookmark 🔥👍",
-  "description": "In the ever-evolving landscape of web development, React developers often find themselves navigating...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fippv5wsa9f8tvi4biees.png",
-  "slug": "18-open-source-projects-every-react-developer-should-bookmark-12nd",
-  "url": "https://dev.to/madza/18-open-source-projects-every-react-developer-should-bookmark-12nd",
-  "publish_date": "2024-05-29",
-  "published_at": "2024-05-29T08:55:26Z"
- },
- {
-  "id": 1868702,
-  "title": "How To Use ChatGPT To Skyrocket Your Engineering Team's Productivity",
-  "description": "The pressure to deliver high-quality software at breakneck speed is a reality every engineering team...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn88o9mjy1a1fymxgdci1.jpg",
-  "slug": "how-to-use-chatgpt-to-skyrocket-your-engineering-teams-productivity-186b",
-  "url": "https://dev.to/middleware/how-to-use-chatgpt-to-skyrocket-your-engineering-teams-productivity-186b",
-  "publish_date": "2024-05-29",
-  "published_at": "2024-05-29T08:47:06Z"
  }
 ]
