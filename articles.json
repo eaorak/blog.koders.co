@@ -1,5 +1,55 @@
 [
  {
+  "id": 1997046,
+  "title": "Building in public a SaaS for $9K",
+  "description": "Hi friends 👋  I'm currently working on building a SaaS platform to help Pilates studios manage...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbupqj7r0642p32dm1j9m.png",
+  "slug": "building-in-public-a-saas-for-9k-3odb",
+  "url": "https://dev.to/oba2311/building-in-public-a-saas-for-9k-3odb",
+  "publish_date": "2024-09-11",
+  "published_at": "2024-09-11T16:10:03Z"
+ },
+ {
+  "id": 1992036,
+  "title": "How to Add RBAC Authorization in Next.js",
+  "description": "Authorization, the process in our applications that determines what users can perform on which...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdfvempfrzz376nh609l.png",
+  "slug": "how-to-add-rbac-authorization-in-nextjs-16m3",
+  "url": "https://dev.to/studio1hq/how-to-add-rbac-authorization-in-nextjs-16m3",
+  "publish_date": "2024-09-11",
+  "published_at": "2024-09-11T14:41:41Z"
+ },
+ {
+  "id": 1996341,
+  "title": "Opaque token vs JWT",
+  "description": "Understand the differences between opaque tokens and JWTs, their use cases, and how they are...",
+  "cover_image": "",
+  "slug": "opaque-token-vs-jwt-54l7",
+  "url": "https://dev.to/logto/opaque-token-vs-jwt-54l7",
+  "publish_date": "2024-09-11",
+  "published_at": "2024-09-11T06:34:59Z"
+ },
+ {
+  "id": 1996255,
+  "title": "Exciting New Features in ECMAScript 2024 (ES15)",
+  "description": "JavaScript continues to evolve, and the upcoming ECMAScript 2024 (ES15) brings a host of new features...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3q6dsons2tofy9wlbcsc.jpg",
+  "slug": "exciting-new-features-in-ecmascript-2024-es15-48p9",
+  "url": "https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9",
+  "publish_date": "2024-09-11",
+  "published_at": "2024-09-11T05:01:49Z"
+ },
+ {
+  "id": 1996168,
+  "title": "Conventional commits won't save your commit messages",
+  "description": "Explore why simply following conventional commits isn't enough to write good commit messages, and...",
+  "cover_image": "",
+  "slug": "conventional-commits-wont-save-your-commit-messages-4ne8",
+  "url": "https://dev.to/logto/conventional-commits-wont-save-your-commit-messages-4ne8",
+  "publish_date": "2024-09-11",
+  "published_at": "2024-09-11T03:03:48Z"
+ },
+ {
   "id": 1953942,
   "title": "21 Developer Tools to Improve Your Daily Life as Developer ⚡🎁",
   "description": "There are thousands of developer tools and packages but the common problem is that most of them are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k",
   "publish_date": "2024-06-02",
   "published_at": "2024-06-02T04:41:59Z"
- },
- {
-  "id": 1872875,
-  "title": "I'm New To Flutter.",
-  "description": "\"Welcome to the world of Flutter!\"   If you're reading this, chances are you're curious...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvyxymdwqdwwk29omz6v4.jpg",
-  "slug": "im-new-to-flutter-3j7g",
-  "url": "https://dev.to/lyzab/im-new-to-flutter-3j7g",
-  "publish_date": "2024-06-01",
-  "published_at": "2024-06-01T19:30:00Z"
- },
- {
-  "id": 1873107,
-  "title": "Creating In-Video Search",
-  "description": "In-video search is ability to search for a specific content within a video. This can include...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffc1orliy3kmqu53y8fv1.png",
-  "slug": "creating-in-video-search-2lk3",
-  "url": "https://dev.to/suyashthakur/creating-in-video-search-2lk3",
-  "publish_date": "2024-06-01",
-  "published_at": "2024-06-01T17:33:52Z"
- },
- {
-  "id": 1873061,
-  "title": "17 Killer Tools \u0026 Web Apps to Boost Your Productivity in 2024 🚀⚡",
-  "description": "Staying productive and efficient has become more critical than ever. Whether managing a team, working...",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XAhY_lDJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://cdn.hashnode.com/res/hashnode/image/upload/v1716482379939/694530fb-f825-4733-bf43-2981d4b43a19.png",
-  "slug": "17-killer-tools-web-apps-to-boost-your-productivity-in-2024-5enp",
-  "url": "https://dev.to/madza/17-killer-tools-web-apps-to-boost-your-productivity-in-2024-5enp",
-  "publish_date": "2024-06-01",
-  "published_at": "2024-06-01T15:19:14Z"
- },
- {
-  "id": 1872955,
-  "title": "🌊 Glam Up My Markup: Beach Edition 🌴",
-  "description": "This is a submission for Frontend Challenge v24.04.17, Glam Up My Markup: Beaches           What I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs1uoc50m9w89b5mw0b7e.png",
-  "slug": "glam-up-my-markup-beach-edition-17d4",
-  "url": "https://dev.to/programordie/glam-up-my-markup-beach-edition-17d4",
-  "publish_date": "2024-06-01",
-  "published_at": "2024-06-01T12:41:40Z"
- },
- {
-  "id": 1872646,
-  "title": "Storing and Handling Confidential Data in ClickHouse",
-  "description": "Introduction   Handling sensitive data securely is critical, especially when migrating from...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7l6jb9ps5a6lgud9z6qb.jpg",
-  "slug": "storing-and-handling-confidential-data-in-clickhouse-2p04",
-  "url": "https://dev.to/ranjbaryshahab/storing-and-handling-confidential-data-in-clickhouse-2p04",
-  "publish_date": "2024-06-01",
-  "published_at": "2024-06-01T03:42:02Z"
  }
 ]
