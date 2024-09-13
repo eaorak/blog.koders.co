@@ -1,5 +1,55 @@
 [
  {
+  "id": 1996803,
+  "title": "13 top open-source tools to ship your apps faster ⚡🚀",
+  "description": "TL;DR   I have worked with many successful developers from different pre-seed and seed-stage...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pv00ncqag9vo0q0q5or.gif",
+  "slug": "13-top-open-source-tools-to-ship-your-apps-faster-4ihl",
+  "url": "https://dev.to/composiodev/13-top-open-source-tools-to-ship-your-apps-faster-4ihl",
+  "publish_date": "2024-09-12",
+  "published_at": "2024-09-12T15:40:42Z"
+ },
+ {
+  "id": 1998338,
+  "title": "What-if I Told You Complex Data Integration Makes Good Task Orchestration?",
+  "description": "No matter how complex your data problem is, you can always Divide \u0026amp; Conquer it.  In this article,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpr6l31wcvglu9xdoivcy.gif",
+  "slug": "what-if-i-told-you-complex-data-integration-makes-good-task-orchestration-3219",
+  "url": "https://dev.to/taipy/what-if-i-told-you-complex-data-integration-makes-good-task-orchestration-3219",
+  "publish_date": "2024-09-12",
+  "published_at": "2024-09-12T15:24:17Z"
+ },
+ {
+  "id": 1997353,
+  "title": "A Complete Guide to Filtering in Vector Search",
+  "description": "Imagine you sell computer hardware. To help shoppers easily find products on your website, you need...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxiyw305qdi1qlw28jclf.png",
+  "slug": "a-complete-guide-to-filtering-in-vector-search-33lk",
+  "url": "https://dev.to/qdrant/a-complete-guide-to-filtering-in-vector-search-33lk",
+  "publish_date": "2024-09-12",
+  "published_at": "2024-09-12T14:45:10Z"
+ },
+ {
+  "id": 1997278,
+  "title": "🎉 Join a squad, contribute code, and win awesome swag from 10 amazing sponsors 🚀",
+  "description": "TL;DR, we created a fantastic event where you can contribute code for any AI repository and get...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmrlcjzfuzg11vq8480l.gif",
+  "slug": "join-a-squad-contribute-code-and-win-awesome-swag-from-10-amazing-sponsors-5b12",
+  "url": "https://dev.to/nevodavid/join-a-squad-contribute-code-and-win-awesome-swag-from-10-amazing-sponsors-5b12",
+  "publish_date": "2024-09-12",
+  "published_at": "2024-09-12T11:06:44Z"
+ },
+ {
+  "id": 1997631,
+  "title": "Understanding Local Storage in JavaScript",
+  "description": "Local Storage is an essential browser-based API that allows developers to store, retrieve, and manage...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9oyu8278whbi7c9toqu3.jpg",
+  "slug": "understanding-local-storage-in-javascript-25e5",
+  "url": "https://dev.to/vyan/understanding-local-storage-in-javascript-25e5",
+  "publish_date": "2024-09-12",
+  "published_at": "2024-09-12T04:57:49Z"
+ },
+ {
   "id": 1997046,
   "title": "Building in public a SaaS for $9K",
   "description": "Hi friends 👋  I'm currently working on building a SaaS platform to help Pilates studios manage...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/wyattdave/whats-your-power-platform-strategy-2a17",
   "publish_date": "2024-06-03",
   "published_at": "2024-06-03T06:05:27Z"
- },
- {
-  "id": 1861926,
-  "title": "11-20 Сustom Utility Types for TypeScript Projects",
-  "description": "In the second part of our exploration into TypeScript development, we introduce ten more custom...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs2ayg5s0kyba73986dnr.png",
-  "slug": "11-20-sustom-utility-types-for-typescript-projects-2bg5",
-  "url": "https://dev.to/antonzo/11-20-sustom-utility-types-for-typescript-projects-2bg5",
-  "publish_date": "2024-06-02",
-  "published_at": "2024-06-02T18:45:21Z"
- },
- {
-  "id": 1873573,
-  "title": "Write SOLID React Hooks",
-  "description": "SOLID is one of the more commonly used design patterns. It's commonly used in many languages and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbv0lw9f81zes10etk7vm.png",
-  "slug": "write-solid-react-hooks-436o",
-  "url": "https://dev.to/perssondennis/write-solid-react-hooks-436o",
-  "publish_date": "2024-06-02",
-  "published_at": "2024-06-02T14:40:00Z"
- },
- {
-  "id": 1872035,
-  "title": "21 VS Code Extensions To Boost Your Productivity",
-  "description": "Hello Devs👋  As developers, we spend most of our time in VS Code. In this post, I will be sharing...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzl13xx8lzyvqwws62sav.gif",
-  "slug": "21-vs-code-extensions-to-boost-your-productivity-1fil",
-  "url": "https://dev.to/dev_kiran/21-vs-code-extensions-to-boost-your-productivity-1fil",
-  "publish_date": "2024-06-02",
-  "published_at": "2024-06-02T10:38:47Z"
- },
- {
-  "id": 1873482,
-  "title": "8 Best Books to Learn System Design in 2024",
-  "description": "My favorite books to learn System design and Software architecture.",
-  "cover_image": "",
-  "slug": "8-best-books-to-learn-system-design-in-2024-15p",
-  "url": "https://dev.to/javinpaul/8-best-books-to-learn-system-design-in-2024-15p",
-  "publish_date": "2024-06-02",
-  "published_at": "2024-06-02T05:20:40Z"
- },
- {
-  "id": 1873470,
-  "title": "The best personal Note-taking app 📙 Fast 🚀 Secure 🔐 and Free 💯",
-  "description": "Hello everyone, about a month ago, I shared my intention to develop a note-taking app, and today I am...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5700hhluq1jq1awi2c5x.jpg",
-  "slug": "the-best-personal-note-taking-app-fast-secure-and-free-257k",
-  "url": "https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k",
-  "publish_date": "2024-06-02",
-  "published_at": "2024-06-02T04:41:59Z"
  }
 ]
