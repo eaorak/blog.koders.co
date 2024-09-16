@@ -1,5 +1,55 @@
 [
  {
+  "id": 2001745,
+  "title": "Glam Up My Markup: Space",
+  "description": "This is a submission for Frontend Challenge v24.09.04, Glam Up My Markup: Space           What I...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr7efr9ajxaw257f1sv4q.png",
+  "slug": "glam-up-my-markup-space-3dki",
+  "url": "https://dev.to/davidthaddeus/glam-up-my-markup-space-3dki",
+  "publish_date": "2024-09-15",
+  "published_at": "2024-09-15T18:23:51Z"
+ },
+ {
+  "id": 2001563,
+  "title": "Microsoft Interview: Tips and Insights from Successful SDE-2 Application (Offer 2024)",
+  "description": "Embarking on the journey to land a Software Development Engineer II (SDE-2) position at a tech giant...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx247be94wmq128rvne2l.png",
+  "slug": "microsoft-interview-tips-and-insights-from-successful-sde-2-application-offer-2024-232f",
+  "url": "https://dev.to/alexr/microsoft-interview-tips-and-insights-from-successful-sde-2-application-offer-2024-232f",
+  "publish_date": "2024-09-15",
+  "published_at": "2024-09-15T14:30:05Z"
+ },
+ {
+  "id": 2001354,
+  "title": "DevOps Basics reaches 200 stars: A milestone celebration 🎉",
+  "description": "I am thrilled to announce that my GitHub repository, devops-basics, has just reached an exciting...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7wo86q9u40j5420xjnxm.png",
+  "slug": "devops-basics-reaches-200-stars-a-milestone-celebration-3hji",
+  "url": "https://dev.to/tungbq/devops-basics-reaches-200-stars-a-milestone-celebration-3hji",
+  "publish_date": "2024-09-15",
+  "published_at": "2024-09-15T09:38:13Z"
+ },
+ {
+  "id": 2001237,
+  "title": "Recipe Genie supercharged with AI",
+  "description": "I submitted Recipe Genie to Quira Quest 12. But this time in Quest 16 I am supercharging it with more...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdqn3964r2xev6ok1tx02.png",
+  "slug": "recipe-genie-supercharged-with-ai-121l",
+  "url": "https://dev.to/komsenapati/recipe-genie-supercharged-with-ai-121l",
+  "publish_date": "2024-09-15",
+  "published_at": "2024-09-15T05:39:36Z"
+ },
+ {
+  "id": 2001211,
+  "title": "Writing Better React Code: A Guide to Clean, Efficient Practices",
+  "description": "As React continues to evolve, it is essential for developers to stay updated with best practices that...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6c0ylc9eb19rnjw9pk7l.jpg",
+  "slug": "writing-better-react-code-a-guide-to-clean-efficient-practices-1h5l",
+  "url": "https://dev.to/vyan/writing-better-react-code-a-guide-to-clean-efficient-practices-1h5l",
+  "publish_date": "2024-09-15",
+  "published_at": "2024-09-15T04:22:23Z"
+ },
+ {
   "id": 1999993,
   "title": "7 BEST VS Code Extensions for Faster Development — 2024 Edition 🚀",
   "description": "How is This Article Different?   Recently, I've seen lots of posts about VS Code extensions....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/essential-github-commands-for-beginners-34ia",
   "publish_date": "2024-06-06",
   "published_at": "2024-06-06T04:03:42Z"
- },
- {
-  "id": 1870649,
-  "title": "List of 50+ organizations on DEV creating valuable content",
-  "description": "It is hard to find organizations on DEV, and I've noticed that they don't receive followers that...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftuwm1jass2fjea6atzvk.jpg",
-  "slug": "list-of-50-organizations-on-dev-creating-valuable-content-2446",
-  "url": "https://dev.to/anmolbaranwal/list-of-50-organizations-on-dev-creating-valuable-content-2446",
-  "publish_date": "2024-06-05",
-  "published_at": "2024-06-05T12:48:40Z"
- },
- {
-  "id": 1877010,
-  "title": "The best free, open-source SaaS template for React \u0026 NodeJS",
-  "description": "Presenting Open SaaS 🎉   We’re really excited to present Open SaaS, the totally free,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa3i7qmbhjfhoyk0339fl.png",
-  "slug": "the-best-free-open-source-saas-template-for-react-nodejs-263",
-  "url": "https://dev.to/wasp/the-best-free-open-source-saas-template-for-react-nodejs-263",
-  "publish_date": "2024-06-05",
-  "published_at": "2024-06-05T08:45:02Z"
- },
- {
-  "id": 1877721,
-  "title": "Tenancy models for a multi-tenant app",
-  "description": "Taking a deeper dive into the notion of \"multi-tenancy\" and sharing our insights on how we perceive...",
-  "cover_image": "",
-  "slug": "tenancy-models-for-a-multi-tenant-app-3429",
-  "url": "https://dev.to/logto/tenancy-models-for-a-multi-tenant-app-3429",
-  "publish_date": "2024-06-05",
-  "published_at": "2024-06-05T08:11:35Z"
- },
- {
-  "id": 1877565,
-  "title": "WEDNESDAY POLL DAY 🤘",
-  "description": "Guys I decided to create something iconic like MEME MONDAYS. What is something that will make us...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkdcbmhdspnv8j9iq0beg.jpg",
-  "slug": "wednesday-poll-day-4p9i",
-  "url": "https://dev.to/mince/wednesday-poll-day-4p9i",
-  "publish_date": "2024-06-05",
-  "published_at": "2024-06-05T06:01:03Z"
- },
- {
-  "id": 1877484,
-  "title": "The Best Alternatives to Postman for API Testing",
-  "description": "Postman is a popular tool for API development and testing, known for its user-friendly interface and...",
-  "cover_image": "",
-  "slug": "the-best-alternatives-to-postman-for-api-testing-2bno",
-  "url": "https://dev.to/vyan/the-best-alternatives-to-postman-for-api-testing-2bno",
-  "publish_date": "2024-06-05",
-  "published_at": "2024-06-05T04:13:26Z"
  }
 ]
