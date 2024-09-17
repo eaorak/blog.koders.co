@@ -1,5 +1,55 @@
 [
  {
+  "id": 1989181,
+  "title": "How I built my Python open-source AI \u0026 Data builder",
+  "description": "It all started with the lack of production-ready tools in Python   At Taipy, we set out to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5zug8rdxvwqv2b5q4e5e.png",
+  "slug": "how-i-built-my-python-open-source-ai-data-builder-l0h",
+  "url": "https://dev.to/taipy/how-i-built-my-python-open-source-ai-data-builder-l0h",
+  "publish_date": "2024-09-16",
+  "published_at": "2024-09-16T16:33:44Z"
+ },
+ {
+  "id": 2002637,
+  "title": "I tested OpenAI's o1-preview for hours—You won't believe what I found 🤯",
+  "description": "TL;DR   Unless you've been living under a rock, you've probably heard about OpenAI's...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F78y94ziihp1uaqnm6iu1.gif",
+  "slug": "i-tested-openais-o1-preview-for-hours-you-wont-believe-what-i-found-n6i",
+  "url": "https://dev.to/composiodev/i-tested-openais-o1-preview-for-hours-you-wont-believe-what-i-found-n6i",
+  "publish_date": "2024-09-16",
+  "published_at": "2024-09-16T15:02:07Z"
+ },
+ {
+  "id": 2000256,
+  "title": "11 Open Source Python Projects You Should Know in 2024 🧑‍💻🪄",
+  "description": "Introduction   Python is one of the easiest programming languages, and it can be used in...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdch857t54wnebiol8i3t.gif",
+  "slug": "11-open-source-python-projects-you-should-know-in-2024-583o",
+  "url": "https://dev.to/arindam_1729/11-open-source-python-projects-you-should-know-in-2024-583o",
+  "publish_date": "2024-09-16",
+  "published_at": "2024-09-16T13:47:00Z"
+ },
+ {
+  "id": 2002235,
+  "title": "Azure DevOps Zero to Hero Series",
+  "description": "Introduction   Welcome to the Azure DevOps Zero to Hero Series! This comprehensive series is...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fntpiw7p511zhfc4t073l.png",
+  "slug": "azure-devops-zero-to-hero-series-145m",
+  "url": "https://dev.to/prodevopsguytech/azure-devops-zero-to-hero-series-145m",
+  "publish_date": "2024-09-16",
+  "published_at": "2024-09-16T06:34:56Z"
+ },
+ {
+  "id": 2002227,
+  "title": "Reactjs Todo List App (Using Vite \u0026 Zustand)",
+  "description": "When building a ReactJS application, managing state efficiently becomes crucial as the app scales....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgwyi7edicyl8558try61.png",
+  "slug": "learn-how-to-use-zustand-for-state-management-in-a-reactjs-todo-list-app-using-vite-32g2",
+  "url": "https://dev.to/jagroop2001/learn-how-to-use-zustand-for-state-management-in-a-reactjs-todo-list-app-using-vite-32g2",
+  "publish_date": "2024-09-16",
+  "published_at": "2024-09-16T06:26:02Z"
+ },
+ {
   "id": 2001745,
   "title": "Glam Up My Markup: Space",
   "description": "This is a submission for Frontend Challenge v24.09.04, Glam Up My Markup: Space           What I...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/ethand91/creating-a-crud-application-with-express-and-htmx-1o08",
   "publish_date": "2024-06-07",
   "published_at": "2024-06-07T04:45:15Z"
- },
- {
-  "id": 1879309,
-  "title": "10 Open Source Tools for Building MLOps Pipelines",
-  "description": "Contrary to traditional software projects, building an ML project is an iterative process and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Faagon22n3wyaqyri0xrg.png",
-  "slug": "10-open-source-tools-for-building-mlops-pipelines-4mp",
-  "url": "https://dev.to/kitops/10-open-source-tools-for-building-mlops-pipelines-4mp",
-  "publish_date": "2024-06-06",
-  "published_at": "2024-06-06T13:49:36Z"
- },
- {
-  "id": 1879294,
-  "title": "O Poder das Tarefas: Como Pequenas Entregas Levam a Grandes Resultados",
-  "description": "No mercado de tecnologia, chamamos de task uma tarefa a ser realizada. Ela contém a descrição do...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkxyrtrxdd2q4h41bevdg.png",
-  "slug": "o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6",
-  "url": "https://dev.to/kecbm/o-poder-das-tarefas-como-pequenas-entregas-levam-a-grandes-resultados-2of6",
-  "publish_date": "2024-06-06",
-  "published_at": "2024-06-06T13:35:01Z"
- },
- {
-  "id": 1879290,
-  "title": "Building an Intelligent Reimbursement Tracking App using OCR with Gemini API + ToolJet 🚀",
-  "description": "Introduction   This tutorial will guide you through building an intelligent reimbursement...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdz8542zj9p2vq1n1oiq5.png",
-  "slug": "building-an-intelligent-reimbursement-tracking-app-using-ocr-with-tooljet-gemini-api-9kb",
-  "url": "https://dev.to/tooljet/building-an-intelligent-reimbursement-tracking-app-using-ocr-with-tooljet-gemini-api-9kb",
-  "publish_date": "2024-06-06",
-  "published_at": "2024-06-06T13:25:06Z"
- },
- {
-  "id": 1877087,
-  "title": "Not 💩, here's how to write actually good commit messages (hint: It's not just adding commit-lint)",
-  "description": "Update build file Fixes dependency array Refactor Fix tests  The most famous: Update README.md...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp9dow0gwlo49dgfjtk8r.png",
-  "slug": "not-heres-how-to-write-actually-good-commit-messages-hint-its-not-just-adding-commit-lint-j2i",
-  "url": "https://dev.to/middleware/not-heres-how-to-write-actually-good-commit-messages-hint-its-not-just-adding-commit-lint-j2i",
-  "publish_date": "2024-06-06",
-  "published_at": "2024-06-06T10:01:04Z"
- },
- {
-  "id": 1878712,
-  "title": "Essential Git Commands for Beginners",
-  "description": "Git is an essential platform for version control and collaboration in software development. It...",
-  "cover_image": "",
-  "slug": "essential-github-commands-for-beginners-34ia",
-  "url": "https://dev.to/vyan/essential-github-commands-for-beginners-34ia",
-  "publish_date": "2024-06-06",
-  "published_at": "2024-06-06T04:03:42Z"
  }
 ]
