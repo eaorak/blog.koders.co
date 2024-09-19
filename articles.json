@@ -1,5 +1,55 @@
 [
  {
+  "id": 2004323,
+  "title": "Introducing our First Community Web Game Challenge 👾",
+  "description": "We are so excited to announce our first community Web Game Challenge!  Running through September 29,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F518m12e5mubo0546mcey.png",
+  "slug": "introducing-our-first-community-web-game-challenge-1loo",
+  "url": "https://dev.to/devteam/introducing-our-first-community-web-game-challenge-1loo",
+  "publish_date": "2024-09-18",
+  "published_at": "2024-09-18T15:17:16Z"
+ },
+ {
+  "id": 2005163,
+  "title": "The Full-Stack Components Customization Pyramid",
+  "description": "Table of Contents    Component Anatomy The Customization Pyramid Appearance Prop Custom...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flyws6pfstrtb620f4cx0.png",
+  "slug": "the-full-stack-components-customization-pyramid-5e72",
+  "url": "https://dev.to/novu/the-full-stack-components-customization-pyramid-5e72",
+  "publish_date": "2024-09-18",
+  "published_at": "2024-09-18T12:50:39Z"
+ },
+ {
+  "id": 2003906,
+  "title": "Glasskube Launch week #2: The wrap up",
+  "description": "And just like that, our second launch week is in the books. Trying to emulate the success of...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fphszxa6ztxmkjfawlgfi.png",
+  "slug": "glasskube-launch-week-2-the-wrap-up-39gp",
+  "url": "https://dev.to/glasskube/glasskube-launch-week-2-the-wrap-up-39gp",
+  "publish_date": "2024-09-18",
+  "published_at": "2024-09-18T10:15:00Z"
+ },
+ {
+  "id": 2002216,
+  "title": "😎Be a 10x Dev With These Amazing Tools v2🧑‍💻",
+  "description": "Hello Devs! 👋  I'm back with another set of some amazing tools that can help boost your productivity...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4z804a5xk0g03fdlkyb.gif",
+  "slug": "be-a-10x-dev-with-these-amazing-tools-v2-1dmj",
+  "url": "https://dev.to/dev_kiran/be-a-10x-dev-with-these-amazing-tools-v2-1dmj",
+  "publish_date": "2024-09-18",
+  "published_at": "2024-09-18T05:15:50Z"
+ },
+ {
+  "id": 2004634,
+  "title": "100+ React E-Commerce Components for Modern Stores",
+  "description": "Looking to build an e-commerce site with React and Tailwind CSS? You're in the right place! TailGrids...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7frolrpam6lpaf0izqab.png",
+  "slug": "react-e-commerce-components-4nd4",
+  "url": "https://dev.to/tailwindcss/react-e-commerce-components-4nd4",
+  "publish_date": "2024-09-18",
+  "published_at": "2024-09-18T03:56:20Z"
+ },
+ {
   "id": 2003936,
   "title": "Congrats to the Frontend Challenge: Space Edition Winners!",
   "description": "Today’s the day! We are excited to announce the winners of Frontend Challenge: Space Edition.  This...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/somadevtoo/database-sharding-for-system-design-interview-1k6b",
   "publish_date": "2024-06-09",
   "published_at": "2024-06-09T08:05:27Z"
- },
- {
-  "id": 1880558,
-  "title": "MT-Bench: Comparing different LLM Judges",
-  "description": "By default, MT-Bench uses OpenAI as a service provider with a gpt-4 model ID, which is a vanilla...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flpbk1epqknqkuvbeg7vl.png",
-  "slug": "mt-bench-comparing-different-llm-judges-4nah",
-  "url": "https://dev.to/maximsaplin/mt-bench-comparing-different-llm-judges-4nah",
-  "publish_date": "2024-06-08",
-  "published_at": "2024-06-08T17:27:10Z"
- },
- {
-  "id": 1881316,
-  "title": "Forget Shadcn, Tailus UI React is now stable",
-  "description": "Tailus UI React is a modern React UI Kit for building custom, accessible web UIs on top of Radix UI...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg0npp2wujrkcnlxinenl.png",
-  "slug": "forget-shadcn-tailus-ui-react-is-now-stable-d16",
-  "url": "https://dev.to/meschacirung/forget-shadcn-tailus-ui-react-is-now-stable-d16",
-  "publish_date": "2024-06-08",
-  "published_at": "2024-06-08T14:45:53Z"
- },
- {
-  "id": 1881306,
-  "title": "Provide a detailed introduction to KMM technology",
-  "description": "1. Introduction to KMM Technology   KMM (Kotlin Multiplatform Mobile) is an extension of the...",
-  "cover_image": "",
-  "slug": "provide-a-detailed-introduction-to-kmm-technology-4feb",
-  "url": "https://dev.to/happyer/provide-a-detailed-introduction-to-kmm-technology-4feb",
-  "publish_date": "2024-06-08",
-  "published_at": "2024-06-08T12:02:39Z"
- },
- {
-  "id": 1881161,
-  "title": "How to Create Linux virtual machine on Azure SSH into Linux server and install nginx on it.",
-  "description": "In this article we will create a linux virtual mirchine, SSH into the Linux server and also install...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frq05zdfd6z22jcjcx4ba.png",
-  "slug": "how-to-install-linux-virtual-machine-on-azure-and-ssh-into-linux-server-4oon",
-  "url": "https://dev.to/olaraph/how-to-install-linux-virtual-machine-on-azure-and-ssh-into-linux-server-4oon",
-  "publish_date": "2024-06-08",
-  "published_at": "2024-06-08T07:40:59Z"
- },
- {
-  "id": 1881122,
-  "title": "JavaScript Performance: Making Websites Fast and Responsive🚀🚀🚀",
-  "description": "Creating a fast and responsive website is essential for user satisfaction and engagement. This guide...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xepf8c2i8zhw27ao7kv.png",
-  "slug": "javascript-performance-making-websites-fast-and-responsive-g9",
-  "url": "https://dev.to/dharamgfx/javascript-performance-making-websites-fast-and-responsive-g9",
-  "publish_date": "2024-06-08",
-  "published_at": "2024-06-08T06:12:09Z"
  }
 ]
