@@ -1,5 +1,55 @@
 [
  {
+  "id": 2006826,
+  "title": "I was tired of manual research and web design, so I built an AI bot for it 🤖✨",
+  "description": "TL;DR   I have been juggling many tasks lately, which leaves me little time for researching...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fny2nvnxpvyhaunwpwdek.gif",
+  "slug": "i-was-tired-of-manual-research-and-web-design-so-i-built-an-ai-bot-for-it-1mh3",
+  "url": "https://dev.to/composiodev/i-was-tired-of-manual-research-and-web-design-so-i-built-an-ai-bot-for-it-1mh3",
+  "publish_date": "2024-09-19",
+  "published_at": "2024-09-19T14:50:48Z"
+ },
+ {
+  "id": 2006831,
+  "title": "New Values and Functions in CSS",
+  "description": "The CSS Working Group released the first Public Working Draft for the CSS Values and Units Module Level 5. It describes the common values and units that CSS properties accept and the syntax used for them, and it comes with some interesting new features.",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkvthkzo9pmthdyucuf7n.png",
+  "slug": "new-values-and-functions-in-css-1b9o",
+  "url": "https://dev.to/alvaromontoro/new-values-and-functions-in-css-1b9o",
+  "publish_date": "2024-09-19",
+  "published_at": "2024-09-19T14:06:53Z"
+ },
+ {
+  "id": 1968309,
+  "title": "17 LLM Tools That Went Viral After Launch 🎯⚡😳",
+  "description": "AI is not going down anytime soon especially because of free powerful LLMs like GPT-4o and Claude.  A...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0i5x9yt0tl56ax69p9nu.png",
+  "slug": "17-llm-tools-that-went-viral-after-launch-4gim",
+  "url": "https://dev.to/latitude/17-llm-tools-that-went-viral-after-launch-4gim",
+  "publish_date": "2024-09-19",
+  "published_at": "2024-09-19T13:08:41Z"
+ },
+ {
+  "id": 2006559,
+  "title": "14 Case Studies: Master System Design in a Month",
+  "description": "Are you looking to master system design in record time? The fastest way to accelerate your learning...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1iwgd4yqx4qiqfujzjmh.png",
+  "slug": "14-case-studies-master-system-design-in-a-month-2jk2",
+  "url": "https://dev.to/alexr/14-case-studies-master-system-design-in-a-month-2jk2",
+  "publish_date": "2024-09-19",
+  "published_at": "2024-09-19T10:18:59Z"
+ },
+ {
+  "id": 2006198,
+  "title": "Docker Cheat-sheet for beginners 🐳",
+  "description": "🔧 Common Docker Commands     Start Docker:       systemctl start docker  # Linux   open -a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxm0lscawycucd500c4t6.png",
+  "slug": "docker-cheat-sheet-for-beginners-18mo",
+  "url": "https://dev.to/keshav___dev/docker-cheat-sheet-for-beginners-18mo",
+  "publish_date": "2024-09-19",
+  "published_at": "2024-09-19T03:48:19Z"
+ },
+ {
   "id": 2004323,
   "title": "Introducing our First Community Web Game Challenge 👾",
   "description": "We are so excited to announce our first community Web Game Challenge!  Running through September 29,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/gauri1504/building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3",
   "publish_date": "2024-06-10",
   "published_at": "2024-06-10T03:49:00Z"
- },
- {
-  "id": 1882251,
-  "title": "Improving Developer Productivity With Pieces",
-  "description": "Introduction   Hello everyone! Recently, I got introduced to a developer tool from a Twitter...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcl8yo5byfnz37ynq01wm.png",
-  "slug": "improving-developer-productivity-with-pieces-if3",
-  "url": "https://dev.to/olibhiaghosh/improving-developer-productivity-with-pieces-if3",
-  "publish_date": "2024-06-09",
-  "published_at": "2024-06-09T17:32:56Z"
- },
- {
-  "id": 1882230,
-  "title": "Frontend Challenge | Best Beaches in the World!",
-  "description": "This is a submission for Frontend Challenge v24.04.17, CSS Art: June.  🌴🏖️ Welcome to My June CSS...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fin6aqx31tjua1javqlxr.png",
-  "slug": "frontend-challenge-best-beaches-in-the-world-ddg",
-  "url": "https://dev.to/hikolakita/frontend-challenge-best-beaches-in-the-world-ddg",
-  "publish_date": "2024-06-09",
-  "published_at": "2024-06-09T17:13:22Z"
- },
- {
-  "id": 1877693,
-  "title": "Advice for Intermediate developers",
-  "description": "Prologue   I wrote this blog five years ago when I was a junior developer. The tips I shared...",
-  "cover_image": "",
-  "slug": "advice-for-intermediate-developers-4777",
-  "url": "https://dev.to/rampa2510/advice-for-intermediate-developers-4777",
-  "publish_date": "2024-06-09",
-  "published_at": "2024-06-09T15:50:55Z"
- },
- {
-  "id": 1882025,
-  "title": "I’ve worked in IT for over 10 years. Here are 5 things I wish I knew when I started",
-  "description": "Hello, dear Dev.to community. I need to get some things off my chest, so here I am, hoping to share...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flxid8vdw7mct22d33mh8.png",
-  "slug": "ive-worked-in-it-for-over-10-years-here-are-5-things-i-wish-i-knew-when-i-started-43pe",
-  "url": "https://dev.to/vorniches/ive-worked-in-it-for-over-10-years-here-are-5-things-i-wish-i-knew-when-i-started-43pe",
-  "publish_date": "2024-06-09",
-  "published_at": "2024-06-09T12:22:22Z"
- },
- {
-  "id": 1867387,
-  "title": "Database Sharding for System Design Interview",
-  "description": "A complete guide of database sharding for system design, why use it and how it works for your system design interview.",
-  "cover_image": "",
-  "slug": "database-sharding-for-system-design-interview-1k6b",
-  "url": "https://dev.to/somadevtoo/database-sharding-for-system-design-interview-1k6b",
-  "publish_date": "2024-06-09",
-  "published_at": "2024-06-09T08:05:27Z"
  }
 ]
