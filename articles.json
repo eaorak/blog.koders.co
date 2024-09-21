@@ -1,5 +1,55 @@
 [
  {
+  "id": 2008035,
+  "title": "GitHub: learning about the feature called Issues☕",
+  "description": "What is an \"issue\" about?    Issues are used to track bugs and suggest improvements,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff33n2ck0lxwabyoq6r5i.png",
+  "slug": "github-learning-about-the-feature-called-issues-2ifm",
+  "url": "https://dev.to/ledscolatina/github-learning-about-the-feature-called-issues-2ifm",
+  "publish_date": "2024-09-20",
+  "published_at": "2024-09-20T13:07:31Z"
+ },
+ {
+  "id": 2007521,
+  "title": "Is FreeCAD Nailing PRs or Just Blazing Through Merges?",
+  "description": "FreeCAD, the open-source 3D CAD modeler, has garnered quite a community with over 12,000 commits,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgfoczjnhc4i0xno5myr6.jpg",
+  "slug": "is-freecad-nailing-prs-or-just-blazing-through-merges-4mnk",
+  "url": "https://dev.to/middleware/is-freecad-nailing-prs-or-just-blazing-through-merges-4mnk",
+  "publish_date": "2024-09-20",
+  "published_at": "2024-09-20T05:04:59Z"
+ },
+ {
+  "id": 2007503,
+  "title": "Unlock Seamless Authentication with FACEIO: A Guide for Developers",
+  "description": "Table of Contents    Introduction Why Choose FACEIO? Key Features  Getting Started with...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsraiz0v5t9fka00mdc0.gif",
+  "slug": "unlock-seamless-authentication-with-faceio-a-guide-for-developers-36f6",
+  "url": "https://dev.to/vyan/unlock-seamless-authentication-with-faceio-a-guide-for-developers-36f6",
+  "publish_date": "2024-09-20",
+  "published_at": "2024-09-20T04:22:35Z"
+ },
+ {
+  "id": 2006870,
+  "title": "100+ React Dashboard Components to Use in 2024",
+  "description": "Are you working on a React-based admin panel or dashboard project in 2024? If you are looking for the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpnhtuj6gu9he4d59pgwm.png",
+  "slug": "100-react-dashboard-components-to-use-in-2024-3ked",
+  "url": "https://dev.to/tailwindcss/100-react-dashboard-components-to-use-in-2024-3ked",
+  "publish_date": "2024-09-20",
+  "published_at": "2024-09-20T04:00:00Z"
+ },
+ {
+  "id": 2007360,
+  "title": "Automate your custom sign-in UI deployment with GitHub Actions workflow",
+  "description": "Let's show you how to automate the deployment of your custom sign-in UI to Logto Cloud in your devops...",
+  "cover_image": "",
+  "slug": "automate-your-custom-sign-in-ui-deployment-with-github-actions-workflow-24oe",
+  "url": "https://dev.to/logto/automate-your-custom-sign-in-ui-deployment-with-github-actions-workflow-24oe",
+  "publish_date": "2024-09-20",
+  "published_at": "2024-09-20T01:07:11Z"
+ },
+ {
   "id": 2006826,
   "title": "I was tired of manual research and web design, so I built an AI bot for it 🤖✨",
   "description": "TL;DR   I have been juggling many tasks lately, which leaves me little time for researching...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/latitude/mastering-embedded-analytics-a-getting-started-guide-4od5",
   "publish_date": "2024-06-11",
   "published_at": "2024-06-11T09:12:13Z"
- },
- {
-  "id": 1883182,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm24zddvttq0aiu5fsb35.png",
-  "slug": "meme-monday-13l3",
-  "url": "https://dev.to/ben/meme-monday-13l3",
-  "publish_date": "2024-06-10",
-  "published_at": "2024-06-10T11:49:26Z"
- },
- {
-  "id": 1880830,
-  "title": "Going from SDE1 to SDE2, and beyond! 🚀 What it actually takes.",
-  "description": "\"I'm good at writing code. Just this month I shipped 11 PRs! I even updated most of my tickets on...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F414km87bw9mrgd83jcio.png",
-  "slug": "going-from-sde1-to-sde2-and-beyond-what-it-actually-takes-1cld",
-  "url": "https://dev.to/middleware/going-from-sde1-to-sde2-and-beyond-what-it-actually-takes-1cld",
-  "publish_date": "2024-06-10",
-  "published_at": "2024-06-10T11:10:21Z"
- },
- {
-  "id": 1882923,
-  "title": "Glasskube reaches 1k stars 🌟",
-  "description": "I was trying to thinking of sayings or mantra’s ambitious people repeat to themselves to keep...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa61yodtax6q5k4z98why.png",
-  "slug": "glasskube-reaches-1k-stars-o5j",
-  "url": "https://dev.to/glasskube/glasskube-reaches-1k-stars-o5j",
-  "publish_date": "2024-06-10",
-  "published_at": "2024-06-10T09:04:10Z"
- },
- {
-  "id": 1873006,
-  "title": "Let's Talk About Dataverse Low-Code Plugins",
-  "description": "If you haven't heard about Dataverse Low-Code plugins let me catch you up.  For starters plugins are...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpkxhy6pzfdlq0llpyn6t.png",
-  "slug": "lets-talk-about-dataverse-low-code-plugins-4im2",
-  "url": "https://dev.to/wyattdave/lets-talk-about-dataverse-low-code-plugins-4im2",
-  "publish_date": "2024-06-10",
-  "published_at": "2024-06-10T05:51:01Z"
- },
- {
-  "id": 1880237,
-  "title": "Building a Bulletproof CI/CD Pipeline: A Comprehensive Guide",
-  "description": "Welcome Aboard Week 2 of DevSecOps in 5: Your Ticket to Secure Development Superpowers! _Hey there,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F98w65wwomjpz2q20zcb7.jpg",
-  "slug": "building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3",
-  "url": "https://dev.to/gauri1504/building-a-bulletproof-cicd-pipeline-a-comprehensive-guide-3jg3",
-  "publish_date": "2024-06-10",
-  "published_at": "2024-06-10T03:49:00Z"
  }
 ]
