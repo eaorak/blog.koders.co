@@ -1,5 +1,55 @@
 [
  {
+  "id": 2009029,
+  "title": "DNS Basics: How Domain Name System Connects Websites",
+  "description": "What is DNS?   DNS stands for Domain Name System. It’s like the phonebook of the internet....",
+  "cover_image": "",
+  "slug": "dns-basics-how-domain-name-system-connects-websites-24jj",
+  "url": "https://dev.to/abhixsh/dns-basics-how-domain-name-system-connects-websites-24jj",
+  "publish_date": "2024-09-21",
+  "published_at": "2024-09-21T12:38:49Z"
+ },
+ {
+  "id": 2008916,
+  "title": "🌟 You’ve Come a Long Way, Developer! 🚀",
+  "description": "Whether you’re just starting out, working in an office, contributing to open source, or freelancing,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvpq0jk33yz4pg3eze1nw.jpg",
+  "slug": "youve-come-a-long-way-developer-42ek",
+  "url": "https://dev.to/jagroop2001/youve-come-a-long-way-developer-42ek",
+  "publish_date": "2024-09-21",
+  "published_at": "2024-09-21T09:03:27Z"
+ },
+ {
+  "id": 2008903,
+  "title": "The Complete Guide to Becoming a Software Development Engineer (SDE)",
+  "description": "Hey reader 👋  Hope you are doing well 😃  Becoming a Software Development Engineer (SDE) in a top...",
+  "cover_image": "",
+  "slug": "the-complete-guide-to-becoming-a-software-development-engineer-sde-pn1",
+  "url": "https://dev.to/ngneha09/the-complete-guide-to-becoming-a-software-development-engineer-sde-pn1",
+  "publish_date": "2024-09-21",
+  "published_at": "2024-09-21T08:45:17Z"
+ },
+ {
+  "id": 2008768,
+  "title": "Why might Rust be a smart choice for developers today?",
+  "description": "Why might Rust be a smart choice for developers today?  Video Version     Rust was recently added to...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqjqoepere9i99gwpqf1m.png",
+  "slug": "why-might-rust-be-a-smart-choice-for-developers-today-4ol1",
+  "url": "https://dev.to/francescoxx/why-might-rust-be-a-smart-choice-for-developers-today-4ol1",
+  "publish_date": "2024-09-21",
+  "published_at": "2024-09-21T04:41:26Z"
+ },
+ {
+  "id": 2008760,
+  "title": "How to Implement a 3D Solar System in React with Three.js",
+  "description": "Creating a 3D solar system in React can be a fascinating way to explore the combination of web...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feu6h1u9bv8rg3775i7bh.gif",
+  "slug": "how-to-implement-a-3d-solar-system-in-react-with-threejs-3pem",
+  "url": "https://dev.to/vyan/how-to-implement-a-3d-solar-system-in-react-with-threejs-3pem",
+  "publish_date": "2024-09-21",
+  "published_at": "2024-09-21T04:18:04Z"
+ },
+ {
   "id": 2008035,
   "title": "GitHub: learning about the feature called Issues☕",
   "description": "What is an \"issue\" about?    Issues are used to track bugs and suggest improvements,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/themesberg/tailwind-css-refund-form-component-examples-78a",
   "publish_date": "2024-06-12",
   "published_at": "2024-06-12T09:49:09Z"
- },
- {
-  "id": 1884490,
-  "title": "Congrats to the Frontend Challenge: June Edition Winners!",
-  "description": "The wait is over! We are excited to announce the winners of the Frontend Challenge: June...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F76curn3mtxxbczags5ia.png",
-  "slug": "congrats-to-the-frontend-challenge-june-edition-winners-26kd",
-  "url": "https://dev.to/devteam/congrats-to-the-frontend-challenge-june-edition-winners-26kd",
-  "publish_date": "2024-06-11",
-  "published_at": "2024-06-11T14:56:16Z"
- },
- {
-  "id": 1883540,
-  "title": "Build a QA Bot for your documentation with Langchain",
-  "description": "A ChatGPT client app built with Wing Framework, NextJS, and Langchain",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbujqjtz43gr55u6g2dfj.png",
-  "slug": "build-a-qa-bot-for-your-documentation-with-langchain-27i4",
-  "url": "https://dev.to/winglang/build-a-qa-bot-for-your-documentation-with-langchain-27i4",
-  "publish_date": "2024-06-11",
-  "published_at": "2024-06-11T13:22:48Z"
- },
- {
-  "id": 1884334,
-  "title": "Building an Ed-Tech Sales CRM using ToolJet",
-  "description": "Introduction   An effective Customer Relationship Management (CRM) system can help Ed-tech...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfkgjn3xvd24odzxmf6z.png",
-  "slug": "building-an-ed-tech-sales-crm-using-tooljet-3e2i",
-  "url": "https://dev.to/tooljet/building-an-ed-tech-sales-crm-using-tooljet-3e2i",
-  "publish_date": "2024-06-11",
-  "published_at": "2024-06-11T12:33:52Z"
- },
- {
-  "id": 1884232,
-  "title": "I've been writing TypeScript without understanding it",
-  "description": "I admit, I don’t really understand TypeScript   The other day, I was stuck with a bug in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9m7nej8pkl3vkob99pz8.png",
-  "slug": "ive-been-writing-typescript-without-understanding-it-5ef4",
-  "url": "https://dev.to/wasp/ive-been-writing-typescript-without-understanding-it-5ef4",
-  "publish_date": "2024-06-11",
-  "published_at": "2024-06-11T12:00:00Z"
- },
- {
-  "id": 1883664,
-  "title": "Mastering Embedded Analytics: A Getting Started Guide 📊",
-  "description": "TL;DR   This article will walk you through all the information you need about embedded...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmt6z72b48pkr586i3n5f.png",
-  "slug": "mastering-embedded-analytics-a-getting-started-guide-4od5",
-  "url": "https://dev.to/latitude/mastering-embedded-analytics-a-getting-started-guide-4od5",
-  "publish_date": "2024-06-11",
-  "published_at": "2024-06-11T09:12:13Z"
  }
 ]
