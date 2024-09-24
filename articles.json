@@ -1,5 +1,55 @@
 [
  {
+  "id": 2011601,
+  "title": "Hacktoberfest: Your Open Source Journey Starts Here",
+  "description": "What is Open Source? What is hacktoberfest? Why is everyone talking about it? I know GitHub but how...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fun87vatpbo1gnirqzkqj.png",
+  "slug": "hacktoberfest-your-open-source-journey-starts-here-l1d",
+  "url": "https://dev.to/shelar1423/hacktoberfest-your-open-source-journey-starts-here-l1d",
+  "publish_date": "2024-09-23",
+  "published_at": "2024-09-23T15:43:27Z"
+ },
+ {
+  "id": 2011592,
+  "title": "I saved my team 20 hours by automating support emails with this AI tool 🤔",
+  "description": "TL;DR   At Composio, we have been receiving a lot of emails lately regarding tech support,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy29g9u0g8otawka0x0ez.gif",
+  "slug": "i-saved-my-team-20-hours-by-automating-support-emails-with-this-ai-tool-13o6",
+  "url": "https://dev.to/composiodev/i-saved-my-team-20-hours-by-automating-support-emails-with-this-ai-tool-13o6",
+  "publish_date": "2024-09-23",
+  "published_at": "2024-09-23T15:27:32Z"
+ },
+ {
+  "id": 2006840,
+  "title": "I easily translated my React.js applications into multiple languages. Here is how... 🤯",
+  "description": "Translating an App to multiple languages (localization) is tricky part of many applications.  Tolgee...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0i50ufy0ict8qsacfk5v.gif",
+  "slug": "i-easily-translated-my-reactjs-applications-into-multiple-languages-here-is-how-1cbn",
+  "url": "https://dev.to/tolgee_i18n/i-easily-translated-my-reactjs-applications-into-multiple-languages-here-is-how-1cbn",
+  "publish_date": "2024-09-23",
+  "published_at": "2024-09-23T13:35:30Z"
+ },
+ {
+  "id": 2006754,
+  "title": "Building a Real-Time Chat Application with Socket.io, Express, React.js, and Chakra UI (Vite Setup)",
+  "description": "In this blog, we’ll build a real-time chat application using Socket.io for bi-directional...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzcxm4c1rhv4p67gx5xlx.jpg",
+  "slug": "building-a-real-time-chat-application-with-socketio-express-reactjs-and-chakra-ui-vite-setup-5h5p",
+  "url": "https://dev.to/jagroop2001/building-a-real-time-chat-application-with-socketio-express-reactjs-and-chakra-ui-vite-setup-5h5p",
+  "publish_date": "2024-09-23",
+  "published_at": "2024-09-23T06:12:09Z"
+ },
+ {
+  "id": 2010476,
+  "title": "21+ Top React Footer Components to Use in 2024",
+  "description": "Your website's footer may be the last thing visitors see, but it plays a crucial role in user...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzeilxug77iy9t5yinbne.png",
+  "slug": "21-top-react-footer-components-to-use-in-2024-4e8o",
+  "url": "https://dev.to/tailwindcss/21-top-react-footer-components-to-use-in-2024-4e8o",
+  "publish_date": "2024-09-23",
+  "published_at": "2024-09-23T04:09:59Z"
+ },
+ {
   "id": 2010200,
   "title": "10 Software Design and Programming Best Practices for Developers",
   "description": "These are collections of coding best practices, programming best practices, and software design best practices for developers. ",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/encore/build-a-chat-room-with-custom-bots-powered-by-openaigemini-47h3",
   "publish_date": "2024-06-14",
   "published_at": "2024-06-14T07:49:09Z"
- },
- {
-  "id": 1887403,
-  "title": "Design Pattern #2 - Facade Pattern",
-  "description": "Let’s continue our quest on learning new the trending design patterns for front-end developers....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3alzejsponr1hi0y4czo.png",
-  "slug": "design-pattern-2-facade-pattern-1dhl",
-  "url": "https://dev.to/superviz/design-pattern-2-facade-pattern-1dhl",
-  "publish_date": "2024-06-13",
-  "published_at": "2024-06-13T14:49:55Z"
- },
- {
-  "id": 1887229,
-  "title": "Build an AI Business Proposal Writer Using Gemini API and ToolJet in 10 minutes 🚀",
-  "description": "In this tutorial, we'll guide you through the process of creating an AI Business Proposal Writer...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcs06bknr8bf8xea0549o.png",
-  "slug": "build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j",
-  "url": "https://dev.to/tooljet/build-an-ai-business-proposal-writer-using-gemini-api-and-tooljet-in-10-minutes-4j3j",
-  "publish_date": "2024-06-13",
-  "published_at": "2024-06-13T13:03:15Z"
- },
- {
-  "id": 1887224,
-  "title": "Deep learning with cats",
-  "description": "This is a submission for DEV Computer Science Challenge v24.06.12: One Byte Explainer.          ...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1hqayrv7d4h9dsskh083.jpg",
-  "slug": "deep-learning-with-cats-5ae1",
-  "url": "https://dev.to/mishmanners/deep-learning-with-cats-5ae1",
-  "publish_date": "2024-06-13",
-  "published_at": "2024-06-13T12:51:06Z"
- },
- {
-  "id": 1864159,
-  "title": "Top 10 common errors I wish I hadn’t made using SQS",
-  "description": "Common errors using SQS and how to solves them",
-  "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--Yvcuy3sQ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://raw.githubusercontent.com/CorentinDoue/articles/master/blog-posts/swarmion-sqs-contract/assets/cov.png",
-  "slug": "top-10-common-errors-i-wish-i-hadnt-made-using-sqs-3jg2",
-  "url": "https://dev.to/slsbytheodo/top-10-common-errors-i-wish-i-hadnt-made-using-sqs-3jg2",
-  "publish_date": "2024-06-13",
-  "published_at": "2024-06-13T11:56:11Z"
- },
- {
-  "id": 1886634,
-  "title": "How to Test Local Website on Mobile Devices",
-  "description": "During the building of a website, developers often need to test whether their site is responsive,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F94udw22mmt9hg51o6zye.jpg",
-  "slug": "how-to-test-local-website-on-mobile-devices-2p69",
-  "url": "https://dev.to/codingnepal/how-to-test-local-website-on-mobile-devices-2p69",
-  "publish_date": "2024-06-13",
-  "published_at": "2024-06-13T07:45:28Z"
  }
 ]
