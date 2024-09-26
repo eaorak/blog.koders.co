@@ -1,5 +1,55 @@
 [
  {
+  "id": 2014447,
+  "title": "Show us your open-source project!",
+  "description": "Hello everybody,  I'm Antonio, CEO at Litlyx.  A while ago, I made a post similar to this to give...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0hxwmon9210x6nboqogy.png",
+  "slug": "show-us-your-open-source-project-32o",
+  "url": "https://dev.to/litlyx/show-us-your-open-source-project-32o",
+  "publish_date": "2024-09-25",
+  "published_at": "2024-09-25T13:01:26Z"
+ },
+ {
+  "id": 2014234,
+  "title": "Why You Need (More Than) Locks: Ensuring Consistency with Transactions in Your No-Code Applications",
+  "description": "TL;DR   Consistency is vital in no-code development for user trust. Many platforms struggle...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F84p7804n10r7lgcx3pkj.png",
+  "slug": "why-you-need-more-than-locks-ensuring-consistency-with-transactions-in-your-no-code-applications-kkj",
+  "url": "https://dev.to/momen_hq/why-you-need-more-than-locks-ensuring-consistency-with-transactions-in-your-no-code-applications-kkj",
+  "publish_date": "2024-09-25",
+  "published_at": "2024-09-25T10:36:57Z"
+ },
+ {
+  "id": 2011420,
+  "title": "Linux, I Choose You! 🐧",
+  "description": "First off, I’m not here to tell you what to do or shame anyone for making different choices. What...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8pdlz1q9to7nm4pqqh28.png",
+  "slug": "linux-i-choose-you-5ebe",
+  "url": "https://dev.to/jimmymcbride/linux-i-choose-you-5ebe",
+  "publish_date": "2024-09-25",
+  "published_at": "2024-09-25T05:00:00Z"
+ },
+ {
+  "id": 2013755,
+  "title": "Mastering the Developer's Journey: From Challenges to Confidence",
+  "description": "Every coding journey is unique, shaped by experiences, challenges, and the desire to create something...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fag5zca5pqtxsmiqjlys3.png",
+  "slug": "mastering-the-developers-journey-from-challenges-to-confidence-5ffl",
+  "url": "https://dev.to/creowistech/mastering-the-developers-journey-from-challenges-to-confidence-5ffl",
+  "publish_date": "2024-09-25",
+  "published_at": "2024-09-25T03:04:20Z"
+ },
+ {
+  "id": 2013751,
+  "title": "Avoiding Unnecessary Re-renders in React",
+  "description": "One of the keys to building performant React applications is avoiding unnecessary re-renders. React's...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq8uj7sbss32kqzbco3ps.jpg",
+  "slug": "avoiding-unnecessary-re-renders-in-react-172k",
+  "url": "https://dev.to/vyan/avoiding-unnecessary-re-renders-in-react-172k",
+  "publish_date": "2024-09-25",
+  "published_at": "2024-09-25T02:59:08Z"
+ },
+ {
   "id": 2013002,
   "title": "Three New Deals Are Live on DEV++ 🎉",
   "description": "More benefits are available to DEV++ members!  DEV++ is a bundle of exclusive discounts and features...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cometkim/dealing-with-unicode-string-done-right-and-better-2nei",
   "publish_date": "2024-06-16",
   "published_at": "2024-06-16T02:59:00Z"
- },
- {
-  "id": 1889716,
-  "title": "Mastering Clean Code: Essential Practices for Developers",
-  "description": "Clean code is the cornerstone of every successful software project. As a developer, your ability to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fitm3rdf3es991t5t106u.png",
-  "slug": "mastering-clean-code-essential-practices-for-developers-1287",
-  "url": "https://dev.to/mahabubr/mastering-clean-code-essential-practices-for-developers-1287",
-  "publish_date": "2024-06-15",
-  "published_at": "2024-06-15T16:56:04Z"
- },
- {
-  "id": 1889615,
-  "title": "Must-Have Software for macOS Developers in 2024",
-  "description": "Here’s a summary of essential software for MacOS development. All of these tools are free, and most...",
-  "cover_image": "",
-  "slug": "must-have-software-for-macos-developers-in-2024-3885",
-  "url": "https://dev.to/lunamiller/must-have-software-for-macos-developers-in-2024-3885",
-  "publish_date": "2024-06-15",
-  "published_at": "2024-06-15T14:43:05Z"
- },
- {
-  "id": 1889491,
-  "title": "How to Easily Add Translations to Your React Apps with i18next",
-  "description": "Multilingual support is a crucial aspect of modern web applications. By providing translations in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkhjwm90o9gm4jyk1ermy.png",
-  "slug": "how-to-easily-add-translations-to-your-react-apps-with-i18next-66h",
-  "url": "https://dev.to/codeparrot/how-to-easily-add-translations-to-your-react-apps-with-i18next-66h",
-  "publish_date": "2024-06-15",
-  "published_at": "2024-06-15T11:07:10Z"
- },
- {
-  "id": 1889483,
-  "title": "React Firebase Auth Template (With Protected Routes)",
-  "description": "TLDR: got tired of setting up this lightweight stack over and over again for some clients so i made a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqa4gpzxcsdff75yxy957.png",
-  "slug": "react-firebase-auth-template-with-protected-routes-1974",
-  "url": "https://dev.to/mmvergara/react-firebase-auth-template-with-protected-routes-1974",
-  "publish_date": "2024-06-15",
-  "published_at": "2024-06-15T10:43:24Z"
- },
- {
-  "id": 1889453,
-  "title": "The Azure Hub ☁️ Your Azure learning resources 📚",
-  "description": "Greetings 👋   Hi there! Tung Leo here. Previously, I've published The AWS Hub ☁️ Your new...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3vmbzn6q3a7oity9hojp.png",
-  "slug": "the-azure-hub-your-azure-learning-resources-3b6n",
-  "url": "https://dev.to/tungbq/the-azure-hub-your-azure-learning-resources-3b6n",
-  "publish_date": "2024-06-15",
-  "published_at": "2024-06-15T09:58:47Z"
  }
 ]
