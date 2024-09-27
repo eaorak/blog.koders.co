@@ -1,5 +1,55 @@
 [
  {
+  "id": 2016318,
+  "title": "Web Components Are Not the Future",
+  "description": "A few years ago I wrote an article suggesting that Web Components might not be the most beneficial...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fplztptpee83p6bjvoy9h.png",
+  "slug": "web-components-are-not-the-future-48bh",
+  "url": "https://dev.to/ryansolid/web-components-are-not-the-future-48bh",
+  "publish_date": "2024-09-26",
+  "published_at": "2024-09-26T20:22:15Z"
+ },
+ {
+  "id": 2016225,
+  "title": "Encore.ts: a new type of framework",
+  "description": "We recently published performance benchmarks showing how Encore.ts achieves 9x request throughput...",
+  "cover_image": "",
+  "slug": "encorets-a-new-type-of-framework-3c48",
+  "url": "https://dev.to/encore/encorets-a-new-type-of-framework-3c48",
+  "publish_date": "2024-09-26",
+  "published_at": "2024-09-26T18:01:00Z"
+ },
+ {
+  "id": 2015793,
+  "title": "9 open-source libraries that will make your CV stand out ⚡ 🚀",
+  "description": "Tech hiring is broken, and the competition has become highly fierce over the past two years. However,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa2cqeqyuu5czpcrucx6d.gif",
+  "slug": "9-open-source-libraries-that-will-make-your-cv-stand-out-19nf",
+  "url": "https://dev.to/composiodev/9-open-source-libraries-that-will-make-your-cv-stand-out-19nf",
+  "publish_date": "2024-09-26",
+  "published_at": "2024-09-26T14:20:29Z"
+ },
+ {
+  "id": 2015227,
+  "title": "Flutter’s Engineering Pipeline: A Great Workflow with Minor Hiccups",
+  "description": "Flutter gained a stronghold in the market with its ability to build beautiful, natively compiled...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkroq37d875zppeht9lnw.jpg",
+  "slug": "flutters-engineering-pipeline-a-great-workflow-with-minor-hiccups-1f05",
+  "url": "https://dev.to/middleware/flutters-engineering-pipeline-a-great-workflow-with-minor-hiccups-1f05",
+  "publish_date": "2024-09-26",
+  "published_at": "2024-09-26T04:39:15Z"
+ },
+ {
+  "id": 2015165,
+  "title": "12 Essential Web APIs Every Developer Should Know",
+  "description": "Mastering various Web APIs can significantly enhance your web application's functionality and user...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffq943c6ufzm592mcvg0y.jpg",
+  "slug": "12-essential-web-apis-every-developer-should-know-1m28",
+  "url": "https://dev.to/vyan/12-essential-web-apis-every-developer-should-know-1m28",
+  "publish_date": "2024-09-26",
+  "published_at": "2024-09-26T03:06:52Z"
+ },
+ {
   "id": 2014447,
   "title": "Show us your open-source project!",
   "description": "Hello everybody,  I'm Antonio, CEO at Litlyx.  A while ago, I made a post similar to this to give...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/anmolbaranwal/join-my-community-of-technical-writers-and-open-source-developers-46g5",
   "publish_date": "2024-06-17",
   "published_at": "2024-06-17T05:21:41Z"
- },
- {
-  "id": 1890479,
-  "title": "What I Discovered About Making Great Widgets: Insights From 100+ Real Users",
-  "description": "We want to help people read more from their to-read pile with minimal effort using our product, ...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6xc9hdfid0fz2tma5yqp.png",
-  "slug": "what-i-discovered-about-making-great-widgets-insights-from-100-real-users-1ml3",
-  "url": "https://dev.to/lincemathew/what-i-discovered-about-making-great-widgets-insights-from-100-real-users-1ml3",
-  "publish_date": "2024-06-16",
-  "published_at": "2024-06-16T17:45:35Z"
- },
- {
-  "id": 1890312,
-  "title": "Difoosion, a Simple Web-Interface for Stable Diffusion Models",
-  "description": "With Stable Diffusion 3 freshly released, I thought it would be nice to make a simple Web-Interface...",
-  "cover_image": "",
-  "slug": "difoosion-a-simple-web-interface-for-stable-diffusion-models-dd2",
-  "url": "https://dev.to/sn3llius/difoosion-a-simple-web-interface-for-stable-diffusion-models-dd2",
-  "publish_date": "2024-06-16",
-  "published_at": "2024-06-16T13:46:40Z"
- },
- {
-  "id": 1890211,
-  "title": "Twilio Challenge: Language Translator via Twilio Functions, WhatsApp, \u0026 OpenAI",
-  "description": "This is a submission for Twilio Challenge v24.06.12           What I Built   As an avid translator...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F464egh5hbp7r5zwk0mh1.png",
-  "slug": "twilio-challenge-language-translator-via-twilio-functions-whatsapp-openai-5hmc",
-  "url": "https://dev.to/adityaoberai/twilio-challenge-language-translator-via-twilio-functions-whatsapp-openai-5hmc",
-  "publish_date": "2024-06-16",
-  "published_at": "2024-06-16T13:28:03Z"
- },
- {
-  "id": 1890130,
-  "title": "Let's practice writing clean, reusable components in react",
-  "description": "🔑 Key Concepts   What are reusable React components? Think of them as building...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fom2et68nebqtzc5ymoqm.png",
-  "slug": "lets-practice-clean-reusable-components-in-react-5flj",
-  "url": "https://dev.to/codewithshahan/lets-practice-clean-reusable-components-in-react-5flj",
-  "publish_date": "2024-06-16",
-  "published_at": "2024-06-16T07:23:49Z"
- },
- {
-  "id": 1850651,
-  "title": "Dealing with Unicode string, done right and better.",
-  "description": "Have you ever heard of Grapheme Cluster? `unicode-segmenter` is a lightweight solution for it.",
-  "cover_image": "",
-  "slug": "dealing-with-unicode-string-done-right-and-better-2nei",
-  "url": "https://dev.to/cometkim/dealing-with-unicode-string-done-right-and-better-2nei",
-  "publish_date": "2024-06-16",
-  "published_at": "2024-06-16T02:59:00Z"
  }
 ]
