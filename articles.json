@@ -1,5 +1,55 @@
 [
  {
+  "id": 2016631,
+  "title": "What is Vector Quantization?",
+  "description": "Vector quantization is a data compression technique used to reduce the size of high-dimensional data....",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc9l3kb4gnkf0fifdy7tv.jpg",
+  "slug": "what-is-vector-quantization-nna",
+  "url": "https://dev.to/qdrant/what-is-vector-quantization-nna",
+  "publish_date": "2024-09-27",
+  "published_at": "2024-09-27T16:14:21Z"
+ },
+ {
+  "id": 2016986,
+  "title": "Build a food delivery app by only using open source tools",
+  "description": "Just a quick TL;DR behind this one;  Imagine this: Like myself, you’re hungry. You grab your phone...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6jxetxslz3x9uo3mxjdl.gif",
+  "slug": "build-a-food-delivery-app-by-only-using-open-source-tools-4c8p",
+  "url": "https://dev.to/developuls/build-a-food-delivery-app-by-only-using-open-source-tools-4c8p",
+  "publish_date": "2024-09-27",
+  "published_at": "2024-09-27T09:12:36Z"
+ },
+ {
+  "id": 2016735,
+  "title": "The AI Paradox: Why Machines Can't Mimic Human Writing",
+  "description": "\"Contradiction is the root of all movement and vitality; it is only insofar as something has a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foni2oh3u4vni6q7odekt.jpg",
+  "slug": "the-ai-paradox-why-machines-cant-mimic-human-writing-26c6",
+  "url": "https://dev.to/marrouchi/the-ai-paradox-why-machines-cant-mimic-human-writing-26c6",
+  "publish_date": "2024-09-27",
+  "published_at": "2024-09-27T05:21:45Z"
+ },
+ {
+  "id": 2016215,
+  "title": "TypeScript Dora Metrics Analysis: They Just Need a Smart Game Plan!",
+  "description": "Ask any developer, and they'll tell you: catching errors during the development phase is a...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbbxubihuq8leb1ooyfgq.jpg",
+  "slug": "team-typescript-armed-for-success-just-needs-a-smart-game-plan-17n",
+  "url": "https://dev.to/middleware/team-typescript-armed-for-success-just-needs-a-smart-game-plan-17n",
+  "publish_date": "2024-09-27",
+  "published_at": "2024-09-27T04:33:16Z"
+ },
+ {
+  "id": 2016618,
+  "title": "A Comprehensive Guide to JavaScript Storage Methods",
+  "description": "JavaScript provides several storage mechanisms to manage data either on the client-side (in the...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6tyrlvffykrq3c4uv0t9.jpg",
+  "slug": "a-comprehensive-guide-to-javascript-storage-methods-137o",
+  "url": "https://dev.to/vyan/a-comprehensive-guide-to-javascript-storage-methods-137o",
+  "publish_date": "2024-09-27",
+  "published_at": "2024-09-27T02:58:18Z"
+ },
+ {
   "id": 2016318,
   "title": "Web Components Are Not the Future",
   "description": "A few years ago I wrote an article suggesting that Web Components might not be the most beneficial...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/taipy/25-funded-projects-you-can-contribute-in-open-source-40lh",
   "publish_date": "2024-06-18",
   "published_at": "2024-06-18T12:49:28Z"
- },
- {
-  "id": 1891505,
-  "title": "Master The Behavioral Interview: 5 Effective Storytelling Frameworks",
-  "description": "The highre up you go in terms of seniority, the more important are behavioral interviews for geting...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhv96pqzvylkitxyrp04n.png",
-  "slug": "master-the-behavioral-interview-5-effective-storytelling-frameworks-5df4",
-  "url": "https://dev.to/alexr/master-the-behavioral-interview-5-effective-storytelling-frameworks-5df4",
-  "publish_date": "2024-06-17",
-  "published_at": "2024-06-17T16:56:40Z"
- },
- {
-  "id": 1890494,
-  "title": "Write Less, Fix Never: The Art of Highly Reliable Code",
-  "description": "If you're a developer tirelessly pushing out new changes, only to be dragged back by errors in your...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqrm50rpssj1hfw6ouzd5.gif",
-  "slug": "write-less-fix-never-the-art-of-highly-reliable-code-5a0i",
-  "url": "https://dev.to/middleware/write-less-fix-never-the-art-of-highly-reliable-code-5a0i",
-  "publish_date": "2024-06-17",
-  "published_at": "2024-06-17T11:14:20Z"
- },
- {
-  "id": 1891007,
-  "title": "BEM Modifiers in Pure CSS Nesting",
-  "description": "When I was starting to learn web development, pure CSS often remained in the realm of theory. When it...",
-  "cover_image": "",
-  "slug": "bem-modifiers-in-pure-css-nesting-4j9k",
-  "url": "https://dev.to/what1s1ove/bem-modifiers-in-pure-css-nesting-4j9k",
-  "publish_date": "2024-06-17",
-  "published_at": "2024-06-17T08:42:06Z"
- },
- {
-  "id": 1829359,
-  "title": "5 Quick Fixes for Power Automate",
-  "description": "No matter how much I love Power Automate there are always going to be 'niggles'. I'm not talking...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwf4lx92ywx09nj8hcpla.png",
-  "slug": "5-quick-fixes-for-power-automate-1ola",
-  "url": "https://dev.to/wyattdave/5-quick-fixes-for-power-automate-1ola",
-  "publish_date": "2024-06-17",
-  "published_at": "2024-06-17T05:52:05Z"
- },
- {
-  "id": 1873010,
-  "title": "😁 Join my community of technical writers and open source developers",
-  "description": "A community of Developers by Developers!  We all can agree that being a part of a good community can...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr6h8j4300yhned7k0yvc.png",
-  "slug": "join-my-community-of-technical-writers-and-open-source-developers-46g5",
-  "url": "https://dev.to/anmolbaranwal/join-my-community-of-technical-writers-and-open-source-developers-46g5",
-  "publish_date": "2024-06-17",
-  "published_at": "2024-06-17T05:21:41Z"
  }
 ]
