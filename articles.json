@@ -1,5 +1,55 @@
 [
  {
+  "id": 2019458,
+  "title": "Advanced JavaScript Concepts | Revised Version for Jr Dev's",
+  "description": "JavaScript Revised Version            1. let, var, and const            var   In the early...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa0shy07yrwihd4t20nml.jpg",
+  "slug": "advanced-javascript-concepts-revised-version-for-jr-devs-36n2",
+  "url": "https://dev.to/syedmuhammadaliraza/advanced-javascript-concepts-revised-version-for-jr-devs-36n2",
+  "publish_date": "2024-09-29",
+  "published_at": "2024-09-29T14:22:28Z"
+ },
+ {
+  "id": 2011317,
+  "title": "How to Create Your Own Job Board Web App Using React.js, Node.js, SerpApi, and MUI",
+  "description": "In this blog, we'll walk through building a job board web app using React.js (with Vite for setup),...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd7ttpg9udi93zluzltot.jpg",
+  "slug": "how-to-create-your-own-job-board-web-app-using-reactjs-nodejs-serpapi-and-mui-4be9",
+  "url": "https://dev.to/jagroop2001/how-to-create-your-own-job-board-web-app-using-reactjs-nodejs-serpapi-and-mui-4be9",
+  "publish_date": "2024-09-29",
+  "published_at": "2024-09-29T11:24:07Z"
+ },
+ {
+  "id": 2019225,
+  "title": "Open-source WYSIWYG text editor component built with Tailwind CSS and Flowbite",
+  "description": "The WYSIWYG text editor from Flowbite is open-source under the MIT license based on the Tip Tap...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa963bs7h151quwccr6r1.png",
+  "slug": "open-source-wysiwyg-text-editor-component-built-with-tailwind-css-and-flowbite-5a0",
+  "url": "https://dev.to/themesberg/open-source-wysiwyg-text-editor-component-built-with-tailwind-css-and-flowbite-5a0",
+  "publish_date": "2024-09-29",
+  "published_at": "2024-09-29T10:16:37Z"
+ },
+ {
+  "id": 2019198,
+  "title": "Build ReAct Agents using SLMs from Scratch",
+  "description": "In this post, I will demonstrate how to create a function-calling agent using Small Language Models...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisdwtyoinihqc5057kmu.jpeg",
+  "slug": "build-react-agents-using-slms-from-scratch-4877",
+  "url": "https://dev.to/akshayballal/build-react-agents-using-slms-from-scratch-4877",
+  "publish_date": "2024-09-29",
+  "published_at": "2024-09-29T10:00:52Z"
+ },
+ {
+  "id": 2018983,
+  "title": "15+ Top React Header Components to use in 2024",
+  "description": "A website's React header components are often the first thing users interact with, making it crucial...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjjyq7b1mas3desbpi7tk.png",
+  "slug": "15-top-react-header-components-to-use-in-2024-2adk",
+  "url": "https://dev.to/tailwindcss/15-top-react-header-components-to-use-in-2024-2adk",
+  "publish_date": "2024-09-29",
+  "published_at": "2024-09-29T04:17:45Z"
+ },
+ {
   "id": 2018211,
   "title": "I created a free CDN for social media icons",
   "description": "Social Icons CDN is a free service that delivers icons of 20+ social media platforms as images you can use anywhere.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/logto/exploring-the-full-potential-of-the-logto-management-api-3c8m",
   "publish_date": "2024-06-20",
   "published_at": "2024-06-20T01:34:43Z"
- },
- {
-  "id": 1893576,
-  "title": "5 Reasons Why Your Side Projects Fail to Make Money And How to Avoid Them",
-  "description": "Introduction     Hello there! If you're like many aspiring entrepreneurs (including me),...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgdh7ji1luclp9ry61bxo.png",
-  "slug": "5-reasons-why-your-side-projects-fail-to-make-money-and-how-to-avoid-them-4l5m",
-  "url": "https://dev.to/wasp/5-reasons-why-your-side-projects-fail-to-make-money-and-how-to-avoid-them-4l5m",
-  "publish_date": "2024-06-19",
-  "published_at": "2024-06-19T14:10:12Z"
- },
- {
-  "id": 1893584,
-  "title": "10 Essential Books to Accelerate your Cloud Career",
-  "description": "TL;DR 🤓   DevOps and cloud engineers need not have a floor-to-ceiling bookshelf full of...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq4apfp8rd2ce0njp6z2j.png",
-  "slug": "10-essential-books-to-accelerate-your-cloud-career-6jf",
-  "url": "https://dev.to/glasskube/10-essential-books-to-accelerate-your-cloud-career-6jf",
-  "publish_date": "2024-06-19",
-  "published_at": "2024-06-19T13:17:44Z"
- },
- {
-  "id": 1893027,
-  "title": "Free APIs You Need to Know About in 2024",
-  "description": "APIs (Application Programming Interfaces) are essential tools for developers, allowing them to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj6bav9e7qygoktq9fbbs.png",
-  "slug": "free-apis-you-need-to-know-about-in-2024-2ieg",
-  "url": "https://dev.to/dk119819/free-apis-you-need-to-know-about-in-2024-2ieg",
-  "publish_date": "2024-06-19",
-  "published_at": "2024-06-19T08:30:00Z"
- },
- {
-  "id": 1892045,
-  "title": "5 Free AI Coding Copilots to Help You Fly Out of the Dev Blackhole",
-  "description": "Coding requires creativity. Anyone who says otherwise, is probably from the product team.😝  This...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd1rwm6e4iw8mu7wt75xf.png",
-  "slug": "5-free-ai-coding-copilots-to-help-you-fly-out-of-the-dev-blackhole-4p53",
-  "url": "https://dev.to/middleware/5-free-ai-coding-copilots-to-help-you-fly-out-of-the-dev-blackhole-4p53",
-  "publish_date": "2024-06-19",
-  "published_at": "2024-06-19T06:53:43Z"
- },
- {
-  "id": 1893049,
-  "title": "Advanced CI/CD Pipeline Configuration Strategies",
-  "description": "_Welcome Aboard Week 3 of DevSecOps in 5: Your Ticket to Secure Development Superpowers! Hey there,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmddlkcubdxobd3aamwno.png",
-  "slug": "advanced-cicd-pipeline-configuration-strategies-4mjh",
-  "url": "https://dev.to/gauri1504/advanced-cicd-pipeline-configuration-strategies-4mjh",
-  "publish_date": "2024-06-19",
-  "published_at": "2024-06-19T03:48:00Z"
  }
 ]
