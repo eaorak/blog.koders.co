@@ -1,5 +1,55 @@
 [
  {
+  "id": 2020244,
+  "title": "Don't use i18next ❌😢",
+  "description": "According to npmjs.com statistics, i18next is the most popular internationalization library for...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxi8k19iz42qahuvu86zy.gif",
+  "slug": "dont-use-i18next-n1a",
+  "url": "https://dev.to/nevodavid/dont-use-i18next-n1a",
+  "publish_date": "2024-09-30",
+  "published_at": "2024-09-30T14:56:49Z"
+ },
+ {
+  "id": 2020621,
+  "title": "I wrote this AI tool under 50 lines of code that makes PPT slides automatically 🔥🚀",
+  "description": "TL;DR   Everyone hates making presentation slides; if you are not, you should. But hey,...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb05jtgs8cem2doy0iw3p.gif",
+  "slug": "tired-of-making-ppt-slides-see-how-i-automated-it-in-under-50-lines-of-code-4gbo",
+  "url": "https://dev.to/composiodev/tired-of-making-ppt-slides-see-how-i-automated-it-in-under-50-lines-of-code-4gbo",
+  "publish_date": "2024-09-30",
+  "published_at": "2024-09-30T14:19:50Z"
+ },
+ {
+  "id": 2018833,
+  "title": "🚀 7 Open-Source Events You Can Participate in this Hacktoberfest — Win Cool Swags🎁",
+  "description": "October is Almost Here—And So Are Some Epic Open Source Events!  From hackathons to contribution...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsamtcegiugztbm8zkupa.gif",
+  "slug": "7-open-source-events-you-can-participate-in-this-hacktoberfest-win-cool-swags-573",
+  "url": "https://dev.to/arindam_1729/7-open-source-events-you-can-participate-in-this-hacktoberfest-win-cool-swags-573",
+  "publish_date": "2024-09-30",
+  "published_at": "2024-09-30T13:04:29Z"
+ },
+ {
+  "id": 2012710,
+  "title": "Improving Performance of PostgreSQL queries",
+  "description": "I recently wanted to implement some raw SQL queries and work on the efficiency of them so that...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlyfpvrw6qptmiyun6w7.png",
+  "slug": "improving-performance-of-postgresql-queries-1h7o",
+  "url": "https://dev.to/jacobandrewsky/improving-performance-of-postgresql-queries-1h7o",
+  "publish_date": "2024-09-30",
+  "published_at": "2024-09-30T06:38:42Z"
+ },
+ {
+  "id": 2019997,
+  "title": "Mastering JavaScript Short-Hand Techniques for Cleaner Code",
+  "description": "JavaScript is a powerful and versatile language, but it can sometimes lead to verbose or repetitive...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fulqvbm5sqtocsz60jpde.jpg",
+  "slug": "mastering-javascript-short-hand-techniques-for-cleaner-code-b0i",
+  "url": "https://dev.to/vyan/mastering-javascript-short-hand-techniques-for-cleaner-code-b0i",
+  "publish_date": "2024-09-30",
+  "published_at": "2024-09-30T04:09:11Z"
+ },
+ {
   "id": 2019458,
   "title": "Advanced JavaScript Concepts | Revised Version for Jr Dev's",
   "description": "JavaScript Revised Version            1. let, var, and const            var   In the early...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/logto/oauth-21-is-here-what-you-need-to-know-28b8",
   "publish_date": "2024-06-21",
   "published_at": "2024-06-21T02:45:09Z"
- },
- {
-  "id": 1894859,
-  "title": "A importância da Comunicação para uma pessoa desenvolvedora",
-  "description": "Para ser um profissional do mercado de tecnologia é necessário desenvolver hard skills, que são...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3cfea0b30r08tpm6g18p.png",
-  "slug": "a-importancia-da-comunicacao-para-uma-pessoa-desenvolvedora-4349",
-  "url": "https://dev.to/kecbm/a-importancia-da-comunicacao-para-uma-pessoa-desenvolvedora-4349",
-  "publish_date": "2024-06-20",
-  "published_at": "2024-06-20T14:16:06Z"
- },
- {
-  "id": 1894853,
-  "title": "Design Pattern #3 - Observer Pattern",
-  "description": "Continuing our quest into trending design patterns for front-end developers, we follow up our first...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bic405vaixlk6stbqax.png",
-  "slug": "design-pattern-3-observer-pattern-36eo",
-  "url": "https://dev.to/superviz/design-pattern-3-observer-pattern-36eo",
-  "publish_date": "2024-06-20",
-  "published_at": "2024-06-20T13:57:55Z"
- },
- {
-  "id": 1894806,
-  "title": "Create a QR Code Generator Using ToolJet and Python in 5 Minutes! 🛠️",
-  "description": "This quick tutorial will guide you through the steps to create a QR Code Generator application using...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fevt7jg7oinj4es9kz2gz.png",
-  "slug": "create-a-qr-code-generator-using-tooljet-and-python-in-5-minutes-19m6",
-  "url": "https://dev.to/tooljet/create-a-qr-code-generator-using-tooljet-and-python-in-5-minutes-19m6",
-  "publish_date": "2024-06-20",
-  "published_at": "2024-06-20T13:04:57Z"
- },
- {
-  "id": 1894703,
-  "title": "Mega footer component examples coded with Tailwind CSS and Flowbite",
-  "description": "Hey developers!  Today I want to show you a couple of components and website sections that we've...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9ni3cf9eeoq03fjchykw.png",
-  "slug": "mega-footer-component-examples-coded-with-tailwind-css-and-flowbite-3ldl",
-  "url": "https://dev.to/themesberg/mega-footer-component-examples-coded-with-tailwind-css-and-flowbite-3ldl",
-  "publish_date": "2024-06-20",
-  "published_at": "2024-06-20T11:17:50Z"
- },
- {
-  "id": 1890795,
-  "title": "Exploring the full potential of the Logto Management API",
-  "description": "In this article, we will reemphasize the definition of the Logto Management API, explain how it...",
-  "cover_image": "",
-  "slug": "exploring-the-full-potential-of-the-logto-management-api-3c8m",
-  "url": "https://dev.to/logto/exploring-the-full-potential-of-the-logto-management-api-3c8m",
-  "publish_date": "2024-06-20",
-  "published_at": "2024-06-20T01:34:43Z"
  }
 ]
