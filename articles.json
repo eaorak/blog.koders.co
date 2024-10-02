@@ -1,5 +1,55 @@
 [
  {
+  "id": 2021932,
+  "title": "FlyonUI - An Open Source Tailwind CSS Component Library is Live 🚀",
+  "description": "Hey Devs! 👋  We’re super excited to announce the launch of FlyonUI—a fully free and open-source...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu9o19x7c6wlxqht2bng1.png",
+  "slug": "flyonui-an-open-source-tailwind-css-component-library-is-live-32j7",
+  "url": "https://dev.to/themeselection/flyonui-an-open-source-tailwind-css-component-library-is-live-32j7",
+  "publish_date": "2024-10-01",
+  "published_at": "2024-10-01T13:53:08Z"
+ },
+ {
+  "id": 1950930,
+  "title": "21 React Projects Too Awesome to Ignore",
+  "description": "AI is going to take over the world soon, we just don't know which part yet.  A few React projects...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7h7blhjtox0235n30rca.gif",
+  "slug": "21-react-projects-too-awesome-to-ignore-17ec",
+  "url": "https://dev.to/copilotkit/21-react-projects-too-awesome-to-ignore-17ec",
+  "publish_date": "2024-10-01",
+  "published_at": "2024-10-01T12:59:13Z"
+ },
+ {
+  "id": 2017727,
+  "title": "10 AI Assistants for Frontend Developers That Will Change the Way You Code🚀🔥",
+  "description": "AI is flipping the script on software development so fast developers can barely even keep...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw1w7qaiuip3q8m690gyo.png",
+  "slug": "10-ai-assistants-for-frontend-developers-that-will-change-the-way-you-code-3fh4",
+  "url": "https://dev.to/astrodevil/10-ai-assistants-for-frontend-developers-that-will-change-the-way-you-code-3fh4",
+  "publish_date": "2024-10-01",
+  "published_at": "2024-10-01T07:00:00Z"
+ },
+ {
+  "id": 2021224,
+  "title": "Mastering Next.js App Directory Structure (2024 Edition)",
+  "description": "Next.js introduced the App Directory as a replacement for the Pages Directory to streamline...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbhbsy5tr0yty57ey9mbz.jpeg",
+  "slug": "mastering-nextjs-app-directory-structure-2024-edition-4b16",
+  "url": "https://dev.to/vyan/mastering-nextjs-app-directory-structure-2024-edition-4b16",
+  "publish_date": "2024-10-01",
+  "published_at": "2024-10-01T03:04:31Z"
+ },
+ {
+  "id": 2021164,
+  "title": "How to Manage User Authentication in React.js, Next.js, Vue.js, and Nuxt.js Using Clerk",
+  "description": "INTRODUCTION  Authentication is a very important component to any software, application, system, it...",
+  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpwlfsze1qlbc7bcddb4.png",
+  "slug": "how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l",
+  "url": "https://dev.to/hramonpereira/how-to-manage-user-authentication-in-reactjs-nextjs-vuejs-and-nuxtjs-using-clerk-136l",
+  "publish_date": "2024-10-01",
+  "published_at": "2024-10-01T00:21:14Z"
+ },
+ {
   "id": 2020244,
   "title": "Don't use i18next ❌😢",
   "description": "According to npmjs.com statistics, i18next is the most popular internationalization library for...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/robertoumbelino/filtering-in-join-or-where-in-mysql-differences-and-performance-impact-1a4g",
   "publish_date": "2024-06-22",
   "published_at": "2024-06-22T02:08:00Z"
- },
- {
-  "id": 1895785,
-  "title": "Why CLIs are STILL important",
-  "description": "Command Line Interfaces (CLIs) seem old-fashioned in the age of graphical user interfaces (GUIs) and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8hmyu44mhe777jglikz0.jpeg",
-  "slug": "why-clis-are-still-important-425a",
-  "url": "https://dev.to/cyclops-ui/why-clis-are-still-important-425a",
-  "publish_date": "2024-06-21",
-  "published_at": "2024-06-21T12:00:00Z"
- },
- {
-  "id": 1887745,
-  "title": "Criando aplicação multi-idioma no Flutter",
-  "description": "Neste artigo, vou guiá-lo passo a passo sobre como implementar um seletor de idioma moderno e...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fot7b6xphyb9g6gko9c1e.jpg",
-  "slug": "criando-aplicacao-multi-idioma-no-flutter-3jao",
-  "url": "https://dev.to/adryannekelly/criando-aplicacao-multi-idioma-no-flutter-3jao",
-  "publish_date": "2024-06-21",
-  "published_at": "2024-06-21T11:28:53Z"
- },
- {
-  "id": 1764057,
-  "title": "Micro-frontend architecture alongside Vue 3 migration",
-  "description": "Introduction   The micro-frontend architecture can resolve many issues with your frontend...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa0vg4148wlfiv4jnfxma.png",
-  "slug": "micro-frontend-architecture-alongside-vue-3-migration-2b2j",
-  "url": "https://dev.to/zenika/micro-frontend-architecture-alongside-vue-3-migration-2b2j",
-  "publish_date": "2024-06-21",
-  "published_at": "2024-06-21T08:45:29Z"
- },
- {
-  "id": 1895626,
-  "title": "Bit Wars: 32-bit vs 64-bit Systems Explained",
-  "description": "This is a submission for DEV Computer Science Challenge v24.06.12: One Byte Explainer.          ...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2For5i5ggujwzwny5lmbun.jpg",
-  "slug": "bit-wars-32-bit-vs-64-bit-systems-explained-511a",
-  "url": "https://dev.to/shravan20/bit-wars-32-bit-vs-64-bit-systems-explained-511a",
-  "publish_date": "2024-06-21",
-  "published_at": "2024-06-21T06:26:27Z"
- },
- {
-  "id": 1895442,
-  "title": "OAuth 2.1 is Here: What You Need to Know",
-  "description": "Since the initial release of OAuth 2.0, the internet has evolved significantly. Security threats have...",
-  "cover_image": "",
-  "slug": "oauth-21-is-here-what-you-need-to-know-28b8",
-  "url": "https://dev.to/logto/oauth-21-is-here-what-you-need-to-know-28b8",
-  "publish_date": "2024-06-21",
-  "published_at": "2024-06-21T02:45:09Z"
  }
 ]
