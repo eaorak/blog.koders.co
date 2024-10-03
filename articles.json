@@ -1,5 +1,55 @@
 [
  {
+  "id": 2023127,
+  "title": "Join the 2024 Hacktoberfest Writing Challenge: Reflect on your Journey as a Contributor or Maintainer",
+  "description": "Hacktoberfest is officially in full swing! Throughout the month of October, developers from all...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3ys07ms9pdkez9dcx47w.png",
+  "slug": "join-the-2024-hacktoberfest-writing-challenge-reflect-on-your-journey-as-a-contributor-or-maintainer-nd0",
+  "url": "https://dev.to/devteam/join-the-2024-hacktoberfest-writing-challenge-reflect-on-your-journey-as-a-contributor-or-maintainer-nd0",
+  "publish_date": "2024-10-02",
+  "published_at": "2024-10-02T17:58:42Z"
+ },
+ {
+  "id": 2023363,
+  "title": "SuperViz Hackathon 2.0: AI meets RealTime",
+  "description": "A couple of months after our first hackathon, we are ready to announce: The Super Hackathon 2.0!  Get...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg5qqca30tcctweijitze.jpg",
+  "slug": "superviz-hackathon-ai-meets-realtime-bci",
+  "url": "https://dev.to/superviz/superviz-hackathon-ai-meets-realtime-bci",
+  "publish_date": "2024-10-02",
+  "published_at": "2024-10-02T17:39:02Z"
+ },
+ {
+  "id": 2023247,
+  "title": "A New Way to Contribute in Hacktoberfest: Directly at Frontend AI",
+  "description": "Hacktoberfest is back, and this year brings an exciting new way for developers to participate....",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdl1v3xdzn32dyavsf927.png",
+  "slug": "a-new-way-to-contribute-in-hacktoberfest-directly-at-frontend-ai-3e00",
+  "url": "https://dev.to/buildwebcrumbs/a-new-way-to-contribute-in-hacktoberfest-directly-at-frontend-ai-3e00",
+  "publish_date": "2024-10-02",
+  "published_at": "2024-10-02T15:10:40Z"
+ },
+ {
+  "id": 2017454,
+  "title": "Join us for The Pinata Challenge: $3,000 in Prizes!",
+  "description": "We are so excited to team up with Pinata to bring you our next DEV challenge.   Running through...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi29ve2756dmyxn7b5tuj.png",
+  "slug": "join-us-for-the-the-pinata-challenge-3000-in-prizes-59cb",
+  "url": "https://dev.to/devteam/join-us-for-the-the-pinata-challenge-3000-in-prizes-59cb",
+  "publish_date": "2024-10-02",
+  "published_at": "2024-10-02T13:13:26Z"
+ },
+ {
+  "id": 2022522,
+  "title": "Mastering Next.js App Directory Structure (2024 Edition)",
+  "description": "Next.js introduced the App Directory as a replacement for the Pages Directory to streamline...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm4dpckn8ww34ggfir1vx.jpg",
+  "slug": "mastering-nextjs-app-directory-structure-2024-edition-c84",
+  "url": "https://dev.to/vyan/mastering-nextjs-app-directory-structure-2024-edition-c84",
+  "publish_date": "2024-10-02",
+  "published_at": "2024-10-02T03:14:27Z"
+ },
+ {
   "id": 2021932,
   "title": "FlyonUI - An Open Source Tailwind CSS Component Library is Live 🚀",
   "description": "Hey Devs! 👋  We’re super excited to announce the launch of FlyonUI—a fully free and open-source...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/coderamrin/how-content-creation-helped-me-land-my-first-tech-job-4d8b",
   "publish_date": "2024-06-23",
   "published_at": "2024-06-23T01:54:58Z"
- },
- {
-  "id": 1897009,
-  "title": "Build A CSS Word Search Game In ... CSS!",
-  "description": "I've heard it so many times: CSS is not a programming language — or — why do it in CSS, when you can...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyw2xs2gpqepe8cgo0tob.png",
-  "slug": "build-a-css-word-search-game-in-css-10d1",
-  "url": "https://dev.to/madsstoumann/build-a-css-word-search-game-in-css-10d1",
-  "publish_date": "2024-06-22",
-  "published_at": "2024-06-22T12:59:57Z"
- },
- {
-  "id": 1896616,
-  "title": "7 Use Cases for Javascript Proxies 🧙",
-  "description": "JavaScript's Proxy object is a useful tool that opens up a world of possibilities, allowing you to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgg2mqq64hvym0ogrpa2m.png",
-  "slug": "7-use-cases-for-javascript-proxies-3b29",
-  "url": "https://dev.to/mattlewandowski93/7-use-cases-for-javascript-proxies-3b29",
-  "publish_date": "2024-06-22",
-  "published_at": "2024-06-22T09:18:53Z"
- },
- {
-  "id": 1895978,
-  "title": "iScan-U : Your Smart Eco-Friendly Connection Ally",
-  "description": "Many businesses rely on printed business cards for marketing and networking and about 27 million...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbaqewi4f3m3ckvyiedfs.png",
-  "slug": "iscan-u-your-smart-eco-friendly-connection-ally-pfd",
-  "url": "https://dev.to/ronlin1/iscan-u-your-smart-eco-friendly-connection-ally-pfd",
-  "publish_date": "2024-06-22",
-  "published_at": "2024-06-22T07:10:46Z"
- },
- {
-  "id": 1895523,
-  "title": "5 Reasons Why You Are Losing Hackathons",
-  "description": "I love hackathons. Since 2020, I’ve participated in over 10 and won around $65,000 in team and solo...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx1uhhozvi4myxiawtj39.png",
-  "slug": "5-reasons-why-you-are-losing-hackathons-4k70",
-  "url": "https://dev.to/code42cate/5-reasons-why-you-are-losing-hackathons-4k70",
-  "publish_date": "2024-06-22",
-  "published_at": "2024-06-22T05:25:42Z"
- },
- {
-  "id": 1896548,
-  "title": "Filtering in JOIN or WHERE in MySQL: Differences and Performance Impact",
-  "description": "📑 About   The decision of where to apply a filter in an SQL query, either in JOIN or WHERE,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmczkifxzaiv52mnvwjk.jpg",
-  "slug": "filtering-in-join-or-where-in-mysql-differences-and-performance-impact-1a4g",
-  "url": "https://dev.to/robertoumbelino/filtering-in-join-or-where-in-mysql-differences-and-performance-impact-1a4g",
-  "publish_date": "2024-06-22",
-  "published_at": "2024-06-22T02:08:00Z"
  }
 ]
