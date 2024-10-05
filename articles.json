@@ -1,5 +1,55 @@
 [
  {
+  "id": 1948823,
+  "title": "Database 101: SSL/TLS for beginners",
+  "description": "Once again, I'm bringing some knowledge from my day-to-day work as a Developer Advocate at ScyllaDB,...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2mrxl72zvf5nf0ck66e2.png",
+  "slug": "database-101-ssltls-for-beginners-4lmn",
+  "url": "https://dev.to/danielhe4rt/database-101-ssltls-for-beginners-4lmn",
+  "publish_date": "2024-10-04",
+  "published_at": "2024-10-04T15:33:01Z"
+ },
+ {
+  "id": 1997849,
+  "title": "How to Mock GraphQL API Responses 10x Faster",
+  "description": "GraphQL has solved so many problems while fetching data using APIs.  Usually, the frontend developers...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffy3marsylh0xembrjqmn.png",
+  "slug": "how-to-mock-graphql-api-responses-10x-faster-3bgm",
+  "url": "https://dev.to/requestly/how-to-mock-graphql-api-responses-10x-faster-3bgm",
+  "publish_date": "2024-10-04",
+  "published_at": "2024-10-04T12:18:48Z"
+ },
+ {
+  "id": 2022706,
+  "title": "🔥14 game-changing open-source tools every developer should know 🚀",
+  "description": "The software development landscape is evolving faster than ever. To stay ahead of the curve, you must...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffa2jodkx4mo95gittd08.png",
+  "slug": "14-game-changing-open-source-tools-every-developer-should-know-1a76",
+  "url": "https://dev.to/nevodavid/14-game-changing-open-source-tools-every-developer-should-know-1a76",
+  "publish_date": "2024-10-04",
+  "published_at": "2024-10-04T11:41:39Z"
+ },
+ {
+  "id": 2025265,
+  "title": "🚀Top 5 Open Source Projects to Contribute to During Hacktoberfest 2️⃣0️⃣2️⃣4️⃣",
+  "description": "Hacktoberfest is an exciting event for developers to contribute to open-source projects, sharpen...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkkr8a5yg3htecfgnbk5e.png",
+  "slug": "top-5-open-source-projects-to-contribute-to-during-hacktoberfest-2024-45c",
+  "url": "https://dev.to/taipy/top-5-open-source-projects-to-contribute-to-during-hacktoberfest-2024-45c",
+  "publish_date": "2024-10-04",
+  "published_at": "2024-10-04T08:37:45Z"
+ },
+ {
+  "id": 2025050,
+  "title": "What Happens When You Type a URL Into a Browser?",
+  "description": "Have you ever wondered what happens behind the scenes when you type a URL into your browser and hit...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzibl1w9d8xq4buj1ps1f.jpg",
+  "slug": "what-happens-when-you-type-a-url-into-a-browser-2mh2",
+  "url": "https://dev.to/vyan/what-happens-when-you-type-a-url-into-a-browser-2mh2",
+  "publish_date": "2024-10-04",
+  "published_at": "2024-10-04T02:51:20Z"
+ },
+ {
   "id": 1989516,
   "title": "The AI-Powered Trip Planner, 😻 You Can't Live Without ⚡",
   "description": "Imagine you're planning the ultimate vacation—a two-week tour across Europe, filled with museum...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/parthchovatiya/advanced-javascript-performance-optimization-techniques-and-patterns-26g0",
   "publish_date": "2024-06-25",
   "published_at": "2024-06-25T03:30:00Z"
- },
- {
-  "id": 1898761,
-  "title": "Glasskube v0.10.0 out now!",
-  "description": "Welcome back to another new release blog post 🚀  This is where we cover the newest shipped features,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fs08vgzsa3tex0yv0mg2o.png",
-  "slug": "glasskube-v0100-out-now-3ipi",
-  "url": "https://dev.to/glasskube/glasskube-v0100-out-now-3ipi",
-  "publish_date": "2024-06-24",
-  "published_at": "2024-06-24T11:27:08Z"
- },
- {
-  "id": 1898710,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8xbn4ttm9cpay7wwiakm.png",
-  "slug": "meme-monday-5b9c",
-  "url": "https://dev.to/ben/meme-monday-5b9c",
-  "publish_date": "2024-06-24",
-  "published_at": "2024-06-24T09:41:49Z"
- },
- {
-  "id": 1897415,
-  "title": "🕸 Networking is easy, fun, and probably not what you think it is.",
-  "description": "Also available on my blog.  Networking is extremely important for your career.  They say the most...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsgu5gic3mazyr0py6gh.jpg",
-  "slug": "networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc",
-  "url": "https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc",
-  "publish_date": "2024-06-24",
-  "published_at": "2024-06-24T06:54:49Z"
- },
- {
-  "id": 1898282,
-  "title": "Crafting a social connector for Logto",
-  "description": "Learn how to create a custom social connector for Logto in just a few steps.             ...",
-  "cover_image": "",
-  "slug": "crafting-a-social-connector-for-logto-5c2k",
-  "url": "https://dev.to/logto/crafting-a-social-connector-for-logto-5c2k",
-  "publish_date": "2024-06-24",
-  "published_at": "2024-06-24T02:45:06Z"
- },
- {
-  "id": 1898245,
-  "title": "Garzón - Your Daily Dose of Organization and Inspiration!",
-  "description": "This is a submission for Twilio Challenge v24.06.12             What I Built   Garzón is a web...",
-  "cover_image": "",
-  "slug": "garzon-your-daily-dose-of-organization-and-inspiration-lkc",
-  "url": "https://dev.to/asyncerror/garzon-your-daily-dose-of-organization-and-inspiration-lkc",
-  "publish_date": "2024-06-24",
-  "published_at": "2024-06-24T02:33:27Z"
  }
 ]
