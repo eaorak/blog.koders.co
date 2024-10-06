@@ -1,5 +1,55 @@
 [
  {
+  "id": 2012159,
+  "title": "Top 5 reverse proxies - Which one should you choose?",
+  "description": "I have been looking for a reverse proxy to use in our Docker hosting platform and did some research...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy2c9jy22wfm6o3ttc6sz.png",
+  "slug": "top-5-reverse-proxies-which-one-should-you-choose-jli",
+  "url": "https://dev.to/wimadev/top-5-reverse-proxies-which-one-should-you-choose-jli",
+  "publish_date": "2024-10-05",
+  "published_at": "2024-10-05T15:20:12Z"
+ },
+ {
+  "id": 2023547,
+  "title": "5 Cheap Ways to Host MongoDB",
+  "description": "MongoDB is the most popular NoSQL database, and you want a cheap place to host it? You've come to the...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9kfimbrxxqr54fizu7oy.png",
+  "slug": "5-cheap-ways-to-host-mongodb-132d",
+  "url": "https://dev.to/code42cate/5-cheap-ways-to-host-mongodb-132d",
+  "publish_date": "2024-10-05",
+  "published_at": "2024-10-05T13:18:46Z"
+ },
+ {
+  "id": 2026522,
+  "title": "Top 15 System Design Resources for Programming Interviews",
+  "description": "My favorite resources to prepare for system design interviews like books, online courses, websites, newsletters and GitHub repositories. ",
+  "cover_image": "",
+  "slug": "top-15-system-design-resources-for-programming-interviews-1m15",
+  "url": "https://dev.to/somadevtoo/top-15-system-design-resources-for-programming-interviews-1m15",
+  "publish_date": "2024-10-05",
+  "published_at": "2024-10-05T08:01:37Z"
+ },
+ {
+  "id": 2026328,
+  "title": "Mastering 20 Essential React Shorthand for Clean, Efficient Code",
+  "description": "When working with JavaScript and React, mastering certain coding patterns can significantly improve...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F45ak3j6875oyelwx5kxo.jpg",
+  "slug": "mastering-20-essential-react-shorthand-for-clean-efficient-code-2n1g",
+  "url": "https://dev.to/vyan/mastering-20-essential-react-shorthand-for-clean-efficient-code-2n1g",
+  "publish_date": "2024-10-05",
+  "published_at": "2024-10-05T04:22:46Z"
+ },
+ {
+  "id": 2023696,
+  "title": "Release Radar · September 2024: Major updates from the open source community",
+  "description": "We're heading into the spooky season, which means Hacktoberfest has also started. This is a...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fezu489epu1jwc0epfhex.png",
+  "slug": "release-radar-september-2024-major-updates-from-the-open-source-community-30ki",
+  "url": "https://dev.to/github/release-radar-september-2024-major-updates-from-the-open-source-community-30ki",
+  "publish_date": "2024-10-05",
+  "published_at": "2024-10-05T00:49:35Z"
+ },
+ {
   "id": 1948823,
   "title": "Database 101: SSL/TLS for beginners",
   "description": "Once again, I'm bringing some knowledge from my day-to-day work as a Developer Advocate at ScyllaDB,...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/salladshooter/why-ai-wont-replace-programmers-probably-bj7",
   "publish_date": "2024-06-26",
   "published_at": "2024-06-26T00:47:00Z"
- },
- {
-  "id": 1900452,
-  "title": "Congrats to the Twilio Challenge Winners!",
-  "description": "We're thrilled to announce the winners of the Twilio Challenge!  From competitive trivia games to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4tbhhsi9w0ot8bci7zr.png",
-  "slug": "congrats-to-the-twilio-challenge-winners-2b1n",
-  "url": "https://dev.to/devteam/congrats-to-the-twilio-challenge-winners-2b1n",
-  "publish_date": "2024-06-25",
-  "published_at": "2024-06-25T18:36:51Z"
- },
- {
-  "id": 1899196,
-  "title": "I'm looking for a FullStack Software Developer Role",
-  "description": "Hey y'all, hope you've been doing and feeling great! My name is Cherry Ramatis, and I'm currently...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgytnfg0d2iqev3g7t53b.png",
-  "slug": "im-looking-for-a-fullstack-software-developer-role-417m",
-  "url": "https://dev.to/cherryramatis/im-looking-for-a-fullstack-software-developer-role-417m",
-  "publish_date": "2024-06-25",
-  "published_at": "2024-06-25T17:09:10Z"
- },
- {
-  "id": 1900188,
-  "title": "Congrats to our first Computer Science Challenge Winners!",
-  "description": "Woohoo! It’s time to announce the winners of the Computer Science Challenge.  We challenged you all...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkfybi4rtzhkh7budml27.png",
-  "slug": "congrats-to-our-first-computer-science-challenge-winners-2mg2",
-  "url": "https://dev.to/devteam/congrats-to-our-first-computer-science-challenge-winners-2mg2",
-  "publish_date": "2024-06-25",
-  "published_at": "2024-06-25T14:58:57Z"
- },
- {
-  "id": 1900114,
-  "title": "Building a Mock Data Generator with Google Sheets, Gemini AI \u0026 ToolJet ⚙️",
-  "description": "Introduction   This tutorial will guide you through the process of building an AI-driven...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyi1yz32lwzvsm5gujq4n.png",
-  "slug": "building-a-mock-data-generator-with-google-sheets-gemini-ai-tooljet-24f2",
-  "url": "https://dev.to/tooljet/building-a-mock-data-generator-with-google-sheets-gemini-ai-tooljet-24f2",
-  "publish_date": "2024-06-25",
-  "published_at": "2024-06-25T13:33:12Z"
- },
- {
-  "id": 1899174,
-  "title": "🔧 Advanced JavaScript Performance Optimization: Techniques and Patterns",
-  "description": "As JavaScript applications become more complex, optimizing performance becomes increasingly critical....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk5y2s3tyerrn7b11ay6w.jpg",
-  "slug": "advanced-javascript-performance-optimization-techniques-and-patterns-26g0",
-  "url": "https://dev.to/parthchovatiya/advanced-javascript-performance-optimization-techniques-and-patterns-26g0",
-  "publish_date": "2024-06-25",
-  "published_at": "2024-06-25T03:30:00Z"
  }
 ]
