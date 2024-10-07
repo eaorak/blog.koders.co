@@ -1,5 +1,55 @@
 [
  {
+  "id": 2027536,
+  "title": "9 Open Source Projects to Contribute to - Hacktoberfest 2024",
+  "description": "Introduction   Hacktoberfest is a month-long event where people are awarded for contributing...",
+  "cover_image": "",
+  "slug": "9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm",
+  "url": "https://dev.to/bobbyiliev/9-open-source-projects-to-contribute-to-hacktoberfest-2024-42bm",
+  "publish_date": "2024-10-06",
+  "published_at": "2024-10-06T10:39:35Z"
+ },
+ {
+  "id": 2027369,
+  "title": "How to Talk to Non-Developers?",
+  "description": "Let’s face it—being a developer isn’t just about writing flawless code. It’s about collaboration. But...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F087ul1o1jjhr4k1zkxau.png",
+  "slug": "how-to-talk-to-non-developers-1501",
+  "url": "https://dev.to/koladev/how-to-talk-to-non-developers-1501",
+  "publish_date": "2024-10-06",
+  "published_at": "2024-10-06T06:13:08Z"
+ },
+ {
+  "id": 2027237,
+  "title": "React Lifecycle Methods: A Step-by-Step Guide",
+  "description": "When working with React components, understanding their lifecycle methods is crucial for managing...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe96r7kxoj649gd32t55h.jpg",
+  "slug": "react-lifecycle-methods-a-step-by-step-guide-50eh",
+  "url": "https://dev.to/vyan/react-lifecycle-methods-a-step-by-step-guide-50eh",
+  "publish_date": "2024-10-06",
+  "published_at": "2024-10-06T03:02:35Z"
+ },
+ {
+  "id": 2027224,
+  "title": "The Day a DDOS Attack Led to the Most Awkward Hello World",
+  "description": "Hey everyone, grab a coffee because I’ve got a funny (and slightly embarrassing) story to share! It’s...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4a27y353zxd1mgmd5zz1.png",
+  "slug": "the-day-a-ddos-attack-led-to-the-worlds-most-awkward-hello-world-1dln",
+  "url": "https://dev.to/programmerraja/the-day-a-ddos-attack-led-to-the-worlds-most-awkward-hello-world-1dln",
+  "publish_date": "2024-10-06",
+  "published_at": "2024-10-06T02:31:41Z"
+ },
+ {
+  "id": 2027209,
+  "title": "Run a Virtual Machine in Your Browser",
+  "description": "Beyond the Tabs: Exploring Modern Web Capabilities. Episode. 1   We're going to run a...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn5n8a98bz4a9v7wrp0n5.png",
+  "slug": "run-a-virtual-machine-in-your-browser-2kjk",
+  "url": "https://dev.to/nadchif/run-a-virtual-machine-in-your-browser-2kjk",
+  "publish_date": "2024-10-06",
+  "published_at": "2024-10-06T01:18:24Z"
+ },
+ {
   "id": 2012159,
   "title": "Top 5 reverse proxies - Which one should you choose?",
   "description": "I have been looking for a reverse proxy to use in our Docker hosting platform and did some research...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/latitude/understanding-apis-10-api-concepts-and-examples-23cn",
   "publish_date": "2024-06-27",
   "published_at": "2024-06-27T12:59:58Z"
- },
- {
-  "id": 1875668,
-  "title": "Join us for the Wix Studio Challenge with Special Guest Judge Ania Kubów: $3,000 in Prizes!",
-  "description": "We are so excited to announce our first partnered challenge with Wix.  Running through July 07, the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv8vfdvpqozr6h7ctfo6k.png",
-  "slug": "join-us-for-the-wix-studio-challenge-with-special-guest-judge-ania-kubow-3000-in-prizes-3ial",
-  "url": "https://dev.to/devteam/join-us-for-the-wix-studio-challenge-with-special-guest-judge-ania-kubow-3000-in-prizes-3ial",
-  "publish_date": "2024-06-26",
-  "published_at": "2024-06-26T16:16:40Z"
- },
- {
-  "id": 1900511,
-  "title": "Build an AI-Powered Resume \u0026 Cover Letter Generator (CopilotKit, LangChain, Tavily \u0026 Next.js)",
-  "description": "TL;DR   Building a great project is the best resume for an aspiring developer.   Well, today...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frmvh78daphmvuug765tj.gif",
-  "slug": "build-an-ai-powered-resume-cover-letter-generator-copilotkit-langchain-tavily-nextjs-1nkc",
-  "url": "https://dev.to/copilotkit/build-an-ai-powered-resume-cover-letter-generator-copilotkit-langchain-tavily-nextjs-1nkc",
-  "publish_date": "2024-06-26",
-  "published_at": "2024-06-26T13:40:20Z"
- },
- {
-  "id": 1900975,
-  "title": "Watercooler Wednesday",
-  "description": "General discussion thread about... Whatever. What's new in your life?  Hobbies, interests, games,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbnmgywbuiocd80cww2kt.png",
-  "slug": "watercooler-wednesday-4mm9",
-  "url": "https://dev.to/ben/watercooler-wednesday-4mm9",
-  "publish_date": "2024-06-26",
-  "published_at": "2024-06-26T06:30:07Z"
- },
- {
-  "id": 1900901,
-  "title": "Why single sign-on (SSO) is better",
-  "description": "Single sign-on (SSO) is a great way to simplify the authentication model and improve the user...",
-  "cover_image": "",
-  "slug": "why-single-sign-on-sso-is-better-4maf",
-  "url": "https://dev.to/logto/why-single-sign-on-sso-is-better-4maf",
-  "publish_date": "2024-06-26",
-  "published_at": "2024-06-26T05:57:49Z"
- },
- {
-  "id": 1900640,
-  "title": "Why AI Won’t Replace Programmers, Probably",
-  "description": "AI will doom us all! Or not?     Artificial Intelligence (AI) has taken the world by storm....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwx3osradjwycwd0m2ksj.jpeg",
-  "slug": "why-ai-wont-replace-programmers-probably-bj7",
-  "url": "https://dev.to/salladshooter/why-ai-wont-replace-programmers-probably-bj7",
-  "publish_date": "2024-06-26",
-  "published_at": "2024-06-26T00:47:00Z"
  }
 ]
