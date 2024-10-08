@@ -1,5 +1,55 @@
 [
  {
+  "id": 2028751,
+  "title": "How to make your Express app 9x faster (and type-safe)",
+  "description": "💡 This guide shows you how to migrate an existing Express.js app to Encore.ts, an Open Source backend...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8lt6yhvvyodsr7saniye.gif",
+  "slug": "how-to-make-your-express-app-9x-faster-and-type-safe-1nd5",
+  "url": "https://dev.to/encore/how-to-make-your-express-app-9x-faster-and-type-safe-1nd5",
+  "publish_date": "2024-10-07",
+  "published_at": "2024-10-07T11:51:04Z"
+ },
+ {
+  "id": 2017555,
+  "title": "🎉 HacktoberFest 2024: How to Contribute \u0026 Win Exclusive Prizes? 🚀",
+  "description": "TL;DR   Have you heard about Hacktoberfest? 🤔 This month-long celebration of open-source...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqkf18t72d57mdldpv44f.gif",
+  "slug": "hacktoberfest-2024-how-to-contribute-win-exclusive-prizes-488a",
+  "url": "https://dev.to/taipy/hacktoberfest-2024-how-to-contribute-win-exclusive-prizes-488a",
+  "publish_date": "2024-10-07",
+  "published_at": "2024-10-07T09:24:58Z"
+ },
+ {
+  "id": 2017130,
+  "title": "Five Design Patterns to know in Node.js",
+  "description": "Hey there!  I recently went through multiple knowledge resources to learn more about popular design...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp0jgbaw1t4w60gw02m7z.png",
+  "slug": "five-design-patterns-to-know-in-nodejs-265h",
+  "url": "https://dev.to/jacobandrewsky/five-design-patterns-to-know-in-nodejs-265h",
+  "publish_date": "2024-10-07",
+  "published_at": "2024-10-07T08:34:54Z"
+ },
+ {
+  "id": 2028199,
+  "title": "Creating a Word Cloud in React ⚛️🔡",
+  "description": "Have you ever wanted to visualize the most frequent words in a text dataset? Word clouds are an...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9k6snjr3lrukz9susy26.png",
+  "slug": "creating-a-word-cloud-in-react-1999",
+  "url": "https://dev.to/mattlewandowski93/creating-a-word-cloud-in-react-1999",
+  "publish_date": "2024-10-07",
+  "published_at": "2024-10-07T03:58:01Z"
+ },
+ {
+  "id": 2028104,
+  "title": "Top open-source repos/projects to contribute (Hacktoberfest Edition 🎃)",
+  "description": "And we all know Hacktoberfest has already started. You might be looking for some repos/projects to...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcj51ss1h4hwjghydykrg.gif",
+  "slug": "top-open-source-reposprojects-to-contribute-hacktoberfest-edition--273o",
+  "url": "https://dev.to/rohan_sharma/top-open-source-reposprojects-to-contribute-hacktoberfest-edition--273o",
+  "publish_date": "2024-10-07",
+  "published_at": "2024-10-07T02:17:59Z"
+ },
+ {
   "id": 2027536,
   "title": "9 Open Source Projects to Contribute to - Hacktoberfest 2024",
   "description": "Introduction   Hacktoberfest is a month-long event where people are awarded for contributing...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/raajaryan/comprehensive-reactjs-cheatsheet-for-developers-17e4",
   "publish_date": "2024-06-28",
   "published_at": "2024-06-28T01:26:54Z"
- },
- {
-  "id": 1902696,
-  "title": "What plugins do you dream of?",
-  "description": "At Webcrumbs our goal is to revolutionize the way developers create and use plugins, offering a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa5bw0pql1f44a67fjo39.png",
-  "slug": "what-plugins-do-you-dream-of-2cac",
-  "url": "https://dev.to/buildwebcrumbs/what-plugins-do-you-dream-of-2cac",
-  "publish_date": "2024-06-27",
-  "published_at": "2024-06-27T14:03:58Z"
- },
- {
-  "id": 1901095,
-  "title": "Why and how you should rate-limit your API",
-  "description": "Opening the gates   This is it. Your shiny new product is ready to be released to the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fghchavlvamju8f69h6ov.png",
-  "slug": "why-and-how-you-should-rate-limit-your-api-2o7d",
-  "url": "https://dev.to/systemglitch/why-and-how-you-should-rate-limit-your-api-2o7d",
-  "publish_date": "2024-06-27",
-  "published_at": "2024-06-27T14:00:03Z"
- },
- {
-  "id": 1902593,
-  "title": "Build an AI BPMN Diagram Analyzer using ToolJet 🛠️",
-  "description": "In this tutorial, we'll create a BPMN Diagram Analyzer application using ToolJet. This app allows...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fd3nla6virava9tapecy5.png",
-  "slug": "build-an-ai-bpmn-diagram-analyzer-using-tooljet-2b00",
-  "url": "https://dev.to/tooljet/build-an-ai-bpmn-diagram-analyzer-using-tooljet-2b00",
-  "publish_date": "2024-06-27",
-  "published_at": "2024-06-27T13:12:06Z"
- },
- {
-  "id": 1902283,
-  "title": "100 FREE Frontend Challenges",
-  "description": "Introduction   In the spirit of building strong habits and the #100DaysOfCode idea, we...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Favh7ik84iq0w7sanb8ga.jpg",
-  "slug": "100-free-frontend-challenges-3f0",
-  "url": "https://dev.to/bigsondev/100-free-frontend-challenges-3f0",
-  "publish_date": "2024-06-27",
-  "published_at": "2024-06-27T13:00:00Z"
- },
- {
-  "id": 1902518,
-  "title": "Understanding APIs: 10 API Concepts and Examples",
-  "description": "As a developer or a person in tech, you are likely to have heard of \"APIs.” Hearing this term may get...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frl620xxagcw92i4jfn5j.png",
-  "slug": "understanding-apis-10-api-concepts-and-examples-23cn",
-  "url": "https://dev.to/latitude/understanding-apis-10-api-concepts-and-examples-23cn",
-  "publish_date": "2024-06-27",
-  "published_at": "2024-06-27T12:59:58Z"
  }
 ]
