@@ -1,5 +1,55 @@
 [
  {
+  "id": 2030300,
+  "title": "Hacktoberfest 2024 - The Antiguide",
+  "description": "Finally, we're so back... And it's that time of year again!   🎶 Jingle bells, jingle bells, jingle...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyrni5dberhgm3lqx8vfj.png",
+  "slug": "hacktoberfest-2024-the-antiguide-4ce5",
+  "url": "https://dev.to/srbhr/hacktoberfest-2024-the-antiguide-4ce5",
+  "publish_date": "2024-10-08",
+  "published_at": "2024-10-08T15:01:08Z"
+ },
+ {
+  "id": 2030219,
+  "title": "Free Online Tutorials to Help You Develop Machine Learning Applications",
+  "description": "The machine learning (ML) and data science space have always been interesting, particularly because...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvi06b5ne5w2nkmsftyyy.jpg",
+  "slug": "free-online-tutorials-to-help-you-develop-machine-learning-applications-2p5l",
+  "url": "https://dev.to/kitops/free-online-tutorials-to-help-you-develop-machine-learning-applications-2p5l",
+  "publish_date": "2024-10-08",
+  "published_at": "2024-10-08T13:21:57Z"
+ },
+ {
+  "id": 2030134,
+  "title": "Top 7 Open Source Alternatives to Airtable with the Most GitHub Stars",
+  "description": "I'm sure you are familiar with Airtable.  Founded in 2012, it began to gain significant popularity...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftvksux9hltr7ps7ze37d.png",
+  "slug": "top-7-open-source-alternatives-to-airtable-with-the-most-github-stars-56nh",
+  "url": "https://dev.to/nocobase/top-7-open-source-alternatives-to-airtable-with-the-most-github-stars-56nh",
+  "publish_date": "2024-10-08",
+  "published_at": "2024-10-08T12:17:19Z"
+ },
+ {
+  "id": 2029898,
+  "title": "9 must-know open-source tools that will make you better than 99% of developers",
+  "description": "The software development landscape is evolving faster than ever. To stay ahead of the curve, you must...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftwrze40debu2mxqmxqrb.gif",
+  "slug": "9-must-know-open-source-tools-that-will-make-you-better-than-99-of-developers-g5b",
+  "url": "https://dev.to/nevodavid/9-must-know-open-source-tools-that-will-make-you-better-than-99-of-developers-g5b",
+  "publish_date": "2024-10-08",
+  "published_at": "2024-10-08T11:14:45Z"
+ },
+ {
+  "id": 2029816,
+  "title": "10 NPM Packages for Productivity",
+  "description": "Productivity is always key, we all know but as developers with tight deadlines and packed schedules,...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy4a6n033ajpanuq0fufn.jpg",
+  "slug": "10-npm-packages-for-productivity-1odb",
+  "url": "https://dev.to/balrajola/10-npm-packages-for-productivity-1odb",
+  "publish_date": "2024-10-08",
+  "published_at": "2024-10-08T08:10:24Z"
+ },
+ {
   "id": 2028751,
   "title": "How to make your Express app 9x faster (and type-safe)",
   "description": "💡 This guide shows you how to migrate an existing Express.js app to Encore.ts, an Open Source backend...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/lixeletto/bem-com-nesting-nativo-v2-ainda-mais-poderoso-3k5p",
   "publish_date": "2024-06-29",
   "published_at": "2024-06-29T01:44:18Z"
- },
- {
-  "id": 1902482,
-  "title": "How Generative AI is impacting Developer Productivity?",
-  "description": "Ever since ChatGPT has been introduced, internet and tech community have been going gaga, and nothing...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F525kqpypexk97f5xove2.png",
-  "slug": "how-generative-ai-is-impacting-developer-productivity-33fl",
-  "url": "https://dev.to/middleware/how-generative-ai-is-impacting-developer-productivity-33fl",
-  "publish_date": "2024-06-28",
-  "published_at": "2024-06-28T14:36:25Z"
- },
- {
-  "id": 1904100,
-  "title": "How we tamed Node.js event loop lag: a deepdive",
-  "description": "The following is a tale of how we discovered and fixed a variety of reliability and performance...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1llih1dqeyieea4s0zis.jpg",
-  "slug": "how-we-tamed-nodejs-event-loop-lag-a-deepdive-422k",
-  "url": "https://dev.to/triggerdotdev/how-we-tamed-nodejs-event-loop-lag-a-deepdive-422k",
-  "publish_date": "2024-06-28",
-  "published_at": "2024-06-28T13:30:00Z"
- },
- {
-  "id": 1904091,
-  "title": "Design Pattern #4 - Publisher/Subscriber Pattern",
-  "description": "In the previously article of this series I covered about the Observer Pattern. Today, I want to share...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzgjbjfnor20jy8uudvwf.png",
-  "slug": "design-pattern-4-publishersubscriber-pattern-4jg9",
-  "url": "https://dev.to/superviz/design-pattern-4-publishersubscriber-pattern-4jg9",
-  "publish_date": "2024-06-28",
-  "published_at": "2024-06-28T12:21:32Z"
- },
- {
-  "id": 1903135,
-  "title": "“Good Commit” vs “Your Commit”: How to Write a Perfect Git Commit Message",
-  "description": "\"A good commit shows whether a developer is a good collaborator.\" — Peter Hutterer, Linux.  Years...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F15kmvy2zhillpgedxaf5.png",
-  "slug": "good-commit-vs-your-commit-how-to-write-a-perfect-git-commit-message-59ol",
-  "url": "https://dev.to/safdarali/good-commit-vs-your-commit-how-to-write-a-perfect-git-commit-message-59ol",
-  "publish_date": "2024-06-28",
-  "published_at": "2024-06-28T01:51:00Z"
- },
- {
-  "id": 1903384,
-  "title": "Comprehensive React.js Cheatsheet for Developers",
-  "description": "React.js has become a cornerstone in modern web development for building dynamic and high-performance...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F10tat8mhtehsyh7mg837.png",
-  "slug": "comprehensive-reactjs-cheatsheet-for-developers-17e4",
-  "url": "https://dev.to/raajaryan/comprehensive-reactjs-cheatsheet-for-developers-17e4",
-  "publish_date": "2024-06-28",
-  "published_at": "2024-06-28T01:26:54Z"
  }
 ]
