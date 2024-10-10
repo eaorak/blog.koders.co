@@ -1,5 +1,55 @@
 [
  {
+  "id": 2031349,
+  "title": "Griptape: OSS Platform for Building AI Apps",
+  "description": "Over the past few weeks, I spent a lot of time exploring new AI tools with which I could build a Gen...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffwl75dxk9mm9mgfrs3se.png",
+  "slug": "griptape-oss-platform-for-building-ai-apps-28ca",
+  "url": "https://dev.to/griptape/griptape-oss-platform-for-building-ai-apps-28ca",
+  "publish_date": "2024-10-09",
+  "published_at": "2024-10-09T18:01:34Z"
+ },
+ {
+  "id": 2031298,
+  "title": "Postman vs Apidog: Choosing the Suitable API Development Tool",
+  "description": "Postman has long been the go-to tool for API developers, offering a robust and feature-rich platform...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7hpdkumjqgtdviep0ji9.jpg",
+  "slug": "postman-vs-apidog-choosing-the-suitable-api-development-tool-fk6",
+  "url": "https://dev.to/apidog/postman-vs-apidog-choosing-the-suitable-api-development-tool-fk6",
+  "publish_date": "2024-10-09",
+  "published_at": "2024-10-09T07:46:21Z"
+ },
+ {
+  "id": 2030959,
+  "title": "15+ Best Icon Libraries of 2024",
+  "description": "When it comes to choosing the best icon library for your next design or development project,...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fptlnbst2uhqkyl9iy7m0.png",
+  "slug": "best-icon-libraries-28ce",
+  "url": "https://dev.to/vinishbhaskar/best-icon-libraries-28ce",
+  "publish_date": "2024-10-09",
+  "published_at": "2024-10-09T04:20:54Z"
+ },
+ {
+  "id": 2030728,
+  "title": "AI-Powered GitHub Pull Request Tracker for Your Hacktoberfest (and More!)",
+  "description": "Track the status of your GitHub Pull Requests for Hacktoberfest, Devfest.ai, Taipy Hacktoberfest and...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbxrfnp4f9r449s0iatpo.gif",
+  "slug": "ai-powered-github-pull-request-tracker-for-your-hacktoberfest-and-more-fm7",
+  "url": "https://dev.to/jeevaramanathan/ai-powered-github-pull-request-tracker-for-your-hacktoberfest-and-more-fm7",
+  "publish_date": "2024-10-09",
+  "published_at": "2024-10-09T03:44:52Z"
+ },
+ {
+  "id": 2030950,
+  "title": "Top 16 UI Libraries to Elevate Your Web Development",
+  "description": "When it comes to building modern web applications with React, choosing the right UI library can...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2sjx9h1r03jlh2vnqgkb.jpg",
+  "slug": "top-16-ui-libraries-to-elevate-your-web-development-559i",
+  "url": "https://dev.to/vyan/top-16-ui-libraries-to-elevate-your-web-development-559i",
+  "publish_date": "2024-10-09",
+  "published_at": "2024-10-09T03:04:53Z"
+ },
+ {
   "id": 2030300,
   "title": "Hacktoberfest 2024 - The Antiguide",
   "description": "Finally, we're so back... And it's that time of year again!   🎶 Jingle bells, jingle bells, jingle...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/7-best-practices-for-reactjs-development-in-2024-1a6e",
   "publish_date": "2024-06-30",
   "published_at": "2024-06-30T02:08:26Z"
- },
- {
-  "id": 1906084,
-  "title": "Add Art to your Agile Retrospectives 🧑‍🎨🎨",
-  "description": "Hey there 👋 Are your retrospectives starting to feel a bit stale? Well, it's time to grab your...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxqwhbwdwknzvqewrurxy.jpg",
-  "slug": "add-art-to-your-agile-retrospectives-2noi",
-  "url": "https://dev.to/mattlewandowski93/add-art-to-your-agile-retrospectives-2noi",
-  "publish_date": "2024-06-29",
-  "published_at": "2024-06-29T21:44:58Z"
- },
- {
-  "id": 1905294,
-  "title": "🚀 Create An Attractive GitHub Profile README 📝",
-  "description": "Enhancing Your GitHub README with my custom Profile README Template.    Welcome to this journey of...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhmhc873hel0gvq82h7al.jpg",
-  "slug": "create-an-attractive-github-profile-readme-noj",
-  "url": "https://dev.to/parth_johri/create-an-attractive-github-profile-readme-noj",
-  "publish_date": "2024-06-29",
-  "published_at": "2024-06-29T06:21:54Z"
- },
- {
-  "id": 1885071,
-  "title": "Full Stack Serverless Challenge #1: AWS Amplify Gen 2",
-  "description": "In this challenge, we'll be learning more about Amplify Gen 2. It is an AWS service that allows...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fowe8skp1gtcj8y2x8qr7.png",
-  "slug": "full-stack-serverless-challenge-1-aws-amplify-gen-2-2l31",
-  "url": "https://dev.to/aws-builders/full-stack-serverless-challenge-1-aws-amplify-gen-2-2l31",
-  "publish_date": "2024-06-29",
-  "published_at": "2024-06-29T04:19:24Z"
- },
- {
-  "id": 1905126,
-  "title": "Top 10 React.js Tips and Tricks Everyone Should Know",
-  "description": "1. Embrace JSX for Cleaner Code 📝   JSX is a syntax extension for JavaScript that allows you...",
-  "cover_image": "",
-  "slug": "top-10-reactjs-tips-and-tricks-everyone-should-know-2m18",
-  "url": "https://dev.to/vyan/top-10-reactjs-tips-and-tricks-everyone-should-know-2m18",
-  "publish_date": "2024-06-29",
-  "published_at": "2024-06-29T03:53:41Z"
- },
- {
-  "id": 1905043,
-  "title": "BEM com nesting nativo V2 - ainda mais poderoso 🔥",
-  "description": "Recentemente o WhatIsLove Dev escreveu um artigo muito massa explicando como escrever modificadores...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgq9n9k7xhvuj9gs3z56.png",
-  "slug": "bem-com-nesting-nativo-v2-ainda-mais-poderoso-3k5p",
-  "url": "https://dev.to/lixeletto/bem-com-nesting-nativo-v2-ainda-mais-poderoso-3k5p",
-  "publish_date": "2024-06-29",
-  "published_at": "2024-06-29T01:44:18Z"
  }
 ]
