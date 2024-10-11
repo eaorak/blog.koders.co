@@ -1,5 +1,55 @@
 [
  {
+  "id": 2033305,
+  "title": "We are donating $2k worth of advertising to the Open Source pledge",
+  "description": "Hey folks, this is a quick post making note of our donation to the Open Source Pledge.  We are...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccqk02u3ndql1r54upmr.png",
+  "slug": "we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75",
+  "url": "https://dev.to/devteam/we-are-donating-2k-worth-of-advertising-to-the-open-source-pledge-4p75",
+  "publish_date": "2024-10-10",
+  "published_at": "2024-10-10T16:14:45Z"
+ },
+ {
+  "id": 2033020,
+  "title": "Chat with your PDF using Pinata,OpenAI and Streamlit",
+  "description": "In this tutorial, we’ll build a simple chat interface that allows users to upload a PDF, retrieve its...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foq3cthi20ugg0oioycaq.jpg",
+  "slug": "building-a-chat-with-pdfs-using-pinataopenai-and-streamlit-3jb7",
+  "url": "https://dev.to/jagroop2001/building-a-chat-with-pdfs-using-pinataopenai-and-streamlit-3jb7",
+  "publish_date": "2024-10-10",
+  "published_at": "2024-10-10T13:00:14Z"
+ },
+ {
+  "id": 2031787,
+  "title": "The Most Annoying Cookie Banner Ever Hackathon 🤬🍪",
+  "description": "I love cookies, but I hate cookie banners     We've all had enough of those annoying cookie...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3faivtdmhusqu1nmhsgf.jpg",
+  "slug": "the-most-annoying-cookie-banner-ever-hackathon-2b6i",
+  "url": "https://dev.to/wasp/the-most-annoying-cookie-banner-ever-hackathon-2b6i",
+  "publish_date": "2024-10-10",
+  "published_at": "2024-10-10T12:07:00Z"
+ },
+ {
+  "id": 2025908,
+  "title": "11 Best AI Chat Tools for Developers in 2024",
+  "description": "Google is getting older and developers are now using modern AI Chat tools to complete all the...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4txh4wckub3w8lgs6fol.png",
+  "slug": "11-best-ai-chat-tools-for-developers-in-2024-4gpl",
+  "url": "https://dev.to/anmolbaranwal/11-best-ai-chat-tools-for-developers-in-2024-4gpl",
+  "publish_date": "2024-10-10",
+  "published_at": "2024-10-10T11:11:44Z"
+ },
+ {
+  "id": 2032937,
+  "title": "Clustered index vs Non-clustered and how they look like in MongoDB",
+  "description": "When working with databases, performance optimization is often a key concern. One of the most...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffyi28ujx28njcabi8p2y.png",
+  "slug": "clustered-index-vs-non-clustered-and-how-they-look-like-in-mongodb-1jf1",
+  "url": "https://dev.to/tuna99/clustered-index-vs-non-clustered-and-how-they-look-like-in-mongodb-1jf1",
+  "publish_date": "2024-10-10",
+  "published_at": "2024-10-10T10:19:15Z"
+ },
+ {
   "id": 2031349,
   "title": "Griptape: OSS Platform for Building AI Apps",
   "description": "Over the past few weeks, I spent a lot of time exploring new AI tools with which I could build a Gen...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/cristain/why-typescript-is-transforming-modern-web-development-372",
   "publish_date": "2024-07-01",
   "published_at": "2024-07-01T05:10:48Z"
- },
- {
-  "id": 1906772,
-  "title": "Is Your Sidebar Hurting Your UX? Our Redesign Journey to Effortless Navigation",
-  "description": "Have you ever felt frustrated navigating a website with a clunky sidebar? We hear you. At Hexmos,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fttnw0g2aud4hlu3zt6pf.png",
-  "slug": "is-your-sidebar-hurting-your-ux-our-redesign-journey-to-effortless-navigation-391d",
-  "url": "https://dev.to/ganesh-kumar/is-your-sidebar-hurting-your-ux-our-redesign-journey-to-effortless-navigation-391d",
-  "publish_date": "2024-06-30",
-  "published_at": "2024-06-30T16:41:00Z"
- },
- {
-  "id": 1906605,
-  "title": "Use XDebug for PHP Project Debugging",
-  "description": "XDebug is an indispensable debugging tool in PHP development, offering powerful features for...",
-  "cover_image": "",
-  "slug": "use-xdebug-for-php-project-debugging-2i4o",
-  "url": "https://dev.to/servbay/use-xdebug-for-php-project-debugging-2i4o",
-  "publish_date": "2024-06-30",
-  "published_at": "2024-06-30T13:22:46Z"
- },
- {
-  "id": 1894521,
-  "title": "✨ Do this first if you are using an Auth Provider 🧙‍♂️ 🫵",
-  "description": "In this article, I will show you how you can safely backup your users data in your own database when...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fccsc1b5miw46t6vwftew.gif",
-  "slug": "do-this-first-if-you-are-using-an-auth-provider-1ndo",
-  "url": "https://dev.to/shricodev/do-this-first-if-you-are-using-an-auth-provider-1ndo",
-  "publish_date": "2024-06-30",
-  "published_at": "2024-06-30T13:16:24Z"
- },
- {
-  "id": 1906383,
-  "title": "window.ai - running AI LOCALLY from DevTools! 🤯",
-  "description": "On-device AI in the browser is here - kinda.  It is currently in Chrome canary which means, it will...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpo125x3otykjtmtjkxwf.jpg",
-  "slug": "windowai-running-ai-locally-from-devtools-202j",
-  "url": "https://dev.to/grahamthedev/windowai-running-ai-locally-from-devtools-202j",
-  "publish_date": "2024-06-30",
-  "published_at": "2024-06-30T08:17:39Z"
- },
- {
-  "id": 1906260,
-  "title": "7 Best Practices for ReactJS Development in 2024",
-  "description": "Modern web development has made ReactJS an essential tool, enabling developers to create dynamic and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz2hsv27obmmzmblaox3n.png",
-  "slug": "7-best-practices-for-reactjs-development-in-2024-1a6e",
-  "url": "https://dev.to/vyan/7-best-practices-for-reactjs-development-in-2024-1a6e",
-  "publish_date": "2024-06-30",
-  "published_at": "2024-06-30T02:08:26Z"
  }
 ]
