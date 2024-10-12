@@ -1,5 +1,55 @@
 [
  {
+  "id": 2034619,
+  "title": "Scripting in DevOps: A Complete Guide from Beginner to Advanced",
+  "description": "Scripting is an essential skill for DevOps engineers, as it allows for automation, configuration...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fchh9hbfa5gt97ak7zydt.png",
+  "slug": "scripting-in-devops-a-complete-guide-from-beginner-to-advanced-noa",
+  "url": "https://dev.to/prodevopsguytech/scripting-in-devops-a-complete-guide-from-beginner-to-advanced-noa",
+  "publish_date": "2024-10-11",
+  "published_at": "2024-10-11T15:41:32Z"
+ },
+ {
+  "id": 2034475,
+  "title": "Wedding Memories: The Collaborative Wedding Album!",
+  "description": "Wedding Memories   This is a submission for the The Pinata Challenge           What I...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffwj8xzysnn02qn40dtsj.png",
+  "slug": "wedding-memories-the-collaborative-wedding-album-2em3",
+  "url": "https://dev.to/femi_akinyemi/wedding-memories-the-collaborative-wedding-album-2em3",
+  "publish_date": "2024-10-11",
+  "published_at": "2024-10-11T15:28:15Z"
+ },
+ {
+  "id": 2034575,
+  "title": "6. Loops(for, while, do while)",
+  "description": "*a) for loopning sintaksisi qanday? Misol keltiring *   for(int variable = son, variable = son yoki...",
+  "cover_image": "",
+  "slug": "6-loopsfor-while-do-while-2cgd",
+  "url": "https://dev.to/sunnat_qayumov/6-loopsfor-while-do-while-2cgd",
+  "publish_date": "2024-10-11",
+  "published_at": "2024-10-11T15:01:04Z"
+ },
+ {
+  "id": 2033979,
+  "title": "6 Tools to make you a 10x faster AI Engineer in 2024",
+  "description": "In today's tech and innovation-driven world, there is a high demand for AI engineers. The AI industry...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu8xcgvgdhru9rn9ydzv7.png",
+  "slug": "6-tools-to-make-you-a-10x-faster-ai-engineer-in-2024-2p9e",
+  "url": "https://dev.to/angelocodes/6-tools-to-make-you-a-10x-faster-ai-engineer-in-2024-2p9e",
+  "publish_date": "2024-10-11",
+  "published_at": "2024-10-11T13:15:26Z"
+ },
+ {
+  "id": 2034327,
+  "title": "Building an MLOps pipeline with Dagger.io and KitOps",
+  "description": "According to industry analysts, over 85% of machine learning models will never make it to production....",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbt5d2oapw3q5p1fkr6tv.jpg",
+  "slug": "building-an-mlops-pipeline-with-daggerio-and-kitops-566m",
+  "url": "https://dev.to/kitops/building-an-mlops-pipeline-with-daggerio-and-kitops-566m",
+  "publish_date": "2024-10-11",
+  "published_at": "2024-10-11T12:19:52Z"
+ },
+ {
   "id": 2033305,
   "title": "We are donating $2k worth of advertising to the Open Source pledge",
   "description": "Hey folks, this is a quick post making note of our donation to the Open Source Pledge.  We are...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sh20raj/how-to-deploy-a-react-app-to-github-pages-29li",
   "publish_date": "2024-07-02",
   "published_at": "2024-07-02T03:07:38Z"
- },
- {
-  "id": 1904513,
-  "title": "Log and trace management made easy. Quickwit Integration via Glasskube",
-  "description": "Distributed application troubleshooting can be a nightmare. Unless you have the budget for expensive...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj8wfiu06vxc4f5ylwqk2.png",
-  "slug": "log-and-trace-management-made-easy-quickwit-integration-via-glasskube-2hg2",
-  "url": "https://dev.to/glasskube/log-and-trace-management-made-easy-quickwit-integration-via-glasskube-2hg2",
-  "publish_date": "2024-07-01",
-  "published_at": "2024-07-01T12:14:52Z"
- },
- {
-  "id": 1907466,
-  "title": "PDF Hell and Practical RAG Applications",
-  "description": "If you have tried to extract text from PDFs you would have come across a myriad of complications...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftcz0cy031ghhnji9gn9t.png",
-  "slug": "pdf-hell-and-practical-rag-applications-api",
-  "url": "https://dev.to/arun_venkataswamy/pdf-hell-and-practical-rag-applications-api",
-  "publish_date": "2024-07-01",
-  "published_at": "2024-07-01T11:01:34Z"
- },
- {
-  "id": 1865858,
-  "title": "15 amazing things you can do with simple JavaScript 🤯",
-  "description": "I love JavaScript because it's full of surprises and is used for so many amazing things.   Many...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F445qmtczsqgd4536xqg3.png",
-  "slug": "15-amazing-things-you-can-do-with-simple-javascript-g88",
-  "url": "https://dev.to/anmolbaranwal/15-amazing-things-you-can-do-with-simple-javascript-g88",
-  "publish_date": "2024-07-01",
-  "published_at": "2024-07-01T10:55:38Z"
- },
- {
-  "id": 1901318,
-  "title": "How to - Process CSV in Power Automate",
-  "description": "Its still crazy to me that Microsoft did not create an out of the box action to process a csv (or...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxmqkg5rn4vx7c7sqy05v.png",
-  "slug": "how-to-process-csv-in-power-automate-535f",
-  "url": "https://dev.to/wyattdave/how-to-process-csv-in-power-automate-535f",
-  "publish_date": "2024-07-01",
-  "published_at": "2024-07-01T06:01:14Z"
- },
- {
-  "id": 1907144,
-  "title": "Why TypeScript is Transforming Modern Web Development",
-  "description": "🚀 TypeScript: A Game-Changer for Modern Web Development 🚀  As web development evolves, so do the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2c0sjyt49oicvv6q22dh.png",
-  "slug": "why-typescript-is-transforming-modern-web-development-372",
-  "url": "https://dev.to/cristain/why-typescript-is-transforming-modern-web-development-372",
-  "publish_date": "2024-07-01",
-  "published_at": "2024-07-01T05:10:48Z"
  }
 ]
