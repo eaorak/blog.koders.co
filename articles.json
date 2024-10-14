@@ -1,5 +1,55 @@
 [
  {
+  "id": 2036681,
+  "title": "How to Crack a DevOps Interview in One Attempt: A Complete Guide for Freshers and Experienced",
+  "description": "Cracking a DevOps interview can be challenging for both freshers and experienced engineers. This...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbv71ehhvcz0eloe0alst.png",
+  "slug": "how-to-crack-a-devops-interview-in-one-attempt-a-complete-guide-for-freshers-and-experienced-24hm",
+  "url": "https://dev.to/prodevopsguytech/how-to-crack-a-devops-interview-in-one-attempt-a-complete-guide-for-freshers-and-experienced-24hm",
+  "publish_date": "2024-10-13",
+  "published_at": "2024-10-13T16:50:38Z"
+ },
+ {
+  "id": 2034469,
+  "title": "How to deploy your web application? 3 different approaches to consider (+1 bonus)",
+  "description": "Deploying web applications is complicated nowadays. There are usually multiple routes you can choose....",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feod86mo501hern2pv3lg.png",
+  "slug": "how-to-deploy-your-web-application-3-different-approaches-to-consider-1-bonus-5gp7",
+  "url": "https://dev.to/wimadev/how-to-deploy-your-web-application-3-different-approaches-to-consider-1-bonus-5gp7",
+  "publish_date": "2024-10-13",
+  "published_at": "2024-10-13T11:47:40Z"
+ },
+ {
+  "id": 2036196,
+  "title": "Array Data Structure with Time and Space Complexity.",
+  "description": "Array Data Structure with Time and Space Complexity.",
+  "cover_image": "",
+  "slug": "array-data-structure-with-time-and-space-complexity-1pc3",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/array-data-structure-with-time-and-space-complexity-1pc3",
+  "publish_date": "2024-10-13",
+  "published_at": "2024-10-13T05:23:56Z"
+ },
+ {
+  "id": 2036154,
+  "title": "Big O Notations CheatSheet with Explanation",
+  "description": "Big O Notation cheat sheet and examples with explanations",
+  "cover_image": "",
+  "slug": "big-o-notations-cheatsheet-with-explanation-i2h",
+  "url": "https://dev.to/somadevtoo/big-o-notations-cheatsheet-with-explanation-i2h",
+  "publish_date": "2024-10-13",
+  "published_at": "2024-10-13T05:17:36Z"
+ },
+ {
+  "id": 2035066,
+  "title": "PinataShot: Multimodal LLaMA 3.2 Screenshot Categorization on Pinata IPFS",
+  "description": "PinataShot     What I Built  I built a SaaS Screenshot Organizer that helps users upload,...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8h6ff544n3rah6w4ta9b.png",
+  "slug": "pinatashot-multimodal-llama-32-screenshot-categorization-on-pinata-ipfs-2ip2",
+  "url": "https://dev.to/jadouse5/pinatashot-multimodal-llama-32-screenshot-categorization-on-pinata-ipfs-2ip2",
+  "publish_date": "2024-10-13",
+  "published_at": "2024-10-13T00:03:25Z"
+ },
+ {
   "id": 2035502,
   "title": "Genith: Create Images and Videos with AI, Store with Pinata",
   "description": "This is a submission for the The Pinata Challenge            What I Built   I built Genith, an image...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/buildwebcrumbs/welcome-to-javascript-from-novice-to-expert-38fh",
   "publish_date": "2024-07-04",
   "published_at": "2024-07-04T09:00:00Z"
- },
- {
-  "id": 1894728,
-  "title": "6 ways to turn your browser into super-debug-hero (ft. node.js + next.js!)",
-  "description": "Unlike some of my other posts, this one is going to be straight-forward.  I'll cover some of the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy6a28jeu9eclawqcut7c.png",
-  "slug": "6-ways-to-turn-your-browser-into-super-debug-hero-ft-nodejs-nextjs-36c3",
-  "url": "https://dev.to/middleware/6-ways-to-turn-your-browser-into-super-debug-hero-ft-nodejs-nextjs-36c3",
-  "publish_date": "2024-07-03",
-  "published_at": "2024-07-03T16:10:36Z"
- },
- {
-  "id": 1910003,
-  "title": "Part 1: What is Clean Architecture?",
-  "description": "Understanding Clean Architecture   Clean Architecture is a software design philosophy...",
-  "cover_image": "",
-  "slug": "part-1-what-is-clean-architecture-4bn1",
-  "url": "https://dev.to/moh_moh701/part-1-what-is-clean-architecture-4bn1",
-  "publish_date": "2024-07-03",
-  "published_at": "2024-07-03T10:41:39Z"
- },
- {
-  "id": 1909962,
-  "title": "Building and Selling a GPT Wrapper SaaS in 5 Months",
-  "description": "Since the release of ChatGPT, we’ve been flooded with all possible versions of apps that use it in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6hcsdjqu16nstqlqwz2t.png",
-  "slug": "building-and-selling-a-gpt-wrapper-saas-in-5-months-1i6h",
-  "url": "https://dev.to/wasp/building-and-selling-a-gpt-wrapper-saas-in-5-months-1i6h",
-  "publish_date": "2024-07-03",
-  "published_at": "2024-07-03T10:12:17Z"
- },
- {
-  "id": 1907813,
-  "title": "Powerful AI Tools You Should Know",
-  "description": "Hello  Devs👋  Nowadays there are many AI tools available to boost your productivity but finding the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft8ywdub8qz2jcdig9b3c.gif",
-  "slug": "powerful-ai-tools-you-should-know-1gf1",
-  "url": "https://dev.to/dev_kiran/powerful-ai-tools-you-should-know-1gf1",
-  "publish_date": "2024-07-03",
-  "published_at": "2024-07-03T07:19:17Z"
- },
- {
-  "id": 1909787,
-  "title": "Mythbusting DOM: Was DOM Invented Alongside HTML?",
-  "description": "There is a common belief that the DOM emerged simultaneously with HTML and has always been an...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fju5gdx5rhg95b3a6u0rm.jpg",
-  "slug": "mythbusting-dom-was-dom-invented-alongside-html-3fme",
-  "url": "https://dev.to/babichweb/mythbusting-dom-was-dom-invented-alongside-html-3fme",
-  "publish_date": "2024-07-03",
-  "published_at": "2024-07-03T07:15:24Z"
  }
 ]
