@@ -1,5 +1,55 @@
 [
  {
+  "id": 2025889,
+  "title": "Build your own personal SIRI with LLAMA-3 like a PRO! 🧙‍♂️ 🪄",
+  "description": "TL;DR ✨   In this easy-to-follow tutorial, you will learn how to build your own voice...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2jtcfian85fppjog7rqe.png",
+  "slug": "build-your-personal-siri-with-llama-3-like-a-pro-5h1o",
+  "url": "https://dev.to/shricodev/build-your-personal-siri-with-llama-3-like-a-pro-5h1o",
+  "publish_date": "2024-10-17",
+  "published_at": "2024-10-17T13:05:05Z"
+ },
+ {
+  "id": 2040488,
+  "title": "What is Platform Engineering?",
+  "description": "Modern software engineering is becoming more and more complicated, especially in cloud-native...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fisi5a15u8gqex1owxfho.jpeg",
+  "slug": "what-is-platform-engineering-3fb",
+  "url": "https://dev.to/cyclops-ui/what-is-platform-engineering-3fb",
+  "publish_date": "2024-10-17",
+  "published_at": "2024-10-17T11:26:15Z"
+ },
+ {
+  "id": 2041059,
+  "title": "Top AI Search Engines to Boost Productivity",
+  "description": "From searching multiple apps at once without any ETL to a fully functioning SAAS. Let's explore some...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjmrrtlfd01smukzbmpea.gif",
+  "slug": "top-ai-search-engines-to-boost-productivity-26f9",
+  "url": "https://dev.to/swirl/top-ai-search-engines-to-boost-productivity-26f9",
+  "publish_date": "2024-10-17",
+  "published_at": "2024-10-17T11:03:13Z"
+ },
+ {
+  "id": 2041571,
+  "title": "How to create a LinkedIn job scraper in Python with Crawlee",
+  "description": "Introduction   In this article, we will build a web application that scrapes LinkedIn for...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwsyjca1b8q6g9wapyhnp.jpg",
+  "slug": "how-to-create-a-linkedin-job-scraper-in-python-with-crawlee-h9d",
+  "url": "https://dev.to/crawlee/how-to-create-a-linkedin-job-scraper-in-python-with-crawlee-h9d",
+  "publish_date": "2024-10-17",
+  "published_at": "2024-10-17T07:07:41Z"
+ },
+ {
+  "id": 2041414,
+  "title": "Understanding the useEffect Hook: An In-Depth Analysis",
+  "description": "Side effects in React components are tasks that affect external systems or modify global states. The...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbfj7vsddn47w613kt2of.jpg",
+  "slug": "understanding-the-useeffect-hook-an-in-depth-analysis-1129",
+  "url": "https://dev.to/vyan/understanding-the-useeffect-hook-an-in-depth-analysis-1129",
+  "publish_date": "2024-10-17",
+  "published_at": "2024-10-17T04:15:30Z"
+ },
+ {
   "id": 2041114,
   "title": "What Does It Take to Build High-Performing Teams?",
   "description": "Some might say the key to building high-performing teams lies in setting SMART goals, establishing a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/digikins/personalyzer-wix-studio-challenge-485m",
   "publish_date": "2024-07-09",
   "published_at": "2024-07-09T11:45:45Z"
- },
- {
-  "id": 1915753,
-  "title": "How to turn a Jupyter Notebook into a deployable artifact",
-  "description": "One of the most difficult challenges for a machine learning engineering team is efficiently bringing...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fk101lnmrswlzr5krb41w.png",
-  "slug": "how-to-turn-a-jupyter-notebook-into-a-deployable-artifact-2jdl",
-  "url": "https://dev.to/kitops/how-to-turn-a-jupyter-notebook-into-a-deployable-artifact-2jdl",
-  "publish_date": "2024-07-08",
-  "published_at": "2024-07-08T12:37:32Z"
- },
- {
-  "id": 1915506,
-  "title": "Amazon Software Engineer Levels: Roles and Expectations [With Salary]",
-  "description": "Amazon SDE Career Ladder: A Comprehensive Overview   Amazon, one of the most innovative and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7w85lpsjiexynq2wn8bv.jpeg",
-  "slug": "amazon-software-engineer-levels-roles-and-expectations-with-salary-1017",
-  "url": "https://dev.to/alexr/amazon-software-engineer-levels-roles-and-expectations-with-salary-1017",
-  "publish_date": "2024-07-08",
-  "published_at": "2024-07-08T09:46:47Z"
- },
- {
-  "id": 1915448,
-  "title": "50 basic Linux commands",
-  "description": "Certainly! Here are 50 basic Linux commands that are useful for navigating and managing your...",
-  "cover_image": "",
-  "slug": "50-basic-linux-commands-42dg",
-  "url": "https://dev.to/dev-nnamdi/50-basic-linux-commands-42dg",
-  "publish_date": "2024-07-08",
-  "published_at": "2024-07-08T08:50:26Z"
- },
- {
-  "id": 1893556,
-  "title": "Advanced Dockerfile Directives",
-  "description": "In this post, we are going to discuss more advanced Dockerfile directives. These directives can be...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fud6oyinws6xha4i4f179.png",
-  "slug": "advanced-dockerfile-directives-193f",
-  "url": "https://dev.to/kalkwst/advanced-dockerfile-directives-193f",
-  "publish_date": "2024-07-08",
-  "published_at": "2024-07-08T06:25:58Z"
- },
- {
-  "id": 1915174,
-  "title": "The React useRef Hook: Not Just for DOM Elements",
-  "description": "In this post, we'll cover what the useRef hook is, some examples of how it can be used, and when you...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxllbi42t0tt7qanarqac.png",
-  "slug": "the-react-useref-hook-not-just-for-html-elements-3cf3",
-  "url": "https://dev.to/opensauced/the-react-useref-hook-not-just-for-html-elements-3cf3",
-  "publish_date": "2024-07-08",
-  "published_at": "2024-07-08T04:38:17Z"
  }
 ]
