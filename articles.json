@@ -1,5 +1,55 @@
 [
  {
+  "id": 2045054,
+  "title": "Useful React Libraries for Modern Web Development",
+  "description": "In this article, I will talk about libraries that you can use in your React projects.  If you like my...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft5pdm5e1w7as4kkdwzqh.png",
+  "slug": "useful-react-libraries-for-modern-web-development-32c6",
+  "url": "https://dev.to/sonaykara/useful-react-libraries-for-modern-web-development-32c6",
+  "publish_date": "2024-10-19",
+  "published_at": "2024-10-19T22:29:03Z"
+ },
+ {
+  "id": 2044920,
+  "title": "I made a Component Library !",
+  "description": "After years of wondering, what to do in my life, I finally have reached to a notable conclusion, that...",
+  "cover_image": "",
+  "slug": "i-made-a-component-library--1hp5",
+  "url": "https://dev.to/who_tf_cares/i-made-a-component-library--1hp5",
+  "publish_date": "2024-10-19",
+  "published_at": "2024-10-19T19:45:16Z"
+ },
+ {
+  "id": 2044699,
+  "title": "Introducing TheDevOpsHub: Your Central Hub for DevOps Learning! 🚀",
+  "description": "Welcome to TheDevOpsHub, a new initiative designed to provide a comprehensive learning experience for...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3we4f1vbg3fk6jlv3b0q.png",
+  "slug": "introducing-thedevopshub-your-central-hub-for-devops-learning-4d30",
+  "url": "https://dev.to/tungbq/introducing-thedevopshub-your-central-hub-for-devops-learning-4d30",
+  "publish_date": "2024-10-19",
+  "published_at": "2024-10-19T15:21:43Z"
+ },
+ {
+  "id": 2015786,
+  "title": "10 Scalability Lessons from Zoom's Software Architecture",
+  "description": "Here are 10 key lessons software engineers, developers, and architects can learn from Zoom's scalable architecture",
+  "cover_image": "",
+  "slug": "10-scalability-lessons-from-zooms-software-architecture-6g3",
+  "url": "https://dev.to/somadevtoo/10-scalability-lessons-from-zooms-software-architecture-6g3",
+  "publish_date": "2024-10-19",
+  "published_at": "2024-10-19T08:34:26Z"
+ },
+ {
+  "id": 2044270,
+  "title": "Master 6 Powerful JavaScript Functions! 💻",
+  "description": "Master 6 Powerful JavaScript Functions!   Check out these essential functions every web...",
+  "cover_image": "",
+  "slug": "master-6-powerful-javascript-functions-599b",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/master-6-powerful-javascript-functions-599b",
+  "publish_date": "2024-10-19",
+  "published_at": "2024-10-19T04:23:39Z"
+ },
+ {
   "id": 2044002,
   "title": "Next.js Dynamic Routes",
   "description": "If you like my articles, you can buy me a coffee :) Buy me coffee  Dynamic routing in Next.js allows...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/portkey/three-prompt-libraries-you-should-know-as-a-ai-engineer-32m8",
   "publish_date": "2024-07-11",
   "published_at": "2024-07-11T09:54:15Z"
- },
- {
-  "id": 1918863,
-  "title": "Join Us For The First Community Smart Contract Challenge With $50,000 In Prizes!",
-  "description": "We are thrilled to collaborate with the Stellar Development Foundation to introduce the community to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fetszmj7ewpff1xk317bg.png",
-  "slug": "join-us-for-the-first-community-smart-contract-challenge-with-50000-in-prizes-41gl",
-  "url": "https://dev.to/devteam/join-us-for-the-first-community-smart-contract-challenge-with-50000-in-prizes-41gl",
-  "publish_date": "2024-07-10",
-  "published_at": "2024-07-10T18:33:22Z"
- },
- {
-  "id": 1918510,
-  "title": "Real time rendering with web-sockets",
-  "description": "Real time rendering with web-sockets   Associating the WebSockets technology with ScheduleJS...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc5hhizvlkvdw5c6r8y1j.jpg",
-  "slug": "real-time-rendering-with-web-sockets-50b7",
-  "url": "https://dev.to/lenormor/real-time-rendering-with-web-sockets-50b7",
-  "publish_date": "2024-07-10",
-  "published_at": "2024-07-10T12:19:35Z"
- },
- {
-  "id": 1918505,
-  "title": "Integrating ScheduleJS into AG-Grid",
-  "description": "This article showcases the integration of ScheduleJS in an external third-party table component: the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmse6uy5hzhwz7k6ym9vq.png",
-  "slug": "integrating-schedulejs-into-ag-grid-5hfm",
-  "url": "https://dev.to/lenormor/integrating-schedulejs-into-ag-grid-5hfm",
-  "publish_date": "2024-07-10",
-  "published_at": "2024-07-10T12:12:26Z"
- },
- {
-  "id": 1911980,
-  "title": "My work setup for PHP development",
-  "description": "These days the majority of my (programming) work is (in order of SLOC): PHP, Javascript (including...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fif0r9v2pye9o8bhihjai.jpg",
-  "slug": "my-work-setup-for-php-development-4dj8",
-  "url": "https://dev.to/moopet/my-work-setup-for-php-development-4dj8",
-  "publish_date": "2024-07-10",
-  "published_at": "2024-07-10T11:04:37Z"
- },
- {
-  "id": 1918264,
-  "title": "Drawing animations in ScheduleJS",
-  "description": "ScheduleJS uses the HTML Canvas rendering engine to draw the grid, activities, additional layers and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbrevzez57d3n22v7w1qn.png",
-  "slug": "drawing-animations-in-schedulejs-56fo",
-  "url": "https://dev.to/lenormor/drawing-animations-in-schedulejs-56fo",
-  "publish_date": "2024-07-10",
-  "published_at": "2024-07-10T08:36:13Z"
  }
 ]
