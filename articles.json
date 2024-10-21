@@ -1,5 +1,55 @@
 [
  {
+  "id": 2045940,
+  "title": "Libraries You Should Know When Building with React",
+  "description": "In this article, I will talk about libraries that you can use in your React projects.  If you like my...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1rs69tehvttflhdmsu2i.png",
+  "slug": "libraries-you-should-know-when-building-with-react-2c2g",
+  "url": "https://dev.to/sonaykara/libraries-you-should-know-when-building-with-react-2c2g",
+  "publish_date": "2024-10-20",
+  "published_at": "2024-10-20T18:26:57Z"
+ },
+ {
+  "id": 2045939,
+  "title": "10 Must-Know Git \u0026 Development Tips Every Beginner Should Master",
+  "description": "If you’re just starting your journey in web or software development, there’s a good chance you’ve...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft2r3b3f7eiv1d65i9nqs.png",
+  "slug": "10-must-know-git-development-tips-every-beginner-should-master-fph",
+  "url": "https://dev.to/mukhilpadmanabhan/10-must-know-git-development-tips-every-beginner-should-master-fph",
+  "publish_date": "2024-10-20",
+  "published_at": "2024-10-20T18:24:42Z"
+ },
+ {
+  "id": 2045381,
+  "title": "Best Patterns for Cracking Coding Interviews Using LeetCode",
+  "description": "Best Patterns for Cracking Coding Interviews Using LeetCode.   LeetCode is a highly...",
+  "cover_image": "",
+  "slug": "best-patterns-for-cracking-coding-interviews-using-leetcode-1c5p",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/best-patterns-for-cracking-coding-interviews-using-leetcode-1c5p",
+  "publish_date": "2024-10-20",
+  "published_at": "2024-10-20T06:24:12Z"
+ },
+ {
+  "id": 2045289,
+  "title": "10 Free Web Hosting Solutions for Static and Dynamic Sites",
+  "description": "1. GitHub Pages     Best for: Static websites (HTML, CSS,...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F738m7s0d69xhifqccp6a.png",
+  "slug": "10-free-web-hosting-solutions-for-static-and-dynamic-sites-48g1",
+  "url": "https://dev.to/anticoder03/10-free-web-hosting-solutions-for-static-and-dynamic-sites-48g1",
+  "publish_date": "2024-10-20",
+  "published_at": "2024-10-20T03:01:44Z"
+ },
+ {
+  "id": 2000594,
+  "title": "Sherlock Holmes: The Case Of Missing Cookies",
+  "description": "Welcome to our Sherlock Holmes-inspired tech adventure Series! Imagine each technical challenge as a...",
+  "cover_image": "https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8ewg90pagnp9kqxp2mx7.png",
+  "slug": "sherlock-holmes-and-the-mystery-of-the-missing-cookies-4i38",
+  "url": "https://dev.to/programmerraja/sherlock-holmes-and-the-mystery-of-the-missing-cookies-4i38",
+  "publish_date": "2024-10-20",
+  "published_at": "2024-10-20T00:25:05Z"
+ },
+ {
   "id": 2045054,
   "title": "Useful React Libraries for Modern Web Development",
   "description": "In this article, I will talk about libraries that you can use in your React projects.  If you like my...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/understanding-vite-flow-and-structure-in-a-react-project-2e84",
   "publish_date": "2024-07-12",
   "published_at": "2024-07-12T03:01:52Z"
- },
- {
-  "id": 1920049,
-  "title": "🔴 Realtime Responsive Chat App with React, Node.js, Socket.io and MongoDB with Group Chats and File Uploads",
-  "description": "Features of the Realtime Responsive Chat App   ✅ Frontend: Built with React ⚛️  ✅ UI...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0aasadks68ndxjtnh6dj.jpg",
-  "slug": "realtime-responsive-chat-app-with-react-nodejs-socketio-and-mongodb-with-group-chats-and-file-uploads-3nhl",
-  "url": "https://dev.to/kishansheth/realtime-responsive-chat-app-with-react-nodejs-socketio-and-mongodb-with-group-chats-and-file-uploads-3nhl",
-  "publish_date": "2024-07-11",
-  "published_at": "2024-07-11T17:20:47Z"
- },
- {
-  "id": 1918776,
-  "title": "Table Extraction and Processing from PDFs - A Tutorial",
-  "description": "Tables in PDFs are very prevalent and for those of us who are intent on extracting information from...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdamrhbijkw7n7td8ilgd.jpg",
-  "slug": "table-extraction-and-processing-from-pdfs-a-tutorial-1je7",
-  "url": "https://dev.to/shuveb_hussain/table-extraction-and-processing-from-pdfs-a-tutorial-1je7",
-  "publish_date": "2024-07-11",
-  "published_at": "2024-07-11T14:44:20Z"
- },
- {
-  "id": 1919737,
-  "title": "25 Open Source AI Tools to Cut Your Development Time in Half",
-  "description": "Each ML/AI project stakeholder requires specialized tools that efficiently enable them to manage the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6i0judt6hzzddip0axs.jpg",
-  "slug": "25-open-source-ai-tools-to-cut-your-development-time-in-half-4h5j",
-  "url": "https://dev.to/kitops/25-open-source-ai-tools-to-cut-your-development-time-in-half-4h5j",
-  "publish_date": "2024-07-11",
-  "published_at": "2024-07-11T12:48:44Z"
- },
- {
-  "id": 1919715,
-  "title": "The Top 12 Open-Source No-Code Tools with the Most GitHub Stars",
-  "description": "In this article, we will explore 12 leading open-source, no-code tools on GitHub, each distinguished...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1zll55ckwp7qejqtym7.png",
-  "slug": "the-top-12-open-source-no-code-tools-with-the-most-github-stars-4aac",
-  "url": "https://dev.to/nocobase/the-top-12-open-source-no-code-tools-with-the-most-github-stars-4aac",
-  "publish_date": "2024-07-11",
-  "published_at": "2024-07-11T12:26:24Z"
- },
- {
-  "id": 1919531,
-  "title": "Three Prompt Libraries you should know as a AI Engineer",
-  "description": "As developers we write code to develop logic that eventually helps solve larger problems or automate...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgau2jm743mag2jfku5lz.png",
-  "slug": "three-prompt-libraries-you-should-know-as-a-ai-engineer-32m8",
-  "url": "https://dev.to/portkey/three-prompt-libraries-you-should-know-as-a-ai-engineer-32m8",
-  "publish_date": "2024-07-11",
-  "published_at": "2024-07-11T09:54:15Z"
  }
 ]
