@@ -1,5 +1,55 @@
 [
  {
+  "id": 2053554,
+  "title": "How to deploy a backend application to DigitalOcean using Docker and Encore",
+  "description": "💡 This guide shows you how to deploy an Encore application to DigitalOcean using the new encore build...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxn8ke0tkcdzfbbt87grt.png",
+  "slug": "how-to-deploy-a-backend-application-to-digitalocean-using-docker-and-encore-1eh0",
+  "url": "https://dev.to/encore/how-to-deploy-a-backend-application-to-digitalocean-using-docker-and-encore-1eh0",
+  "publish_date": "2024-10-23",
+  "published_at": "2024-10-23T12:17:30Z"
+ },
+ {
+  "id": 2052393,
+  "title": "How to write clean code",
+  "description": "Why Write Clean Code? ⛩️    Imagine if you tried to find something in a messy room—you'd...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj12yer1mgfdnf038nxqo.png",
+  "slug": "how-to-write-clean-code-3599",
+  "url": "https://dev.to/codewithshahan/how-to-write-clean-code-3599",
+  "publish_date": "2024-10-23",
+  "published_at": "2024-10-23T08:09:19Z"
+ },
+ {
+  "id": 2051021,
+  "title": "Top 5 open-source MLOps tool to boost your production ✨",
+  "description": "Someone: How's everything going in your production? Engineers: 🙂   Let's start this blog with basics...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff2bkn706hrjbx27ppjc2.gif",
+  "slug": "top-5-open-source-mlops-tool-to-boost-your-production-4j0a",
+  "url": "https://dev.to/rohan_sharma/top-5-open-source-mlops-tool-to-boost-your-production-4j0a",
+  "publish_date": "2024-10-23",
+  "published_at": "2024-10-23T04:28:31Z"
+ },
+ {
+  "id": 2052776,
+  "title": "6 Essential JavaScript Functions Every Developer Should Know",
+  "description": "JavaScript is a versatile language that powers much of the web today. Among its many features,...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe78r8036uwiq8bnn124s.jpg",
+  "slug": "6-essential-javascript-functions-every-developer-should-know-2gb9",
+  "url": "https://dev.to/vyan/6-essential-javascript-functions-every-developer-should-know-2gb9",
+  "publish_date": "2024-10-23",
+  "published_at": "2024-10-23T04:04:13Z"
+ },
+ {
+  "id": 2052743,
+  "title": "DSA: Recursion - Expanded Questions",
+  "description": "DSA: Recursion - Expanded Questions.            1. Basic Recursion    Calculate the...",
+  "cover_image": "",
+  "slug": "dsa-recursion-expanded-questions-32e9",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/dsa-recursion-expanded-questions-32e9",
+  "publish_date": "2024-10-23",
+  "published_at": "2024-10-23T03:31:57Z"
+ },
+ {
   "id": 2047726,
   "title": "Making the most annoying cookie banners we could think of 🍪🤬",
   "description": "Dark patterns in web UX are design features that are subtly designed to get the user to perform a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/molaycule/building-gamewave-an-ai-powered-game-store-with-wix-studio-3lp9",
   "publish_date": "2024-07-15",
   "published_at": "2024-07-15T06:45:45Z"
- },
- {
-  "id": 1922972,
-  "title": "✨Top 9 Open-Source Hidden Gems🤯",
-  "description": "Hello Devs👋  In this article I will be sharing some amazing open-source projects I've found that can...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbmnbs9kzqp2beb3kvcyr.gif",
-  "slug": "top-9-open-source-hidden-gems-56d9",
-  "url": "https://dev.to/dev_kiran/top-9-open-source-hidden-gems-56d9",
-  "publish_date": "2024-07-14",
-  "published_at": "2024-07-14T14:48:36Z"
- },
- {
-  "id": 1922513,
-  "title": "How to 10x downsize fonts - Building a font optimizer",
-  "description": "I was using fonts wrong.  I usually got most of my fonts from Google Fonts.   For a long time, I just...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiqqufz0evl11flx1crws.png",
-  "slug": "how-to-10x-downsize-fonts-29nl",
-  "url": "https://dev.to/wimadev/how-to-10x-downsize-fonts-29nl",
-  "publish_date": "2024-07-14",
-  "published_at": "2024-07-14T09:41:12Z"
- },
- {
-  "id": 1919534,
-  "title": "19 Microservices Patterns for System Design Interviews",
-  "description": "These are the common patterns for Microservice architecture which developer should learn for System Design interviews. ",
-  "cover_image": "",
-  "slug": "19-microservices-patterns-for-system-design-interviews-3o39",
-  "url": "https://dev.to/somadevtoo/19-microservices-patterns-for-system-design-interviews-3o39",
-  "publish_date": "2024-07-14",
-  "published_at": "2024-07-14T09:36:37Z"
- },
- {
-  "id": 1922941,
-  "title": "Vivaldi Browser: Must-have extensions for developers",
-  "description": "Having the right tools can help a lot in web development. Vivaldi is flexible and customizable, which...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvq51zdcdx2yh92l4vcmr.png",
-  "slug": "vivaldi-browser-must-have-extensions-for-developers-30f4",
-  "url": "https://dev.to/qostya/vivaldi-browser-must-have-extensions-for-developers-30f4",
-  "publish_date": "2024-07-14",
-  "published_at": "2024-07-14T07:19:25Z"
- },
- {
-  "id": 1922814,
-  "title": "Mastering NestJS: Building Robust Applications with Core Concepts",
-  "description": "NestJS is a powerful framework that allows building various types of applications, including APIs,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpdszpocez4nogof0o5kc.png",
-  "slug": "mastering-nestjs-building-robust-applications-with-core-concepts-5gm3",
-  "url": "https://dev.to/vyan/mastering-nestjs-building-robust-applications-with-core-concepts-5gm3",
-  "publish_date": "2024-07-14",
-  "published_at": "2024-07-14T03:09:26Z"
  }
 ]
