@@ -1,5 +1,55 @@
 [
  {
+  "id": 2030963,
+  "title": "🧑‍💻 How I Built the World's Best NextJS, AI Scheduling App 🤖✨",
+  "description": "TL;DR   By the end of this article, you'll learn how to:   Integrate an AI copilot into your...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpvtqkii2tlp04p2cvlx9.gif",
+  "slug": "how-i-built-the-worlds-best-nextjs-ai-scheduling-app-442c",
+  "url": "https://dev.to/copilotkit/how-i-built-the-worlds-best-nextjs-ai-scheduling-app-442c",
+  "publish_date": "2024-10-24",
+  "published_at": "2024-10-24T13:58:39Z"
+ },
+ {
+  "id": 2055562,
+  "title": "Building a Perplexity-like Open Source AI Search with SWIRL",
+  "description": "Perplexity AI is an AI-powered search engine that has gained traction for its ability to deliver...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fitjk7acf3x222kbx9992.gif",
+  "slug": "building-a-perplexity-like-open-source-ai-search-with-swirl-57cl",
+  "url": "https://dev.to/swirl/building-a-perplexity-like-open-source-ai-search-with-swirl-57cl",
+  "publish_date": "2024-10-24",
+  "published_at": "2024-10-24T13:26:23Z"
+ },
+ {
+  "id": 2055454,
+  "title": "5 Internal Developer Platforms You Need to Know About!",
+  "description": "Gartner predicts that by 2026, 80% of software companies will have established platform engineering...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffpry9o43d4a11g2j9obc.jpg",
+  "slug": "5-internal-developer-platforms-you-need-to-know-about-3188",
+  "url": "https://dev.to/cyclops-ui/5-internal-developer-platforms-you-need-to-know-about-3188",
+  "publish_date": "2024-10-24",
+  "published_at": "2024-10-24T11:46:01Z"
+ },
+ {
+  "id": 2052210,
+  "title": "How to Dockerize and Deploy Express.js APIs",
+  "description": "If you're just here to copy and paste, here's the final Dockerfile that will produce an image for...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffgmyysjjjeaz4xot6cl6.png",
+  "slug": "how-to-dockerize-and-deploy-expressjs-apis-k5d",
+  "url": "https://dev.to/code42cate/how-to-dockerize-and-deploy-expressjs-apis-k5d",
+  "publish_date": "2024-10-24",
+  "published_at": "2024-10-24T09:45:30Z"
+ },
+ {
+  "id": 2054984,
+  "title": "100 AWS DevOps Interview Questions and Answers",
+  "description": "Table of Contents    General AWS DevOps Questions CI/CD Pipeline Questions Containerization...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm0ity1b5jxwsq89qxu6j.png",
+  "slug": "100-aws-devops-interview-questions-and-answers-3g1i",
+  "url": "https://dev.to/prodevopsguytech/100-aws-devops-interview-questions-and-answers-3g1i",
+  "publish_date": "2024-10-24",
+  "published_at": "2024-10-24T06:33:33Z"
+ },
+ {
   "id": 2053554,
   "title": "How to deploy a backend application to DigitalOcean using Docker and Encore",
   "description": "💡 This guide shows you how to deploy an Encore application to DigitalOcean using the new encore build...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/woovi/building-a-modular-decoupled-backend-using-a-monorepo-2fik",
   "publish_date": "2024-07-16",
   "published_at": "2024-07-16T11:55:36Z"
- },
- {
-  "id": 1924534,
-  "title": "ChatPlus is an Open Source PWA that provides the experience of using a mobile app.",
-  "description": "Brief ChatPlus Overview 💬✨🤩   ChatPlus is a progressive web application created using React,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu2h4u0d16x8wndaqv0vg.png",
-  "slug": "chatplus-is-an-open-source-pwa-that-provides-the-experience-of-using-a-mobile-app-22nk",
-  "url": "https://dev.to/aladinyo/chatplus-is-an-open-source-pwa-that-provides-the-experience-of-using-a-mobile-app-22nk",
-  "publish_date": "2024-07-15",
-  "published_at": "2024-07-15T17:19:07Z"
- },
- {
-  "id": 1923264,
-  "title": "I built an AI Agent to validate my PR without actually doing it myself 🚀⚡",
-  "description": "TL; DR   In Composio, we review tens of pull requests every week.  That takes a lot of time,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fchdkuu42jl0svqoi3y05.gif",
-  "slug": "i-built-an-ai-agent-to-validate-my-pr-without-actually-doing-it-myself-24f0",
-  "url": "https://dev.to/composiodev/i-built-an-ai-agent-to-validate-my-pr-without-actually-doing-it-myself-24f0",
-  "publish_date": "2024-07-15",
-  "published_at": "2024-07-15T12:34:00Z"
- },
- {
-  "id": 1901168,
-  "title": "Simplify Kubernetes Monitoring: Kube-prometheus-stack Made Easy with Glasskube",
-  "description": "What do we, as developers and engineers, value most above all else? The answer is simple: our...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flvogmxeafpy99ojhy6lj.png",
-  "slug": "simplify-kubernetes-monitoring-kube-prometheus-stack-made-easy-with-glasskube-54gn",
-  "url": "https://dev.to/glasskube/simplify-kubernetes-monitoring-kube-prometheus-stack-made-easy-with-glasskube-54gn",
-  "publish_date": "2024-07-15",
-  "published_at": "2024-07-15T10:18:11Z"
- },
- {
-  "id": 1923919,
-  "title": "How Elite Engg. Teams Deploy 208X More Frequently Compared to Us Mere Mortals?",
-  "description": "Yes, you read the title right! 🤯  Elite engineering teams deploy 208 times more frequently than their...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff0vttzgagft5gte2zki4.png",
-  "slug": "how-elite-engg-teams-deploy-208x-more-frequently-compared-to-us-mere-mortals-296b",
-  "url": "https://dev.to/middleware/how-elite-engg-teams-deploy-208x-more-frequently-compared-to-us-mere-mortals-296b",
-  "publish_date": "2024-07-15",
-  "published_at": "2024-07-15T08:56:50Z"
- },
- {
-  "id": 1923772,
-  "title": "Building Gamewave: An AI-Powered Game Store with Wix Studio",
-  "description": "This is a submission for the Wix Studio Challenge.           What I Built   For the Wix Studio...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5absa7roo9u88nwitp1d.jpeg",
-  "slug": "building-gamewave-an-ai-powered-game-store-with-wix-studio-3lp9",
-  "url": "https://dev.to/molaycule/building-gamewave-an-ai-powered-game-store-with-wix-studio-3lp9",
-  "publish_date": "2024-07-15",
-  "published_at": "2024-07-15T06:45:45Z"
  }
 ]
