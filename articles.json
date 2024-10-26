@@ -1,5 +1,55 @@
 [
  {
+  "id": 2058144,
+  "title": "This is all what I've learned about Go in TWO Weeks!",
+  "description": "What is your approach when you need to learn something new? I have a very specific one and once again...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsvzj1n8msrknxdw08tqo.png",
+  "slug": "this-is-all-what-ive-learned-about-go-in-two-weeks-1bf2",
+  "url": "https://dev.to/danielhe4rt/this-is-all-what-ive-learned-about-go-in-two-weeks-1bf2",
+  "publish_date": "2024-10-25",
+  "published_at": "2024-10-25T21:38:22Z"
+ },
+ {
+  "id": 2055469,
+  "title": "8 open-source tools to build your next AI SaaS app 🔥 🚀",
+  "description": "I have been working with many companies, and believe me when I tell you there is a huge demand for...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fej4thsppfq0v47rn9j7c.gif",
+  "slug": "8-open-source-tools-to-build-your-next-ai-saas-app-11ip",
+  "url": "https://dev.to/nevodavid/8-open-source-tools-to-build-your-next-ai-saas-app-11ip",
+  "publish_date": "2024-10-25",
+  "published_at": "2024-10-25T12:54:45Z"
+ },
+ {
+  "id": 2046828,
+  "title": "✨8 Powerful Open-Source tools for Creating Accessible Web Apps ✨",
+  "description": "Are you ready to elevate your skills and create websites that everyone can enjoy?  Making your...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl4hpe64jhktmzxi5b6wh.gif",
+  "slug": "8-powerful-open-source-tools-for-creating-accessible-web-apps-ig3",
+  "url": "https://dev.to/tolgee_i18n/8-powerful-open-source-tools-for-creating-accessible-web-apps-ig3",
+  "publish_date": "2024-10-25",
+  "published_at": "2024-10-25T09:49:12Z"
+ },
+ {
+  "id": 2056867,
+  "title": "8 System Design Courses to learn Distributed System Architecture (2025)",
+  "description": "My favorite System design courses to learn Distributed System architecture in 2025",
+  "cover_image": "",
+  "slug": "8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81",
+  "url": "https://dev.to/somadevtoo/8-system-design-couress-to-learn-distributed-system-architecture-2025-4j81",
+  "publish_date": "2024-10-25",
+  "published_at": "2024-10-25T08:31:57Z"
+ },
+ {
+  "id": 2055104,
+  "title": "9 Interesting Open Source Projects You Should Explore Right Now🥷🏻 🎉",
+  "description": "Introduction   Open-source software and tools are used almost everywhere today. A recent...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F34auexixoxpm6shbbzot.gif",
+  "slug": "9-interesting-open-source-projects-you-should-explore-right-now-ddn",
+  "url": "https://dev.to/arindam_1729/9-interesting-open-source-projects-you-should-explore-right-now-ddn",
+  "publish_date": "2024-10-25",
+  "published_at": "2024-10-25T05:30:00Z"
+ },
+ {
   "id": 2030963,
   "title": "🧑‍💻 How I Built the World's Best NextJS, AI Scheduling App 🤖✨",
   "description": "TL;DR   By the end of this article, you'll learn how to:   Integrate an AI copilot into your...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/how-to-structure-your-backend-code-in-nodejs-expressjs-2bdd",
   "publish_date": "2024-07-17",
   "published_at": "2024-07-17T03:18:01Z"
- },
- {
-  "id": 1925812,
-  "title": "Congrats to the Wix Studio Challenge Winners!",
-  "description": "From eCommerce sites with gaming elements to customizable sneakers to AI-assisted shopping...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdt971htus7au2zxdhq6q.png",
-  "slug": "congrats-to-the-wix-studio-challenge-winners-1d23",
-  "url": "https://dev.to/devteam/congrats-to-the-wix-studio-challenge-winners-1d23",
-  "publish_date": "2024-07-16",
-  "published_at": "2024-07-16T19:07:27Z"
- },
- {
-  "id": 1920415,
-  "title": "How to build a Perplexity-like Chatbot in Slack?",
-  "description": "TL;DR   I spend a lot of time on Slack and often need deep-researched information. For this,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnuy8zc5v6fsfl2ehi4g8.gif",
-  "slug": "how-to-build-a-perplexity-like-chatbot-in-slack-533j",
-  "url": "https://dev.to/composiodev/how-to-build-a-perplexity-like-chatbot-in-slack-533j",
-  "publish_date": "2024-07-16",
-  "published_at": "2024-07-16T17:17:09Z"
- },
- {
-  "id": 1925570,
-  "title": "Tools to ease collaboration between data scientists and application developers",
-  "description": "As a CTO or an Engineering Manager, you will often face problems with your data scientists and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Funmgtch2i2q19slq8lia.jpg",
-  "slug": "tools-to-ease-collaboration-between-data-scientists-and-application-developers-5ad8",
-  "url": "https://dev.to/kitops/tools-to-ease-collaboration-between-data-scientists-and-application-developers-5ad8",
-  "publish_date": "2024-07-16",
-  "published_at": "2024-07-16T14:22:13Z"
- },
- {
-  "id": 1922251,
-  "title": "Best Architecture for Your Next Project, Framework Doesn’t Matter! 🎉",
-  "description": "Table of Contents    How Simple Engineering Works What Happens When We Decide to Scale or...",
-  "cover_image": "",
-  "slug": "best-architecture-for-your-next-project-framework-doesnt-matter-29em",
-  "url": "https://dev.to/middleware/best-architecture-for-your-next-project-framework-doesnt-matter-29em",
-  "publish_date": "2024-07-16",
-  "published_at": "2024-07-16T14:08:14Z"
- },
- {
-  "id": 1922344,
-  "title": "Building a Modular Decoupled Backend using a Monorepo",
-  "description": "There are a lot of articles about why you should decouple your backend to move faster, but very few...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5zg3j209bm0wkjsvvyq2.png",
-  "slug": "building-a-modular-decoupled-backend-using-a-monorepo-2fik",
-  "url": "https://dev.to/woovi/building-a-modular-decoupled-backend-using-a-monorepo-2fik",
-  "publish_date": "2024-07-16",
-  "published_at": "2024-07-16T11:55:36Z"
  }
 ]
