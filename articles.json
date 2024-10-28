@@ -1,5 +1,55 @@
 [
  {
+  "id": 2061193,
+  "title": "Integrate AI Effortlessly: A Beginner's Guide to Using CopilotKit",
+  "description": "🌟What is CopilotKit?   CopilotKit is an open-source framework that makes it easy to...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdk667s3hwyxcclzq6vai.gif",
+  "slug": "integrate-ai-effortlessly-a-beginners-guide-to-using-copilotkit-1pgg",
+  "url": "https://dev.to/niharikaa/integrate-ai-effortlessly-a-beginners-guide-to-using-copilotkit-1pgg",
+  "publish_date": "2024-10-27",
+  "published_at": "2024-10-27T15:48:39Z"
+ },
+ {
+  "id": 2060943,
+  "title": "Wix Studio Challenge x ChessMate",
+  "description": "This is a submission for the Wix Studio Challenge: Community Edition.           ChessMate   ChessMate...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fey01v8ss74psgj9pcq44.jpg",
+  "slug": "wix-studio-challenge-x-chessmate-4dhh",
+  "url": "https://dev.to/tejas_jaiswall/wix-studio-challenge-x-chessmate-4dhh",
+  "publish_date": "2024-10-27",
+  "published_at": "2024-10-27T12:16:32Z"
+ },
+ {
+  "id": 2060402,
+  "title": "DSA: Heap - Key Questions and Challenges",
+  "description": "DSA: Heap - Key Questions and Challenges            1. Basic Heap Operations    Implement a...",
+  "cover_image": "",
+  "slug": "dsa-heap-key-questions-and-challenges-3a55",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/dsa-heap-key-questions-and-challenges-3a55",
+  "publish_date": "2024-10-27",
+  "published_at": "2024-10-27T04:11:45Z"
+ },
+ {
+  "id": 2060363,
+  "title": "Java Inner Classes and Nested Classes",
+  "description": "In Java, an inner class is simply a class that’s defined inside another class or interface. Inner...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftdmqct2jqwo2d9qg3t6q.jpg",
+  "slug": "java-inner-classes-and-nested-classes-39a6",
+  "url": "https://dev.to/dhanush9952/java-inner-classes-and-nested-classes-39a6",
+  "publish_date": "2024-10-27",
+  "published_at": "2024-10-27T02:11:38Z"
+ },
+ {
+  "id": 2060261,
+  "title": "A Beginner's Guide to the CSS Box Model",
+  "description": "If you’re diving into web development, understanding the CSS Box Model is essential. It’s the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjqv9yq401jasb13h4k0e.jpeg",
+  "slug": "a-beginners-guide-to-the-css-box-model-4hc5",
+  "url": "https://dev.to/magsimuhammadessa/a-beginners-guide-to-the-css-box-model-4hc5",
+  "publish_date": "2024-10-27",
+  "published_at": "2024-10-27T00:38:19Z"
+ },
+ {
   "id": 2060051,
   "title": "Some new features CSS in 2024",
   "description": "In this article we will explore some new CSS features in 2024.  If you like my articles, you can buy...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/logto/enhancing-oidc-security-with-demonstrating-proof-of-possession-dpop-24j4",
   "publish_date": "2024-07-19",
   "published_at": "2024-07-19T02:54:52Z"
- },
- {
-  "id": 1928247,
-  "title": "Updates to the Node course: PostgreSQL, Prisma and more!",
-  "description": "We've heard your feedback on Discord and GitHub, and we're thrilled to announce the first set of...",
-  "cover_image": "",
-  "slug": "updates-to-the-node-course-postgresql-prisma-and-more-4dl3",
-  "url": "https://dev.to/theodinproject/updates-to-the-node-course-postgresql-prisma-and-more-4dl3",
-  "publish_date": "2024-07-18",
-  "published_at": "2024-07-18T19:08:58Z"
- },
- {
-  "id": 1926788,
-  "title": "13 Hidden Open-source Libraries to Become an AI Wizard 🧙‍♂️🪄",
-  "description": "I have been building AI applications for the past 4 years and contributing to major AI tooling...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fg4vo4h82a1wfaj58via3.gif",
-  "slug": "13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9",
-  "url": "https://dev.to/composiodev/13-hidden-open-source-libraries-to-become-an-ai-wizard-4ng9",
-  "publish_date": "2024-07-18",
-  "published_at": "2024-07-18T13:55:20Z"
- },
- {
-  "id": 1919704,
-  "title": "Advanced URL rewriting with Apache APISIX",
-  "description": "I spoke at Swiss PgDay in Switzerland in late June. The talk was about how to create a no-code API...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F215cxs6woyltg4rkyz0r.jpg",
-  "slug": "advanced-url-rewriting-with-apache-apisix-31ij",
-  "url": "https://dev.to/apisix/advanced-url-rewriting-with-apache-apisix-31ij",
-  "publish_date": "2024-07-18",
-  "published_at": "2024-07-18T09:02:00Z"
- },
- {
-  "id": 1919603,
-  "title": "Leaving Uber in 2022 was the best thing I did for myself 🚶💼",
-  "description": "tl;dr 📖   I had a cushy job at Uber—decent work, great people. But the red tape was...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvrcx2wkn2agqt5ykt1wp.png",
-  "slug": "leaving-uber-in-2022-was-the-best-thing-i-did-for-myself-4kf9",
-  "url": "https://dev.to/middleware/leaving-uber-in-2022-was-the-best-thing-i-did-for-myself-4kf9",
-  "publish_date": "2024-07-18",
-  "published_at": "2024-07-18T07:01:52Z"
- },
- {
-  "id": 1927315,
-  "title": "Building a Secure Employee Dashboard with Facial Authentication: A Comprehensive Next.js Tutorial",
-  "description": "Are you ready to revolutionize your workplace management? In this comprehensive tutorial, we're...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6ffh7lm3259hqplb42fg.png",
-  "slug": "building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
-  "url": "https://dev.to/vyan/building-a-secure-employee-dashboard-with-facial-authentication-a-comprehensive-nextjs-tutorial-2c4g",
-  "publish_date": "2024-07-18",
-  "published_at": "2024-07-18T02:29:04Z"
  }
 ]
