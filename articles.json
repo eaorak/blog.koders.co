@@ -1,5 +1,55 @@
 [
  {
+  "id": 2071358,
+  "title": "Why Virtual DOM: Render and Performance",
+  "description": "In this article, we will examine the dom in detail and what the virtual dom is.           What is the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu3eoc0gbj7n13tzhjo24.jpg",
+  "slug": "why-virtual-dom-faster-rendering-and-performance-1cjh",
+  "url": "https://dev.to/sonaykara/why-virtual-dom-faster-rendering-and-performance-1cjh",
+  "publish_date": "2024-11-01",
+  "published_at": "2024-11-01T23:04:43Z"
+ },
+ {
+  "id": 2069665,
+  "title": "How to Dockerize and Deploy Fastify APIs",
+  "description": "If you're just here to copy and paste, here's the final Dockerfile that will produce an image for...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flybf060q51rao9fq4s2w.png",
+  "slug": "how-to-dockerize-and-deploy-fastify-apis-3f7i",
+  "url": "https://dev.to/code42cate/how-to-dockerize-and-deploy-fastify-apis-3f7i",
+  "publish_date": "2024-11-01",
+  "published_at": "2024-11-01T09:56:50Z"
+ },
+ {
+  "id": 2068436,
+  "title": "Node.js Frameworks Roundup 2024 — Elysia / Hono / Nest / Encore — Which should you pick?",
+  "description": "Node.js web frameworks — where do we even begin? With so many options out there, choosing the right...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp1e85q4vypcch88es74u.png",
+  "slug": "nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj",
+  "url": "https://dev.to/encore/nodejs-frameworks-roundup-2024-elysia-hono-nest-encore-which-should-you-pick-19oj",
+  "publish_date": "2024-11-01",
+  "published_at": "2024-11-01T08:49:20Z"
+ },
+ {
+  "id": 2068153,
+  "title": "My Hacktobefest 2024 Experience",
+  "description": "Hacktoberfest has a special place in my tech journey because my tech and open source journey started...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu1wboisyl9avre72vn1t.png",
+  "slug": "my-hacktobefest-2024-experience-385f",
+  "url": "https://dev.to/pradumnasaraf/my-hacktobefest-2024-experience-385f",
+  "publish_date": "2024-11-01",
+  "published_at": "2024-11-01T07:53:27Z"
+ },
+ {
+  "id": 2069906,
+  "title": "Algorithms Behind JavaScript Array Methods",
+  "description": "Algorithms Behind JavaScript Array Methods.   JavaScript arrays come with various built-in...",
+  "cover_image": "",
+  "slug": "algorithms-behind-javascript-array-methods-50n9",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/algorithms-behind-javascript-array-methods-50n9",
+  "publish_date": "2024-11-01",
+  "published_at": "2024-11-01T05:18:07Z"
+ },
+ {
   "id": 2067455,
   "title": "Conjuring Cursed Halloween Tales with Qdrant's Dark Arts",
   "description": "It’s finally Halloween!! 🎃   That time of the year for carved pumpkins, sexy costumes, and eerie...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p",
   "publish_date": "2024-07-24",
   "published_at": "2024-07-24T07:00:00Z"
- },
- {
-  "id": 1932002,
-  "title": "20 Life hacks for DevOps Engineers",
-  "description": "Tricks of the trade, hacks, trade secrets, cheat sheets, best practices, call them what you will....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjtap9pdk7qdwi4pwa41a.png",
-  "slug": "20-life-hacks-for-devops-engineers-3dn7",
-  "url": "https://dev.to/glasskube/20-life-hacks-for-devops-engineers-3dn7",
-  "publish_date": "2024-07-23",
-  "published_at": "2024-07-23T09:29:37Z"
- },
- {
-  "id": 1927655,
-  "title": "Goodbye Webflow, Hello Our Shiny New Website",
-  "description": "“That's it! I'm done with Webflow! It's been nothing but a nightmare. We're moving to a headless CMS,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzpcr58bt6xxb20id57nk.png",
-  "slug": "goodbye-webflow-hello-our-shiny-new-website-1m31",
-  "url": "https://dev.to/zerodays/goodbye-webflow-hello-our-shiny-new-website-1m31",
-  "publish_date": "2024-07-23",
-  "published_at": "2024-07-23T06:38:25Z"
- },
- {
-  "id": 1932636,
-  "title": "POST only? Let's end this absurd API design debate",
-  "description": "Debunking the \"POST only\" API myth, explaining why it stems from a misunderstanding of API design...",
-  "cover_image": "",
-  "slug": "post-only-lets-end-this-absurd-api-design-debate-3a0k",
-  "url": "https://dev.to/logto/post-only-lets-end-this-absurd-api-design-debate-3a0k",
-  "publish_date": "2024-07-23",
-  "published_at": "2024-07-23T06:21:54Z"
- },
- {
-  "id": 1932608,
-  "title": "Webhooks vs. polling",
-  "description": "This article will compare webhooks vs. polling, analyze the advantages and disadvantages of each...",
-  "cover_image": "",
-  "slug": "webhooks-vs-polling-37d1",
-  "url": "https://dev.to/logto/webhooks-vs-polling-37d1",
-  "publish_date": "2024-07-23",
-  "published_at": "2024-07-23T05:25:52Z"
- },
- {
-  "id": 1932540,
-  "title": "Mastering React Router DOM: Your Guide to Building Slick Single-Page Apps",
-  "description": "Hey there, React enthusiasts! 👋 Ready to dive into the world of smooth, seamless navigation in your...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frfck0f1v4cfbfd9h874l.jpg",
-  "slug": "mastering-react-router-dom-your-guide-to-building-slick-single-page-apps-5g3o",
-  "url": "https://dev.to/vyan/mastering-react-router-dom-your-guide-to-building-slick-single-page-apps-5g3o",
-  "publish_date": "2024-07-23",
-  "published_at": "2024-07-23T03:43:12Z"
  }
 ]
