@@ -1,5 +1,55 @@
 [
  {
+  "id": 2074710,
+  "title": "Designing Better Tables: Using Popovers for Extra Data",
+  "description": "When working with large data tables, displaying all available information at once can often make the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp50nc8tmbcz08qcmwzm7.jpg",
+  "slug": "designing-better-tables-using-popovers-for-extra-data-d1i",
+  "url": "https://dev.to/madsstoumann/designing-better-tables-using-popovers-for-extra-data-d1i",
+  "publish_date": "2024-11-03",
+  "published_at": "2024-11-03T16:03:08Z"
+ },
+ {
+  "id": 2074754,
+  "title": "New to Frontend Engineering: 8 Things To Stop Doing",
+  "description": "New to Frontend Engineering: 8 Things To Stop Doing.   1. DON’T: Use generic tags like...",
+  "cover_image": "",
+  "slug": "new-to-frontend-engineering-8-things-to-stop-doing-4om",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/new-to-frontend-engineering-8-things-to-stop-doing-4om",
+  "publish_date": "2024-11-03",
+  "published_at": "2024-11-03T14:24:35Z"
+ },
+ {
+  "id": 2074391,
+  "title": "Stop Using Try-Catch: A Better Way to Handle Errors in JavaScript",
+  "description": "JavaScript developers, there’s a new way to handle errors without relying on messy, repetitive...",
+  "cover_image": "",
+  "slug": "stop-using-try-catch-a-better-way-to-handle-errors-in-javascript-14cm",
+  "url": "https://dev.to/richardshaju/stop-using-try-catch-a-better-way-to-handle-errors-in-javascript-14cm",
+  "publish_date": "2024-11-03",
+  "published_at": "2024-11-03T10:34:39Z"
+ },
+ {
+  "id": 2074376,
+  "title": "Rio: WebApps in pure Python — A fresh Layouting System",
+  "description": "We recently launched Rio, our new framework designed to help you create web and local applications...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1u1rj213fbyg47uar7zt.png",
+  "slug": "rio-webapps-in-pure-python-a-fresh-layouting-system-23p3",
+  "url": "https://dev.to/p4nd4no/rio-webapps-in-pure-python-a-fresh-layouting-system-23p3",
+  "publish_date": "2024-11-03",
+  "published_at": "2024-11-03T10:25:35Z"
+ },
+ {
+  "id": 2073928,
+  "title": "How to run for inference Llama-3_1-Nemotron-51B-Instruct?",
+  "description": "The large language model (LLM) Llama-3_1-Nemotron-51B-Instruct provides an excellent balance...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc4tzticfrpzhawem0f50.png",
+  "slug": "how-to-run-for-inference-llama-31-nemotron-51b-instruct-kcm",
+  "url": "https://dev.to/nodeshiftcloud/how-to-run-for-inference-llama-31-nemotron-51b-instruct-kcm",
+  "publish_date": "2024-11-03",
+  "published_at": "2024-11-03T05:31:13Z"
+ },
+ {
   "id": 2072741,
   "title": "Hacktoberfest 2024: A Journey of Learning and Contribution",
   "description": "Introduction 👋   Hello, Dev Community! I am K Om Senapati, a fellow Python dev and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/react-vs-nextjs-the-ultimate-guide-for-modern-web-development-in-2024-4j0k",
   "publish_date": "2024-07-26",
   "published_at": "2024-07-26T04:26:05Z"
- },
- {
-  "id": 1935988,
-  "title": "Announcing Rust 1.80.0",
-  "description": "Announcing Rust 1.80.0   The Rust team just announced the release of Rust 1.80.0.   This...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fx778bi996asa2b1o22vp.png",
-  "slug": "announcing-rust-1800-2njd",
-  "url": "https://dev.to/francescoxx/announcing-rust-1800-2njd",
-  "publish_date": "2024-07-25",
-  "published_at": "2024-07-25T13:25:26Z"
- },
- {
-  "id": 1935040,
-  "title": "Announcing NgRx Signals v18: State Encapsulation, Private Store Members, Enhanced Entity Management, and more!",
-  "description": "We are pleased to announce the latest major version of NgRx Signals, featuring exciting new features,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8zkja288gsxhwc8mfdc7.png",
-  "slug": "announcing-ngrx-signals-v18-state-encapsulation-private-store-members-enhanced-entity-management-and-more-2lo6",
-  "url": "https://dev.to/ngrx/announcing-ngrx-signals-v18-state-encapsulation-private-store-members-enhanced-entity-management-and-more-2lo6",
-  "publish_date": "2024-07-25",
-  "published_at": "2024-07-25T13:24:14Z"
- },
- {
-  "id": 1935949,
-  "title": "Creating a CSV to Graph Generator App Using ToolJet and Python Libraries 🚀",
-  "description": "In this tutorial, we'll create a CSV to Graph Generator app using ToolJet and Python code. This app...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffabfa7zt44gh3twzivh1.png",
-  "slug": "creating-a-csv-to-graph-generator-app-using-tooljet-and-python-libraries-18nb",
-  "url": "https://dev.to/tooljet/creating-a-csv-to-graph-generator-app-using-tooljet-and-python-libraries-18nb",
-  "publish_date": "2024-07-25",
-  "published_at": "2024-07-25T12:53:21Z"
- },
- {
-  "id": 1935886,
-  "title": "How I promoted my open source repo to 6k stars in 6 months",
-  "description": "Hey, I'm Vince...     I’m a self-taught developer that changed careers during the Covid...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7njak9ovegnyr8miud8i.png",
-  "slug": "how-i-promoted-my-open-source-repo-to-6k-stars-in-6-months-3li9",
-  "url": "https://dev.to/wasp/how-i-promoted-my-open-source-repo-to-6k-stars-in-6-months-3li9",
-  "publish_date": "2024-07-25",
-  "published_at": "2024-07-25T11:46:48Z"
- },
- {
-  "id": 1934300,
-  "title": "50 Best Websites for Web Design Inspiration and Ideas",
-  "description": "Welcome to the best websites where to find examples and ideas for web design inspiration. Use them to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fu0eshgt1vzsvtq8aww25.jpg",
-  "slug": "50-best-websites-for-web-design-inspiration-and-ideas-be6",
-  "url": "https://dev.to/devluc/50-best-websites-for-web-design-inspiration-and-ideas-be6",
-  "publish_date": "2024-07-25",
-  "published_at": "2024-07-25T06:05:05Z"
  }
 ]
