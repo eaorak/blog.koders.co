@@ -1,5 +1,55 @@
 [
  {
+  "id": 2079095,
+  "title": "list of the most common JavaScript string methods",
+  "description": "list of the most common JavaScript string methods:     length:     let message = \"Hello,...",
+  "cover_image": "",
+  "slug": "list-of-the-most-common-javascript-string-methods-4157",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/list-of-the-most-common-javascript-string-methods-4157",
+  "publish_date": "2024-11-05",
+  "published_at": "2024-11-05T15:10:41Z"
+ },
+ {
+  "id": 2078960,
+  "title": "AI Security: How to Protect Your Projects with Hardened ModelKits",
+  "description": "Securing AI systems has become a critical focus as generative AI (GenAI) advances bring new threats...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5in3kwbyay8i14zorcwu.jpg",
+  "slug": "ai-security-how-to-protect-your-projects-with-hardened-modelkits-2bj7",
+  "url": "https://dev.to/kitops/ai-security-how-to-protect-your-projects-with-hardened-modelkits-2bj7",
+  "publish_date": "2024-11-05",
+  "published_at": "2024-11-05T13:45:43Z"
+ },
+ {
+  "id": 2078523,
+  "title": "AI Co-Pilots Uncovered with 4 Powerful 🔥 Open Source Repos 💻",
+  "description": "What are AI Co-Pilots?   AI Copilots are advanced AI systems designed to work alongside...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr8jhdmevd5nzsjnqocwx.gif",
+  "slug": "ai-co-pilots-uncovered-with-4-powerful-open-source-repos-4345",
+  "url": "https://dev.to/srbhr/ai-co-pilots-uncovered-with-4-powerful-open-source-repos-4345",
+  "publish_date": "2024-11-05",
+  "published_at": "2024-11-05T13:45:11Z"
+ },
+ {
+  "id": 2078335,
+  "title": "How I used an OpenSource LLM in Wordpress",
+  "description": "Today, I'll guide you through integrating an open source LLM model into a WordPress website using...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65fn3tihwbdsf2lxoh8c.png",
+  "slug": "how-i-used-a-opensource-llm-in-wordpress-5b1a",
+  "url": "https://dev.to/marrouchi/how-i-used-a-opensource-llm-in-wordpress-5b1a",
+  "publish_date": "2024-11-05",
+  "published_at": "2024-11-05T09:09:15Z"
+ },
+ {
+  "id": 2075006,
+  "title": "Leverage IP Data for Dynamic User Access Management 🌐",
+  "description": "In today's world, it is very important to have access control. Access control means creating some...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8utvcr81ycwx08sh42a4.gif",
+  "slug": "leverage-ip-data-for-dynamic-user-access-management-2429",
+  "url": "https://dev.to/rohan_sharma/leverage-ip-data-for-dynamic-user-access-management-2429",
+  "publish_date": "2024-11-05",
+  "published_at": "2024-11-05T05:04:53Z"
+ },
+ {
   "id": 2077109,
   "title": "KitOps Community Newsletter #0002",
   "description": "Hey everyone!   October has come to a close and so has the 2024 Hacktoberfest! This was our first...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/understanding-json-web-tokens-jwt-for-secure-information-sharing-5c3a",
   "publish_date": "2024-07-28",
   "published_at": "2024-07-28T04:15:55Z"
- },
- {
-  "id": 1938324,
-  "title": "Building a Terabox Video player online with download option || Scraping APIs",
-  "description": "A post by Sh Raj",
-  "cover_image": "",
-  "slug": "building-a-terabox-video-player-online-with-download-option-scraping-apis-lpn",
-  "url": "https://dev.to/sh20raj/building-a-terabox-video-player-online-with-download-option-scraping-apis-lpn",
-  "publish_date": "2024-07-27",
-  "published_at": "2024-07-27T14:40:07Z"
- },
- {
-  "id": 1938206,
-  "title": "10 Projects to master Frontend \u0026 Web Development",
-  "description": "Introduction   Learning by hands-on code from day 1 is one of the coolest methods of getting...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F65dk4ktsv9gf9rmrnbrx.jpg",
-  "slug": "10-projects-to-master-frontend-web-development-acm",
-  "url": "https://dev.to/bigsondev/10-projects-to-master-frontend-web-development-acm",
-  "publish_date": "2024-07-27",
-  "published_at": "2024-07-27T12:11:00Z"
- },
- {
-  "id": 1938082,
-  "title": "Building Chat App Simplified",
-  "description": "Note: For a detailed walkthrough of building a comprehensive chat application schema, including...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwegmwbhdswdmt8dc67fd.jpg",
-  "slug": "building-chat-app-simplified-5cfe",
-  "url": "https://dev.to/vaishnavsherla/building-chat-app-simplified-5cfe",
-  "publish_date": "2024-07-27",
-  "published_at": "2024-07-27T08:24:33Z"
- },
- {
-  "id": 1937024,
-  "title": "Verify IDs with DOCSCAN API and Next.js",
-  "description": "Identity is an important aspect of the digital space. Making sure that users are who they claim to be...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwe93eos7bf8a35p98bv5.png",
-  "slug": "verify-ids-with-docscan-api-and-nextjs-1keb",
-  "url": "https://dev.to/envitab/verify-ids-with-docscan-api-and-nextjs-1keb",
-  "publish_date": "2024-07-27",
-  "published_at": "2024-07-27T06:29:25Z"
- },
- {
-  "id": 1937880,
-  "title": "React 19: A Game-Changer for Modern Web Development",
-  "description": "Introduction   React, the popular JavaScript library for building user interfaces, is about...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fko42x3apigcvt27hdf3p.jpg",
-  "slug": "react-19-a-game-changer-for-modern-web-development-1bih",
-  "url": "https://dev.to/vyan/react-19-a-game-changer-for-modern-web-development-1bih",
-  "publish_date": "2024-07-27",
-  "published_at": "2024-07-27T03:06:21Z"
  }
 ]
