@@ -1,5 +1,55 @@
 [
  {
+  "id": 2084386,
+  "title": "How to Upload and Download Files to Docker Volumes",
+  "description": "Docker volumes are great for persisting data, but managing files within them can be challenging. In...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4pjc6xv7oyx1nj7erwhe.png",
+  "slug": "how-to-upload-and-download-files-to-docker-volumes-2gbg",
+  "url": "https://dev.to/code42cate/how-to-upload-and-download-files-to-docker-volumes-2gbg",
+  "publish_date": "2024-11-07",
+  "published_at": "2024-11-07T20:31:59Z"
+ },
+ {
+  "id": 2084161,
+  "title": "The Fastest Way to Start Your AI Project–Quickstart ModelKits",
+  "description": "The potential of AI projects is immense, but data science and machine learning teams often face...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlfqfiak6qicrhvglgnh.jpg",
+  "slug": "start-your-ai-project-in-minutes-with-jozu-quickstart-modelkits-1k2d",
+  "url": "https://dev.to/kitops/start-your-ai-project-in-minutes-with-jozu-quickstart-modelkits-1k2d",
+  "publish_date": "2024-11-07",
+  "published_at": "2024-11-07T14:30:22Z"
+ },
+ {
+  "id": 2081198,
+  "title": "15 Essential tools and resources for Frontend developers ⚡️",
+  "description": "So, you want to boost your productivity as a frontend developer.  Whether you're looking for learning...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fidpziptpphu2o7vbxede.png",
+  "slug": "15-essential-tools-and-resources-for-frontend-developers-4jn4",
+  "url": "https://dev.to/paul_freeman/15-essential-tools-and-resources-for-frontend-developers-4jn4",
+  "publish_date": "2024-11-07",
+  "published_at": "2024-11-07T09:11:31Z"
+ },
+ {
+  "id": 2082916,
+  "title": "JavaScript Closures: Top Interview Questions and Answers",
+  "description": "JavaScript Closures: Top Interview Questions and Answers.            1. What is a closure in...",
+  "cover_image": "",
+  "slug": "javascript-closures-top-interview-questions-and-answers-1fni",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/javascript-closures-top-interview-questions-and-answers-1fni",
+  "publish_date": "2024-11-07",
+  "published_at": "2024-11-07T05:40:14Z"
+ },
+ {
+  "id": 2081697,
+  "title": "Open-Source will make you richhhh! 🤑💸",
+  "description": "YESSSSSSSSSSSS! YOU READ IT RIGHT 🎉  Open-source will make you rich. And, I'm NOT lying! Open-source...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6yber3mnawxfbr7qxkdu.gif",
+  "slug": "open-source-will-make-you-richhhh-5gf8",
+  "url": "https://dev.to/rohan_sharma/open-source-will-make-you-richhhh-5gf8",
+  "publish_date": "2024-11-07",
+  "published_at": "2024-11-07T02:54:34Z"
+ },
+ {
   "id": 2081567,
   "title": "Python for DevOps: A Comprehensive Guide from Beginner to Advanced",
   "description": "Python has gained significant traction in the DevOps ecosystem due to its ease of use, extensive...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/grayhat/5-week-data-career-boot-camp-orientation-and-foundations-30cf",
   "publish_date": "2024-07-30",
   "published_at": "2024-07-30T09:57:04Z"
- },
- {
-  "id": 1935130,
-  "title": "Cancer Sucks",
-  "description": "I've been trying to decide what to write for six weeks now. Some days, the struggle was thinking...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F930or3zmkxz7qfrrw3w7.png",
-  "slug": "cancer-sucks-1e2i",
-  "url": "https://dev.to/abbeyperini/cancer-sucks-1e2i",
-  "publish_date": "2024-07-29",
-  "published_at": "2024-07-29T14:09:38Z"
- },
- {
-  "id": 1940007,
-  "title": "Introduction to Feature Flagging: A Beginner's Guide",
-  "description": "TL;DR   In this article, you’ll learn the fundamentals of feature flagging, its benefits,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9iboior3vbgeg6qawyf3.png",
-  "slug": "introduction-to-feature-flagging-a-beginners-guide-4o9c",
-  "url": "https://dev.to/flipt/introduction-to-feature-flagging-a-beginners-guide-4o9c",
-  "publish_date": "2024-07-29",
-  "published_at": "2024-07-29T12:55:13Z"
- },
- {
-  "id": 1939909,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr5s1otwuh9lnb85lf87z.png",
-  "slug": "meme-monday-2484",
-  "url": "https://dev.to/ben/meme-monday-2484",
-  "publish_date": "2024-07-29",
-  "published_at": "2024-07-29T11:03:09Z"
- },
- {
-  "id": 1939577,
-  "title": "Overcoming Hard Rate Limits: Efficient Rate Limiting with Token Bucketing and Redis",
-  "description": "As a developer, dealing with external integrations often presents challenges, especially when those...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzftqplzk4tzy9uocnb01.png",
-  "slug": "overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb",
-  "url": "https://dev.to/middleware/overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb",
-  "publish_date": "2024-07-29",
-  "published_at": "2024-07-29T06:53:11Z"
- },
- {
-  "id": 1923393,
-  "title": "17 Most Powerful AI Tools for Developers",
-  "description": "There are countless AI tools but only a few can actually improve the daily life of...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffg7bmjvgeegkyctcajl1.png",
-  "slug": "17-most-powerful-ai-tools-for-developers-e6n",
-  "url": "https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n",
-  "publish_date": "2024-07-29",
-  "published_at": "2024-07-29T06:32:11Z"
  }
 ]
