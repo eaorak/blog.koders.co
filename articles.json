@@ -1,5 +1,55 @@
 [
  {
+  "id": 2086731,
+  "title": "TypeScript vs Go: Choosing Your Backend Language",
+  "description": "🤔 Picking between Go and TypeScript for your backend? Let's take a look at each language to see which...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvfcgfwximwiewixhpx1w.png",
+  "slug": "typescript-vs-go-choosing-your-backend-language-2bc5",
+  "url": "https://dev.to/encore/typescript-vs-go-choosing-your-backend-language-2bc5",
+  "publish_date": "2024-11-08",
+  "published_at": "2024-11-08T13:31:50Z"
+ },
+ {
+  "id": 2086745,
+  "title": "Mongoose Interview Questions",
+  "description": "Mongoose Interview Questions.            1. What is Mongoose and how does it relate to...",
+  "cover_image": "",
+  "slug": "mongoose-interview-questions-11k5",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/mongoose-interview-questions-11k5",
+  "publish_date": "2024-11-08",
+  "published_at": "2024-11-08T12:37:02Z"
+ },
+ {
+  "id": 2086509,
+  "title": "Master Redux with 5 Easy Steps: A Comprehensive Guide to Redux Toolkit",
+  "description": "In the world of React development, managing state effectively is crucial for building robust...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fks5lgpawpv6t6v28v1lb.jpg",
+  "slug": "master-redux-with-5-easy-steps-a-comprehensive-guide-to-redux-toolkit-13a5",
+  "url": "https://dev.to/vyan/master-redux-with-5-easy-steps-a-comprehensive-guide-to-redux-toolkit-13a5",
+  "publish_date": "2024-11-08",
+  "published_at": "2024-11-08T10:56:38Z"
+ },
+ {
+  "id": 2084592,
+  "title": "🔥14 game-changing open-source tools every developer should know 🚀",
+  "description": "The software development landscape is evolving faster than ever. To stay ahead of the curve, you must...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3lfoc4ylrn97ippfallf.gif",
+  "slug": "14-game-changing-open-source-tools-every-developer-should-know-4pc7",
+  "url": "https://dev.to/nevodavid/14-game-changing-open-source-tools-every-developer-should-know-4pc7",
+  "publish_date": "2024-11-08",
+  "published_at": "2024-11-08T10:23:06Z"
+ },
+ {
+  "id": 2084036,
+  "title": "Building AI Applications with Enterprise-Grade Security Using RAG and FGA",
+  "description": "This post is written by Bartosz Pietrucha            Introduction   Building enterprise-grade LLM...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0xg7nm2i2aaavjeofu21.jpg",
+  "slug": "building-ai-applications-with-enterprise-grade-security-using-rag-and-fga-2g39",
+  "url": "https://dev.to/permit_io/building-ai-applications-with-enterprise-grade-security-using-rag-and-fga-2g39",
+  "publish_date": "2024-11-08",
+  "published_at": "2024-11-08T07:30:00Z"
+ },
+ {
   "id": 2084386,
   "title": "How to Upload and Download Files to Docker Volumes",
   "description": "Docker volumes are great for persisting data, but managing files within them can be challenging. In...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/samchon/stop-drawing-erd-but-just-auto-generate-by-prisma-markdown-3ckj",
   "publish_date": "2024-07-31",
   "published_at": "2024-07-31T03:19:46Z"
- },
- {
-  "id": 1939839,
-  "title": "I built an AI Programmer to Automate Resolving GitHub Issues 🤯",
-  "description": "At Composio, we've been diligently working on a rapidly growing repository over the past few...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvhkdcvl1mcxl07hmdn85.gif",
-  "slug": "i-built-an-ai-programmer-to-automate-resolving-github-issues-5377",
-  "url": "https://dev.to/composiodev/i-built-an-ai-programmer-to-automate-resolving-github-issues-5377",
-  "publish_date": "2024-07-30",
-  "published_at": "2024-07-30T14:22:54Z"
- },
- {
-  "id": 1941022,
-  "title": "Why you should ship your app, even if it sucks",
-  "description": "Hey, I'm Vince     I’m a self-taught developer that changed careers during the Covid...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fclu0yymx2y7oifjq3yqd.png",
-  "slug": "why-you-should-ship-your-app-even-if-it-sucks-23k7",
-  "url": "https://dev.to/wasp/why-you-should-ship-your-app-even-if-it-sucks-23k7",
-  "publish_date": "2024-07-30",
-  "published_at": "2024-07-30T12:46:07Z"
- },
- {
-  "id": 1940514,
-  "title": "How to Tune and Deploy Your First Small Language Model (sLLM)",
-  "description": "Large Language Models (or LLMs) have taken the machine learning world by storm. In 2024 alone, over...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4zqnbap2asb97tg1ad1c.jpg",
-  "slug": "how-to-tune-and-deploy-your-first-small-language-model-sllm-12nd",
-  "url": "https://dev.to/kitops/how-to-tune-and-deploy-your-first-small-language-model-sllm-12nd",
-  "publish_date": "2024-07-30",
-  "published_at": "2024-07-30T12:45:13Z"
- },
- {
-  "id": 1940823,
-  "title": "LLAMA 3.1 vs GPT4: Which is smarter for analytics?",
-  "description": "Table of Contents    Introduction Background Objectives  Implementation   Data Processing:...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsoywfwc6xm5piuyvk7i.png",
-  "slug": "llama-31-vs-gpt4-which-is-smarter-for-analytics-11k0",
-  "url": "https://dev.to/middleware/llama-31-vs-gpt4-which-is-smarter-for-analytics-11k0",
-  "publish_date": "2024-07-30",
-  "published_at": "2024-07-30T11:29:48Z"
- },
- {
-  "id": 1941020,
-  "title": "5-Week Data Career Boot Camp: Orientation and Foundations.",
-  "description": "5-Week Data Career Boot Camp is LuxDevHQ program that aims to demystify data careers, make learning...",
-  "cover_image": "",
-  "slug": "5-week-data-career-boot-camp-orientation-and-foundations-30cf",
-  "url": "https://dev.to/grayhat/5-week-data-career-boot-camp-orientation-and-foundations-30cf",
-  "publish_date": "2024-07-30",
-  "published_at": "2024-07-30T09:57:04Z"
  }
 ]
