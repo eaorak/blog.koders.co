@@ -1,5 +1,55 @@
 [
  {
+  "id": 2092894,
+  "title": "Singleton Design Pattern: Managing Global States in Your Applications",
+  "description": "Have you ever found yourself dealing with an object that needs to be shared across multiple parts of...",
+  "cover_image": "",
+  "slug": "singleton-design-pattern-managing-global-states-in-your-applications-jcp",
+  "url": "https://dev.to/stormsidali2001/singleton-design-pattern-managing-global-states-in-your-applications-jcp",
+  "publish_date": "2024-11-10",
+  "published_at": "2024-11-10T14:06:57Z"
+ },
+ {
+  "id": 2092353,
+  "title": "Why Does JavaScript’s parseInt(0.0000005) Print “5”? 🤔",
+  "description": "Why Does JavaScript’s parseInt(0.0000005) Print “5”? 🤔   JavaScript’s parseInt() function is...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F61mz0f8u5n098eqgaj14.png",
+  "slug": "why-does-javascripts-parseint00000005-print-5-4f0e",
+  "url": "https://dev.to/jagroop2001/why-does-javascripts-parseint00000005-print-5-4f0e",
+  "publish_date": "2024-11-10",
+  "published_at": "2024-11-10T10:11:47Z"
+ },
+ {
+  "id": 2090694,
+  "title": "Smart Bookmark Manager",
+  "description": "This is a submission for the Open Source AI Challenge with pgai and Ollama            What I...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3c4tn7suw3ocd2rkhla8.png",
+  "slug": "smart-bookmark-manager-35fb",
+  "url": "https://dev.to/bellatrick/smart-bookmark-manager-35fb",
+  "publish_date": "2024-11-10",
+  "published_at": "2024-11-10T06:51:31Z"
+ },
+ {
+  "id": 2091783,
+  "title": "🌐 Building a Custom Framework in Java: From Dependency Injection to AOP",
+  "description": "In the world of Java development, frameworks like Spring and Hibernate make life easier by managing...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9880d5ubuokfouamxvb3.jpg",
+  "slug": "building-a-custom-framework-in-java-from-dependency-injection-to-aop-3n2f",
+  "url": "https://dev.to/saurabhkurve/building-a-custom-framework-in-java-from-dependency-injection-to-aop-3n2f",
+  "publish_date": "2024-11-10",
+  "published_at": "2024-11-10T05:55:36Z"
+ },
+ {
+  "id": 2091781,
+  "title": "Database Monitoring: Importance, Tools, and Best Practices for Performance Optimization",
+  "description": "Database Monitoring: Importance, Tools, and Best Practices for Performance Optimization.    ...",
+  "cover_image": "",
+  "slug": "database-monitoring-importance-tools-and-best-practices-for-performance-optimization-4d57",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/database-monitoring-importance-tools-and-best-practices-for-performance-optimization-4d57",
+  "publish_date": "2024-11-10",
+  "published_at": "2024-11-10T05:54:54Z"
+ },
+ {
   "id": 2068654,
   "title": "🔥 200 Project Ideas from Beginner to Advanced with Open Source Contributions 🚀",
   "description": "Introduction   Are you ready to dive into the world of coding with real-world projects?...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/logto/use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh",
   "publish_date": "2024-08-02",
   "published_at": "2024-08-02T01:37:19Z"
- },
- {
-  "id": 1943711,
-  "title": "10 Open Source MLOps Projects You Didn’t Know About",
-  "description": "Don’t repeat yourself is a fundamental principle in computer science. As such, software engineers...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjz8g5wwrqgdpl8ziovqs.jpg",
-  "slug": "10-open-source-mlops-projects-you-didnt-know-about-5bf5",
-  "url": "https://dev.to/kitops/10-open-source-mlops-projects-you-didnt-know-about-5bf5",
-  "publish_date": "2024-08-01",
-  "published_at": "2024-08-01T13:03:37Z"
- },
- {
-  "id": 1943708,
-  "title": "Vite vs NextJs: which frontend framework is for you?",
-  "description": "Vite vs Nextjs is a comparison of two popular frontend frameworks that offer different approaches to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuejsuahdlna8szkz49op.png",
-  "slug": "vite-vs-nextjs-which-frontend-framework-is-for-you-1ejp",
-  "url": "https://dev.to/codeparrot/vite-vs-nextjs-which-frontend-framework-is-for-you-1ejp",
-  "publish_date": "2024-08-01",
-  "published_at": "2024-08-01T13:02:35Z"
- },
- {
-  "id": 1942901,
-  "title": "The End of Google URL Shortener and breaks 4.6 BILLION URLs!",
-  "description": "Introduction   The innovations Google has brought to the table, from Chrome to the Google...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F22wdls1686okctvetmdq.png",
-  "slug": "the-end-of-google-url-shortener-and-breaks-46-billion-urls-4o1",
-  "url": "https://dev.to/devarshishimpi/the-end-of-google-url-shortener-and-breaks-46-billion-urls-4o1",
-  "publish_date": "2024-08-01",
-  "published_at": "2024-08-01T11:18:20Z"
- },
- {
-  "id": 1936185,
-  "title": "Prompt Engineering For Developers: 11 Concepts and Examples 🎯🧙‍♂️⚡",
-  "description": "Prompt engineering is one of the best places to start in this era of AI.  Understanding the core...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgo3gtn5u85lkwwpb3mxe.png",
-  "slug": "prompt-engineering-for-developers-11-concepts-and-examples-in0",
-  "url": "https://dev.to/latitude/prompt-engineering-for-developers-11-concepts-and-examples-in0",
-  "publish_date": "2024-08-01",
-  "published_at": "2024-08-01T10:00:13Z"
- },
- {
-  "id": 1938332,
-  "title": "Free tier API with Apache APISIX",
-  "description": "Lots of service providers offer a free tier of their service. The idea is to let you kick their...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fft981tahocjw591ekh86.jpg",
-  "slug": "free-tier-api-with-apache-apisix-5cgo",
-  "url": "https://dev.to/apisix/free-tier-api-with-apache-apisix-5cgo",
-  "publish_date": "2024-08-01",
-  "published_at": "2024-08-01T09:02:00Z"
  }
 ]
