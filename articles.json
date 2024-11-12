@@ -1,5 +1,55 @@
 [
  {
+  "id": 2096049,
+  "title": "SQL Leetcode Questions",
+  "description": "SQL Leetcode Questions.    Combine Two Tables - 175. Combine Two Tables Second Highest...",
+  "cover_image": "",
+  "slug": "sql-leetcode-questions-3jh7",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/sql-leetcode-questions-3jh7",
+  "publish_date": "2024-11-11",
+  "published_at": "2024-11-11T14:47:53Z"
+ },
+ {
+  "id": 2095753,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2jgoby2pjfilgs31kueh.png",
+  "slug": "meme-monday-5729",
+  "url": "https://dev.to/ben/meme-monday-5729",
+  "publish_date": "2024-11-11",
+  "published_at": "2024-11-11T13:09:21Z"
+ },
+ {
+  "id": 2095124,
+  "title": "My CloudSEK Internship Experience",
+  "description": "This article is about my internship at CloudSEK.  CloudSEK is a cybersecurity company  that uses...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsn1rco8p8yna20wp0tph.jpg",
+  "slug": "my-cloudsek-internship-experience-4oh2",
+  "url": "https://dev.to/skysingh04/my-cloudsek-internship-experience-4oh2",
+  "publish_date": "2024-11-11",
+  "published_at": "2024-11-11T12:59:59Z"
+ },
+ {
+  "id": 2087811,
+  "title": "Make prototyping easier with Webcrumbs 🤩",
+  "description": "We all know that software touches every aspect of our lives, from the moment we wake up until we...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxnc68l3xwrj16kudqf4g.gif",
+  "slug": "make-prototyping-easier-with-webcrumbs-4lak",
+  "url": "https://dev.to/arindam_1729/make-prototyping-easier-with-webcrumbs-4lak",
+  "publish_date": "2024-11-11",
+  "published_at": "2024-11-11T07:11:22Z"
+ },
+ {
+  "id": 2010103,
+  "title": "Power Platform - Direct to Prod?",
+  "description": "I read an interesting article recently (Straight to Production), it highlighted how someone working...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkqw0y0sq56my3h94gim2.png",
+  "slug": "power-platform-direct-to-prod-1ci7",
+  "url": "https://dev.to/wyattdave/power-platform-direct-to-prod-1ci7",
+  "publish_date": "2024-11-11",
+  "published_at": "2024-11-11T06:54:38Z"
+ },
+ {
   "id": 2092894,
   "title": "Singleton Design Pattern: Managing Global States in Your Applications",
   "description": "Have you ever found yourself dealing with an object that needs to be shared across multiple parts of...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/whats-new-in-react-19-a-deep-dive-into-the-latest-features-3gp2",
   "publish_date": "2024-08-03",
   "published_at": "2024-08-03T04:26:53Z"
- },
- {
-  "id": 1945186,
-  "title": "Testing Staging and Production environments in Playwright",
-  "description": "When testing a website, you may need to test it across different environments, such as development,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl9a75j7a3ooz5mjmw3gl.png",
-  "slug": "testing-staging-and-production-environments-in-playwright-3p8b",
-  "url": "https://dev.to/playwright/testing-staging-and-production-environments-in-playwright-3p8b",
-  "publish_date": "2024-08-02",
-  "published_at": "2024-08-02T11:18:41Z"
- },
- {
-  "id": 1944548,
-  "title": "Personal access tokens, machine-to-machine authentication, and API Keys definition and their real-world scenarios",
-  "description": "Learn the differences between Personal Access Tokens (PATs), Machine-to-Machine (M2M) authentication,...",
-  "cover_image": "",
-  "slug": "personal-access-tokens-machine-to-machine-authentication-and-api-keys-definition-and-their-real-world-scenarios-2m1",
-  "url": "https://dev.to/logto/personal-access-tokens-machine-to-machine-authentication-and-api-keys-definition-and-their-real-world-scenarios-2m1",
-  "publish_date": "2024-08-02",
-  "published_at": "2024-08-02T05:57:40Z"
- },
- {
-  "id": 1944459,
-  "title": "Mastering Next.js: The Ultimate Guide to Structuring Large-Scale Projects in 2024",
-  "description": "Introduction: Taming the Next.js Jungle   Hey there, code wranglers and Next.js enthusiasts!...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2rko89f8059337eqchw2.jpg",
-  "slug": "mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e",
-  "url": "https://dev.to/vyan/mastering-nextjs-the-ultimate-guide-to-structuring-large-scale-projects-in-2024-h4e",
-  "publish_date": "2024-08-02",
-  "published_at": "2024-08-02T04:28:09Z"
- },
- {
-  "id": 1944384,
-  "title": "Little tricks to improve your customer onboarding experience",
-  "description": "Learn how to enhance the user sign-up experience with Logto authentication parameters.     At Logto,...",
-  "cover_image": "",
-  "slug": "little-tricks-to-improve-your-customer-onboarding-experience-40bn",
-  "url": "https://dev.to/logto/little-tricks-to-improve-your-customer-onboarding-experience-40bn",
-  "publish_date": "2024-08-02",
-  "published_at": "2024-08-02T02:11:16Z"
- },
- {
-  "id": 1944366,
-  "title": "Use React.lazy with confidence: A safe way to load components when iterating fast",
-  "description": "React.lazy is a great way to load components on demand and improve the performance of your app....",
-  "cover_image": "",
-  "slug": "use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh",
-  "url": "https://dev.to/logto/use-reactlazy-with-confidence-a-safe-way-to-load-components-when-iterating-fast-1gkh",
-  "publish_date": "2024-08-02",
-  "published_at": "2024-08-02T01:37:19Z"
  }
 ]
