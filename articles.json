@@ -1,5 +1,55 @@
 [
  {
+  "id": 2101168,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkp54lxjqugdvutv5vp4a.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-29pn",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-29pn",
+  "publish_date": "2024-11-12",
+  "published_at": "2024-11-12T21:16:44Z"
+ },
+ {
+  "id": 2100803,
+  "title": "Three Simple Rules to Solve Unsolvable Organizational Problems",
+  "description": "There are some problems every company faces, no matter the size or industry. Issues like incorrectly...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmy5cni601xxhddocyv3q.png",
+  "slug": "three-simple-rules-to-solve-unsolvable-organizational-problems-3o3n",
+  "url": "https://dev.to/perssondennis/three-simple-rules-to-solve-unsolvable-organizational-problems-3o3n",
+  "publish_date": "2024-11-12",
+  "published_at": "2024-11-12T19:40:21Z"
+ },
+ {
+  "id": 2100230,
+  "title": "List of key HTTP status codes and their explanations",
+  "description": "HTTP Status Codes and Their Meanings.     200 - Success: The server successfully processed...",
+  "cover_image": "",
+  "slug": "list-of-key-http-status-codes-and-their-explanations-cbn",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/list-of-key-http-status-codes-and-their-explanations-cbn",
+  "publish_date": "2024-11-12",
+  "published_at": "2024-11-12T16:41:51Z"
+ },
+ {
+  "id": 2098999,
+  "title": "How My AI Dev Agent Turns Screenshots into UI Updates",
+  "description": "Today I learned that I can show goose, an open source AI developer agent, a screenshot of my UI and...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8q538r7pr0llro604ii8.png",
+  "slug": "how-my-ai-dev-agent-turns-screenshots-into-ui-updates-189p",
+  "url": "https://dev.to/blackgirlbytes/how-my-ai-dev-agent-turns-screenshots-into-ui-updates-189p",
+  "publish_date": "2024-11-12",
+  "published_at": "2024-11-12T15:32:48Z"
+ },
+ {
+  "id": 2074381,
+  "title": "Rate Limiting a Golang API using Redis",
+  "description": "To put Rate Limiting in simpler words, it is a technique in which we limit the number of requests a...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr39uwf41uwhkpwu7kub3.png",
+  "slug": "rate-limiting-a-golang-api-using-redis-ogi",
+  "url": "https://dev.to/pradumnasaraf/rate-limiting-a-golang-api-using-redis-ogi",
+  "publish_date": "2024-11-12",
+  "published_at": "2024-11-12T07:31:02Z"
+ },
+ {
   "id": 2096049,
   "title": "SQL Leetcode Questions",
   "description": "SQL Leetcode Questions.    Combine Two Tables - 175. Combine Two Tables Second Highest...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/9-must-try-react-ui-component-libraries-for-stunning-web-apps-in-2024-p7j",
   "publish_date": "2024-08-04",
   "published_at": "2024-08-04T04:25:18Z"
- },
- {
-  "id": 1945738,
-  "title": "My HNG Journey. Stage Four: Mastering Multi-Environment Deployments: A Deep Dive into CI/CD with Next.js, Docker, and Nginx",
-  "description": "In Stage Four of my HNG journey, we were grouped into teams, some teams deployed and maintained...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6hx2gjfo8an9rr9tttlj.png",
-  "slug": "my-hng-journey-stage-four-mastering-multi-environment-deployments-a-deep-dive-into-cicd-with-nextjs-docker-and-nginx-1lo8",
-  "url": "https://dev.to/ravencodess/my-hng-journey-stage-four-mastering-multi-environment-deployments-a-deep-dive-into-cicd-with-nextjs-docker-and-nginx-1lo8",
-  "publish_date": "2024-08-03",
-  "published_at": "2024-08-03T14:52:48Z"
- },
- {
-  "id": 1946429,
-  "title": "MOST POPULAR VS CODE EXTENSIONS 🔥🔥",
-  "description": "So, guys I have always told you what my favorite extensions were inside Vs code. I have always got...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6uugaxi1uxzpiw7bbh1i.png",
-  "slug": "trying-top-10-vs-code-extensions-4ag9",
-  "url": "https://dev.to/mince/trying-top-10-vs-code-extensions-4ag9",
-  "publish_date": "2024-08-03",
-  "published_at": "2024-08-03T12:52:21Z"
- },
- {
-  "id": 1946229,
-  "title": "Create Own YouTube - Deploy PhpVibe on Hosting - Free Video CMS Script",
-  "description": "Create Own YouTube - Deploy PhpVibe on Hosting - Free Video CMS Script",
-  "cover_image": "",
-  "slug": "create-own-youtube-deploy-phpvibe-on-hosting-free-video-cms-script-cpe",
-  "url": "https://dev.to/sh20raj/create-own-youtube-deploy-phpvibe-on-hosting-free-video-cms-script-cpe",
-  "publish_date": "2024-08-03",
-  "published_at": "2024-08-03T07:41:10Z"
- },
- {
-  "id": 1942477,
-  "title": "Exploits Ep - 1: From Prototype Pollution to a 100% Discount",
-  "description": "Imagine this: You're browsing your favourite online shop, adding those must-have items to your cart,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7fz9et1rartdnxxvj0q.png",
-  "slug": "exploit-ep-1-from-prototype-pollution-to-a-100-discount-4p93",
-  "url": "https://dev.to/middleware/exploit-ep-1-from-prototype-pollution-to-a-100-discount-4p93",
-  "publish_date": "2024-08-03",
-  "published_at": "2024-08-03T07:19:24Z"
- },
- {
-  "id": 1946114,
-  "title": "What's New in React 19: A Deep Dive into the Latest Features",
-  "description": "React continues to evolve, offering developers powerful tools to build dynamic and efficient web...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff95dzabairwfuuc8vcxt.jpg",
-  "slug": "whats-new-in-react-19-a-deep-dive-into-the-latest-features-3gp2",
-  "url": "https://dev.to/vyan/whats-new-in-react-19-a-deep-dive-into-the-latest-features-3gp2",
-  "publish_date": "2024-08-03",
-  "published_at": "2024-08-03T04:26:53Z"
  }
 ]
