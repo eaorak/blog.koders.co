@@ -1,5 +1,55 @@
 [
  {
+  "id": 2108148,
+  "title": "The Art of Clean Code: A Practical Guide to Writing Maintainable JavaScript",
+  "description": "The Art of Clean Code: A Practical Guide to Writing Maintainable JavaScript.           ...",
+  "cover_image": "",
+  "slug": "the-art-of-clean-code-a-practical-guide-to-writing-maintainable-javascript-1eb9",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/the-art-of-clean-code-a-practical-guide-to-writing-maintainable-javascript-1eb9",
+  "publish_date": "2024-11-17",
+  "published_at": "2024-11-17T15:18:10Z"
+ },
+ {
+  "id": 2108130,
+  "title": "From Vulnerabilities to Vault: How We Stopped Hardcoding Secrets and Started Using Hashicorp Vault",
+  "description": "We recently migrated our infrastructure from Kubernetes to HashiCorp Nomad.  Soon after, we...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fv29ewk8h1fcijianvinz.png",
+  "slug": "from-vulnerabilities-to-vault-how-we-stopped-hardcoding-secrets-and-started-using-hashicorp-vault-ajn",
+  "url": "https://dev.to/hexmos/from-vulnerabilities-to-vault-how-we-stopped-hardcoding-secrets-and-started-using-hashicorp-vault-ajn",
+  "publish_date": "2024-11-17",
+  "published_at": "2024-11-17T14:26:53Z"
+ },
+ {
+  "id": 2108087,
+  "title": "🪄 Hoisting in JavaScript: A Tale of Misplaced Trust",
+  "description": "Once upon a time in the land of Codeville, there lived two friends, Jagroop 🧑‍💻 and Manish 👩‍💻. Both...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdi2rfbelt63om26uhaib.jpg",
+  "slug": "hoisting-in-javascript-a-tale-of-misplaced-trust-1ek1",
+  "url": "https://dev.to/jagroop2001/hoisting-in-javascript-a-tale-of-misplaced-trust-1ek1",
+  "publish_date": "2024-11-17",
+  "published_at": "2024-11-17T13:21:26Z"
+ },
+ {
+  "id": 2108075,
+  "title": "Globally Replicated Services for the Rest of Us",
+  "description": "After reading endless serverless horror stories, you decided to deploy your application on the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpf5ue1norubrq85votb2.png",
+  "slug": "globally-replicated-services-for-the-rest-of-us-7o2",
+  "url": "https://dev.to/code42cate/globally-replicated-services-for-the-rest-of-us-7o2",
+  "publish_date": "2024-11-17",
+  "published_at": "2024-11-17T13:07:40Z"
+ },
+ {
+  "id": 2108025,
+  "title": "True Alphanumeric / natural sorting in MySQL - why is the answer always recursion?",
+  "description": "Yesterday I attempted to solve alphanumeric sorting in MySQL and failed. (read that article here)  I...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fa4azrqmcize27eu13zic.jpg",
+  "slug": "true-alphanumeric-natural-sorting-in-mysql-why-is-the-answer-always-recursion-2b4a",
+  "url": "https://dev.to/grahamthedev/true-alphanumeric-natural-sorting-in-mysql-why-is-the-answer-always-recursion-2b4a",
+  "publish_date": "2024-11-17",
+  "published_at": "2024-11-17T10:57:26Z"
+ },
+ {
   "id": 2107091,
   "title": "Alphanumeric / Natural sort in MySQL - 30 years and we still can't do this? 😤",
   "description": "Our QA team are absolute monsters, they're monsters I tell you!  No matter how much I try to bribe...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/mastering-tailwind-css-integration-with-popular-javascript-frameworks-in-2024-1kac",
   "publish_date": "2024-08-09",
   "published_at": "2024-08-09T03:12:19Z"
- },
- {
-  "id": 1952572,
-  "title": "I Created an AI Companion that Monitors My Screen and Helps Fix My Screw Ups ✨",
-  "description": "Lately, I've been struggling with my addiction to binge-watching Naruto. While it's enjoyable, it...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiyxbjck385rcnuw2ur8l.gif",
-  "slug": "i-created-an-ai-companion-that-monitors-my-screen-and-helps-fix-my-screw-ups-144i",
-  "url": "https://dev.to/composiodev/i-created-an-ai-companion-that-monitors-my-screen-and-helps-fix-my-screw-ups-144i",
-  "publish_date": "2024-08-08",
-  "published_at": "2024-08-08T17:08:24Z"
- },
- {
-  "id": 1952304,
-  "title": "Secure Your AI Project With Model Attestation and Software Bill of Materials (SBOMs)",
-  "description": "AI projects face security challenges that stem from the difficulties in ensuring model integrity and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9yl0o5jk6hpn8rghntlf.png",
-  "slug": "secure-your-ai-project-with-model-attestation-and-software-bill-of-materials-sboms-5a7g",
-  "url": "https://dev.to/kitops/secure-your-ai-project-with-model-attestation-and-software-bill-of-materials-sboms-5a7g",
-  "publish_date": "2024-08-08",
-  "published_at": "2024-08-08T12:41:51Z"
- },
- {
-  "id": 1952267,
-  "title": "We just launched DEV Challenges on product hunt",
-  "description": "Thank you to everyone here who has ever published a DEV Challenge submission. Today, we launched on...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkdfftvcmf61yua6d11mb.png",
-  "slug": "we-just-launched-dev-challenges-on-product-hunt-1bo3",
-  "url": "https://dev.to/devteam/we-just-launched-dev-challenges-on-product-hunt-1bo3",
-  "publish_date": "2024-08-08",
-  "published_at": "2024-08-08T12:14:00Z"
- },
- {
-  "id": 1948305,
-  "title": "I 10x'd my X posts using the Twitter API, OpenAI \u0026 CopilotKit😱",
-  "description": "TL;DR   Last week I built an application that automates my social media posting using AI. I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffbt9ene9bke8s9dp6ze0.gif",
-  "slug": "i-10xd-my-x-posts-using-the-twitter-api-openai-copilotkit-2d5n",
-  "url": "https://dev.to/github20k/i-10xd-my-x-posts-using-the-twitter-api-openai-copilotkit-2d5n",
-  "publish_date": "2024-08-08",
-  "published_at": "2024-08-08T10:58:53Z"
- },
- {
-  "id": 1951802,
-  "title": "The Ultimate Guide to API Architectures in 2024: Choosing the Right Approach for Your Project",
-  "description": "In today's interconnected digital landscape, APIs (Application Programming Interfaces) serve as the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl8etfyd259ff4ur13kik.jpg",
-  "slug": "the-ultimate-guide-to-api-architectures-in-2024-choosing-the-right-approach-for-your-project-1fn3",
-  "url": "https://dev.to/vyan/the-ultimate-guide-to-api-architectures-in-2024-choosing-the-right-approach-for-your-project-1fn3",
-  "publish_date": "2024-08-08",
-  "published_at": "2024-08-08T04:25:40Z"
  }
 ]
