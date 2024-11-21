@@ -1,5 +1,55 @@
 [
  {
+  "id": 2114078,
+  "title": "💡Only 20% of Developers are Happy at Work?",
+  "description": "Within Meta, we conduct a bi-annual survey called Pulse. It's our internal tool for gathering...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftbgtzzjn49jzapn0qyiz.png",
+  "slug": "only-20-of-developers-are-happy-at-work-18o9",
+  "url": "https://dev.to/alexr/only-20-of-developers-are-happy-at-work-18o9",
+  "publish_date": "2024-11-20",
+  "published_at": "2024-11-20T17:03:23Z"
+ },
+ {
+  "id": 2114014,
+  "title": "Decoding Software Quality: A Deep Dive into Errors, Faults, Bugs, Defects, and Failures.",
+  "description": "The Software Quality Puzzle: Understanding Key Terminology.   Imagine software development...",
+  "cover_image": "",
+  "slug": "decoding-software-quality-a-deep-dive-into-errors-faults-bugs-defects-and-failures-106o",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/decoding-software-quality-a-deep-dive-into-errors-faults-bugs-defects-and-failures-106o",
+  "publish_date": "2024-11-20",
+  "published_at": "2024-11-20T16:00:36Z"
+ },
+ {
+  "id": 2113913,
+  "title": "Deploying AI Projects Through a Jenkins Pipeline",
+  "description": "Imagine building the \"perfect machine learning model\" only to face the tedious, error-prone process...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8gcghco1i08wkamgrohi.jpg",
+  "slug": "deploying-ai-projects-through-a-jenkins-pipeline-394b",
+  "url": "https://dev.to/kitops/deploying-ai-projects-through-a-jenkins-pipeline-394b",
+  "publish_date": "2024-11-20",
+  "published_at": "2024-11-20T14:58:18Z"
+ },
+ {
+  "id": 2052034,
+  "title": "11 Practical Ways to Bring Side Income as a Developer 💰",
+  "description": "It’s always smart not to rely on just one source of income.  Bringing in side income might seem tough...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxoc04ip5hugwe7ecadvu.png",
+  "slug": "11-practical-ways-to-bring-side-income-as-a-developer-5apm",
+  "url": "https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm",
+  "publish_date": "2024-11-20",
+  "published_at": "2024-11-20T11:29:20Z"
+ },
+ {
+  "id": 2113347,
+  "title": "Yo! I Built My First Figma Plugin",
+  "description": "It’s still a bit surreal to me — like, I never actually thought I’d create a Figma plugin. Let me...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fgi0ojh7ozqe66iqjdrgg.jpg",
+  "slug": "yo-i-built-my-first-figma-plugin-3a54",
+  "url": "https://dev.to/nabhel/yo-i-built-my-first-figma-plugin-3a54",
+  "publish_date": "2024-11-20",
+  "published_at": "2024-11-20T08:42:03Z"
+ },
+ {
   "id": 2112370,
   "title": "Top 7 Featured DEV Posts of the Week",
   "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/7-free-apis-for-your-next-projects-50n3",
   "publish_date": "2024-08-13",
   "published_at": "2024-08-13T04:20:31Z"
- },
- {
-  "id": 1956846,
-  "title": "Configuring Multiple Ports With Nginx Reverse Proxies on the Same Domain",
-  "description": "Recently, while working on one of the projects, I was stuck in a situation where I wanted to run two...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fooznm9neldudwr7r7y53.png",
-  "slug": "configuring-multiple-ports-with-nginx-reverse-proxies-on-the-same-domain-57ga",
-  "url": "https://dev.to/aws-builders/configuring-multiple-ports-with-nginx-reverse-proxies-on-the-same-domain-57ga",
-  "publish_date": "2024-08-12",
-  "published_at": "2024-08-12T18:25:59Z"
- },
- {
-  "id": 1956620,
-  "title": "Meme Monday",
-  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fj7txnjum21zr5mamacpg.png",
-  "slug": "meme-monday-el7",
-  "url": "https://dev.to/ben/meme-monday-el7",
-  "publish_date": "2024-08-12",
-  "published_at": "2024-08-12T14:49:16Z"
- },
- {
-  "id": 1956355,
-  "title": "DocOps For Beginners: All You Need To Know",
-  "description": "Going ahead with my drive for professional development, I  am taking a deeper dive into Documentation...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawup5hk84cier82yu43e.png",
-  "slug": "docops-for-beginners-all-you-need-to-know-2ldh",
-  "url": "https://dev.to/dumebii/docops-for-beginners-all-you-need-to-know-2ldh",
-  "publish_date": "2024-08-12",
-  "published_at": "2024-08-12T11:11:22Z"
- },
- {
-  "id": 1954021,
-  "title": "I Built an Event Scheduler in NodeJs using Google Calendar API 🚀",
-  "description": "Introduction   Since COVID, my calendar has been full of stand-ups, team meetings, and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkuuiumwi68jlfkadb7xt.gif",
-  "slug": "i-built-an-event-scheduler-in-nodejs-using-google-calendar-api-4c5b",
-  "url": "https://dev.to/arindam_1729/i-built-an-event-scheduler-in-nodejs-using-google-calendar-api-4c5b",
-  "publish_date": "2024-08-12",
-  "published_at": "2024-08-12T05:51:45Z"
- },
- {
-  "id": 1955889,
-  "title": "Unlocking the Power of Google OAuth 2.0 with Passport.js: A Step-by-Step Guide",
-  "description": "Hey there, fellow developers! 👋 Are you ready to level up your authentication game? Today, we're...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl1r21qlatvjgfdoslvqh.png",
-  "slug": "unlocking-the-power-of-google-oauth-20-with-passportjs-a-step-by-step-guide-2409",
-  "url": "https://dev.to/vyan/unlocking-the-power-of-google-oauth-20-with-passportjs-a-step-by-step-guide-2409",
-  "publish_date": "2024-08-12",
-  "published_at": "2024-08-12T03:10:27Z"
  }
 ]
