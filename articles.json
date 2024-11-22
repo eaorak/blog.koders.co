@@ -1,5 +1,55 @@
 [
  {
+  "id": 2115528,
+  "title": "I built a social media scheduling tool and open-sourced it 🤯",
+  "description": "Hi community :) I have built a social media scheduling tool and open-sourced it! :) Lately:   I got...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbjwl0wtd6we52x49b7vm.png",
+  "slug": "i-built-a-social-media-scheduling-tool-and-open-sourced-it-5aho",
+  "url": "https://dev.to/nevodavid/i-built-a-social-media-scheduling-tool-and-open-sourced-it-5aho",
+  "publish_date": "2024-11-21",
+  "published_at": "2024-11-21T14:41:03Z"
+ },
+ {
+  "id": 2115539,
+  "title": "How to write ICO smart contract using Solidity and Hardhat",
+  "description": "How to write ICO smart contract using Solidity and Hardhat           Introduction   This article will...",
+  "cover_image": "",
+  "slug": "how-to-write-ico-smart-contract-using-solidity-and-hardhat-4pmg",
+  "url": "https://dev.to/marksantiago02/how-to-write-ico-smart-contract-using-solidity-and-hardhat-4pmg",
+  "publish_date": "2024-11-21",
+  "published_at": "2024-11-21T14:40:13Z"
+ },
+ {
+  "id": 2115446,
+  "title": "New DEV Feature: Following Tab",
+  "description": "Hey, there is a new feature on the home feed: a Following tab. The existing feed is now called...",
+  "cover_image": "",
+  "slug": "new-dev-feature-following-tab-5fae",
+  "url": "https://dev.to/devteam/new-dev-feature-following-tab-5fae",
+  "publish_date": "2024-11-21",
+  "published_at": "2024-11-21T14:13:10Z"
+ },
+ {
+  "id": 2108133,
+  "title": "Should I use Tailwind? 5 things to consider - real experience [2024]",
+  "description": "Hey, DEV.to community! In this post, I invite you to discuss whether Tailwind CSS is a viable option...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwim88dgt752jk89kbm2l.png",
+  "slug": "should-i-use-tailwind-5-things-to-consider-real-experience-2024-181d",
+  "url": "https://dev.to/thj/should-i-use-tailwind-5-things-to-consider-real-experience-2024-181d",
+  "publish_date": "2024-11-21",
+  "published_at": "2024-11-21T12:30:46Z"
+ },
+ {
+  "id": 2114714,
+  "title": "Decoding User Experience: 5 Fundamental Laws Every Designer Should Know",
+  "description": "Decoding User Experience: 5 Fundamental Laws Every Designer Should Know.   In the world of...",
+  "cover_image": "",
+  "slug": "decoding-user-experience-5-fundamental-laws-every-designer-should-know-39fi",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/decoding-user-experience-5-fundamental-laws-every-designer-should-know-39fi",
+  "publish_date": "2024-11-21",
+  "published_at": "2024-11-21T05:00:57Z"
+ },
+ {
   "id": 2114078,
   "title": "💡Only 20% of Developers are Happy at Work?",
   "description": "Within Meta, we conduct a bi-annual survey called Pulse. It's our internal tool for gathering...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/encore/how-to-let-chatgpt-call-functions-in-your-app-27j8",
   "publish_date": "2024-08-14",
   "published_at": "2024-08-14T09:05:21Z"
- },
- {
-  "id": 1958139,
-  "title": "Top 7 Featured DEV Posts of the Week",
-  "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyuxqb5x40xuhr35ytwo5.jpg",
-  "slug": "top-7-featured-dev-posts-of-the-week-3hng",
-  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3hng",
-  "publish_date": "2024-08-13",
-  "published_at": "2024-08-13T18:28:07Z"
- },
- {
-  "id": 1957902,
-  "title": "🚀 Have you ever made or discovered a useful library? Share it! ✨",
-  "description": "Hey everyone! 👋 Let's have some fun sharing cool code libraries we've made or discovered recently....",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fy3rxkg365jzbm1djw9q5.png",
-  "slug": "have-you-every-made-a-library-share-it-a15",
-  "url": "https://dev.to/best_codes/have-you-every-made-a-library-share-it-a15",
-  "publish_date": "2024-08-13",
-  "published_at": "2024-08-13T14:06:55Z"
- },
- {
-  "id": 1956727,
-  "title": "✨I Built an AI Bot Under 65 Lines of Code That Checks My New Emails and Send People Invites📧🚀",
-  "description": "Lately, my calendar has become so hectic that I could really use some help managing it. In fact, I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2bc7i3qmxpacqno4qd6c.gif",
-  "slug": "i-built-an-ai-bot-under-65-lines-of-code-that-checks-my-new-emails-and-send-people-invites-ghh",
-  "url": "https://dev.to/composiodev/i-built-an-ai-bot-under-65-lines-of-code-that-checks-my-new-emails-and-send-people-invites-ghh",
-  "publish_date": "2024-08-13",
-  "published_at": "2024-08-13T13:33:09Z"
- },
- {
-  "id": 1957351,
-  "title": "Introducing Dev Encyclopedia: A \"Wikipedia\", but for developers",
-  "description": "Hello fellow developers!  Have you ever been stuck with technical jargon, concepts, or tool names?...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fn96pc0ompd7o8oaigney.png",
-  "slug": "introducing-dev-encyclopedia-a-wikipedia-but-for-developers-268e",
-  "url": "https://dev.to/buzzpy/introducing-dev-encyclopedia-a-wikipedia-but-for-developers-268e",
-  "publish_date": "2024-08-13",
-  "published_at": "2024-08-13T05:47:55Z"
- },
- {
-  "id": 1957190,
-  "title": "7 Free APIs for Your Next Projects",
-  "description": "1. Mapbox API Example   Mapbox offers comprehensive tools and accurate location data that...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8vklufcxx8wshfa09u1n.png",
-  "slug": "7-free-apis-for-your-next-projects-50n3",
-  "url": "https://dev.to/vyan/7-free-apis-for-your-next-projects-50n3",
-  "publish_date": "2024-08-13",
-  "published_at": "2024-08-13T04:20:31Z"
  }
 ]
