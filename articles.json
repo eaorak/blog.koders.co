@@ -1,5 +1,55 @@
 [
  {
+  "id": 2117140,
+  "title": "9 GitHub Repositories to Find a Job or Internships in Tech for 2025 📚🔥",
+  "description": "While GitHub is primarily known for version control and hosting code, it also hides some of the best...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fch2xegmrbks22hglu7of.png",
+  "slug": "9-github-repositories-to-find-a-job-or-internships-in-tech-for-2025-194m",
+  "url": "https://dev.to/madza/9-github-repositories-to-find-a-job-or-internships-in-tech-for-2025-194m",
+  "publish_date": "2024-11-22",
+  "published_at": "2024-11-22T16:11:15Z"
+ },
+ {
+  "id": 2117017,
+  "title": "Jozu Hub vs. Docker Hub? Which One Works Best for AI/ML?",
+  "description": "Container registries like Jozu Hub and Docker Hub offer developers a way to manage their container...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdz1ypine4l3if9mk71tz.jpg",
+  "slug": "jozu-hub-vs-docker-hub-which-one-works-best-for-aiml-3oij",
+  "url": "https://dev.to/kitops/jozu-hub-vs-docker-hub-which-one-works-best-for-aiml-3oij",
+  "publish_date": "2024-11-22",
+  "published_at": "2024-11-22T15:15:43Z"
+ },
+ {
+  "id": 2116522,
+  "title": "Understanding Upwork's Security Systems: A Deep Technical Dive",
+  "description": "1. Behavioral Analysis            a) Account Activity Patterns    Login times and frequency...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyqz2xzvpgviz7qa4mrlf.png",
+  "slug": "understanding-upworks-security-systems-a-deep-technical-dive-59p2",
+  "url": "https://dev.to/pleasebugmenot/understanding-upworks-security-systems-a-deep-technical-dive-59p2",
+  "publish_date": "2024-11-22",
+  "published_at": "2024-11-22T07:55:44Z"
+ },
+ {
+  "id": 2116450,
+  "title": "Inside JavaScript Engines: How Browsers Bring Your Code to Life",
+  "description": "I’ve always been fascinated by the deep abstractions that power modern web apps. But as I...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F06ccimxypdi8ay1h18rb.png",
+  "slug": "inside-javascript-engines-how-browsers-bring-your-code-to-life-h1",
+  "url": "https://dev.to/mukhilpadmanabhan/inside-javascript-engines-how-browsers-bring-your-code-to-life-h1",
+  "publish_date": "2024-11-22",
+  "published_at": "2024-11-22T06:55:11Z"
+ },
+ {
+  "id": 2107272,
+  "title": "Idempotency in DynamoDB",
+  "description": "It shouldn't be any surprise that we rely on DynamoDB over at Authress for a variety of things. For...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4p5u3kijfliocizm51oh.jpeg",
+  "slug": "idempotency-in-dynamodb-4leh",
+  "url": "https://dev.to/aws-builders/idempotency-in-dynamodb-4leh",
+  "publish_date": "2024-11-22",
+  "published_at": "2024-11-22T03:20:27Z"
+ },
+ {
   "id": 2115528,
   "title": "I built a social media scheduling tool and open-sourced it 🤯",
   "description": "Hi community :) I have built a social media scheduling tool and open-sourced it! :) Lately:   I got...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/mastering-api-requests-in-javascript-a-2024-guide-to-fetching-data-5h7h",
   "publish_date": "2024-08-15",
   "published_at": "2024-08-15T04:26:38Z"
- },
- {
-  "id": 1959372,
-  "title": "DEV Search: 20x Latency Reduction By Layering Algolia On Top of Postgres",
-  "description": "At DEV, our commitment to open-source development drives our decision-making process, especially...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqfzgngtt9u3hn9awtetl.png",
-  "slug": "dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845",
-  "url": "https://dev.to/devteam/dev-search-20x-latency-reduction-by-layering-algolia-on-top-of-postgres-3845",
-  "publish_date": "2024-08-14",
-  "published_at": "2024-08-14T16:33:23Z"
- },
- {
-  "id": 1946974,
-  "title": "How I Upped My Frontend Game with Generative UI 🧑‍💻🌠",
-  "description": "TL;DR   In this tutorial, you'll learn what Generative UI is and how to use it to provide a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2xek2kawnye324arbc37.gif",
-  "slug": "how-i-upped-my-frontend-game-with-generative-ui-4fhc",
-  "url": "https://dev.to/copilotkit/how-i-upped-my-frontend-game-with-generative-ui-4fhc",
-  "publish_date": "2024-08-14",
-  "published_at": "2024-08-14T12:06:41Z"
- },
- {
-  "id": 1958945,
-  "title": "How to Translate Your Next.js App in 5 Minutes With Crowdin",
-  "description": "For the majority of websites using content management systems such as Webflow or WordPress,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fliu4w4wdkgeikbmwefaq.png",
-  "slug": "how-to-translate-your-nextjs-app-in-5-minutes-with-crowdin-1pe0",
-  "url": "https://dev.to/zerodays/how-to-translate-your-nextjs-app-in-5-minutes-with-crowdin-1pe0",
-  "publish_date": "2024-08-14",
-  "published_at": "2024-08-14T11:00:48Z"
- },
- {
-  "id": 1951390,
-  "title": "7 Steps To Become A Prompt Engineer",
-  "description": "Introduction   Hello there, dear reader! If you’re looking for an article where you’ll...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1lc1k8ggpzbko9x3mpm9.png",
-  "slug": "7-steps-to-become-a-prompt-engineer-4am8",
-  "url": "https://dev.to/latitude/7-steps-to-become-a-prompt-engineer-4am8",
-  "publish_date": "2024-08-14",
-  "published_at": "2024-08-14T09:40:42Z"
- },
- {
-  "id": 1958804,
-  "title": "How to let ChatGPT call functions in your app",
-  "description": "You can now give OpenAI access to your app’s APIs when answering prompts. This means, with just a few...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fudonirq21lqe3oqc1r71.png",
-  "slug": "how-to-let-chatgpt-call-functions-in-your-app-27j8",
-  "url": "https://dev.to/encore/how-to-let-chatgpt-call-functions-in-your-app-27j8",
-  "publish_date": "2024-08-14",
-  "published_at": "2024-08-14T09:05:21Z"
  }
 ]
