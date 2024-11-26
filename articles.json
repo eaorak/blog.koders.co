@@ -1,5 +1,55 @@
 [
  {
+  "id": 2121102,
+  "title": "Guide to 24 Essential Open Source Projects from Package Managers to AI apps",
+  "description": "Open source projects drive innovation in software development, offering tools and frameworks that...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5idnhxzhkuxrttlw6udc.jpg",
+  "slug": "guide-to-24-essential-open-source-projects-from-package-managers-to-ai-apps-3037",
+  "url": "https://dev.to/fast/guide-to-24-essential-open-source-projects-from-package-managers-to-ai-apps-3037",
+  "publish_date": "2024-11-25",
+  "published_at": "2024-11-25T17:27:26Z"
+ },
+ {
+  "id": 2120811,
+  "title": "9 must-know dev tools to build cool AI apps 🧙‍♂️🪄",
+  "description": "I have been working with AI applications for a long time. I have built multiple AI-driven...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4hteijq1ldakmqqme7n3.gif",
+  "slug": "9-must-know-dev-tools-to-build-cool-ai-apps-1ff1",
+  "url": "https://dev.to/composiodev/9-must-know-dev-tools-to-build-cool-ai-apps-1ff1",
+  "publish_date": "2024-11-25",
+  "published_at": "2024-11-25T14:25:58Z"
+ },
+ {
+  "id": 2120896,
+  "title": "Meme Monday",
+  "description": "Meme Monday!  Today's cover image comes from last week's thread.  DEV is an inclusive space! Humor in...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foi1c79vn3b9gjg41dpeb.png",
+  "slug": "meme-monday-3ad1",
+  "url": "https://dev.to/ben/meme-monday-3ad1",
+  "publish_date": "2024-11-25",
+  "published_at": "2024-11-25T13:46:52Z"
+ },
+ {
+  "id": 2115106,
+  "title": "How to use ORMs (Prisma / Drizzle / Knex.js) in a TypeScript backend built with Encore.ts",
+  "description": "In this post, I’ll walk you through how to work with ORMs like Prisma, Drizzle and Knex.js when...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2x9103e05f6j4f5cqj5g.png",
+  "slug": "how-to-use-orms-prisma-drizzle-knexjs-in-a-typescript-backend-built-with-encorets-1j63",
+  "url": "https://dev.to/encore/how-to-use-orms-prisma-drizzle-knexjs-in-a-typescript-backend-built-with-encorets-1j63",
+  "publish_date": "2024-11-25",
+  "published_at": "2024-11-25T13:25:30Z"
+ },
+ {
+  "id": 2120475,
+  "title": "RAG in Space: How will astronauts survive on Mars without Googling?",
+  "description": "How will astronauts survive on Mars without Googling?     Space, Mars, Aliens, Space...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft1z4bmkst0t3vcvtio3o.png",
+  "slug": "rag-in-space-how-will-astronauts-survive-on-mars-without-googling-1fbi",
+  "url": "https://dev.to/docsgpt/rag-in-space-how-will-astronauts-survive-on-mars-without-googling-1fbi",
+  "publish_date": "2024-11-25",
+  "published_at": "2024-11-25T08:31:42Z"
+ },
+ {
   "id": 2119894,
   "title": "npm is SLOW! This is better 🍞",
   "description": "Let's face it: we've all waited way too long for npm install to finish. Whether you're racing against...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/mattlewandowski93/15-advanced-typescript-tips-and-tricks-you-might-not-know-12kk",
   "publish_date": "2024-08-18",
   "published_at": "2024-08-18T03:59:45Z"
- },
- {
-  "id": 1962741,
-  "title": "A Guide to Quickly Deploying and Interacting with Smart Contracts Using the Stellar CLI",
-  "description": "This is a submission for the Build Better on Stellar: Smart Contract Challenge : Create a Tutorial   ...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhnzyqods9doyb7vut0y.png",
-  "slug": "a-guide-through-to-quickly-deploying-and-interacting-with-smart-contracts-through-the-stellar-cli-2cdj",
-  "url": "https://dev.to/chielokacodes/a-guide-through-to-quickly-deploying-and-interacting-with-smart-contracts-through-the-stellar-cli-2cdj",
-  "publish_date": "2024-08-17",
-  "published_at": "2024-08-17T12:10:51Z"
- },
- {
-  "id": 1962721,
-  "title": "Formatlash",
-  "description": "C# dasturlash tilidaformatlash turli usullarda oshiriladi, eng ko'p ishlatiladigan usullardan biri...",
-  "cover_image": "",
-  "slug": "formatlash-3mp2",
-  "url": "https://dev.to/mushtariy/formatlash-3mp2",
-  "publish_date": "2024-08-17",
-  "published_at": "2024-08-17T11:47:59Z"
- },
- {
-  "id": 1962615,
-  "title": "Using Zod with TypeScript: A Guide for Frontend Developers",
-  "description": "If you're building a frontend application, you're likely working with data. Whether you're fetching...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5s4d2gfo7zlxeqf56lmz.png",
-  "slug": "using-zod-with-typescript-a-guide-for-frontend-developers-3hfm",
-  "url": "https://dev.to/codeparrot/using-zod-with-typescript-a-guide-for-frontend-developers-3hfm",
-  "publish_date": "2024-08-17",
-  "published_at": "2024-08-17T10:01:58Z"
- },
- {
-  "id": 1962305,
-  "title": "Entry•X | Decentralized Ticketing Platform",
-  "description": "This is a submission for the Build Better on Stellar: Smart Contract Challenge : Build a dApp   The...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdy377vjtmkgwm411ow8q.png",
-  "slug": "entryx-decentralized-ticketing-platform-3ak1",
-  "url": "https://dev.to/jose_carlostoscano_3bb03/entryx-decentralized-ticketing-platform-3ak1",
-  "publish_date": "2024-08-17",
-  "published_at": "2024-08-17T07:56:25Z"
- },
- {
-  "id": 1962275,
-  "title": "10 Game-Changing Web Development Tools to Supercharge Your Workflow in 2024",
-  "description": "As web developers, we're always on the lookout for tools that can make our lives easier and our code...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F608ctzvkrhdlxrf21omy.png",
-  "slug": "10-game-changing-web-development-tools-to-supercharge-your-workflow-in-2024-4dmk",
-  "url": "https://dev.to/vyan/10-game-changing-web-development-tools-to-supercharge-your-workflow-in-2024-4dmk",
-  "publish_date": "2024-08-17",
-  "published_at": "2024-08-17T04:13:02Z"
  }
 ]
