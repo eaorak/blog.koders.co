@@ -1,5 +1,55 @@
 [
  {
+  "id": 2124292,
+  "title": "Browser Extensions: Build and Deploy your own Browser Extensions",
+  "description": "Have you ever wished your browser could do just a little more for you—like automating a repetitive...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fplah1pikywk5j703wq50.png",
+  "slug": "build-and-deploy-your-own-browser-extensions-5034",
+  "url": "https://dev.to/mukhilpadmanabhan/build-and-deploy-your-own-browser-extensions-5034",
+  "publish_date": "2024-11-27",
+  "published_at": "2024-11-27T19:04:38Z"
+ },
+ {
+  "id": 2115928,
+  "title": "Join us for the DevCycle Feature Flag Challenge: $1,000 in Prizes!",
+  "description": "We are so excited to team up with DevCycle to bring the community a challenge all about having fun...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdy1kz40jk2bgvmo989a8.png",
+  "slug": "join-us-for-the-devcycle-feature-flag-challenge-1000-in-prizes-1h23",
+  "url": "https://dev.to/devteam/join-us-for-the-devcycle-feature-flag-challenge-1000-in-prizes-1h23",
+  "publish_date": "2024-11-27",
+  "published_at": "2024-11-27T16:30:29Z"
+ },
+ {
+  "id": 2124137,
+  "title": "Ajax: Revolutionizing Web Interaction - A Comprehensive Guide",
+  "description": "What is Ajax?   Ajax (Asynchronous JavaScript and XML) is a set of web development...",
+  "cover_image": "",
+  "slug": "ajax-revolutionizing-web-interaction-a-comprehensive-guide-4am3",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/ajax-revolutionizing-web-interaction-a-comprehensive-guide-4am3",
+  "publish_date": "2024-11-27",
+  "published_at": "2024-11-27T15:50:12Z"
+ },
+ {
+  "id": 2123909,
+  "title": "Building React Forms with Ease Using React Hook Form, Zod and Shadcn",
+  "description": "Forms are something every developer encounters, whether as a user or on the developer side. They’re...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F88dkpw58v8vaky9mlhe0.png",
+  "slug": "building-react-forms-with-ease-using-react-hook-form-zod-and-shadcn-4f4i",
+  "url": "https://dev.to/wasp/building-react-forms-with-ease-using-react-hook-form-zod-and-shadcn-4f4i",
+  "publish_date": "2024-11-27",
+  "published_at": "2024-11-27T12:43:09Z"
+ },
+ {
+  "id": 2123814,
+  "title": "🚀 How a Browser Renders a Web Page",
+  "description": "Ever wondered how your browser magically turns lines of code into stunning websites? 🌐 Let’s break it...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9uyy0nlqkdg0bl1huwr.jpg",
+  "slug": "how-a-browser-renders-a-web-page-a-functional-journey-c08",
+  "url": "https://dev.to/jagroop2001/how-a-browser-renders-a-web-page-a-functional-journey-c08",
+  "publish_date": "2024-11-27",
+  "published_at": "2024-11-27T11:19:39Z"
+ },
+ {
   "id": 2121376,
   "title": "🚀 Unlocking Fine-Grained Access Control with Cerbos",
   "description": "🌟 In an era where security is paramount, managing user access and permissions effectively is crucial...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/mastering-solid-principles-in-react-elevating-your-code-quality-2c6h",
   "publish_date": "2024-08-20",
   "published_at": "2024-08-20T04:28:19Z"
- },
- {
-  "id": 1963557,
-  "title": "I got tired of solving issues over GitHub, so I created my own AI bot... 🤔",
-  "description": "TL;DR   In this article, you will build an AI coder to fix your GitHub codebase's...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsj7bf8ntf10ht1p80j5a.gif",
-  "slug": "i-got-tired-of-solving-issues-over-github-so-i-created-my-own-ai-bot-1m0i",
-  "url": "https://dev.to/composiodev/i-got-tired-of-solving-issues-over-github-so-i-created-my-own-ai-bot-1m0i",
-  "publish_date": "2024-08-19",
-  "published_at": "2024-08-19T13:19:53Z"
- },
- {
-  "id": 1964840,
-  "title": "Next.js + tRPC: Best practices for dApp development. Issuing new Assets + Freighter Wallet integration",
-  "description": "This is a submission for the Build Better on Stellar: Smart Contract Challenge : Create a Tutorial   ...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkjnnvqnrvh3gitlglztk.png",
-  "slug": "nextjs-trpc-best-practices-for-dapp-development-issuing-new-assets-freighter-wallet-integration-1jk6",
-  "url": "https://dev.to/jose_carlostoscano_3bb03/nextjs-trpc-best-practices-for-dapp-development-issuing-new-assets-freighter-wallet-integration-1jk6",
-  "publish_date": "2024-08-19",
-  "published_at": "2024-08-19T06:37:43Z"
- },
- {
-  "id": 1964834,
-  "title": "7 Essential React Tricks Every Beginner Should Master in 2024",
-  "description": "Are you just starting your journey with React? You're in for an exciting ride! React has...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc9mk8r4aci83lm6m7dp0.png",
-  "slug": "7-essential-react-tricks-every-beginner-should-master-in-2024-1kap",
-  "url": "https://dev.to/vyan/7-essential-react-tricks-every-beginner-should-master-in-2024-1kap",
-  "publish_date": "2024-08-19",
-  "published_at": "2024-08-19T06:30:31Z"
- },
- {
-  "id": 1959139,
-  "title": "How to Create Your Own Form with Power Automate",
-  "description": "I would say 99% of all Power Automate developers have worked with the MS forms connector. Gathering...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fl9sqb602hxyb68rqyjn0.png",
-  "slug": "how-to-create-your-own-form-with-power-automate-4546",
-  "url": "https://dev.to/wyattdave/how-to-create-your-own-form-with-power-automate-4546",
-  "publish_date": "2024-08-19",
-  "published_at": "2024-08-19T05:47:18Z"
- },
- {
-  "id": 1964627,
-  "title": "Hermes: Decentralized Perpetual Exchange on Stellar",
-  "description": "This is a submission for the Build Better on Stellar: Smart Contract Challenge : Build a dApp       ...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq6h38adviz76eua0ze7e.png",
-  "slug": "hermes-decentralized-perpetual-exchange-on-stellar-2l12",
-  "url": "https://dev.to/notishansingh/hermes-decentralized-perpetual-exchange-on-stellar-2l12",
-  "publish_date": "2024-08-19",
-  "published_at": "2024-08-19T00:37:29Z"
  }
 ]
