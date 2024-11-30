@@ -1,5 +1,55 @@
 [
  {
+  "id": 2126959,
+  "title": "How to Use KitOps with MLflow",
+  "description": "As artificial intelligence (AI) projects grow in complexity, managing dependencies, maintaining...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcgvu9ygbn2x76rh5xax4.jpg",
+  "slug": "how-to-use-kitops-with-mlflow-59n9",
+  "url": "https://dev.to/kitops/how-to-use-kitops-with-mlflow-59n9",
+  "publish_date": "2024-11-29",
+  "published_at": "2024-11-29T13:41:33Z"
+ },
+ {
+  "id": 2126954,
+  "title": "Where GitOps Meets ClickOps",
+  "description": "In the DevOps landscape, two paradigms have emerged: GitOps and ClickOps, each offering unique...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F56j2pugp6p68356tn4m3.jpeg",
+  "slug": "where-gitops-meets-clickops-463e",
+  "url": "https://dev.to/cyclops-ui/where-gitops-meets-clickops-463e",
+  "publish_date": "2024-11-29",
+  "published_at": "2024-11-29T13:35:02Z"
+ },
+ {
+  "id": 2126753,
+  "title": "GIT Interview Questions \u0026 Answers",
+  "description": "GIT Interview Questions \u0026amp; Answers.            1. What is GIT?   Answer: GIT is a...",
+  "cover_image": "",
+  "slug": "git-interview-questions-answers-48gh",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/git-interview-questions-answers-48gh",
+  "publish_date": "2024-11-29",
+  "published_at": "2024-11-29T11:26:34Z"
+ },
+ {
+  "id": 2126536,
+  "title": "How to Set Up Authorization in a Bookstore Management System with Go, HTMX, and Permit.io",
+  "description": "Authorization is important when building applications, as it determines what actions and resources a...",
+  "cover_image": "",
+  "slug": "how-to-set-up-authorization-in-a-bookstore-management-system-with-go-htmx-and-permitio-1nan",
+  "url": "https://dev.to/oyedeletemitope/how-to-set-up-authorization-in-a-bookstore-management-system-with-go-htmx-and-permitio-1nan",
+  "publish_date": "2024-11-29",
+  "published_at": "2024-11-29T09:41:57Z"
+ },
+ {
+  "id": 2126232,
+  "title": "Let's Learn Generators in JavaScript 🚀",
+  "description": "Hey, JavaScript enthusiasts! 👋 Are you ready to supercharge your coding skills? Today, we’re diving...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8yafp7fk6os4mfqfeq3x.jpg",
+  "slug": "lets-learn-generators-in-javascript-4566",
+  "url": "https://dev.to/jagroop2001/lets-learn-generators-in-javascript-4566",
+  "publish_date": "2024-11-29",
+  "published_at": "2024-11-29T04:31:55Z"
+ },
+ {
   "id": 2125748,
   "title": "15 Best Chrome Extensions for DEVs🧑‍💻",
   "description": "Hello Devs👋  As software developers, we always seek ways to make our jobs easier and improve...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/5-react-mistakes-you-should-avoid-and-how-to-fix-them-339m",
   "publish_date": "2024-08-22",
   "published_at": "2024-08-22T04:29:30Z"
- },
- {
-  "id": 1960460,
-  "title": "Join us for the Neon Open Source Starter Kit Challenge: $3,000 in Prizes!",
-  "description": "We are so excited to partner with our diamond sponsor, Neon to bring the community a brand new...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F92qljx6im03l7ce0dnta.png",
-  "slug": "join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2",
-  "url": "https://dev.to/devteam/join-us-for-the-neon-open-source-starter-kit-challenge-3000-in-prizes-3oe2",
-  "publish_date": "2024-08-21",
-  "published_at": "2024-08-21T14:55:27Z"
- },
- {
-  "id": 1968037,
-  "title": "Building an AI-powered quiz application with Next.js and OpenAI",
-  "description": "In this tutorial, you'll learn how to build an AI-powered quiz application that enables users to...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff04c0el5k9h0pee1pcpp.png",
-  "slug": "building-an-ai-powered-quiz-application-with-nextjs-and-openai-2673",
-  "url": "https://dev.to/latitude/building-an-ai-powered-quiz-application-with-nextjs-and-openai-2673",
-  "publish_date": "2024-08-21",
-  "published_at": "2024-08-21T13:58:34Z"
- },
- {
-  "id": 1967687,
-  "title": "7 Best Remote Job Boards to Land Your Next Dev Work in 2024",
-  "description": "Introduction   When sending out your resume during job hunting, you can waste a lot of time...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmxqx7ox26zea5587kt1i.jpg",
-  "slug": "7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0",
-  "url": "https://dev.to/bigsondev/7-best-remote-job-boards-to-land-your-next-dev-work-in-2024-53l0",
-  "publish_date": "2024-08-21",
-  "published_at": "2024-08-21T13:00:00Z"
- },
- {
-  "id": 1967466,
-  "title": "Crafting Your Developer Identity: A Blueprint for 2024 🌟",
-  "description": "In 2024, building a personal brand isn’t just about flexing your coding muscles 💪.   It’s about...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8a6re0r9tgey1yvypndb.jpg",
-  "slug": "crafting-your-developer-identity-a-blueprint-for-2024-p92",
-  "url": "https://dev.to/lokesh_singh/crafting-your-developer-identity-a-blueprint-for-2024-p92",
-  "publish_date": "2024-08-21",
-  "published_at": "2024-08-21T06:03:55Z"
- },
- {
-  "id": 1967429,
-  "title": "Learning API Requests with Axios: A Comprehensive Guide for 2024",
-  "description": "In today's interconnected web landscape, efficient data exchange between clients and servers is...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fix46sg5iiuno0d55jcqd.png",
-  "slug": "learning-api-requests-with-axios-a-comprehensive-guide-for-2024-37li",
-  "url": "https://dev.to/vyan/learning-api-requests-with-axios-a-comprehensive-guide-for-2024-37li",
-  "publish_date": "2024-08-21",
-  "published_at": "2024-08-21T05:18:17Z"
  }
 ]
