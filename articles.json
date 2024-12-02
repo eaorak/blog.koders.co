@@ -1,5 +1,55 @@
 [
  {
+  "id": 2129390,
+  "title": "From Programmer to Software Developer – The Skills That Make the Difference",
+  "description": "Programmer and developer are often used interchangeably, but there is an important distinction...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8t5fr2nlwtyou3b3q9kd.png",
+  "slug": "from-programmer-to-software-developer-the-skills-that-make-the-difference-4k86",
+  "url": "https://dev.to/perssondennis/from-programmer-to-software-developer-the-skills-that-make-the-difference-4k86",
+  "publish_date": "2024-12-01",
+  "published_at": "2024-12-01T15:25:10Z"
+ },
+ {
+  "id": 2129498,
+  "title": "SQL Interview Questions: A Comprehensive Guide for Developers",
+  "description": "SQL Interview Questions: A Comprehensive Guide for Developers.            1. What is a...",
+  "cover_image": "",
+  "slug": "sql-interview-questions-a-comprehensive-guide-for-developers-5c6d",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/sql-interview-questions-a-comprehensive-guide-for-developers-5c6d",
+  "publish_date": "2024-12-01",
+  "published_at": "2024-12-01T15:06:50Z"
+ },
+ {
+  "id": 2129364,
+  "title": "Browser Extensions: A Frontend Developer's Guide to Building and Deploying Custom Extensions",
+  "description": "Have you ever wished your browser could do just a little more for you—like automating a repetitive...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpp09fpe95g76ab37xrns.png",
+  "slug": "browser-extensions-a-frontend-developers-guide-to-building-and-deploying-custom-extensions-bkd",
+  "url": "https://dev.to/mukhilpadmanabhan/browser-extensions-a-frontend-developers-guide-to-building-and-deploying-custom-extensions-bkd",
+  "publish_date": "2024-12-01",
+  "published_at": "2024-12-01T12:56:48Z"
+ },
+ {
+  "id": 2129048,
+  "title": "How to Write a Token Price Oracle Smart Contract",
+  "description": "Introduction   In the rapidly evolving DeFi ecosystem, accurate and reliable token price...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Forqhkfvmo0d09p69hq52.PNG",
+  "slug": "how-to-write-a-token-price-oracle-smart-contract-1oj",
+  "url": "https://dev.to/marksantiago02/how-to-write-a-token-price-oracle-smart-contract-1oj",
+  "publish_date": "2024-12-01",
+  "published_at": "2024-12-01T07:14:12Z"
+ },
+ {
+  "id": 2127501,
+  "title": "The Power of Communities: Gamifying the experience of the AWS Community Day México attendee",
+  "description": "By @sebastianmarines, AWS Cloud Captain @ Tecnológico de Monterrey and Sr. Cloud Engineer at...",
+  "cover_image": "",
+  "slug": "the-power-of-communities-gamifying-the-experience-of-the-aws-community-day-mexico-attendee-37en",
+  "url": "https://dev.to/aws-builders/the-power-of-communities-gamifying-the-experience-of-the-aws-community-day-mexico-attendee-37en",
+  "publish_date": "2024-12-01",
+  "published_at": "2024-12-01T05:47:06Z"
+ },
+ {
   "id": 2128616,
   "title": "Using Kudos in Sprint Retrospectives: Building a Culture of Recognition 🎉",
   "description": "Sprint retrospectives are crucial for continuous improvement, but they often focus heavily on what...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/nodejs-vs-expressjs-mastering-server-side-javascript-development-7a1",
   "publish_date": "2024-08-24",
   "published_at": "2024-08-24T04:31:58Z"
- },
- {
-  "id": 1971152,
-  "title": "Introducing Log Drains",
-  "description": "Supabase is releasing Log Drains for all Team and Enterprise users.  With Log Drains, developers can...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1mas8jxyc0fyrmiukog5.png",
-  "slug": "introducing-log-drains-1il8",
-  "url": "https://dev.to/supabase/introducing-log-drains-1il8",
-  "publish_date": "2024-08-23",
-  "published_at": "2024-08-23T19:24:09Z"
- },
- {
-  "id": 1966618,
-  "title": "5 Neuro-Hacks to Supercharge Your Focus",
-  "description": "Ever find yourself staring blankly at the screen, wondering why your brain refuses to cooperate?...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhvfpsor0e3gp6hesywy8.png",
-  "slug": "5-neuro-hacks-to-supercharge-your-focus-4795",
-  "url": "https://dev.to/middleware/5-neuro-hacks-to-supercharge-your-focus-4795",
-  "publish_date": "2024-08-23",
-  "published_at": "2024-08-23T18:48:44Z"
- },
- {
-  "id": 1970123,
-  "title": "The rise of self-hosted PaaS — is $5 VPS all you need?",
-  "description": "There's a little trend going on over at the developer community on X, jokingly called \"$5 VPS\" —...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmh58fos7ddpxxf2i8wek.png",
-  "slug": "the-rise-of-self-hosted-paas-is-5-vps-all-you-need-55no",
-  "url": "https://dev.to/zeropsio/the-rise-of-self-hosted-paas-is-5-vps-all-you-need-55no",
-  "publish_date": "2024-08-23",
-  "published_at": "2024-08-23T06:08:12Z"
- },
- {
-  "id": 1970008,
-  "title": "Mastering React Router Hooks: A Comprehensive Guide",
-  "description": "React Router is an essential library for handling navigation in React applications. With the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuwoa7lvdwqnphcj0a968.jpg",
-  "slug": "mastering-react-router-hooks-a-comprehensive-guide-1o50",
-  "url": "https://dev.to/fullstackdevelper/mastering-react-router-hooks-a-comprehensive-guide-1o50",
-  "publish_date": "2024-08-23",
-  "published_at": "2024-08-23T03:43:21Z"
- },
- {
-  "id": 1970007,
-  "title": "Mastering React Router Hooks: A Comprehensive Guide",
-  "description": "React Router is an essential library for handling navigation in React applications. With the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fykbeznqukszou3dh0zwg.jpg",
-  "slug": "mastering-react-router-hooks-a-comprehensive-guide-4hm",
-  "url": "https://dev.to/vyan/mastering-react-router-hooks-a-comprehensive-guide-4hm",
-  "publish_date": "2024-08-23",
-  "published_at": "2024-08-23T03:41:52Z"
  }
 ]
