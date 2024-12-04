@@ -1,5 +1,55 @@
 [
  {
+  "id": 2133943,
+  "title": "Supabase Edge Functions: Introducing Background Tasks, Ephemeral Storage, and WebSockets",
+  "description": "We are excited to announce three long-awaited features: Background Tasks, Ephemeral File Storage, and...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc7zmobujbzwwuggbseo0.jpg",
+  "slug": "supabase-edge-functions-introducing-background-tasks-ephemeral-storage-and-websockets-pe",
+  "url": "https://dev.to/supabase/supabase-edge-functions-introducing-background-tasks-ephemeral-storage-and-websockets-pe",
+  "publish_date": "2024-12-03",
+  "published_at": "2024-12-03T15:26:58Z"
+ },
+ {
+  "id": 2133709,
+  "title": "Today is the International Day of Persons with Disabilities",
+  "description": "Today, December 3rd, is the International Day of Persons with Disabilities. The United Nations...",
+  "cover_image": "",
+  "slug": "today-is-the-international-day-of-persons-with-disabilities-3c27",
+  "url": "https://dev.to/tatyanabayramova/today-is-the-international-day-of-persons-with-disabilities-3c27",
+  "publish_date": "2024-12-03",
+  "published_at": "2024-12-03T15:02:22Z"
+ },
+ {
+  "id": 2133887,
+  "title": "Cyclops Launch Week #1 Recap",
+  "description": "Last week, we celebrated a major milestone with our first-ever Launch Week, revealing five exciting...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsj5tnm1y1dslmvfm6z33.png",
+  "slug": "cyclops-launch-week-1-recap-49p",
+  "url": "https://dev.to/cyclops-ui/cyclops-launch-week-1-recap-49p",
+  "publish_date": "2024-12-03",
+  "published_at": "2024-12-03T15:00:53Z"
+ },
+ {
+  "id": 2131242,
+  "title": "9 cutting-edge open-source tools to build next-gen AI apps 🔮💡",
+  "description": "I have been building and working with AI applications for over years. While building any AI...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjhhzmo5xoyp07i6ql150.png",
+  "slug": "9-cutting-edge-open-source-tools-to-build-next-gen-ai-apps-1mho",
+  "url": "https://dev.to/composiodev/9-cutting-edge-open-source-tools-to-build-next-gen-ai-apps-1mho",
+  "publish_date": "2024-12-03",
+  "published_at": "2024-12-03T13:35:19Z"
+ },
+ {
+  "id": 2120942,
+  "title": "🤓 Top 12 Open Source Repositories to Watch in 2025 to Become the Ultimate Developer",
+  "description": "If you're a developer, staying updated with the best open-source tools is a surefire way to boost...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7lylxefig5qn6klrkglu.png",
+  "slug": "top-12-open-source-repositories-to-watch-in-2025-to-become-the-ultimate-developer-4979",
+  "url": "https://dev.to/taipy/top-12-open-source-repositories-to-watch-in-2025-to-become-the-ultimate-developer-4979",
+  "publish_date": "2024-12-03",
+  "published_at": "2024-12-03T07:26:48Z"
+ },
+ {
   "id": 2131561,
   "title": "Supabase AI Assistant v2",
   "description": "Today we are releasing Supabase Assistant v2 in the Dashboard - a global assistant with several new...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/prodevopsguytech/end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako",
   "publish_date": "2024-08-26",
   "published_at": "2024-08-26T06:07:32Z"
- },
- {
-  "id": 1972652,
-  "title": "The Solar System in CSS",
-  "description": "The Solar System has been done in CSS a lot of times — just search Codepen! So why do it...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcisezprc0baagpjb7wna.png",
-  "slug": "the-solar-system-in-css-51bo",
-  "url": "https://dev.to/madsstoumann/the-solar-system-in-css-51bo",
-  "publish_date": "2024-08-25",
-  "published_at": "2024-08-25T15:43:48Z"
- },
- {
-  "id": 1972597,
-  "title": "10 Things You Can Learn from Netflix’s Architecture",
-  "description": "Netflix’s Architecture is a great example of Distributed systems, here are 10 things you can learn ",
-  "cover_image": "",
-  "slug": "10-things-you-can-learn-from-netflixs-architecture-1bnn",
-  "url": "https://dev.to/somadevtoo/10-things-you-can-learn-from-netflixs-architecture-1bnn",
-  "publish_date": "2024-08-25",
-  "published_at": "2024-08-25T12:57:01Z"
- },
- {
-  "id": 1972502,
-  "title": "10 Essential VS Code Tips \u0026 Tricks for Greater Productivity",
-  "description": "Did you know that 73% of developers worldwide rely on the same code editor? According to the 2023...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpeojaf96txynr3gsyetx.png",
-  "slug": "10-essential-vs-code-tips-tricks-for-greater-productivity-2d9o",
-  "url": "https://dev.to/safdarali/10-essential-vs-code-tips-tricks-for-greater-productivity-2d9o",
-  "publish_date": "2024-08-25",
-  "published_at": "2024-08-25T11:12:18Z"
- },
- {
-  "id": 1972294,
-  "title": "Serve Your Assets Automatically with Bitbucket and AWS",
-  "description": "This article details how to serve our assets as static content to be consumed on our webpages. The...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fquxloonioaq2i1fqq7hx.png",
-  "slug": "serve-your-assets-automatically-with-bitbucket-and-aws-1bc0",
-  "url": "https://dev.to/aws-builders/serve-your-assets-automatically-with-bitbucket-and-aws-1bc0",
-  "publish_date": "2024-08-25",
-  "published_at": "2024-08-25T04:40:06Z"
- },
- {
-  "id": 1972289,
-  "title": "6 Fun APIs to Elevate Your Next Development Project",
-  "description": "Are you looking to add some excitement to your next coding project? Look no further! We've curated a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fal7o0rae5p4n9bwf78wi.jpg",
-  "slug": "6-fun-apis-to-elevate-your-next-development-project-554o",
-  "url": "https://dev.to/vyan/6-fun-apis-to-elevate-your-next-development-project-554o",
-  "publish_date": "2024-08-25",
-  "published_at": "2024-08-25T04:14:33Z"
  }
 ]
