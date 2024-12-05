@@ -1,5 +1,55 @@
 [
  {
+  "id": 2131759,
+  "title": "Join us for the next Frontend Challenge: December Edition!",
+  "description": "We are so back.  We’re very happy to announce the newest edition of our community's favorite...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr81lisjonf6qn0vc04qe.jpg",
+  "slug": "join-us-for-the-next-frontend-challenge-december-edition-187c",
+  "url": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-december-edition-187c",
+  "publish_date": "2024-12-04",
+  "published_at": "2024-12-04T16:59:28Z"
+ },
+ {
+  "id": 2136124,
+  "title": "Top AI Search Engines for Business \u0026 Startups in 2025",
+  "description": "Imagine having a brilliant personal assistant who understands precisely what you’re looking for and...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqitk92nw7l5c9tge43ae.jpg",
+  "slug": "top-ai-search-engines-for-business-startups-in-2025-49jo",
+  "url": "https://dev.to/swirl/top-ai-search-engines-for-business-startups-in-2025-49jo",
+  "publish_date": "2024-12-04",
+  "published_at": "2024-12-04T14:05:35Z"
+ },
+ {
+  "id": 2135736,
+  "title": "Building an actionable ⚡️ GitHub account with these open-source projects 👩🏻‍💻",
+  "description": "GitHub is more than just a place for code. It's a thriving community where ideas come to life and...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7hnr5td16fim1mmom6vx.jpg",
+  "slug": "building-an-actionable-github-account-with-these-open-source-projects-1fo3",
+  "url": "https://dev.to/fast/building-an-actionable-github-account-with-these-open-source-projects-1fo3",
+  "publish_date": "2024-12-04",
+  "published_at": "2024-12-04T11:03:35Z"
+ },
+ {
+  "id": 2135212,
+  "title": "Progressive Web Apps: Technology Bridging Web and Mobile",
+  "description": "In the ever progressing web development world, there’s been PWA (Progressive Web Apps) that came as a...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuveeanpxblzgp9aninva.png",
+  "slug": "progressive-web-apps-technology-bridging-web-and-mobile-41pa",
+  "url": "https://dev.to/mukhilpadmanabhan/progressive-web-apps-technology-bridging-web-and-mobile-41pa",
+  "publish_date": "2024-12-04",
+  "published_at": "2024-12-04T07:13:55Z"
+ },
+ {
+  "id": 2135108,
+  "title": "The Role of Explainable AI in Building Trust and Accountability",
+  "description": "Introduction In recent years, AI has transformed industries by enhancing decision-making processes...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fffv7sa4x205a1rvkce4b.PNG",
+  "slug": "the-role-of-explainable-ai-in-building-trust-and-accountability-4j4p",
+  "url": "https://dev.to/jottyjohn/the-role-of-explainable-ai-in-building-trust-and-accountability-4j4p",
+  "publish_date": "2024-12-04",
+  "published_at": "2024-12-04T06:05:53Z"
+ },
+ {
   "id": 2133943,
   "title": "Supabase Edge Functions: Introducing Background Tasks, Ephemeral Storage, and WebSockets",
   "description": "We are excited to announce three long-awaited features: Background Tasks, Ephemeral File Storage, and...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/5-critical-mistakes-to-avoid-when-starting-a-new-react-project-in-2024-a-beginner-guide-6d4",
   "publish_date": "2024-08-27",
   "published_at": "2024-08-27T04:24:54Z"
- },
- {
-  "id": 1974187,
-  "title": "pg_graphql 1.5.7: pagination and multi-tenancy support",
-  "description": "What's new in pg_graphql 1.5.7   Since our last check-in on pg_graphql there have been a few...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff1lh2o9wheh9upnyrcyk.png",
-  "slug": "pggraphql-157-pagination-and-multi-tenancy-support-2je8",
-  "url": "https://dev.to/supabase/pggraphql-157-pagination-and-multi-tenancy-support-2je8",
-  "publish_date": "2024-08-26",
-  "published_at": "2024-08-26T17:34:24Z"
- },
- {
-  "id": 1973801,
-  "title": "Storefront hero sections for e-commerce built with Tailwind CSS and Flowbite",
-  "description": "Hey devs 👋  Today I would like to show you a couple of new components that we have built using...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsckgim5g041whcxo1jeo.png",
-  "slug": "storefront-hero-sections-for-e-commerce-built-with-tailwind-css-and-flowbite-3j8j",
-  "url": "https://dev.to/themesberg/storefront-hero-sections-for-e-commerce-built-with-tailwind-css-and-flowbite-3j8j",
-  "publish_date": "2024-08-26",
-  "published_at": "2024-08-26T13:38:57Z"
- },
- {
-  "id": 1973614,
-  "title": "Hash Map using Javascript",
-  "description": "Introduction    A Hash Map, also known as a Hash Table, is a data structure that implements...",
-  "cover_image": "",
-  "slug": "hash-map-using-javascript-5d03",
-  "url": "https://dev.to/ashutoshsarangi/hash-map-using-javascript-5d03",
-  "publish_date": "2024-08-26",
-  "published_at": "2024-08-26T11:54:59Z"
- },
- {
-  "id": 1973296,
-  "title": "🚀 Most Useful React Hooks for Your Next Project 🚀",
-  "description": "React hooks have revolutionized how we write components in React, making our code more readable,...",
-  "cover_image": "",
-  "slug": "most-useful-react-hooks-for-your-next-project-2l4i",
-  "url": "https://dev.to/vyan/most-useful-react-hooks-for-your-next-project-2l4i",
-  "publish_date": "2024-08-26",
-  "published_at": "2024-08-26T07:02:36Z"
- },
- {
-  "id": 1973263,
-  "title": "End-to-End DevOps Project: Building, Deploying, and Monitoring a Full-Stack Application",
-  "description": "Table of Contents    Introduction Project Overview Prerequisites  Step 1: Infrastructure...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuud1jfgtckfxxgd4wyto.png",
-  "slug": "end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako",
-  "url": "https://dev.to/prodevopsguytech/end-to-end-devops-project-building-deploying-and-monitoring-a-full-stack-application-ako",
-  "publish_date": "2024-08-26",
-  "published_at": "2024-08-26T06:07:32Z"
  }
 ]
