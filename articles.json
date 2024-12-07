@@ -1,5 +1,55 @@
 [
  {
+  "id": 2139557,
+  "title": "Good News! Deadline Extended for the DevCycle Feature Flag Challenge.",
+  "description": "Due to the recent Thanksgiving Holiday in the U.S. and end-of-semester work load for much of the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F806tldptfil16ti4d1fz.png",
+  "slug": "good-news-deadline-extended-for-the-devcycle-feature-flag-challenge-304p",
+  "url": "https://dev.to/devteam/good-news-deadline-extended-for-the-devcycle-feature-flag-challenge-304p",
+  "publish_date": "2024-12-06",
+  "published_at": "2024-12-06T17:37:11Z"
+ },
+ {
+  "id": 2141531,
+  "title": "database.build v2: Bring-your-own-LLM",
+  "description": "We've been hard at work since launching database.build(formerly postgres.new), and we're thrilled to...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnptzil0q5skg4c1xn448.png",
+  "slug": "databasebuild-v2-bring-your-own-llm-3pfp",
+  "url": "https://dev.to/supabase/databasebuild-v2-bring-your-own-llm-3pfp",
+  "publish_date": "2024-12-06",
+  "published_at": "2024-12-06T15:44:59Z"
+ },
+ {
+  "id": 2140874,
+  "title": "React v19 is out!",
+  "description": "Finally!!  React 19 has arrived with a set of changes that aim to make development faster and more...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frxjq34bh8garpxwsblg6.jpg",
+  "slug": "react-v19-is-out-2eo2",
+  "url": "https://dev.to/srbhr/react-v19-is-out-2eo2",
+  "publish_date": "2024-12-06",
+  "published_at": "2024-12-06T12:01:01Z"
+ },
+ {
+  "id": 2140877,
+  "title": "Boost Your LinkedIn Reach Organically: A Simple Guide",
+  "description": "Are you struggling to increase your reach on LinkedIn? Here’s a simple analogy to help you understand...",
+  "cover_image": "",
+  "slug": "boost-your-linkedin-reach-organically-a-simple-guide-3mki",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/boost-your-linkedin-reach-organically-a-simple-guide-3mki",
+  "publish_date": "2024-12-06",
+  "published_at": "2024-12-06T10:39:55Z"
+ },
+ {
+  "id": 2138352,
+  "title": "🔥10 Useful Extensions For VS Code",
+  "description": "Hello everyone Today, I have prepared 10 extensions for VS Code that will help you develop cool...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcf0j0osllhycqabk9ftf.png",
+  "slug": "10-useful-extensions-for-vs-code-59k4",
+  "url": "https://dev.to/anthonymax/10-useful-extensions-for-vs-code-59k4",
+  "publish_date": "2024-12-06",
+  "published_at": "2024-12-06T07:40:35Z"
+ },
+ {
   "id": 2139322,
   "title": "Congrats to the AssemblyAI Challenge Winners!",
   "description": "The wait is over! We are excited to announce the winners of the AssemblyAI Challenge.  From musical...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/khushindpatel/types-of-middleware-the-different-flavors-171a",
   "publish_date": "2024-08-29",
   "published_at": "2024-08-29T05:34:36Z"
- },
- {
-  "id": 1959209,
-  "title": "🚀How I integrated an AI copilot into Dub.co (in a few minutes)🤖✨",
-  "description": "In this article, you'll learn how to add an AI copilot to Dub.co, an open-source link management...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjqpkf6kbxd7gsyz8swz.gif",
-  "slug": "how-i-integrated-an-ai-copilot-into-dubco-3lkj",
-  "url": "https://dev.to/copilotkit/how-i-integrated-an-ai-copilot-into-dubco-3lkj",
-  "publish_date": "2024-08-28",
-  "published_at": "2024-08-28T14:01:29Z"
- },
- {
-  "id": 1977101,
-  "title": "Mastering Middleware in Node.js: The Secret Sauce of Express.js 🥪",
-  "description": "Introduction: What’s Cooking in Express.js? 👀👩🏻‍🍳   If you’ve spent any time in the Node.js...",
-  "cover_image": "",
-  "slug": "mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
-  "url": "https://dev.to/khushindpatel/mastering-middleware-in-nodejs-the-secret-sauce-of-expressjs-4666",
-  "publish_date": "2024-08-28",
-  "published_at": "2024-08-28T06:54:33Z"
- },
- {
-  "id": 1976988,
-  "title": "6 Must-Know JavaScript ES13 Features for Modern Development 🚀",
-  "description": "JavaScript continues to evolve, and with the release of ES13, the language has become even more...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fka8gtdyerhzgh5dl9zql.jpg",
-  "slug": "6-must-know-javascript-es13-features-for-modern-development-4jha",
-  "url": "https://dev.to/vyan/6-must-know-javascript-es13-features-for-modern-development-4jha",
-  "publish_date": "2024-08-28",
-  "published_at": "2024-08-28T04:45:37Z"
- },
- {
-  "id": 1976745,
-  "title": "Color palette in branding: How Logto generate a custom color scheme for your brand",
-  "description": "How audiences perceive a brand is strongly influenced by color psychology. By using a carefully...",
-  "cover_image": "",
-  "slug": "color-palette-in-branding-how-logto-generate-a-custom-color-scheme-for-your-brand-404j",
-  "url": "https://dev.to/logto/color-palette-in-branding-how-logto-generate-a-custom-color-scheme-for-your-brand-404j",
-  "publish_date": "2024-08-28",
-  "published_at": "2024-08-28T01:05:15Z"
- },
- {
-  "id": 1976728,
-  "title": "Create a remark plugin to extract MDX reading time",
-  "description": "A guide to create a remark plugin to make the reading time data available when importing MDX files as...",
-  "cover_image": "",
-  "slug": "create-a-remark-plugin-to-extract-mdx-reading-time-5d2h",
-  "url": "https://dev.to/logto/create-a-remark-plugin-to-extract-mdx-reading-time-5d2h",
-  "publish_date": "2024-08-28",
-  "published_at": "2024-08-28T00:09:20Z"
  }
 ]
