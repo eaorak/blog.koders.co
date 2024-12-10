@@ -1,5 +1,55 @@
 [
  {
+  "id": 2148075,
+  "title": "How to Create Sitemap in NextJS using package next-sitemap",
+  "description": "Learn how to create a sitemap for a website in your NextJS project using the next-sitemap package. This is the second part of the series on creating sitemaps in NextJS.",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5mckuhvmkde33ngqj6vd.png",
+  "slug": "how-to-create-sitemap-in-nextjs-using-package-next-sitemap-2g6a",
+  "url": "https://dev.to/thesohailjafri/how-to-create-sitemap-in-nextjs-using-package-next-sitemap-2g6a",
+  "publish_date": "2024-12-09",
+  "published_at": "2024-12-09T17:45:58Z"
+ },
+ {
+  "id": 2144485,
+  "title": "Top 5 Open Source Projects You Must Explore Before 2025",
+  "description": "Open-source projects are the backbone of modern software development. Whether you're learning to...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fneqgdcpodgseopbqimdg.gif",
+  "slug": "top-5-open-source-projects-you-must-explore-before-2025-3l6l",
+  "url": "https://dev.to/arindam_1729/top-5-open-source-projects-you-must-explore-before-2025-3l6l",
+  "publish_date": "2024-12-09",
+  "published_at": "2024-12-09T09:30:00Z"
+ },
+ {
+  "id": 2147024,
+  "title": "Encore Launch Week Day 1: Custom Middleware",
+  "description": "It's Day 1 of Encore's Launch Week and we're kicking off with a highly requested feature...          ...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm8ze3x19tb1xuuwdhyaf.png",
+  "slug": "encore-launch-week-day-1-custom-middleware-12na",
+  "url": "https://dev.to/encore/encore-launch-week-day-1-custom-middleware-12na",
+  "publish_date": "2024-12-09",
+  "published_at": "2024-12-09T08:36:07Z"
+ },
+ {
+  "id": 2146500,
+  "title": "🌐 100+ Free APIs for Developers in 2024 🚀",
+  "description": "🌐 100+ Free APIs for Developers in 2024 🚀   A powerful collection of 100+ APIs across...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feryxz5n8a9frg7blk9f0.jpg",
+  "slug": "100-free-apis-for-developers-in-2024-1jfi",
+  "url": "https://dev.to/hanzla-baig/100-free-apis-for-developers-in-2024-1jfi",
+  "publish_date": "2024-12-09",
+  "published_at": "2024-12-09T03:17:44Z"
+ },
+ {
+  "id": 2146254,
+  "title": "Financial Post Mortem For The Commit Your Code Conference",
+  "description": "On December 5th and 6th, we hosted A Conference For Charity called \"The Commit Your Code...",
+  "cover_image": "",
+  "slug": "financial-post-mortem-for-the-commit-your-code-conference-57of",
+  "url": "https://dev.to/dthompsondev/financial-post-mortem-for-the-commit-your-code-conference-57of",
+  "publish_date": "2024-12-09",
+  "published_at": "2024-12-09T00:23:02Z"
+ },
+ {
   "id": 2146045,
   "title": "Day 8: Week 1 Quiz",
   "description": "This is a crosspost from adventofdocker.com  Hey everyone! You made it through the first week! 🎉  I...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rajdhokai/nylas-ai-driven-email-summarizer-and-actionable-insights-generator-47n3",
   "publish_date": "2024-09-01",
   "published_at": "2024-09-01T12:14:07Z"
- },
- {
-  "id": 1981153,
-  "title": "⚡👨‍💻 Quantum Computers — How Will They Change the Future?",
-  "description": "Imagine a computer so powerful it could crack any code, simulate molecules with incredible accuracy,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F35lnkgbxcf9tlfwwrjq4.png",
-  "slug": "quantum-computers-how-will-they-change-the-future-20k9",
-  "url": "https://dev.to/best_codes/quantum-computers-how-will-they-change-the-future-20k9",
-  "publish_date": "2024-08-31",
-  "published_at": "2024-08-31T14:00:00Z"
- },
- {
-  "id": 1981526,
-  "title": "AWS DevOps Project: Advanced Automated CI/CD Pipeline with Infrastructure as Code, Microservices, Service Mesh, and Monitoring",
-  "description": "Introduction   In this advanced AWS DevOps project, we will build a sophisticated CI/CD...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6x79fxplof7whedfsbt7.png",
-  "slug": "aws-devops-project-advanced-automated-cicd-pipeline-with-infrastructure-as-code-microservices-service-mesh-and-monitoring-3o13",
-  "url": "https://dev.to/prodevopsguytech/aws-devops-project-advanced-automated-cicd-pipeline-with-infrastructure-as-code-microservices-service-mesh-and-monitoring-3o13",
-  "publish_date": "2024-08-31",
-  "published_at": "2024-08-31T11:34:08Z"
- },
- {
-  "id": 1981433,
-  "title": "How to implement a Distributed Lock using Redis",
-  "description": "I am Dumb   Well, whenever we work in our local system everything works as butter. That is...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcsw1riaessbzb2h301tp.png",
-  "slug": "how-to-implement-a-distributed-lock-using-redis-he",
-  "url": "https://dev.to/lovepreetsingh/how-to-implement-a-distributed-lock-using-redis-he",
-  "publish_date": "2024-08-31",
-  "published_at": "2024-08-31T09:55:27Z"
- },
- {
-  "id": 1981383,
-  "title": "Obsidian: The All-in-One Knowledge Management Tool for Efficient Information Organization",
-  "description": "In the ever-evolving landscape of knowledge management and productivity tools, Obsidian has emerged...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4q0x7j8topefv1qy27mt.png",
-  "slug": "obsidian-the-all-in-one-knowledge-management-tool-for-efficient-information-organization-1ep3",
-  "url": "https://dev.to/stan8086/obsidian-the-all-in-one-knowledge-management-tool-for-efficient-information-organization-1ep3",
-  "publish_date": "2024-08-31",
-  "published_at": "2024-08-31T08:45:30Z"
- },
- {
-  "id": 1981291,
-  "title": "Spring Certification is Free of Mandatory Training Again !!",
-  "description": "You can now give Spring certification exam without any mandatory training on Vmware website",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8o7na4u2kugs6udep5y4.png",
-  "slug": "spring-certification-is-free-of-mandatory-training-again--2o9j",
-  "url": "https://dev.to/javinpaul/spring-certification-is-free-of-mandatory-training-again--2o9j",
-  "publish_date": "2024-08-31",
-  "published_at": "2024-08-31T06:29:41Z"
  }
 ]
