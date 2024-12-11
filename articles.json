@@ -1,5 +1,55 @@
 [
  {
+  "id": 2150352,
+  "title": "Top 7 Featured DEV Posts of the Week",
+  "description": "Welcome to this week's Top 7, where the DEV editorial team handpicks their favorite posts from the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fil32u4jurwh71t43ydxi.jpg",
+  "slug": "top-7-featured-dev-posts-of-the-week-2e1e",
+  "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-2e1e",
+  "publish_date": "2024-12-10",
+  "published_at": "2024-12-10T18:27:24Z"
+ },
+ {
+  "id": 2149930,
+  "title": "9 must-know open-source tools to land your dream job in 2025",
+  "description": "AI is reshaping the job landscape, but not in the way the media portrays it. We need more problem...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpc6iccua9v8h50fm7k2p.gif",
+  "slug": "9-must-know-open-source-tools-to-land-your-dream-job-in-2025-iki",
+  "url": "https://dev.to/composiodev/9-must-know-open-source-tools-to-land-your-dream-job-in-2025-iki",
+  "publish_date": "2024-12-10",
+  "published_at": "2024-12-10T14:51:45Z"
+ },
+ {
+  "id": 2149660,
+  "title": "Setup a Micro-Frontend architecture in 15min with Vite!",
+  "description": "In a monolithic frontend architecture, a single codebase handles the entire user interface. While...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fry41qg1rfkhxpolflcut.png",
+  "slug": "setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg",
+  "url": "https://dev.to/mairouche/setup-a-micro-frontend-architecture-in-15min-with-vite-4pbg",
+  "publish_date": "2024-12-10",
+  "published_at": "2024-12-10T13:06:20Z"
+ },
+ {
+  "id": 2149339,
+  "title": "Encore Launch Week Day 2: Public Buckets \u0026 CDN",
+  "description": "It's Day 2 of Launch Week and we're back with another launch...           Encore.go and Encore.ts now...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Figstnv31n9h4v7l0ilgd.png",
+  "slug": "encore-launch-week-day-2-public-buckets-cdn-1c9i",
+  "url": "https://dev.to/encore/encore-launch-week-day-2-public-buckets-cdn-1c9i",
+  "publish_date": "2024-12-10",
+  "published_at": "2024-12-10T08:36:51Z"
+ },
+ {
+  "id": 2149307,
+  "title": "8 Type of Load Balancing",
+  "description": "If you're diving into the world of web infrastructure, you've probably heard about load balancing....",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuiwye2d5gqzalg4aeqbi.png",
+  "slug": "8-type-of-load-balancing-104j",
+  "url": "https://dev.to/juniourrau/8-type-of-load-balancing-104j",
+  "publish_date": "2024-12-10",
+  "published_at": "2024-12-10T08:17:16Z"
+ },
+ {
   "id": 2148075,
   "title": "How to Create Sitemap in NextJS using package next-sitemap",
   "description": "Learn how to create a sitemap for a website in your NextJS project using the next-sitemap package. This is the second part of the series on creating sitemaps in NextJS.",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/sneha11/how-i-built-an-ai-powered-email-manager-after-nearly-missing-a-deadline-44cn",
   "publish_date": "2024-09-02",
   "published_at": "2024-09-02T03:02:12Z"
- },
- {
-  "id": 1981281,
-  "title": "Neon Meets `create-t3-app`: The PostgreSQL Solution for Modern Developers",
-  "description": "This is a submission for the Neon Open Source Starter Kit Challenge : Ultimate Starter Kit          ...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvem89yb3jw7gweb8osxr.gif",
-  "slug": "neon-meets-create-t3-app-the-postgresql-solution-for-modern-developers-4273",
-  "url": "https://dev.to/jose_carlostoscano_3bb03/neon-meets-create-t3-app-the-postgresql-solution-for-modern-developers-4273",
-  "publish_date": "2024-09-01",
-  "published_at": "2024-09-01T20:45:11Z"
- },
- {
-  "id": 1982873,
-  "title": "Streamline Your Projects: A Cutting-Edge Neon Task Management Starter Kit",
-  "description": "This is a submission for the Neon Open Source Starter Kit Challenge : Ultimate Starter Kit          ...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxopygvt52ip8yvs9iaw3.png",
-  "slug": "streamline-your-projects-a-cutting-edge-neon-task-management-starter-kit-2njj",
-  "url": "https://dev.to/chintanonweb/streamline-your-projects-a-cutting-edge-neon-task-management-starter-kit-2njj",
-  "publish_date": "2024-09-01",
-  "published_at": "2024-09-01T17:48:51Z"
- },
- {
-  "id": 1894206,
-  "title": "Simples Mudanças, Grandes Impactos: Como Fortalecer a Segurança da Sua Aplicação Laravel",
-  "description": "Se você já trabalhou em algum projeto Laravel com certeza já ter percebido como o framework entrega...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo67f73vfykui65keoeg4.png",
-  "slug": "simples-mudancas-grandes-impactos-como-fortalecer-a-seguranca-da-sua-aplicacao-laravel-3ia0",
-  "url": "https://dev.to/tarcisioaraujo/simples-mudancas-grandes-impactos-como-fortalecer-a-seguranca-da-sua-aplicacao-laravel-3ia0",
-  "publish_date": "2024-09-01",
-  "published_at": "2024-09-01T14:10:22Z"
- },
- {
-  "id": 1982533,
-  "title": "Frontend Resources V2! 🚀",
-  "description": "🚀 Supercharge Your Development with These Resources! 🚀  👋 Hey everyone! 👋  After the great response...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0lpyfgsc8iscgu2jwxny.png",
-  "slug": "frontend-resources-v2-57mj",
-  "url": "https://dev.to/miguelrodriguezp99/frontend-resources-v2-57mj",
-  "publish_date": "2024-09-01",
-  "published_at": "2024-09-01T13:49:50Z"
- },
- {
-  "id": 1982442,
-  "title": "Nylas AI-Driven Email Summarizer and Actionable Insights Generator",
-  "description": "This is a submission for the Nylas Challenge: AI Expedition.           What I Built and Why   I...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frq4r7c2o6wbbrby0yf0w.jpg",
-  "slug": "nylas-ai-driven-email-summarizer-and-actionable-insights-generator-47n3",
-  "url": "https://dev.to/rajdhokai/nylas-ai-driven-email-summarizer-and-actionable-insights-generator-47n3",
-  "publish_date": "2024-09-01",
-  "published_at": "2024-09-01T12:14:07Z"
  }
 ]
