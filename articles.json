@@ -1,5 +1,55 @@
 [
  {
+  "id": 2153320,
+  "title": "Minecraft on Kubernetes: A Dev Platform Example",
+  "description": "It’s been years since I last played Minecraft, but recently, I found myself itching to jump back in....",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhfsc2m93dro30r640s1g.jpeg",
+  "slug": "minecraft-on-kubernetes-a-dev-platform-example-nd4",
+  "url": "https://dev.to/cyclops-ui/minecraft-on-kubernetes-a-dev-platform-example-nd4",
+  "publish_date": "2024-12-12",
+  "published_at": "2024-12-12T11:25:13Z"
+ },
+ {
+  "id": 2153077,
+  "title": "Advanced value-based validation in Rust for Node.js apps",
+  "description": "It's Day 4 of Launch Week and we're back with another launch...           Encore.ts now supports...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2xczef5g5xaa0h61qczp.png",
+  "slug": "advanced-value-based-validation-in-rust-for-nodejs-apps-5a5j",
+  "url": "https://dev.to/encore/advanced-value-based-validation-in-rust-for-nodejs-apps-5a5j",
+  "publish_date": "2024-12-12",
+  "published_at": "2024-12-12T08:46:58Z"
+ },
+ {
+  "id": 2136371,
+  "title": "7 Must-Try Open-Source Tools for Python and JavaScript Developers 🚀",
+  "description": "Open-source tools are something almost every developer uses, whether while learning to code or...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F67vy07x7txqv3ipnqvtv.gif",
+  "slug": "7-must-try-open-source-tools-for-python-and-javascript-developers-4c56",
+  "url": "https://dev.to/arindam_1729/7-must-try-open-source-tools-for-python-and-javascript-developers-4c56",
+  "publish_date": "2024-12-12",
+  "published_at": "2024-12-12T08:12:35Z"
+ },
+ {
+  "id": 2124153,
+  "title": "This API Client is More Secure and Better Than Postman",
+  "description": "APIs are the backbone of modern web and while Postman has been the most widely used tool for years,...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuqkrtvf86e2bmur27pef.png",
+  "slug": "this-api-client-is-more-secure-and-better-than-postman-4144",
+  "url": "https://dev.to/anmolbaranwal/this-api-client-is-more-secure-and-better-than-postman-4144",
+  "publish_date": "2024-12-12",
+  "published_at": "2024-12-12T07:15:02Z"
+ },
+ {
+  "id": 2152812,
+  "title": "Finding Trusted Bulk Email Marketing Services",
+  "description": "Email marketing remains one of the most effective ways to reach and engage with customers. However,...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmumdxq6m8llvjzilzn24.png",
+  "slug": "finding-trusted-bulk-email-marketing-services-5g9b",
+  "url": "https://dev.to/sam_devid_65bbbe34ab06c1a/finding-trusted-bulk-email-marketing-services-5g9b",
+  "publish_date": "2024-12-12",
+  "published_at": "2024-12-12T05:01:16Z"
+ },
+ {
   "id": 2151922,
   "title": "Join us for the Bright Data Web Scraping Challenge: $3,000 in Prizes!",
   "description": "We are excited to team up with Bright Data to bring the community a new challenge.  Running through...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc",
   "publish_date": "2024-09-04",
   "published_at": "2024-09-04T06:44:28Z"
- },
- {
-  "id": 1979264,
-  "title": "Congrats to the Nylas Challenge Winners!",
-  "description": "It is time. We are so excited to announce the winners of the Nylas Challenge!  From forest fire...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Frbpj7dxqjq8dkwjb4s8g.png",
-  "slug": "congrats-to-the-nylas-challenge-winners-2kic",
-  "url": "https://dev.to/devteam/congrats-to-the-nylas-challenge-winners-2kic",
-  "publish_date": "2024-09-03",
-  "published_at": "2024-09-03T16:10:55Z"
- },
- {
-  "id": 1979275,
-  "title": "Congrats to the Neon Open Source Starter Kit Challenge Winners!",
-  "description": "We are excited to announce the winners of the Neon Open Source Starter Kit Challenge today.   The...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw31swlcgp3w6l25foegr.png",
-  "slug": "congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p",
-  "url": "https://dev.to/devteam/congrats-to-the-neon-open-source-starter-kit-challenge-winners-247p",
-  "publish_date": "2024-09-03",
-  "published_at": "2024-09-03T16:10:03Z"
- },
- {
-  "id": 1985327,
-  "title": "I saved 30 hours of coding with this search tool that chats with codebases at 91% accuracy! 🤯",
-  "description": "TL;DR   I was recently assigned a challenging project that involved working with an existing...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm6nnof9f9nkdd6jw6j7f.gif",
-  "slug": "i-saved-30-hours-of-coding-with-this-search-tool-that-chats-with-codebases-at-91-accuracy-419l",
-  "url": "https://dev.to/composiodev/i-saved-30-hours-of-coding-with-this-search-tool-that-chats-with-codebases-at-91-accuracy-419l",
-  "publish_date": "2024-09-03",
-  "published_at": "2024-09-03T14:48:34Z"
- },
- {
-  "id": 1985022,
-  "title": "Add an authorization layer to your app with Permit.io🔏 in a few minutes ⏱️",
-  "description": "Struggling with writing permissions and authorization codes?? Feeling sad for you man! I was too...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4fia2flbsp55kw50lrdg.png",
-  "slug": "add-an-authorization-layer-to-your-app-with-permitio-in-a-few-minutes-32d6",
-  "url": "https://dev.to/rohan_sharma/add-an-authorization-layer-to-your-app-with-permitio-in-a-few-minutes-32d6",
-  "publish_date": "2024-09-03",
-  "published_at": "2024-09-03T08:20:49Z"
- },
- {
-  "id": 1982262,
-  "title": "How I built my open-source Social media scheduling tool... 🤯",
-  "description": "I published Postiz, my open-source social media scheduling tool, on Reddit, and received much...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftlkmtn2fe9mkd1dvm97e.gif",
-  "slug": "how-i-built-my-open-source-social-media-scheduling-tool-dih",
-  "url": "https://dev.to/nevodavid/how-i-built-my-open-source-social-media-scheduling-tool-dih",
-  "publish_date": "2024-09-03",
-  "published_at": "2024-09-03T06:44:21Z"
  }
 ]
