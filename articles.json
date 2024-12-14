@@ -1,5 +1,55 @@
 [
  {
+  "id": 2154880,
+  "title": "We made an AI SWE that solved 48.60% of issues on the SWE bench, 100% open-source.",
+  "description": "We at Composio are building the tool infrastructure for AI agents. One of our users' biggest requests...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5orp7nxo7msau3uib7k5.png",
+  "slug": "we-made-an-ai-swe-that-solved-4860-of-issues-on-the-swe-bench-100-open-source-aop",
+  "url": "https://dev.to/composiodev/we-made-an-ai-swe-that-solved-4860-of-issues-on-the-swe-bench-100-open-source-aop",
+  "publish_date": "2024-12-13",
+  "published_at": "2024-12-13T13:10:05Z"
+ },
+ {
+  "id": 2154723,
+  "title": "How These Free Open Source Projects Can Jumpstart Your Career (No Experience? No Problem!)",
+  "description": "Open source is like a training ground for real-world skills. By contributing to projects, you gain...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fuy7my8bh64xl6n7yc62l.gif",
+  "slug": "how-these-free-open-source-projects-can-jumpstart-your-career-no-experience-no-problem-4e44",
+  "url": "https://dev.to/swirl/how-these-free-open-source-projects-can-jumpstart-your-career-no-experience-no-problem-4e44",
+  "publish_date": "2024-12-13",
+  "published_at": "2024-12-13T11:17:11Z"
+ },
+ {
+  "id": 2154731,
+  "title": "Stop Building Messy APIs! Here's Your Clean Code Guide🚀",
+  "description": "API and RESTful API are fundamental concepts that every programmer should be familiar with. When...",
+  "cover_image": "",
+  "slug": "stop-building-messy-apis-heres-your-clean-code-guide-4h95",
+  "url": "https://dev.to/geekvergil/stop-building-messy-apis-heres-your-clean-code-guide-4h95",
+  "publish_date": "2024-12-13",
+  "published_at": "2024-12-13T09:59:13Z"
+ },
+ {
+  "id": 2154403,
+  "title": "Choosing the Best Bulk Email Marketing Services for Your Business Needs",
+  "description": "Are you struggling to connect with your audience and boost sales? Does your email marketing strategy...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F91j684gsx9jh71bamfpe.png",
+  "slug": "choosing-the-best-bulk-email-marketing-services-for-your-business-needs-20il",
+  "url": "https://dev.to/sam_devid_65bbbe34ab06c1a/choosing-the-best-bulk-email-marketing-services-for-your-business-needs-20il",
+  "publish_date": "2024-12-13",
+  "published_at": "2024-12-13T05:39:54Z"
+ },
+ {
+  "id": 2154258,
+  "title": "The Best Free Alternative to IntelliJ HTTP Client",
+  "description": "The IntelliJ HTTP client is a robust tool built into IntelliJ IDEA, enabling developers to test and...",
+  "cover_image": "",
+  "slug": "the-best-free-alternative-to-intellij-http-client-21f1",
+  "url": "https://dev.to/apilover/the-best-free-alternative-to-intellij-http-client-21f1",
+  "publish_date": "2024-12-13",
+  "published_at": "2024-12-13T03:10:01Z"
+ },
+ {
   "id": 2153320,
   "title": "Minecraft on Kubernetes: A Dev Platform Example",
   "description": "It’s been years since I last played Minecraft, but recently, I found myself itching to jump back in....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/rohan_sharma/top-3-open-source-events-that-will-make-your-october-memorable-4hce",
   "publish_date": "2024-09-05",
   "published_at": "2024-09-05T09:39:54Z"
- },
- {
-  "id": 1979231,
-  "title": "Join us for the next Frontend Challenge: Space Edition 👾🪐👽",
-  "description": "We just launched a new Frontend Challenge!  Running through September 15, Frontend Challenge: Space...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fomin6j0xmiilcsfy872m.png",
-  "slug": "join-us-for-the-next-frontend-challenge-space-edition-2d9g",
-  "url": "https://dev.to/devteam/join-us-for-the-next-frontend-challenge-space-edition-2d9g",
-  "publish_date": "2024-09-04",
-  "published_at": "2024-09-04T16:02:17Z"
- },
- {
-  "id": 1986883,
-  "title": "Encore.ts — 17x Faster cold starts than NestJS \u0026 Fastify",
-  "description": "A couple of months ago we released Encore.ts — an Open Source backend framework for...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmpimvav6a2d8uusffz7t.png",
-  "slug": "encorets-17x-faster-cold-starts-than-nestjs-fastify-27cg",
-  "url": "https://dev.to/encore/encorets-17x-faster-cold-starts-than-nestjs-fastify-27cg",
-  "publish_date": "2024-09-04",
-  "published_at": "2024-09-04T15:13:29Z"
- },
- {
-  "id": 1986798,
-  "title": "Turn DevOps to MLOps Pipelines With This Open-Source Tool",
-  "description": "It’s scary to learn that over 80% of machine learning[ML] model deployment procedures. Even among...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fcvztaqi7l0tjzhrq6fb3.jpg",
-  "slug": "turn-devops-to-mlops-pipelines-with-this-open-source-tool-3ehc",
-  "url": "https://dev.to/kitops/turn-devops-to-mlops-pipelines-with-this-open-source-tool-3ehc",
-  "publish_date": "2024-09-04",
-  "published_at": "2024-09-04T13:25:25Z"
- },
- {
-  "id": 1970417,
-  "title": "Dockerizing a Golang API with MySQL and adding Docker Compose Support",
-  "description": "Developing and testing APIs locally connected to a database is no joke. The database often becomes a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fucpxcqkjhe4q78mnkzii.png",
-  "slug": "dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1",
-  "url": "https://dev.to/pradumnasaraf/dockerizing-a-golang-api-with-mysql-and-adding-docker-compose-support-9b1",
-  "publish_date": "2024-09-04",
-  "published_at": "2024-09-04T07:04:33Z"
- },
- {
-  "id": 1986353,
-  "title": "Eureka and Consul - Service Discovery Tools",
-  "description": "Two common service discovery tools that you might have implemented in a Spring Boot microservice...",
-  "cover_image": "",
-  "slug": "eureka-and-consul-service-discovery-tools-inc",
-  "url": "https://dev.to/jottyjohn/eureka-and-consul-service-discovery-tools-inc",
-  "publish_date": "2024-09-04",
-  "published_at": "2024-09-04T06:44:28Z"
  }
 ]
