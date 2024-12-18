@@ -1,5 +1,55 @@
 [
  {
+  "id": 2161571,
+  "title": "No-Code Tools: Should Developers Worry or Embrace the Future?",
+  "description": "Imagine building a fully functional website, a custom app or an automated workflow without writing a...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxjp40x600k1ufh4fo7l7.png",
+  "slug": "no-code-tools-should-developers-worry-or-embrace-the-future-3noc",
+  "url": "https://dev.to/mukhilpadmanabhan/no-code-tools-should-developers-worry-or-embrace-the-future-3noc",
+  "publish_date": "2024-12-17",
+  "published_at": "2024-12-17T19:13:25Z"
+ },
+ {
+  "id": 2157739,
+  "title": "Introducing CaptainAgent for Adaptive Team Building",
+  "description": "Authors: Jiale Liu, Linxin Song, Jieyu Zhang, Shaokun Zhang, Qingyun Wu      TL;DR   We...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fryc5i1rg3m6a9u0oyypo.png",
+  "slug": "introducing-captainagent-for-adaptive-team-building-3im6",
+  "url": "https://dev.to/ag2ai/introducing-captainagent-for-adaptive-team-building-3im6",
+  "publish_date": "2024-12-17",
+  "published_at": "2024-12-17T15:22:51Z"
+ },
+ {
+  "id": 2159106,
+  "title": "👋🏻Goodbye Power BI! 📊 In 2025 Build AI/ML Dashboards Entirely Within Python 🤖",
+  "description": "TL;DR   December 2024 – The rise of data-driven decision-making has pushed businesses,...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Friw83pnfr0lgcs68mrnz.png",
+  "slug": "goodbye-power-bi-in-2025-build-aiml-dashboards-entirely-within-python-4l22",
+  "url": "https://dev.to/taipy/goodbye-power-bi-in-2025-build-aiml-dashboards-entirely-within-python-4l22",
+  "publish_date": "2024-12-17",
+  "published_at": "2024-12-17T14:54:55Z"
+ },
+ {
+  "id": 2161028,
+  "title": "Building and Deploying TypeScript Microservices to Kubernetes",
+  "description": "Building and deploying a microservices application can be very challenging. This is usually because,...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq8jei5qtmeckkmdx7hfj.png",
+  "slug": "building-and-deploying-typescript-microservices-to-kubernetes-3110",
+  "url": "https://dev.to/encore/building-and-deploying-typescript-microservices-to-kubernetes-3110",
+  "publish_date": "2024-12-17",
+  "published_at": "2024-12-17T13:40:45Z"
+ },
+ {
+  "id": 2160283,
+  "title": "10 Game-Changing Frontend Tools You Can't Afford to Miss in 2025🔥",
+  "description": "As 2024 comes to a close and 2025 is just around the corner, it's crucial for front-end developers to...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmnwm47x492qfinlppom3.png",
+  "slug": "10-game-changing-frontend-tools-you-cant-afford-to-miss-in-2025-2jl6",
+  "url": "https://dev.to/geekvergil/10-game-changing-frontend-tools-you-cant-afford-to-miss-in-2025-2jl6",
+  "publish_date": "2024-12-17",
+  "published_at": "2024-12-17T08:18:04Z"
+ },
+ {
   "id": 2159753,
   "title": "Code Better, Debug Smarter: Tips Every Developer Needs",
   "description": "Programming isn't just about writing code -- it's about writing better, faster, and smarter code....",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/jayantbh/frontend-dev-data-structures-algorithms-how-dsa-can-power-your-react-app-491a",
   "publish_date": "2024-09-08",
   "published_at": "2024-09-08T09:01:48Z"
- },
- {
-  "id": 1990888,
-  "title": "Secure your app in a few lines of code using Arcjet! ✈️",
-  "description": "Hi there! I belong to the 21st century. Oh, wait! You too?? Then you must be using something to add...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fw82tvptzkhaui6geja5m.gif",
-  "slug": "secure-your-app-in-a-few-lines-of-code-using-arcjet-2cbb",
-  "url": "https://dev.to/rohan_sharma/secure-your-app-in-a-few-lines-of-code-using-arcjet-2cbb",
-  "publish_date": "2024-09-07",
-  "published_at": "2024-09-07T16:33:45Z"
- },
- {
-  "id": 1990734,
-  "title": "Miracle UI - React component library",
-  "description": "Hello everyone, I'd like to introduce you to my project Miracle UI, a component library built...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1zuvz7tpnebvpl30kxz4.png",
-  "slug": "miracle-ui-react-component-library-34pb",
-  "url": "https://dev.to/miguelrodriguezp99/miracle-ui-react-component-library-34pb",
-  "publish_date": "2024-09-07",
-  "published_at": "2024-09-07T14:07:53Z"
- },
- {
-  "id": 1988848,
-  "title": "🤯Powerful AI Tools You Should Know v2🫵",
-  "description": "Hello  Devs👋  Nowadays there are many AI tools available but, the right tools can make all the...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4lyzc61gqupp36wvdcm.png",
-  "slug": "powerful-ai-tools-you-should-know-v2-2l1o",
-  "url": "https://dev.to/dev_kiran/powerful-ai-tools-you-should-know-v2-2l1o",
-  "publish_date": "2024-09-07",
-  "published_at": "2024-09-07T14:00:00Z"
- },
- {
-  "id": 1990381,
-  "title": "Proven Tips to Boost Your Blog Readership",
-  "description": "Learn how I manage to earn more than $100 for multiple stories.  I have been blessed to have many...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flne75fz8kcajo41bqnpy.gif",
-  "slug": "proven-tips-to-boost-your-blog-readership-42jd",
-  "url": "https://dev.to/csharp-programming/proven-tips-to-boost-your-blog-readership-42jd",
-  "publish_date": "2024-09-07",
-  "published_at": "2024-09-07T10:26:54Z"
- },
- {
-  "id": 1990136,
-  "title": "DevOps for Beginners: A Complete Roadmap to Get Started",
-  "description": "Introduction  The tech landscape is evolving rapidly, and DevOps has emerged as a crucial methodology...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0dzm6x8fshju8p1du0q8.png",
-  "slug": "devops-for-beginners-a-complete-roadmap-to-get-started-2863",
-  "url": "https://dev.to/prodevopsguytech/devops-for-beginners-a-complete-roadmap-to-get-started-2863",
-  "publish_date": "2024-09-07",
-  "published_at": "2024-09-07T05:31:16Z"
  }
 ]
