@@ -1,5 +1,55 @@
 [
  {
+  "id": 2163694,
+  "title": "Github's Top 31 items of Dec 18, 2024",
+  "description": "Bodo – high-performance compute engine for Python data processing  Website URL: ...",
+  "cover_image": "",
+  "slug": "githubs-top-31-items-of-dec-18-2024-5k5",
+  "url": "https://dev.to/gittech/githubs-top-31-items-of-dec-18-2024-5k5",
+  "publish_date": "2024-12-18",
+  "published_at": "2024-12-18T17:58:12Z"
+ },
+ {
+  "id": 2157925,
+  "title": "Building Swarm-based agents with AG2",
+  "description": "Authors: Yiran Wu, Mark Sze      AG2 now provides an implementation of the swarm...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Feymkhcya5waklud47bdi.png",
+  "slug": "building-swarm-based-agents-with-ag2-aj8",
+  "url": "https://dev.to/ag2ai/building-swarm-based-agents-with-ag2-aj8",
+  "publish_date": "2024-12-18",
+  "published_at": "2024-12-18T16:24:00Z"
+ },
+ {
+  "id": 2162738,
+  "title": "Best Memes of Anime Girls Holding Programming Books",
+  "description": "C                  C++                  Javascript                  Java                 ...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F2jggav7y6op2ymarlfrs.jpg",
+  "slug": "best-memes-of-anime-girls-holding-programming-books-1bi4",
+  "url": "https://dev.to/dev_girl/best-memes-of-anime-girls-holding-programming-books-1bi4",
+  "publish_date": "2024-12-18",
+  "published_at": "2024-12-18T09:30:35Z"
+ },
+ {
+  "id": 2162471,
+  "title": "From Sunshine to Snowfall: Crafting Weather-Based UIs with DevCycle Feature Flag Challenge",
+  "description": "This is a submission for the DevCycle Feature Flag Challenge: Feature Flag Funhouse           What I...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fapthamhznralxfbgf4bc.png",
+  "slug": "from-sunshine-to-snowfall-crafting-weather-based-uis-with-devcycle-feature-flag-challenge-2m5j",
+  "url": "https://dev.to/chintanonweb/from-sunshine-to-snowfall-crafting-weather-based-uis-with-devcycle-feature-flag-challenge-2m5j",
+  "publish_date": "2024-12-18",
+  "published_at": "2024-12-18T08:55:22Z"
+ },
+ {
+  "id": 2162273,
+  "title": "Choosing the Right Provider for Mass Email Services in 2025",
+  "description": "Have you ever wondered why your meticulously crafted email campaigns fail to reach the intended...",
+  "cover_image": "",
+  "slug": "choosing-the-right-provider-for-mass-email-services-in-2025-mop",
+  "url": "https://dev.to/sam_devid_65bbbe34ab06c1a/choosing-the-right-provider-for-mass-email-services-in-2025-mop",
+  "publish_date": "2024-12-18",
+  "published_at": "2024-12-18T05:38:18Z"
+ },
+ {
   "id": 2161571,
   "title": "No-Code Tools: Should Developers Worry or Embrace the Future?",
   "description": "Imagine building a fully functional website, a custom app or an automated workflow without writing a...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/murilogervasio/how-to-make-multi-tenant-applications-with-nestjs-and-a-prisma-proxy-to-automatically-filter-tenant-queries--4kl2",
   "publish_date": "2024-09-09",
   "published_at": "2024-09-09T00:08:20Z"
- },
- {
-  "id": 1992552,
-  "title": "HTTP Cookies Demystified: A Web Developer's Guide",
-  "description": "Understanding HTTP Cookies in Web Development   In this article, we'll explore the ins and...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fab790xmsl102jhifj89c.PNG",
-  "slug": "http-cookies-demystified-a-web-developers-guide-5e2d",
-  "url": "https://dev.to/hinedy/http-cookies-demystified-a-web-developers-guide-5e2d",
-  "publish_date": "2024-09-08",
-  "published_at": "2024-09-08T21:49:47Z"
- },
- {
-  "id": 1992173,
-  "title": "Por que é necessário Codar Fofo?",
-  "description": "A necessidade de qualidade de software é um tópico de debate em quase todas as áreas de...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnzevywmmoqeafhtbiti1.jpeg",
-  "slug": "por-que-e-necessario-codar-fofo-4p6h",
-  "url": "https://dev.to/loremimpsu/por-que-e-necessario-codar-fofo-4p6h",
-  "publish_date": "2024-09-08",
-  "published_at": "2024-09-08T19:20:07Z"
- },
- {
-  "id": 1992254,
-  "title": "Python Library that auto-solves TikTok's captchas and lets you upload/schedule videos with TikTok sounds and hashtags",
-  "description": "I released my first python library recently, it is mostly playwright based code but also uses a...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fmz6ujvmwptl6rbe6qt9v.jpg",
-  "slug": "python-library-that-auto-solves-tiktoks-captchas-and-lets-you-uploadschedule-videos-with-tiktok-sounds-and-hashtags-5h4f",
-  "url": "https://dev.to/haziq_exe/python-library-that-auto-solves-tiktoks-captchas-and-lets-you-uploadschedule-videos-with-tiktok-sounds-and-hashtags-5h4f",
-  "publish_date": "2024-09-08",
-  "published_at": "2024-09-08T17:29:11Z"
- },
- {
-  "id": 1991868,
-  "title": "10 Chrome extension to make you 10x webdeveloper",
-  "description": "In webdevelopment, having the right tools at your disposal can make a significant difference in your...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp27tgw2y48higr8bohio.png",
-  "slug": "10-chrome-extension-to-make-you-10x-webdeveloper-4im9",
-  "url": "https://dev.to/paul_freeman/10-chrome-extension-to-make-you-10x-webdeveloper-4im9",
-  "publish_date": "2024-09-08",
-  "published_at": "2024-09-08T10:59:50Z"
- },
- {
-  "id": 1991850,
-  "title": "Frontend Dev + Data Structures \u0026 Algorithms: How DSA Can Power Your React App ⚡",
-  "description": "Frontend focused interviews often don’t care about DSA at all.  And for those of us that remember...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fivfpbxw46rklqj40wtqy.png",
-  "slug": "frontend-dev-data-structures-algorithms-how-dsa-can-power-your-react-app-491a",
-  "url": "https://dev.to/jayantbh/frontend-dev-data-structures-algorithms-how-dsa-can-power-your-react-app-491a",
-  "publish_date": "2024-09-08",
-  "published_at": "2024-09-08T09:01:48Z"
  }
 ]
