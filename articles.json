@@ -1,5 +1,55 @@
 [
  {
+  "id": 2168360,
+  "title": "Generative AI: A Personal Deep Dive - My Notes and Insights Part-2",
+  "description": "Welcome back to part 2 of my series, Personal Deep Dive: My Notes and Insights. If you found the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fc1utkqugddo3wkiea28a.png",
+  "slug": "generative-ai-a-personal-deep-dive-my-notes-and-insights-part-2-1l71",
+  "url": "https://dev.to/programmerraja/generative-ai-a-personal-deep-dive-my-notes-and-insights-part-2-1l71",
+  "publish_date": "2024-12-21",
+  "published_at": "2024-12-21T13:24:22Z"
+ },
+ {
+  "id": 2167691,
+  "title": "Part 1: Master Authentication and Role-Based Access Control (RBAC) with Kinde and Convex in a File-Sharing Application",
+  "description": "Kinde is an authentication and identity management platform that helps developers implement secure...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fhx37ecpa66utx4mkzfkk.png",
+  "slug": "part-1-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-h3c",
+  "url": "https://dev.to/sholajegede/part-1-master-authentication-and-role-based-access-control-rbac-with-kinde-and-convex-in-a-h3c",
+  "publish_date": "2024-12-21",
+  "published_at": "2024-12-21T11:51:10Z"
+ },
+ {
+  "id": 2168222,
+  "title": "5 Open-Source AI Tools You’ve Probably Missed.",
+  "description": "When we hear \"AI tools,\" our minds often default to ChatGPT or similar conversational AI. And while...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fq8o7vowdpr45q12t9mdy.png",
+  "slug": "5-open-source-ai-tools-youve-probably-missed-1fc3",
+  "url": "https://dev.to/balrajola/5-open-source-ai-tools-youve-probably-missed-1fc3",
+  "publish_date": "2024-12-21",
+  "published_at": "2024-12-21T11:43:26Z"
+ },
+ {
+  "id": 2168063,
+  "title": "A Pleasant Work Environment = Better Productivity",
+  "description": "A pleasant work environment isn't just an office space; it's a place where we spend most of our day....",
+  "cover_image": "",
+  "slug": "a-pleasant-work-environment-better-productivity-jil",
+  "url": "https://dev.to/nozibul_islam_113b1d5334f/a-pleasant-work-environment-better-productivity-jil",
+  "publish_date": "2024-12-21",
+  "published_at": "2024-12-21T09:06:05Z"
+ },
+ {
+  "id": 2167571,
+  "title": "Important Topics for Frontend Developers to Master in 2025",
+  "description": "Becoming a strong frontend developer requires more than just coding skills. It demands a deep...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fm9lywd6fwmh4c92sro63.jpg",
+  "slug": "important-topics-for-frontend-developers-to-master-in-2025-59jo",
+  "url": "https://dev.to/moibra/important-topics-for-frontend-developers-to-master-in-2025-59jo",
+  "publish_date": "2024-12-21",
+  "published_at": "2024-12-21T07:00:00Z"
+ },
+ {
   "id": 2167193,
   "title": "Today's Top 30+ items of Github - Dec 20, 2024",
   "description": "fastapi-injectable – Use FastAPI Depends() anywhere even outside routes  Website URL: ...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/vyan/understanding-local-storage-in-javascript-25e5",
   "publish_date": "2024-09-12",
   "published_at": "2024-09-12T04:57:49Z"
- },
- {
-  "id": 1997046,
-  "title": "Building in public a SaaS for $9K",
-  "description": "Hi friends 👋  I'm currently working on building a SaaS platform to help Pilates studios manage...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbupqj7r0642p32dm1j9m.png",
-  "slug": "building-in-public-a-saas-for-9k-3odb",
-  "url": "https://dev.to/oba2311/building-in-public-a-saas-for-9k-3odb",
-  "publish_date": "2024-09-11",
-  "published_at": "2024-09-11T16:10:03Z"
- },
- {
-  "id": 1992036,
-  "title": "How to Add RBAC Authorization in Next.js",
-  "description": "Authorization, the process in our applications that determines what users can perform on which...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fjdfvempfrzz376nh609l.png",
-  "slug": "how-to-add-rbac-authorization-in-nextjs-16m3",
-  "url": "https://dev.to/studio1hq/how-to-add-rbac-authorization-in-nextjs-16m3",
-  "publish_date": "2024-09-11",
-  "published_at": "2024-09-11T14:41:41Z"
- },
- {
-  "id": 1996341,
-  "title": "Opaque token vs JWT",
-  "description": "Understand the differences between opaque tokens and JWTs, their use cases, and how they are...",
-  "cover_image": "",
-  "slug": "opaque-token-vs-jwt-54l7",
-  "url": "https://dev.to/logto/opaque-token-vs-jwt-54l7",
-  "publish_date": "2024-09-11",
-  "published_at": "2024-09-11T06:34:59Z"
- },
- {
-  "id": 1996255,
-  "title": "Exciting New Features in ECMAScript 2024 (ES15)",
-  "description": "JavaScript continues to evolve, and the upcoming ECMAScript 2024 (ES15) brings a host of new features...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3q6dsons2tofy9wlbcsc.jpg",
-  "slug": "exciting-new-features-in-ecmascript-2024-es15-48p9",
-  "url": "https://dev.to/vyan/exciting-new-features-in-ecmascript-2024-es15-48p9",
-  "publish_date": "2024-09-11",
-  "published_at": "2024-09-11T05:01:49Z"
- },
- {
-  "id": 1996168,
-  "title": "Conventional commits won't save your commit messages",
-  "description": "Explore why simply following conventional commits isn't enough to write good commit messages, and...",
-  "cover_image": "",
-  "slug": "conventional-commits-wont-save-your-commit-messages-4ne8",
-  "url": "https://dev.to/logto/conventional-commits-wont-save-your-commit-messages-4ne8",
-  "publish_date": "2024-09-11",
-  "published_at": "2024-09-11T03:03:48Z"
  }
 ]
