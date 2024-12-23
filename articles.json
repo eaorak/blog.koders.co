@@ -1,5 +1,55 @@
 [
  {
+  "id": 2169717,
+  "title": "Programming Tips and Tricks Across Elixir, Clojure, and Nim",
+  "description": "As programmers, we're always on the hunt for ways to sharpen our skills and create better, faster,...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffi8s83r22p3h67487iwd.png",
+  "slug": "programming-tips-and-tricks-across-elixir-clojure-and-nim-4fd1",
+  "url": "https://dev.to/0x3d_site/programming-tips-and-tricks-across-elixir-clojure-and-nim-4fd1",
+  "publish_date": "2024-12-22",
+  "published_at": "2024-12-22T16:05:53Z"
+ },
+ {
+  "id": 2169574,
+  "title": "5 Best Docker Books for Beginners",
+  "description": "Getting started with Docker can feel overwhelming, but having the right resources makes all the...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fnxq275iwyex33uqpoaat.jpg",
+  "slug": "5-best-docker-books-for-beginners-4k38",
+  "url": "https://dev.to/bobbyiliev/5-best-docker-books-for-beginners-4k38",
+  "publish_date": "2024-12-22",
+  "published_at": "2024-12-22T13:42:40Z"
+ },
+ {
+  "id": 2168929,
+  "title": "Aeon's Surreal Renaissance: Learn SurrealDB Through a Story",
+  "description": "We are thrilled to have published Aeon’s Surreal Renaissance, SurrealDB’s inaugural book as part of...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqv6ca80b5zzaf97yboa5.jpg",
+  "slug": "aeons-surreal-renaissance-learn-surrealdb-through-a-story-53kd",
+  "url": "https://dev.to/surrealdb/aeons-surreal-renaissance-learn-surrealdb-through-a-story-53kd",
+  "publish_date": "2024-12-22",
+  "published_at": "2024-12-22T10:02:20Z"
+ },
+ {
+  "id": 2169246,
+  "title": "New 47 GitHub Repositories - OpenSource of Dec 20, 2024",
+  "description": "Tads Basic Game Objects, Lightweight JavaScript Library  Website URL: ...",
+  "cover_image": "",
+  "slug": "new-47-github-repositories-opensource-of-dec-20-2024-4l5p",
+  "url": "https://dev.to/gittech/new-47-github-repositories-opensource-of-dec-20-2024-4l5p",
+  "publish_date": "2024-12-22",
+  "published_at": "2024-12-22T07:40:16Z"
+ },
+ {
+  "id": 2169020,
+  "title": "Chatting with Mood: A Dynamic Theme Switcher Powered by DevCycle",
+  "description": "This is a submission for the DevCycle Feature Flag Challenge: Feature Flag Funhouse           What I...",
+  "cover_image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fr3atvyyzc6499wjgiey7.png",
+  "slug": "chatting-with-mood-a-dynamic-theme-switcher-powered-by-devcycle-fao",
+  "url": "https://dev.to/programmerraja/chatting-with-mood-a-dynamic-theme-switcher-powered-by-devcycle-fao",
+  "publish_date": "2024-12-22",
+  "published_at": "2024-12-22T01:53:13Z"
+ },
+ {
   "id": 2168360,
   "title": "Generative AI: A Personal Deep Dive - My Notes and Insights Part-2",
   "description": "Welcome back to part 2 of my series, Personal Deep Dive: My Notes and Insights. If you found the...",
@@ -4948,55 +4998,5 @@
   "url": "https://dev.to/middleware/vuejs-a-speed-demon-or-just-a-high-risk-gambler-327l",
   "publish_date": "2024-09-13",
   "published_at": "2024-09-13T04:49:30Z"
- },
- {
-  "id": 1996803,
-  "title": "13 top open-source tools to ship your apps faster ⚡🚀",
-  "description": "TL;DR   I have worked with many successful developers from different pre-seed and seed-stage...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F0pv00ncqag9vo0q0q5or.gif",
-  "slug": "13-top-open-source-tools-to-ship-your-apps-faster-4ihl",
-  "url": "https://dev.to/composiodev/13-top-open-source-tools-to-ship-your-apps-faster-4ihl",
-  "publish_date": "2024-09-12",
-  "published_at": "2024-09-12T15:40:42Z"
- },
- {
-  "id": 1998338,
-  "title": "What-if I Told You Complex Data Integration Makes Good Task Orchestration?",
-  "description": "No matter how complex your data problem is, you can always Divide \u0026amp; Conquer it.  In this article,...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpr6l31wcvglu9xdoivcy.gif",
-  "slug": "what-if-i-told-you-complex-data-integration-makes-good-task-orchestration-3219",
-  "url": "https://dev.to/taipy/what-if-i-told-you-complex-data-integration-makes-good-task-orchestration-3219",
-  "publish_date": "2024-09-12",
-  "published_at": "2024-09-12T15:24:17Z"
- },
- {
-  "id": 1997353,
-  "title": "A Complete Guide to Filtering in Vector Search",
-  "description": "Imagine you sell computer hardware. To help shoppers easily find products on your website, you need...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxiyw305qdi1qlw28jclf.png",
-  "slug": "a-complete-guide-to-filtering-in-vector-search-33lk",
-  "url": "https://dev.to/qdrant/a-complete-guide-to-filtering-in-vector-search-33lk",
-  "publish_date": "2024-09-12",
-  "published_at": "2024-09-12T14:45:10Z"
- },
- {
-  "id": 1997278,
-  "title": "🎉 Join a squad, contribute code, and win awesome swag from 10 amazing sponsors 🚀",
-  "description": "TL;DR, we created a fantastic event where you can contribute code for any AI repository and get...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ffmrlcjzfuzg11vq8480l.gif",
-  "slug": "join-a-squad-contribute-code-and-win-awesome-swag-from-10-amazing-sponsors-5b12",
-  "url": "https://dev.to/nevodavid/join-a-squad-contribute-code-and-win-awesome-swag-from-10-amazing-sponsors-5b12",
-  "publish_date": "2024-09-12",
-  "published_at": "2024-09-12T11:06:44Z"
- },
- {
-  "id": 1997631,
-  "title": "Understanding Local Storage in JavaScript",
-  "description": "Local Storage is an essential browser-based API that allows developers to store, retrieve, and manage...",
-  "cover_image": "https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9oyu8278whbi7c9toqu3.jpg",
-  "slug": "understanding-local-storage-in-javascript-25e5",
-  "url": "https://dev.to/vyan/understanding-local-storage-in-javascript-25e5",
-  "publish_date": "2024-09-12",
-  "published_at": "2024-09-12T04:57:49Z"
  }
 ]
